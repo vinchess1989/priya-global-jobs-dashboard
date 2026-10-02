@@ -1,0 +1,281 @@
+Title: Lead Technical Writer
+Company: Blackpoint Cyber
+Location: Canada
+URL: https://ca.linkedin.com/jobs/view/lead-technical-writer-at-blackpoint-cyber-4470700858
+Posted: 2026-09-26
+Deadline: N/A
+Reason: The job aligns with Priya's background as a Technical Communication Specialist and her experience in documentation ownership, knowledge base management, and collaboration with SMEs, all within Canada (a target country).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Lead Technical Writer
+Blackpoint Cyber  Canada
+1 week ago  106 applicants
+  
+
+See who Blackpoint Cyber has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Blackpoint Cyber is the leading provider of world-class cybersecurity threat hunting, detection and remediation technology. Founded by former National Security Agency (NSA) cyber operations experts who applied their learnings to bring national security-grade technology solutions to commercial customers around the world, Blackpoint Cyber is in hyper-growth mode, fueled by a recent $190m series C round.
+
+About Blackpoint Cyber
+
+Blackpoint Cyber is a leading provider of cybersecurity threat hunting, detection, and remediation technology. Founded by former National Security Agency (NSA) cyber operations experts, our company brings national security-grade solutions to commercial customers worldwide. We are in a period of hyper-growth, recently fueled by a $190 million Series C round.
+
+Our Mission & Values
+
+At Blackpoint, our mission is to provide absolute and unified Managed Detection and Response services to organizations across the globe. Our team, comprised of former Department of Defense and Intelligence security experts, is dedicated to stopping malicious tradecraft and safeguarding Managed Service Provider (MSP) operations. We value high-quality execution, ownership, and strong ethics, always striving to do right by our customers. We foster an energetic, collaborative, and high-performance culture, encouraging growth through overcoming modern cybersecurity challenges.
+
+Position Summary
+
+We are seeking a Technical Writer to take ownership of the Blackpoint knowledge base and turn it into a reliable, structured content platform for our internal teams, our customers, and our MSP partners. This is a full-time, permanent role with a clear initial mandate: rebuild a library of roughly 250 articles to a single standard, close a significant content gap, and establish the documentation discipline that keeps it current.
+
+Use of AI will be a force multiplier for drafting, holding a consistent voice and structure across products, and rewriting the same source content at different altitudes for different audiences You will verify procedures against the live product, chase down incomplete specs with engineers, judge what content needs to exist as the product evolves, capture institutional knowledge that was never written down, and be accountable for the knowledge base’s accuracy.
+
+The work is also foundational to Blackpoint’s AI strategy. We are moving toward AI-assisted and agentic support, and the quality, structure, and accuracy of our documentation is the baseline that capability depends on. You will write for two audiences at once: the person reading the article, and the retrieval system answering a support ticket from it.
+
+You will report to the Head of Product and work closely with Product Management, Technical Support, SOC and threat operations SMEs, and product marketing, using internal documentation and validated support ticket data as your source material.
+
+Key Responsibilities
+
+
+Standards & Style Guide: Define and own the Blackpoint documentation style guide and article templates, then enforce them consistently across the full knowledge base.
+Knowledge Base Rewrites: Rewrite approximately 150 stale, incomplete, or empty articles, grounding each in internal documentation, SME input, and validated support ticket data rather than assumption.
+Net-New Content: Author approximately 100 new articles covering troubleshooting, client lifecycle, billing workflows, MSP management at scale, and compliance guidance.
+Information Architecture: Build a persona-aligned information architecture that serves internal teams, customers, and partners distinctly, and map an end-to-end customer journey through the content.
+AI and Agentic Readiness: Structure content for machine retrieval — consistent headings, atomic topics, explicit prerequisites and outcomes, clean metadata and tagging, and no ambiguity that a retrieval system would resolve incorrectly.
+SME Collaboration: Run the SME process. Interview support engineers, SOC analysts, and product managers, extract accurate technical detail, and turn it into clear procedure without requiring SMEs to write.
+Data-Driven Prioritization: Use ticket volume and themes, search queries, article performance, and deflection data to decide what gets written, rewritten, and retired.
+Publishing Workflow & Governance: Establish the publishing workflow — named content owners, review SLAs, version control, and a freshness and audit cadence so the library does not decay again.
+Product Release Alignment: Work to the product release cadence so documentation ships with the feature, not after it.
+Quality & Accuracy: Validate every procedure you publish. Documentation in this environment is used during live security incidents and must be correct.
+
+
+Qualifications
+
+
+8+ years of professional technical writing experience, including ownership of a customer-facing knowledge base or help center at scale.
+Demonstrated experience running a structured content overhaul: audit, information architecture, template and style guide definition, and high-volume rewrites.
+Strong command of a documented style guide and topic-based, structured authoring principles.
+Proven ability to work directly with technical SMEs and produce accurate procedural content from interviews, internal docs, and ticket data.
+Experience writing for technical audiences in cybersecurity, IT operations, MSP/MSSP, or enterprise SaaS.
+Working knowledge of knowledge base and documentation platforms (for example Zendesk, Intercom, Confluence, Document360, or similar), plus Markdown and Git-based docs workflows.
+Comfort using content analytics and support data to prioritize work and demonstrate impact.
+Excellent written English, strong self-direction, and the ability to hold a quality bar under volume pressure.
+
+
+Preferred Qualifications
+
+
+Direct experience documenting MDR, EDR, SIEM, or managed security services, or writing for an MSP audience.
+Experience preparing a content corpus for AI-assisted support, RAG retrieval, or an agentic support workflow, including chunking, metadata, and evaluating retrieval quality.
+Familiarity with compliance frameworks referenced by our customers (CIS, NIST, SOC 2, HIPAA, PCI DSS, Essential Eight).
+Experience with API and integration documentation.
+Ability to produce supporting diagrams, screenshots, or short walkthrough videos.
+
+
+Success Measures — First Six Months
+
+
+Month 1: Full knowledge base audit complete, style guide and templates approved, prioritized backlog agreed with Product leadership.
+Month 3: Information architecture live, end-to-end customer journey published, priority rewrites shipped, publishing workflow and content ownership in place.
+Month 6: Library rebuilt to a single standard, net-new content gap closed, documentation validated as a source for AI-assisted tier 1 responses, and measurable movement in ticket deflection and time-to-resolution.
+
+
+Why Join Blackpoint?
+
+Be part of a team that is passionate about winning the unfair fight in cybersecurity and making a real impact by protecting organizations and their most valuable assets. We encourage driven professionals with a passion for learning and contributing toward excellence to join us in our mission.
+
+Blackpoint Cyber welcomes and encourages applications from qualified individuals of all races, colors, religions, sex, sexual orientation, gender identity or expression, national origin, age, marital status, or any other legally protected status. We are committed to equality of opportunity in all aspects of employment.
+
+For eligible employees in the US, Blackpoint offers competitive Health, Vision, Dental, and Life Insurance plans, a robust 401k plan, Discretionary Time Off, and other minor perks. International employees receive competitive benefits in accordance with local market standards and applicable country requirements.
+
+Blackpoint believes all employees should share in the company’s success – equity participation is available to employees globally, with program details varying by location and employment structure.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Computer and Network Security
+  
+
+Referrals increase your chances of interviewing at Blackpoint Cyber by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Technical Writer, VDI/EUC
+Technical Writer, VDI/EUC
+Softdrive
+Canada
+1 month ago
+Senior Technical Writer
+Senior Technical Writer
+Litmus
+Toronto, Ontario, Canada
+2 weeks ago
+Technical Writer
+Technical Writer
+Sonovision Canada - Ortec Group
+Ontario, Canada
+CA$26 - CA$40
+1 week ago
+Technical Writer - Remote 12 Month Contract
+Technical Writer - Remote 12 Month Contract
+Compugen Inc
+Winnipeg, Manitoba, Canada
+23 hours ago
+Lead Technical Writer
+Lead Technical Writer
+Eclipse Automation
+Cambridge, Ontario, Canada
+2 months ago
+Technical Writer III - Product Docs (Hybrid, Toronto)
+Technical Writer III - Product Docs (Hybrid, Toronto)
+CrowdStrike
+Greater Toronto Area, Canada
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Rédacteur technique bilingue
+Rédacteur technique bilingue
+
+Harris Computer
+
+Quebec, Canada
+3 weeks ago
+Technical Writer
+Technical Writer
+
+Bombardier
+
+Dorval, Quebec, Canada
+5 hours ago
+Learning & Development Specialist - Fraud / Disputes
+Learning & Development Specialist - Fraud / Disputes
+
+Mercury
+
+Canada
+2 weeks ago
+Technical Writer
+Technical Writer
+
+GeoSpectrum Technologies Inc.
+
+Dartmouth, Nova Scotia, Canada
+2 months ago
+Technical Writer S1000D
+Technical Writer S1000D
+
+LGM North America
+
+Montreal, Quebec, Canada
+2 weeks ago
+Technical Writer (Ottawa, Hybrid)
+Technical Writer (Ottawa, Hybrid)
+
+Entrust
+
+Greater Ottawa Metropolitan Area
+3 months ago
+Technical Writer II/Rédacteur ou rédactrice technique II
+Technical Writer II/Rédacteur ou rédactrice technique II
+
+Bluberi
+
+Dieppe, New Brunswick, Canada
+2 months ago
+Technical Writer II/Rédacteur ou rédactrice technique II
+Technical Writer II/Rédacteur ou rédactrice technique II
+
+Bluberi
+
+Moncton, New Brunswick, Canada
+3 weeks ago
+Product Knowledge Base Technical Writer
+Product Knowledge Base Technical Writer
+
+Survalent
+
+Greater Toronto Area, Canada
+3 days ago
+Technical Writer
+Technical Writer
+
+FNZ
+
+Toronto, Ontario, Canada
+1 week ago
+Similar Searches
+Senior Technical Writer jobs
+396 open jobs
+Lead Writer jobs
+537 open jobs
+Documentation Manager jobs
+2,050 open jobs
+Contract Technical Writer jobs
+123 open jobs
+Lead Editor jobs
+163 open jobs
+Information Developer jobs
+14,724 open jobs
+Technical Writer jobs
+1,614 open jobs
+Documentation Engineer jobs
+1,410 open jobs
+Principal Developer jobs
+3,411 open jobs
+Senior Content Developer jobs
+273 open jobs
+Freelance Copyeditor jobs
+66 open jobs
+Technical Editor jobs
+323 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
