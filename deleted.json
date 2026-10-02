@@ -1783,5 +1783,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Contractor Specialist Sales Tech Liaison (2 Year Contract)",
+    "company": "Toyota SA",
+    "location": "Sandton, Gauteng, South Africa",
+    "url": "https://za.linkedin.com/jobs/view/contractor-specialist-sales-tech-liaison-2-year-contract-at-toyota-sa-4463379139",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires a mechanical technician background and sales/technical liaison responsibilities, which do not align with the candidate's expertise in regulated-industry CI/CD/release management, technical documentation, and quality gatekeeping.",
+    "id": "c806cbd9",
+    "source": "linkedin_za_technical_writer",
+    "added_at": "2026-10-03T02:25:36+03:00",
+    "posted_date": "2026-09-05",
+    "deadline": "2026-09-28",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-09-28) passed by more than 2 days and unreviewed"
   }
 ]
