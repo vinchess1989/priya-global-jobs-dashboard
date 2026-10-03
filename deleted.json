@@ -1970,5 +1970,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Mechanical Design Engineer / Structural Analyst",
+    "company": "GRW Engineering (Pty) Ltd",
+    "location": "Worcester, South Africa",
+    "url": "https://www.pnet.co.za/jobs--Mechanical-Design-Engineer-Structural-Analyst-Worcester-GRW-Engineering-Pty-Ltd--4269886-inline.html",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires mechanical design and structural analysis expertise, which does not align with the candidate's background in configuration management, release engineering, and technical writing.",
+    "id": "157ef3e8",
+    "source": "pnet_requirements_engineer",
+    "added_at": "2026-10-03T06:25:17+03:00",
+    "posted_date": "2026-10-03",
+    "deadline": "2026-09-30",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-09-30) passed by more than 2 days and unreviewed"
   }
 ]
