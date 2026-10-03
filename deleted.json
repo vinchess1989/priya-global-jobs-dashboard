@@ -2038,5 +2038,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Integration Engineer",
+    "company": "Bank of Valletta plc",
+    "location": "Santa Venera, Santa Venera, Malta",
+    "url": "https://mt.linkedin.com/jobs/view/integration-engineer-at-bank-of-valletta-plc-4461993023",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job title 'Integration Engineer' focuses on development and implementation of integration solutions rather than release/configuration management, CI/CD ownership, or regulated compliance work that aligns with the candidate's background.",
+    "id": "cb3ca9b5",
+    "source": "linkedin_mt_quality_engineer",
+    "added_at": "2026-10-03T09:31:06+03:00",
+    "posted_date": "2026-09-26",
+    "deadline": "2026-09-18",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-09-18) passed by more than 2 days and unreviewed"
   }
 ]
