@@ -68088,8 +68088,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-03T00:25:26+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-03T06:33:28+03:00"
   },
   {
     "title": "2nd Line Support",
@@ -68105,8 +68105,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-03T00:25:26+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-03T06:33:28+03:00"
   },
   {
     "title": "Release Train Engineer",
@@ -68122,8 +68122,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-03T00:25:26+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-03T06:33:28+03:00"
   },
   {
     "title": "Systems Engineer",
@@ -68139,8 +68139,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-03T00:25:26+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-03T06:33:29+03:00"
   },
   {
     "title": "Desktop Consultant - DV cleared",
@@ -68156,8 +68156,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-03T00:25:26+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-03T06:33:29+03:00"
   },
   {
     "title": "Infrastructure Specialist",
@@ -68173,8 +68173,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-03T00:25:26+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-03T06:33:29+03:00"
   },
   {
     "title": "Principal Modern Workplace Consultant",
@@ -68190,8 +68190,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-03T00:25:26+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-03T06:33:29+03:00"
   },
   {
     "title": "Systems Engineer",
@@ -68207,8 +68207,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-03T00:25:27+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-03T06:33:29+03:00"
   },
   {
     "title": "Sanctions Control Delivery Lead",
@@ -68224,25 +68224,24 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-03T00:25:27+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-03T06:33:29+03:00"
   },
   {
     "title": "Alliance Configuration Management Engineer",
-    "company": "Extract from page",
+    "company": "BAM UK Ireland",
     "location": "Extract from page",
     "url": "https://www.totaljobs.com/job/alliance-configuration-management-engineer/bam-uk-ireland-job108073729",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "maybe",
+    "reason": "The job title aligns with Priya's configuration management expertise, but the location details are insufficient to confirm it falls within her target countries or requires visa sponsorship.",
     "id": "5b31a848",
     "source": "totaljobs_configuration_manager",
     "added_at": "2026-10-02T18:18:47+03:00",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-03T00:25:27+03:00"
+    "eval_model": "local/qwen/qwen3-14b"
   },
   {
     "title": "Engineering Configuration Manager (Defence/Aerospace)",
