@@ -1,0 +1,269 @@
+Title: Senior Software Engineer (SDE-3) - DevOps
+Company: Pluang
+Location: Gurugram, Haryana, India
+URL: https://in.linkedin.com/jobs/view/senior-software-engineer-sde-3-devops-at-pluang-4467373206
+Posted: 2026-09-26
+Deadline: N/A
+Reason: The job aligns with Priya's DevOps/CI-CD expertise (Jenkins, Terraform), is located in India (a target country), and matches her senior-level experience. The role involves infrastructure automation and configuration management, which fits the previously approved 'configuration management' constraint.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Software Engineer (SDE-3) - DevOps
+Pluang  Gurugram, Haryana, India
+1 week ago  179 applicants
+  
+
+See who Pluang has hired for this role
+
+Apply 
+Save
+
+Direct message the job poster from Pluang
+
+Vibhuti Juneja
+Vibhuti Juneja
+Deputy Head of Global Talent Acquisition & HR in India at Pluang | Fintech | One App for all Investments
+
+About us
+
+
+
+
+Pluang is Indonesia’s leading multi-asset investment platform, offering products such as Crypto, US stocks, mutual funds, and gold. At Pluang, we're on a mission to redefine the way people invest. As one of the fastest-growing fintech platforms in Indonesia, we empower users to achieve financial independence through a seamless, innovative, and secure investment experience.Explore more about us here!
+
+
+
+
+We’re looking for a passionate Sr. Software Engineer (SDE-3) - DevOps to optimize our cloud infrastructure and Service Mesh solutions. You’ll solve operational challenges, drive automation at scale, and collaborate to build secure, scalable systems. Expertise in cloud platforms, containerization, IaC, monitoring tools, and incident management will be essential for ensuring system reliability and supporting rapid growth.
+
+
+
+
+What You Will Do
+
+• Automate and manage scalable, reliable infrastructure using AWS, GCP, Service Mesh (Istio, Linkerd, Kong), Ansible, Bash, Python, and Linux.
+
+• Optimize system performance, troubleshoot issues, and collaborate with development teams to enhance infrastructure utilization, reduce costs, and ensure system reliability.
+
+• Design and implement robust CI/CD pipelines using Jenkins to enable efficient and reliable deployments.
+
+• Lead incident management efforts, develop response plans, and continuously improve operational processes to support Pluang’s growth.
+
+• Develop and maintain infrastructure-as-code (IaC) practices with Terraform for efficient cloud resource provisioning and management.
+
+
+
+
+What We're Looking For
+
+• Expertise in cloud platforms (AWS, GCP), Service Mesh (Istio, Linkerd, Kong), Docker, Kubernetes, and CI/CD tools (Jenkins).
+
+• Proficiency in monitoring and logging tools like ELK, Prometheus, and Grafana for end-to-end observability of critical APIs and workloads..
+
+• Solid experience with Terraform (IaC), Python for automation, and troubleshooting to optimize infrastructure and applications.
+
+• Knowledge of RDBMS (PostgreSQL) and NoSQL (MongoDB) databases for performance and reliability.
+
+• Experience in designing scalable and cost-optimized systems with secure, seamless service integrations.
+
+• Familiar with microservices architecture and API management concepts.
+
+• Fintech experience is a plus.
+
+
+
+
+We are an equal-opportunity employer and value diversity at our company. We do not discriminate based on race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+
+
+
+
+Want the inside scoop on our culture, the interview process, and the amazing team at Pluang? Click here to find out!
+
+
+
+
+Curious about what it's like to work with us? Get a glimpse of life at Pluang through the eyes of our team! Check out our Instagram!
+
+Show more 
+Seniority level
+Associate
+Employment type
+Full-time
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at Pluang by 2x
+
+See who you know
+
+Get notified about new Senior Software Engineer jobs in Gurugram, Haryana, India.
+
+Sign in to create job alert
+Similar jobs
+Senior DevOps Engineer
+Senior DevOps Engineer
+Expedia Group
+Gurgaon, Haryana, India
+2 days ago
+Senior Software Engineer II
+Senior Software Engineer II
+American Express
+Gurugram, Haryana, India
+2 weeks ago
+Sr Cloud DevOps Engineer
+Sr Cloud DevOps Engineer
+United Airlines India Knowledge Center
+Gurugram, Haryana, India
+1 hour ago
+DevSecOps Engineer
+DevSecOps Engineer
+McCormick & Company
+Gurugram, Haryana, India
+1 week ago
+DevOps Engineer
+DevOps Engineer
+Macquarie Group
+Gurugram, Haryana, India
+2 weeks ago
+ET - Senior DevOps Engineer
+ET - Senior DevOps Engineer
+EY
+Gurugram, Haryana, India
+3 days ago
+Show more jobs like this 
+People also viewed
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Recrew AI
+
+Gurugram, Haryana, India
+3 weeks ago
+Software Engineer 3
+Software Engineer 3
+
+MongoDB
+
+Gurugram, Haryana, India
+1 week ago
+Senior DevOps Delivery Engineer, Delivery
+Senior DevOps Delivery Engineer, Delivery
+
+Payoneer
+
+Gurugram, Haryana, India
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+TravClan
+
+New Delhi, Delhi, India
+5 hours ago
+Staff Engineer I, TSG Infrastructure
+Staff Engineer I, TSG Infrastructure
+
+Bain & Company
+
+Gurugram, Haryana, India
+3 days ago
+Platform & DevOps Engineer
+Platform & DevOps Engineer
+
+Plan A Technologies
+
+Gurugram, Haryana, India
+2 weeks ago
+Principal Engineer- Devops
+Principal Engineer- Devops
+
+Sirion
+
+Gurugram, Haryana, India
+1 week ago
+SDE-3
+SDE-3
+
+Cashfree
+
+Gurugram, Haryana, India
+2 weeks ago
+Devops Engineer - II (DOT)
+Devops Engineer - II (DOT)
+
+Deutsche Telekom Digital Labs
+
+Gurugram, Haryana, India
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Xebia
+
+Gurugram, Haryana, India
+22 hours ago
+Similar Searches
+Staff Software Engineer jobs
+11,667 open jobs
+Lead Software Engineer jobs
+14,294 open jobs
+Principal Software Engineer jobs
+12,675 open jobs
+Senior Java Software Engineer jobs
+14,340 open jobs
+Senior Staff Software Engineer jobs
+9,357 open jobs
+Senior System Software Engineer jobs
+8,592 open jobs
+Java Software Engineer jobs
+11,988 open jobs
+Software Engineering Team Lead jobs
+56,362 open jobs
+Full Stack Engineer jobs
+4,505 open jobs
+Senior Dotnet Developer jobs
+11,806 open jobs
+Senior Software Architect jobs
+10,429 open jobs
+Senior Information Developer jobs
+176 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Pluang
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
