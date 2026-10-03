@@ -1,0 +1,250 @@
+Title: Senior Associate, Dev Ops Engineer, SRE and Governance, Group Technology
+Company: DBS Bank
+Location: Singapore, Singapore
+URL: https://sg.linkedin.com/jobs/view/senior-associate-dev-ops-engineer-sre-and-governance-group-technology-at-dbs-bank-4459147998
+Posted: 2026-09-03
+Deadline: N/A
+Reason: The role aligns with Priya's DevOps/Release Management expertise in regulated environments, located in Singapore (target country), and matches her CI/CD/governance experience.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Associate, Dev Ops Engineer, SRE and Governance, Group Technology
+DBS Bank  Singapore, Singapore
+1 month ago  74 applicants
+  
+
+See who DBS Bank has hired for this role
+
+Apply 
+Save
+Business Function
+
+The Release & Deployment Team is responsible for governing, coordinating, and executing approved production and non-production releases, ensuring all deployments are delivered securely, reliably, and in compliance with change governance, audit, security, and regulatory requirements. The team plays a critical role in maintaining production stability, minimizing implementation risks, and driving continuous improvements through automation and standardization.
+
+Roles & Responsibilities
+
+
+Manage the end-to-end release and deployment lifecycle, including change review, planning, implementation, validation, reporting, and post-implementation support.
+Review and validate Change Requests (CRs) to ensure implementation readiness, scope completeness, technical feasibility, risk assessment, rollback preparedness, and compliance with governance standards.
+Coordinate with Application Support, Engineering, Infrastructure, Middleware, Database, Security, and Platform teams to resolve implementation dependencies and ensure successful change execution.
+Execute production, pre-production, DR, and UAT deployments in accordance with approved implementation plans, ensuring no unauthorized changes or deviations during execution.
+Perform application releases, middleware deployments, database script execution, configuration updates, platform changes, and privileged-access related implementations.
+Ensure all deployment activities are executed within approved change windows and conform to security, audit, and regulatory requirements.
+Manage privileged access activities using CyberArk and PAM solutions, including password retrieval, privileged session management, secure credential handling, and compliance with session recording and evidence-retention standards.
+Maintain segregation of duties and ensure deployment activities are performed only by authorized personnel.
+Conduct technical validations post-deployment and coordinate business validation with application and business stakeholders to ensure successful implementation outcomes.
+Capture and maintain deployment evidence, including execution logs, screenshots, session recordings, implementation reports, and audit artifacts.
+Provide Level-1 operational support for release and deployment-related incidents, deployment failures, production issues, and recovery activities.
+Participate in production war rooms, incident bridges, troubleshooting calls, and root cause investigations to restore services and improve operational resilience.
+Escalate implementation risks, deployment issues, and production-impacting events promptly to Release Managers, SMEs, and leadership teams.
+Drive continuous improvement through deployment automation, process optimization, CI/CD adoption, runbook standardization, and operational excellence initiatives.
+Analyze release and change data to identify trends, improve release success rates, reduce deployment risks, and provide actionable recommendations for process enhancement.
+Maintain deployment procedures, SOPs, knowledge repositories, and support cross-training initiatives to improve team capability, resiliency, and operational readiness.
+Support a dynamic 24x7 operating environment and demonstrate strong ownership during critical production releases and emergency implementations.
+
+
+Requirements
+
+
+4–8 years of experience in Release Management, Production Support, Change Management, DevOps Operations, Production Operations, or IT Operations.
+Experience in Banking or Financial Services environments is highly preferred.
+Experience working in regulated production environments with strong governance, audit, risk, and security controls.
+Strong understanding of release governance, production change management, deployment controls, and operational support processes.
+
+
+Technical Skills
+
+
+Strong foundation in Linux administration with working knowledge of Unix and Windows platforms.
+Experience supporting deployments across Production, Pre-Production, UAT, and Disaster Recovery environments.
+Knowledge of application deployment processes, middleware platforms, environment management, and configuration management.
+Basic understanding of Oracle, PostgreSQL, SQL execution, validation, and database deployment concepts.
+Experience with CyberArk, Privileged Access Management (PAM), password vaulting, and secure credential management practices.
+Familiarity with CI/CD concepts, DevOps practices, release automation tools, OpenShift platforms, and modern deployment frameworks.
+Understanding of ITIL, Change Management, Release Management, Governance Frameworks, and production operational controls.
+Knowledge of platform maintenance, operating system patching, middleware upgrades, and infrastructure lifecycle management.
+
+
+Core Competencies
+
+
+Strong risk, control, and compliance mindset with attention to detail.
+Excellent stakeholder management, communication, and coordination skills.
+Ability to perform effectively under pressure during high-risk and critical production releases.
+Strong analytical, troubleshooting, and problem-solving capabilities.
+Commitment to operational excellence, production stability, and continuous improvement.
+Ability to work collaboratively across Release Management, Engineering, Infrastructure, Security, Support, and Business teams.
+
+
+Location:
+
+DBS Asia Hub
+
+Job:
+
+Technology
+
+Schedule:
+
+Regular
+
+Employee Status:
+
+Full time
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Banking
+  
+
+Referrals increase your chances of interviewing at DBS Bank by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Singapore, Singapore.
+
+Sign in to create job alert
+Similar jobs
+Site Reliability Engineer
+Site Reliability Engineer
+Apple
+Singapore, Singapore
+4 months ago
+Sr. SRE
+Sr. SRE
+Visa
+Singapore, Singapore
+2 weeks ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+Apple
+Singapore, Singapore
+2 months ago
+Platform Engineer - Reliability - Elite FinTech - $140,000-$220,000 SGD + Bonus
+Platform Engineer - Reliability - Elite FinTech - $140,000-$220,000 SGD + Bonus
+Hunter Bond
+Singapore, Singapore
+SGD 140,000 - SGD 200,000
+19 hours ago
+DevOps Engineer
+DevOps Engineer
+Accenture Southeast Asia
+Singapore, Singapore
+2 weeks ago
+DevOps & Kubernetes Engineer
+DevOps & Kubernetes Engineer
+Accenture Southeast Asia
+Singapore, Singapore
+2 weeks ago
+Show more jobs like this 
+People also viewed
+DevOps Engineer, Cloud Infra
+DevOps Engineer, Cloud Infra
+
+Binance
+
+Singapore, Singapore
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+BIOTRONIK
+
+Singapore, Singapore
+2 months ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+dtcpay
+
+Singapore, Singapore
+4 days ago
+DevOps Expert
+DevOps Expert
+
+Antaes Asia
+
+Singapore, Singapore
+SGD 8,000 - SGD 11,500
+2 weeks ago
+DevSecOps Engineer
+DevSecOps Engineer
+
+Capgemini Engineering
+
+Singapore
+1 week ago
+Senior DevOps Engineer - Singapore
+Senior DevOps Engineer - Singapore
+
+NinjaOne
+
+Singapore, Singapore
+2 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+StarHub
+
+Singapore, Singapore
+2 weeks ago
+Site Reliability Engineer - TikTok Shop
+Site Reliability Engineer - TikTok Shop
+
+TikTok
+
+Singapore, Singapore
+2 weeks ago
+Senior Officer, Site Reliability Engineer
+Senior Officer, Site Reliability Engineer
+
+UOB
+
+Singapore, Singapore
+1 day ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+Sygnum Singapore
+
+Singapore, Singapore
+3 weeks ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at DBS Bank
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

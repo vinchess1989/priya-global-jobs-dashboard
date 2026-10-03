@@ -1,0 +1,246 @@
+Title: DevSecOps Engineer
+Company: Thales
+Location: Singapore, Singapore
+URL: https://sg.linkedin.com/jobs/view/devsecops-engineer-at-thales-4469730510
+Posted: 2026-09-26
+Deadline: N/A
+Reason: The role aligns with Priya's expertise in CI/CD pipelines (Jenkins/GitHub Actions), infrastructure-as-code (Terraform/Kubernetes), and regulated-industry compliance (ASPICE/TUV/ISO 13485) through her Elektrobit and Topcon experience, while matching the target country (Singapore) and DevOps-focused positive constraint.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevSecOps Engineer
+Thales  Singapore, Singapore
+1 week ago  46 applicants
+  
+
+See who Thales has hired for this role
+
+Apply 
+Save
+Location: Singapore, Singapore
+
+Thales is a global technology leader trusted by governments, institutions, and enterprises to tackle their most demanding challenges. From quantum applications and artificial intelligence to cybersecurity and 6G innovation, our solutions empower critical decisions rooted in human intelligence. Operating at the forefront of aerospace and space, cybersecurity and digital identity, we’re driven by a mission to build a future we can all trust.
+
+In Singapore, Thales has been a trusted partner since 1973, originally focused on aerospace activities in the Asia-Pacific region. With 2,000 employees across three local sites, we deliver cutting-edge solutions across aerospace (including air traffic management), defence and security, and digital identity and cybersecurity sectors. Together, we’re shaping the future by enabling customers to make pivotal decisions that safeguard communities and power progress.
+
+Responsibilities:
+
+
+Build and maintain CI/CD pipelines that support Agile teams and ARTs.
+Provision and manage environments (development, test, staging, production).
+Use infrastructure as Code (IaC) tools (i.e., Terraform, Helmfile, Ansible, Kubernetes Manifests) to ensure re-producibility and compliance.
+Ensure high availability and resilience in cloud and on-prem environments (e.g., zero-downtime deployment, blue/green and canary release strategies)
+Manage the automation and toolchain integration for code quality, security scanning, release management and monitoring; automate repetitive tasks to improve flow efficiency across the value stream, ensure the toolchain aligns with the Lean-Agile principles.
+Work closely with System Architects, Release Train Engineers (RTEs) and agile teams to align on delivery practices.
+Provide DevOps coaching to teams so they adopt the right practices for version control, branching strategies, and automated testing.
+Support Program Increment (PI) planning by ensuring environments and pipelines is ready.
+Develop security practices (e.g., Secrets Management) into the software delivery CI pipelines to ensure the artefacts are of the premium quality level (shift-left security).
+Automate compliance checks and enforce policies (e.g., code signing, container scanning).
+Develop systems observability practices (e.g., monitoring, logs, traces) to define and track metrics like deployment frequency, lead time for changes, change failure rate, and MTTR.
+Collaborate with InfoSec and Compliance teams to run regular security audits, risk assessments and data assessments.
+Contribute to disaster recovery planning and testing.
+Work in an agile, cross-functional multinational team, actively engaging to support the success of the team.
+
+
+
+Requirements:
+
+Education
+
+
+Bachelors in Computer Science or Information Technology
+Recognized Engineering degree
+
+
+
+Essential Skills/Experience
+
+
+Strong expertise in Linux Operating System (i.e., Linux Process Sub-systems, Linux FileSystem)
+Strong expertise in Linux shell scripting (i.e., bash scripting)
+Strong expertise in designing and deploying Continuous Integration Pipelines for Software Development Teams
+Strong expertise in Secrets Management and Configuration Management of subsystems in a Container Orchestration Framework, such as Kubernetes.
+Strong expertise in designing, deploying & securing OCI containerized workloads (e.g., Docker, Kaniko) in Container Orchestration Frameworks (e.g., Kubernetes) running on-top of on-premises infrastructure and cloud infrastructure.
+Strong expertise in designing and implementing pro-active monitoring of production grade environments, incident response and allows swift mitigation of security threats.
+Expertise with observability tools like OpenTelemetry (OTEL) for monitoring and instrumentation, ensuring comprehensive visibility into system health and performance in Container Orchestration Frameworks.
+Demonstrated experience in working in data center environments; bonus if you have relevant experience on working in mission critical systems.
+Demonstrated ownership of the DevSecOps Mindset and demonstrated experiences of guiding the Software Development Teams in embracing the DevSecOps Mindset.
+Demonstrated experience in working in a multi-cultural and multi-disciplinary environment.
+Good communication skills in English.
+
+
+
+Desirable Skills/Experience
+
+If you have the following desirable skills and relevant experiences, it would be an added advantage!
+
+
+Relevant certifications such as Certified Kubernetes Administrator (CKA) or Certified Kubernetes Security Specialist (CKSS).
+Familiarity with popular DevOps tools (e.g., Jenkins, Git, Terraform) to enhance our Kubernetes development pipeline.
+Experience with CI/CD tools and practices integrated with Kubernetes, driving continuous improvement and deployment.
+Familiar with cloud-native deployment strategies to cloud service providers (e.g., Azure Cloud, Amazon Cloud, Google Cloud).
+Familiar with the main cloud service models: Software as a Service, Platform as a Service and Infrastructure as a Service.
+
+
+
+Essential / Desirable Traits
+
+
+Possess learning agility, flexibility and pro-activity
+Comfortable with agile teamwork and user engagement
+
+
+
+At Thales, we’re committed to fostering a workplace where respect, trust, collaboration, and passion drive everything we do. Here, you’ll feel empowered to bring your best self, thrive in a supportive culture, and love the work you do. Join us, and be part of a team reimagining technology to create solutions that truly make a difference – for a safer, greener, and more inclusive world.
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Industries
+Aviation and Aerospace Component Manufacturing and Defense and Space Manufacturing
+  
+
+Referrals increase your chances of interviewing at Thales by 2x
+
+See who you know
+
+Get notified about new Engineer jobs in Singapore, Singapore.
+
+Sign in to create job alert
+Similar jobs
+DevSecOps Engineer
+DevSecOps Engineer
+Capgemini Engineering
+Singapore
+1 week ago
+DevSecOps Engineer
+DevSecOps Engineer
+Capgemini
+Singapore, Singapore
+3 days ago
+DevSecOps Engineer - A26273
+DevSecOps Engineer - A26273
+Activate Interactive
+Singapore, Singapore
+17 hours ago
+DevSecOps Engineer (GenAI)
+CMC-APAC PRIVATE LIMITED
+Singapore, Singapore
+1 week ago
+DevSecOps Engineer
+U3 PROJECTS PTE. LTD.
+Singapore, Singapore
+2 days ago
+DevSecOps Engineer (IAM)
+DevSecOps Engineer (IAM)
+Assurity Trusted Solutions Pte Ltd
+Singapore, Singapore
+2 months ago
+Show more jobs like this 
+People also viewed
+DevSecOps Engineer
+DevSecOps Engineer
+
+BGC Group
+
+Singapore, Singapore
+SGD 4,000 - SGD 5,000
+1 day ago
+Security Engineer (AppSec - Secure SDLC) - Information Security
+Security Engineer (AppSec - Secure SDLC) - Information Security
+
+Shopee
+
+Singapore, Singapore
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+Capgemini Engineering
+
+Singapore
+2 weeks ago
+DevSecOps Engineer
+DevSecOps Engineer
+
+Amethyst Partners
+
+Singapore, Singapore
+1 week ago
+Senior Security Engineer
+Senior Security Engineer
+
+Meteora
+
+Singapore, Singapore
+4 days ago
+Devops Engineer
+
+V-ELEGANT PTE. LTD.
+
+Singapore, Singapore
+2 weeks ago
+Cloud Security Engineer
+
+ENCORA TECHNOLOGIES PTE. LTD.
+
+Singapore, Singapore
+5 days ago
+Security Engineer, Product Security - Global Security Organization
+Security Engineer, Product Security - Global Security Organization
+
+TikTok
+
+Singapore, Singapore
+3 weeks ago
+Security Engineer
+Security Engineer
+
+Manus AI
+
+Singapore, Singapore
+2 days ago
+Cloud DevSecOps Engineer (Terraform, CloudFormation, cloud services on AWS)
+Cloud DevSecOps Engineer (Terraform, CloudFormation, cloud services on AWS)
+
+NCS Group
+
+Singapore, Singapore
+3 months ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Thales
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

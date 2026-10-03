@@ -1,0 +1,228 @@
+Title: Senior DevOps Engineer (GATD)
+Company: Rakuten Asia Pte Ltd
+Location: Singapore
+URL: https://sg.linkedin.com/jobs/view/senior-devops-engineer-gatd-at-rakuten-asia-pte-ltd-4475016098
+Posted: 2026-10-03
+Deadline: N/A
+Reason: The Senior DevOps Engineer role at Rakuten Asia Pte Ltd in Singapore aligns with Priya's expertise in CI/CD pipelines, infrastructure as code (IaC), and cloud operations, matching her experience with Jenkins, GitHub Actions, Docker, and regulated-industry compliance workflows.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer (GATD)
+Rakuten Asia Pte Ltd  Singapore
+22 hours ago   Be among the first 25 applicants
+  
+
+See who Rakuten Asia Pte Ltd has hired for this role
+
+Apply 
+Save
+Job Description
+
+Senior DevOps Engineer (Tech Management Section)
+
+Are you interested in working for a Global Leader in E-commerce? Are you excited about working on highly scalable platforms and applications that are accessed by millions of users every day? If so, read on to find out more about the opportunity.
+
+Rakuten is the largest E-commerce company in Japan and one of the largest E-commerce and Internet Services companies in the World. Rakuten is ranked in top 20 most innovative companies in the world by Forbes.
+
+The Tech Management Section boasts a highly motivated, skilled, talented, and collaborative team distributed across Japan, Singapore, India, and China — building and operating DevOps platforms for Public Cloud adoption, CICD, Monitoring, Automation, Security and AIOps.
+
+We are seeking a highly skilled Senior DevOps Engineer to take end-to-end ownership of DevOps delivery for our Global Ad Technology Department (GATD) service teams. The ideal candidate brings deep technical expertise across CI/CD, cloud infrastructure, automation, and observability and security and excels at driving operational excellence, proactively evaluating and recommending tools and technologies that improve team delivery and service quality. This role offers an exciting opportunity to work on large-scale, high-traffic platforms within Rakuten's extensive global ecosystem and cutting-edge technology landscape.
+
+What will you do?
+
+Responsibilities
+
+Your main responsibility will be to serve as the primary DevOps point of contact for GATD service teams — supporting them in building, deploying, monitoring, and operating their services while managing complete infrastructure aligned to both business demands and technical standards.
+
+
+Serve as the primary DevOps point of contact for assigned GATD service teams — supporting them in building, deploying, monitoring, and operating their services in collaboration with cross-functional teams (development, product, QA, security) across multiple locations (Singapore, Japan, India, China, etc.).
+Design, implement, and maintain CI/CD pipelines and observability platforms for GATD service teams — ensuring reliable delivery processes, high availability, and proactive detection of issues.
+Automate routine production and non-production operations using standard tooling such as Jenkins, Ansible, Chef, Terraform, Shell scripting, etc.; manage containerised workloads using Docker, Kubernetes, or equivalent platforms.
+Provision and manage public cloud infrastructure using Infrastructure as Code (IaC); plan and execute Lifecycle management (LCM) activities including public cloud migrations, upgrades, EOL, and platform version management.
+Integrate security fundamentals into CI/CD pipelines and infrastructure — including vulnerability scanning, secret management, and secure configuration practices.
+Own critical incidents end-to-end — from immediate response through root cause analysis and long-term fixes — ensuring systemic resolution rather than one-off fixes; serve as a technical escalation point.
+Evaluate and implement AI-driven tooling and emerging technologies to improve productivity, operational quality, and delivery efficiency for the team and GATD service teams.
+
+
+Qualifications: Must-have
+
+
+Minimum 5 years of hands-on experience in DevOps, independently handling high-traffic production systems (server, middleware, database, and application layers)
+Proven experience designing and implementing CI/CD pipelines using tools such as Jenkins, GitLab CI, GitHub Actions, or equivalent; familiarity with artifact management tools (Nexus, Artifactory) is a plus.
+Hands-on experience with IaC tools (Terraform, Ansible, Chef) and containerisation platforms (Docker, Kubernetes, or equivalent)
+Experience with public cloud platforms (preferably GCP) including infrastructure setup, management, and migration. Able to handle VPC networking.
+Strong UNIX/Linux system administration skills including networking fundamentals (TCP/IP, trace and log analysis)
+Proficiency in scripting languages (Shell, Python, or equivalent) for automation and operational tooling
+Experience with monitoring, alerting, and observability tools (Prometheus, Grafana, ELK, OpenTelemetry, or equivalent)
+Working knowledge of security fundamentals in a DevOps context — vulnerability scanning, secret management, and secure configuration practices
+Strong communication and collaboration skills for working across cross-functional teams in multiple locations; proficiency in English is essential
+Flexible for emergency on-call support timing based on the business requirement. Must adapt to business needs in terms of working hours including non-business hour emergency support for critical issues.
+
+
+Qualifications: Nice-to-have
+
+
+Experience with Hybrid Cloud and Multi-Cloud architecture
+Experience with service mesh or advanced deployment technologies (Istio, Argo CD, or equivalent)
+Familiarity with AI-driven DevOps tooling and its application in operational workflows
+Experience in a release or change coordinator capacity within a mature CI/CD environment
+Experience with databases like Couchbase, MongoDB, Redis, MySQL
+Knowledge of online AD or marketing business and related technologies
+
+
+Rakuten is an equal opportunities employer and welcomes applications regardless of sex, marital status, ethnic origin, sexual orientation, religious belief or age.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Rakuten Asia Pte Ltd by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Singapore.
+
+Sign in to create job alert
+Similar jobs
+Senior DevOps Engineer
+Senior DevOps Engineer
+Vanguard Software
+Singapore, Singapore
+4 days ago
+Senior DevOps Engineer - Singapore
+Senior DevOps Engineer - Singapore
+NinjaOne
+Singapore, Singapore
+2 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Singtel
+Singapore, Singapore
+5 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Dropsuite
+Singapore, Singapore
+2 days ago
+Devops Engineer
+V-ELEGANT PTE. LTD.
+Singapore, Singapore
+2 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+StarHub
+Singapore, Singapore
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Senior Platform Engineer
+Senior Platform Engineer
+
+Sygnum Singapore
+
+Singapore, Singapore
+3 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+SCIENTE
+
+Singapore, Singapore
+4 days ago
+Senior DevOps / DataOps Engineer (AWS & MLOps)
+Senior DevOps / DataOps Engineer (AWS & MLOps)
+
+Centience
+
+Singapore, Singapore
+1 week ago
+DevOps / DevSecOps Engineer
+DevOps / DevSecOps Engineer
+
+Argyll Scott
+
+Singapore, Singapore
+1 week ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+
+SearchApi
+
+Singapore
+3 months ago
+Senior Engineer
+Senior Engineer
+
+StarHub
+
+Singapore, Singapore
+1 day ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+
+SHIELD
+
+Singapore, Singapore
+3 weeks ago
+DevOps & Kubernetes Engineer
+DevOps & Kubernetes Engineer
+
+Accenture Southeast Asia
+
+Singapore, Singapore
+2 weeks ago
+Senior Platform Infrastructure Engineer, NEA
+Senior Platform Infrastructure Engineer, NEA
+
+GovTech Singapore
+
+Singapore, Singapore
+3 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+OCBC
+
+Singapore, Singapore
+1 week ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Rakuten Asia Pte Ltd
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

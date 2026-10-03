@@ -1,0 +1,245 @@
+Title: DevOps Engineer
+Company: OCBC
+Location: Singapore, Singapore
+URL: https://sg.linkedin.com/jobs/view/devops-engineer-at-ocbc-4461202903
+Posted: 2026-09-26
+Deadline: N/A
+Reason: The role of DevOps Engineer at OCBC in Singapore matches the candidate's expertise in CI/CD pipeline ownership, tool administration (Jira, Jenkins, etc.), and regulated-industry compliance experience, aligning with her background in Elektrobit and Topcon.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+OCBC  Singapore, Singapore
+1 week ago  125 applicants
+  
+
+See who OCBC has hired for this role
+
+Apply 
+Save
+Who We Are
+
+As Singapore’s longest established bank, we have been dedicated to enabling individuals and businesses to achieve their aspirations since 1932. How? By taking the time to truly understand people. From there, we provide support, services, solutions, and career paths that meet their individual needs and desires.
+
+Today, we’re on a journey of transformation. Leveraging technology and creativity to become a future-ready learning organisation. But for all that change, our strategic ambition is consistently clear and bold, which is to be Asia’s leading financial services partner for a sustainable future.
+
+We invite you to build the bank of the future. Innovate the way we deliver financial services. Work in friendly, supportive teams. Build lasting value in your community. Help people grow their assets, business, and investments. Take your learning as far as you can. Or simply enjoy a vibrant, future-ready career.
+
+Your Opportunity Starts Here.
+
+Why Join
+
+Imagine being part of a team that builds innovative digital solutions for one of Asia's leading banks. As an Engineer at OCBC, you'll have the opportunity to work on cutting-edge projects that transform the way we deliver financial services. You'll be part of a collaborative team that values creativity, innovation, and continuous learning.
+
+How you succeed
+
+We are seeking a highly skilled and proactive DevOps Engineer to lead the administration, maintenance and lifecycle management of our DevOps toolchain. The ideal candidate will possess extensive experience in managing tools such as Jira, Bitbucket, Confluence, Nexus, Jenkins and SonarQube ensuring they are always up-to-date, secure and compliant with internal and external standards.
+
+What you do
+
+
+Tool Administration & Maintenance:
+Administer and maintain all DevOps tools including Jira, Bitbucket, Confluence, Nexus, Jenkins, Ansible Automation Platform, and SonarQube.
+Ensure high availability, performance, and reliability of these platforms.
+Upgrades & Patch Management:
+Plan and execute regular upgrades and patches for all tools and underlying infrastructure.
+Ensure tools are running on non-vulnerable versions and platforms and are free from known security issues.
+Compliance & Security:
+Monitor and enforce compliance with bank standard policies and industry standards.
+Implement security best practices across all tools and ensure audit readiness.
+Automation & Optimization:
+Develop and maintain automation scripts for tool configuration, deployment, and monitoring.
+Optimize tool usage and workflows to improve developer productivity and operational efficiency.
+Monitoring &. Troubleshooting:
+Set up proactive monitoring and alerting for tool health and performance.
+Troubleshoot and resolve issues related to tool integration, performance, and access.
+Documentation & Knowledge Sharing:
+Maintain comprehensive documentation for tool configurations, upgrade procedures, and compliance checks.
+Conduct training sessions and workshops for development and operations teams
+
+Who you are
+
+
+Bachelor’s or master’s degree in computer science, Engineering, or related field.
+Minimum 10 years of hands-on experience in DevOps engineering and tool administration.
+Strong expertise in:
+Jira, Bitbucket, Confluence
+Nexus Repository Manager
+Jenkins CI/CD
+Ansible
+SonarQube
+Proven experience in managing upgrades and ensuring secure, compliant tool versions.
+Strong understanding of CI/CD pipelines, infrastructure as code, and automation.
+Excellent troubleshooting, documentation, and communication skills.
+Experience with Linux/Unix systems and scripting (Shell, Python, Groovy, etc.)
+Certifications in DevOps, Redhat would be an added advantage.
+Experience with containerization (Docker, Kubernetes) and cloud platforms (AWS, Azure, GCP) is preferable.
+
+Who we are
+
+As Singapore's longest established bank, we have been dedicated to enabling individuals and businesses to achieve their aspirations since 1932. How? By taking the time to truly understand people. From there, we provide support, services, solutions, and career paths that meet their individual needs and desires.
+
+Today, we're on a journey of transformation. Leveraging technology and creativity to become a future-ready learning organisation.
+
+But for all that change, our strategic ambition is consistently clear and bold, which is to be Asia's leading financial services partner for a sustainable future.
+
+We invite you to build the bank of the future. Innovate the way we deliver financial services. Work in friendly, supportive teams. Build lasting value in your community. Help people grow their assets, business, and investments. Take your learning as far as you can. Or simply enjoy a vibrant, future-ready career. Your Opportunity Starts Here.
+
+What We Offer
+
+Competitive base salary. A suite of holistic, flexible benefits to suit every lifestyle. Community initiatives. Industry-leading learning and professional development opportunities. Your wellbeing, growth and aspirations are every bit as cared for as the needs of our customers.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Banking
+  
+
+Referrals increase your chances of interviewing at OCBC by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Singapore, Singapore.
+
+Sign in to create job alert
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+Capgemini
+Singapore, Singapore
+1 month ago
+DevOps Engineer
+DevOps Engineer
+Capgemini Engineering
+Singapore
+2 weeks ago
+DevOps & Kubernetes Engineer
+DevOps & Kubernetes Engineer
+Accenture Southeast Asia
+Singapore, Singapore
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+Merquri
+Singapore, Singapore
+1 week ago
+DevOps Engineer
+DevOps Engineer
+HashWhale
+Singapore
+11 months ago
+DevOps Engineer
+DevOps Engineer
+Keppel Data Centres
+Singapore, Singapore
+2 days ago
+Show more jobs like this 
+People also viewed
+CRM DevOps Engineer
+CRM DevOps Engineer
+
+StarHub
+
+Singapore, Singapore
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Mav3rik
+
+Singapore
+4 months ago
+DevOps Consultant - GS26021
+DevOps Consultant - GS26021
+
+Activate Interactive
+
+Singapore, Singapore
+4 weeks ago
+DevOps Engineer (Transcribe)
+DevOps Engineer (Transcribe)
+
+Assurity Trusted Solutions Pte Ltd
+
+Singapore, Singapore
+3 months ago
+DevSecOps Engineer
+DevSecOps Engineer
+
+Capgemini
+
+Singapore, Singapore
+3 days ago
+DevOps / DevSecOps Engineer
+DevOps / DevSecOps Engineer
+
+Argyll Scott
+
+Singapore, Singapore
+1 week ago
+DevSecOps Engineer
+DevSecOps Engineer
+
+Capgemini Engineering
+
+Singapore
+2 weeks ago
+DevSecOps Engineer
+DevSecOps Engineer
+
+RiDiK (a Subsidiary of CLPS. Nasdaq: CLPS)
+
+Singapore, Singapore
+3 days ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+Apple
+
+Singapore, Singapore
+4 months ago
+Platform / DevOps Engineer
+Platform / DevOps Engineer
+
+Selby Jennings
+
+Singapore, Singapore
+3 days ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at OCBC
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
