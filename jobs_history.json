@@ -26706,5 +26706,16 @@
     "applied": 0,
     "added": 0,
     "deleted": 0
+  },
+  {
+    "timestamp": "2026-10-03T14:01:36",
+    "total": 5832,
+    "yes": 476,
+    "no": 3210,
+    "maybe": 1796,
+    "pending": 0,
+    "applied": 0,
+    "added": 0,
+    "deleted": 0
   }
 ]
