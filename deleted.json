@@ -1834,5 +1834,39 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": "job_descriptions/micromine_technologi_technical_writer_44c6d297.txt",
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Part Time Document Production Specialist",
+    "company": "HYF",
+    "location": "London, UK",
+    "url": "https://www.reed.co.uk/jobs/part-time-document-production-specialist/57359831",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job explicitly requires applicants to be UK-based, which implies no visa sponsorship is available for non-UK residents, and Priya does not have existing right to work in the UK.",
+    "id": "be711f31",
+    "source": "reed_documentation_specialist",
+    "added_at": "2026-10-03T04:29:08+03:00",
+    "posted_date": "17 september",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "SENCO and Exams Assistant",
+    "company": "Outcomes First Group",
+    "location": "Trent Acres, Kings Bromley, DE13 7HR, UK",
+    "url": "https://www.cv-library.co.uk/job/225681907/senco-and-exams-assistant",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires UK applicants only with no sponsorship available, which disqualifies the candidate due to her need for employer visa sponsorship.",
+    "id": "da8755f9",
+    "source": "cv_library_documentation_specialist",
+    "added_at": "2026-10-03T04:29:38+03:00",
+    "posted_date": "2026-10-02",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
