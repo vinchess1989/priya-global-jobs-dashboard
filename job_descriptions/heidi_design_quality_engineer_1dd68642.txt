@@ -1,0 +1,274 @@
+Title: Design Quality Engineer
+Company: Heidi
+Location: Sydney, New South Wales, Australia
+URL: https://au.linkedin.com/jobs/view/design-quality-engineer-at-heidi-4453080303
+Posted: 2026-09-03
+Deadline: N/A
+Reason: The job aligns with Priya's experience in quality gatekeeping, regulatory compliance (ISO 13485), and technical documentation, fitting the 'Quality Engineer' role in a regulated healthcare domain.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Design Quality Engineer
+Heidi  Sydney, New South Wales, Australia
+1 month ago  31 applicants
+  
+
+See who Heidi has hired for this role
+
+Apply 
+Save
+We’re Heidi.
+
+We're building the future of healthcare by giving every clinician the earth's finest AI Care Partner. Our platform has absorbed the administrative chaos of 175 million patient visits and supported 67 million clinical hours. Today, we support 2.8 million patient sessions a week across 190+ countries, in 110 languages and over 200 specialties.
+
+Healthcare systems are failing us; clinicians spend more time on documentation than on patients, and the human connection that makes medicine worth practicing is eroding. Our mission is simple: double the world’s capacity for care and strengthen the human connection at its heart.
+
+We found product-market fit with a freemium medical scribe that clinicians love. Now, we're expanding. Every task a clinician hands to Heidi is a patient who feels more attended to, a health system unclogged, and a clinician who gets to be a clinician again.
+
+We’ve grown annual recurring revenue from $1 million to $50 million in two years.
+
+To go further, we’ve secured US$340 million: a $100 million Series C led by Blackbird, with Phoenix Court, Point72 Private Investments and Headline, alongside a $240 million growth investment led by General Catalyst’s Customer Value Fund.
+
+If you want to join us in doing work worth shipping, jump in.
+
+The Role
+
+What You’ll Do
+
+As our Design Quality & Compliance Engineer, you’ll sit at the heart of Heidi’s mission to make world-class care faster and safer through intelligent, compliant technology. Reporting into the Legal & Regulatory Affairs team, but working day-to-day within Engineering, you’ll be the key link ensuring our agile software development practices remain fully aligned with global medical device and information security standards.
+
+Your core mission is to help ensure that our software design and development activities meet global medical device requirements, leading the practical implementation of IEC 62304 (software lifecycle), ISO 14971 (risk management), and ISO 13485 (quality management systems) within an agile, iterative environment. You’ll help shape how design inputs, verification, validation, and risk controls are captured, reviewed, and evidenced.
+
+This is a hybrid role for someone who can masterfully implement compliance within a modern, agile software culture, enabling engineering teams to build quickly and safely, while ensuring every release stands up to regulatory scrutiny.
+
+What You'll Do
+
+Drive Medical Device Design Control Processes
+
+
+Lead the implementation and continuous improvement of design control processes across the software lifecycle in alignment with IEC 62304, ISO 14971, and ISO 13485.
+Partner with engineers and product managers to ensure requirements, risk controls, verification, and validation activities are clearly defined, documented, and traceable.
+Support the creation and maintenance of technical documentation, including requirements specifications, risk management files, verification reports, and change records.
+Support external ISO 13485 and Notified Body audits, with a focus on Design and Development aspects.
+Champion compliance in software development by translating complex and opaque IEC/ISO standards into clear, actionable processes that engineering teams can follow.
+
+
+What We Will Look For
+
+
+SaMD Experience: Prior experience working on Software as a Medical Device (SaMD) or other regulated healthtech products, ideally in a start-up or scale-up environment.
+Standards: Strong working knowledge of standards such as IEC 62304, ISO 14971, and ISO 27001, and the ability to apply these in practical, developer-friendly ways.
+Technical Skills: A solid understanding of technical security domains, including cloud security, access control, network security, and secure software development lifecycles.
+Proactive & Detail-Oriented: A commitment to quality and the ability to drive tasks to completion in a fast-paced, high-growth environment.
+Collaboration & Communication: Excellent communication skills, enabling you to work effectively with internal teams (engineers, product) and manage external partners (auditors, customers).
+A Bachelor’s degree or higher in a relevant scientific, engineering, regulatory, legal, or governance discipline is a plus.
+
+
+How We Show Up
+
+
+Build for the next decade, not next quarter. Our targets are outrageous on purpose. The world's health doesn't have the luxury of incrementalism.
+Lead, don't wait. We treat tomorrow's problems today. Sometimes we build what's needed before it's wanted, and we're fine with that.
+Follow the evidence. Trust the patient. We pursue truth relentlessly. But when the subjective and objective disagree, we treat the patient, not the numbers. Ego is a comorbidity we can't afford.
+Own the outcome. Everyone here carries the company. Raise problems with solutions, solve them end-to-end, and never be a bystander.
+Ship, measure, go again. A button today, a workflow tomorrow. More iterations beat better planning. We're precise at pace, not reckless.
+Live in clinicians' reality. Not the ideal workflow, the twenty-patients-before-lunch actual one. We build for exhausted humans, and we'd better be decent ones while we do it.
+
+
+Why Heidi?
+
+You’ll join a team focused on real-world impact over imaginary valuations and glossy PR. We live and breathe the challenges of modern health systems, and are laser-focused on exacting the change we’d like to see. We’re medicos, engineers, builders, and designers who’ve felt the moral and practical toll of what non-care feels like. True A-players progress extremely fast here. The nature of the scale-up game is demanding, but we value sustainable performance and mental health. You're trusted to perform, and you set your schedule. We operate on outcomes > inputs, not process theatre. We all take the bins out, metaphorically and literally.
+
+Building what we’re building isn’t always easy. But we didn’t choose easy, we chose to build something that actually matters. We hold ourselves to a higher standard because healthcare demands it. If you join Heidi, you recognise that the deeper question isn’t whether AI can solve the global healthcare crisis, but whose hands will shape it. The work is hard, but you will trust and admire the people you work beside, and rest easy knowing you’re doing the defining work of your career.
+
+We take care of you.
+
+We offer a $1,000 annual learning and development budget, a $150/month health and wellness allowance, a $500 home office budget, 26 weeks paid primary parental leave and 18 weeks paid secondary parental leave, fertility support up to $10,000, four weeks of work from anywhere per year, and serious equity.
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Heidi by 2x
+
+See who you know
+
+Get notified about new Quality Engineer jobs in Sydney, New South Wales, Australia.
+
+Sign in to create job alert
+Jobs
+Supplier Quality Engineer jobs
+Design Quality Engineer
+Similar jobs
+Staff Design & Quality Control Engineer
+Staff Design & Quality Control Engineer
+Avnet
+Sydney, New South Wales, Australia
+3 months ago
+Quality Engineer (Failure Analysis & Reliability)
+Quality Engineer (Failure Analysis & Reliability)
+Eaton
+Mascot, New South Wales, Australia
+1 week ago
+Quality Engineer (Customer & Projects)
+Quality Engineer (Customer & Projects)
+Eaton
+Mascot, New South Wales, Australia
+1 week ago
+Product Quality Engineer
+Product Quality Engineer
+Anduril Industries
+Sydney, New South Wales, Australia
+2 weeks ago
+Quality Engineer
+Quality Engineer
+Hays
+Sydney, New South Wales, Australia
+A$55 - A$65
+3 weeks ago
+Technical Engineer
+Technical Engineer
+Brickworks Building Products
+Horsley Park, New South Wales, Australia
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Quality Engineer
+Quality Engineer
+
+InfoTrack AU
+
+Sydney, New South Wales, Australia
+1 week ago
+Controls Design Engineer, Controls Design Engineering
+Controls Design Engineer, Controls Design Engineering
+
+Amazon Web Services (AWS)
+
+Sydney, New South Wales, Australia
+3 days ago
+Mechanical Engineer - Remote
+Mechanical Engineer - Remote
+
+Altrad UK, Ireland & Nordics
+
+Helensburgh, New South Wales, Australia
+3 weeks ago
+Mechanical Design Engineer
+Mechanical Design Engineer
+
+Anduril Industries
+
+Sydney, New South Wales, Australia
+1 week ago
+Design Engineer
+Design Engineer
+
+Cyient
+
+Sydney, New South Wales, Australia
+3 weeks ago
+Principal Project Quality Lead
+Principal Project Quality Lead
+
+Schneider Electric
+
+Macquarie Park, New South Wales, Australia
+1 month ago
+Quality Systems Leader - Architecture & Design
+Quality Systems Leader - Architecture & Design
+
+Design & Build Recruitment
+
+Sydney, New South Wales, Australia
+2 weeks ago
+Process Engineer
+Process Engineer
+
+Rheem Australia
+
+Rydalmere, New South Wales, Australia
+4 days ago
+Quality Resolution Specialist
+Quality Resolution Specialist
+
+Schneider Electric
+
+Macquarie Park, New South Wales, Australia
+2 weeks ago
+Calypso Quality Engineer
+Calypso Quality Engineer
+
+ASX
+
+Sydney, New South Wales, Australia
+17 hours ago
+Similar Searches
+Supplier Quality Engineer jobs
+135 open jobs
+Senior Quality Engineer jobs
+138 open jobs
+Quality System Engineer jobs
+160 open jobs
+Quality Control Engineer jobs
+540 open jobs
+Product Quality Engineer jobs
+167 open jobs
+Software Quality Engineer jobs
+154 open jobs
+Quality Engineering Manager jobs
+560 open jobs
+Manufacturing Engineer jobs
+572 open jobs
+Quality Assurance Engineer jobs
+425 open jobs
+Continuous Improvement Engineer jobs
+407 open jobs
+Inspection Engineer jobs
+791 open jobs
+Plant Metallurgist jobs
+63 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
