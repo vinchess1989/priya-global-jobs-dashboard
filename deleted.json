@@ -2072,5 +2072,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Deadline (2023-10-18) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Regulatory and Compliance Specialist",
+    "company": "Buckman",
+    "location": "Durban, KwaZulu-Natal, South Africa",
+    "url": "https://za.linkedin.com/jobs/view/regulatory-and-compliance-specialist-at-buckman-4246284875",
+    "visited": "yes",
+    "matches_requirements": "maybe",
+    "reason": "The role aligns with the candidate's regulatory/compliance and quality gatekeeping experience (e.g., MDR/ISO 13485, audit readiness), but focuses on chemical manufacturing regulations rather than medical device or automotive safety-critical domains where her background is strongest.",
+    "id": "a638028a",
+    "source": "linkedin_za_eu_mdr",
+    "added_at": "2026-10-03T13:15:32+03:00",
+    "posted_date": "2026-09-29",
+    "deadline": "2025-06-24",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2025-06-24) passed by more than 2 days and unreviewed"
   }
 ]

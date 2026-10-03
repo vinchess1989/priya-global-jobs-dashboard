@@ -92727,22 +92727,6 @@
     "description_file": null
   },
   {
-    "title": "Regulatory and Compliance Specialist",
-    "company": "Buckman",
-    "location": "Durban, KwaZulu-Natal, South Africa",
-    "url": "https://za.linkedin.com/jobs/view/regulatory-and-compliance-specialist-at-buckman-4246284875",
-    "visited": "yes",
-    "matches_requirements": "maybe",
-    "reason": "The role aligns with the candidate's regulatory/compliance and quality gatekeeping experience (e.g., MDR/ISO 13485, audit readiness), but focuses on chemical manufacturing regulations rather than medical device or automotive safety-critical domains where her background is strongest.",
-    "id": "a638028a",
-    "source": "linkedin_za_eu_mdr",
-    "added_at": "2026-10-03T13:15:32+03:00",
-    "posted_date": "2026-09-29",
-    "deadline": "2025-06-24",
-    "eval_model": "local/qwen/qwen3-14b",
-    "description_file": null
-  },
-  {
     "title": "Safety & Mission Assurance Engineer II",
     "company": "Rocket Lab",
     "location": "Johannesburg, Gauteng, South Africa",
@@ -92784,7 +92768,9 @@
     "reason": "",
     "id": "715a369f",
     "source": "linkedin_za_eu_mdr",
-    "added_at": "2026-10-03T13:15:32+03:00"
+    "added_at": "2026-10-03T13:15:32+03:00",
+    "posted_date": "N/A",
+    "deadline": "N/A"
   },
   {
     "title": "Risk & Compliance Manager",
@@ -92796,7 +92782,9 @@
     "reason": "",
     "id": "090dddfa",
     "source": "linkedin_za_eu_mdr",
-    "added_at": "2026-10-03T13:15:32+03:00"
+    "added_at": "2026-10-03T13:15:32+03:00",
+    "posted_date": "N/A",
+    "deadline": "N/A"
   },
   {
     "title": "Senior Power Electronics Engineer",
@@ -92808,7 +92796,9 @@
     "reason": "",
     "id": "618dd6d5",
     "source": "linkedin_za_eu_mdr",
-    "added_at": "2026-10-03T13:15:32+03:00"
+    "added_at": "2026-10-03T13:15:32+03:00",
+    "posted_date": "N/A",
+    "deadline": "N/A"
   },
   {
     "title": "Integrated Marketing Lead \u2013 Acute Care & Monitoring",
@@ -92820,7 +92810,9 @@
     "reason": "",
     "id": "08f067f3",
     "source": "linkedin_za_eu_mdr",
-    "added_at": "2026-10-03T13:15:32+03:00"
+    "added_at": "2026-10-03T13:15:32+03:00",
+    "posted_date": "N/A",
+    "deadline": "N/A"
   },
   {
     "title": "Head: Medical Affairs",
@@ -92832,7 +92824,9 @@
     "reason": "",
     "id": "d545cf4f",
     "source": "linkedin_za_eu_mdr",
-    "added_at": "2026-10-03T13:15:32+03:00"
+    "added_at": "2026-10-03T13:15:32+03:00",
+    "posted_date": "N/A",
+    "deadline": "N/A"
   },
   {
     "title": "Regulatory Affairs and Licensing -  Southern Africa Lead (100% remote)",
@@ -92844,7 +92838,9 @@
     "reason": "",
     "id": "2d14739a",
     "source": "linkedin_za_eu_mdr",
-    "added_at": "2026-10-03T13:15:32+03:00"
+    "added_at": "2026-10-03T13:15:32+03:00",
+    "posted_date": "N/A",
+    "deadline": "N/A"
   },
   {
     "title": "Regulatory Compliance Manager - Africa",
@@ -92856,7 +92852,9 @@
     "reason": "",
     "id": "88a64195",
     "source": "linkedin_za_eu_mdr",
-    "added_at": "2026-10-03T13:15:32+03:00"
+    "added_at": "2026-10-03T13:15:32+03:00",
+    "posted_date": "N/A",
+    "deadline": "N/A"
   },
   {
     "title": "Head of Quality",
@@ -92868,7 +92866,9 @@
     "reason": "",
     "id": "34039233",
     "source": "linkedin_za_eu_mdr",
-    "added_at": "2026-10-03T13:15:32+03:00"
+    "added_at": "2026-10-03T13:15:32+03:00",
+    "posted_date": "N/A",
+    "deadline": "N/A"
   },
   {
     "title": "SKA-Mid EMS Engineer (South African- Based)",
@@ -92880,7 +92880,9 @@
     "reason": "",
     "id": "bc9a1dce",
     "source": "linkedin_za_eu_mdr",
-    "added_at": "2026-10-03T13:15:32+03:00"
+    "added_at": "2026-10-03T13:15:32+03:00",
+    "posted_date": "N/A",
+    "deadline": "N/A"
   },
   {
     "title": "Responsible Pharmacist & Medical Manager",
@@ -92892,7 +92894,9 @@
     "reason": "",
     "id": "cb5bf941",
     "source": "linkedin_za_eu_mdr",
-    "added_at": "2026-10-03T13:15:32+03:00"
+    "added_at": "2026-10-03T13:15:32+03:00",
+    "posted_date": "N/A",
+    "deadline": "N/A"
   },
   {
     "title": "Manager, AML Data Scientist",
@@ -92904,6 +92908,248 @@
     "reason": "",
     "id": "b2104516",
     "source": "linkedin_za_eu_mdr",
-    "added_at": "2026-10-03T13:15:32+03:00"
+    "added_at": "2026-10-03T13:15:32+03:00",
+    "posted_date": "N/A",
+    "deadline": "N/A"
+  },
+  {
+    "title": "Senior Global Pharmacovigilance Data Analyst",
+    "company": "Baxter International Inc.",
+    "location": "Marsa, Malta",
+    "url": "https://mt.linkedin.com/jobs/view/senior-global-pharmacovigilance-data-analyst-at-baxter-international-inc-4473147430",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job does not align with Priya's target roles (DevOps/Release Management/Configuration Management) and instead focuses on pharmacovigilance data analytics, which is outside her expertise in regulated software release/compliance processes.",
+    "id": "2cd831e4",
+    "source": "linkedin_mt_eu_mdr",
+    "added_at": "2026-10-03T13:20:40+03:00",
+    "posted_date": "2026-10-03",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null
+  },
+  {
+    "title": "Head of Compliance - Malta",
+    "company": "FalconX",
+    "location": "Birkirkara, Malta",
+    "url": "https://mt.linkedin.com/jobs/view/head-of-compliance-malta-at-falconx-4468792748",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires specific regulatory compliance expertise (MFSA approval, MiCA licensing) and leadership in financial services, which does not align with the candidate's background in technical release management, configuration management, and documentation within regulated industries.",
+    "id": "cac50467",
+    "source": "linkedin_mt_eu_mdr",
+    "added_at": "2026-10-03T13:20:40+03:00",
+    "posted_date": "2026-09-30",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null
+  },
+  {
+    "title": "Regulatory Analyst",
+    "company": "SysPay",
+    "location": "Saint Julian's, Malta",
+    "url": "https://mt.linkedin.com/jobs/view/regulatory-analyst-at-syspay-4459298707",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires a degree in Law, Finance, or related fields, which does not align with the candidate's engineering and technical communication background.",
+    "id": "dc8db451",
+    "source": "linkedin_mt_eu_mdr",
+    "added_at": "2026-10-03T13:20:40+03:00",
+    "posted_date": "2026-09-03",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null
+  },
+  {
+    "title": "Swedish Senior Compliance Manager",
+    "company": "Exacta Solutions Ltd",
+    "location": "Ta' Xbiex, Malta",
+    "url": "https://mt.linkedin.com/jobs/view/swedish-senior-compliance-manager-at-exacta-solutions-ltd-4450899653",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires fluency in Swedish, which the candidate does not possess, triggering a hard rejection under 'Mandatory Non-English Language' criteria.",
+    "id": "78eb767e",
+    "source": "linkedin_mt_eu_mdr",
+    "added_at": "2026-10-03T13:20:40+03:00",
+    "posted_date": "2026-09-19",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null
+  },
+  {
+    "title": "Head of Sustainability",
+    "company": "STMicroelectronics",
+    "location": "Kirkop, Kirkop, Malta",
+    "url": "https://mt.linkedin.com/jobs/view/head-of-sustainability-at-stmicroelectronics-4432834710",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires expertise in environmental management and sustainability leadership, which does not align with the candidate's background in software configuration management, release engineering, and technical documentation.",
+    "id": "6f32a890",
+    "source": "linkedin_mt_eu_mdr",
+    "added_at": "2026-10-03T13:20:40+03:00",
+    "posted_date": "2026-09-19",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null
+  },
+  {
+    "title": "Regulatory Compliance Officer [ Online Gaming ]",
+    "company": "NetBet",
+    "location": "Msida, Malta",
+    "url": "https://mt.linkedin.com/jobs/view/regulatory-compliance-officer-online-gaming-at-netbet-4473210856",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires regulatory compliance in online gaming, which does not align with Priya's experience in medical device (MDR/ISO 13485) and automotive (ASPICE/TUV) regulated industries, nor does it match her target role types of DevOps, Configuration Management, or Quality Engineer in safety-critical domains.",
+    "id": "e03276d2",
+    "source": "linkedin_mt_eu_mdr",
+    "added_at": "2026-10-03T13:20:40+03:00",
+    "posted_date": "2026-09-30",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null
+  },
+  {
+    "title": "Compliance Manager",
+    "company": "Platin Gaming Ltd.",
+    "location": "Malta",
+    "url": "https://mt.linkedin.com/jobs/view/compliance-manager-at-platin-gaming-ltd-4466501475",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires expertise in iGaming regulatory compliance, which differs from Priya\u2019s background in medical device and automotive quality/compliance gatekeeping (MDR/ISO 13485, ASPICE/TUV), and does not align with her technical documentation/release management focus.",
+    "id": "47e01624",
+    "source": "linkedin_mt_eu_mdr",
+    "added_at": "2026-10-03T13:20:40+03:00",
+    "posted_date": "2026-09-19",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null
+  },
+  {
+    "title": "Compliance Analyst",
+    "company": "RS2",
+    "location": "Mosta, Malta",
+    "url": "https://mt.linkedin.com/jobs/view/compliance-analyst-at-rs2-4471727399",
+    "visited": "yes",
+    "matches_requirements": "maybe",
+    "reason": "The role as a Compliance Analyst does not align directly with Priya\u2019s target roles (DevOps/Release Management/Configuration Management), though her experience with quality gatekeeping and regulatory compliance may offer partial overlap. Location (Malta) is acceptable, but the job lacks explicit mention of configuration management or technical documentation ownership.",
+    "id": "a1e921a1",
+    "source": "linkedin_mt_eu_mdr",
+    "added_at": "2026-10-03T13:20:40+03:00",
+    "posted_date": "2026-09-30",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null
+  },
+  {
+    "title": "Head of Compliance - Global",
+    "company": "NSUS Group",
+    "location": "San \u0120iljan, Saint Julian's, Malta",
+    "url": "https://mt.linkedin.com/jobs/view/head-of-compliance-global-at-nsus-group-4474321320",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role does not align with the candidate's target criteria in Domain/Role Type (compliance in gambling industry vs. regulated technical release/configuration management) and fails to meet explicitly approved positive constraints related to configuration management and technical communications specialist experience.",
+    "id": "caa06795",
+    "source": "linkedin_mt_eu_mdr",
+    "added_at": "2026-10-03T13:20:40+03:00",
+    "posted_date": "2026-10-01",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null
+  },
+  {
+    "title": "Senior Managers - Financial Services Risk Management",
+    "company": "EY",
+    "location": "Msida, Malta",
+    "url": "https://mt.linkedin.com/jobs/view/senior-managers-financial-services-risk-management-at-ey-4466930395",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires expertise in financial services risk management, quantitative modeling, and regulatory consulting, which does not align with the candidate's background in technical communication, configuration management, and regulated software compliance.",
+    "id": "38c1d91b",
+    "source": "linkedin_mt_eu_mdr",
+    "added_at": "2026-10-03T13:20:40+03:00",
+    "posted_date": "2026-09-19",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null
+  },
+  {
+    "title": "Compliance Officer",
+    "company": "ZEDRA Group",
+    "location": "Valletta, Malta",
+    "url": "https://mt.linkedin.com/jobs/view/compliance-officer-at-zedra-group-4466508598",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job title 'Compliance Officer' does not align with Priya's target roles in DevOps, Configuration Management, Release Management, or Quality Engineering, despite being located in Malta (a target country).",
+    "id": "5b6fa5bd",
+    "source": "linkedin_mt_eu_mdr",
+    "added_at": "2026-10-03T13:20:40+03:00",
+    "posted_date": "2026-09-19",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null
+  },
+  {
+    "title": "Licensing Specialist",
+    "company": "Platin Gaming Ltd.",
+    "location": "Malta",
+    "url": "https://mt.linkedin.com/jobs/view/licensing-specialist-at-platin-gaming-ltd-4415499848",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role of Licensing Specialist with a focus on gaming regulatory compliance does not align with Priya's target job criteria in configuration management, release management, or technical documentation/quality gatekeeping roles.",
+    "id": "b111b873",
+    "source": "linkedin_mt_eu_mdr",
+    "added_at": "2026-10-03T13:20:40+03:00",
+    "posted_date": "2026-06-05",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null
+  },
+  {
+    "title": "Seniors- Financial Services Risk Management",
+    "company": "EY",
+    "location": "Msida, Malta",
+    "url": "https://mt.linkedin.com/jobs/view/seniors-financial-services-risk-management-at-ey-4420718760",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job does not align with the candidate's expertise in configuration management, release management, or technical writing in regulated industries, as it focuses on financial services risk management and regulatory compliance rather than technical/quality product-support or documentation ownership.",
+    "id": "a0bad75f",
+    "source": "linkedin_mt_eu_mdr",
+    "added_at": "2026-10-03T13:20:40+03:00",
+    "posted_date": "2026-09-26",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null
+  },
+  {
+    "title": "Senior Analyst",
+    "company": "Bank of Valletta plc",
+    "location": "Santa Venera, Santa Venera, Malta",
+    "url": "https://mt.linkedin.com/jobs/view/senior-analyst-at-bank-of-valletta-plc-4466879028",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires expertise in financial regulatory compliance (CRR III, CRD VI, BRRD) and reporting, which does not align with the candidate's background in medical device (MDR/ISO 13485) and automotive (ASPICE/TUV) regulated industries, nor her focus on configuration management, release engineering, or technical documentation.",
+    "id": "2a431b41",
+    "source": "linkedin_mt_eu_mdr",
+    "added_at": "2026-10-03T13:20:40+03:00",
+    "posted_date": "2026-09-19",
+    "deadline": "2026-11-16",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null
+  },
+  {
+    "title": "Compliance Operations Manager",
+    "company": "TripleEh Gaming Limited",
+    "location": "Malta",
+    "url": "https://mt.linkedin.com/jobs/view/compliance-operations-manager-at-tripleeh-gaming-limited-4474306201",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires compliance operations expertise in regulated gaming (AML/CTF, policy drafting), which does not align with Priya's background in medical device quality gatekeeping, configuration management, or release engineering. While Malta is a target country and the role is mid-senior level, her experience does not match the required compliance/gaming regulatory focus.",
+    "id": "05ca7dfb",
+    "source": "linkedin_mt_eu_mdr",
+    "added_at": "2026-10-03T13:20:40+03:00",
+    "posted_date": "2026-10-02",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null
   }
 ]
