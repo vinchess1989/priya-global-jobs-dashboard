@@ -1885,5 +1885,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Business Analyst (Microsoft Dynamics 365 CRM / Data as a Service)",
+    "company": "Trinity College Dublin",
+    "location": "Dublin, County Dublin, Ireland",
+    "url": "https://ie.linkedin.com/jobs/view/business-analyst-microsoft-dynamics-365-crm-data-as-a-service-at-trinity-college-dublin-4467748300",
+    "visited": "yes",
+    "matches_requirements": "maybe",
+    "reason": "The role involves requirements gathering and documentation (aligned with her Technical Writing/Release Management background), but is primarily a Business Analyst position rather than DevOps, Configuration Management, or regulated-industry Quality/Compliance roles which are her strongest fits.",
+    "id": "842d3761",
+    "source": "linkedin_ie_requirements_engineer",
+    "added_at": "2026-10-03T04:52:07+03:00",
+    "posted_date": "2026-09-19",
+    "deadline": "2026-09-29",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-09-29) passed by more than 2 days and unreviewed"
   }
 ]
