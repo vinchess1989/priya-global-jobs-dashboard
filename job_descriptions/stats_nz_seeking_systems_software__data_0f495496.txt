@@ -1,0 +1,250 @@
+Title: Seeking Systems/Software, Data, Dev/Ops, and Test Engineers!
+Company: Stats NZ
+Location: Christchurch, Canterbury, New Zealand
+URL: https://nz.linkedin.com/jobs/view/seeking-systems-software-data-dev-ops-and-test-engineers%21-at-stats-nz-4466660571
+Posted: 2026-09-19
+Deadline: 2026-10-04
+Reason: The job as a Test Engineer at Stats NZ in New Zealand matches Priya's experience in quality gatekeeping, requirements traceability, and test automation, aligning with her background in regulated industries and technical documentation.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Seeking Systems/Software, Data, Dev/Ops, and Test Engineers!
+Stats NZ  Christchurch, Canterbury, New Zealand
+2 weeks ago  55 applicants
+  
+
+See who Stats NZ has hired for this role
+
+Apply 
+Save
+If you’re someone who enjoys getting to the technology story behind the data and finds satisfaction in producing work that others rely on— we’d like to hear from you!
+
+Stats NZ is looking for Engineers to join our Measuring a Modern Economy (MME) programme for 2 year fixed-term opportunities available in Pōneke (Wellington) and Ōtautahi (Christchurch). 
+
+
+1 x Engineer / Software Engineer
+2 x Data Engineers
+1 x Platform / DevOps Engineer
+1 x Test Engineer
+
+
+The MME Programme is modernising New Zealand's economic statistics system by enhancing processes, methods, and data sources, while implementing updated international standards. This work will ensure our statistics remain relevant, aligned, and fit for purpose, providing the insights needed to support better decision-making and a stronger economy.
+
+What We're Looking For
+
+Successful applicants will bring strong technical expertise, a collaborative approach, and the ability to quickly learn and adapt in a fast-paced and evolving environment.
+
+Experience or exposure with Databricks or similar modern data platform and modern cloud-based data platforms will be important to these roles.
+
+Engineer/Software Engineer
+
+The Engineer is responsible for the design, development, modernisation, and operational support of data platforms and analytical solutions within Databricks and related cloud environments. This role will contribute to the development of robust, scalable, and maintainable engineering solutions supporting Balance of Payments (BOP) and other business-critical statistical systems.
+
+The Engineer will write application code, modernising R/SAS/legacy solutions and implement business logic.
+
+You'll bring strong hands-on experience with Databricks or a similar modern data platform, experience building and maintaining data pipelines and analytical solutions, proficiency in Python and SQL, and experience working with Python/PySpark/R and have some understanding of a statistical production environment.
+
+Data Engineers
+
+Data Engineers are responsible for designing and building production-quality data pipelines and governed data products within a Databricks-based platform, as well as transforming datasets and publishing data products. These roles will work closely with Technical Business Analysts, architects, and methodologists to modernise legacy data processes and deliver reliable and auditable data products.
+
+You’ll need to be able to design, build, and operate data pipelines on Databricks using Python, PySpark, R, SQL, and Delta Lake and endorsed tools / stacks; and develop and maintain production grade R and Python notebooks, libraries, and jobs.
+
+Platform/DevOps Engineer
+
+The Platform/ DevOps Engineer is responsible for scaling, stabilising, and enabling delivery across the Databricks platform environment. The focus of this role is on automation, environment management, security, deployment pipelines, and operational excellence, ensuring delivery teams can work efficiently and safely at pace.
+
+The role will also maintain CI/CD pipelines, permissions, Unity Catalog, and observability capabilities.
+
+You’ll need to be able to configure and manage Databricks workspaces, environments, and access; support Unity Catalog domain setup, permissions, and governance alignment. This includes enabling CI/CD for Databricks notebooks, jobs, and pipelines using Git-based workflows.
+
+Test Engineer
+
+The Test Engineer is responsible for ensuring the quality, accuracy, reliability, and auditability of modernised data products and statistical processing solutions. This role will establish and execute testing approaches across data pipelines, calculations, transformations, and reporting outputs, with a strong emphasis on quality assurance and automation.
+
+The role will focus on testing Databricks pipelines, notebooks, and related artefacts for the new solutions; supporting regression testing within modernisation and system replacement initiatives; and embedding quality assurance into agile or PI-based delivery models.
+
+You’ll have strong experience in software testing, data testing, or quality engineering roles; testing data pipelines, analytics solutions, or data platforms, and experience developing automated test frameworks and regression testing approaches. Strong SQL skills and the ability to interrogate and validate datasets will be essential.
+
+What’s in it for you? | Ngā hua ka riro ki a koe 
+
+These are roles that will deepen your technical expertise while building the skills needed for more senior technical roles.  
+
+You’ll be joining an environment that values both quality and learning. From day one, you’ll be supported to build your technical confidence and understanding of how our work fits together. 
+
+Take a look at our Stats NZ Careers Page to learn more about our values, the way we work and check out our employee benefits.  
+
+Starting salary for this position: $84,027- $113,683 + kiwisaver    
+
+About Us | Ko mātou    
+
+Stats NZ Tatauranga Aotearoa is the National Statistics Office, leading the way in data and insights. While this is our focus, it’s our people who are central to everything we do. We value diverse perspectives and experiences, recognising that our work is strengthened by the people behind it.   
+
+We’re proud of the role we play in guiding and strengthening the data system, with a goal of delivering high quality data with equitable access for all.   
+
+How to apply | Me pēhea te tuku tono 
+
+Click Apply Now to submit your application. You won't need to include a cover letter instead you'll be required to complete some role specific application questions that align to the capabilties for the role.
+
+To view the position description for each role, please click here: Position Description Systems Software Engineer.docx Position Description Data Engineer.docx Position Description Cloud DevOps Engineer.docx Position Description Senior Analyst Tester.docx
+
+Applications will be reviewed as they are received, and we aim to move quickly to interviews.  This role will close on Sunday 4 October.
+
+If you require any adjustments or support during the recruitment process, please let us know — we’re committed to making the process accessible for everyone. 
+
+Please contact Amber Hawthorn directly with any questions -amber.hawthorn@stats.govt.nz  
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development and IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Stats NZ by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Intermediate Infrastructure Engineer
+Intermediate Infrastructure Engineer
+centrapay
+Christchurch, Canterbury, New Zealand
+NZ$90,000 - NZ$125,000
+1 week ago
+Software Development Engineer in Test
+Software Development Engineer in Test
+Trimble Inc.
+Christchurch, Canterbury, New Zealand
+2 days ago
+Principal Engineer - Cloud & DevOps
+Principal Engineer - Cloud & DevOps
+LAB3
+Christchurch, Canterbury, New Zealand
+2 weeks ago
+Test Automation Engineer
+Test Automation Engineer
+Jade Software Corporation
+Christchurch City, Canterbury, New Zealand
+2 days ago
+Cloud Engineer - AWS
+Cloud Engineer - AWS
+Datacom
+Christchurch, Canterbury, New Zealand
+4 days ago
+Data Engineer
+Data Engineer
+Onside
+Christchurch, Canterbury, New Zealand
+1 month ago
+Show more jobs like this 
+People also viewed
+Senior Software Engineer
+Senior Software Engineer
+
+Phocas Software
+
+Christchurch, Canterbury, New Zealand
+1 week ago
+Senior Software Engineer - AI Platform
+Senior Software Engineer - AI Platform
+
+Fusion5
+
+Christchurch, Canterbury, New Zealand
+2 weeks ago
+DevSecOps Engineer (9 Month FTC)
+DevSecOps Engineer (9 Month FTC)
+
+Sourced IT Recruitment
+
+Christchurch, Canterbury, New Zealand
+2 weeks ago
+Laravel / PHP Developer
+Laravel / PHP Developer
+
+First Focus
+
+Christchurch, Canterbury, New Zealand
+NZ$120,000 - NZ$175,000
+2 months ago
+Senior Front-end Engineer (React) (Location - Australia or New Zealand)
+Senior Front-end Engineer (React) (Location - Australia or New Zealand)
+
+Creative Fabrica
+
+Christchurch, Canterbury, New Zealand
+3 weeks ago
+Development Lead - AI
+Development Lead - AI
+
+Sourced IT Recruitment
+
+Christchurch, Canterbury, New Zealand
+2 weeks ago
+ICT & Building Technologies Engineer
+ICT & Building Technologies Engineer
+
+Beca
+
+Christchurch, Canterbury, New Zealand
+3 weeks ago
+Senior Developer / Tech Lead - AI LAB
+Senior Developer / Tech Lead - AI LAB
+
+Datacom
+
+Christchurch, Canterbury, New Zealand
+1 week ago
+Intern/ Graduate Software Engineer, NZ
+Intern/ Graduate Software Engineer, NZ
+
+Partly
+
+Christchurch, Canterbury, New Zealand
+2 weeks ago
+Desktop Support Analyst
+Desktop Support Analyst
+
+Stantec
+
+Christchurch, Canterbury, New Zealand
+2 weeks ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Stats NZ
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
