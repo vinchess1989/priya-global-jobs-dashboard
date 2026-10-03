@@ -2463,5 +2463,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Deadline (2026-10-02) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Salesforce Specialist",
+    "company": "Mercury NZ",
+    "location": "Tauranga, Bay of Plenty, New Zealand",
+    "url": "https://nz.linkedin.com/jobs/view/salesforce-specialist-at-mercury-nz-4470276187",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires a Salesforce Specialist focused on configuration and administration, which does not align with the candidate's expertise in release management, technical writing, or regulated-industry quality/compliance gatekeeping.",
+    "id": "3e27382d",
+    "source": "linkedin_nz_configuration_manager",
+    "added_at": "2026-10-04T00:04:59+03:00",
+    "posted_date": "2026-09-27",
+    "deadline": "2023-10-04",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2023-10-04) passed by more than 2 days and unreviewed"
   }
 ]
