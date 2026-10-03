@@ -1,0 +1,277 @@
+Title: ModiFace - DevOps Developer
+Company: L'Oréal
+Location: Toronto, Ontario, Canada
+URL: https://ca.linkedin.com/jobs/view/modiface-devops-developer-at-l-or%C3%A9al-4457111579
+Posted: 2026-09-19
+Deadline: N/A
+Reason: The job matches as a DevOps Engineer role with CI/CD pipeline ownership, cloud infrastructure (AWS/GCP), and aligns with the candidate's 15+ years of experience in regulated industries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+ModiFace - DevOps Developer
+L'Oréal  Toronto, Ontario, Canada
+2 weeks ago   Over 200 applicants
+  
+
+See who L'Oréal has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+DevOps Developer
+
+Shape the future of beauty tech with us. As the pioneer of beauty tech within L'Oréal Groupe, ModiFace builds and scales groundbreaking AR and AI experiences for the world's most influential beauty brands. Our patented technologies are rooted in nearly two decades of advanced facial recognition research—originated from the research labs at the University of Toronto and further accelerated through close collaboration with L’Oréal’s Global Research & Innovation teams.
+
+We power a diverse and sophisticated technology stack, tackling complex engineering challenges and making evolutionary advancements in a wide variety of emerging topics such as multi-modal GenAI solutions, specialized AI agents for beauty conversation, clinical-level skin analysis algorithms, and advanced computer vision and graphics.
+
+Join our team and help us build next-generation digital solutions that redefine how millions experience beauty worldwide. Let's create the beauty that moves the world!
+
+What You’ll Do
+
+
+Work closely with developers and the DevOps team to oversee deployments and code releases
+Maintain, own, and improve the build and deploy pipeline
+Administration and automation of the AWS and GCP infrastructure and environments
+Continuously improve the tooling, applications and environments
+Work within an agile framework, contributing to the delivery of high-quality products.
+Work directly with the application development team’s tech lead and/or product owner to prioritization of infrastructure and DevOps tasks to meet the team’s business roadmap
+Understand the requirement of new feature request from other teams from the Toronto Factory, the Lab, the Paris teams and cybersecurity stakeholders, providing feedback from the DevOps team’s perspective and work on the implementation
+Develop and improve operational practices and procedures
+Actively participate in code reviews, testing, and champion best software development practices.
+Investigate and adopt new technologies including use of AI and agents when appropriate
+Provide guidance to the junior team members
+Foster a culture of continuous learning, collaboration, and improvement within the team.
+Communicate complex technical and business concepts effectively to diverse audiences.
+Automate (almost) everything!
+
+
+What You’ll Need
+
+
+Bachelor's degree in Software Engineering or related technical fields
+5+ years experience as an DevOps/Infrastructure Engineer in a cloud development environment
+5+ years experience in administering GCP or AWS
+Very good understanding of DevOps concepts, techniques, tools and culture
+Expert in UNIX/Linux operating system.
+Experience working with Infrastructure as Code to manage and provision infrastructure
+Strong understanding of Cloud Networking VPC/Subnets, Load balancers, WAF and DNS management across multiple environments
+Experience with secrets management and IAM least privilege design across multiple accounts/projects
+Experience working on CI/CD pipelines such as Jenkins, GCP Cloud Build, etc.
+Familiarity with Security and Compliance tooling such as Guardduty, AWS Config, Crowdstrike, Tanium etc is nice to have
+Prior experience working closely with or being embedded with development teams
+Experience with Software Development lifecycles tools such as github, SonarQube and etc.
+Experience with monitoring tools such as AWS CloudWatch, GCP monitoring or similar for high availability and performant production applications
+Experience with Agile development methodologies and DevOps practices
+Implement robust security measures and ensure compliance with industry standards.
+Enjoy collaborating, learning from your colleagues, and teaching others.
+Scripting languages such as Bash or Python
+Experience working on AI tools such as Copilot, Claude Code and etc.
+
+
+Note: This is a Hybrid positions, you will need to commute to our downtown office minimum 2 days per week with possibility of 3 days per week.
+
+Compensation
+
+At ModiFace, we believe compensation should be transparent, fair, and reflective of both experience and impact. The total compensation for this role is $115,000 - $120,000. Compensation is determined based on skills, experience, and the scope and complexity of the role. We value open conversations about compensation and are happy to discuss our approach at any stage of the hiring process.
+
+Our Perks
+
+When you join ModiFace, you’ll enjoy working with a team of passionate engineers and business professionals who are open and collaborative within an inclusive environment. We offer an opportunity to advance and refine your skills and talent.
+
+Along with a competitive salary, we offer access to Health & Dental Benefits, including company-sponsored wellness & training programs, Worldwide Profit Sharing, RRSP matching, employee assistance programs, exciting in-office and off-site social activities, team lunches, a stocked kitchen, and more!
+
+At ModiFace, we create software used by diverse people globally. We value
+
+diversity and inclusion within our team to ensure we can deliver the fairest and
+
+accessible technology possible, so we welcome and encourage all persons to
+
+apply. Accommodations are available upon request for candidates taking part in
+
+all aspects of the selection process.
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Industries
+Manufacturing and Personal Care Product Manufacturing
+  
+
+Referrals increase your chances of interviewing at L'Oréal by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+DevOps Developer
+DevOps Developer
+RBC
+Toronto, Ontario, Canada
+4 days ago
+DevOps Engineer
+DevOps Engineer
+J&M Group
+Toronto, Ontario, Canada
+2 days ago
+DevOps
+DevOps
+Kumaran Systems
+Toronto, Ontario, Canada
+1 week ago
+DevOps Engineer
+DevOps Engineer
+Caseware
+Toronto, Ontario, Canada
+3 weeks ago
+DevOps Engineer
+DevOps Engineer
+Infosys
+Mississauga, Ontario, Canada
+1 week ago
+DevOps Engineer
+DevOps Engineer
+Caspian One
+Toronto, Ontario, Canada
+CA$80 - CA$110
+2 weeks ago
+Show more jobs like this 
+People also viewed
+DevOps Consultant, Application Development
+DevOps Consultant, Application Development
+
+CIBC
+
+Toronto, Ontario, Canada
+1 week ago
+Senior Software Developer – DevOps
+Senior Software Developer – DevOps
+
+General Motors
+
+Markham, Ontario, Canada
+5 days ago
+DevOps Engineer
+DevOps Engineer
+
+HOOPP (Healthcare of Ontario Pension Plan)
+
+Toronto, Ontario, Canada
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+TechBlocks
+
+Vaughan, Ontario, Canada
+3 weeks ago
+Sr. DevOps Engineer
+Sr. DevOps Engineer
+
+Borrowell
+
+Toronto, Ontario, Canada
+1 month ago
+DevOps Developer - Euna Grants
+DevOps Developer - Euna Grants
+
+Euna Solutions
+
+Oakville, Ontario, Canada
+2 weeks ago
+DevOps & Security Engineer
+DevOps & Security Engineer
+
+Reflow
+
+Toronto, Ontario, Canada
+3 months ago
+Senior Software Developer – DevOps
+Senior Software Developer – DevOps
+
+General Motors
+
+Oshawa, Ontario, Canada
+4 days ago
+Software Engineer - Tools & Infrastructure / DevOps
+Software Engineer - Tools & Infrastructure / DevOps
+
+Cerebras
+
+Toronto, Ontario, Canada
+1 month ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+SimCorp
+
+Toronto, Ontario, Canada
+6 days ago
+Similar Searches
+Marketing Services Manager jobs
+1,229 open jobs
+Patent Administrator jobs
+146 open jobs
+Cosmetics Manager jobs
+163 open jobs
+Formulation Chemist jobs
+67 open jobs
+Junior Brand Manager jobs
+2,576 open jobs
+Studio Supervisor jobs
+118 open jobs
+Marketing Intern jobs
+880 open jobs
+National Category Manager jobs
+215 open jobs
+Junior Category Manager jobs
+141 open jobs
+Career Assistant jobs
+5,499 open jobs
+Advocacy Coordinator jobs
+2,892 open jobs
+Trade Marketing Analyst jobs
+162 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at L'Oréal
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

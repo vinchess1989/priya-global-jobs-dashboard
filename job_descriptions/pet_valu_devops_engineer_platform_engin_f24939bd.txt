@@ -1,0 +1,314 @@
+Title: DevOps Engineer/Platform Engineer - Azure
+Company: Pet Valu
+Location: Markham, Ontario, Canada
+URL: https://ca.linkedin.com/jobs/view/devops-engineer-platform-engineer-azure-at-pet-valu-4473934213
+Posted: 2026-10-01
+Deadline: N/A
+Reason: The role aligns with Priya's expertise in DevOps engineering (CI/CD pipelines, Azure infrastructure) and falls within her target location (Canada), experience level (mid-senior), and regulated/safety-critical domain interest (though not explicitly regulated here, it matches her configuration management and cloud automation skills).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer/Platform Engineer - Azure
+Pet Valu  Markham, Ontario, Canada
+2 days ago  128 applicants
+  
+
+See who Pet Valu has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Hybrid: Markham, Ontario
+
+Job Description
+
+Position: DevOps Engineer/Platform Engineer - Azure
+
+Type: Full-Time | Permanent | Hybrid
+
+Location: Markham, ON
+
+Reports to: Director, Security and Infrastructure, IT
+
+About Us
+
+Pet Valu is Canada’s leading pet specialty retailer, dedicated to strengthening the bond between dedicated pet lovers and their pets. With 50 years of animal care expertise, we operate over 800 stores across Canada under several banners, including Pet Valu, Bosley’s, Total Pet, Paulmac's Pet, Tisol & Chico. Guided by our mission to deliver products, care, expertise, and memorable moments, Pet Valu is a place where people build meaningful careers while making a positive impact on pets and communities.
+
+Job Summary
+
+Looking for DevOps Engineer/ Platform Engineer to help design and operate the infrastructure and CI/CD platform supporting our cloud-based applications. This role focuses on building scalable deployment pipelines, managing infrastructure as code, and architecting secure Azure environments across multiple deployment stages. The ideal candidate has strong hands-on experience with GitHub Actions, Terraform/Terragrunt, and Azure cloud architecture, and is comfortable designing solutions that support multiple engineering teams.
+
+Essential Duties And Responsibilities
+
+
+Design and maintain CI/CD pipelines using GitHub Actions, including reusable and shared workflow components
+Build and manage infrastructure as code using Terraform and Terragrunt
+Architect and maintain Azure cloud environments across Dev, QA, and Production
+Design and manage Azure networking, including VNets, subnets, routing, and security controls
+Establish and maintain deployment standards and automation patterns across repositories
+Manage GitHub repositories, branching strategies, and pipeline governance
+Collaborate with engineering teams to design scalable and secure cloud solutions
+Troubleshoot CI/CD, infrastructure, and cloud platform issues
+
+
+Skills, Experience, Education, Certifications
+
+
+University/College Diploma in Computer Science or a related field.
+5 years of experience as a platform engineer, cloud engineer, or in a related field.
+Strong experience with GitHub Actions and CI/CD pipeline design
+Experience building reusable workflow pipelines
+Strong experience with Terraform and Terragrunt
+Strong knowledge of Microsoft Azure cloud services
+Experience designing multi-environment architectures (Dev / QA / Prod)
+Experience with Azure networking and security controls
+Strong knowledge of Git and GitHub repository management
+
+
+Preferred Skills
+
+
+Experience with platform engineering or internal developer platforms
+Experience working in enterprise cloud environments
+Experience with container platforms or Kubernetes
+Experience building reusable infrastructure modules
+Any Certification is a bonus.
+
+
+What You'll Actually Work On
+
+You will help design and maintain the engineering platform that supports our cloud applications and development teams. The environment is heavily automated and infrastructure-driven.
+
+Examples of the work you will be involved in include:
+
+
+Building and maintaining GitHub Actions CI/CD pipelines, including reusable workflows shared across multiple repositories
+Managing infrastructure as code using Terraform and Terragrunt, with modular infrastructure patterns
+Designing and maintaining Azure cloud environments with clear separation between development, QA, and production
+Implementing and supporting Azure networking architecture, including virtual networks, private connectivity, routing, and security controls
+Improving deployment automation and platform reliability across multiple services and teams
+Partnering with engineering teams to design scalable cloud solutions and deployment strategies
+
+
+This role is well suited for engineers who enjoy working at the intersection of cloud architecture, automation, and developer platforms, and who want to build systems that enable teams to deploy and operate software efficiently.
+
+Compensation
+
+The targeted salary range for this position is $110,000 - $130,000 annually. The final offer will be based on factors such as market location, relevant skills, experience and internal equity.
+
+Ready to join the team?
+
+We’re looking for passionate people who bring strong skills and live our core values of safety, compassion, expertise, and efficiency every day. If you’re energized by doing meaningful work, taking pride in what you deliver, and making a real impact for pets, people, and communities, you’ll feel right at home here. Join us and build a career where purpose, care, and excellence come together - because love lives here™.
+
+Why work for us?
+
+About
+
+At Pet Valu, our people are at the heart of everything we do. We’re passionate about creating an environment where you feel supported, included, and empowered to grow - both personally and professionally. Some of the perks of working with us include:
+
+
+Hybrid, Flexible Work Options
+Comprehensive health and dental benefits
+Employee Share Purchase Plan with company matching
+Learning and Development support tailored to you
+An inclusive, collaborative culture where your voice matters
+Fun company events that keep us connected
+Preferred rates for car rentals, hotels, phone plans and gym discounts
+Generous employee discounts on our products
+
+
+Pet Valu is an equal opportunity employer committed to inclusion and accessibility. Accommodations are available upon request for candidates taking part in all aspects of the recruitment and selection process, in accordance with the Accessibility for Ontarians with Disabilities Act (AODA).
+
+At Pet Valu, we are committed to transparency and fairness in our hiring practices. This posting is for an existing vacancy. Pet Valu may use AI enabled technology to assist in the recruitment process for positions. The use of AI helps us ensure we are providing an equitable and streamlined recruitment experience for all applicants. While AI tools support our recruitment process, all decisions throughout the process are made exclusively by Pet Valu’s hiring team. At no stage does AI determine recruitment outcomes.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Retail
+  
+
+Referrals increase your chances of interviewing at Pet Valu by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Cloud Engineer ( Azure Platform Engineer)- Remote Ontario
+Cloud Engineer ( Azure Platform Engineer)- Remote Ontario
+Smile Digital Health
+Toronto, Ontario, Canada
+CA$115,000 - CA$130,000
+2 months ago
+Cloud Engineer
+Cloud Engineer
+FacilityOS
+North York, Ontario, Canada
+CA$80,000 - CA$100,000
+3 days ago
+DevOps Engineer
+DevOps Engineer
+HOOPP (Healthcare of Ontario Pension Plan)
+Toronto, Ontario, Canada
+1 week ago
+Azure Platform Engineer
+Azure Platform Engineer
+J&M Group
+Toronto, Ontario, Canada
+1 month ago
+Cloud Engineer
+Cloud Engineer
+Morson Edge (Canada)
+Oakville, Ontario, Canada
+CA$95,000 - CA$135,000
+1 week ago
+Developer, Platform Engineering
+Developer, Platform Engineering
+Scotiabank
+Toronto, Ontario, Canada
+5 days ago
+Show more jobs like this 
+People also viewed
+Sr. Cloud Platform Engineer
+Sr. Cloud Platform Engineer
+
+HOOPP (Healthcare of Ontario Pension Plan)
+
+Toronto, Ontario, Canada
+1 day ago
+DevOps Engineer
+DevOps Engineer
+
+Tata Consultancy Services
+
+Greater Toronto Area, Canada
+CA$100,000 - CA$120,000
+1 week ago
+Sr. Cloud Platform Specialist
+Sr. Cloud Platform Specialist
+
+McKesson
+
+Mississauga, Ontario, Canada
+5 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Keyfactor
+
+Toronto, Ontario, Canada
+2 days ago
+Member of Technical Staff - Infrastructure
+Member of Technical Staff - Infrastructure
+
+Phylo
+
+Toronto, Ontario, Canada
+CA$150,000 - CA$300,000
+5 months ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Nelnet
+
+Mississauga, Ontario, Canada
+1 month ago
+Azure DevOps Engineer
+Azure DevOps Engineer
+
+LTIMindtree
+
+Toronto, Ontario, Canada
+CA$108,000 - CA$126,000
+7 months ago
+DevOps Engineer II
+DevOps Engineer II
+
+commonsku
+
+Toronto, Ontario, Canada
+CA$110,000 - CA$130,000
+3 days ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+KPMG Canada
+
+Vaughan, Ontario, Canada
+2 weeks ago
+Lead Cloud Platform Engineer, Azure
+Lead Cloud Platform Engineer, Azure
+
+Thomson Reuters
+
+Toronto, Ontario, Canada
+2 days ago
+Similar Searches
+Site Reliability Engineer jobs
+7,519 open jobs
+Platform Architect jobs
+4,355 open jobs
+Build And Release Engineer jobs
+1,070 open jobs
+Infrastructure Engineer jobs
+3,272 open jobs
+Data Management Coordinator jobs
+3,891 open jobs
+Linux Engineer jobs
+1,104 open jobs
+Senior Infrastructure Engineer jobs
+1,473 open jobs
+Virtualization Engineer jobs
+1,170 open jobs
+Cloud Architect jobs
+2,940 open jobs
+Pipeline Engineer jobs
+1,681 open jobs
+System Development Engineer jobs
+14,564 open jobs
+Contract Database Administrator jobs
+46 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Pet Valu
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

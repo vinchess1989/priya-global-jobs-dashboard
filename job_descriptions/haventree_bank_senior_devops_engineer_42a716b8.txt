@@ -1,0 +1,277 @@
+Title: Senior DevOps Engineer
+Company: Haventree Bank
+Location: Toronto, Ontario, Canada
+URL: https://ca.linkedin.com/jobs/view/senior-devops-engineer-at-haventree-bank-4435340930
+Posted: 2026-09-26
+Deadline: N/A
+Reason: The job aligns with Priya's DevOps Engineer experience (CI/CD pipeline ownership, cloud infrastructure automation), is located in Canada (target country), and matches her senior-level expertise and regulated-industry compliance background.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer
+Haventree Bank  Toronto, Ontario, Canada
+1 week ago   Over 200 applicants
+  
+
+See who Haventree Bank has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+About Haventree Bank
+
+Haventree Bank is a Schedule I Canadian bank dedicated to advancing financial security and upward mobility for Canadians underserved by traditional financial services. Through our broker-distributed alternative mortgage and GIC solutions, as well as our growing digital banking platform, we provide straightforward products that support long-term financial well-being and meaningful growth.
+
+As a CDIC-insured, federally regulated bank, we offer the trust and stability of a traditional financial institution while embracing the innovation and customer-first mindset of a modern digital bank.
+
+If you're looking for a place where your work has a direct impact, your ideas are valued, and innovation is encouraged, Haventree Bank is the place for you.
+
+Position Summary
+
+Reporting to the Lead DevOps Engineer at Haventree Bank, you will be responsible for designing, implementing and managing a secure and efficient DevOps process as well as cloud infrastructure within Azure, AWS cloud environments.
+
+Major Duties & Responsibilities
+
+
+CI/CD Pipeline Development: Architect and maintain robust, automated CI/CD pipelines for efficient software delivery and deployment. Leverage tools such as GitHub Actions, Sonar Cloud, and Snyk to streamline development processes.
+Cloud Infrastructure Design & Management/Automation (IaaC): Drive automation in infrastructure provisioning, configuration management, and system monitoring using tools like Terraform and Bash/Python scripts.
+Security & Compliance: Implement security best practices aligned with federal and provincial regulatory requirements (OSFI, etc.), including continuous monitoring and vulnerability management. Ensure compliance across all stages of development and deployment.
+Azure Networking: Design and manage secure Azure network architectures including hub-and-spoke topologies, Virtual Networks (VNets), subnets, Network Security Groups (NSGs), User-Defined Routes, and VNet peering. Implement and operate Azure Firewall, Application Gateway with WAF, Azure Front Door, Private Endpoints, and Private Link to enforce zero-trust connectivity. Manage hybrid connectivity through ExpressRoute and Site-to-Site VPN gateways and administer Azure DNS (private and public zones) for reliable name resolution across environments.
+Containerization & Orchestration: Utilize Docker and Kubernetes to containerize applications and deploy them in scalable environments.
+Performance Monitoring, Reporting & Optimization: Implement proactive monitoring, logging and reporting solutions (using Azure Monitor, MS Defender, AWS CloudWatch, etc.) to track and monitor system performance and identify potential issues before they impact operations.
+Incident Response & Troubleshooting: Investigate production issues, ensuring fast resolution while conducting thorough root cause analysis and applying preventative measures.
+Documentation & Reporting: Maintain comprehensive documentation of systems, processes, and configurations.
+Cost Optimization: Provide consultation on cost-effective solutions, balancing performance, security, and scalability while managing budget constraints.
+
+
+Qualifications & Experience
+
+Degrees, Diplomas & Certifications:
+
+
+The position requires a Bachelor’s degree in Computer Science, Software Engineering, or a related field, or equivalent professional experience.
+
+
+Years and Range of Experience Required to Perform the Job:
+
+
+7+ years of experience in DevOps, Software Development, Cloud Engineering, or similar roles.
+Proven expertise in GitHub Actions/AzureDevOps, CI/CD pipeline design and implementation (Experience in AWS cloud platforms/DevOps is a plus)
+Extensive experience with Terraform for infrastructure provisioning and management
+Strong understanding of Azure networking concepts including hub-and-spoke architecture, VNets, subnets, NSGs, route tables, VNet peering, Private Endpoints, Azure Firewall, Application Gateway/WAF, Azure Front Door, ExpressRoute/VPN, and Azure DNS.Working knowledge of containerization technologies such Docker and Kubernetes, AKS/EKS etc.
+Familiarity with security principles and regulatory compliance (e.g., OSFI, Quebec Law 25, PCI-DSS).
+Solid understanding of Azure Cloud services including monitoring, logging and reporting tools
+Solid scripting experience in Bash, PowerShell, Python, or similar languages.
+Strong troubleshooting and performance tuning skills in distributed systems.
+Experience working in an Agile, Kanban, or Scrum development environment.
+
+
+Preferred Skills
+
+
+Certifications:
+Azure Cloud DevOps Engineer Certification.
+HashiCorp Terraform Associate or higher certification.
+Cloud Infrastructure & DevOps, CI/CD Tools: Experience with Amazon Web Service (AWS) is a plus
+Security: Knowledge of ZTNA/SASE, DLP (Data Loss Prevention), Okta, and secure network topologies in cloud environments.
+Scripting & Automation: Familiarity with tools like Ansible, Chef, or Puppet for configuration management.
+Monitoring Tools: Experience with Cloud Native monitoring, logging and reporting tools
+Software Development: Experience with application development, tools and software engineering tools.
+
+While we thank everyone for their interest in Haventree Bank, please note that only candidates selected for an interview will be contacted. Haventree Bank is committed to providing accommodation when needed. If you require an accommodation, we will work with you to meet your needs.
+
+
+As a job candidate, our recruitment process includes collecting personal information. Please click the link here to review our Privacy Policy. Privacy Statement | Haventree Bank
+Stay in touch with us, if this position is not the right one for you – please click on this link for other roles at Careers | Haventree Bank or follow us on LinkedIn at www.linkedin.com/company/haventree-bank/
+Haventree Bank embraces equal opportunity, diversity, and inclusion. Please let us know if you require any accommodations during the recruitment and selection process by contacting accessibility@haventreebank.com
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at Haventree Bank by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Senior DevOps Engineer
+Senior DevOps Engineer
+CARET
+Toronto, Ontario, Canada
+$140,000 - $170,000
+4 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Keyfactor
+Toronto, Ontario, Canada
+2 days ago
+Senior DevOps Engineer, Agentic Automation & Live Games
+Senior DevOps Engineer, Agentic Automation & Live Games
+Big Viking Games
+Toronto, Ontario, Canada
+CA$140,000 - CA$180,000
+1 month ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Scotiabank
+Toronto, Ontario, Canada
+2 weeks ago
+Sr. DevOps Engineer
+Sr. DevOps Engineer
+Borrowell
+Toronto, Ontario, Canada
+1 month ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Tetra Digital Group
+Toronto, Ontario, Canada
+CA$200,000 - CA$300,000
+1 month ago
+Show more jobs like this 
+People also viewed
+Senior Platform Engineer
+Senior Platform Engineer
+
+Scotiabank
+
+Toronto, Ontario, Canada
+1 week ago
+ModiFace - DevOps Developer
+ModiFace - DevOps Developer
+
+L'Oréal
+
+Toronto, Ontario, Canada
+2 weeks ago
+Platform Engineer, Cloud Dev/Ops - Depop
+Platform Engineer, Cloud Dev/Ops - Depop
+
+eBay
+
+Toronto, Ontario, Canada
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Proofpoint
+
+Toronto, Ontario, Canada
+1 week ago
+AI-First DevOps Engineer
+AI-First DevOps Engineer
+
+Computrition, Inc.
+
+Greater Toronto Area, Canada
+1 month ago
+Senior Software Engineer, Cloud Engineering
+Senior Software Engineer, Cloud Engineering
+
+Mozilla
+
+Toronto, Ontario, Canada
+2 months ago
+Senior DevOps Engineer, for AI-based Systems
+Senior DevOps Engineer, for AI-based Systems
+
+Oncoustics
+
+Toronto, Ontario, Canada
+2 months ago
+DevOps Engineer II
+DevOps Engineer II
+
+commonsku
+
+Toronto, Ontario, Canada
+CA$110,000 - CA$130,000
+3 days ago
+Senior Cloud Infrastructure Engineer
+Senior Cloud Infrastructure Engineer
+
+Signal 1
+
+Toronto, Ontario, Canada
+6 days ago
+Sr. DevSecOps Engineer
+Sr. DevSecOps Engineer
+
+Rogers Communications
+
+Brampton, Ontario, Canada
+2 weeks ago
+Similar Searches
+Accounting Instructor jobs
+806 open jobs
+Mortgage Manager jobs
+1,406 open jobs
+Client Portfolio Manager jobs
+411 open jobs
+Senior Economist jobs
+25 open jobs
+Commercial Underwriter jobs
+266 open jobs
+Windows Administrator jobs
+946 open jobs
+Windows System Administrator jobs
+882 open jobs
+Credit Risk Analyst jobs
+8,810 open jobs
+Vice President of Technology jobs
+231 open jobs
+Student Services Coordinator jobs
+2,810 open jobs
+Business System Analyst jobs
+2,777 open jobs
+Chartered Financial Analyst jobs
+8,444 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Haventree Bank
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

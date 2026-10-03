@@ -1,0 +1,321 @@
+Title: Senior DevOps Engineer
+Company: Bounteous
+Location: Montreal, Quebec, Canada
+URL: https://ca.linkedin.com/jobs/view/senior-devops-engineer-at-bounteous-4467929726
+Posted: 2026-09-19
+Deadline: N/A
+Reason: The role aligns with Priya's DevOps/CI-CD expertise, located in Canada (target country), and matches her configuration management background.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer
+Bounteous  Montreal, Quebec, Canada
+2 weeks ago  114 applicants
+  
+
+See who Bounteous has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Location: Montreal, QC (Hybrid — 3 days per week in office) Experience: 4+ years
+
+Employment type: Full-time
+
+About The Role
+
+We are seeking a Senior DevOps Engineer to join our Release Management team in
+
+Montreal. In this role, you will serve as the dedicated point of coverage for managing and
+
+coordinating production releases during EST business hours, ensuring timely release
+
+execution and operational stability across our environments.
+
+You will play a central role in release governance — planning, coordinating, and executing
+
+production deployments while working closely with development, QA, and infrastructure
+
+teams to minimize delivery risk and keep production activities running smoothly.
+
+Key Responsibilities
+
+
+Manage and coordinate production releases end to end, including scheduling,
+
+
+execution, validation, and rollback planning
+
+
+Provide dedicated release coverage during EST business hours, acting as the
+
+
+primary point of contact for release activities in the region
+
+
+Maintain and enforce release governance processes, ensuring changes move to
+
+
+production in a controlled, auditable manner
+
+
+Design, build, and maintain CI/CD pipelines to support reliable, repeatable
+
+
+deployments
+
+
+Automate build, deployment, and operational tasks using Python and shell scripting
+Support and troubleshoot containerized workloads running on Docker and
+
+
+Kubernetes
+
+
+Apply SRE and production engineering practices: monitoring, alerting, incident
+
+
+response, and post-incident review
+
+
+Diagnose and resolve issues spanning application, network, and Linux
+
+
+infrastructure layers
+
+
+Collaborate with development and QA teams to improve deployment frequency,
+
+
+reduce lead time, and lower change failure rates
+
+
+Document release procedures, runbooks, and operational processes
+
+
+Required Qualifications
+
+
+4+ years of hands-on experience in DevOps, SRE, or production engineering roles
+Strong experience managing or coordinating production releases in an enterprise
+
+
+environment
+
+
+Proficiency with CI/CD tooling and pipeline design; hands-on experience with
+
+
+GitHub and GitHub Actions (or comparable platforms)
+
+
+Solid experience with Docker and Kubernetes in production environments
+Strong scripting skills in Python and shell (Bash)
+Strong Linux administration and troubleshooting skills
+Working knowledge of networking fundamentals (DNS, load balancing, firewalls,
+
+
+TCP/IP)
+
+
+Experience with monitoring, logging, and observability tooling
+Ability to work on-site in Montreal 3 days per week and provide coverage during EST
+
+
+business hours
+
+Nice to Have
+
+
+Experience with infrastructure as code (Terraform, Ansible, or similar)
+Exposure to cloud platforms (AWS, Azure, or GCP)
+Experience in regulated or change-controlled environments
+Bilingual (English/French
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Bounteous by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+DevOps (SRE)
+DevOps (SRE)
+Bounce
+Montreal, Quebec, Canada
+4 weeks ago
+Senior Devops
+Senior Devops
+Archie
+Montreal, Quebec, Canada
+1 week ago
+Senior DevOps Integrator
+Senior DevOps Integrator
+National Bank of Canada
+Montreal, Quebec, Canada
+3 weeks ago
+Senior DevOps Integrator
+Senior DevOps Integrator
+National Bank of Canada
+Montreal, Quebec, Canada
+3 weeks ago
+Sr. DevOps / Cloud Infrastructure Engineer
+Sr. DevOps / Cloud Infrastructure Engineer
+Brainpower360
+Montreal, Quebec, Canada
+CA$120,000 - CA$140,000
+3 days ago
+DevOps Senior
+DevOps Senior
+Astek
+Montreal, Quebec, Canada
+3 weeks ago
+Show more jobs like this 
+People also viewed
+DevOps
+DevOps
+
+Extia
+
+Montreal, Quebec, Canada
+1 week ago
+MONTREAL [HYBRID] - DevOps/SRE Senior
+MONTREAL [HYBRID] - DevOps/SRE Senior
+
+QUANTEAM - North America (RAINBOW PARTNERS Group)
+
+Montreal, Quebec, Canada
+2 weeks ago
+Cloud Platform Engineer
+Cloud Platform Engineer
+
+Baseten
+
+Montreal, Quebec, Canada
+$165,000 - $330,000
+2 months ago
+DevOps Engineer (Cloud Infrastructure)
+DevOps Engineer (Cloud Infrastructure)
+
+Tecsys Inc.
+
+Montreal, Quebec, Canada
+1 week ago
+Analyste DevOps, Pipelines CI/CD
+Analyste DevOps, Pipelines CI/CD
+
+TMX Group
+
+Montreal, Quebec, Canada
+2 weeks ago
+Infrastructure Developer, Platform Engineering
+Infrastructure Developer, Platform Engineering
+
+MaintainX
+
+Montreal, Quebec, Canada
+CA$88,000 - CA$195,000
+1 week ago
+Senior / Staff Cloud Infrastructure Engineer
+Senior / Staff Cloud Infrastructure Engineer
+
+Lasso Informatics
+
+Montreal, Quebec, Canada
+2 days ago
+Senior Software Developer, DevOps & Infrastructure
+Senior Software Developer, DevOps & Infrastructure
+
+Osedea
+
+Montreal, Quebec, Canada
+3 months ago
+DevOps Programmer - Core Technologies | Programmeur·euse DevOps - Technologies centrales
+DevOps Programmer - Core Technologies | Programmeur·euse DevOps - Technologies centrales
+
+Behaviour Interactive
+
+Montreal, Quebec, Canada
+3 months ago
+DevOps and DataOps Specialist
+DevOps and DataOps Specialist
+
+Moment Factory
+
+Montreal, Quebec, Canada
+1 month ago
+Similar Searches
+Clinical Pharmacy Manager jobs
+192 open jobs
+Director Marketing Technology jobs
+176 open jobs
+User Experience Architect jobs
+366 open jobs
+Director of Special Projects jobs
+630 open jobs
+Book Reviewer jobs
+1,170 open jobs
+Senior Manager Analytics jobs
+611 open jobs
+Senior Campaign Manager jobs
+1,204 open jobs
+Automation Developer jobs
+910 open jobs
+Director Marketing Analytics jobs
+235 open jobs
+Strategic Project Manager jobs
+3,253 open jobs
+Production Support Engineer jobs
+14,315 open jobs
+Product Management Consultant jobs
+2,100 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Bounteous
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
