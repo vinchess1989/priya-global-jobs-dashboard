@@ -2055,5 +2055,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Deadline (2026-09-18) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Statutory Advisor | Kaitohu \u0101-Ture",
+    "company": "Department of Conservation (DOC)",
+    "location": "Wellington, New Zealand",
+    "url": "https://nz.linkedin.com/jobs/view/statutory-advisor-kaitohu-%C4%81-ture-at-department-of-conservation-doc-4472875002",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires a valid New Zealand work visa, which Priya does not hold and cannot obtain without employer sponsorship, which is not offered in this posting.",
+    "id": "8a470365",
+    "source": "linkedin_nz_eu_mdr",
+    "added_at": "2026-10-03T12:45:37+03:00",
+    "posted_date": "2026-10-02",
+    "deadline": "2023-10-18",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2023-10-18) passed by more than 2 days and unreviewed"
   }
 ]
