@@ -2123,5 +2123,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Business Development Manager",
+    "company": "Recruitmark",
+    "location": "Auckland, New Zealand",
+    "url": "https://nz.linkedin.com/jobs/view/business-development-manager-at-recruitmark-4466826337",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires New Zealand citizenship or permanent residency (no sponsorship offered) and is a quota-carrying sales role mislabeled as 'Business Development Manager', which falls under hard rejections for both visa requirements and role type mismatch.",
+    "id": "0a3d86c1",
+    "source": "linkedin_nz_iso_13485",
+    "added_at": "2026-10-03T15:11:01+03:00",
+    "posted_date": "2026-09-19",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
