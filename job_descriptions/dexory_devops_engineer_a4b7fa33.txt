@@ -1,0 +1,306 @@
+Title: DevOps Engineer
+Company: Dexory
+Location: Oxfordshire, England, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/devops-engineer-at-dexory-4462854413
+Posted: 2026-09-30
+Deadline: N/A
+Reason: The DevOps Engineer role at Dexory matches Priya’s CI/CD/release management expertise, regulated-industry experience, and target location (UK). It aligns with her configuration management background and falls within the approved domain.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+Dexory  Oxfordshire, England, United Kingdom
+3 days ago  192 applicants
+  
+
+See who Dexory has hired for this role
+
+Apply
+Save
+
+DevOps Engineer / SRE / Cloud / Docker / Kubernetes
+
+
+
+
+Location: Wallingford - Oxfordshire (Hybrid) onsite circa 1 day per week
+
+
+
+
+Permanent
+
+
+
+
+At Dexory, we are transforming the warehousing and logistics industry through data intelligence.
+
+We’re currently recruiting for a senior infrastructure engineer to define, build and operate the infrastructure and tooling necessary for our rapidly growing business. You will be responsible for supporting high-velocity deployment of user-facing applications, internal services, and infrastructure at scale, while ensuring stability, reliability and automation.
+
+
+
+
+Offices based in Wallingford, Oxford but flexible hybrid basis (circa one day every week on site)
+
+
+
+
+Any experience within robotics or start up / scale up environments desirable along with experience working on multiple cloud platforms vs being tied to just vendor.
+
+
+
+
+Open to the career background candidates are coming from (infrastructure, DevOps, site reliability, platform etc)
+
+
+
+
+Please apply for more information.
+
+
+
+
+Responsibilities / Skills
+
+
+
+
+Develop and Maintain CI/CD pipelines and developer tooling that supports multiple engineering teams with different technical requirements – enabling self-service, repeatable deployments, and high-throughput delivery.
+Manage cloud infrastructure across a wide range of cloud providers, using Kubernetes, for both user-facing applications and internal services – provision, monitor, optimise cost, performance and reliability.
+Build infrastructure-as-code (IaC) with Terraform on Terraform Cloud, establishing standards for repeatable environments, reducing manual processes and increasing automation.
+Support monitoring, logging, observability and alerting systems, via Grafana, to support production health, incident detection, root-cause analysis and rapid recovery.
+Drive a culture of DevOps best-practice across teams: infrastructure reliability, deployment-velocity, automated testing, rollback strategies, security/infrastructure hardening.
+Strong hands-on expertise with cloud platforms (AWS/Azure/GCP), infrastructure as code (ideally Terraform), containers (Docker), container orchestration (Kubernetes), and CI/CD tooling.
+Proven track record of building and managing CI/CD pipelines (ideally GitHub Actions), automation frameworks.
+
+
+
+
+Benefits
+
+
+
+
+Starting from the interview process and continuing into your career with us, you will be working by our four Operating Principles:
+
+
+
+
+Performance: High standards, outstanding results,
+Impact: Big challenges, bigger results
+Commitment: All in, every time
+One team: One mission, shared success
+
+
+
+
+Joining our team and company isn't just about expertise; it's about embracing uncertainty with ambition. We're crafting world-changing solutions, fuelled by a passion to redefine what's possible. We will look for you to help create and shape the future of logistics solutions through our products, our culture and our shared vision.
+
+
+
+
+You will also receive:
+
+Private healthcare via Bupa with 24/7 medical helpline
+Life insurance
+Income protection
+Pension: 4+% employee with option to opt into salary exchange, 5% employer
+Employee Assistance Programme - mental wellbeing, financial and legal advice/support
+25 days holiday per year + bank holidays
+Full meals onsite in Wallingford
+Fun team events on and offsite, snacks of all kinds in the office
+
+
+
+
+AAP/EEO Statement
+
+Dexory provides equal employment opportunities to all employees and applicants for employment. It prohibits discrimination and harassment of any type without regard to race, colour, religion, age, sex, national origin, disability status, genetics, protected veteran status, or any other characteristic protected by local laws. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.
+
+
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Robotics Engineering and Software Development
+  
+
+Referrals increase your chances of interviewing at Dexory by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Oxfordshire, England, United Kingdom.
+
+Sign in to create job alert
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+Dexory
+Wallingford, England, United Kingdom
+1 month ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Rebellion
+Oxford, England, United Kingdom
+4 days ago
+Platform Engineer
+Platform Engineer
+Nominet
+Oxford, England, United Kingdom
+2 weeks ago
+Platform Engineer
+Platform Engineer
+Atlassian Williams F1 Team
+Grove, England, United Kingdom
+1 week ago
+Systems Engineer
+Systems Engineer
+Perspectum Ltd
+Oxford, England, United Kingdom
+£50,000 - £75,000
+2 weeks ago
+Infrastructure & Cloud Operations Engineer - 12 month FTC
+Infrastructure & Cloud Operations Engineer - 12 month FTC
+Lucy Group Ltd
+Oxford, England, United Kingdom
+2 weeks ago
+Show more jobs like this 
+People also viewed
+IT Infrastructure Engineer
+IT Infrastructure Engineer
+
+Siemens Healthineers
+
+Oxford, England, United Kingdom
+3 days ago
+Software Engineer
+Software Engineer
+
+Habitat Energy
+
+Oxford, England, United Kingdom
+1 week ago
+Go-to-Market Engineer - Oxford, United Kingdom
+Go-to-Market Engineer - Oxford, United Kingdom
+
+Speechify
+
+Oxford, England, United Kingdom
+4 months ago
+Senior HPC Systems Administrator Closing date: Oct 16, 2026
+Senior HPC Systems Administrator Closing date: Oct 16, 2026
+
+University of Oxford, Department of Engineering Science
+
+Oxford, England, United Kingdom
+3 days ago
+Analytics Engineer
+Analytics Engineer
+
+Rebellion
+
+Oxford, England, United Kingdom
+4 days ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+
+DCS Group (UK) Ltd
+
+Oxfordshire, England, United Kingdom
+3 weeks ago
+Research Computing Storage Administrator
+Research Computing Storage Administrator
+
+University of Oxford
+
+Oxford, England, United Kingdom
+£39,424 - £47,779
+3 days ago
+IT Project Engineer
+IT Project Engineer
+
+Oxford Nanopore Technologies
+
+Oxford, England, United Kingdom
+1 month ago
+Data Centre Technician , Data Center Operations
+Data Centre Technician , Data Center Operations
+
+Amazon Web Services (AWS)
+
+Didcot, England, United Kingdom
+1 day ago
+Associate Software Engineer
+Associate Software Engineer
+
+Halliburton
+
+Milton, England, United Kingdom
+2 months ago
+Similar Searches
+Staffing Consultant jobs
+4,906 open jobs
+Recruitment Partner jobs
+13,111 open jobs
+Product Strategist jobs
+5,542 open jobs
+Security Engineer jobs
+14,272 open jobs
+Head of Recruitment jobs
+3,750 open jobs
+Lead Project Engineer jobs
+2,401 open jobs
+Sales Partner jobs
+14,909 open jobs
+Strategic Account Manager jobs
+6,296 open jobs
+Test Coordinator jobs
+1,106 open jobs
+Recruitment Specialist jobs
+15,674 open jobs
+Board Member jobs
+815 open jobs
+Junior Product Manager jobs
+3,940 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Dexory
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
