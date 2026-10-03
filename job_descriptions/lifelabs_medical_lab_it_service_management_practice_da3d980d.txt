@@ -1,0 +1,354 @@
+Title: IT Service Management Practice Lead (Hybrid, ON OR BC)
+Company: LifeLabs Medical Laboratory Services
+Location: Etobicoke, Ontario, Canada
+URL: https://ca.linkedin.com/jobs/view/it-service-management-practice-lead-hybrid-on-or-bc-at-lifelabs-medical-laboratory-services-4464919494
+Posted: 2026-09-30
+Deadline: N/A
+Reason: The job aligns with Priya's expertise in configuration management, release management, and ITIL practices, is located in Canada (a target country), and matches her experience as a Technical Communications Specialist.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+IT Service Management Practice Lead (Hybrid, ON OR BC)
+LifeLabs Medical Laboratory Services  Etobicoke, Ontario, Canada
+3 days ago  116 applicants
+  
+
+See who LifeLabs Medical Laboratory Services has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+For over 50 years, LifeLabs has been Canada’s leading provider of laboratory diagnostic information and digital health connectivity systems, enabling patients and healthcare practitioners to diagnose, treat, monitor and prevent disease. We are passionate about empowering healthier Canadians through accessible, accurate, and innovative diagnostic services.
+
+We are committed innovators, operating Canada's first commercial genetics lab, and the country's largest online patient portal, with more than 8 million Canadians receiving their results online. More than 112 million laboratory tests come through LifeLabs’ laboratories annually, and our team of more than 6,000 passionate, caring, and diverse professionals works together as one to provide high quality testing and results that Canadians can trust.
+
+We know that behind every lab requisition, sample being tested, or investment in technology is an individual and their family counting on us. At LifeLabs, you can make a meaningful impact on Canadians’ lives every day.
+
+Our teams are at the heart of everything we do. We are proud to be recognized as one of Canada’s Best Employers, reflecting our deep commitment to our core values of caring, agility, teamwork, and a customer-centered approach. As part of this commitment, LifeLabs prioritizes the ongoing development of our diversity, equity, and inclusion (DEI) program to better serve the needs of our diverse workforce and the communities we serve. We continue to take steps to challenge ourselves to act with courage and integrity, and to create an environment where people can be their true selves.
+
+These values are not just words on a page, they guide our actions and decisions every day and have come to define our team culture.
+
+Job Title: IT Service Management Practice Lead
+
+Reports to: Senior Manager, IT Service Management
+
+Vacancy status: This posting is for an existing position.
+
+Purpose of the Role
+
+The IT Service Management Practice Lead assists with the strategic direction, governance, configuration oversight, transition of IT services, measuring, reporting, and operational support for the ITSM organization at LifeLabs.
+
+This role will focus on managing and maintaining the configuration of an organization's IT infrastructure, systems, applications, and software pertaining to the designated ITSM tool. Ensuring that all components of the IT environment are properly documented, controlled, and measured to support efficient and reliable operations through the multiple ITIL practices.
+
+The ITSM Practice Lead, plays a critical role in maintaining the stability, consistency, and security of the IT environment by effectively managing configuration items and overseeing changes to these items throughout their lifecycle; governance in the maturity and continual service improvements, and a positive role model for IT and the ITSM team to promoting ITIL across the organization.
+
+Your Responsibilities Will Include
+
+Configuration Management Oversight
+
+Configuration Management Is a Foundational Cornerstone Of a Capable ITSM Organization. Ensure The Ongoing Identification and Lifecycle Management of The IT Environment Is Crucial And Fulfilled By
+
+
+Configuration Management Planning: Develop and implement a configuration management plan that outlines processes, procedures, and best practices for managing the IT environment's configuration within the ITSM tool
+Configuration Item Identification: Ensure ongoing identification and recording of all configuration items (CIs) within the IT infrastructure, including hardware, software, network components, databases, and applications
+Configuration Documentation: Create and maintain accurate and up-to-date documentation for each configuration item, including specifications, dependencies, relationships, and version information
+Service Portfolio Management: Create business/technical services along with application service maps as per Common Service Data Model (CSDM) framework
+Change Management: Collaborate with change management teams to assess the impact of proposed changes to the IT environment and ensure that changes are properly authorized, tested, and implemented
+Version Control: Manage versions and releases of software applications, ensuring that the latest and appropriate versions are used across the organization
+Configuration Baselines: Define and maintain configuration baselines, which represent the stable and validated configurations that serve as a reference for future changes
+Configuration Auditing: Conduct regular audits to verify that the actual configuration of IT components matches the documented configuration, identifying and rectifying discrepancies
+Release Management: Coordinate the deployment of software releases and updates, ensuring that the configuration changes are executed smoothly and without disrupting services
+Incident and Problem Management: Collaborate with incident and problem management teams to analyze and resolve configuration-related incidents and problems, minimizing their impact on operations
+Compliance and Security: Ensure that the IT environment adheres to regulatory requirements, industry standards, and security policies by enforcing consistent and secure configurations
+Automation and Tools: Utilize configuration management tools to automate the tracking, documentation, and management of configuration items, making the process more efficient and accurate
+Communication and Collaboration: Work closely with cross-functional teams, including development, operations, and support, to gather and share configuration-related information and updates
+Continuous Improvement: Continuously assess and improve the configuration management processes to enhance efficiency, accuracy, and alignment with business goals
+Training and Knowledge Sharing: Provide training and guidance to IT staff on configuration management practices, emphasizing the importance of maintaining accurate and up-to-date configuration documentation
+Risk Management: Identify and mitigate potential risks associated with configuration changes, ensuring that changes are thoroughly tested, and their impacts are well understood
+Reporting and Metrics: Generate regular reports and metrics on configuration management activities, such as compliance levels, audit results, and the status of configuration items
+
+
+Asset Management Oversight
+
+
+Implement Hardware Asset Management Solutions in Alignment with End User Computing and Infrastructure requirements for tracking Hardware Assets in the Organization
+Accountable to take technical decisions for Asset management implementation practice and contribute to Standard Operating Procedures (SOPs) within Asset Management Space
+Develop the process and procedure for lifecycle of hardware Assets and ensure the history of assets are tracked from purchase to disposal
+Co-ordinate and ensure application of barcode labels to the IT asset records being received to the warehouse
+Act as a point of contact for asset management related issues and resolution.
+Collaborate with CMDB, Security and Data Governance teams to ensure CI (Configuration Item) and Asset relationship is intact for ensuring reliable SACM (Service Asset Configuration Management) practice in the organization
+Generate report on IT assets for assisting in data driven decision making
+Assist in Co-ordinating technology refresh projects for renewal of infrastructure and End User Asset inventory
+Perform recurring audits to ensure accuracy in asset inventory
+
+
+ITIL Practices Coach
+
+
+Partner with ITSM peers on practice maturity initiatives, measuring/reporting, process revisions, etc., along with working/supporting interactions with IT. Each practice needs to tie back to the configuration management discipline, to successfully be able to measure and report on how IT and IT services are performing
+Provide updates to the ITSM Senior Manager on risks, threats, opportunities, etc.
+Provide back-up to individual practice focal during absences, or resourcing conflicts
+Help with the culture shift to ensure the team can work in a broader sense which creates innovation and a value-driven mindset
+Assist with various project initiatives such as road map deliverables, integrations, and or introductions of new subprocesses
+Participate with IT coaching/education sessions where appropriate
+
+
+Service Catalog Custodian
+
+Services are the secondary pillar immediately following configuration management, and most impactful/visible, as it holds an organized and curated collection of business and information technology services within an enterprise.
+
+
+Lead the development and maintain a production visible catalog, that captures key attributes for the purpose of IT and end users to see, find, request, report issues
+Work with IT, Service Owners, and the ITSM Senior Manager, to establish SLA and criticality
+Help develop processes for the required artifacts needed for the successful onboarding of new IT services
+Help develop reports that illustrate how various services are performing along with the service delivery capabilities of IT
+Many of the core configuration management deliverables apply to service catalog administration
+
+
+ITIL Service Level Management
+
+The main objective of SLM is to document how IT responds to operational business demands via the Service Desk.
+
+
+The level of IT services offered should be defined, agreed upon, tracked, measured, reviewed, and corrected as necessary
+Offer and enhance business relationships and customer communications in combination with the Practice of Business Relationships Management
+Ensure that IT develops specific and measurable targets for all IT services listed in the Service Catalog
+Continually evaluate and raise client satisfaction with the caliber of the services provided
+Make sure that the level of service to be provided is understood by both IT and customers.
+Ensure service levels are subject to proactive, cost-effective continual improvements, even when meeting all agreed targets
+
+
+What You Will Bring To The Role
+
+
+Bachelor’s degree in engineering, Computer Science, or equivalent experience
+5 years working experience in an ITSM organization with hands on experience/exposure in SACM and SLM
+ITIL v3 or v4 foundation certification
+CIS-HAM/SAM, CIS-Discovery and CSA certifications (preferred)
+ServiceNow experiences with exposure to database structures, dashboards, and discovery
+2-3 years working with an ITSM tool in an administration capacity
+10 years in Information Technology
+This role must be able to accurately assess technology risks, issues, and solutions
+Leading and coordination of various technical SMEs with minimal supervision driving and delivering high-quality service
+
+
+Why Join Us?
+
+Join LifeLabs and help shape the future of IT Service Management in a mission-driven healthcare organization. As the ITSM Practice Lead, you'll play a key role in advancing ITSM maturity, driving configuration management excellence, and improving service performance across the enterprise. Working with senior leaders and cross-functional teams, you'll have the opportunity to influence strategy, optimize ITSM processes, leverage platforms like ServiceNow and make a meaningful impact on technology services that support healthcare delivery across Canada.
+
+Salary range: $96,255 - $122,727 CAD annually (commensurate with experience).
+
+LifeLabs’ compensation programs are commensurate based on the role, skill, effort, responsibility and working conditions, irrespective of gender, race, ethnicity, beliefs, age or any other personal characteristics. Pay programs are communicated regularly in an accessible and transparent manner.
+
+LifeLabs is also proud to offer resources, opportunities, as well as a collaborative and supportive environment that enables our team members to thrive.
+
+In Addition To a Competitive Compensation Package, LifeLabs Provides a Comprehensive Total Rewards Program, Specific To The Job Position. Your Package May Include
+
+
+Employee Group Benefits: Competitive coverage for employees and their families to support their overall health and wellness needs, including Extended Health Care, Dental Care, and Life Insurance.
+Retirement Savings Plan
+Vacation and Wellness Days
+Employee Wellness and Giving Programs: Our award winning mental, physical and financial wellness programs aim to address the comprehensive well-being of our team members, including resources like the Employee & Family Assistance Program, financial planning tools, and employee recognition initiatives.
+Professional development and membership reimbursement, access to preferred rates and discount programs, including WorkPerks, Home and Auto Insurance, Costco Membership, etc., and optional health-related benefits.
+
+
+In accordance with LifeLabs’ Accessibility Policy, and the applicable Accessibility Acts within the provinces we operate in, accommodations are available by request for candidates taking part in all aspects of the recruitment and selection process. For a confidential inquiry or to request an accommodation, please contact your recruiter or email careers@lifelabs.com.
+
+Vaccinations are highly encouraged at LifeLabs’. Vaccinations and/or immunization screening may be mandatory for selected employees if regulated by provincial or regional governments, or through employer-led vaccination policies in the facilities we service. Please ensure you ask if this position requires the successful candidate to be vaccinated or undergo immunization screening.
+
+Ready to empower healthier Canadians? Apply today!
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Hospitals and Health Care
+  
+
+Referrals increase your chances of interviewing at LifeLabs Medical Laboratory Services by 2x
+
+See who you know
+
+Get notified about new Information Technology Manager jobs in Etobicoke, Ontario, Canada.
+
+Sign in to create job alert
+Jobs
+Information Technology Operations Manager jobs
+IT Service Management Practice Lead (Hybrid, ON OR BC)
+Similar jobs
+Service Delivery Management, Lead
+Service Delivery Management, Lead
+Interac Corp.
+Toronto, Ontario, Canada
+10 hours ago
+Major Incident Manager
+Major Incident Manager
+Worley
+Toronto, Ontario, Canada
+1 week ago
+Senior Manager, Service Transition & Operational Resiliency (ITSM, ITIL)
+Senior Manager, Service Transition & Operational Resiliency (ITSM, ITIL)
+BMO
+Toronto, Ontario, Canada
+1 month ago
+Sr. IT Incident Management Analyst - EN 989
+Sr. IT Incident Management Analyst - EN 989
+Export Development Canada | Exportation et développement Canada
+Toronto, Ontario, Canada
+CA$96,557 - CA$128,743
+5 days ago
+Process Incident & Problem Management
+Process Incident & Problem Management
+Scotiabank
+Toronto, Ontario, Canada
+2 weeks ago
+IT Operations Manager
+IT Operations Manager
+STACK IT Recruitment
+Toronto, Ontario, Canada
+CA$110,000 - CA$130,000
+2 weeks ago
+Show more jobs like this 
+People also viewed
+ITSM Analyst
+ITSM Analyst
+
+The Salvation Army in Canada
+
+Toronto, Ontario, Canada
+3 days ago
+ITSM Analyst
+ITSM Analyst
+
+CAAT Pension Plan
+
+Toronto, Ontario, Canada
+1 week ago
+Intermediate Specialist, Service Management
+Intermediate Specialist, Service Management
+
+Porter Airlines Inc.
+
+Toronto, Ontario, Canada
+4 days ago
+Technology Lead (Director), Enterprise Platforms and Operations
+Technology Lead (Director), Enterprise Platforms and Operations
+
+Tundra Technical Solutions
+
+Toronto, Ontario, Canada
+CA$140,000 - CA$145,000
+2 weeks ago
+Manager, End User Support Services
+Manager, End User Support Services
+
+Mackenzie Health
+
+Richmond Hill, Ontario, Canada
+CA$111,365 - CA$142,116
+2 weeks ago
+IT Analyst IV - Technical Support
+IT Analyst IV - Technical Support
+
+Robertson & Company Ltd.
+
+Mississauga, Ontario, Canada
+4 weeks ago
+Team Lead, Digital Services Support (East)
+Team Lead, Digital Services Support (East)
+
+Bird Construction
+
+Mississauga, Ontario, Canada
+1 week ago
+Managed Svcs Service Manager III
+Managed Svcs Service Manager III
+
+Equinix
+
+Toronto, Ontario, Canada
+3 days ago
+Senior Manager, Clinic IT Services
+Senior Manager, Clinic IT Services
+
+123Dentist
+
+Toronto, Ontario, Canada
+CA$150,000 - CA$175,000
+1 week ago
+IT - Technical Analyst III
+IT - Technical Analyst III
+
+Robertson & Company Ltd.
+
+Toronto, Ontario, Canada
+3 days ago
+Similar Searches
+Information Technology Operations Manager jobs
+102 open jobs
+Director of Information Technology jobs
+247 open jobs
+Head of Information Technology jobs
+181 open jobs
+Assistant It Manager jobs
+1,236 open jobs
+Information Technology Supervisor jobs
+373 open jobs
+Help Desk Manager jobs
+971 open jobs
+Technology Manager jobs
+5,146 open jobs
+System Manager jobs
+4,658 open jobs
+Information Technology Services Manager jobs
+394 open jobs
+Infrastructure Coordinator jobs
+849 open jobs
+Desktop Manager jobs
+666 open jobs
+Information System Manager jobs
+883 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at LifeLabs Medical Laboratory Services
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
