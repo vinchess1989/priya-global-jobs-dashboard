@@ -76167,8 +76167,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-03T09:01:23+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-03T15:06:57+03:00"
   },
   {
     "title": "Medical Writer II, X-TA",
@@ -76184,8 +76184,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-03T09:01:23+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-03T15:06:58+03:00"
   },
   {
     "title": "Landing Gear Engineer",
@@ -76201,8 +76201,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-03T09:01:23+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-03T15:06:58+03:00"
   },
   {
     "title": "Legal Solutions Architect",
@@ -76218,8 +76218,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-03T09:01:23+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-03T15:06:58+03:00"
   },
   {
     "title": "Mechanical Testing Technician",
@@ -76235,8 +76235,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-03T09:01:23+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-03T15:06:58+03:00"
   },
   {
     "title": "Quality Officer",
@@ -76252,8 +76252,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-03T09:01:23+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-03T15:06:58+03:00"
   },
   {
     "title": "Technical Incoming Inspector",
@@ -76269,8 +76269,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-03T09:01:24+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-03T15:06:58+03:00"
   },
   {
     "title": "Electronics Engineer",
@@ -76400,8 +76400,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-03T09:01:24+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-03T15:06:59+03:00"
   },
   {
     "title": "Engineering Maintenance Technician",
@@ -76417,8 +76417,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-03T09:01:24+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-03T15:06:59+03:00"
   },
   {
     "title": "Lead C&Q Engineer",
@@ -76434,59 +76434,56 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-03T09:01:24+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-03T15:06:59+03:00"
   },
   {
     "title": "Senior Proposals Writer",
-    "company": "Extract from page",
+    "company": "Icon Clinical Research Ltd",
     "location": "Extract from page",
     "url": "https://www.irishjobs.ie/job/senior-proposals-writer/icon-clinical-research-ltd-job108070171",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job description is inaccessible (access denied error), preventing evaluation of critical criteria such as location, visa sponsorship requirements, or role alignment with Priya's expertise in regulated-industry configuration management/release engineering.",
     "id": "1945e705",
     "source": "irishjobs_technical_writer",
     "added_at": "2026-10-03T02:56:12+03:00",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-03T09:01:24+03:00"
+    "eval_model": "local/qwen/qwen3-14b"
   },
   {
     "title": "Senior Quantity Surveyor | Dublin",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "Murphy International Limited",
+    "location": "Dublin, Ireland",
     "url": "https://www.irishjobs.ie/job/senior-quantity-surveyor/murphy-international-limited-job108002581",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job title 'Senior Quantity Surveyor' does not align with Priyanga Ramachandran's target roles in DevOps, Configuration Management, Release Management, or technical documentation/quality gatekeeping, and the inaccessible job description prevents verification of domain-specific fit.",
     "id": "fd445e16",
     "source": "irishjobs_technical_writer",
     "added_at": "2026-10-03T02:56:12+03:00",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-03T09:01:24+03:00"
+    "eval_model": "local/qwen/qwen3-14b"
   },
   {
     "title": "Senior Quantity Surveyor - Limerick",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "Murphy International Limited",
+    "location": "Limerick, Ireland",
     "url": "https://www.irishjobs.ie/job/senior-quantity-surveyor/murphy-international-limited-job108002584",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job title 'Senior Quantity Surveyor' does not align with the candidate's expertise in technical communication, configuration management, release engineering, or regulated software compliance.",
     "id": "079ccc6d",
     "source": "irishjobs_technical_writer",
     "added_at": "2026-10-03T02:56:12+03:00",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-03T09:01:24+03:00"
+    "eval_model": "local/qwen/qwen3-14b"
   },
   {
     "title": "Training Co-Ordinator - 12 MTH Contract",
@@ -76494,16 +76491,15 @@
     "location": "Extract from page",
     "url": "https://www.irishjobs.ie/job/training-co-ordinator-12-mth-contract/cpl-resources-job108063553",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "maybe",
+    "reason": "The job location and company details are unclear due to extraction errors, making it uncertain whether this aligns with Priya's target countries or role-type preferences.",
     "id": "261b934a",
     "source": "irishjobs_technical_writer",
     "added_at": "2026-10-03T02:56:12+03:00",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-03T09:01:25+03:00"
+    "eval_model": "local/qwen/qwen3-14b"
   },
   {
     "title": "Senior QC Associate - Micro",
@@ -76511,16 +76507,15 @@
     "location": "Extract from page",
     "url": "https://www.irishjobs.ie/job/senior-qc-associate-micro/life-science-recruitment-job108044344",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job description is inaccessible due to an 'Access Denied' error, preventing evaluation of critical details such as location, visa requirements, and role specifics.",
     "id": "7a6d32ca",
     "source": "irishjobs_technical_writer",
     "added_at": "2026-10-03T02:56:12+03:00",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-03T09:01:25+03:00"
+    "eval_model": "local/qwen/qwen3-14b"
   },
   {
     "title": "Senior Technical Writer",
