@@ -1919,5 +1919,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Deadline (2026-09-25) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Senior Business Analyst",
+    "company": "FEM",
+    "location": "Johannesburg, Gauteng, South Africa",
+    "url": "https://za.linkedin.com/jobs/view/senior-business-analyst-at-fem-4466518385",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role of Senior Business Analyst does not align with Priya's target domains (DevOps, Configuration Management, Release Management, Technical Writing, etc.) or her regulated-industry compliance expertise, despite meeting location and experience-level criteria.",
+    "id": "2503bc00",
+    "source": "linkedin_za_requirements_engineer",
+    "added_at": "2026-10-03T05:46:09+03:00",
+    "posted_date": "2026-09-19",
+    "deadline": "2026-09-25",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-09-25) passed by more than 2 days and unreviewed"
   }
 ]
