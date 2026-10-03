@@ -1,0 +1,396 @@
+Title: Systems & Design Quality Engineer – Medical Devices
+Company: Mimyk
+Location: Bengaluru, Karnataka, India
+URL: https://in.linkedin.com/jobs/view/systems-design-quality-engineer-%E2%80%93-medical-devices-at-mimyk-4461902121
+Posted: 2026-09-05
+Deadline: N/A
+Reason: The role aligns with Priya's expertise in quality engineering, requirements traceability, ISO 13485 compliance, and regulated medical-device development, matching her Topcon Healthcare and Elektrobit experience directly.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Systems & Design Quality Engineer – Medical Devices
+Mimyk  Bengaluru, Karnataka, India
+4 weeks ago   Over 200 applicants
+  
+
+See who Mimyk has hired for this role
+
+Apply
+Save
+
+About Mimyk:
+
+Mimyk is a deep-technology medical-device design and R&D company incubated at the Indian Institute of Science (IISc), Bengaluru. Mimyk's product-development work spans medical simulation, surgical systems, connected devices, imaging, wearables and other emerging medtech categories. Our multidisciplinary teams take products from user needs, architecture and early prototypes through verification, validation and design transfer, working across industrial design, mechanical engineering, electronics, embedded systems, software, AI, simulation and haptics.
+
+
+
+
+About the Role:
+
+Mimyk is looking for a hands-on Systems & Design Quality Engineer to bring systems-engineering discipline and design-quality rigour to our medical-device development programmes.
+
+The successful candidate will work at the intersection of product development, systems engineering, quality and regulatory compliance. You will help product teams convert user and clinical needs into clear system requirements, define and maintain system-level product deliverables, identify and manage product risks, establish traceability, plan verification and validation, and maintain compliant design documentation.
+
+This role combines rigorous documentation with active participation in architecture, prototyping, system integration, testing and technical problem-solving.
+
+
+
+
+
+
+
+Key Responsibilities
+
+Systems Engineering:
+
+•     Work with product, clinical, regulatory and engineering stakeholders to define intended use, intended users, use environments, user needs and product use cases.
+
+•     Translate user needs into clear, measurable and testable system and subsystem requirements.
+
+•     Own or coordinate system-level product deliverables, including architectures, functional diagrams and interface definitions across mechanical, electronic, firmware, software and user-interface elements, from concept through design transfer.
+
+•     Allocate requirements across subsystems and coordinate interfaces between different engineering disciplines.
+
+•     Maintain bidirectional traceability between user needs, system requirements, risks, design outputs, verification activities and validation evidence.
+
+•     Participate in system integration, troubleshooting, technical trade-off studies and design decisions.
+
+•     Identify ambiguities, omissions, conflicts and technical risks early in the development process.
+
+
+
+
+Design Quality and Risk Management:
+
+•     Support or lead design-control activities from development planning through design transfer.
+
+•     Prepare and maintain design and development plans, quality plans, traceability matrices, design-review records and Design and Development File/DHF documentation.
+
+•     Plan and facilitate formal design reviews and project phase-gate reviews.
+
+•     Apply relevant requirements of ISO 13485 to support consistent quality planning, process control and documentation across product-development activities
+
+•     Lead or support product risk-management activities in accordance with ISO 14971.
+
+•     Prepare and maintain risk-management plans, hazard analyses, system and design FMEAs, use-related risk analyses, risk-control measures and risk-management reports.
+
+•     Ensure that risk-control measures are translated into requirements and appropriately verified.
+
+•     Review engineering outputs for completeness, consistency, traceability and compliance with applicable standards and project procedures.
+
+
+
+
+Verification and Validation
+
+•     Develop system-level verification and validation strategies, plans, protocols, acceptance criteria and reports.
+
+•     Coordinate verification activities across mechanical, electronics, firmware and software teams.
+
+•     Participate directly in system testing, integration testing, failure investigation and root-cause analysis.
+
+•     Review test methods, test configurations, objective evidence and results for technical adequacy and compliance.
+
+•     Ensure that design validation demonstrates conformity with intended use and defined user needs.
+
+•     Support test-method validation, external laboratory testing and coordination with certification or testing agencies where required.
+
+
+
+
+Quality-System Development and Implementation
+
+•     Build, implement and continuously improve a fit-for-purpose medical-device quality management system from the ground up, including document control, configuration management, engineering change control, nonconformance management, CAPA and supplier-quality activities.
+
+•     Assist with internal, supplier, certification-body and regulatory audits.
+
+•     Contribute to the preparation and improvement of SOPs, templates, checklists and engineering-quality processes.
+
+•     Train and guide engineering teams in requirements management, risk management, design controls and good documentation practices.
+
+•     Ensure that the level of process and documentation is appropriate to the device risk, regulatory pathway and stage of development.
+
+
+
+
+Cross-Functional Product Collaboration
+
+•     Work closely with industrial design, mechanical, electronics, embedded, software, manufacturing, quality and regulatory teams.
+
+•     Communicate product requirements, system interfaces and quality expectations clearly across internal teams, vendors, suppliers and external testing partners.
+
+•     Present requirements, architecture decisions, risks, verification results and quality issues during product design reviews and technical decision forums.
+
+•     Support preparation of technical documentation and evidence required for regulatory submissions.
+
+
+
+
+Required Qualifications and Experience
+
+•     Bachelor's or Master's degree in Biomedical Engineering, Electrical or Electronics Engineering, Mechanical Engineering, Mechatronics, Instrumentation, Computer Science or a closely related engineering discipline.
+
+•     5-10 years of relevant work experience in medical-device product development or a closely related regulated product domain, covering systems engineering, design assurance, verification and validation, or design quality engineering.
+
+•   Strong working knowledge of ISO 13485 and ISO 14971.
+
+•     Practical familiarity with FDA QMSR/21 CFR Part 820, EU Medical Device Regulation and the Indian Medical Device Rules.
+
+•     Demonstrated hands-on experience building a medical-device quality management system from the ground up, including defining processes, developing SOPs and templates, implementing document and change controls, training teams and preparing for audits or certification.
+
+•     Practical experience supporting at least one multidisciplinary medical device through a substantial portion of the design-control lifecycle—from requirements and risk management through verification, validation or design transfer.
+
+•     Experience preparing or reviewing user needs, system requirements, traceability matrices, risk-management documents, verification protocols and design-review records.
+
+•     Experience with hazard analysis, FMEA/FMECA, root-cause analysis, corrective actions and structured problem-solving.
+
+•     Ability to understand mechanical, electronics, embedded-software and application-software at the system level.
+
+•     Strong technical writing, documentation, analytical and organisational skills.
+
+•     Clear verbal and written communication skills, including the ability to communicate complex systems and quality decisions across multidisciplinary product teams.
+
+•     Ability to manage systems and quality deliverables across multiple product-development programmes and work effectively in multidisciplinary teams.
+
+
+
+
+Preferred Qualifications and Experience
+
+•     Working knowledge of relevant standards such as IEC 60601, IEC 62304, IEC 62366-1, ISO 10993 and medical-device cybersecurity requirements.
+
+•     Experience with complex electromechanical devices, connected devices, surgical systems, diagnostic equipment, wearables or Software as a Medical Device.
+
+•     Experience using requirements-management tools such as Jama Connect, Polarion, or equivalent platforms.
+
+•     Familiarity with electronic QMS, product-lifecycle management and configuration-management systems.
+
+•     Experience working with external test laboratories, notified bodies or regulatory authorities.
+
+•     Experience supporting regulatory submissions, design transfer, supplier qualification or low-volume medical-device production.
+
+•     Certification such as ASQ Certified Quality Engineer, ISO 13485 Lead Auditor/Internal Auditor, Six Sigma or INCOSE systems-engineering certification.
+
+
+
+
+What We Look For
+
+We are looking for someone who:
+
+•     Can bring structure and clarity to an initially ambiguous product idea.
+
+•     Is comfortable challenging incomplete requirements and unsupported assumptions.
+
+•     Understands that quality must be engineered into a product from the beginning.
+
+•     Can balance regulatory rigour with the speed and practical constraints of innovative products.
+
+•     Is equally comfortable reviewing a traceability matrix, facilitating a risk review and troubleshooting a prototype with the engineering team.
+
+•     Demonstrates sound judgement, ownership, integrity and attention to detail.
+
+
+
+
+Why Join Mimyk?
+
+•     Work on diverse and technically challenging medical-device programmes.
+
+•     Collaborate with a multidisciplinary team spanning product design, engineering, software & AI
+
+•     Participate across the complete development lifecycle rather than a narrow focus on the quality function.
+
+•     Help establish strong systems and design-quality practices within a growing medtech R&D organisation.
+
+•     Contribute to products intended for Indian and international healthcare markets.
+
+
+
+
+How to Apply
+
+Apply through LinkedIn with your résumé and a short note describing one medical device you have worked on, the development stage you supported, and your specific responsibilities in systems engineering, design controls, risk management or verification and validation.
+
+Mimyk is an equal-opportunity employer. We welcome candidates from diverse backgrounds who are passionate about building safe, effective and thoughtfully engineered medical devices.
+
+Show more 
+Seniority level
+Entry level
+Employment type
+Full-time
+Industries
+Medical Equipment Manufacturing
+  
+
+Referrals increase your chances of interviewing at Mimyk by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Senior Quality Engineer
+Senior Quality Engineer
+BD
+Bengaluru, Karnataka, India
+4 days ago
+System Engineer
+System Engineer
+Zimmer Biomet
+Bengaluru, Karnataka, India
+4 days ago
+Product Design Quality Sr III
+Product Design Quality Sr III
+Zimmer Biomet
+Bengaluru, Karnataka, India
+2 weeks ago
+PMS Quality Engineer
+PMS Quality Engineer
+Intuitive
+Bengaluru, Karnataka, India
+3 days ago
+Sr. Systems Engineer
+Sr. Systems Engineer
+Dexcom
+Bengaluru, Karnataka, India
+2 weeks ago
+Lead Systems Engineer
+Lead Systems Engineer
+Quest Global
+Bengaluru, Karnataka, India
+1 month ago
+Show more jobs like this 
+People also viewed
+Quality Assurance Specialist (SaMD)
+Quality Assurance Specialist (SaMD)
+
+Tata Elxsi
+
+Greater Bengaluru Area
+3 days ago
+Sr Engineer, Risk
+Sr Engineer, Risk
+
+Vantive
+
+Bengaluru, Karnataka, India
+1 day ago
+Product Design Quality Sr II
+Product Design Quality Sr II
+
+Zimmer Biomet
+
+Bengaluru, Karnataka, India
+2 weeks ago
+Product Design Quality Sr Specialist I
+Product Design Quality Sr Specialist I
+
+Zimmer Biomet
+
+Bengaluru, Karnataka, India
+2 weeks ago
+Systems Engineer
+Systems Engineer
+
+Dexcom
+
+Bengaluru, Karnataka, India
+2 weeks ago
+Eng II, V&V,
+Eng II, V&V,
+
+Baxter International Inc.
+
+Bengaluru, Karnataka, India
+5 hours ago
+Eng II, V&V
+Eng II, V&V
+
+Baxter International Inc.
+
+Bengaluru, Karnataka, India
+2 months ago
+Quality Engineer I
+Quality Engineer I
+
+Zimmer Biomet
+
+Bengaluru, Karnataka, India
+2 weeks ago
+Sr Eng, V&V
+Sr Eng, V&V
+
+Baxter International Inc.
+
+Bengaluru, Karnataka, India
+3 months ago
+Sr Eng, V&V
+Sr Eng, V&V
+
+Baxter International Inc.
+
+Bengaluru, Karnataka, India
+3 months ago
+Similar Searches
+Senior System Design Engineer jobs
+443 open jobs
+Senior Instrument Engineer jobs
+23 open jobs
+Corporate Application Engineer jobs
+74 open jobs
+Logic Design Engineer jobs
+336 open jobs
+Mechanical Process Engineer jobs
+1,644 open jobs
+Front End Architect jobs
+13,604 open jobs
+Circuit Design Engineer jobs
+892 open jobs
+Corporate Business Manager jobs
+660 open jobs
+Staff Application Engineer jobs
+297 open jobs
+Hardware Architect jobs
+519 open jobs
+Design Technologist jobs
+1,997 open jobs
+Design Verification Engineer jobs
+987 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Mimyk
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
