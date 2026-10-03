@@ -1,0 +1,249 @@
+Title: DevOps Engineer
+Company: Bluebeam
+Location: Australia
+URL: https://au.linkedin.com/jobs/view/devops-engineer-at-bluebeam-4463327473
+Posted: 2026-09-26
+Deadline: N/A
+Reason: The job as a DevOps Engineer at Bluebeam in Australia matches Priya's CI/CD pipeline ownership experience (GitHub Actions, Jenkins), infrastructure-as-code skills (Terraform aligns with her Azure Fundamentals certification), and regulated-industry quality gatekeeping background, despite not being explicitly safety-critical. Location is Australia (target country), experience level is mid-senior (matches her 15 years), and no mandatory non-English language requirements.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+Bluebeam  Australia
+1 week ago   Over 200 applicants
+  
+
+See who Bluebeam has hired for this role
+
+Apply 
+Save
+About The Job
+At Bluebeam, we empower people to advance the way the world is built. We create smart software solutions that make construction sites more efficient, connected, and safe, and improve the lives of design and construction professionals everywhere.
+The DevOps Engineer builds, automates and scales the cloud infrastructure that runs the SiteDocs platform. The position exists to make delivery of software to production reliable, repeatable and secure, and to keep the platform available to customers. The position also provides engineering-led operational coverage for the APAC region — monitoring platform health, responding to production incidents and supporting Australian data centre infrastructure during local business hours. The role partners with software engineering teams in North America and elsewhere to design systems for scale and resilience, streamline deployment pipelines, and remove manual operational work through automation.
+What You'll Do
+Reasonable accommodations may be made to enable individuals with disabilities to perform the following essential functions:
+
+Designs, implements, and maintains CI/CD pipelines and release automation using GitHub and Azure DevOps.
+Builds and manages cloud infrastructure on Microsoft Azure, provisioning and maintaining environments through infrastructure as code (Terraform).
+Monitors system performance, availability, capacity, and security, and acts on alerts before they affect customers.
+Troubleshoots and resolves production issues, performs root cause analysis, and implements changes that improve platform reliability.
+Provides operational and on-call coverage for the platform in the APAC time zone, including participation in the follow-the-sun incident response rotation.
+Automates manual and repetitive infrastructure and deployment tasks to reduce operational risk and release friction.
+Collaborates with software engineering, QA, and security colleagues across time zones to design systems that scale and operate securely.
+Documents infrastructure, runbooks, and operational procedures so operational knowledge is shared across regions.
+
+What We're Looking For
+
+Proven experience as a DevOps Engineer or in a similar engineering role
+Strong hands-on experience with Microsoft Azure services
+Infrastructure as code, with Terraform preferred
+Hands-on experience building and operating CI/CD pipelines and automation processes (GitHub, Azure DevOps)
+Working knowledge of Git and version control workflows
+Good understanding of system and solution architecture, including how to design for scale and resilience
+Ability to monitor, troubleshoot, and optimise production systems Soft skills
+Works independently and owns tasks from start to finish
+Proactive mindset — anticipates problems and takes initiative rather than waiting for direction
+Collaborative team spirit, effective within a distributed, cross-time-zone team
+Problem-solving attitude in support of the product and colleagues
+Clear verbal and written communication with technical and non-technical audiences Required Years of Experience
+Total years in field/career: 5+ years in software engineering, IT infrastructure or cloud operations
+Minimum years in specific function: 3+ years in a dedicated DevOps, SRE or cloud infrastructure role, including hands-on Microsoft Azure and infrastructure as code
+Specific Education or Certifications Required(i.e. Bachelor’s Degree, MBA, PMP, CPA, etc.)
+Bachelor’s degree in Computer Science, Software or Computer Engineering, Information Technology or a related field, or equivalent practical experience. Nice to Have
+Preferred education or experience, but not required
+Experience with containerisation and orchestration (Docker, Kubernetes)
+Network implementation and architecture (VNets, gateways, security)
+Familiarity with scripting languages (PowerShell, Bash)
+Familiarity with AI-assisted development tools (Claude, GitHub Copilot)
+Knowledge of SQL databases
+Microsoft Azure certification (e.g. AZ-104, AZ-400)
+Experience supporting a multi-region SaaS platform and its data centre infrastructure
+Supervisory Responsibility
+
+#Bluebeam
+#Remote
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Bluebeam by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Australia.
+
+Sign in to create job alert
+Similar jobs
+Systems Engineer/Dev Ops/Administrator
+Systems Engineer/Dev Ops/Administrator
+Tyroola.com.au
+Millers Point, New South Wales, Australia
+1 month ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+IgniteTech
+Australia
+$100,000 - $100,000
+1 week ago
+DevOps Cloud Infrastructure Engineer
+DevOps Cloud Infrastructure Engineer
+1QLabs
+Greater Sydney Area
+1 month ago
+Site Reliability Engineer
+Site Reliability Engineer
+Precisely
+Sydney, New South Wales, Australia
+2 weeks ago
+Site Reliability Engineer
+Site Reliability Engineer
+Precisely
+Melbourne, Victoria, Australia
+2 weeks ago
+Site Reliability Engineer
+Site Reliability Engineer
+Aussie Broadband
+Australia
+1 day ago
+Show more jobs like this 
+People also viewed
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Settify
+
+Sydney, New South Wales, Australia
+1 week ago
+Devops Engineer
+Devops Engineer
+
+ASX
+
+Sydney, New South Wales, Australia
+2 weeks ago
+Cloud Tech Lead
+Cloud Tech Lead
+
+Medibank
+
+Melbourne, Victoria, Australia
+1 day ago
+Graduate Site Reliability Engineer (Australia)
+Graduate Site Reliability Engineer (Australia)
+
+Axon
+
+Australia
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+Cloud Raptor
+
+Sydney, New South Wales, Australia
+A$150,000 - A$170,000
+3 weeks ago
+Platform Engineer
+Platform Engineer
+
+Mary Technology
+
+Sydney, New South Wales, Australia
+2 weeks ago
+AI Infrastructure Engineer
+AI Infrastructure Engineer
+
+vCluster
+
+Australia
+$140,000 - $165,000
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Paxus
+
+Newstead, Queensland, Australia
+1 day ago
+Sr DevOps Engineer
+Sr DevOps Engineer
+
+XPT Software
+
+Sydney, New South Wales, Australia
+1 week ago
+Senior Site Reliability Engineer (Hosted Infra)
+Senior Site Reliability Engineer (Hosted Infra)
+
+Elastic
+
+Australia
+1 week ago
+Similar Searches
+Regional Recruiter jobs
+117 open jobs
+Enterprise Data Architect jobs
+186 open jobs
+Windows Engineer jobs
+243 open jobs
+Senior Sales Analyst jobs
+976 open jobs
+Director of Collections jobs
+12 open jobs
+Director of Support jobs
+1,672 open jobs
+Director of Analytics jobs
+266 open jobs
+Senior Solutions Consultant jobs
+748 open jobs
+Software Quality Assurance Manager jobs
+13 open jobs
+Fixed Income Trader jobs
+79 open jobs
+Construction Engineer jobs
+1,973 open jobs
+Senior Technical Writer jobs
+91 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Bluebeam
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

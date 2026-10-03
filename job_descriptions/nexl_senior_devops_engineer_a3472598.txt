@@ -1,0 +1,339 @@
+Title: Senior DevOps Engineer
+Company: Nexl
+Location: Sydney, New South Wales, Australia
+URL: https://au.linkedin.com/jobs/view/senior-devops-engineer-at-nexl-4459390957
+Posted: 2026-09-26
+Deadline: N/A
+Reason: The job matches Priya's expertise in DevOps engineering (CI/CD pipelines, infrastructure-as-code with Terraform, Azure), is located in Sydney, Australia (target country), and does not require US-based work or visa sponsorship.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer
+Nexl  Sydney, New South Wales, Australia
+1 week ago  164 applicants
+  
+
+See who Nexl has hired for this role
+
+Apply 
+Save
+
+About us
+
+
+
+
+Nexl is a fast-growing LegalTech company on a mission to elevate the business of law. The company builds an AI-driven CRM and growth intelligence platform that brings a firm’s internal and external data together so lawyers, marketing teams, and business development teams can collaborate, spot opportunities, and grow revenue.
+
+
+
+
+Nexl has been recognised by the Financial Times, Deloitte, and the Australian Financial Review as one of the fastest-growing companies in the region, is trusted by 150+ law firms globally, and recently closed a $23M USD Series B led by Tidemark Capital.
+
+
+
+
+The Opportunity
+
+
+
+
+Nexl is looking for a Senior DevOps Engineer to help evolve the infrastructure behind a growing SaaS platform.
+
+
+
+
+This role will initially support cloud migration and platform reliability, then help re-engineer Nexl’s infrastructure toward a scalable, maintainable event-driven architecture. You will partner closely with backend, full-stack, AI, product, and design teams to improve how systems are built, deployed, observed, and operated.
+
+
+
+
+We’re looking for someone who is technically rigorous, highly autonomous, and comfortable making pragmatic infrastructure decisions. You will bring strong experience managing production event systems, with Kubernetes as an important secondary capability.
+
+
+
+
+What You’ll Own & Do:
+
+
+
+
+Support and improve Nexl’s cloud migration, consolidation, and operational readiness.
+Help design and operate the platform’s future event-driven architecture, including evaluating and implementing appropriate technologies.
+Own and evolve Azure infrastructure, including AKS, Terraform-managed environments, CI/CD, and deployment workflows.
+Improve platform reliability, observability, security, and incident response.
+Reduce cycle time and deployment friction while maintaining or improving code and infrastructure quality.
+Build automation for repeatable operational work, including environment management, secrets, configuration, and diagnostics.
+Partner with engineering teams to improve system performance, scalability, and operational ownership.
+Participate in on-call rotations, lead incident response, and contribute to post-incident improvements.
+Improve cloud cost and performance, connecting infrastructure decisions to business impact.
+
+
+
+
+What We're Looking For:
+
+
+
+
+Must haves:
+
+Strong experience designing, operating, or evolving production event-driven systems.
+Experience managing event infrastructure and understanding event architecture concepts, trade-offs, terminology, and operational concerns.
+Experience with one or more event technologies, for e.g. Kafka, SNS/SQS, pub/sub systems, message brokers, or similar) while remaining open-minded about the best technology choice.
+Strong Kubernetes experience, including operating containerised workloads in production.
+Experience with infrastructure-as-code, preferably Terraform.
+Experience improving CI/CD pipelines and deployment workflows.
+Strong observability and operational troubleshooting capability.
+Experience with cloud infrastructure; willingness to work primarily in Azure.
+Strong security awareness across IAM, secrets, networking, and production access.
+High ownership, sound technical judgment, and the ability to work autonomously in a fast-moving engineering environment.
+
+
+
+
+Nice to haves:
+
+Azure experience, including AKS, PostgreSQL Flexible Server, Key Vault, or related services.
+Experience supporting cloud migrations or consolidating infrastructure across cloud providers.
+Experience with GitOps deployment patterns.
+PostgreSQL performance, reliability, or migration experience.
+Experience with tools such as GitHub Actions, Open Telemetry, or SigNoz.
+Cost optimisation experience.
+Experience supporting data-heavy, AI-driven, or high-scale SaaS systems.
+Experience in a scale-up or regulated environment.
+
+
+
+
+What Success Looks Like:
+
+
+
+
+Nexl's infrastructure is stable, well-documented, and engineers rarely think about it because it just works.
+Incidents are detected early, resolved quickly, and prevented through proactive system improvements.
+Cloud costs are optimised and infrastructure scales efficiently with product and team growth.
+Security posture is strong, documented, and continuously improving.
+You help build a DevOps culture at Nexl where reliability and developer experience are treated as first-class product features.
+
+
+
+
+Life at Nexl
+
+
+
+
+Hybrid working. You'll be in our Sydney hub 2 days a week for collaboration.
+Work from anywhere. Spend up to four weeks a year working remotely from a location of your choice.
+Birthday leave. Take a paid "Nexl Day" during the week of your birthday.
+High growth. A scaling environment with autonomy, ownership, and visible impact.
+Learning & development. A dedicated budget to support your professional growth, on your terms.
+ESOP. Employee stock options so you share in the upside.
+Birthday leave. Take a paid "Nexl Day" during the week of your birthday.
+Parental leave. Paid leave to support you and your family as it grows.
+Transparent by default. Fortnightly all-hands with strategy, metrics, wins, and learnings.
+Purposeful connection. A jam-packed social scene — weekly catered lunch, quarterly socials, team off-sites, and events throughout the year to bring the team together.
+Tools & tech. Modern, AI-first ways of working to help you move faster and smarter, plus a work laptop.
+
+
+
+
+Our Values
+
+
+
+
+Committed to Care – We genuinely care about the work we do and the industry we do it for
+Human at the Core – Relationships and empathy guide everything we do
+Different with Purpose – We’re not afraid to stand out. We innovate boldly and deliberately
+
+
+
+
+Even if you don't tick every box, Nexl would still love to hear from people who are excited by the mission and believe they would thrive in a high-growth, high-accountability environment.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Nexl by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Sydney, New South Wales, Australia.
+
+Sign in to create job alert
+Similar jobs
+Senior DevOps Engineer
+Senior DevOps Engineer
+Settify
+Sydney, New South Wales, Australia
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+CORTO
+Millers Point, New South Wales, Australia
+2 weeks ago
+Sr DevOps Engineer
+Sr DevOps Engineer
+XPT Software
+Sydney, New South Wales, Australia
+1 week ago
+DevOps Engineer
+DevOps Engineer
+Cloud Raptor
+Sydney, New South Wales, Australia
+A$150,000 - A$170,000
+3 weeks ago
+Sr DevOps Engineer
+Sr DevOps Engineer
+XPT Software Australia
+Sydney, New South Wales, Australia
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Atain
+Sydney, New South Wales, Australia
+1 week ago
+Show more jobs like this 
+People also viewed
+Senior AI DevOps Engineer
+Senior AI DevOps Engineer
+
+Allianz Australia
+
+Sydney, New South Wales, Australia
+1 week ago
+DevOps Engineer / Senior Analyst (AU Citizen with Security Clearance)
+DevOps Engineer / Senior Analyst (AU Citizen with Security Clearance)
+
+Accenture Australia
+
+Sydney, New South Wales, Australia
+2 weeks ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+Blinq
+
+Sydney, New South Wales, Australia
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+Colonial First State
+
+Sydney, New South Wales, Australia
+3 weeks ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+Pet Circle
+
+Sydney, New South Wales, Australia
+1 week ago
+Senior DevOps Engineer - Operations
+Senior DevOps Engineer - Operations
+
+CoStar Group
+
+Pyrmont, New South Wales, Australia
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+BLACKROC Recruitment
+
+Greater Sydney Area
+1 week ago
+Senior Site Reliability Engineer (Platform Engineering/DevOps)
+Senior Site Reliability Engineer (Platform Engineering/DevOps)
+
+Cover Genius
+
+Sydney, New South Wales, Australia
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Nityo Infotech
+
+Sydney, New South Wales, Australia
+3 days ago
+Platform DevOps Engineer
+Platform DevOps Engineer
+
+Future Secure AI
+
+Sydney, New South Wales, Australia
+2 weeks ago
+Similar Searches
+Datacenter Technician jobs
+75 open jobs
+Presales Solutions Consultant jobs
+55 open jobs
+Software Test Analyst jobs
+177 open jobs
+Presales Manager jobs
+1,059 open jobs
+Solutions Consultant jobs
+2,329 open jobs
+Solutions Engineer jobs
+3,227 open jobs
+Technical Account Manager jobs
+1,183 open jobs
+SAP Manager jobs
+168 open jobs
+Presales Consultant jobs
+850 open jobs
+Junior Business Analyst jobs
+1,651 open jobs
+Vice President Marketing jobs
+52 open jobs
+Presales Engineer jobs
+621 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Nexl
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

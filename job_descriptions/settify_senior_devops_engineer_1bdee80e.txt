@@ -1,0 +1,297 @@
+Title: Senior DevOps Engineer
+Company: Settify
+Location: Sydney, New South Wales, Australia
+URL: https://au.linkedin.com/jobs/view/senior-devops-engineer-at-settify-4469827366
+Posted: 2026-09-26
+Deadline: N/A
+Reason: The role of Senior DevOps Engineer aligns with Priya's expertise in CI/CD pipelines, infrastructure management, and regulated-industry experience, and is located in Sydney, Australia (a target country) with no explicit visa sponsorship restrictions.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer
+Settify  Sydney, New South Wales, Australia
+1 week ago   Be among the first 25 applicants
+  
+
+See who Settify has hired for this role
+
+Apply
+Save
+
+Direct message the job poster from Settify
+
+Molly Barrowclift-Hills
+Molly Barrowclift-Hills
+Talent Acquisition Manager
+
+Join us to shape what's next for Settify and make life easier for lawyers and their clients.
+
+
+
+
+Flexible, hybrid Sydney based role
+Established business with exciting prospects for global expansion
+Own and modernise our AWS infrastructure alongside a complete product re-build in TypeScript and AI technologies
+
+
+
+
+About Settify
+
+At Settify, we help lawyers help people. We're an Australian legal technology company working with law firms around the world.
+
+
+
+
+We are a member of the ATI legal technology group, and work closely with the LEAP group of companies which are the leading provider of Legal Practice Management Solutions in the world, with clients across Australia, Canada, the United States, the United Kingdom, the Republic of Ireland, Poland and New Zealand.
+
+
+
+
+About the product
+
+Settify, an AI-backed technology, helps legal clients in preparing and presenting their personal stories effectively. Whether someone is navigating a family matter or planning a will, taking the first step can feel daunting. Settify helps clients share their story through guided online questions, in their own time. Lawyers arrive at the first meeting with the details they need, ready to focus on the person in front of them. Integrations with practice management software cut down on repeat data entry.
+
+
+
+
+What you'll do
+
+We're building the next generation of Settify, evolving our product using new technologies and new AI capabilities. You'll work closely with developers to shape how we build, deploy and run it, with ownership of our AWS infrastructure and deployment pipelines.
+
+
+
+
+You'll bring Settify to new regions and help developers release changes with confidence.
+
+You'll give the team a clearer view of what's happening in production, including how LLM features perform.
+
+
+
+
+To make this happen you will:
+
+Own and manage our AWS infrastructure. Use infrastructure as code to manage networking, compute, databases and queues, and keep cloud costs sensible.
+Take Settify to new regions. Set up regional environments that are straightforward to deploy, configure and maintain.
+Make deployments easier. Improve CI/CD pipelines so developers can build, test and release changes with confidence, and roll back when needed.
+Make problems easier to spot and fix. Set up useful logs, metrics, traces and alerts, and work with developers to troubleshoot production issues.
+Support LLM features. Set up model access, tracing and evaluation pipelines so developers can test prompt and model changes and see how they perform in production.
+Keep customer data secure. Manage permissions, secrets, encryption and backups as part of everyday operations.
+Cut down on manual work. Build tools, automate repetitive tasks and write clear documentation. Contribute to application code where it makes development and deployment easier.
+
+
+
+
+What you'll bring
+
+8+ years in DevOps, SRE, platform or infrastructure engineering.
+AWS preferred, relevant AWS services include EC2, Lambda, SQS, RDS and DynamoDB.
+VPC networking, IAM, access controls and secrets management.
+Docker; ECS or Kubernetes (including EKS).
+CDK or Terraform; CI/CD pipelines, automated testing, deployments and rollbacks.
+Datadog, Grafana/Prometheus or CloudWatch; alerts, production troubleshooting and on-call support.
+TypeScript/Node.js or Python; writing tools, testing and code review.
+
+
+
+
+Even better if you have;
+
+LLM services: Amazon Bedrock or similar; API integration, rate limits, retries and timeouts.
+LLM observability and evaluation: Langfuse or similar; tracing, token usage, cost and latency monitoring, and evaluation pipelines.
+Regional deployments: Setting up and deploying applications in new cloud regions.
+Developer tooling: Tools and scripts that make local setup, testing and deployments easier.
+Product engineering: Shipping application features; SaaS, LegalTech or early-stage team experience.
+Product observability and analytics: PostHog or similar.
+
+
+
+
+You enjoy solving problems with others, sharing what you know and learning along the way. You communicate clearly and follow things through, with a practical approach that makes life easier for your teammates and the people using our product.
+
+
+
+
+You are the type of person who embodies these traits
+
+Communication: You are concise in your verbal and written communication. You collaborate openly and positively.
+Motivation: You are driven to make a real difference through your work. You find genuine joy in seeing users benefit from what you create.
+Pragmatic: You understand the trade-offs between quality and velocity. You consistently strike the right balance.
+Curiosity: You constantly ask the who, what, where, when, and why, seeking deeper understanding and better solutions.
+
+
+
+
+Settify is an inclusive, people-first company committed to breaking down institutional barriers that keep people from reaching their potential. If you meet some, but not all the requirements above, we encourage you to still submit your application.
+
+
+
+
+Why join Settify?
+
+Your work matters. Helping lawyers help people sits at the heart of everything we do. We solve real world problems that improve and support local, everyday law firms. So they can do their best work for the people in the communities they serve.
+Make an impact. You won't be another ‘cog in the wheel' here. We give full trust and autonomy for you to be heard, to work on big & complex projects - and to make a real difference.
+Work with a group of authentic, passionate people who love what they do.
+Well-funded and global. We're part of ATI - one of the largest international LegalTech companies.
+Flexible and hybrid working. We'd like to find this person in Sydney, but we want you to work in a way that suits you and we're open to flexible arrangements that support you.
+Grow your career with us. Our founder Christian Beck has been building legal tech businesses for over 30 years. There are opportunities galore to expand your career based on where your interests lie. We're not afraid to pivot based on market conditions - you will always have the opportunity to stay ahead of the curve and do your best work here.
+Have fun with us. Celebrations. Socials. Sports teams. Access to sailing and yacht events.
+We value your well-being - enjoy 2 additional paid wellbeing days every year, free gym membership, corporate dental plan and weekly massages in the office.
+Work in a beautiful office space - with a catered lunch and breakfast every week and a fully stocked kitchen
+Access to LEAP Home - a program unique to LEAP to support you in buying your primary residence.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Settify by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Sydney, New South Wales, Australia.
+
+Sign in to create job alert
+Similar jobs
+Senior DevOps Engineer
+Senior DevOps Engineer
+CORTO
+Millers Point, New South Wales, Australia
+2 weeks ago
+Sr DevOps Engineer
+Sr DevOps Engineer
+XPT Software
+Sydney, New South Wales, Australia
+1 week ago
+DevOps Engineer
+DevOps Engineer
+Cloud Raptor
+Sydney, New South Wales, Australia
+A$150,000 - A$170,000
+3 weeks ago
+Sr DevOps Engineer
+Sr DevOps Engineer
+XPT Software Australia
+Sydney, New South Wales, Australia
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Atain
+Sydney, New South Wales, Australia
+1 week ago
+Senior Software DevOps Engineer
+Senior Software DevOps Engineer
+SITA
+Sydney, New South Wales, Australia
+1 week ago
+Show more jobs like this 
+People also viewed
+Senior AI DevOps Engineer
+Senior AI DevOps Engineer
+
+Allianz Australia
+
+Sydney, New South Wales, Australia
+1 week ago
+DevOps Engineer / Senior Analyst (AU Citizen with Security Clearance)
+DevOps Engineer / Senior Analyst (AU Citizen with Security Clearance)
+
+Accenture Australia
+
+Sydney, New South Wales, Australia
+2 weeks ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+Blinq
+
+Sydney, New South Wales, Australia
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+Colonial First State
+
+Sydney, New South Wales, Australia
+3 weeks ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+Pet Circle
+
+Sydney, New South Wales, Australia
+1 week ago
+Senior DevOps Engineer - Operations
+Senior DevOps Engineer - Operations
+
+CoStar Group
+
+Pyrmont, New South Wales, Australia
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+BLACKROC Recruitment
+
+Greater Sydney Area
+1 week ago
+Senior Site Reliability Engineer (Platform Engineering/DevOps)
+Senior Site Reliability Engineer (Platform Engineering/DevOps)
+
+Cover Genius
+
+Sydney, New South Wales, Australia
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Nityo Infotech
+
+Sydney, New South Wales, Australia
+3 days ago
+Platform DevOps Engineer
+Platform DevOps Engineer
+
+Future Secure AI
+
+Sydney, New South Wales, Australia
+2 weeks ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Settify
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

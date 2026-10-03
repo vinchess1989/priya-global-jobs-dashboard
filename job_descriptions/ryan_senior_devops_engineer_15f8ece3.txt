@@ -1,0 +1,351 @@
+Title: Senior DevOps Engineer
+Company: Ryan
+Location: Sydney, New South Wales, Australia
+URL: https://au.linkedin.com/jobs/view/senior-devops-engineer-at-ryan-4472335553
+Posted: 2026-10-01
+Deadline: N/A
+Reason: The Senior DevOps Engineer role at Ryan in Sydney, Australia matches Priya’s expertise in CI/CD pipeline ownership, infrastructure automation, and regulated-industry experience, aligning with her background in Elektrobit and Topcon.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer
+Ryan  Sydney, New South Wales, Australia
+2 days ago   Be among the first 25 applicants
+  
+
+See who Ryan has hired for this role
+
+Apply
+Save
+Why Ryan?
+
+
+Hybrid Work Options
+Award-Winning Culture
+Generous Personal Time Off (PTO) Benefits
+14-Weeks of 100% Paid Leave for New Parents (Adoption Included)
+Monthly Gym Membership Reimbursement OR Gym Equipment Reimbursement
+Benefits Eligibility Effective Day One
+401K with Employer Match
+Tuition Reimbursement After One Year of Service
+Fertility Assistance Program
+Four-Week Company-Paid Sabbatical Eligibility After Five Years of Service
+
+
+The DevOps Engineer designs and implements a fully automated continuous integration and continuous delivery (CI/CD) ecosystem, Internal Developer Portal (IDP), and secure cloud networking across Amazon Web Services (AWS), Microsoft Azure, and on-premises environments. This position combines a software development foundation with cloud infrastructure, automation, and platform engineering to help engineering teams build, test, and deploy software faster and more reliably. The role also contributes to scalable cloud network architecture, self-service tooling, network-aware CI/CD pipelines, and integrated developer platform capabilities that standardize software delivery across the organization.
+
+Duties and Responsibilities, as They Align to Ryan’s Key Results
+
+Key Responsibilities
+
+People
+
+
+Champion a DevOps culture focused on an automation-first mindset, continuous improvement, collaboration, and transparency.
+Partner with development teams to improve reliability, performance, and deployment practices.
+
+
+Client
+
+Internal Developer Portal (IDP)
+
+
+Architect and implement an Internal Developer Portal to provide self-service infrastructure, application templates, and deployment workflows.
+Enable “golden paths” for engineering teams to accelerate onboarding and reduce cognitive load.
+Integrate the IDP with continuous integration and continuous delivery (CI/CD) systems, cloud infrastructure, identity management, and observability platforms.
+Maintain service catalogs, documentation standards, and ownership metadata.
+Continuously improve developer experience through feedback and platform enhancements.
+
+
+Value
+
+Continuous Integration and Continuous Delivery (CI/CD) Platform Engineering
+
+
+Design, implement, and maintain fully automated CI/CD pipelines for Java, .NET, and Node.js applications.
+Build standardized deployment workflows across Amazon Web Services (AWS) and/or Microsoft Azure environments.
+Implement automated testing, security scanning, and quality gates within pipelines.
+Establish reusable pipeline templates and shared libraries to enforce best practices.
+Optimize build and deployment performance, reliability, and observability.
+
+
+Cloud and Infrastructure Automation
+
+
+Design and manage cloud infrastructure in AWS and/or Azure using infrastructure as code, with Terraform required.
+Build reusable Terraform modules and enforce governance through policy-as-code.
+Implement secure, scalable networking and cloud-native architecture patterns.
+Ensure high availability, scalability, and disaster recovery readiness.
+
+
+DevOps and Platform Best Practices
+
+
+Implement monitoring, logging, and alerting strategies for both infrastructure and applications.
+Integrate DevSecOps practices, including vulnerability scanning and secrets management.
+Lead proof-of-concept initiatives to evaluate and introduce new tools, platforms, and automation processes.
+
+
+Required Qualifications
+
+
+10 or more years of progressive experience in software engineering, DevOps, cloud engineering, or platform engineering.
+Demonstrated evolution from software development into cloud infrastructure and automation.
+Six or more years of hands-on experience with CI/CD tools, such as Harness, CloudBees, Jenkins, and Azure DevOps, and modern software delivery practices.
+Deep development expertise in Java and/or Node.js application environments.
+Strong hands-on experience with AWS and/or Azure, including networking, serverless, and other managed cloud infrastructure.
+Advanced proficiency with Terraform and infrastructure as code principles.
+Experience designing scalable cloud-native architectures.
+Strong knowledge of Windows Server and Microsoft SQL Server, including SQL Server Availability Groups.
+Strong scripting skills using Python, PowerShell, Bash, or similar technologies.
+Experience with automation technologies such as Terraform, Ansible, and AWS CloudFormation.
+Strong understanding of secure software delivery, Git branching strategies, and DevSecOps practices.
+Experience with containerization technologies such as Docker and Kubernetes.
+Experience leading technical evaluations and proof-of-concept initiatives for new tools and processes.
+Excellent collaboration skills with the ability to work cross-functionally across engineering, security, and operations teams.
+Clear, transparent communication style with a bias toward documentation and shared ownership.
+
+
+Preferred Qualifications
+
+
+Experience building or implementing a commercial Internal Developer Portal, such as Harness IDP, Port, or a similar platform.
+Experience implementing platform engineering concepts and developer self-service models.
+Familiarity with service mesh, application programming interface (API) gateways, or cloud-native networking.
+Experience implementing security automation and compliance guardrails.
+Knowledge of observability platforms, including Datadog, Prometheus, Elasticsearch, Logstash, and Kibana (ELK), and cloud-native tools.
+Experience in multicloud or hybrid cloud environments.
+
+
+Education And Experience
+
+
+Bachelor’s degree or higher in computer science, engineering, mathematics, information systems, or a related technical field.
+
+
+Certificates and Licenses
+
+
+Valid driver’s license required.
+AWS and/or Azure certifications preferred; professional-level or specialty certifications preferred.
+Additional certifications in DevOps, Kubernetes, or cloud technologies are a plus.
+
+
+Supervisory Responsibilities
+
+This position has no supervisory responsibilities.
+
+Work Environment
+
+
+Standard indoor working environment.
+Occasional long periods of sitting while working at a computer.
+Position requires regular interaction with employees at all levels of the Firm, as well as interaction with external vendors and clients as necessary.
+Independent travel requirement: up to 10%.
+
+
+Compensation Pay Transparency
+
+
+For certain California based roles, the base salary hiring range for this position is $124,000.00 - $163,900.00
+For other California based roles, the base salary hiring range for this position is $114,000.00 - $150,700.00
+For Colorado based roles, the base salary hiring range for this position is $109,000.00 - $144,100.00
+For Illinois based roles, the base salary hiring range for this position is $114,000.00 - $150,700.00
+For other Illinois based roles, the base salary hiring range for this position is $109,000.00 - $144,100.00
+For Maryland based roles, the base salary hiring range for this position is $109,000.00 - $144,100.00
+For Massachusetts based roles, the base salary hiring range for this position is $114,000.00 - $150,700.00
+For other Massachusetts based roles, the base salary hiring range for this position is $109,000.00 - $144,100.00
+For New Jersey based roles, the base salary hiring range for this position is $124,000.00 - $163,900.00
+For New York based roles, the base salary hiring range for this position is $124,000.00 - $163,900.00
+For other New York based roles, the base salary hiring range for this position is $103,000.00 - $136,400.00
+For Washington based roles, the base salary hiring range for this position is $114,000.00 - $150,700.00
+
+
+Equal Opportunity Employer: disability/veteran
+
+#DICE
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at Ryan by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Sydney, New South Wales, Australia.
+
+Sign in to create job alert
+Similar jobs
+Senior DevOps Engineer
+Senior DevOps Engineer
+Settify
+Sydney, New South Wales, Australia
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+CORTO
+Millers Point, New South Wales, Australia
+2 weeks ago
+Sr DevOps Engineer
+Sr DevOps Engineer
+XPT Software
+Sydney, New South Wales, Australia
+1 week ago
+DevOps Engineer
+DevOps Engineer
+Cloud Raptor
+Sydney, New South Wales, Australia
+A$150,000 - A$170,000
+3 weeks ago
+Sr DevOps Engineer
+Sr DevOps Engineer
+XPT Software Australia
+Sydney, New South Wales, Australia
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Atain
+Sydney, New South Wales, Australia
+1 week ago
+Show more jobs like this 
+People also viewed
+DevOps Engineer
+DevOps Engineer
+
+XPT Software
+
+Sydney, New South Wales, Australia
+2 days ago
+Senior AI DevOps Engineer
+Senior AI DevOps Engineer
+
+Allianz Australia
+
+Sydney, New South Wales, Australia
+1 week ago
+DevOps Engineer / Senior Analyst (AU Citizen with Security Clearance)
+DevOps Engineer / Senior Analyst (AU Citizen with Security Clearance)
+
+Accenture Australia
+
+Sydney, New South Wales, Australia
+2 weeks ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+Blinq
+
+Sydney, New South Wales, Australia
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+Colonial First State
+
+Sydney, New South Wales, Australia
+3 weeks ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+Pet Circle
+
+Sydney, New South Wales, Australia
+1 week ago
+Senior DevOps Engineer - Operations
+Senior DevOps Engineer - Operations
+
+CoStar Group
+
+Pyrmont, New South Wales, Australia
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+BLACKROC Recruitment
+
+Greater Sydney Area
+1 week ago
+Senior Site Reliability Engineer (Platform Engineering/DevOps)
+Senior Site Reliability Engineer (Platform Engineering/DevOps)
+
+Cover Genius
+
+Sydney, New South Wales, Australia
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Nityo Infotech
+
+Sydney, New South Wales, Australia
+3 days ago
+Similar Searches
+Commercial Real Estate Advisor jobs
+24 open jobs
+Land Use Planner jobs
+40 open jobs
+Tax Partner jobs
+155 open jobs
+Associate Financial Analyst jobs
+60 open jobs
+Investment Performance Analyst jobs
+110 open jobs
+Tax Associate jobs
+434 open jobs
+Director Asset Management jobs
+220 open jobs
+Tax Analyst jobs
+1,762 open jobs
+Dispatch Manager jobs
+1,582 open jobs
+Indirect Tax Manager jobs
+152 open jobs
+Senior Human Resources Advisor jobs
+482 open jobs
+Senior Geotechnical Engineer jobs
+543 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Ryan
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
