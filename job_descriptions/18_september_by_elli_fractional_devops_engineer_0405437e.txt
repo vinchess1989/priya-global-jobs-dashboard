@@ -1,0 +1,231 @@
+Title: Fractional DevOps Engineer
+Company: 18 September by Elliot Marsh Head Hunting Partners
+Location: London, UK
+URL: https://www.reed.co.uk/jobs/fractional-devops-engineer/57364226
+Posted: 18 september
+Deadline: N/A
+Reason: The job matches as a DevOps Engineer role with CI/CD pipeline ownership, Infrastructure as Code (Terraform), and cloud security responsibilities, aligning with Priya's expertise in regulated environments and configuration management.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Jobs
+Courses
+Career advice
+Recruiting? Post a job
+Register CV
+Saved jobs
+Sign in
+What
+Where
+Search jobs
+Browse jobs
+Search results
+Home
+Information Technology
+Engineer
+Dev Ops Engineer
+Job details
+Easy Apply
+Fractional DevOps Engineer
+18 September by Elliot Marsh Head Hunting Partners
+Salary negotiable
+London
+Permanent, part-time
+On-site
+Apply now
+Save
+Full job description
+
+Our client has an exciting opportunity for a Fractional DevOps Engineer to join the team.
+
+
+
+
+Location: London
+
+Salary: Competitive
+
+Job Type: Fractional, 1–2 days per week
+
+
+
+
+About The Company:
+
+
+
+
+Our client is an early-stage technology business developing a highly secure financial software platform. The product will handle sensitive accounting, tax and payroll information and will connect with government, banking and other third-party services.
+
+As the platform moves through its next stage of development, the business requires an experienced DevOps specialist to establish secure, reliable and proportionate cloud infrastructure without introducing unnecessary complexity.
+
+
+
+
+Fractional DevOps Engineer – The Role:
+
+
+
+
+The Fractional DevOps Engineer will take a hands-on lead in shaping the company’s Google Cloud Platform environment, deployment processes, security controls and operational practices.
+
+Working closely with the technical leadership and engineering team, the successful candidate will build robust foundations for secure software delivery, monitoring, resilience and future scale. The role will suit a pragmatic engineer who favours well-managed cloud services and clear controls over complexity for its own sake.
+
+
+
+
+Fractional DevOps Engineer – Key Responsibilities:
+
+
+
+
+- Design and maintain a secure and scalable GCP environment with appropriate separation between development, staging and production
+
+- Establish Infrastructure as Code using Terraform and ensure production infrastructure is reproducible and documented
+
+- Build and maintain CI/CD pipelines incorporating automated testing, security scanning, controlled deployment and rollback processes
+
+- Implement strong IAM, networking, service account, secrets management, encryption and least-privilege controls
+
+- Establish centralised logging, monitoring, alerting and incident response processes
+
+- Design and test backup, disaster recovery and business continuity arrangements, including appropriate RPO and RTO targets
+
+- Support secure operation of scheduled jobs, queues, webhooks and critical integrations, documenting procedures and transferring knowledge to the internal team
+
+
+
+
+Fractional DevOps Engineer – You:
+
+
+
+
+- Strong commercial experience across DevOps, Site Reliability Engineering, cloud infrastructure and/or cloud security
+
+- Significant hands-on production experience with Google Cloud Platform and Terraform.
+
+- Excellent knowledge of GCP IAM, networking, service accounts, security architecture and managed database services
+
+- Strong experience of CI/CD, ideally using GitHub Actions, together with Docker and containerised workloads
+
+- Sound understanding of monitoring, incident response, backup, disaster recovery, threat modelling and secure software delivery
+
+- Experience within fintech, banking, payments, accounting software, payroll or another regulated environment would be advantageous; exposure to UK GDPR, ISO 27001, Cyber Essentials Plus, Kubernetes or GKE would also be valuable
+
+
+
+
+Fractional DevOps Engineer – Benefits:
+
+
+
+
+- Competitive remuneration for a fractional commitment of 1–2 days per week
+
+- Opportunity to establish the security, reliability and deployment foundations of a new financial technology platform
+
+- Flexible working arrangements within a pragmatic environment where technical decisions are guided by genuine business and operational requirements
+
+
+
+
+To submit your CV for this exciting Fractional DevOps Engineer opportunity, please click ‘Apply’ now!
+
+Share
+Hide
+Add skills to your profile and be found by recruiters.
+Create profile
+Reference: 57364226
+Please note that Reed.co.uk will only ask for passport or driving licence details where necessary and through official, secure channels.
+Report this job 
+Create alerts for similar jobs
+Fractional DevOps Engineer
+London
+Edit
+Email address
+Create alert
+By creating an alert, you agree to the Terms and conditions applicable to our service and acknowledge that your personal data will be used in accordance with our Privacy policy and you will receive emails and communications about jobs and career related topics.
+Recommended courses
+AWS CodePipeline: DevOps CI/CD Masterclass 2023
+Online, Self-paced
+£15
+Mastering Jenkins CI with Amazon AWS: Build DevOps Pipeline
+Online, Self-paced
+£15
+Complete DevOps Gitlab & Kubernetes: Best Practices Bootcamp
+Online, Self-paced
+£15
+View Software testing courses
+Posted by Elliot Marsh Head Hunting Partners
+View all jobs and profile
+JOBS
+Contact us
+Job search
+Recruiter directory
+Remote jobs
+Browse jobs
+Browse locations
+Popular searches
+Career advice
+Tax calculator
+Average salary checker
+Help
+Contact a REED office
+Sitemap
+RECRUITER
+Recruiter site
+Post a job
+CV Search
+Recruitment agencies
+Recruiter Advice
+COURSES
+Help
+Contact us
+Find a course
+View all subjects
+Discount courses
+Free courses
+Awarding body directory
+Career guides
+Advertise a course
+Courses sitemap
+MORE FROM Reed.co.uk
+About us
+Careers at Reed.co.uk
+Press office
+Corporate governance
+Modern slavery statement
+REED
+Tempzone: timesheets & holiday
+Authorise timesheets
+Reed Group Services
+Reed Specialist Recruitment
+Reed Learning
+Reed in Partnership
+Careers with REED
+James Reed - Official Site
+Podcast - James Reed: all about business
+ESG & sustainability
+Learn how Reed is leading the way in philanthropy
+Introducing our new podcast
+New
+
+James Reed: all about business
+
+Listen here
+Manage Preferences,Security, Privacy, Terms & Conditions
+
+COPYRIGHT © Reed.co.uk 2026
+
+We Value Your Privacy
+We and our 1033 partners use cookies and process your data to personalise content and ads, measure performance and improve our services. You can update or withdraw your consent at any time via Manage Preferences. See our Privacy Policy.
+We and our partners process data to provide:
+
+Use precise geolocation data. Actively scan device characteristics for identification. Store and/or access information on a device. Personalised advertising and content, advertising and content measurement, audience research and services development.
+Partner List
+
+Show Purposes
+Reject All I Accept
