@@ -87053,8 +87053,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-03T15:55:38+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-03T22:09:53+03:00"
   },
   {
     "title": "Quality Engineer",
@@ -87070,8 +87070,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-03T15:55:38+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-03T22:09:53+03:00"
   },
   {
     "title": "Quality Engineer (QMS)",
@@ -87087,8 +87087,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-03T15:55:38+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-03T22:09:53+03:00"
   },
   {
     "title": "Quality Engineer",
@@ -87104,8 +87104,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-03T15:55:38+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-03T22:09:53+03:00"
   },
   {
     "title": "Quality Engineer, Lead",
@@ -87121,8 +87121,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-03T15:55:38+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-03T22:09:53+03:00"
   },
   {
     "title": "Quality Engineer/Inspector",
@@ -87138,8 +87138,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-03T15:55:38+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-03T22:09:53+03:00"
   },
   {
     "title": "Quality Engineer",
@@ -87269,8 +87269,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-03T15:55:39+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-03T22:09:54+03:00"
   },
   {
     "title": "Quality Engineer",
@@ -87286,8 +87286,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-03T15:55:39+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-03T22:09:54+03:00"
   },
   {
     "title": "Quality Engineer",
@@ -87303,25 +87303,24 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-03T15:55:39+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-03T22:09:54+03:00"
   },
   {
     "title": "Quality Engineer (contract)",
-    "company": "Extract from page",
+    "company": "Reperio Human Capital Ltd",
     "location": "Extract from page",
     "url": "https://www.irishjobs.ie/job/quality-engineer-contract/reperio-human-capital-ltd-job108035717",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "Job description text is inaccessible (access denied error), preventing evaluation of location, visa sponsorship requirements, or role fit against candidate's criteria.",
     "id": "7805d2d9",
     "source": "irishjobs_quality_engineer",
     "added_at": "2026-10-03T09:46:49+03:00",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-03T15:55:39+03:00"
+    "eval_model": "local/qwen/qwen3-14b"
   },
   {
     "title": "Quality Engineer",
@@ -87337,8 +87336,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-03T15:55:39+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-03T22:11:00+03:00"
   },
   {
     "title": "BIM Quality Engineer",
@@ -87354,8 +87353,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-03T15:55:39+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-03T22:11:00+03:00"
   },
   {
     "title": "Electronic Quality Engineer",
@@ -87371,8 +87370,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-03T15:55:40+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-03T22:11:00+03:00"
   },
   {
     "title": "Quality Coordinator/Engineer",
@@ -87388,8 +87387,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-03T15:55:40+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-03T22:11:00+03:00"
   },
   {
     "title": "Staff Advanced Quality Engineer",
@@ -87405,8 +87404,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-03T15:55:40+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-03T22:11:00+03:00"
   },
   {
     "title": "Staff NPI Quality Engineer",
