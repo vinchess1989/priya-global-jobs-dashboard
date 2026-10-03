@@ -1936,5 +1936,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Deadline (2026-09-25) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Senior Integration Engineer",
+    "company": "Bank of Valletta plc",
+    "location": "Santa Venera, Santa Venera, Malta",
+    "url": "https://mt.linkedin.com/jobs/view/senior-integration-engineer-at-bank-of-valletta-plc-4461979253",
+    "visited": "yes",
+    "matches_requirements": "maybe",
+    "reason": "The job as a Senior Integration Engineer involves integration architecture and governance, which partially overlaps with the candidate's DevOps/CI-CD and configuration-management experience but does not fully align with her strong fit in regulated-release management or technical communication roles.",
+    "id": "d8406dda",
+    "source": "linkedin_mt_requirements_engineer",
+    "added_at": "2026-10-03T05:54:30+03:00",
+    "posted_date": "2026-09-26",
+    "deadline": "2026-09-18",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-09-18) passed by more than 2 days and unreviewed"
   }
 ]
