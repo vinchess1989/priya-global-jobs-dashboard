@@ -2242,5 +2242,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Linux DevOps Engineer - DV cleared",
+    "company": "CBSbutler Holdings Limited trading as CBSbutler",
+    "location": "Reading, Berkshire",
+    "url": "https://www.cv-library.co.uk/job/225680658/linux-devops-engineer-dv-cleared",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires DV clearance and restricts applicants to sole British nationals, which falls under the 'No Visa Sponsorship / Existing Right to Work Required' hard rejection criterion as the candidate needs employer visa sponsorship and does not hold British citizenship.",
+    "id": "6dac334a",
+    "source": "cv_library_devops_engineer",
+    "added_at": "2026-10-03T22:50:57+03:00",
+    "posted_date": "2026-10-02",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
