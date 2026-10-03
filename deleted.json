@@ -1902,5 +1902,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Deadline (2026-09-29) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Product Specialist",
+    "company": "Minderoo Foundation",
+    "location": "Greater Perth Area",
+    "url": "https://au.linkedin.com/jobs/view/product-specialist-at-minderoo-foundation-4464999044",
+    "visited": "yes",
+    "matches_requirements": "maybe",
+    "reason": "The job is a Product Specialist role in Australia (target country), but its focus on Workday configuration and enterprise HR platforms may not fully align with Priya's background in regulated-industry release/CM/DevOps roles, though it matches her 'Product Specialist' experience as a technical/quality role.",
+    "id": "c19ea8a8",
+    "source": "linkedin_au_requirements_engineer",
+    "added_at": "2026-10-03T05:09:58+03:00",
+    "posted_date": "2026-09-12",
+    "deadline": "2026-09-25",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-09-25) passed by more than 2 days and unreviewed"
   }
 ]
