@@ -2599,5 +2599,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Deadline (2026-08-14) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Quality Assurance Officer",
+    "company": "Provectus Algae",
+    "location": "Noosaville, Queensland, Australia",
+    "url": "https://au.linkedin.com/jobs/view/quality-assurance-officer-at-provectus-algae-4467816925",
+    "visited": "yes",
+    "matches_requirements": "yes",
+    "reason": "The role aligns with Priya's experience in quality gatekeeping, regulatory compliance (ISO/IEC 17025, FeedSafe\u00ae), and audit readiness, located in Australia (target country) with no visa sponsorship restrictions.",
+    "id": "e6051a1f",
+    "source": "linkedin_au_documentation_specialist",
+    "added_at": "2026-10-04T12:21:25+03:00",
+    "posted_date": "2026-09-20",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": "job_descriptions/provectus_algae_quality_assurance_officer_e6051a1f.txt",
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
