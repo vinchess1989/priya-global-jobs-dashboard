@@ -107282,16 +107282,15 @@
     "location": "Osborne Park, Western Australia, Australia",
     "url": "https://au.linkedin.com/jobs/view/report-production-officer-medico-legal-at-next-health-4275583516",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job does not align with the candidate's target roles (e.g., Technical Writer, Configuration Management) and instead focuses on administrative medicolegal report production, which lacks CI/CD, release management, or regulated compliance components she specializes in.",
     "id": "127a7cf4",
     "source": "linkedin_au_documentation_specialist",
     "added_at": "2026-10-04T12:21:25+03:00",
-    "posted_date": "N/A",
+    "posted_date": "2026-09-27",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-04T12:40:19+03:00"
+    "eval_model": "local/qwen/qwen3-14b"
   },
   {
     "title": "Clinical Documentation Improvement Specialist",
