@@ -2701,5 +2701,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "E & I ENGINEER (MM)",
+    "company": "Umfolozi Sugar Mill (Pty) Ltd",
+    "location": "Mtubatuba, South Africa",
+    "url": "https://www.pnet.co.za/jobs--E-I-ENGINEER-MM-MTUBATUBA-Umfolozi-Sugar-Mill-Pty-Ltd--4274236-inline.html",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires an Electrical and Instrumentation Engineer with heavy industrial experience, which does not align with the candidate's background in Configuration Management, Release Management, and technical writing in regulated industries.",
+    "id": "31eec984",
+    "source": "pnet_requirements_engineer",
+    "added_at": "2026-10-04T18:55:52+03:00",
+    "posted_date": "2026-10-02",
+    "deadline": "2026-09-30",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-09-30) passed by more than 2 days and unreviewed"
   }
 ]
