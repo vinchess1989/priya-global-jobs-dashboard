@@ -102415,8 +102415,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-04T11:51:27+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-04T18:14:24+03:00"
   },
   {
     "title": "IT Service Delivery Operational Governance Manager Bank",
@@ -102432,8 +102432,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-04T11:51:27+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-04T18:14:24+03:00"
   },
   {
     "title": "Head of Commercial Construction Delivery",
@@ -102449,8 +102449,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-04T11:51:27+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-04T18:14:24+03:00"
   },
   {
     "title": "Service Delivery Manager",
@@ -102466,8 +102466,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-04T11:51:27+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-04T18:14:25+03:00"
   },
   {
     "title": "IT Project & Service Delivery Manager - \u00a370,000 - Hybrid - Kingston",
@@ -102483,8 +102483,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-04T11:51:28+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-04T18:14:25+03:00"
   },
   {
     "title": "Service Delivery Manager",
@@ -102500,8 +102500,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-04T11:51:28+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-04T18:14:25+03:00"
   },
   {
     "title": "Technical Delivery Manager",
@@ -102517,8 +102517,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-04T11:51:28+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-04T18:14:25+03:00"
   },
   {
     "title": "Release Analyst (SIAM)",
@@ -102550,8 +102550,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-04T11:51:28+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-04T18:14:25+03:00"
   },
   {
     "title": "Delivery Manager",
@@ -102567,42 +102567,40 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-04T11:51:29+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-04T18:14:25+03:00"
   },
   {
     "title": "Delivery Manager",
-    "company": "Extract from page",
+    "company": "Shareridge Ltd",
     "location": "Extract from page",
     "url": "https://www.irishjobs.ie/job/delivery-manager/shareridge-ltd-job108075426",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job posting is inaccessible (Access Denied), preventing evaluation of location, role type, or other criteria.",
     "id": "2e67b6bb",
     "source": "irishjobs_release_manager",
     "added_at": "2026-10-04T05:32:19+03:00",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-04T11:51:29+03:00"
+    "eval_model": "local/qwen/qwen3-14b"
   },
   {
     "title": "Delivery Manager",
-    "company": "Extract from page",
+    "company": "Shareridge Ltd",
     "location": "Extract from page",
     "url": "https://www.irishjobs.ie/job/delivery-manager/shareridge-ltd-job108075408",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "maybe",
+    "reason": "The job posting's location and specific responsibilities cannot be determined due to an access denial error, making it uncertain whether it aligns with the candidate's requirements.",
     "id": "89f891f4",
     "source": "irishjobs_release_manager",
     "added_at": "2026-10-04T05:32:19+03:00",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-04T11:51:29+03:00"
+    "eval_model": "local/qwen/qwen3-14b"
   },
   {
     "title": "Commissioning Manager  - Data Centre",
@@ -102610,16 +102608,15 @@
     "location": "Extract from page",
     "url": "https://www.irishjobs.ie/job/manager-data/gertek-project-management-job108076848",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job's location cannot be determined from the provided information, and it may fall outside the target countries or include US-based restrictions.",
     "id": "a3df2d19",
     "source": "irishjobs_release_manager",
     "added_at": "2026-10-04T05:32:19+03:00",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-04T11:51:29+03:00"
+    "eval_model": "local/qwen/qwen3-14b"
   },
   {
     "title": "office administrator",
