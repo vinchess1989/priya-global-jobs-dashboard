@@ -1,0 +1,295 @@
+Title: AVP/VP, Product Engineer (DevSecOps), Technology Group
+Company: GIC
+Location: Singapore, Singapore
+URL: https://sg.linkedin.com/jobs/view/avp-vp-product-engineer-devsecops-technology-group-at-gic-4452243063
+Posted: 2026-09-29
+Deadline: N/A
+Reason: The job aligns with the candidate's expertise in CI/CD pipeline ownership, artifact management, and DevSecOps practices, matching her experience at Elektrobit and Topcon, while being located in Singapore (a target country) and requiring no US-based work authorization.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+AVP/VP, Product Engineer (DevSecOps), Technology Group
+GIC  Singapore, Singapore
+5 days ago  64 applicants
+  
+
+See who GIC has hired for this role
+
+Apply 
+Save
+About GIC
+
+GIC is one of the world's largest sovereign wealth funds. With over 2,000 employees across 11 locations around the world, we invest in more than 40 countries globally across asset classes and businesses. Working at GIC gives you exposure to an extraordinary network of the world's industry leaders. As a leading global long-term investor, we work at the Point of Impact for Singapore's financial future, and the communities we invest in worldwide.
+
+Technology Group
+
+We experiment, design, and lead a 24×7 global business where we support core capabilities in asset management, trading, investment operations, and risk management. We deliver secure, reliable, and integrated solutions, and provide insights on new and emerging technologies.
+
+Strategy, Architecture, and Transformation Group
+
+The Strategy, Architecture & Transformation (SAT) group shapes and drives GIC’s technology strategy, ensuring alignment with business priorities and enterprise goals. Bringing together expertise in strategy, architecture, engineering, and transformation, the team strengthens governance, promotes consistency, and accelerates delivery across the Technology Group. Through modern practices and close collaboration, SAT leads the development of an architectural strategy that reinforces oversight and accountability while enabling reliable, scalable solutions and informed decision making across the Technology Group and, more broadly, across GIC.
+
+Developer Experience
+
+The Developer Experience team builds and operates the products and platforms that support the developer experience across GIC's Technology Group. The team is organised around three product pillars:
+
+
+Project Management Tooling — Platforms such as Jira and Confluence that support project tracking, collaboration, and workflow management across the Technology Group.
+Cloud Development Environments & IDEs — Cloud-based development environments, AI-assisted coding tools, developer toolchains (CLIs, SDKs, IDE extensions, devcontainer features), and agentic development capabilities.
+DevSecOps & CI/CD — CI/CD pipelines, artifact management, security scanning integration, infrastructure-as-code, and secure software delivery tooling.
+
+
+
+What impact can you make in this role?
+
+As a Product Engineer (DevSecOps), you will own and drive the delivery of DevSecOps and CI/CD platform products that underpin secure software delivery across GIC's Technology Group. You will take a product-oriented approach to engineering — understanding developer needs, defining roadmaps, and delivering solutions that improve delivery velocity while meeting the organisation's security and governance requirements.
+
+This role requires someone who thinks beyond code. You will design and maintain the pipelines, tooling, and security integrations that development teams depend on daily. You will need to balance developer experience with enterprise security constraints, advocate for your platform's users, and make pragmatic trade-offs between speed, security, and scalability.
+
+What will you do as a Product Engineer (DevSecOps)?
+
+
+Product Ownership & Delivery
+Own the end-to-end lifecycle of DevSecOps platform products — from discovery and design through to delivery, adoption, and iteration.
+Engage with engineering teams across the organisation to understand their build, test, deployment, and security workflows, pain points, and needs.
+Define and prioritise product backlogs based on user feedback, operational data, and strategic direction.
+Deliver incremental improvements and new capabilities through agile delivery practices.
+Track and measure product success through adoption, satisfaction, and toil reduction metrics.
+Publish documentation, onboarding guides, and self-help templates with guardrails that development teams can use.
+
+CI/CD Pipeline Engineering
+Design, build, and maintain secure and scalable CI/CD pipelines that support efficient and reliable software delivery across the organisation.
+Implement and manage continuous integration and continuous deployment processes using platforms such as GitHub Actions, Jenkins, or GitLab CI.
+Collaborate with development teams for continuous enhancements, pipeline reviews, and adoption of pipeline best practices.
+Automate self-help processes, reusable pipeline templates, and guardrails that development teams can consume with minimal friction.
+Conduct peer code reviews and provide technical mentorship on CI/CD and DevSecOps practices.
+
+Artifact Management & Supply Chain Security
+Manage and operate artifact management platforms (e.g. JFrog Artifactory, Xray), including repository configuration, access controls, vulnerability scanning, and lifecycle policies.
+Scan and analyse artifacts for security vulnerabilities and license compliance using tools such as JFrog Xray.
+Govern open-source software usage, dependency management, and software composition analysis across the organisation's delivery pipelines.
+
+Security Integration & Vulnerability Management
+Integrate security scanning tools — SAST, DAST, SCA, and secrets detection — into CI/CD pipelines and developer workflows.
+Leverage GitHub Advanced Security features such as CodeQL (SAST), secret scanning, and dependency analysis.
+Integrate container and infrastructure scanning tools (e.g. Snyk, Wiz) into delivery workflows.
+Manage the vulnerability lifecycle — scanning, triage, patching — and ensure security gates are embedded in delivery pipelines.
+Stay up-to-date with the latest security trends, technologies, and best practices, and provide recommendations for improvement.
+Balance security controls with developer productivity, finding practical solutions that protect without creating unnecessary friction.
+
+Stakeholder Engagement
+Partner with engineering leads, architects, and business stakeholders to align platform capabilities with organisational priorities.
+Communicate product direction, trade-offs, and decisions clearly to both technical and non-technical audiences.
+Collaborate with development, cloud, and security teams to integrate best practices into the software development lifecycle.
+Conduct system integration tests and coordinate with business users on user acceptance tests where applicable.
+
+
+
+What makes you a successful candidate?
+
+
+Experience & Background
+Bachelor's degree in Computer Science, Engineering, Information Technology, or a related discipline.
+At least 5 years of relevant experience in software engineering, platform engineering, or product engineering roles.
+Experience working in enterprise or regulated technology environments is advantageous.
+
+CI/CD and DevSecOps
+Deep understanding of DevOps principles, practices, and tools, including CI/CD pipeline design and operation.
+Proficiency in using GitHub for version control, collaboration, and code review processes. Experience configuring and managing CI/CD pipelines using GitHub Actions.
+Hands-on experience with artifact management platforms (e.g. JFrog Artifactory, Xray), including repository management, vulnerability scanning, and license compliance.
+Familiarity with GitHub Advanced Security features such as CodeQL (SAST), secret scanning, and dependency analysis.
+Experience integrating security scanning tools (SAST, DAST, SCA, secrets detection) and container/infrastructure scanning tools (e.g. Snyk, Wiz) into delivery pipelines.
+
+Cloud and Infrastructure
+Proficiency with infrastructure-as-code (e.g. Terraform) and cloud platforms (AWS preferred, Azure), including compute, networking, identity, and storage services.
+Proficiency in AWS technologies or their equivalent such as OIDC, STS, AWS CLI, and CloudFormation.
+Experience with containerisation technologies (e.g. Docker, Kubernetes).
+Good understanding of security and networking principles, protocols, and technologies.
+
+Product & Delivery Mindset
+Demonstrated ability to think about engineering work through a product lens — understanding users, measuring outcomes, and iterating based on feedback.
+Comfortable owning a product backlog and making prioritisation decisions.
+Experience working in agile teams with a focus on incremental delivery.
+
+Governance & Ways of Working
+Ability to balance developer experience and autonomy with enterprise requirements for security, standardisation, and cost control.
+Strong stakeholder management skills, with the ability to work across engineering, platform, and cybersecurity teams.
+Comfortable navigating competing priorities and driving alignment.
+
+Personal Attributes
+Clear and effective communicator, both written and verbal.
+Pragmatic, structured, and outcome-focused.
+Consistently demonstrates GIC's PRIME values: Prudence, Respect, Integrity, Merit, and Excellence.
+
+
+
+Work at the Point of Impact
+
+We need to be forward-looking to attract the right people to help us become the Leading Global Long-term Investor. Join our ambitious, agile, and diverse teams - be empowered to push boundaries and pursue innovative ideas, share your views, and be heard. Be anchored on our PRIME Values: Prudence, Respect, Integrity, Merit and Excellence, which guides us in how we make our day-to-day decisions. We strive to inspire. To make an impact.
+
+Flexibility at GIC
+
+At GIC, our offices are vibrant hubs for ideation, professional growth, and interpersonal connection. At the same time, we believe that flexibility allows us to do our best work and be our best selves. Thus, our teams come into the office four days per week to harness the benefits of in-person collaboration, but have the flexibility to choose which days they work from home and adjust this arrangement as situational needs arise.
+
+GIC is an equal opportunity employer
+
+GIC is an equal opportunity employer, and we value diversity. We do not discriminate based on race, religion, color, national origin, sex, gender, gender expression, sexual orientation, age, marital status, veteran status, or disability status. We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment.
+
+Learn more about our Technology Group here:
+
+https://gic.careers/group/technology-group/
+Our PRIME Values
+GIC is a values driven organization. GIC’s PRIME Values act as our compass, enabling us to fulfil our fundamental purpose and objectives. It is the foundational bedrock which governs our behaviors, our decision making, and our focus. It informs both our long-term strategy as a firm, and the way we relate to our Client, business partners and employees. PRIME stands for Prudence, Respect, Integrity, Merit and Excellence.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Investment Management and Financial Services
+  
+
+Referrals increase your chances of interviewing at GIC by 2x
+
+See who you know
+
+Get notified about new Vice President of Products jobs in Singapore, Singapore.
+
+Sign in to create job alert
+Similar jobs
+SVP, DevSecOps Lead
+SVP, DevSecOps Lead
+Kerry Consulting
+Singapore, Singapore
+2 weeks ago
+SVP, DevSecOps Lead (Cloud)
+SVP, DevSecOps Lead (Cloud)
+SGX Group
+Singapore, Singapore
+1 week ago
+VP/SVP - Head of Developer Experience (DevEx)
+VP/SVP - Head of Developer Experience (DevEx)
+SGX Group
+Singapore, Singapore
+1 week ago
+AVP/VP, DevSecOps Engineer
+AVP/VP, DevSecOps Engineer
+Kerry Consulting
+Singapore, Singapore
+2 weeks ago
+VP, AI Security Engineer, Technology Group
+VP, AI Security Engineer, Technology Group
+GIC
+Singapore, Singapore
+5 days ago
+DevOps Engineer (AVP)
+DevOps Engineer (AVP)
+OCBC
+Singapore, Singapore
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Principal Cyber Security Architect (Application Security)
+Principal Cyber Security Architect (Application Security)
+
+Dyson
+
+Singapore, Singapore
+1 week ago
+DevSecOps & Platform Engineer
+
+CMC-APAC PRIVATE LIMITED
+
+Singapore, Singapore
+6 days ago
+Automation and DevSecOps Engineer
+Automation and DevSecOps Engineer
+
+NETS
+
+Singapore, Singapore
+3 weeks ago
+Vice President (12 months contract), Cybersecurity (Security Operations)
+Vice President (12 months contract), Cybersecurity (Security Operations)
+
+Temasek
+
+Singapore, Singapore
+1 week ago
+APAC ITP DevSecOps & Cloud Lead H/F – Singapour
+APAC ITP DevSecOps & Cloud Lead H/F – Singapour
+
+QUANTEAM (RAINBOW PARTNERS Group)
+
+Singapore, Singapore
+2 months ago
+AVP/VP, Cybersecurity (Governance, AI Trust and Assurance)
+AVP/VP, Cybersecurity (Governance, AI Trust and Assurance)
+
+Temasek
+
+Singapore, Singapore
+2 weeks ago
+Software Engineering Manager, Cloud and Third-Party Platform Security
+Software Engineering Manager, Cloud and Third-Party Platform Security
+
+Google
+
+Singapore
+3 days ago
+DevSecOps Engineer
+DevSecOps Engineer
+
+Epergne Solutions
+
+Singapore
+1 month ago
+Cloud DevSecOps Engineer (AI Products)
+
+MEINHARDT (SINGAPORE) PTE LTD
+
+Singapore, Singapore
+1 month ago
+Security Engineer
+Security Engineer
+
+GXS Bank
+
+Singapore, Singapore
+1 week ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at GIC
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
