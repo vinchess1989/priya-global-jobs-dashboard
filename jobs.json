@@ -106436,8 +106436,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-04T11:20:18+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-04T17:44:35+03:00"
   },
   {
     "title": "Technical Assistant",
@@ -106453,8 +106453,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-04T11:20:18+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-04T17:44:35+03:00"
   },
   {
     "title": "Technical Assistant",
@@ -106470,8 +106470,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-04T11:20:19+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-04T17:44:36+03:00"
   },
   {
     "title": "Bid Writer (Critical Infrastructure)",
@@ -106487,8 +106487,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-04T11:20:19+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-04T17:44:36+03:00"
   },
   {
     "title": "Bid Writer",
@@ -106504,8 +106504,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-04T11:20:19+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-04T17:44:36+03:00"
   },
   {
     "title": "Senior Software Engineer, Backend Services & APIs",
@@ -106521,8 +106521,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-04T11:20:19+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-04T17:44:36+03:00"
   },
   {
     "title": "Software Engineer-Cybersecurity Analytics & Enforcement",
@@ -106538,8 +106538,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-04T11:20:19+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-04T17:44:36+03:00"
   },
   {
     "title": "Capture Management Director",
@@ -106555,8 +106555,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-04T11:20:19+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-04T17:44:36+03:00"
   },
   {
     "title": "Capture Management Director",
@@ -106572,8 +106572,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-04T11:20:19+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-04T17:44:36+03:00"
   },
   {
     "title": "Capture Management Senior Manager",
@@ -106661,16 +106661,15 @@
     "location": "Extract from page",
     "url": "https://www.irishjobs.ie/job/cqv-engineer/pm-group-job108076859",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job posting is inaccessible (\\\\",
     "id": "c34e7333",
     "source": "irishjobs_technical_writer",
     "added_at": "2026-10-04T11:20:17+03:00",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-04T11:26:03+03:00"
+    "eval_model": "local/qwen/qwen3-14b"
   },
   {
     "title": "EAM Technical Writer",
