@@ -2803,5 +2803,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Electrical Engineer at AdcorpBlu",
+    "company": "AdcorpBlu",
+    "location": "Harrismith, South Africa",
+    "url": "https://www.careerjunction.co.za/electrical-engineer-at-adcorpblu-job-2644779.aspx",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job does not align with Priyanga Ramachandran's target roles (DevOps, Configuration Management, Release Management, Technical Writing, Quality Assurance) or regulated-industry experience; it is a hands-on Electrical Engineer role in maintenance and field engineering, which falls outside her expertise in CI/CD, documentation, and quality gatekeeping.",
+    "id": "499ed302",
+    "source": "careerjunction_quality_engineer",
+    "added_at": "2026-10-05T02:22:07+03:00",
+    "posted_date": "2026-10-04",
+    "deadline": "2026-09-11",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-09-11) passed by more than 2 days and unreviewed"
   }
 ]
