@@ -1,0 +1,258 @@
+Title: Lead Mobile Release Engineer
+Company: Elixr Labs
+Location: Thiruvananthapuram, Kerala, India
+URL: https://in.linkedin.com/jobs/view/lead-mobile-release-engineer-at-elixr-labs-4430697478
+Posted: 2026-07-06
+Deadline: N/A
+Reason: The job aligns with the candidate's expertise in CI/CD pipeline ownership, release management, and DevOps tooling (GitHub Actions, Azure DevOps), matching her experience at Elektrobit and Topcon, and is located in India, one of her target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Lead Mobile Release Engineer
+Elixr Labs  Thiruvananthapuram, Kerala, India
+3 months ago   Be among the first 25 applicants
+  
+
+See who Elixr Labs has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Lead Mobile Release Engineer with 6+ years of experience to own and lead the mobile application delivery lifecycle across iOS and Android. This role will serve as the single point of contact for the mobile release function and act as the technical lead for release engineering across the team.
+
+You will be responsible for driving release strategy, standardizing delivery processes, coordinating cross-functional stakeholders, and building secure, automated, and highly reliable pipelines from code merge through internal distribution and production rollout. The ideal candidate combines deep expertise in mobile release tooling with strong DevOps/platform engineering fundamentals and the leadership skills to guide developers, QA, product, and security teams through a predictable release process.
+
+Requirements
+
+Key Responsibilities
+
+
+Act as the primary owner and single point of contact for all mobile release engineering activities across iOS and Android
+Lead the end-to-end mobile release lifecycle, including build orchestration, internal testing, beta distribution, store submission, phased rollout, and production release
+Define and enforce release standards, governance, checklists, timelines, and go/no-go criteria
+Build and maintain CI/CD pipelines for mobile applications using GitHub Actions, Azure DevOps, Jenkins, or Bitrise, integrated with Fastlane
+Manage release workflows for App Store Connect and Google Play Console, including TestFlight, Firebase App Distribution, release tracks, phased rollouts, and store compliance requirements
+Own and secure mobile code-signing processes, including certificate and provisioning profile management using Fastlane Match or equivalent tooling
+Improve build reliability, speed, and developer experience by optimizing macOS runners, caching, dependency management, and artifact handling
+Partner with mobile developers to support native iOS/Android, React Native, and Flutter delivery workflows
+Drive shift-left quality and security practices by integrating unit tests, UI automation, static analysis, dependency scanning, and mobile security checks aligned to OWASP MASVS
+Implement and review post-release observability using Crashlytics, Sentry, and New Relic to monitor app health, regressions, and release quality
+Manage supporting infrastructure on AWS and/or Azure using Terraform and Ansible
+Support internal tooling and backend services used by the mobile ecosystem with Docker and Kubernetes where required
+Coordinate closely with engineering, QA, product, security, and leadership to plan releases, manage dependencies, communicate risks, and resolve blockers
+Mentor engineers on release best practices, improve team maturity, and drive continuous improvement across delivery processes
+Own release metrics such as build success rate, deployment frequency, build duration, failed submissions, rollback rates, and release stability
+
+
+Required Skills And Qualifications
+
+
+6+ years of experience in DevOps, Platform Engineering, Release Engineering, or CI/CD, with at least 2-3 years focused on mobile release engineering
+Proven experience acting as a technical lead, release lead, or primary point of contact for a delivery or platform function
+Strong hands-on experience with Fastlane, Xcodebuild, and Gradle
+Proven experience building and operating iOS and Android CI/CD pipelines on macOS runners
+Deep understanding of App Store Connect, Google Play Console, TestFlight, Firebase App Distribution, release tracks, phased rollouts, signing requirements, and store review processes
+Strong knowledge of CocoaPods, Swift Package Manager, and Android build/release configuration
+Experience supporting both native mobile apps and at least one cross-platform stack such as React Native or Flutter
+Proficiency in Bash, Python, or Ruby for release and build automation
+Strong hands-on experience with AWS and/or Azure and Infrastructure as Code using Terraform
+Working knowledge of Docker and Kubernetes
+Experience integrating security tooling such as MobSF, SonarQube, dependency scanning, or similar mobile security controls
+Solid understanding of OWASP MASVS and secure mobile delivery practices
+Strong stakeholder communication, decision-making, incident coordination, and ownership mindset
+
+
+Preferred Qualifications
+
+
+Experience with Bitrise, MacStadium, AWS EC2 Mac, or other Apple build infrastructure providers
+Experience managing release planning for multiple apps, teams, or environments simultaneously
+Familiarity with ArgoCD or Flux for managing backend services that support mobile platforms
+Experience with JFrog Artifactory, Azure Artifacts, private CocoaPods registries, or Maven repositories
+Experience optimizing runner usage, cloud costs, and build minutes at scale
+Experience mentoring engineers or leading a small release/platform function
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Elixr Labs by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Tech Lead – DevOps & Reliability
+Tech Lead – DevOps & Reliability
+Propel Software
+Thiruvananthapuram, Kerala, India
+2 days ago
+Lead II - DevOps Engineering
+Lead II - DevOps Engineering
+UST
+Trivandrum, Kerala, India
+1 week ago
+Devops Engineer
+Devops Engineer
+Litmus7
+Kochi, Kerala, India
+2 weeks ago
+Lead - Cloud DevOps
+Lead - Cloud DevOps
+Accenture in India
+Kochi, Kerala, India
+1 week ago
+Devops Engineer
+Devops Engineer
+L7Commerce
+Kochi, Kerala, India
+2 weeks ago
+Lead Platform Engineer – GitLab CI/CD | IDP| Terraform | AWS
+Lead Platform Engineer – GitLab CI/CD | IDP| Terraform | AWS
+UST
+Trivandrum, Kerala, India
+1 week ago
+Show more jobs like this 
+People also viewed
+Application Development Manager
+Application Development Manager
+
+Milestone Technologies, Inc.
+
+Kochi, Kerala, India
+2 weeks ago
+Technical Manager
+Technical Manager
+
+CTeBS
+
+Kochi, Kerala, India
+4 weeks ago
+Senior SDET
+Senior SDET
+
+Propel Software
+
+Thiruvananthapuram, Kerala, India
+3 weeks ago
+Technical Project Manager
+Technical Project Manager
+
+Milestone Technologies, Inc.
+
+Kochi, Kerala, India
+2 weeks ago
+Lead I - Software Testing (Mobile Automation)
+Lead I - Software Testing (Mobile Automation)
+
+UST
+
+Trivandrum, Kerala, India
+1 week ago
+Lead - Cloud DevOps 2
+Lead - Cloud DevOps 2
+
+Accenture in India
+
+Kochi, Kerala, India
+1 week ago
+Lead I - DevOps Engineering
+Lead I - DevOps Engineering
+
+UST
+
+Trivandrum, Kerala, India
+3 days ago
+ET - Senior DevOps Engineer
+ET - Senior DevOps Engineer
+
+EY
+
+Kochi, Kerala, India
+3 days ago
+ET - Senior DevOps Engineer
+ET - Senior DevOps Engineer
+
+EY
+
+Trivandrum, Kerala, India
+3 days ago
+Cloud DevOps Team Lead (Azure OR AWS, Terraform)
+Cloud DevOps Team Lead (Azure OR AWS, Terraform)
+
+UST
+
+Kochi, Kerala, India
+4 days ago
+Similar Searches
+Build And Release Engineer jobs
+3,712 open jobs
+Software Release Engineer jobs
+346 open jobs
+Agile Coach jobs
+1,905 open jobs
+Release Manager jobs
+5,638 open jobs
+Software Configuration Management Engineer jobs
+2,961 open jobs
+Configuration Management Engineer jobs
+325 open jobs
+Design Release Engineer jobs
+1,379 open jobs
+Scrum Master jobs
+9,144 open jobs
+Support Escalation Engineer jobs
+1,728 open jobs
+Change And Release Manager jobs
+184 open jobs
+Assistant Professor of Mathematics jobs
+276 open jobs
+Change Management Coordinator jobs
+123 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Elixr Labs
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
