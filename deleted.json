@@ -2735,5 +2735,39 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Product Launch Manager - ORBIS/EMR",
+    "company": "Dedalus",
+    "location": "Melbourne, Victoria, Australia",
+    "url": "https://au.linkedin.com/jobs/view/product-launch-manager-orbis-emr-at-dedalus-4461394589",
+    "visited": "yes",
+    "matches_requirements": "maybe",
+    "reason": "The role involves product launch coordination and cross-functional team management, which partially aligns with the candidate\u2019s Product Specialist and release management experience but lacks explicit focus on technical documentation, CI/CD, or regulated compliance work she is strongly qualified for.",
+    "id": "cec33698",
+    "source": "linkedin_au_release_manager",
+    "added_at": "2026-09-29T05:41:00+03:00",
+    "posted_date": "2026-09-25",
+    "deadline": "2026-10-03",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-10-03) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "informatics security consultant",
+    "company": "STACK IT Recruitment",
+    "location": "Hamilton, ON",
+    "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50370835",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job title 'Informatics Security Consultant' does not align with the candidate's background in DevOps, Configuration Management, Release Management, or Technical Writing, and lacks explicit mention of configuration management, technical communication, or regulated-industry compliance requirements.",
+    "id": "35cd6226",
+    "source": "jobbank_ca_eu_mdr",
+    "added_at": "2026-10-02T06:09:27+03:00",
+    "posted_date": "2026-09-17",
+    "deadline": "2026-10-03",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-10-03) passed by more than 2 days and unreviewed"
   }
 ]
