@@ -107090,16 +107090,15 @@
     "location": "Swords, County Dublin, Ireland",
     "url": "https://ie.linkedin.com/jobs/view/technical-records-administrator-at-ryanair-europe-s-favourite-airline-4465102232",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The role is an entry-level Technical Records Administrator focused on administrative record-keeping rather than regulated-industry configuration management, release engineering, or technical documentation ownership which aligns with the candidate's expertise.",
     "id": "c5604fd4",
     "source": "linkedin_ie_documentation_specialist",
     "added_at": "2026-10-04T11:52:02+03:00",
-    "posted_date": "N/A",
+    "posted_date": "2026-09-13",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-04T12:14:27+03:00"
+    "eval_model": "local/qwen/qwen3-14b"
   },
   {
     "title": "Document Controller",
@@ -107107,16 +107106,15 @@
     "location": "Cork, County Cork, Ireland",
     "url": "https://ie.linkedin.com/jobs/view/document-controller-at-glanua-4424559003",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job as a Document Controller in construction does not align with the candidate's expertise in regulated-industry release management, CI/CD, or technical documentation for medical/device/software contexts.",
     "id": "7e0397f1",
     "source": "linkedin_ie_documentation_specialist",
     "added_at": "2026-10-04T11:52:02+03:00",
-    "posted_date": "N/A",
+    "posted_date": "2026-09-20",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-04T12:15:31+03:00"
+    "eval_model": "local/qwen/qwen3-14b"
   },
   {
     "title": "QA Specialist",
