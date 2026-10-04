@@ -2531,5 +2531,39 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Senior Field Specialist - Data Platform",
+    "company": "Cloudera",
+    "location": "Greater Dublin",
+    "url": "https://ie.linkedin.com/jobs/view/senior-field-specialist-data-platform-at-cloudera-4469027732",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job posting explicitly states 'This role is not eligible for immigration sponsorship,' which disqualifies it under the 'No Visa Sponsorship / Existing Right to Work Required' hard rejection rule.",
+    "id": "5bf25d18",
+    "source": "linkedin_ie_product_specialist",
+    "added_at": "2026-10-04T06:02:17+03:00",
+    "posted_date": "2026-09-27",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Senior Field Specialist - Data Platform",
+    "company": "Cloudera",
+    "location": "Cork, County Cork, Ireland",
+    "url": "https://ie.linkedin.com/jobs/view/senior-field-specialist-data-platform-at-cloudera-4469045047",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job posting explicitly states 'This role is not eligible for immigration sponsorship,' which disqualifies it under the 'No Visa Sponsorship / Existing Right to Work Required' hard rejection rule.",
+    "id": "d2541c16",
+    "source": "linkedin_ie_product_specialist",
+    "added_at": "2026-10-04T06:02:17+03:00",
+    "posted_date": "2026-09-27",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
