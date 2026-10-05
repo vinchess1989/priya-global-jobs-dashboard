@@ -2820,5 +2820,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Deadline (2026-09-11) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Quality, Risk and Compliance Manager",
+    "company": "Camphill Communities of Ireland",
+    "location": "Naas, County Kildare, Ireland",
+    "url": "https://ie.linkedin.com/jobs/view/quality-risk-and-compliance-manager-at-camphill-communities-of-ireland-4469014218",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role requires specific qualifications and experience in social care compliance (e.g., Level 7 QQI qualification, HIQA regulations) that do not align with the candidate's background in medical device and automotive regulated industries.",
+    "id": "2d47c718",
+    "source": "linkedin_ie_quality_manager",
+    "added_at": "2026-10-05T02:43:24+03:00",
+    "posted_date": "2026-09-28",
+    "deadline": "2026-10-02",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-10-02) passed by more than 2 days and unreviewed"
   }
 ]
