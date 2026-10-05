@@ -1,0 +1,252 @@
+Title: DevOps Engineer
+Company: R Systems
+Location: Noida, Uttar Pradesh, India
+URL: https://in.linkedin.com/jobs/view/devops-engineer-at-r-systems-4472136016
+Posted: 2026-09-30
+Deadline: N/A
+Reason: The role aligns with Priya's DevOps/CI-CD expertise (GitLab CI/CD standardization, automation) and falls within her target location (India). The positive constraint on configuration management is explicitly met.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+R Systems  Noida, Uttar Pradesh, India
+5 days ago   Over 200 applicants
+  
+
+See who R Systems has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Direct message the job poster from R Systems
+
+S. Das
+S. Das
+R Systems (A Blackstone Portfolio Company) | Dynamic Talent Acquisition Leader | Expert in Strategic Hiring and Candidate Engagement for Tech…
+
+Senior DevOps Engineer
+
+
+
+
+Exp - 6-9 years
+
+Location - Bangalore/Pune/Noida/Chennai
+
+Mode- Permanent
+
+Budget – Max 35 LPA
+
+Cortex IDP integration exp Mandatory
+
+
+
+
+Cortex IDP Integration & Rollout:
+Executing a complete rollout and integration of Cortex across 60+ engineering teams and 200+ microservices.
+Establishing seamless toolchain integrations across GitLab CI/CD, PagerDuty, AWS, and monitoring platforms.
+Implementing engineering standard scorecards to track production readiness, documentation coverage, and security posture.
+GitLab CI/CD Standardization & Security:
+Auditing, reworking, and standardizing existing "community-driven" pipeline deployments.
+Designing, building, and maintaining scalable, shared GitLab CI/CD pipeline templates.
+Embedding DevSecOps guardrails, vulnerability scanning, and compliance checks directly into standard workflows.
+LaunchDarkly Integration & Feature Management:
+Advancing the deep integration of LaunchDarkly across the engineering ecosystem to standardize feature flagging practices and workflows.
+Tooling Automation & Team Adoption:
+Developing custom Go or Python automation to connect AWS infrastructure tools and reduce operational toil.
+Acting as technical partners to engineering teams to actively assist with CI/CD migration, Cortex service onboarding, and feature flag adoption.
+Systems and Tools:
+Scripting & Automation: Go, Python
+Internal Developer Portals & Feature Management: Cortex (or equivalent like Backstage), LaunchDarkly
+Cloud Infrastructure & Kubernetes:
+AWS Container Services: EKS, ECR
+AWS Core Infrastructure: IAM, VPC
+Security, Monitoring & Integrations: Datadog, PagerDuty, automated vulnerability scanners
+DevOps, IaC & GitOps Tools: GitLab CI/CD, Terraform, Terragrunt, FluxCD, ArgoCD, Helm, Kustomize
+AI Tools: Claude Code, Cursor
+
+
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Insurance, Insurance Agencies and Brokerages, and Banking
+  
+
+Referrals increase your chances of interviewing at R Systems by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Noida, Uttar Pradesh, India.
+
+Sign in to create job alert
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+AiSensy
+Gurugram, Haryana, India
+1 day ago
+DevOps Engineer
+DevOps Engineer
+Dayal Group
+Meerut, Uttar Pradesh, India
+3 months ago
+Devops Engineer
+Devops Engineer
+Comviva
+Gurugram, Haryana, India
+4 days ago
+DevOps Engineer
+DevOps Engineer
+TravClan
+New Delhi, Delhi, India
+2 days ago
+DevOps Engineer
+DevOps Engineer
+CloudSmartz | Netsmartz Group
+Noida, Uttar Pradesh, India
+5 months ago
+DevOps Engineer
+DevOps Engineer
+Macquarie Group
+Gurugram, Haryana, India
+2 weeks ago
+Show more jobs like this 
+People also viewed
+DevOps Engineer - Remote Work | REF#284458
+DevOps Engineer - Remote Work | REF#284458
+
+BairesDev
+
+Delhi, India
+1 year ago
+AWS DevOps Engineer
+AWS DevOps Engineer
+
+Taxmann
+
+Faridabad, Haryana, India
+3 days ago
+DevOps Engineer
+DevOps Engineer
+
+Srijan: Now Material
+
+Gurugram, Haryana, India
+2 months ago
+Devops & Cloud Engineer
+Devops & Cloud Engineer
+
+Opkey
+
+Noida, Uttar Pradesh, India
+3 months ago
+DevOps Architect
+DevOps Architect
+
+Accenture services Pvt Ltd
+
+Gurugram, Haryana, India
+1 day ago
+AWS DevOps Engineer
+AWS DevOps Engineer
+
+Luxoft
+
+Gurugram, Haryana, India
+3 weeks ago
+Dev Ops Engineer
+Dev Ops Engineer
+
+Orange Business
+
+Gurgaon, Haryana, India
+1 week ago
+Infrastructure Engineer
+Infrastructure Engineer
+
+Morningstar
+
+Delhi, Delhi, India
+2 weeks ago
+DevSecOps Engineer
+DevSecOps Engineer
+
+Peoplemint Consultants
+
+Gurugram, Haryana, India
+2 days ago
+DevOps SDE-2
+DevOps SDE-2
+
+PW (PhysicsWallah)
+
+Noida, Uttar Pradesh, India
+6 hours ago
+Similar Searches
+Business Test Analyst jobs
+2,637 open jobs
+Principal Technical Consultant jobs
+1,357 open jobs
+Principal Network Engineer jobs
+296 open jobs
+Senior Software Consultant jobs
+10,494 open jobs
+Lead Network Engineer jobs
+327 open jobs
+Hadoop Developer jobs
+9,185 open jobs
+Sharepoint Consultant jobs
+355 open jobs
+Motion Graphic Artist jobs
+1,425 open jobs
+Practice Director jobs
+218 open jobs
+System Test Engineer jobs
+50,250 open jobs
+Senior Technical Writer jobs
+1,839 open jobs
+Data Management Specialist jobs
+5,872 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Your California Privacy Choices
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at R Systems
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
