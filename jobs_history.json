@@ -30083,5 +30083,27 @@
     "applied": 0,
     "added": 0,
     "deleted": 1
+  },
+  {
+    "timestamp": "2026-10-05T23:45:28",
+    "total": 7770,
+    "yes": 581,
+    "no": 4417,
+    "maybe": 2322,
+    "pending": 15,
+    "applied": 0,
+    "added": 15,
+    "deleted": 0
+  },
+  {
+    "timestamp": "2026-10-06T00:38:08",
+    "total": 7753,
+    "yes": 579,
+    "no": 4415,
+    "maybe": 2324,
+    "pending": 0,
+    "applied": 0,
+    "added": 0,
+    "deleted": 17
   }
 ]
