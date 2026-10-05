@@ -2939,5 +2939,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Inventory Coordinator",
+    "company": "Evolution Healthcare",
+    "location": "Hastings, Hawke's Bay, New Zealand",
+    "url": "https://nz.linkedin.com/jobs/view/inventory-coordinator-at-evolution-healthcare-4467044287",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job title 'Inventory Coordinator' does not align with the candidate's expertise in configuration management, release management, technical writing, or regulated compliance domains.",
+    "id": "dc9cdd5b",
+    "source": "linkedin_nz_iso_13485",
+    "added_at": "2026-10-05T14:08:29+03:00",
+    "posted_date": "2026-09-14",
+    "deadline": "2026-10-01",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-10-01) passed by more than 2 days and unreviewed"
   }
 ]
