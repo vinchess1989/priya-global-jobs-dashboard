@@ -114223,8 +114223,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-05T02:11:12+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-05T08:24:53+03:00"
   },
   {
     "title": "Quality Engineer",
@@ -114240,8 +114240,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-05T02:11:12+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-05T08:24:54+03:00"
   },
   {
     "title": "Quality Engineer",
@@ -114257,8 +114257,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-05T02:11:12+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-05T08:24:54+03:00"
   },
   {
     "title": "Quality Engineer",
@@ -114274,8 +114274,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-05T02:11:12+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-05T08:24:54+03:00"
   },
   {
     "title": "Quality Engineer",
@@ -114291,8 +114291,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-05T02:11:12+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-05T08:24:54+03:00"
   },
   {
     "title": "Quality Engineer (Manufacturing)",
@@ -114308,8 +114308,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-05T02:11:12+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-05T08:24:54+03:00"
   },
   {
     "title": "Quality Engineer",
@@ -114444,8 +114444,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-05T02:14:10+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-05T08:24:55+03:00"
   },
   {
     "title": "Software Quality Engineer (contract)",
@@ -114461,8 +114461,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-05T02:14:10+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-05T08:24:55+03:00"
   },
   {
     "title": "CSV Engineer",
@@ -114478,8 +114478,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-05T02:14:11+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-05T08:24:55+03:00"
   },
   {
     "title": "Senior CQV Engineer - Fill Finish",
@@ -114487,50 +114487,47 @@
     "location": "Extract from page",
     "url": "https://www.irishjobs.ie/job/cqv-engineer/pm-group-job108007675",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job posting is inaccessible due to an 'Access Denied' error, preventing evaluation of critical details such as location, company information, and role specifics.",
     "id": "63478123",
     "source": "irishjobs_quality_engineer",
     "added_at": "2026-10-05T02:12:01+03:00",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-05T02:14:11+03:00"
+    "eval_model": "local/qwen/qwen3-14b"
   },
   {
     "title": "Senior CQV Engineer",
-    "company": "Extract from page",
+    "company": "PM Group",
     "location": "Extract from page",
     "url": "https://www.irishjobs.ie/job/cqv-engineer/pm-group-job108039910",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job posting is inaccessible (access denied), making it impossible to verify critical details such as location, sponsorship requirements, or role specifics against the candidate's criteria.",
     "id": "ac1096cc",
     "source": "irishjobs_quality_engineer",
     "added_at": "2026-10-05T02:12:01+03:00",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-05T02:14:11+03:00"
+    "eval_model": "local/qwen/qwen3-14b"
   },
   {
     "title": "QC Cleaning Validation Specialist",
-    "company": "Extract from page",
+    "company": "Astellas Pharma Europe Ltd",
     "location": "Extract from page",
     "url": "https://www.irishjobs.ie/job/qc-specialist/astellas-pharma-europe-ltd-job107966047",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job title 'QC Cleaning Validation Specialist' does not align with Priya's target roles (DevOps, Configuration Management, Release Management, Technical Writing, etc.) and lacks explicit details to confirm alignment with her regulated-industry quality/technical product-specialist background.",
     "id": "7d15d0e7",
     "source": "irishjobs_quality_engineer",
     "added_at": "2026-10-05T02:12:01+03:00",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-05T02:14:11+03:00"
+    "eval_model": "local/qwen/qwen3-14b"
   },
   {
     "title": "CQV/Validation Engineer",
@@ -114538,33 +114535,31 @@
     "location": "Extract from page",
     "url": "https://www.irishjobs.ie/job/cqv-engineer/commissioning-agents-inc-cai-job108064686",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "maybe",
+    "reason": "Insufficient job description details to confirm location, company specifics, or visa sponsorship availability; IrishJobs.ie suggests potential alignment with target country (Ireland) but requires explicit confirmation from the posting text.",
     "id": "5b6057c5",
     "source": "irishjobs_quality_engineer",
     "added_at": "2026-10-05T02:12:01+03:00",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-05T02:14:11+03:00"
+    "eval_model": "local/qwen/qwen3-14b"
   },
   {
     "title": "CQV Engineer",
-    "company": "Extract from page",
+    "company": "Commissioning Agents Inc (CAI)",
     "location": "Extract from page",
     "url": "https://www.irishjobs.ie/job/cqv-engineer/commissioning-agents-inc-cai-job107951030",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "maybe",
+    "reason": "The job's location and specific responsibilities are unclear due to access restrictions, making it uncertain whether it aligns with Priya's target countries or role-type criteria.",
     "id": "b7c2b2a1",
     "source": "irishjobs_quality_engineer",
     "added_at": "2026-10-05T02:12:01+03:00",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-05T02:14:11+03:00"
+    "eval_model": "local/qwen/qwen3-14b"
   },
   {
     "title": "Employment Associate (2-3 PQE)",
@@ -114572,16 +114567,15 @@
     "location": "Extract from page",
     "url": "https://www.irishjobs.ie/job/employment-associate-2-3-pqe/amicus-recruitment-job108050042",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job posting is inaccessible due to an 'Access Denied' error, preventing evaluation of location, company details, or role requirements.",
     "id": "ca0c0a76",
     "source": "irishjobs_quality_engineer",
     "added_at": "2026-10-05T02:12:01+03:00",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-05T02:14:11+03:00"
+    "eval_model": "local/qwen/qwen3-14b"
   },
   {
     "title": "Quality Inspector",
