@@ -3041,5 +3041,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": "job_descriptions/stakefish__f2pool__devops_engineer_07be4fa7.txt",
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Atlassian Platform Advisor",
+    "company": "EGM Recruitment",
+    "location": "Adelaide, South Australia, Australia",
+    "url": "https://au.linkedin.com/jobs/view/atlassian-platform-advisor-at-egm-recruitment-4466138698",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role requires eligibility for an Australian Security Clearance, which Priya cannot obtain without Australian citizenship or prior residency, making it a hard rejection under the 'No Visa Sponsorship / Existing Right to Work Required' rule.",
+    "id": "716203ea",
+    "source": "linkedin_au_configuration_manager",
+    "added_at": "2026-10-05T21:03:51+03:00",
+    "posted_date": "2026-09-21",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
