@@ -2837,5 +2837,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Deadline (2026-10-02) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Manager Accreditation \u2013 CAHS Safety, Quality and Performance",
+    "company": "Child and Adolescent Health Service",
+    "location": "Nedlands, Western Australia, Australia",
+    "url": "https://au.linkedin.com/jobs/view/manager-accreditation-%E2%80%93-cahs-safety-quality-and-performance-at-child-and-adolescent-health-service-4466059217",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires valid Australian work rights and explicitly states no sponsorship is available, which disqualifies Priya due to her Finnish residence permit and lack of Australian work authorization.",
+    "id": "44356311",
+    "source": "linkedin_au_quality_manager",
+    "added_at": "2026-10-05T03:39:45+03:00",
+    "posted_date": "2026-09-05",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
