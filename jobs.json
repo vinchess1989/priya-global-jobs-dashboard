@@ -114313,20 +114313,19 @@
   },
   {
     "title": "Quality Engineer",
-    "company": "Extract from page",
+    "company": "Contek Recruitment Solutions Ltd",
     "location": "Extract from page",
     "url": "https://www.totaljobs.com/job/quality-engineer/contek-recruitment-solutions-ltd-job108056424",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "maybe",
+    "reason": "The job posting's location is not explicitly stated, making it uncertain whether it aligns with Priyanga's target countries or requires US-based work authorization.",
     "id": "67f6780b",
     "source": "totaljobs_quality_engineer",
     "added_at": "2026-10-05T02:08:26+03:00",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-05T02:11:12+03:00"
+    "eval_model": "local/qwen/qwen3-14b"
   },
   {
     "title": "Quality Engineer",
@@ -114334,16 +114333,15 @@
     "location": "Extract from page",
     "url": "https://www.totaljobs.com/job/quality-engineer/consortium-professional-recruitment-job108051361",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "maybe",
+    "reason": "Job details are inaccessible due to access denial, preventing evaluation of location, sponsorship requirements, and role specifics.",
     "id": "07d7cfd4",
     "source": "totaljobs_quality_engineer",
     "added_at": "2026-10-05T02:08:26+03:00",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-05T02:11:13+03:00"
+    "eval_model": "local/qwen/qwen3-14b"
   },
   {
     "title": "Quality Engineer",
@@ -114359,8 +114357,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-05T02:11:13+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-05T08:35:30+03:00"
   },
   {
     "title": "Quality Engineer",
@@ -114376,8 +114374,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-05T02:11:13+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-05T08:35:30+03:00"
   },
   {
     "title": "Quality Engineer",
@@ -114393,8 +114391,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-05T02:11:13+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-05T08:35:30+03:00"
   },
   {
     "title": "Quality Engineer",
@@ -114410,8 +114408,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-05T02:11:13+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-05T08:35:30+03:00"
   },
   {
     "title": "Quality Engineer",
@@ -114427,8 +114425,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-05T02:11:13+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-05T08:35:30+03:00"
   },
   {
     "title": "Software Quality Engineer (contract)",
