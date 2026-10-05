@@ -121938,5 +121938,21 @@
     "deadline": "N/A",
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null
+  },
+  {
+    "title": "Senior Product Development Engineer (Mechanical)",
+    "company": "3 hrs ago by Mackie Myers",
+    "location": "Saffron Walden, Essex, UK",
+    "url": "https://www.reed.co.uk/jobs/senior-product-development-engineer-mechanical/57423242",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires mechanical engineering and product development responsibilities, which do not align with Priya's expertise in configuration management, release management, DevOps/CI-CD, or technical documentation in regulated industries.",
+    "id": "44c3b9c4",
+    "source": "reed_iso_13485",
+    "added_at": "2026-10-05T16:22:02+03:00",
+    "posted_date": "3 hrs ago",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null
   }
 ]
