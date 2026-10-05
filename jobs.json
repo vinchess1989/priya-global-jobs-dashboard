@@ -114223,8 +114223,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-05T08:24:53+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-05T14:41:08+03:00"
   },
   {
     "title": "Quality Engineer",
@@ -114240,8 +114240,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-05T08:24:54+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-05T14:41:09+03:00"
   },
   {
     "title": "Quality Engineer",
@@ -114257,8 +114257,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-05T08:24:54+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-05T14:41:09+03:00"
   },
   {
     "title": "Quality Engineer",
@@ -114274,8 +114274,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-05T08:24:54+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-05T14:41:09+03:00"
   },
   {
     "title": "Quality Engineer",
@@ -114291,8 +114291,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-05T08:24:54+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-05T14:41:09+03:00"
   },
   {
     "title": "Quality Engineer (Manufacturing)",
@@ -114308,8 +114308,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-05T08:24:54+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-05T14:41:10+03:00"
   },
   {
     "title": "Quality Engineer",
@@ -114357,8 +114357,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-05T08:35:30+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-05T14:41:10+03:00"
   },
   {
     "title": "Quality Engineer",
@@ -114374,8 +114374,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-05T08:35:30+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-05T14:41:11+03:00"
   },
   {
     "title": "Quality Engineer",
@@ -114391,8 +114391,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-05T08:35:30+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-05T14:41:11+03:00"
   },
   {
     "title": "Quality Engineer",
@@ -114442,8 +114442,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-05T08:24:55+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-05T14:41:11+03:00"
   },
   {
     "title": "Software Quality Engineer (contract)",
@@ -114459,8 +114459,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-05T08:24:55+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-05T14:41:12+03:00"
   },
   {
     "title": "CSV Engineer",
@@ -114476,8 +114476,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-05T08:24:55+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-05T14:41:12+03:00"
   },
   {
     "title": "Senior CQV Engineer - Fill Finish",
@@ -121208,42 +121208,48 @@
     "company": "Johnson & Johnson MedTech",
     "location": "Singapore, Singapore",
     "url": "https://sg.linkedin.com/jobs/view/senior-product-specialist-at-johnson-johnson-medtech-4456330896",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is a quota-carrying sales role mislabeled as 'Product Specialist', which falls under the hard rejection criteria for such roles.",
     "id": "d7cdf3ee",
     "source": "linkedin_sg_iso_13485",
     "added_at": "2026-10-05T14:08:53+03:00",
-    "posted_date": "N/A",
-    "deadline": "N/A"
+    "posted_date": "2026-09-14",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null
   },
   {
     "title": "Quality Assurance Technical Specialist ( Tuas Avenue 2)",
     "company": "BD",
     "location": "Tuas, West Region, Singapore",
     "url": "https://sg.linkedin.com/jobs/view/quality-assurance-technical-specialist-tuas-avenue-2-at-bd-4470908025",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "maybe",
+    "reason": "The job aligns with Priya's quality management and regulated industry experience but may mismatch on experience level as the posting prefers 1-2 years (though it welcomes fresh entries and is mid-senior level).",
     "id": "78f9d105",
     "source": "linkedin_sg_iso_13485",
     "added_at": "2026-10-05T14:08:53+03:00",
-    "posted_date": "N/A",
-    "deadline": "N/A"
+    "posted_date": "2026-09-28",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null
   },
   {
     "title": "Regional QA Engineer, Integrated Solutions",
     "company": "Cytiva",
     "location": "Singapore, Singapore",
     "url": "https://sg.linkedin.com/jobs/view/regional-qa-engineer-integrated-solutions-at-cytiva-4459519684",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "maybe",
+    "reason": "The job aligns with Quality Engineer/Quality Assurance roles in a regulated industry (cGMP/ISO 9001) and is located in Singapore (target country), but the language requirement (English + another language) may pose a challenge as Priya does not speak Chinese/Korean/Japanese, though it's listed as a 'plus' rather than mandatory.",
     "id": "61e733e1",
     "source": "linkedin_sg_iso_13485",
     "added_at": "2026-10-05T14:08:53+03:00",
-    "posted_date": "N/A",
-    "deadline": "N/A"
+    "posted_date": "2026-09-28",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null
   },
   {
     "title": "Software QE",
