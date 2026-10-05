@@ -2871,5 +2871,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Production And Quality Manager",
+    "company": "M3 Human Capital Management (Pty) Ltd",
+    "location": "Ceres, Western Cape, South Africa",
+    "url": "https://za.linkedin.com/jobs/view/production-and-quality-manager-at-m3-human-capital-management-pty-ltd-4468234183",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job title and responsibilities focus on production management and food safety compliance (BRCGS & HACCP) in a fruit packhouse, which does not align with the candidate's expertise in software release management, configuration management, or technical documentation in regulated industries.",
+    "id": "c103b1c0",
+    "source": "linkedin_za_quality_manager",
+    "added_at": "2026-10-05T05:21:10+03:00",
+    "posted_date": "2026-09-21",
+    "deadline": "2026-09-30",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-09-30) passed by more than 2 days and unreviewed"
   }
 ]
