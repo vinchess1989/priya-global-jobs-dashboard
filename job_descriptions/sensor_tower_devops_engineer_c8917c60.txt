@@ -1,0 +1,278 @@
+Title: DevOps Engineer
+Company: Sensor Tower
+Location: London, England, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/devops-engineer-at-sensor-tower-4425322683
+Posted: 2026-07-07
+Deadline: N/A
+Reason: The role aligns with Priya's DevOps Engineer expertise in CI/CD pipeline ownership, infrastructure tooling, and automation, located in the UK (target country) with no visa sponsorship restrictions.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+Sensor Tower  London, England, United Kingdom
+3 months ago  176 applicants
+  
+
+See who Sensor Tower has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Sensor Tower’s digital intelligence platform provides unparalleled insight into market trends, advertising, competitor’s strategies, and consumer/user audience across mobile, web, and gaming. Sensor Tower’s insights are trusted by more than 2,500 enterprises worldwide across tech, retail/commerce, entertainment/media, gaming, consumer packaged goods and finance.
+
+Who You Are
+
+You are a DevOps engineer with software development background who likes working on everything that helps to improve the quality of life for your team and providing your expertise in creating a performant CI/CD stack to boost the code development/build process.
+
+What You’ll Do
+
+
+Collaborate closely with our engineering team to help them be more productive by improving development tools.
+Maintain a strong connection to the product and remain comfortable engaging in direct feature development
+You will take ownership of CI/CD stack, keeping it robust, observable, stable, and performant.
+Research, implement, and develop tools to help developers write new code.
+Ensure the CI/CD infrastructure and process is reliable and consistent.
+
+
+What We’re Looking For
+
+
+Solid background in Linux.
+Experience in CI/CD stack development and maintenance.
+Working proficiency with Ruby, Javascript or Python.
+Knowledge of AWS technologies (EC2, load balancing, auto-scaling, IAM, S3, Route53, etc.).
+Telemetry and monitoring experience (OpenTelemetry, Grafana, Kibana).
+Experience with containerization (Docker, Kubernetes, etc).
+
+
+What We’d Be Particularly Excited About
+
+
+Experience with CI build time optimization especially with Jenkins, Rspec and Cypress/Playwright.
+Familiarity with databases like MongoDB and/or ClickHouse.
+Experience with build systems like Webpack, Gradle, etc.
+Proficiency with the CI tools like Jenkins, TeamCity, etc.
+
+
+What you’ll learn:
+
+
+You’ll learn about the Ruby language and the Rails framework since it’s used in many aspects of our projects and tools.
+You’ll gain deep insights into infrastructure automation using technologies such as Ansible and Terraform since they are central to our deployment strategies.
+
+
+Blog Posts
+
+Read more about some of our Technical challenges here (written by members of our engineering team):
+
+https://sensortower.com/blog/how-we-scaled-to-thousands-of-sidekiq-workers
+
+About Sensor Tower
+
+Sensor Tower is a global provider of digital intelligence solutions, empowering companies to understand consumer behavior and market performance across mobile apps, digital platforms, and gaming ecosystems. Headquartered in San Francisco, Sensor Tower's insights are trusted by more than 2,500 enterprises worldwide.
+
+Founded in 2013, Sensor Tower’s market insights have helped marketers, app developers, and gaming leaders demystify the mobile app ecosystem with visibility into usage, engagement, and paid acquisition strategies. Today, Sensor Tower’s digital market insights platform has expanded to include Gaming, Web, Audience, and Digital Advertising Insights, helping global leaders understand market trends and their competitor’s strategies and audiences across the entire digital ecosystem.
+
+Why Sensor Tower?
+
+Our flexible work environment allows employees to live in greater connection with the people, places, and activities they love!
+
+Global Teams
+
+Sensor Tower has a global presence, with teams across the world and available in most time zones, including North America, Europe, Middle East, Africa, APAC and LATAM. We maintain regional offices in SF, LA, NY, London, Singapore, Beijing, Seoul, Tokyo and Vancouver.
+
+We are committed to equal employment opportunities regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, and veteran status. We will consider qualified applicants with arrest and conviction records. If you have a disability or special need, please do not hesitate to let us know and we'll do our best to accommodate.
+
+Fraud warning:
+
+It's common for scammers to create positions that look legitimate on other sites. To ensure your submission is considered, only apply for positions at Sensor Tower through our company website or through posts directly associated with Sensor Tower company profiles on sites such as LinkedIn, Indeed, BuiltIn or Hackajob. At no point will Sensor Tower ever ask for money, credit card, or bank account information to complete a job application. Communications received from Sensor Tower are only sent by e-mail addresses ending in sensortower.com. All Sensor Tower interviews will be conducted via phone or Zoom. At no time will a conversation be moved to an alternative email outside of sensortower.com or text. Should an issue arise that you feel we should be aware of, please contact us. Please provide your resume when applying.
+
+To all recruitment agencies:
+
+Sensor Tower does not accept third party resumes. Please do not send resumes to our jobs alias, Sensor Tower employees or any other organization location. Sensor Tower is not responsible for any fees related to unsolicited resumes. Sensor Tower will not pay any third-party agency or company that does not have a signed agreement with Sensor Tower.
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+
+
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Industries
+Market Research
+  
+
+Referrals increase your chances of interviewing at Sensor Tower by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+Pharo Management
+London, England, United Kingdom
+1 week ago
+DevOps Engineer
+DevOps Engineer
+Ripjar
+London, England, United Kingdom
+5 months ago
+🛠️ SITE RELIABILITY ENGINEER / DEVOPS
+🛠️ SITE RELIABILITY ENGINEER / DEVOPS
+Tandem Dating
+Harrow, England, United Kingdom
+3 months ago
+DevOps Engineer
+DevOps Engineer
+Haystack
+London, England, United Kingdom
+£65,000 - £70,000
+2 days ago
+DevOps Engineer
+DevOps Engineer
+Xelix
+London, England, United Kingdom
+1 week ago
+DevOps Engineer - UK
+DevOps Engineer - UK
+ANRA Technologies
+London, England, United Kingdom
+7 months ago
+Show more jobs like this 
+People also viewed
+Cloud DevOps Engineer (AWS, Terraform, K8s, Automation)
+Cloud DevOps Engineer (AWS, Terraform, K8s, Automation)
+
+GCA Altium
+
+Cambridge, England, United Kingdom
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Zinc
+
+London, England, United Kingdom
+6 days ago
+DevOps Engineer
+DevOps Engineer
+
+Kharon
+
+London, England, United Kingdom
+£90,000 - £105,000
+3 weeks ago
+Cloud DevOps Engineer (AWS, Terraform, K8s, Automation)
+Cloud DevOps Engineer (AWS, Terraform, K8s, Automation)
+
+Renesas Electronics
+
+Cambridge, England, United Kingdom
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Code Wizards Group
+
+Theale, England, United Kingdom
+4 days ago
+AWS DevOps Engineer
+AWS DevOps Engineer
+
+La Fosse
+
+London Area, United Kingdom
+£80,000 - £90,000
+3 weeks ago
+Platform Engineer
+Platform Engineer
+
+Charlotte Tilbury Beauty
+
+London, England, United Kingdom
+2 weeks ago
+Platform Engineer
+Platform Engineer
+
+Akuna Capital
+
+London, England, United Kingdom
+2 weeks ago
+DevOps Engineer - AWS & Terraform
+DevOps Engineer - AWS & Terraform
+
+Worldpay
+
+London Area, United Kingdom
+1 week ago
+Platform Engineer
+Platform Engineer
+
+Lyst
+
+London, England, United Kingdom
+1 month ago
+Similar Searches
+Senior Field Marketing Manager jobs
+303 open jobs
+New Business Director jobs
+3,652 open jobs
+Marketing Volunteer jobs
+233 open jobs
+Sales Training Manager jobs
+1,672 open jobs
+Brand Strategy Consultant jobs
+658 open jobs
+Electrical Engineering Manager jobs
+4,513 open jobs
+Interim Chief Financial Officer jobs
+184 open jobs
+Wedding Coordinator jobs
+6,212 open jobs
+Product Support Specialist jobs
+1,034 open jobs
+Ruby on Rails Developer jobs
+3,860 open jobs
+Regional Sales Director jobs
+4,718 open jobs
+Sales Trainer jobs
+7,028 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Your California Privacy Choices
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Sensor Tower
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

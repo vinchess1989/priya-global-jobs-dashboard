@@ -1,0 +1,232 @@
+Title: Senior DevOps Engineer
+Company: Selby Jennings
+Location: London, England, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/senior-devops-engineer-at-selby-jennings-4475552108
+Posted: 2026-10-05
+Deadline: N/A
+Reason: The role aligns with Priya's DevOps/CI-CD expertise, is located in the UK (target country), requires senior-level experience matching her 15 years of background, and involves regulated/safety-critical infrastructure automation (though not explicitly medical/device-regulated, it fits the broader 'especially strong fit' criteria for complex systems environments).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer
+Selby Jennings  London, England, United Kingdom
+5 hours ago  28 applicants
+  
+
+See who Selby Jennings has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Direct message the job poster from Selby Jennings
+
+Millie Paling
+Millie Paling
+Consultant | Selby Jennings London | Connecting Top Talent with Leading Financial Firms
+
+Our client, a world-leading hedge fund, is looking for a Senior DevOps Engineer to join their Platform Engineering team. This is a high-impact opportunity to build and scale the mission-critical platforms that underpin some of the industry's most sophisticated trading and technology environments. You will be responsible for designing, building, and maintaining internal developer platforms, from highly scalable source control systems to enterprise-grade CI/CD infrastructure executing millions of builds annually. Working closely with portfolio management, technology, data, and business teams, you will deliver resilient, automated, and scalable solutions that directly enable innovation and operational excellence across the firm.
+
+The ideal candidate will have 7+ years of experience within Platform Engineering, DevOps, or SRE environments operating at significant scale and complexity. You will combine strong software engineering expertise in Python or Go with deep knowledge of CI/CD ecosystems and large-scale infrastructure automation. The successful candidate will have a proven track record of building and supporting critical developer tooling and artifact infrastructure serving millions of requests per day, while driving engineering best practices and enabling world-class developer productivity across a globally distributed organisation.
+
+Key Responsibilities
+
+Design and automate deployment pipelines and operational processes to improve efficiency, reliability, and developer autonomy.
+Champion SRE and DevOps best practices-including observability, automation, CI/CD, and infrastructure as code-across cloud and on-premises environments.
+Deploy and maintain CI/CD pipelines; write code for infrastructure optimization; manage operations, including on-call duties, Kubernetes, and training.
+Collaborate with development teams to enhance service stability, scalability, and fault tolerance through mentoring, documentation, and hands-on support.
+Participate in on-call rotation and incident response, sharing responsibility for production reliability.
+To be considered a good fit, you must have:
+7+ years of hands-on experience in SRE, DevOps, or Platform Engineering roles within complex, distributed systems environments.
+Strong software engineering skills with Python or GoLang.
+Deep expertise with CI/CD platforms and automation of SDLC processes (Jenkins, GitHub Actions, Octopus Deploy).
+Experience with critical artifacts infrastructure that serve millions of requests per day.
+Experience architecting and implementing testable, scalable, and reliable software and infrastructure solutions.
+Deep expertise with containers and Kubernetes, including application management and orchestration.
+Experience building and maintaining RESTful APIs.
+Proficiency with configuration/infrastructure as code (e.g., Terraform, Kubernetes Operators).
+
+
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at Selby Jennings by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Sr DevOps Engineer
+Sr DevOps Engineer
+Xe.com
+Bracknell, England, United Kingdom
+2 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Catapult
+London, England, United Kingdom
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Deliveroo
+London, England, United Kingdom
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+LocalStack
+London, England, United Kingdom
+£70,000 - £90,000
+1 month ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Global Relay
+London Area, United Kingdom
+3 days ago
+Senior Dev Ops Engineer
+Senior Dev Ops Engineer
+Square Enix
+London, England, United Kingdom
+1 month ago
+Show more jobs like this 
+People also viewed
+Senior Platform Engineer
+Senior Platform Engineer
+
+Lyst
+
+London, England, United Kingdom
+1 month ago
+Lead DevOps Engineer - AWS, Kubernetes, Terraform
+Lead DevOps Engineer - AWS, Kubernetes, Terraform
+
+JPMorganChase
+
+Greater London, England, United Kingdom
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+B4B Payments - A Banking Circle Group Company
+
+London, England, United Kingdom
+1 week ago
+Founding Senior DevOps Engineer
+Founding Senior DevOps Engineer
+
+Perceptic
+
+Greater London, England, United Kingdom
+2 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Halian | Managed Services, Recruitment Agency & Contract Staffing
+
+Reading, England, United Kingdom
+£90,000 - £95,000
+2 weeks ago
+Senior DevOps Engineer - Global
+Senior DevOps Engineer - Global
+
+Orix Digi
+
+Harrow, England, United Kingdom
+2 months ago
+DevOps Engineer
+DevOps Engineer
+
+Fulcrum Digital Inc
+
+London Area, United Kingdom
+4 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Oliver Bernard
+
+London Area, United Kingdom
+£100,000 - £125,000
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+Code Wizards Group
+
+Theale, England, United Kingdom
+4 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Anson McCade
+
+London Area, United Kingdom
+£60,000 - £80,000
+1 week ago
+Similar Searches
+Chief Science Officer jobs
+189 open jobs
+Vice President Investment Banking jobs
+69 open jobs
+Floor Trader jobs
+26 open jobs
+Senior Equity Analyst jobs
+89 open jobs
+Freelance Senior Account Manager jobs
+440 open jobs
+Futures Broker jobs
+37 open jobs
+Business Improvement Analyst jobs
+2,755 open jobs
+Leveraged Finance Associate jobs
+17 open jobs
+Money Market Trader jobs
+180 open jobs
+Private Equity Associate jobs
+814 open jobs
+Hedge Fund Analyst jobs
+344 open jobs
+Senior Equity Research Analyst jobs
+496 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Your California Privacy Choices
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Selby Jennings
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

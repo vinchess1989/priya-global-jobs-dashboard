@@ -1,0 +1,300 @@
+Title: Principal DevOps Engineer (Azure)
+Company: Digital Waffle
+Location: Nottingham, England, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/principal-devops-engineer-azure-at-digital-waffle-4474252963
+Posted: 2026-10-05
+Deadline: N/A
+Reason: The job aligns with Priya's expertise in CI/CD and configuration management (GitOps, Azure DevOps) despite not being in a regulated industry, and matches her target location (UK) and experience level.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Principal DevOps Engineer (Azure)
+Digital Waffle  Nottingham, England, United Kingdom
+3 hours ago   Be among the first 25 applicants
+  
+
+See who Digital Waffle has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Direct message the job poster from Digital Waffle
+
+Zak Jones
+Zak Jones
+Tech Recruitment Manager (DevOps, Cloud & Infrastructure) for the UK & US 🇬🇧🇺🇸. Get in touch to find out how I can solve your hiring problems!
+
+Role: Principal DevOps Engineer (Azure)
+
+Location: Nottingham (Hybrid)
+
+Salary: up to £85,000 + bonus
+
+
+
+
+Key Skills:
+
+Azure (Azure Landing Zones)
+AKS
+GitOps (ArgoCD)
+Terraform
+
+
+
+
+The Role:
+
+This is a hands-on senior engineering position with plenty of scope to influence technical direction, improve engineering standards and help shape the way cloud infrastructure is designed and delivered. You'll work closely with development, infrastructure and security teams, acting as a technical escalation point and helping drive best practice across the wider engineering function.
+
+
+
+
+What You'll Be Doing
+
+Design, build and maintain scalable Azure infrastructure using Terraform and Infrastructure as Code.
+Develop and manage production Kubernetes/AKS environments, including upgrades, security, networking and optimisation.
+Establish and improve GitOps and CI/CD practices, using tools such as GitHub Actions, Azure DevOps and ArgoCD.
+Build reusable Terraform modules, deployment templates and automation to improve consistency across environments.
+Design and maintain Azure networking, including VNets, hub-and-spoke architectures, DNS, NSGs and firewall solutions.
+Implement cloud security practices across identity, access management, container security and infrastructure.
+Develop and maintain Helm charts and standardised deployment processes for application teams.
+Introduce and improve monitoring, logging, tracing and platform observability.
+Automate repetitive processes using Python, Bash or similar scripting languages.
+Contribute to technical designs, architecture decisions and platform roadmaps.
+Help improve developer experience through tooling, documentation and self-service capabilities.
+Act as a senior technical escalation point and provide mentoring and guidance to other engineers.
+Support the continued evolution of the platform, including container orchestration, autoscaling, progressive delivery and platform security.
+
+
+
+
+What We're Looking For:
+
+You'll be an experienced DevOps/Platform Engineer with a strong background in cloud infrastructure and automation. We're looking for someone who can operate independently, get hands-on with complex technical challenges and confidently contribute to architectural discussions.
+
+
+
+
+Key experience:
+
+Strong commercial experience with Microsoft Azure.
+Extensive experience with Terraform and Infrastructure as Code.
+Strong production experience with Kubernetes, ideally AKS.
+Good understanding of Azure networking and cloud architecture.
+Experience building and maintaining CI/CD pipelines.
+Experience with GitOps, ideally using ArgoCD or a similar platform.
+Strong knowledge of Docker and containerised environments.
+Experience with Helm and Kubernetes application deployment.
+Good understanding of cloud security, IAM, RBAC and secure CI/CD practices.
+Strong Linux administration and troubleshooting skills.
+Proficiency with Python, Bash or similar scripting languages.
+Experience contributing to technical architecture, design documentation and engineering standards.
+Comfortable communicating technical concepts to both technical and non-technical stakeholders.
+Experience mentoring engineers or acting as a senior technical point of contact.
+
+
+
+
+Desirable Experience
+
+Istio or Cilium
+Argo Rollouts
+KEDA or Karpenter
+Falco or Kyverno
+Go development
+Azure Front Door
+Azure Firewall
+Entra ID and PIM
+Observability platforms such as Grafana, Loki or OpenTelemetry
+Experience working within regulated or compliance-focused environments
+
+
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development, IT System Custom Software Development, and IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Digital Waffle by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Principal Cloud Engineer
+Principal Cloud Engineer
+Commify
+Nottingham, England, United Kingdom
+£75,000 - £85,000
+3 months ago
+Lead DevOps Engineer (Azure)
+Lead DevOps Engineer (Azure)
+Digital Waffle
+Nottingham, England, United Kingdom
+2 hours ago
+Senior DevOps Engineer (Azure)
+Senior DevOps Engineer (Azure)
+Digital Waffle
+Nottingham, England, United Kingdom
+2 hours ago
+Senior Cloud Platform Engineer
+Senior Cloud Platform Engineer
+National Physical Laboratory (NPL)
+Solihull, England, United Kingdom
+3 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Next
+Leicester, England, United Kingdom
+4 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+The Insolvency Service
+Staffordshire, England, United Kingdom
+1 week ago
+Show more jobs like this 
+People also viewed
+Technical Architect (Azure)
+Technical Architect (Azure)
+
+Howden
+
+England, United Kingdom
+3 weeks ago
+Senior AI & Automation Engineer
+Senior AI & Automation Engineer
+
+Klipboard
+
+South Yorkshire, England, United Kingdom
+2 weeks ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+LSL Property Services plc
+
+Kettering, England, United Kingdom
+2 weeks ago
+Vice President - Site Reliability Engineering (SRE) - The Core Engineering - Birmingham
+Vice President - Site Reliability Engineering (SRE) - The Core Engineering - Birmingham
+
+Goldman Sachs
+
+West Midlands, England, United Kingdom
+2 weeks ago
+DevOps / SRE Engineer (Sheffield)
+DevOps / SRE Engineer (Sheffield)
+
+Bumper
+
+Sheffield, England, United Kingdom
+1 week ago
+Principal Software Engineer (DevSecOps)
+Principal Software Engineer (DevSecOps)
+
+Leonardo
+
+Lincoln, England, United Kingdom
+£54,000 - £70,000
+21 hours ago
+Cloud Infrastructure Engineer
+Cloud Infrastructure Engineer
+
+Amtis - Digital, Technology, Transformation
+
+West Midlands, England, United Kingdom
+£50,000 - £60,000
+6 days ago
+Platform Engineer
+Platform Engineer
+
+Stealth iT Consulting
+
+England, United Kingdom
+1 week ago
+Senior DevOps & Platform Engineering Lead
+Senior DevOps & Platform Engineering Lead
+
+Transaction Network Services (TNS)
+
+Sheffield, England, United Kingdom
+2 days ago
+Azure Platform Architect
+Azure Platform Architect
+
+Allegis Group
+
+Birmingham, England, United Kingdom
+4 weeks ago
+Similar Searches
+Contract Database Administrator jobs
+304 open jobs
+Customer Account Executive jobs
+7,009 open jobs
+Post Production Producer jobs
+80 open jobs
+Affiliate Account Manager jobs
+866 open jobs
+Media Account Manager jobs
+551 open jobs
+Web Project Manager jobs
+1,833 open jobs
+Chief Information Technology Officer jobs
+135 open jobs
+Marketing Account Manager jobs
+4,491 open jobs
+Marketing Operations Coordinator jobs
+1,027 open jobs
+Advertising Project Manager jobs
+3,568 open jobs
+Marketing Graduate jobs
+1,668 open jobs
+Public Relations Account Manager jobs
+53 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Your California Privacy Choices
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Digital Waffle
+Continue with Google
+Sign in with Email
+
+or
+
+Continue with Google
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
