@@ -2888,5 +2888,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Deadline (2026-09-30) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Director of Operational Excellence & Transformation",
+    "company": "Confidential",
+    "location": "Valletta, Malta",
+    "url": "https://mt.linkedin.com/jobs/view/director-of-operational-excellence-transformation-at-confidential-4467836872",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job explicitly states 'No sponsorship at the moment,' which disqualifies it under the 'No Visa Sponsorship' hard rejection criterion.",
+    "id": "c9d08031",
+    "source": "linkedin_mt_quality_manager",
+    "added_at": "2026-10-05T05:56:20+03:00",
+    "posted_date": "2026-10-05",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
