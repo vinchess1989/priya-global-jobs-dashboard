@@ -119588,8 +119588,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-05T11:46:13+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-05T17:53:08+03:00"
   },
   {
     "title": "Associate Director, Patient Engagement",
@@ -119605,8 +119605,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-05T11:46:13+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-05T17:53:08+03:00"
   },
   {
     "title": "Applications Development Manager, Diagnostics",
@@ -119622,8 +119622,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-05T11:46:13+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-05T17:53:08+03:00"
   },
   {
     "title": "Translational Medicine Expert \u2013 Gastroenterology, Associate Director",
@@ -119639,8 +119639,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-05T11:46:13+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-05T17:53:09+03:00"
   },
   {
     "title": "Regulatory Affairs Manager",
@@ -119656,8 +119656,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-05T11:46:13+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-05T17:53:09+03:00"
   },
   {
     "title": "Senior Regulatory Associate",
@@ -119673,8 +119673,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-05T11:46:13+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-05T17:53:09+03:00"
   },
   {
     "title": "Manager, GD Quality Management",
@@ -119690,8 +119690,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-05T11:46:14+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-05T17:53:10+03:00"
   },
   {
     "title": "Quality Manager Systems",
@@ -119707,8 +119707,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-05T11:46:14+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-05T17:53:10+03:00"
   },
   {
     "title": "Medical Solutions Partner",
@@ -119724,8 +119724,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-05T11:46:14+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-05T17:53:10+03:00"
   },
   {
     "title": "Senior Scientist",
@@ -119765,16 +119765,15 @@
     "location": "Extract from page",
     "url": "https://www.totaljobs.com/job/global-labelling-lead-eu-us-regulatory-affairs/hays-job108001237",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job posting's location and company details are inaccessible due to an 'Access Denied' error, making it impossible to verify compliance with non-US location requirements or visa sponsorship availability.",
     "id": "f36d5eb9",
     "source": "totaljobs_eu_mdr",
     "added_at": "2026-10-05T11:46:11+03:00",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-05T11:50:15+03:00"
+    "eval_model": "local/qwen/qwen3-14b"
   },
   {
     "title": "Medical Device Auditor",
@@ -119790,8 +119789,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-05T11:50:15+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-05T17:55:22+03:00"
   },
   {
     "title": "Expression of Interest - Senior Bioinformatics Scientist",
@@ -119807,8 +119806,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-05T11:50:15+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-05T17:55:22+03:00"
   },
   {
     "title": "Director, Regulatory Data Office Leader",
@@ -119824,8 +119823,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-05T11:50:15+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-05T17:55:22+03:00"
   },
   {
     "title": "construction labourer",
