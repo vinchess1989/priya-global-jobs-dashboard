@@ -2854,5 +2854,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Practice Manager Medical Centre",
+    "company": "T\u016bhoe Te Uru Taumatua",
+    "location": "Bay of Plenty, New Zealand",
+    "url": "https://nz.linkedin.com/jobs/view/practice-manager-medical-centre-at-t%C5%ABhoe-te-uru-taumatua-4464729825",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires applicants to already be legally entitled to work in New Zealand, which means no visa sponsorship is available \u00e2\u20ac\u201d this is a hard rejection criterion for Priya, who needs employer-sponsored work visa support.",
+    "id": "628b9372",
+    "source": "linkedin_nz_quality_manager",
+    "added_at": "2026-10-05T04:01:23+03:00",
+    "posted_date": "2026-09-14",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
