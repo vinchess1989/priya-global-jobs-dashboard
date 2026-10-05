@@ -1,0 +1,255 @@
+Title: AWS DevOps Engineer
+Company: CareCone Group
+Location: Sydney, New South Wales, Australia
+URL: https://au.linkedin.com/jobs/view/aws-devops-engineer-at-carecone-group-4475533256
+Posted: 2026-10-05
+Deadline: N/A
+Reason: The job as an AWS DevOps Engineer in Sydney, Australia matches Priya's expertise in CI/CD pipelines, infrastructure-as-code (Terraform), Docker/Kubernetes, and Git-based workflows, aligning with her experience at Elektrobit and Topcon Healthcare.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+AWS DevOps Engineer
+CareCone Group  Sydney, New South Wales, Australia
+12 hours ago  28 applicants
+  
+
+See who CareCone Group has hired for this role
+
+Apply
+Save
+
+Direct message the job poster from CareCone Group
+
+Karthikeyan Prabhu
+Karthikeyan Prabhu
+Account Manager - APAC at CareCone Australia
+
+Role :AWS DevOps Engineer
+
+Duration: Permanent
+
+Location: Sydney , Australia
+
+
+
+
+Role Overview
+
+We are looking for an experienced AWS DevOps Engineer to design, automate, deploy, and manage scalable and highly available cloud infrastructure and application environments on AWS.
+
+The ideal candidate will have strong hands-on experience with AWS, Terraform, CI/CD, Docker, Kubernetes, Git, and cloud automation, along with good exposure to monitoring, security, and production support.
+
+Key Responsibilities
+
+Design, implement, and manage AWS cloud infrastructure across development, testing, and production environments.
+Develop and maintain Infrastructure as Code using Terraform.
+Build, manage, and optimize CI/CD pipelines for automated application build, testing, deployment, and release.
+Work with AWS services including EC2, S3, IAM, VPC, Lambda, ECS/EKS, CloudWatch, RDS, ALB/NLB, Route 53, and CloudFormation where required.
+Develop and maintain automated deployment and infrastructure provisioning processes.
+Manage Docker containers and containerized application deployments.
+Work with Kubernetes/Amazon EKS for container orchestration and application operations.
+Implement branching, version control, and release strategies using Git/GitHub/GitLab/Bitbucket.
+Implement monitoring, logging, alerting, and operational dashboards using CloudWatch and other observability tools.
+Troubleshoot infrastructure, deployment, networking, performance, and production issues.
+Implement AWS security best practices including IAM, least-privilege access, secrets management, encryption, and network security.
+Automate repetitive operational activities using Python, Bash, or PowerShell.
+Collaborate with developers, architects, QA, security, and operations teams to improve deployment velocity and platform reliability.
+Support incident management, root-cause analysis, disaster recovery, and production stability.
+Continuously improve cloud infrastructure, DevOps processes, automation, scalability, and cost optimization.
+
+Mandatory Skills
+
+Strong hands-on experience in AWS Cloud and DevOps.
+Strong experience with Terraform / Infrastructure as Code (IaC).
+Hands-on experience with CI/CD pipelines using Jenkins, GitHub Actions, GitLab CI, Azure DevOps, or similar tools.
+Strong experience with Docker.
+Good hands-on experience with Kubernetes / Amazon EKS.
+Strong knowledge of Git and Git-based workflows.
+Experience with Linux administration and troubleshooting.
+Strong scripting/automation skills using Python or Shell scripting.
+Good understanding of AWS networking concepts including VPC, subnets, security groups, NACLs, load balancers, and Route 53.
+Experience with AWS IAM, CloudWatch, S3, EC2, RDS, and other core AWS services.
+Good understanding of cloud security, monitoring, logging, scalability, and high availability.
+
+
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Staffing and Recruiting
+  
+
+Referrals increase your chances of interviewing at CareCone Group by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Sydney, New South Wales, Australia.
+
+Sign in to create job alert
+Jobs
+Managed Services Consultant jobs
+AWS DevOps Engineer
+Similar jobs
+Devops Engineer
+Devops Engineer
+ASX
+Sydney, New South Wales, Australia
+2 hours ago
+*AWS DevOps Engineer*
+*AWS DevOps Engineer*
+Accenture Australia
+Sydney, New South Wales, Australia
+2 weeks ago
+*AWS Cloud Engineer*
+*AWS Cloud Engineer*
+Accenture Australia
+Sydney, New South Wales, Australia
+2 weeks ago
+AWS Devops
+AWS Devops
+Luxoft Australia
+Sydney, New South Wales, Australia
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+Macquarie Group
+Sydney, New South Wales, Australia
+5 days ago
+Cloud Engineer
+Cloud Engineer
+Macquarie Group
+Sydney, New South Wales, Australia
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Senior Cloud Engineer- AWS
+Senior Cloud Engineer- AWS
+
+Versent
+
+Sydney, New South Wales, Australia
+2 weeks ago
+Software Engineer, DevOps
+Software Engineer, DevOps
+
+H2O.ai
+
+Sydney, New South Wales, Australia
+2 weeks ago
+Sr DevOps Engineer
+Sr DevOps Engineer
+
+XPT Software
+
+Sydney, New South Wales, Australia
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Settify
+
+Sydney, New South Wales, Australia
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Colonial First State
+
+Sydney, New South Wales, Australia
+4 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+HUB24 Limited
+
+Sydney, New South Wales, Australia
+1 week ago
+Sr DevOps Engineer
+Sr DevOps Engineer
+
+XPT Software Australia
+
+Sydney, New South Wales, Australia
+1 week ago
+Devops Engineer
+Devops Engineer
+
+XPT Software
+
+Sydney, New South Wales, Australia
+1 week ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+TheDriveGroup
+
+Sydney, New South Wales, Australia
+2 weeks ago
+Platform Engineering Lead
+Platform Engineering Lead
+
+Finstro
+
+Sydney, New South Wales, Australia
+3 weeks ago
+Similar Searches
+Managed Services Consultant jobs
+896 open jobs
+Resourcing Consultant jobs
+451 open jobs
+Java Software Engineer jobs
+760 open jobs
+English Translator jobs
+189 open jobs
+Problem Manager jobs
+1,088 open jobs
+Senior Data Engineer jobs
+1,798 open jobs
+Technical Account Manager jobs
+1,183 open jobs
+Oracle Database Administrator jobs
+4,171 open jobs
+Senior Software Engineer jobs
+1,571 open jobs
+Software Consultant jobs
+2,301 open jobs
+Digital Director jobs
+808 open jobs
+Talent Acquisition Manager jobs
+526 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Your California Privacy Choices
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at CareCone Group
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

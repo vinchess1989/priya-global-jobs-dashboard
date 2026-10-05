@@ -1,0 +1,257 @@
+Title: Développeur DevOps
+Company: Octasic
+Location: Montreal, Quebec, Canada
+URL: https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur-devops-at-octasic-4428520769
+Posted: 2026-07-07
+Deadline: N/A
+Reason: The role aligns with Priya's DevOps and configuration management expertise, located in Canada (target country), requires no US-based work, and matches her experience level and positive constraints.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Développeur DevOps
+Octasic  Montreal, Quebec, Canada
+3 months ago  38 applicants
+  
+
+See who Octasic has hired for this role
+
+Apply 
+Save
+Fondée en 1998, Octasic est une société privée dont le siège social est situé à Montréal au Canada, avec des installations de Recherche et Développement au Canada et en Inde, ainsi qu'un réseau mondial de soutien aux ventes. Octasic est l'un des principaux fournisseurs de SoC (System on Chip), de logiciels et de plates-formes matérielles et logicielles intégrées pour les marchés mondiaux du sans fil et de passerelles multimédia. Nos plates-formes matérielles et logicielles sont à la base des systèmes sans fil de nouvelles générations destinés aux forces de Défense, aux Services de Police et aux agences de Sécurité Nationale.
+
+On Choisit Octasic Pour
+
+
+Un milieu de travail à la fine pointe de la technologie, en contact avec les experts du domaine et ce dans une entreprise en croissance;
+Des conditions de travail compétitives (salaires, avantages sociaux, une semaine payée entre Noël et le Jour de l’An, rabais d’abonnement au gym, programme d’achat d’action, programme de remboursement du transport collectif, douches sur place, collations et breuvages gratuits);
+Assurances complètes (médicales, dentaires et télémédecine);
+Une atmosphère de travail conviviale et collaborative avec plusieurs activités sociales tout au long de l’année;
+Travailler au sein d’une entreprise impliquée dans sa communauté (levées de fonds pour Le Phare Enfants et Familles);
+La proximité avec les différents services de transport en commun (secteur Angus, à dix minutes à pieds du métro Préfontaine).
+
+
+À Propos Du Poste
+
+Le développeur DevOps est chargé de faire le lien entre le développement logiciel et les opérations informatiques en automatisant, optimisant et sécurisant le cycle de vie de la livraison des logiciels. Ce rôle comprend la conception, la mise en œuvre et la maintenance des pipelines CI/CD, l'automatisation des déploiements, la surveillance et les pratiques de fiabilité des systèmes.
+
+Le développeur DevOps travaille en étroite collaboration avec les développeurs de logiciels, les administrateurs système et les acteurs de la cybersécurité afin de garantir une livraison rapide, fiable et sécurisée des applications et des services dans un environnement technologique évolutif.
+
+Responsabilités
+
+
+Optimiser les pipelines Jenkins existants pour plus de rapidité, de stabilité et de facilité de maintenance;
+Améliorer l'utilisation des agents Jenkins, le temps de mise en file d'attente, l'allocation des exécuteurs et la fiabilité des builds;
+Intégrer des contrôles de sécurité dans les pipelines CI/CD, tels que l'analyse des dépendances, la détection des secrets, l'analyse statique et l'analyse des images de conteneurs;
+Concevoir et améliorer les tableaux de bord Grafana pour Jenkins, les agents, les pipelines, les serveurs et les signaux de sécurité;
+Définir des alertes utiles pour les échecs de compilation, les agents hors ligne, l'utilisation élevée des ressources, les longs temps d'attente et les schémas de défaillance anormaux;
+Contribuer à standardiser la structure des pipelines Jenkins, les bibliothèques partagées, l'utilisation des identifiants et les pratiques relatives aux plugins;
+Examiner les flux de travail CI/CD actuels et proposer des améliorations en matière de sécurité et de performance;
+Automatiser les tâches de reporting et de maintenance à l'aide de PowerShell, Bash ou Python;
+Normes relatives aux processus de documentation, tableaux de bord de surveillance et procédures de sécurité.
+
+
+Qualifications
+
+
+Diplôme en informatique, en génie logiciel, en technologies de l'information ou dans un domaine connexe;
+Une expérience pratique équivalente peut être prise en compte;
+3 à 5 ans d'expérience minimum en DevOps, administration système ou ingénierie logicielle;
+Expérience pratique en matière d'automatisation de la compilation et du déploiement;
+Expérience du support des environnements de production au sein d'une organisation axée sur la technologie;
+Solide expérience des pipelines Jenkins et de l'administration Jenkins;
+Expérience en matière d'optimisation et de dépannage CI/CD;
+Bonne compréhension des pratiques DevSecOps;
+Expérience des tableaux de bord Grafana et des concepts de surveillance;
+Connaissance de Prometheus, Loki ou d'outils d'observabilité similaires;
+Connaissance de Java, C#;
+Compétences en programmation de scripts PowerShell, Bash ou Python;
+Bonne connaissance des environnements de compilation Linux et Windows;
+Compréhension de la gestion des secrets, du traitement des identifiants et du contrôle d'accès;
+Capacité à collaborer avec les développeurs pour améliorer les pipelines sans ralentir la livraison;
+Solides compétences analytiques et de résolution de problèmes;
+Capacité à travailler sous pression dans des environnements de production critiques;
+Excellentes aptitudes en communication et en collaboration;
+Bonnes aptitudes organisationnelles et de documentation;
+Mentalité d'amélioration continue;
+Capacité à trouver un équilibre entre rapidité, fiabilité et sécurité dans les pratiques de déploiement.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Telecommunications
+  
+
+Referrals increase your chances of interviewing at Octasic by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Montreal, Quebec, Canada.
+
+Sign in to create job alert
+Jobs
+Software Sales Manager jobs
+Développeur DevOps
+Similar jobs
+DevOps
+DevOps
+OPAL-RT TECHNOLOGIES
+Montreal, Quebec, Canada
+1 week ago
+DevOps Developer
+DevOps Developer
+Octasic
+Montreal, Quebec, Canada
+3 months ago
+DevOps Analyst, CI/CD Pipelines
+DevOps Analyst, CI/CD Pipelines
+TMX Group
+Montreal, Quebec, Canada
+2 weeks ago
+DevOps
+DevOps
+OPAL-RT TECHNOLOGIES India Pvt. Ltd.
+Montreal, Quebec, Canada
+3 months ago
+Cloud Developer
+Cloud Developer
+Ubisoft
+Montreal, Quebec, Canada
+2 months ago
+DevOps Engineer (Cloud Infrastructure)
+DevOps Engineer (Cloud Infrastructure)
+Tecsys Inc.
+Montreal, Quebec, Canada
+1 week ago
+Show more jobs like this 
+People also viewed
+Software Engineer, Infrastructure - Self Managed Experience (SMX)
+Software Engineer, Infrastructure - Self Managed Experience (SMX)
+
+Camunda
+
+Montreal, Quebec, Canada
+1 week ago
+Infrastructure Developer, Platform Engineering
+Infrastructure Developer, Platform Engineering
+
+MaintainX
+
+Montreal, Quebec, Canada
+CA$88,000 - CA$195,000
+1 week ago
+Analyste DevOps, Pipelines CI/CD
+Analyste DevOps, Pipelines CI/CD
+
+TMX Group
+
+Montreal, Quebec, Canada
+2 weeks ago
+Software Developer - DevOps
+Software Developer - DevOps
+
+DRW
+
+Montreal, Quebec, Canada
+2 weeks ago
+DevOps Specialist
+DevOps Specialist
+
+SCIENTIFIC GAMES
+
+Montreal, Quebec, Canada
+2 days ago
+Développeur en infrastructure – ingénierie de plateforme
+Développeur en infrastructure – ingénierie de plateforme
+
+MaintainX
+
+Montreal, Quebec, Canada
+CA$88,000 - CA$195,000
+1 week ago
+DevOps Senior
+DevOps Senior
+
+Astek
+
+Montreal, Quebec, Canada
+3 weeks ago
+Ingénieur.e de plateforme
+Ingénieur.e de plateforme
+
+LawZero
+
+Montreal, Quebec, Canada
+1 week ago
+DevOps
+DevOps
+
+Wepoint
+
+Montreal, Quebec, Canada
+1 week ago
+Développeur(se) d'automatisation et d'infrastructure - Infrastructure & Automation Developer
+Développeur(se) d'automatisation et d'infrastructure - Infrastructure & Automation Developer
+
+Gameloft Montreal
+
+Montreal, Quebec, Canada
+1 week ago
+Similar Searches
+Software Sales Manager jobs
+173 open jobs
+Wireless Engineer jobs
+404 open jobs
+Federal Account Executive jobs
+79 open jobs
+Federal Account Manager jobs
+83 open jobs
+Evangelist jobs
+227 open jobs
+Senior System Engineer jobs
+1,733 open jobs
+Automation Engineer jobs
+17,515 open jobs
+Electronic Engineer jobs
+1,637 open jobs
+Resident Engineer jobs
+2,594 open jobs
+User Experience Designer jobs
+1,152 open jobs
+Product Designer jobs
+3,089 open jobs
+Hardware Intern jobs
+18 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Your California Privacy Choices
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Octasic
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

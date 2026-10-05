@@ -1,0 +1,265 @@
+Title: Software Engineer - Tools & Infrastructure / DevOps
+Company: Cerebras
+Location: Toronto, Ontario, Canada
+URL: https://ca.linkedin.com/jobs/view/software-engineer-tools-infrastructure-devops-at-cerebras-4458718623
+Posted: 2026-09-05
+Deadline: N/A
+Reason: The job aligns with Priya's expertise in CI/CD pipeline ownership, release management, and infrastructure tooling, matching the 'DevOps Engineer' role type; located in Toronto, Canada (target country); mid-senior level; English-language environment.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Software Engineer - Tools & Infrastructure / DevOps
+Cerebras  Toronto, Ontario, Canada
+1 month ago  106 applicants
+  
+
+See who Cerebras has hired for this role
+
+Apply 
+Save
+Cerebras Systems builds the world's largest AI chip, 56 times larger than GPUs. This architecture allows Cerebras to deliver industry-leading training and inference speeds; over 10 times faster than GPU-based hyperscale cloud inference services.
+
+This order of magnitude increase in speed is transforming the user experience of AI applications, unlocking real-time iteration and increasing intelligence via additional agentic computation.
+
+Cerebras works with the leading model labs, global enterprises, and cutting-edge AI-native startups. OpenAI recently announced a multi-year partnership with Cerebras, to deploy 750 megawatts of scale, transforming key workloads with ultra high-speed inference.
+
+Responsibilities
+
+
+Contribute to the development and maintenance of CICD pipelines, ensuring reliable and efficient build, test, and release workflows across the organization.
+Help manage artifact lifecycle systems including versioning, storage, distribution, and dependency management to support reproducible builds at scale.
+Partner with development teams to design and improve code review workflows, branching strategies, and automated integration processes.
+Provision, monitor, and optimize cloud infrastructure to support CI workloads, balancing cost efficiency with performance and reliability.
+Troubleshoot build failures, pipeline bottlenecks, and infrastructure issues, driving root-cause analysis and implementing lasting fixes.
+Contribute to internal build infrastructure, test infrastructure, tooling, and automation that improves developer velocity and engineering productivity.
+Contribute to the company’s efforts on AI tooling to boost engineering productivity efficiently.
+
+
+Skills & Qualifications
+
+
+4-8 years of professional experience in a DevOps, infrastructure, or software engineering role.
+Familiarity with CICD systems and hands-on experiences in building or maintaining automated build and deployment pipelines.
+Understanding of artifact repository management and software packaging concepts.
+Experience with cloud computing platforms (AWS preferred) and programmatic resource provisioning.
+Proficiency with distributed version control systems, code review processes, and repository management.
+Foundational knowledge of operating system concepts (Linux/Unix), networking fundamentals, and scripting for automation.
+Experience with containerization and container orchestration (Kubernetes preferred).
+Strong troubleshooting skills and a methodical approach to debugging distributed systems.
+Curiosity about how large-scale infrastructure is built, operated, and improved.
+Being part of oncall and incident response task force of Dev Productivity org.
+
+
+Preferred Skills & Qualifications
+
+
+Familiarity with infrastructure-as-code tools and practices.
+Scripting proficiency in Python or Shell for build automation and tooling.
+Exposure to build systems and build graph optimization.
+Understanding of observability practices including monitoring, logging, and alerting.
+BS/MS in Computer Science or a related field, or equivalent practical experience.
+
+
+Why Join Cerebras
+
+About
+
+People who are serious about software make their own hardware. At Cerebras, we have built a breakthrough architecture that is unlocking new opportunities for the AI industry. With dozens of model releases and rapid growth, we’ve reached an inflection point in our business. Members of our team tell us there are five main reasons they joined Cerebras:
+
+
+Build a breakthrough AI platform beyond the constraints of the GPU.
+Publish and open source their cutting-edge AI research.
+Work on one of the fastest AI supercomputers in the world.
+Enjoy job stability with startup vitality.
+Our simple, non-corporate work culture that respects individual beliefs.
+
+
+Find out more about what it's like to work at Cerebras here!
+
+Apply today and become part of the forefront of groundbreaking advancements in AI!
+
+Cerebras Systems is committed to creating an equal and diverse environment and is proud to be an equal opportunity employer. We celebrate different backgrounds, perspectives, and skills. We believe inclusive teams build better products and companies. We try every day to build a work environment that empowers people to do their best work through continuous learning, growth and support of those around them.
+
+This website or its third-party tools process personal data. For more details, click here to review our CCPA disclosure notice.
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Semiconductor Manufacturing
+  
+
+Referrals increase your chances of interviewing at Cerebras by 2x
+
+See who you know
+
+Get notified about new Software Engineer jobs in Toronto, Ontario, Canada.
+
+Sign in to create job alert
+Jobs
+SQL Developer jobs
+Software Engineer - Tools & Infrastructure / DevOps
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+Leap Tools
+Toronto, Ontario, Canada
+1 week ago
+DevOps Engineer
+DevOps Engineer
+Caseware
+Toronto, Ontario, Canada
+3 weeks ago
+DevOps Engineer II
+DevOps Engineer II
+commonsku
+Toronto, Ontario, Canada
+CA$110,000 - CA$130,000
+5 days ago
+Software Engineer II, Platform
+Software Engineer II, Platform
+Ripple
+Toronto, Ontario, Canada
+2 weeks ago
+Software Engineer, Infrastructure (TOR)
+Software Engineer, Infrastructure (TOR)
+Doppel
+Toronto, Ontario, Canada
+2 weeks ago
+AI Infrastructure Engineer
+AI Infrastructure Engineer
+Palona AI
+Toronto, Ontario, Canada
+1 month ago
+Show more jobs like this 
+People also viewed
+DevOps Engineer/Platform Engineer - Azure
+DevOps Engineer/Platform Engineer - Azure
+
+Pet Valu
+
+Markham, Ontario, Canada
+4 days ago
+Senior Software Engineer, Cloud Engineering
+Senior Software Engineer, Cloud Engineering
+
+Mozilla
+
+Toronto, Ontario, Canada
+2 months ago
+DevOps & Security Engineer
+DevOps & Security Engineer
+
+Reflow
+
+Toronto, Ontario, Canada
+3 months ago
+Cloud Engineer
+Cloud Engineer
+
+Scotiabank
+
+Toronto, Ontario, Canada
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Proofpoint
+
+Toronto, Ontario, Canada
+1 week ago
+DevOps Engineer (Permanent)
+DevOps Engineer (Permanent)
+
+CoreFactor
+
+Greater Toronto Area, Canada
+1 week ago
+Platform Engineer, Cloud Dev/Ops - Depop
+Platform Engineer, Cloud Dev/Ops - Depop
+
+eBay
+
+Toronto, Ontario, Canada
+2 weeks ago
+Agent & DevOps Platform Engineer
+Agent & DevOps Platform Engineer
+
+PeoplePilot
+
+Toronto, Ontario, Canada
+2 weeks ago
+Site Reliability Engineer, Inference Infrastructure
+Site Reliability Engineer, Inference Infrastructure
+
+Cohere
+
+Toronto, Ontario, Canada
+1 week ago
+Cloud Engineer 2, Site Reliability Engineering
+Cloud Engineer 2, Site Reliability Engineering
+
+Kinaxis
+
+Toronto, Ontario, Canada
+2 days ago
+Similar Searches
+SQL Developer jobs
+751 open jobs
+Dotnet Developer jobs
+1,988 open jobs
+Software Engineer jobs
+18,695 open jobs
+Developer jobs
+19,120 open jobs
+Engineer jobs
+24,068 open jobs
+J2Ee Developer jobs
+1,045 open jobs
+Software Engineer Intern jobs
+155 open jobs
+Computer Software Engineer jobs
+14,092 open jobs
+Web Development Specialist jobs
+14,191 open jobs
+Software Intern jobs
+271 open jobs
+Web Programmer jobs
+422 open jobs
+Back End Developer jobs
+3,490 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Your California Privacy Choices
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Cerebras
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
