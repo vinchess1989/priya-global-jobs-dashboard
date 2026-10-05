@@ -3058,5 +3058,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Senior Manager, Data Product & Engagement",
+    "company": "Qantas",
+    "location": "Sydney, New South Wales, Australia",
+    "url": "https://au.linkedin.com/jobs/view/senior-manager-data-product-engagement-at-qantas-4472424749",
+    "visited": "yes",
+    "matches_requirements": "maybe",
+    "reason": "The job requires leadership in data product portfolio management and analytics delivery, which partially overlaps with the candidate's experience in release/configuration management and technical documentation but does not strongly align with her regulated-industry compliance or CI/CD expertise.",
+    "id": "b3e276de",
+    "source": "linkedin_au_release_manager",
+    "added_at": "2026-10-05T22:55:16+03:00",
+    "posted_date": "2026-09-28",
+    "deadline": "2023-10-12",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2023-10-12) passed by more than 2 days and unreviewed"
   }
 ]
