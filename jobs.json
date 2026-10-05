@@ -119308,16 +119308,15 @@
     "location": "Extract from page",
     "url": "https://www.totaljobs.com/job/senior-quality-systems-specialist-integration/stryker-job108078180",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "maybe",
+    "reason": "The job description is inaccessible (access denied), preventing evaluation of location, visa sponsorship requirements, or alignment with Priya's experience in regulated quality/CM roles.",
     "id": "497f3928",
     "source": "totaljobs_eu_mdr",
     "added_at": "2026-10-05T11:46:11+03:00",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-05T17:53:08+03:00"
+    "eval_model": "local/qwen/qwen3-14b"
   },
   {
     "title": "Associate Director, Patient Engagement",
@@ -119325,50 +119324,47 @@
     "location": "Extract from page",
     "url": "https://www.totaljobs.com/job/associate-director-patient-engagement/csl-behring-job108069226",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job description is inaccessible due to an 'Access Denied' error, preventing evaluation of critical details such as location, role responsibilities, visa sponsorship availability, or compliance with target countries and experience level requirements.",
     "id": "4f4fa8e7",
     "source": "totaljobs_eu_mdr",
     "added_at": "2026-10-05T11:46:11+03:00",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-05T17:53:08+03:00"
+    "eval_model": "local/qwen/qwen3-14b"
   },
   {
     "title": "Applications Development Manager, Diagnostics",
-    "company": "Extract from page",
+    "company": "Manpower UK",
     "location": "Extract from page",
     "url": "https://www.totaljobs.com/job/applications-development-manager-diagnostics/manpower-uk-job108066305",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job posting could not be accessed due to an 'Access Denied' error, preventing evaluation of critical details such as location, required qualifications, and visa sponsorship availability.",
     "id": "a6961b85",
     "source": "totaljobs_eu_mdr",
     "added_at": "2026-10-05T11:46:11+03:00",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-05T17:53:08+03:00"
+    "eval_model": "local/qwen/qwen3-14b"
   },
   {
     "title": "Translational Medicine Expert \u2013 Gastroenterology, Associate Director",
-    "company": "Extract from page",
+    "company": "Novartis",
     "location": "Extract from page",
     "url": "https://www.totaljobs.com/job/translational-medicine-expert-gastroenterology-associate-director/novartis-job108079091",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job description is inaccessible (access denied), making it impossible to verify location, required qualifications, or alignment with the candidate's skills in regulated CI/CD/release management. The title suggests a clinical/translational medicine role, which likely requires medical licensure and differs from her technical communication/release management expertise.",
     "id": "0588e814",
     "source": "totaljobs_eu_mdr",
     "added_at": "2026-10-05T11:46:11+03:00",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-05T17:53:09+03:00"
+    "eval_model": "local/qwen/qwen3-14b"
   },
   {
     "title": "Regulatory Affairs Manager",
@@ -119384,8 +119380,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-05T17:53:09+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-06T00:47:03+03:00"
   },
   {
     "title": "Senior Regulatory Associate",
@@ -119401,8 +119397,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-05T17:53:09+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-06T00:47:03+03:00"
   },
   {
     "title": "Manager, GD Quality Management",
@@ -119418,8 +119414,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-05T17:53:10+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-06T00:47:03+03:00"
   },
   {
     "title": "Quality Manager Systems",
@@ -119435,8 +119431,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-05T17:53:10+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-06T00:47:03+03:00"
   },
   {
     "title": "Medical Solutions Partner",
@@ -119452,8 +119448,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-05T17:53:10+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-06T00:47:04+03:00"
   },
   {
     "title": "Senior Scientist",
@@ -119517,8 +119513,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-05T17:55:22+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-06T00:47:04+03:00"
   },
   {
     "title": "Expression of Interest - Senior Bioinformatics Scientist",
@@ -119534,8 +119530,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-05T17:55:22+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-06T00:47:04+03:00"
   },
   {
     "title": "Director, Regulatory Data Office Leader",
@@ -119551,8 +119547,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-05T17:55:22+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-06T00:47:04+03:00"
   },
   {
     "title": "construction labourer",
