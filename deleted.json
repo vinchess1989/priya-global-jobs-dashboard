@@ -3364,5 +3364,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Deadline (2026-10-04) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Senior DevOps Engineer",
+    "company": "Gaming Innovation Group",
+    "location": "San \u0120iljan, Saint Julian's, Malta",
+    "url": "https://mt.linkedin.com/jobs/view/senior-devops-engineer-at-gaming-innovation-group-4474255652",
+    "visited": "yes",
+    "matches_requirements": "yes",
+    "reason": "The role aligns with Priya's DevOps expertise (CI/CD, Kubernetes, Ansible) and is located in Malta (target country), with no visa sponsorship restrictions.",
+    "id": "2e387247",
+    "source": "linkedin_mt_release_manager",
+    "added_at": "2026-10-06T02:24:43+03:00",
+    "posted_date": "2026-10-06",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": "job_descriptions/gaming_innovation_gr_senior_devops_engineer_2e387247.txt",
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
