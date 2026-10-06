@@ -3432,5 +3432,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Business Analyst - eSC or eDV Clearance Required",
+    "company": "IBM",
+    "location": "Manchester, England, United Kingdom",
+    "url": "https://uk.linkedin.com/jobs/view/business-analyst-esc-or-edv-clearance-required-at-ibm-4400806232",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires eSC or eDV security clearance, which is a mandatory requirement and falls under the 'No visa sponsorship / Existing right to work required' Hard Rejection rule as it necessitates eligibility for UK security clearances she does not have.",
+    "id": "89d55b14",
+    "source": "linkedin_uk_requirements_engineer",
+    "added_at": "2026-10-06T12:27:47+03:00",
+    "posted_date": "2026-09-22",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
