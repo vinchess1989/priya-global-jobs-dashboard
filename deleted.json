@@ -3415,5 +3415,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Deadline (2026-10-01) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "EAM Technical Writer",
+    "company": "Randstad",
+    "location": "Brisbane QLD, Australia",
+    "url": "https://au.jora.com/job/Technical-Writer-df1605520efbf72f1780057eec6295f9",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires 'unlimited working rights' (implying no visa sponsorship), which Priya cannot satisfy as she needs employer-sponsored visa support for any country outside Finland.",
+    "id": "e27416e9",
+    "source": "jora_au_technical_writer",
+    "added_at": "2026-10-06T09:08:03+03:00",
+    "posted_date": "5h ago",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
