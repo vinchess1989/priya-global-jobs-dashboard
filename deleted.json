@@ -3381,5 +3381,39 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": "job_descriptions/gaming_innovation_gr_senior_devops_engineer_2e387247.txt",
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "New Product Introduction, Technical Engineering Internship",
+    "company": "MSD Ireland",
+    "location": "Carlow, County Carlow, Ireland",
+    "url": "https://ie.linkedin.com/jobs/view/new-product-introduction-technical-engineering-internship-at-msd-ireland-4476115379",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is an internship targeting students, which conflicts with the candidate's ~15 years of experience and mid-to-senior level target. The responsibilities focus on biopharmaceutical engineering/validation rather than regulated CI/CD/release management or technical documentation.",
+    "id": "3a85cbba",
+    "source": "linkedin_ie_technical_writer",
+    "added_at": "2026-10-06T06:39:42+03:00",
+    "posted_date": "2026-10-06",
+    "deadline": "2026-08-09",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-08-09) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Web Content Officer",
+    "company": "IP Australia",
+    "location": "Canberra, Australian Capital Territory, Australia",
+    "url": "https://au.linkedin.com/jobs/view/web-content-officer-at-ip-australia-4467822459",
+    "visited": "yes",
+    "matches_requirements": "maybe",
+    "reason": "The Web Content Officer role aligns with Priya\u2019s technical writing experience (Accenture/Topcon) but lacks explicit mention of regulated/safety-critical domains (MDR/ISO 13485/ASPICE/TUV), which were a strong fit in her previous roles. Visa sponsorship for Australia is not explicitly confirmed in the posting.",
+    "id": "32403338",
+    "source": "linkedin_au_technical_writer",
+    "added_at": "2026-10-06T06:40:24+03:00",
+    "posted_date": "2026-09-22",
+    "deadline": "2026-10-01",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-10-01) passed by more than 2 days and unreviewed"
   }
 ]
