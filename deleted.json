@@ -3449,5 +3449,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Lead Business Optimisation Engineer",
+    "company": "FlySafair",
+    "location": "City of Johannesburg, Gauteng, South Africa",
+    "url": "https://za.linkedin.com/jobs/view/lead-business-optimisation-engineer-at-flysafair-4415396976",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job does not align with the candidate's target roles in configuration management, release management, or technical documentation, as it focuses on business process optimization and project management rather than regulated-industry software delivery or quality gatekeeping.",
+    "id": "76b0f8c3",
+    "source": "linkedin_za_requirements_engineer",
+    "added_at": "2026-10-06T15:53:34+03:00",
+    "posted_date": "2026-09-29",
+    "deadline": "2026-09-10",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-09-10) passed by more than 2 days and unreviewed"
   }
 ]
