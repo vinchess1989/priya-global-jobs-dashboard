@@ -4010,5 +4010,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Regional Quality Manager",
+    "company": "Dynacare",
+    "location": "Brampton, Ontario, Canada",
+    "url": "https://ca.linkedin.com/jobs/view/regional-quality-manager-at-dynacare-4466332637",
+    "visited": "yes",
+    "matches_requirements": "maybe",
+    "reason": "The job aligns with the candidate's quality/compliance expertise and regulated-industry background, but lacks explicit mention of configuration management, technical documentation ownership, or CI/CD/release-management responsibilities that would strongly trigger her approved constraints.",
+    "id": "02f89bf2",
+    "source": "linkedin_ca_quality_manager",
+    "added_at": "2026-10-07T08:07:01+03:00",
+    "posted_date": "2026-09-16",
+    "deadline": "2026-09-17",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-09-17) passed by more than 2 days and unreviewed"
   }
 ]
