@@ -130472,16 +130472,15 @@
     "location": "Extract from page",
     "url": "https://www.totaljobs.com/job/lead-secondary-design-engineer/ge-vernova-job107907550",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "maybe",
+    "reason": "The job description is inaccessible (access denied), making it impossible to verify location, company details, or alignment with Priyanga's qualifications such as configuration management, technical communication experience, or regulated-industry compliance focus.",
     "id": "06a7ebb9",
     "source": "totaljobs_requirements_engineer",
     "added_at": "2026-10-06T17:30:16+03:00",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-07T00:46:03+03:00"
+    "eval_model": "local/qwen/qwen3-14b"
   },
   {
     "title": "Senior Project Engineer",
@@ -130489,16 +130488,15 @@
     "location": "Extract from page",
     "url": "https://www.totaljobs.com/job/senior-project-engineer/manpower-uk-job108081777",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job posting is inaccessible due to an 'Access Denied' error, preventing evaluation of critical details such as location, company-specific requirements, and role responsibilities.",
     "id": "9f021d8c",
     "source": "totaljobs_requirements_engineer",
     "added_at": "2026-10-06T17:30:16+03:00",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-07T00:46:03+03:00"
+    "eval_model": "local/qwen/qwen3-14b"
   },
   {
     "title": "Lead Software Engineer",
@@ -130506,16 +130504,15 @@
     "location": "Extract from page",
     "url": "https://www.totaljobs.com/job/lead-software-engineer/outsource-job108085021",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "Job details are inaccessible (access denied), making it impossible to evaluate location, role type, or other criteria against the candidate's requirements.",
     "id": "de94119b",
     "source": "totaljobs_requirements_engineer",
     "added_at": "2026-10-06T17:30:16+03:00",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-07T00:46:03+03:00"
+    "eval_model": "local/qwen/qwen3-14b"
   },
   {
     "title": "Building Services Manager",
