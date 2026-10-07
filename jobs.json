@@ -138741,8 +138741,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-07T15:53:10+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-07T22:11:28+03:00"
   },
   {
     "title": "Associate Director, Regulatory Diagnostics",
@@ -138758,8 +138758,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-07T15:53:11+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-07T22:11:29+03:00"
   },
   {
     "title": "Translational Medicine Expert \u2013 Dermatology, Associate Director",
@@ -138775,8 +138775,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-07T15:53:11+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-07T22:11:29+03:00"
   },
   {
     "title": "Global Labelling Lead - Regulatory Affairs",
@@ -138792,8 +138792,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-07T15:53:11+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-07T22:11:29+03:00"
   },
   {
     "title": "Data Scientist",
@@ -138809,8 +138809,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-07T15:53:11+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-07T22:11:29+03:00"
   },
   {
     "title": "Life Science Development Underwriter",
@@ -138826,8 +138826,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-07T15:53:11+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-07T22:11:30+03:00"
   },
   {
     "title": "Quality Manager (Defence/Aerospace)",
@@ -138843,8 +138843,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-07T15:53:11+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-07T22:11:30+03:00"
   },
   {
     "title": "Global Regulatory Associate Director, Life Cycle Management",
@@ -138860,8 +138860,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-07T15:53:12+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-07T22:11:30+03:00"
   },
   {
     "title": "Research and Quality Assurance Specialist",
@@ -138877,8 +138877,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-07T15:53:12+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-07T22:11:30+03:00"
   },
   {
     "title": "Specification Technologist",
@@ -138898,20 +138898,19 @@
   },
   {
     "title": "Director, Regional Ecosystem Lead (Northern Europe & UK)",
-    "company": "Extract from page",
+    "company": "CSL Behring",
     "location": "Extract from page",
     "url": "https://www.totaljobs.com/job/director-regional-ecosystem-lead-northern-europe-uk/csl-behring-job107968751",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job posting is inaccessible (access denied error), preventing verification of critical criteria such as location, visa sponsorship requirements, and role alignment with Priya's expertise in configuration management/release engineering.",
     "id": "4ba51c2d",
     "source": "totaljobs_eu_mdr",
     "added_at": "2026-10-07T15:45:51+03:00",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-07T15:55:41+03:00"
+    "eval_model": "local/qwen/qwen3-14b"
   },
   {
     "title": "Complaints Data Analyst (Post Market)",
