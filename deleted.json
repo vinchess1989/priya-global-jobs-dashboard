@@ -4435,5 +4435,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Deadline (2026-10-06) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Xcelore - DevOps Engineer",
+    "company": "Xcelore",
+    "location": "Noida, Uttar Pradesh, India",
+    "url": "https://in.linkedin.com/jobs/view/xcelore-devops-engineer-at-xcelore-4466007211",
+    "visited": "yes",
+    "matches_requirements": "yes",
+    "reason": "The job matches Priya's expertise as a DevOps Engineer with CI/CD pipeline ownership, cloud infrastructure management, and automation experience, located in India (a target country) with no visa sponsorship restrictions.",
+    "id": "9a78b313",
+    "source": "linkedin_in_devops_engineer",
+    "added_at": "2026-10-08T00:01:36+03:00",
+    "posted_date": "2026-09-17",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": "job_descriptions/xcelore_xcelore___devops_engineer_9a78b313.txt",
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
