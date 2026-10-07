@@ -134741,8 +134741,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-07T12:59:23+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-07T19:18:39+03:00"
   },
   {
     "title": "Quality Engineer",
@@ -134758,8 +134758,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-07T12:59:23+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-07T19:18:40+03:00"
   },
   {
     "title": "Quality Engineer",
@@ -134775,8 +134775,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-07T12:59:24+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-07T19:18:40+03:00"
   },
   {
     "title": "Quality Engineer",
@@ -134792,8 +134792,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-07T12:59:24+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-07T19:18:40+03:00"
   },
   {
     "title": "Quality Engineer",
@@ -134809,8 +134809,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-07T12:59:24+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-07T19:18:40+03:00"
   },
   {
     "title": "Quality Engineer",
@@ -134826,8 +134826,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-07T12:59:24+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-07T19:18:41+03:00"
   },
   {
     "title": "Quality Engineer",
@@ -134843,8 +134843,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-07T12:59:25+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-07T19:18:41+03:00"
   },
   {
     "title": "Quality Engineer",
@@ -134860,8 +134860,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-07T12:59:25+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-07T19:18:41+03:00"
   },
   {
     "title": "Quality Engineer",
@@ -134877,8 +134877,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-07T12:59:25+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-07T19:18:41+03:00"
   },
   {
     "title": "Quality Engineer",
@@ -134894,8 +134894,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-07T12:59:26+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-07T19:18:41+03:00"
   },
   {
     "title": "Quality Engineer",
@@ -137433,20 +137433,19 @@
   },
   {
     "title": "Treasury Manager",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "KingsleyIrons Recruitment",
+    "location": "Boksburg, South Africa",
     "url": "https://www.careerjunction.co.za/treasury-manager-job-2645814.aspx",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job does not match Priyanga Ramachandran's target roles (DevOps, Configuration Management, Release Management, Technical Writing, etc.) as it is a Treasury Manager position in finance, which falls outside her regulated-industry technical/quality/compliance-focused background.",
     "id": "c6590aba",
     "source": "careerjunction_quality_manager",
     "added_at": "2026-10-07T12:36:50+03:00",
-    "posted_date": "N/A",
+    "posted_date": "2026-10-05",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-07T12:53:50+03:00"
+    "eval_model": "local/qwen/qwen3-14b"
   },
   {
     "title": "Procurement Manager - Plastic Raw Materials - Flexible Packaging Manufacturing - Cape Town",
