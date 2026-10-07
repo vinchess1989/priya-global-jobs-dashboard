@@ -31623,5 +31623,27 @@
     "applied": 0,
     "added": 0,
     "deleted": 0
+  },
+  {
+    "timestamp": "2026-10-07T16:05:33",
+    "total": 8669,
+    "yes": 609,
+    "no": 4986,
+    "maybe": 2576,
+    "pending": 15,
+    "applied": 0,
+    "added": 15,
+    "deleted": 0
+  },
+  {
+    "timestamp": "2026-10-07T16:46:46",
+    "total": 8669,
+    "yes": 611,
+    "no": 4997,
+    "maybe": 2578,
+    "pending": 0,
+    "applied": 0,
+    "added": 0,
+    "deleted": 0
   }
 ]
