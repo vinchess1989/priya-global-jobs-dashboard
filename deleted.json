@@ -4078,5 +4078,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Deadline (2026-06-14) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Quality Compliance Engineer",
+    "company": "Eurofins",
+    "location": "Cambridge, England, United Kingdom",
+    "url": "https://uk.linkedin.com/jobs/view/quality-compliance-engineer-at-eurofins-4475198414",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job posting explicitly states that visa sponsorship is not available, which disqualifies it under the 'No Visa Sponsorship / Existing Right to Work Required' hard rejection criterion.",
+    "id": "49e3df78",
+    "source": "linkedin_uk_eu_mdr",
+    "added_at": "2026-10-07T13:01:10+03:00",
+    "posted_date": "2026-10-07",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
