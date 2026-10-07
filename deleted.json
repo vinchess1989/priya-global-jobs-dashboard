@@ -4095,5 +4095,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Regulatory and Site Start Up Specialist",
+    "company": "Precision For Medicine",
+    "location": "Sydney, New South Wales, Australia",
+    "url": "https://au.linkedin.com/jobs/view/regulatory-and-site-start-up-specialist-at-precision-for-medicine-4476549741",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job posting explicitly states 'Candidates must be legally authorized to work in the country of employment without employer sponsorship,' which disqualifies it under the 'No Visa Sponsorship' hard rejection rule.",
+    "id": "700748f7",
+    "source": "linkedin_au_eu_mdr",
+    "added_at": "2026-10-07T14:17:06+03:00",
+    "posted_date": "2026-10-07",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
