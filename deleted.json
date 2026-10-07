@@ -4044,5 +4044,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Test Lead",
+    "company": "Ministry of Justice - New Zealand",
+    "location": "Wellington, Wellington, New Zealand",
+    "url": "https://nz.linkedin.com/jobs/view/test-lead-at-ministry-of-justice-new-zealand-4476128720",
+    "visited": "yes",
+    "matches_requirements": "maybe",
+    "reason": "The job aligns with the 'Test engineer starting roles' positive constraint and involves testing leadership, but it is not a direct match for Priya's expertise in release/CM/DevOps or technical documentation despite overlapping quality/governance responsibilities.",
+    "id": "7255be0f",
+    "source": "linkedin_nz_quality_manager",
+    "added_at": "2026-10-07T09:16:30+03:00",
+    "posted_date": "2026-10-07",
+    "deadline": "2025-10-18",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2025-10-18) passed by more than 2 days and unreviewed"
   }
 ]
