@@ -1,0 +1,253 @@
+Title: DevOps Engineer 2 (Intermediate)
+Company: Black Duck
+Location: Belfast, Northern Ireland, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/devops-engineer-2-intermediate-at-black-duck-4474964189
+Posted: 2026-10-06
+Deadline: N/A
+Reason: The job as a DevOps Engineer 2 (Intermediate) at Black Duck in Belfast, Northern Ireland aligns with Priya's CI/CD, infrastructure-as-code, and automation expertise, and is located in a target country (UK).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer 2 (Intermediate)
+Black Duck  Belfast, Northern Ireland, United Kingdom
+1 day ago   Be among the first 25 applicants
+  
+
+See who Black Duck has hired for this role
+
+Apply
+Save
+Black Duck Software, Inc. helps organizations build secure, high-quality software, minimizing risks while maximizing speed and productivity. Black Duck, a recognized pioneer in application security, provides SAST, SCA, and DAST solutions that enable teams to quickly find and fix vulnerabilities and defects in proprietary code, open source components, and application behavior. With a combination of industry-leading tools, services, and expertise, only Black Duck helps organizations maximize security and quality in DevSecOps and throughout the software development life cycle.
+
+DevOps Engineer will be a key member of the Cloud Operations team responsible for developing SaaS and Hosted services across the company's product portfolio. They will work closely with Engineering, Product, IT, and other functional teams to build, operate, and improve customer-facing infrastructure on Google Cloud Platform (GCP).
+
+The ideal candidate brings hands-on cloud and infrastructure experience, enjoys solving operational challenges, thrives in a collaborative environment, actively leverages AI tools to improve productivity, and is passionate about delivering secure, reliable, and scalable services for enterprise customers worldwide.
+
+Responsibilities
+
+
+Contribute to infrastructure automation using infrastructure-as-code, CI/CD, and GitOps practices
+Build, maintain, and improve secure, reliable, and highly available infrastructure for SaaS and Hosted services on GCP
+Leverage and develop AI tools to accelerate troubleshooting, automate routine tasks, generate scripts, and improve documentation quality
+Collaborate with engineering teams to deploy and operate containerized applications using Kubernetes-based platforms
+Build and improve operational tooling, monitoring, runbooks, and documentation to enhance service reliability and reduce operational effort
+Participate in change management, release activities, operational readiness reviews, and on-call support processes
+Work with Engineering, Product, Services, Security, and other departments to support business and customer requirements
+Contribute to platform engineering initiatives that improve developer productivity, service reliability, security, and operational efficiency
+Monitor platform health, investigate incidents, troubleshoot production issues, and participate in continuous service improvement efforts
+
+
+Required Qualifications
+
+
+3-5 years of experience supporting production SaaS applications, cloud infrastructure, or customer-facing services
+Hands-on experience with Google Cloud Platform (GCP), including services such as GKE, Cloud Run, Cloud Storage, Networking, IAM, Monitoring, and Logging
+Experience working with Kubernetes and containerized applications
+Comfortable using AI and LLM tools (GitHub Copilot, ChatGPT, Claude, or similar) as part of everyday engineering workflows. Experience with Agentic development a plus.
+Experience with Docker and container-based deployment practices
+Experience with CI/CD tools such as GitHub Actions, Jenkins, ArgoCD, GitLab CI, or similar technologies
+Experience with infrastructure-as-code tools such as Terraform or equivalent
+Proficiency with scripting or automation using Python, Bash, Go, or similar languages
+Understanding of networking fundamentals including DNS, TLS, routing, firewall concepts, and load balancing
+Familiarity with observability and monitoring tools used to operate production systems
+Experience troubleshooting applications and infrastructure in production environments
+Familiarity with Java-based applications and services is beneficial
+Strong communication and collaboration skills with the ability to work effectively across technical and non-technical teams
+
+
+Education
+
+
+Bachelor's degree in Computer Science or other technical discipline, or equivalent experience.
+
+
+Black Duck is an equal opportunity employer. We consider all applicants for employment without regard to race, color, national origin, religion, sex, gender identity or expression, age, disability, sexual orientation, veteran or military service status, or any other characteristic protected by applicable law. Black Duck complies with all applicable laws prohibiting employment discrimination in every jurisdiction where it operates and provides reasonable accommodations to individuals with disabilities in accordance with applicable law.
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Industries
+Food and Beverage Services, Manufacturing, and Food and Beverage Manufacturing
+  
+
+Referrals increase your chances of interviewing at Black Duck by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Belfast, Northern Ireland, United Kingdom.
+
+Sign in to create job alert
+Jobs
+Lead Application Developer jobs
+DevOps Engineer 2 (Intermediate)
+Similar jobs
+Azure Cloud Engineer - Onsite - Fantastic Opportunity, Great Work Culture & Collaborative Environment
+Azure Cloud Engineer - Onsite - Fantastic Opportunity, Great Work Culture & Collaborative Environment
+Adepta Partners
+Belfast, Northern Ireland, United Kingdom
+1 week ago
+Site Reliability Engineer
+Site Reliability Engineer
+Delinea
+Belfast, Northern Ireland, United Kingdom
+1 week ago
+Site Reliability Engineer
+Site Reliability Engineer
+Trimble Inc.
+Newcastle, Northern Ireland, United Kingdom
+1 week ago
+Cloud Engineer - Infrastructure as Code
+Cloud Engineer - Infrastructure as Code
+Deloitte
+Belfast, Northern Ireland, United Kingdom
+1 week ago
+Cloud Engineer
+Cloud Engineer
+MSM Technology
+Northern Ireland, United Kingdom
+4 days ago
+Cloud Infrastructure Engineers
+Cloud Infrastructure Engineers
+CGI
+Belfast, Northern Ireland, United Kingdom
+1 week ago
+Show more jobs like this 
+People also viewed
+Software Engineer
+Software Engineer
+
+Groupe SII
+
+Belfast, Northern Ireland, United Kingdom
+2 weeks ago
+Software Engineer
+Software Engineer
+
+SII Group UK
+
+Belfast, Northern Ireland, United Kingdom
+2 weeks ago
+Software Engineer II
+Software Engineer II
+
+Olo
+
+Northern Ireland, United Kingdom
+1 day ago
+Software Engineer II - In-Store
+Software Engineer II - In-Store
+
+Olo
+
+Belfast, Northern Ireland, United Kingdom
+1 month ago
+Technical Support Specialist
+Technical Support Specialist
+
+Upwind Security
+
+Belfast, Northern Ireland, United Kingdom
+1 month ago
+Data Engineer
+Data Engineer
+
+Anson McCade
+
+Belfast, Northern Ireland, United Kingdom
+£50,000 - £60,000
+2 days ago
+Application Technical Support Engineer
+Application Technical Support Engineer
+
+Bright
+
+Belfast, Northern Ireland, United Kingdom
+1 week ago
+Backend Software Engineer
+Backend Software Engineer
+
+Upwind Security
+
+Belfast, Northern Ireland, United Kingdom
+1 month ago
+Test Automation Engineer
+Test Automation Engineer
+
+Version 1
+
+Belfast, Northern Ireland, United Kingdom
+8 hours ago
+Manager - Google Cloud Platform Engineer, Technology & Transformation
+Manager - Google Cloud Platform Engineer, Technology & Transformation
+
+Deloitte
+
+Belfast, Northern Ireland, United Kingdom
+4 weeks ago
+Similar Searches
+Lead Application Developer jobs
+2,875 open jobs
+Senior Contract Analyst jobs
+1,023 open jobs
+Accounting Operations Manager jobs
+85 open jobs
+Named Account Manager jobs
+2,620 open jobs
+Java Team Lead jobs
+2,143 open jobs
+Unix Linux System Administrator jobs
+87 open jobs
+Software Sales Executive jobs
+423 open jobs
+Principal Firmware Engineer jobs
+151 open jobs
+Channel Head jobs
+1,432 open jobs
+Group Financial Controller jobs
+4,385 open jobs
+Platform Director jobs
+886 open jobs
+Presales Solutions Architect jobs
+2,207 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Black Duck
+Continue with Google
+Sign in with Email
+
+or
+
+Continue with Google
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

@@ -1,0 +1,317 @@
+Title: DevOps Engineer
+Company: Alliants
+Location: Southampton, England, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/devops-engineer-at-alliants-4472779860
+Posted: 2026-09-30
+Deadline: N/A
+Reason: The job aligns with Priya's expertise in DevOps engineering, CI/CD pipelines, and infrastructure-as-code (Terraform/OpenTofu), and matches her target location (UK) and experience level (mid-senior).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+Alliants  Southampton, England, United Kingdom
+1 week ago  89 applicants
+  
+
+See who Alliants has hired for this role
+
+Apply 
+Save
+Job Description
+
+All of our engineering is AI-assisted by default — and we're looking for a DevOps Engineer to build the guardrails that decide what AI-generated code is allowed to do in production.
+
+The role at a glance
+
+
+Title: DevOps Engineer
+Location: Southampton, UK — hybrid, minimum three days per week in the office, up to two days remote
+Compensation: £57,000 – £62,000 per year
+Contract: Full-time, permanent — 40 hours per week
+Team: Product Engineering — DevOps. Five engineers including this role, reporting to the Senior DevOps Architect
+
+
+This is a hands-on DevOps role on our Product Engineering team, and it's built around two things.
+
+First - Alliants engineering is AI-assisted by default, and the function is shifting from doing the work directly to building the controls that let the wider organisation ship safely. You'll build and maintain the automated validation, testing, standards enforcement and risk detection that stand between generated code and production. Your work decides what everyone else can safely build.
+
+Second - Ownership. You'll deploy, maintain and optimise the AWS infrastructure behind our proprietary products and client solutions and hold it to 99.9%+ availability, security compliance, and no single points of failure from network through to database.
+
+Role Focus & Operating Context
+
+All code in this role is produced with AI coding agents. A thorough understanding of infrastructure-as-code and automation is essential. The skill we hire for is directing, constraining, reviewing and verifying output to a high standard.
+
+Standards, architectural decisions and runbooks are treated as machine-readable inputs to agents, not just documents for humans. They have to stay accurate and enforceable as the volume of change keeps rising: every control must scale without a human in the loop for the routine case, while reliably stopping the dangerous one.
+
+You'll work across proprietary products and client hosting environments, under real SLA and support commitments, alongside four other DevOps engineers and the software engineering teams who consume what you build.
+
+What You'll Work On And Own
+
+
+The guardrails — policy-as-code, protected environments, scoped IAM, blast-radius limits and promotion paths that make the dangerous change impossible rather than discouraged
+The automated quality layer — static analysis, schema and migration safety checks, dependency and licence scanning, automated code review and integration testing
+The infrastructure — AWS environments defined in OpenTofu/Terraform, for Alliants products and for clients
+The pipelines — fast, parallel, self-verifying CI/CD with automatic failure detection and rollback to last known-good
+The environments assigned to you — availability, security posture, cost, and what happens at 3am when something breaks
+The templates and standards that make the safe route the easiest route for everyone else
+
+
+Job Requirements
+
+What you'll bring
+
+
+Hands-on experience managing and configuring AWS environments — ECS (Fargate), RDS, VPC, S3, API Gateway, Lambda, CloudFront, IAM
+Hands-on Infrastructure-as-Code experience with Terraform or OpenTofu, including established module patterns, state management, and safe handling of destructive changes
+Containerisation experience with Docker, including image optimisation and secure runtime configuration
+Demonstrated experience building and maintaining CI/CD pipelines and deployment automation, including automated testing and rollback
+Strong command-line, scripting and programming ability — Linux, Bash, Git, plus Python, TypeScript or JavaScript — for diagnostics and automation
+Solid grounding in information security best practice, secrets management, system documentation, and operating resilient systems with no single points of failure
+Commercial experience supporting multiple environments under SLA and support commitments
+Practical, current experience using AI coding agents (Claude Code or equivalent) as the primary means of producing code, and the judgement to verify their output rather than trust it
+
+
+To thrive in this role, you'll be someone who:
+
+
+Asks "how do I make this impossible to get wrong" rather than "how do I fix this instance"
+Takes proactive initiative on environment health and automation without waiting for direction
+Gets satisfaction from other people shipping safely at speed, and builds controls that unblock rather than obstruct
+Uses AI aggressively while assuming its output is wrong until verified, and encodes that assumption into the checks
+Explains technical issues clearly to non-technical colleagues and, where needed, client contacts
+Stays analytical during high-severity production incidents
+
+
+Job Responsibilities
+
+
+Implement and maintain the guardrails — designed with the Senior DevOps Architect — that let engineers and non-engineers safely ship AI-generated application and infrastructure code: policy-as-code, protected environments, scoped IAM and blast-radius limits, mandatory automated gates, plan review, drift detection, and clear sandbox-to-production promotion paths.
+Build out and maintain the automated quality control layer to agreed standards, covering static analysis, schema and migration safety checks, dependency and licence scanning, automated code review and integration testing, so unsafe or substandard changes are caught by the system rather than by a person.
+Deploy, maintain and optimise cloud infrastructure, primarily AWS, for Alliants products and clients — delivering 99.9%+ availability, security compliance, and no single points of failure from network through to database. All infrastructure is defined as code in OpenTofu/Terraform.
+Build and maintain CI/CD pipelines that are fast, parallel and self-verifying, with automatic detection of failed deployments and rollback to the last known-good version, reducing release cycle time while driving deployment-related incidents towards zero.
+Implement instrumentation, alerting, dashboards and performance reporting to identify bottlenecks and regressions before they become incidents.
+Apply InfoSec and regulatory standards, including WAF coverage, centrally managed secrets and least-privilege access.
+Manage, troubleshoot and resolve service desk escalations and production incidents, with root-cause analysis and automated prevention of recurrence rather than repeat manual fixes.
+Contribute to cloud cost optimisation, and provide the usage data behind accurate reporting.
+Support internal and client technical teams with hosting and environment queries, communicating performance and incident reports clearly.
+Maintain the templates and standards that make the safe route the easiest route for everyone else.
+Take part in the out-of-hours on-call rota as first responder, currently one week in six.
+
+
+Job Benefits
+
+Who is Alliants and what do we do?
+
+Alliants, established in 2009, is dedicated to producing customer engagement technologies and services that pave the way for a more human, sustainable, and promising future for hospitality.
+
+At Alliants, we are all in for our people and our industry.
+
+What's in it for you?
+
+We Know We All Work Better In An Autonomous, Collaborative, Diverse And Equitable Space. To Support You In Becoming The Best Version Of Yourself, We Offer
+
+
+Hybrid working: a minimum of three days a week together in the Southampton office, with the rest of the week worked flexibly and support for flexible working
+AI-native engineering, for real: a genuine mandate to build the systems that let a whole organisation ship safely with AI, not a pilot bolted onto business as usual
+Real ownership: the environments and pipelines assigned to you are yours, with minimal micromanagement and direct impact on day-to-day delivery
+Room to grow: a clear technical path alongside a Senior DevOps Architect who sets the architecture and expects you to run it
+Inclusive team culture: we strive to create an environment where everyone can do their best work
+A warm welcome: to celebrate you joining Alliants, we'll plant a Great Oak tree in your honour
+
+
+Please note: this role is hybrid and requires you to be within commuting distance of our Southampton office.
+
+Alliants celebrates diversity and is committed to creating an inclusive environment for all employees.
+
+Salary
+
+57000 - 62000 GBP (yearly)
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Alliants by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Southampton, England, United Kingdom.
+
+Sign in to create job alert
+Jobs
+Field Sales Engineer jobs
+DevOps Engineer
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+Dexory
+Wallingford, England, United Kingdom
+1 month ago
+DevOps Engineer
+DevOps Engineer
+Code Wizards Group
+Theale, England, United Kingdom
+6 days ago
+DevOps Engineer
+DevOps Engineer
+Hexegic
+Dorset, England, United Kingdom
+£60,000 - £70,000
+5 days ago
+Digital Platform Engineer
+Digital Platform Engineer
+Vitality
+Bournemouth, England, United Kingdom
+6 days ago
+DevOps Build Engineer
+DevOps Build Engineer
+Larian Studios
+Guildford, England, United Kingdom
+1 week ago
+Infrastructure Engineer
+Infrastructure Engineer
+Content Guru
+Bracknell, England, United Kingdom
+3 weeks ago
+Show more jobs like this 
+People also viewed
+Senior Platform (DevOps) Engineer
+Senior Platform (DevOps) Engineer
+
+Point of Rental Software
+
+Reading, England, United Kingdom
+1 week ago
+Software Engineer
+Software Engineer
+
+QinetiQ
+
+Portsmouth, England, United Kingdom
+6 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Halian | Managed Services, Recruitment Agency & Contract Staffing
+
+Reading, England, United Kingdom
+£90,000 - £95,000
+3 weeks ago
+Software Engineer II - Cloud Technology
+Software Engineer II - Cloud Technology
+
+JPMorganChase
+
+Bournemouth, England, United Kingdom
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Hexegic
+
+Dorset, England, United Kingdom
+£70,000 - £80,000
+3 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Spectrum IT Recruitment
+
+Hampshire, England, United Kingdom
+£65,000 - £75,000
+3 hours ago
+Senior Site Reliability Engineer (DevTools)
+Senior Site Reliability Engineer (DevTools)
+
+Visa
+
+Basingstoke, England, United Kingdom
+6 hours ago
+Database Reliability Engineer
+Database Reliability Engineer
+
+Starling
+
+Southampton, England, United Kingdom
+1 day ago
+DevOps Engineer
+DevOps Engineer
+
+JAM
+
+Frimley, England, United Kingdom
+1 week ago
+Lead DevOps analyst - CNS
+Lead DevOps analyst - CNS
+
+DP World
+
+Southampton, England, United Kingdom
+2 days ago
+Similar Searches
+Field Sales Engineer jobs
+5,318 open jobs
+Hardware Test Engineer jobs
+21,300 open jobs
+Ruby on Rails Developer jobs
+3,860 open jobs
+Marketing Account Manager jobs
+4,491 open jobs
+Spa Director jobs
+633 open jobs
+Training Manager jobs
+18,646 open jobs
+Head of Support jobs
+13,020 open jobs
+Senior Technical Recruiter jobs
+643 open jobs
+English Tutor jobs
+2,943 open jobs
+Graduate Software Engineer jobs
+20,876 open jobs
+Web Developer jobs
+5,705 open jobs
+Presales Consultant jobs
+3,375 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Alliants
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

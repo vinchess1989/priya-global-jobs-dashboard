@@ -1,0 +1,274 @@
+Title: DevOps Engineer
+Company: ASSA ABLOY Group
+Location: Olney, England, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/devops-engineer-at-assa-abloy-group-4474420214
+Posted: 2026-10-07
+Deadline: N/A
+Reason: The DevOps Engineer role at ASSA ABLOY Group in the UK aligns with Priya’s CI/CD, infrastructure automation, and cloud experience (Azure/AWS), while meeting location, seniority, and language criteria. The job also matches her configuration management background and previous technical communication specialist role.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+ASSA ABLOY Group  Olney, England, United Kingdom
+19 hours ago  52 applicants
+  
+
+See who ASSA ABLOY Group has hired for this role
+
+Apply 
+Save
+Do you have the ability to contribute towards our rapidly growing technology environment, and a drive to grow your skills in a collaborative environment? Become a part of the ASSA ABLOY Key & Asset Management (KAM) business unit and enjoy a culture that empowers you to build a career you can be proud of.
+
+Note that this role can be performed remotely within the UK.
+
+What you would do as our DevOps Engineer
+
+As a DevOps Engineer, you will have the opportunity to contribute towards our rapidly growing technology environment by building for the future of our hosted products and services.
+
+Reporting to the KAM Lead DevOps Engineer, you will be responsible for the operation and configuration of our cloud-centric product and service offerings within KAM, with resiliency, reliability and scalability at the forefront.
+
+You would also:
+
+
+Develop and enhance our SaaS product offerings, focusing on well-architected principles including reliability, scalability, observability, and secure software delivery.
+Manage and continuously improve CI/CD platforms and build pipelines, automating code build, testing, deployment, and wider software delivery processes in collaboration with security engineering teams
+Implement and maintain automation of infrastructure, virtual machines, and containerised environments across multiple rapidly growing cloud solutions.
+Drive the adoption of DevOps culture, practices, and automation across the organisation, while identifying improvement opportunities and contributing to wider delivery roadmaps.
+Manage, maintain, improve, and automate operational runbooks and playbooks, ensuring efficient, reliable, and scalable platform operations.
+
+
+The Skills And Experience You Need
+
+We are looking for someone who:
+
+
+Has strong, demonstrable experience with public cloud computing using Microsoft Azure. Knowledge of Amazon Web Services (AWS) would also be beneficial as we implement multi-cloud solutions.
+Possesses skills in configuration management and Infrastructure as Code (IaC). Terraform/OpenTofu knowledge is required, while experience with Ansible, Pulumi, AWS CloudFormation and Azure Bicep would be advantageous.
+Has excellent knowledge of foundational infrastructure concepts including Virtual Machines, Serverless Compute, Networking, Storage and Databases.
+Has experience with CI/CD pipelines, infrastructure automation and code build/test automation. Experience with GitLab CI and/or GitHub Actions, together with scripting in PowerShell and/or Bash, is highly desirable.
+Can manage containerised workloads and orchestration technologies, including Azure Container Apps, AWS ECS and Docker. Experience with Kubernetes and Helm is also desirable.
+
+
+What We Offer
+
+We’re passionate about providing amazing opportunities and benefits, so you can continue and progress a lifelong career with us – here’s what we have to offer:
+
+
+25 days holiday + bank holidays .
+Ex-gratia day for Christmas Eve and for your birthday.
+Access to an online benefits portal.
+ASSA ABLOY Family Brand discount (Yale).
+3x Annual salary life cover.
+Company Pension scheme standard 5%.
+A company performance-related bonus that is paid once per year.
+Access to Employee Care scheme.
+
+
+We review applications regularly, so don’t wait
+
+We are building diverse, inclusive teams, and encourage applications from everyone who can see themselves working with us. Just set up your profile and apply here.
+
+To make sure your personal data is safe, we don’t look at any applications sent by email or post. If you have any questions about the role or the process, email Giulia Virde, Talent Acquisition Business Partner, at giulia.virde@assaabloy.com .
+
+Let’s create a safer and more open world - together!
+
+To find out more about us, visit www.assaabloy.com
+
+We are the ASSA ABLOY Group
+
+Our people have made us the global leader in access solutions. In return, we open doors for them wherever they go. With nearly 63,000 colleagues in more than 70 different countries, we help billions of people experience a more open world. Our innovations make all sorts of spaces – physical and virtual – safer, more secure, and easier to access.
+
+As an employer, we value results – not titles, or backgrounds. We empower our people to build their career around their aspirations and our ambitions – supporting them with regular feedback, training, and development opportunities. Our colleagues think broadly about where they can make the most impact, and we encourage them to grow their role locally, regionally, or even internationally.
+
+As we welcome new people on board, it’s important to us to have diverse, inclusive teams, and we value different perspectives and experiences.
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Wholesale Building Materials
+  
+
+Referrals increase your chances of interviewing at ASSA ABLOY Group by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Olney, England, United Kingdom.
+
+Sign in to create job alert
+Jobs
+National Logistics Manager jobs
+DevOps Engineer
+Similar jobs
+🛠️ SITE RELIABILITY ENGINEER / DEVOPS
+🛠️ SITE RELIABILITY ENGINEER / DEVOPS
+Tandem Dating
+Harrow, England, United Kingdom
+3 months ago
+DevOps Engineer, Studios
+DevOps Engineer, Studios
+IMG
+Uxbridge, England, United Kingdom
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+Dexory
+Wallingford, England, United Kingdom
+1 month ago
+DEVOPS ENGINEER - AWS
+DEVOPS ENGINEER - AWS
+Felix Consultants
+Birmingham, England, United Kingdom
+4 weeks ago
+DevOps Engineer
+DevOps Engineer
+IQGeo
+Cambridge, England, United Kingdom
+3 weeks ago
+DevOps Engineer
+DevOps Engineer
+Next
+Leicester, England, United Kingdom
+6 days ago
+Show more jobs like this 
+People also viewed
+DevOps Engineer
+DevOps Engineer
+
+Era4
+
+England, United Kingdom
+4 days ago
+GCP Cloud Engineer
+GCP Cloud Engineer
+
+National Gas
+
+Warwick, England, United Kingdom
+6 days ago
+Systems Engineer
+Systems Engineer
+
+Perspectum Ltd
+
+Oxford, England, United Kingdom
+£50,000 - £75,000
+3 weeks ago
+DevSecOps Engineer
+DevSecOps Engineer
+
+Graphnet Health
+
+Milton Keynes, England, United Kingdom
+2 weeks ago
+DevSecOps Engineer / Cloud Security Engineer (Site Reliability / Cloud Infrastructure / Build & Release / Environments & Automation)
+DevSecOps Engineer / Cloud Security Engineer (Site Reliability / Cloud Infrastructure / Build & Release / Environments & Automation)
+
+GIOS Technology
+
+Northampton, England, United Kingdom
+£48 - £50.62
+1 day ago
+Infrastructure and MLOps Engineer
+Infrastructure and MLOps Engineer
+
+Graphcore
+
+Cambridge, England, United Kingdom
+2 weeks ago
+Infrastructure Engineer (Cambridge)
+Infrastructure Engineer (Cambridge)
+
+Wave Photonics
+
+Cambridge, England, United Kingdom
+1 month ago
+Azure DevOps Engineer
+Azure DevOps Engineer
+
+IMSERV
+
+Milton Keynes, England, United Kingdom
+£60,000 - £65,000
+2 days ago
+Platform Engineer AWS Kubernetes
+Platform Engineer AWS Kubernetes
+
+Client Server
+
+St Albans, England, United Kingdom
+£90,000 - £115,000
+3 weeks ago
+Cloud Engineer
+Cloud Engineer
+
+Magellan
+
+England, United Kingdom
+1 week ago
+Similar Searches
+National Logistics Manager jobs
+242 open jobs
+Technical Presales Engineer jobs
+1,778 open jobs
+Data Processing Specialist jobs
+8,866 open jobs
+International Marketing Manager jobs
+1,763 open jobs
+Business Objects Developer jobs
+2,633 open jobs
+Corporate Finance Executive jobs
+526 open jobs
+Senior Electronic Design Engineer jobs
+540 open jobs
+International Brand Manager jobs
+4,110 open jobs
+Global Buyer jobs
+1,076 open jobs
+Registered Architect jobs
+178 open jobs
+New Business Developer jobs
+4,022 open jobs
+Plant Quality Manager jobs
+478 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at ASSA ABLOY Group
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

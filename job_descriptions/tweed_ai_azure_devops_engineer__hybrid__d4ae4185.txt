@@ -1,0 +1,239 @@
+Title: Azure DevOps Engineer (Hybrid, Edinburgh)
+Company: Tweed AI
+Location: Edinburgh, Scotland, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/azure-devops-engineer-hybrid-edinburgh-at-tweed-ai-4476598573
+Posted: 2026-10-07
+Deadline: N/A
+Reason: The Azure DevOps Engineer role at Tweed AI aligns with Priya's expertise in CI/CD pipelines (Azure DevOps, GitHub Actions), infrastructure as code (Bicep/Terraform), and regulated environments, matching her background at Elektrobit and Topcon, and is located in Edinburgh, UK (a target country).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Azure DevOps Engineer (Hybrid, Edinburgh)
+Tweed AI  Edinburgh, Scotland, United Kingdom
+6 hours ago   Be among the first 25 applicants
+  
+
+See who Tweed AI has hired for this role
+
+Apply
+Save
+
+Direct message the job poster from Tweed AI
+
+Garret Burns
+Garret Burns
+Engineering Manager at Behavioural Finance
+
+THIS IS A HYBRID ROLE: PLEASE ONLY APPLY IF WITHIN COMMUTING DISTANCE OF EDINBURGH (WILL BE AUTOMATICALLY REJECTED OTHERWISE)
+
+
+
+
+The Role:
+
+Make releases routine: fast, repeatable and safe.
+Own our CI/CD pipelines and Azure infrastructure as code.
+ Keep test and production environments secure, observable and cost-effective.
+Work closely with developers and coach them on pipelines and Azure.
+Help the whole team own building and deploying software, rather than handing it off.
+
+
+
+
+Key Responsibilities:
+
+CI/CD: design, build and maintain YAML pipelines in Azure DevOps, including build, automated test, release approvals and environment gates for test and production.
+Infrastructure as code: provision and manage Azure resources with Bicep or Terraform, versioned and deployed through pipelines rather than the portal.
+Azure platform: look after App Services, Azure Functions, Azure SQL Database, Storage, Key Vault, networking and, where used, containers (AKS or Container Apps).
+Security and access: manage Microsoft Entra ID access, managed identities, service connections and secrets; apply least privilege and keep secrets out of code.
+Monitoring and reliability: set up Azure Monitor, Application Insights and alerting; take part in incident response and blameless post-incident reviews.
+Database deployment: automate schema changes and migrations for Azure SQL safely across environments.
+Cost management: track and reduce Azure spend, for example by right-sizing resources and scheduling non-production environments.
+Ways of working: maintain branch policies, pull request checks and repository standards; document processes in the team wiki.
+Collaboration: support and coach developers on pipelines, Azure and good release practice.
+Scaling: design and configure services to scale with demand, using autoscaling for App Service, AKS or Functions, and load-test before major releases.
+Messaging and event-driven processing: build and support asynchronous workflows with Azure Service Bus, including queues, topics, retries and dead-letter handling.
+
+
+
+
+Essential Skills and Experience
+
+[3+] years in a DevOps, platform or cloud engineering role.
+Hands-on experience building YAML pipelines in Azure DevOps (or GitHub Actions, with willingness to move to Azure DevOps).
+Strong working knowledge of core Azure services: App Service, Functions, Azure SQL, Storage, Key Vault, virtual networks.
+Infrastructure as code with Bicep, ARM or Terraform.
+Scripting in PowerShell and/or Bash; comfortable with the Azure CLI.
+Confident with Git, branching strategies and pull request workflows.
+Understanding of Entra ID, role-based access control and secure secret management.
+Clear communication: you can explain technical choices to developers and non-technical colleagues.
+
+
+
+
+Desirable Skills:
+
+Containers: Docker, Azure Container Apps or AKS.
+Some knowledge of PostgreSQL.
+.NET build and deployment experience.
+Automated database deployment (SQL projects/DACPAC, EF Core migrations or Flyway).
+Observability with Application Insights, Log Analytics and KQL.
+Experience in financial services or another regulated environment (audit trails, change control, data protection).
+Microsoft certifications such as AZ-400 (DevOps Engineer Expert), AZ-104 (Azure Administrator) or AZ-305 (Solutions Architect).
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at Tweed AI by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Edinburgh, Scotland, United Kingdom.
+
+Sign in to create job alert
+Similar jobs
+Senior Azure Cloud & DevOps Engineer IRC305731
+Senior Azure Cloud & DevOps Engineer IRC305731
+GlobalLogic
+Edinburgh, Scotland, United Kingdom
+6 days ago
+Devops - Consultant
+Devops - Consultant
+Opencast | B Corp™
+Edinburgh, Scotland, United Kingdom
+6 days ago
+DevOps Engineer
+DevOps Engineer
+The Craneware Group
+Edinburgh, Scotland, United Kingdom
+1 week ago
+Platform Engineer
+Platform Engineer
+CGI
+Glasgow, Scotland, United Kingdom
+5 days ago
+Platform Engineer - Terraform - Glasgow / Edinburgh Hybrid - 65K plus Bonus
+Platform Engineer - Terraform - Glasgow / Edinburgh Hybrid - 65K plus Bonus
+Lorien
+Glasgow, Scotland, United Kingdom
+3 weeks ago
+Devops - Consultant
+Devops - Consultant
+Opencast | B Corp™
+Glasgow, Scotland, United Kingdom
+6 days ago
+Show more jobs like this 
+People also viewed
+Azure Cloud Engineer
+Azure Cloud Engineer
+
+Bright Purple
+
+Glasgow, Scotland, United Kingdom
+1 week ago
+Senior Cloud Platform Engineer
+Senior Cloud Platform Engineer
+
+Sword Group
+
+Glasgow, Scotland, United Kingdom
+1 week ago
+Staff Platform Engineer - UK
+Staff Platform Engineer - UK
+
+Ashby
+
+Edinburgh, Scotland, United Kingdom
+£151,000 - £246,000
+4 days ago
+Senior Technician
+Senior Technician
+
+NHS National Services Scotland
+
+Glasgow, Scotland, United Kingdom
+4 days ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+
+UK Regulators' Network
+
+Glasgow, Scotland, United Kingdom
+1 day ago
+Platform Engineer
+Platform Engineer
+
+Barclays
+
+Glasgow, Scotland, United Kingdom
+1 week ago
+Senior Technician
+Senior Technician
+
+NHS Ayrshire & Arran
+
+Glasgow, Scotland, United Kingdom
+4 days ago
+Staff Platform Engineer - UK
+Staff Platform Engineer - UK
+
+Ashby
+
+Glasgow, Scotland, United Kingdom
+£151,000 - £246,000
+3 days ago
+Software Deployment Engineer
+Software Deployment Engineer
+
+Motorola Solutions
+
+Glasgow, Scotland, United Kingdom
+2 weeks ago
+Lead Cloud Engineer
+Lead Cloud Engineer
+
+CreateFuture
+
+Edinburgh, Scotland, United Kingdom
+1 day ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Tweed AI
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
