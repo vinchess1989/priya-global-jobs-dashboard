@@ -4061,5 +4061,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Deadline (2025-10-18) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Nursing Manager",
+    "company": "Charisma Healthcare Solutions",
+    "location": "Worcester, Western Cape, South Africa",
+    "url": "https://za.linkedin.com/jobs/view/nursing-manager-at-charisma-healthcare-solutions-4470809397",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job is a Nursing Manager role in healthcare operations, which does not align with the candidate's technical/quality/regulatory-focused background in configuration management, release engineering, or technical communication.",
+    "id": "b184c762",
+    "source": "linkedin_za_quality_manager",
+    "added_at": "2026-10-07T10:26:26+03:00",
+    "posted_date": "2026-09-07",
+    "deadline": "2026-06-14",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-06-14) passed by more than 2 days and unreviewed"
   }
 ]
