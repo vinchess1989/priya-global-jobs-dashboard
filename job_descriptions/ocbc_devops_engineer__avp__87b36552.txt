@@ -1,0 +1,251 @@
+Title: DevOps Engineer (AVP)
+Company: OCBC
+Location: Singapore, Singapore
+URL: https://sg.linkedin.com/jobs/view/devops-engineer-avp-at-ocbc-4449471180
+Posted: 2026-09-23
+Deadline: N/A
+Reason: The role aligns with Priya's expertise in DevOps/CI-CD toolchain administration (Jenkins, SonarQube) and her background in regulated environments, while being located in Singapore (a target country).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Join now
+Sign in
+DevOps Engineer (AVP)
+OCBC  Singapore, Singapore
+2 weeks ago  83 applicants
+  
+
+See who OCBC has hired for this role
+
+Apply 
+Save
+Who We Are
+
+As Singapore’s longest established bank, we have been dedicated to enabling individuals and businesses to achieve their aspirations since 1932. How? By taking the time to truly understand people. From there, we provide support, services, solutions, and career paths that meet their individual needs and desires.
+
+Today, we’re on a journey of transformation. Leveraging technology and creativity to become a future-ready learning organisation. But for all that change, our strategic ambition is consistently clear and bold, which is to be Asia’s leading financial services partner for a sustainable future.
+
+We invite you to build the bank of the future. Innovate the way we deliver financial services. Work in friendly, supportive teams. Build lasting value in your community. Help people grow their assets, business, and investments. Take your learning as far as you can. Or simply enjoy a vibrant, future-ready career.
+
+Your Opportunity Starts Here.
+
+Why Join
+
+Imagine being part of a team that enables OCBC to deliver innovative financial services faster and more reliably. As a DevOps Engineer, you'll play a critical role in bridging the gap between development and operations, ensuring seamless collaboration and efficient delivery of our digital banking solutions.
+
+How you succeed
+
+We are seeking a highly skilled and proactive DevOps Engineer to lead the administration, maintenance and lifecycle management of our DevSecOps toolchain. The ideal candidate will possess extensive experience in managing security tools and leveraging AI capabilities within DevSecOps platforms to enhance automation, threat detection and operational efficiency while ensuring all tools are up-to-date, secure and compliant with internal and external standards.
+
+What you do
+
+
+Tool Administration & Maintenance:
+Administer and maintain all DevSecOps tools including Blackduck Hub, Coverity , Contrast, Jenkins and SonarQube.
+Ensure high availability, performance, and reliability of these platforms.
+Upgrades & Patch Management:
+Plan and execute regular upgrades and patches for all tools and underlying infrastructure.
+Ensure tools are running on non-vulnerable versions and platforms and are free from known security issues.
+Compliance & Security:
+Monitor and enforce compliance with bank standard policies and industry standards.
+Implement security best practices across all tools and ensure audit readiness.
+Automation & Optimization:
+Develop and maintain automation scripts for tool configuration, deployment, and monitoring.
+Optimize tool usage and workflows to improve developer productivity and operational efficiency.
+Monitoring & Troubleshooting:
+Set up proactive monitoring and alerting for tool health and performance.
+Troubleshoot and resolve issues related to tool integration, performance, and access.
+AI Integration and Implementation:
+Identify and implement AI-driven capabilities within DevSecOps tools to enhance security scanning, anomaly detection and code quality analysis.
+Documentation & Knowledge Sharing:
+Maintain comprehensive documentation for tool configurations, upgrade procedures, and compliance checks.
+Conduct training sessions and workshops for development and operations teams.
+
+Who you are
+
+
+Bachelor’s or Master’s degree in Computer Science, Engineering, or related field.
+Minimum 10 years of hands-on experience in DevOps engineering and tool administration.
+Strong knowledge of SAST, SCA, DAST and IAST methodologies.
+Strong understanding of application security principles and secure software development practices.
+Leverage AI-driven capabilities to optimize CI/CD pipelines, improve deployment reliability and accelerate software delivery through intelligent automation.
+Utilize AI-powered monitoring and analytics solutions for anomaly detection, predictive issue identification and proactive incident management across DevOps platforms.
+Implement AI-assisted security and code quality practices, including vulnerability prioritization, risk assessment and automated recommendations to enhance DevSecOps outcomes.
+Proven expertise in:
+BlackduckHub, Coverity and Contrast
+Jira, Bitbucket, Confluence
+Nexus Repository Manager
+Jenkins CI/CD
+SonarQube
+Proven experience in managing upgrades and ensuring secure, compliant tool versions.
+Strong understanding of CI/CD pipelines, infrastructure as code, and automation.
+Excellent troubleshooting, documentation, and communication skills.
+Experience with Linux/Unix systems and scripting (Shell, Python, Groovy, etc.)
+Experience with containerization (Docker, Kubernetes) and cloud platforms (AWS, Azure, GCP) would be an advantage.
+
+Who we are
+
+As Singapore's longest established bank, we have been dedicated to enabling individuals and businesses to achieve their aspirations since 1932. How? By taking the time to truly understand people. From there, we provide support, services, solutions, and career paths that meet their individual needs and desires.
+
+Today, we're on a journey of transformation. Leveraging technology and creativity to become a future-ready learning organisation.
+
+But for all that change, our strategic ambition is consistently clear and bold, which is to be Asia's leading financial services partner for a sustainable future.
+
+We invite you to build the bank of the future. Innovate the way we deliver financial services. Work in friendly, supportive teams. Build lasting value in your community. Help people grow their assets, business, and investments. Take your learning as far as you can. Or simply enjoy a vibrant, future-ready career. Your Opportunity Starts Here.
+
+What We Offer
+
+Competitive base salary. A suite of holistic, flexible benefits to suit every lifestyle. Community initiatives. Industry-leading learning and professional development opportunities. Your wellbeing, growth and aspirations are every bit as cared for as the needs of our customers.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Banking
+  
+
+Referrals increase your chances of interviewing at OCBC by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Singapore, Singapore.
+
+Sign in to create job alert
+Similar jobs
+VP, DevOps Technical Engineer (Server & Platform)
+VP, DevOps Technical Engineer (Server & Platform)
+UOB
+Singapore, Singapore
+6 days ago
+AVP, Site Reliability Engineer
+AVP, Site Reliability Engineer
+SGX Group
+Singapore, Singapore
+1 week ago
+AVP/VP, Product Engineer (DevSecOps), Technology Group
+AVP/VP, Product Engineer (DevSecOps), Technology Group
+GIC
+Singapore, Singapore
+1 week ago
+Site Reliability Engineer, Enterprise Technology Services
+Site Reliability Engineer, Enterprise Technology Services
+Apple
+Singapore, Singapore
+3 weeks ago
+AVP/VP, DevSecOps Engineer
+AVP/VP, DevSecOps Engineer
+Kerry Consulting
+Singapore, Singapore
+3 weeks ago
+Site Reliability Engineer
+Site Reliability Engineer
+Apple
+Singapore, Singapore
+4 months ago
+Show more jobs like this 
+People also viewed
+Staff Platform Infrastructure Engineer
+Staff Platform Infrastructure Engineer
+
+GovTech Singapore
+
+Singapore, Singapore
+4 hours ago
+DevOps Engineer
+DevOps Engineer
+
+Capgemini Engineering
+
+Singapore
+3 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Capgemini
+
+Singapore, Singapore
+1 month ago
+DevOps Engineer
+DevOps Engineer
+
+Merquri
+
+Singapore, Singapore
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Temus
+
+Singapore, Singapore
+2 weeks ago
+Platform Engineer
+Platform Engineer
+
+Vitol
+
+Singapore, Singapore
+2 weeks ago
+Infrastructure Operations Engineer (APAC)
+Infrastructure Operations Engineer (APAC)
+
+Lightning AI
+
+Singapore
+1 week ago
+Principal Platform Infrastructure Engineer
+Principal Platform Infrastructure Engineer
+
+GovTech Singapore
+
+Singapore, Singapore
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+BIOTRONIK
+
+Singapore, Singapore
+2 months ago
+Information Technology - Senior Software Engineer - eOps (Day of Ops)
+Information Technology - Senior Software Engineer - eOps (Day of Ops)
+
+Singapore Airlines
+
+Singapore, Singapore
+2 weeks ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
