@@ -134741,8 +134741,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-07T06:45:50+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-07T12:59:23+03:00"
   },
   {
     "title": "Quality Engineer",
@@ -134758,8 +134758,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-07T06:45:50+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-07T12:59:23+03:00"
   },
   {
     "title": "Quality Engineer",
@@ -134775,8 +134775,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-07T06:45:50+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-07T12:59:24+03:00"
   },
   {
     "title": "Quality Engineer",
@@ -134792,8 +134792,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-07T06:45:51+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-07T12:59:24+03:00"
   },
   {
     "title": "Quality Engineer",
@@ -134809,8 +134809,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-07T06:45:51+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-07T12:59:24+03:00"
   },
   {
     "title": "Quality Engineer",
@@ -134826,8 +134826,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-07T06:45:51+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-07T12:59:24+03:00"
   },
   {
     "title": "Quality Engineer",
@@ -134843,8 +134843,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-07T06:45:51+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-07T12:59:25+03:00"
   },
   {
     "title": "Quality Engineer",
@@ -134860,8 +134860,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-07T06:45:51+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-07T12:59:25+03:00"
   },
   {
     "title": "Quality Engineer",
@@ -134877,8 +134877,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-07T06:45:52+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-07T12:59:25+03:00"
   },
   {
     "title": "Quality Engineer",
@@ -134894,8 +134894,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-07T06:45:52+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-07T12:59:26+03:00"
   },
   {
     "title": "Quality Engineer",
@@ -134903,16 +134903,15 @@
     "location": "Extract from page",
     "url": "https://www.totaljobs.com/job/quality-engineer/m-tec-engineering-solutions-limited-job108013078",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "maybe",
+    "reason": "The job posting lacks explicit details about location, company specifics, and role requirements, making it impossible to confirm alignment with target criteria.",
     "id": "31b630d5",
     "source": "totaljobs_quality_engineer",
     "added_at": "2026-10-07T06:42:41+03:00",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-07T06:45:52+03:00"
+    "eval_model": "local/qwen/qwen3-14b"
   },
   {
     "title": "Quality Engineer",
@@ -134920,16 +134919,15 @@
     "location": "Extract from page",
     "url": "https://www.totaljobs.com/job/quality-engineer/sg-technologies-group-job107924631",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job posting is inaccessible (access denied error), making it impossible to verify critical criteria such as location, visa sponsorship requirements, or role alignment with Priyanga's qualifications.",
     "id": "13f0c2e7",
     "source": "totaljobs_quality_engineer",
     "added_at": "2026-10-07T06:42:41+03:00",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-07T06:45:52+03:00"
+    "eval_model": "local/qwen/qwen3-14b"
   },
   {
     "title": "Quality Engineer",
