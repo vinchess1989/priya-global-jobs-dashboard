@@ -3976,5 +3976,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Senior Test Automation Engineer",
+    "company": "K\u0101inga Ora - Homes and Communities",
+    "location": "Wellington, Wellington, New Zealand",
+    "url": "https://nz.linkedin.com/jobs/view/senior-test-automation-engineer-at-k%C4%81inga-ora-homes-and-communities-4474037287",
+    "visited": "yes",
+    "matches_requirements": "maybe",
+    "reason": "The job requires test automation expertise with BDD and AI-assisted testing, which differs from Priya's focus on release/CM/DevOps in regulated industries, though her scripting and cross-team collaboration experience may partially overlap.",
+    "id": "02df26fd",
+    "source": "linkedin_nz_quality_engineer",
+    "added_at": "2026-10-07T04:09:14+03:00",
+    "posted_date": "2026-10-07",
+    "deadline": "2025-10-19",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2025-10-19) passed by more than 2 days and unreviewed"
   }
 ]
