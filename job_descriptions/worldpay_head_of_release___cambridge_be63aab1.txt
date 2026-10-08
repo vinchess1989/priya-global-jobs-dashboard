@@ -1,0 +1,283 @@
+Title: Head of Release - Cambridge
+Company: Worldpay
+Location: Cambridge, England, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/head-of-release-cambridge-at-worldpay-4467746563
+Posted: 2026-10-07
+Deadline: N/A
+Reason: The role aligns with Priya's expertise in Release Management (Head of Release at Worldpay matches her Elektrobit and Topcon experience), is located in the UK (target country), and does not trigger any hard rejections.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Head of Release - Cambridge
+Worldpay  Cambridge, England, United Kingdom
+1 day ago  45 applicants
+  
+
+See who Worldpay has hired for this role
+
+Apply 
+Save
+Ready to take your career global?
+
+Are you ready to unleash your full potential? We’re looking for people who are passionate about payments to chart GlobalPayments’ path to being the largest and most-loved payments company in the world.
+
+What You Will Be Doing
+
+
+Line manager of a team of release managers responsible for the roll out of changes to a very high volume payment gateway.
+Defines and leads the release management strategy for GlobalPayments payment gateways, cloud platforms and supporting technology services.
+Manages the full release lifecycle, including release planning, readiness, approval, deployment, monitoring, post-release validation, audit evidence and continuous improvement.
+Ensures software, infrastructure, cloud and platform changes are delivered safely, predictably and without negative customer or operational impact.
+Owns release governance across business-critical, high-availability payment processing services, balancing delivery throughput, operational resilience, regulatory obligations and customer experience.
+Leads release planning, scheduling, stakeholder engagement and supplier coordination across cross-functional and geographically distributed teams.
+Manages the work efforts of Release Managers and associated release, deployment and platform delivery resources, including leadership, coaching, performance management and resource planning.
+Identifies and allocates release, technical, engineering, DevOps, cloud and operational resources to support portfolio and programme delivery priorities.
+Forecasts release and deployment resource needs based on product demand, portfolio commitments, platform roadmap activity and operational change volumes.
+Ensures release activity adheres to agreed change, incident, audit, PCI, security, risk and operational control standards.
+Provides input into product, platform and technology direction where release complexity, operational readiness or deployment risk may affect delivery outcomes.
+Coordinates with engineering, platform, product, service management, security, risk, audit and compliance teams to verify that releases meet regulatory and operational requirements.
+Ensures proper application of cloud, DevOps and platform technologies to support safe, repeatable and observable production release outcomes.
+Champions CI/CD, deployment automation, infrastructure as code, release pipeline improvement and repeatable deployment practices.
+Ensures release approaches are appropriate for cloud-hosted and hybrid platforms, including technologies such as AWS, Kubernetes, OpenShift, EKS, EC2, Helm, Jenkins and Terraform.
+Ensures effective monitoring, alerting, logging and observability are in place so deployment progress, service health and customer impact can be understood quickly.
+Oversees release communications before, during and after deployment, ensuring stakeholders receive timely, accurate and business-relevant updates.
+Resolves critical release issues, acts as an escalation point for release readiness and deployment risk, and contributes to broader technology and service improvement.
+Ensures base applications, platforms and supporting services meet appropriate quality, resilience and release-readiness standards.
+Adheres to departmental software delivery, release management, change management and client delivery process standards.
+Other related duties assigned as needed.
+
+
+What You Bring
+
+
+Knowledge of GlobalPayments products, services, payment processing platforms and customer-facing technology capabilities.
+Knowledge of release management, deployment management, change management, ITIL, service management and operational governance practices.
+Knowledge of cloud, DevOps and platform engineering principles, including CI/CD, automation, infrastructure as code, container orchestration and observability.
+Knowledge of relevant cloud and deployment technologies, including AWS, Kubernetes, OpenShift, EKS, EC2, Helm, Jenkins, Terraform and equivalent tooling.
+Knowledge of regulated technology environments, including PCI, audit, security, risk and evidence requirements.
+Skill in release planning, project management, organisation, communication, analysis and people leadership.
+Skill in leading, supervising and managing effectively under pressure, particularly during complex or time-critical release activity.
+Skill in translating technical deployment risk into clear business impact and actionable decision-making.
+Ability to interact confidently with executive-level stakeholders, internal customers, suppliers and senior technology leaders.
+Ability to analyse business, product and operational needs and determine the related release, platform and technology support required.
+Ability to maintain positive working relationships with internal and external stakeholders.
+Ability to manage multiple releases, projects, activities, dependencies and problem areas concurrently.
+Ability to delegate work to qualified managers, release leads, engineers or delivery resources as appropriate.
+Ability to lead, direct and manage effectively across matrixed, distributed and cross-functional teams.
+Ability to operate independently while maintaining appropriate governance, escalation and stakeholder alignment.
+Ability to exhibit solid decision-making and problem-solving skills under operational pressure.
+Ability to communicate effectively verbally and in writing.
+
+
+Experience
+
+
+Typically requires nine or more years of relevant experience in release management, software delivery, technology operations or platform delivery.
+Typically requires seven or more years of management or supervisory experience.
+Experience leading release management across business-critical, high-availability payment processing services.
+Experience working across cloud-hosted and hybrid platforms, including AWS, Kubernetes, OpenShift, EKS, EC2, Helm, Jenkins and Terraform or equivalent tooling.
+Works under general direction of senior or executive technology management.
+Leads and mentors a team of Release Managers and associated release, deployment and platform delivery resources.
+Participates in the development of release methods, governance, programmes, operating models and people capability across GlobalPayments technology.
+Controls decisions across a broad release management function and acts as a project leader, escalation point and subject matter expert for complex release planning, deployment risk, operational readiness and production change.
+Provides input into strategic direction for release management, cloud deployment practices, DevOps adoption and platform delivery improvement.
+In some instances, this manager may have subordinate managers or supervisors.
+
+
+About The Team
+
+The Release team owns the planning, governance and safe execution of production change across WPG payment gateways, cloud platforms and supporting technology services. The team works closely with engineering, platform, product, service management, security, risk and compliance teams to ensure releases are predictable, controlled and delivered without negative customer or operational impact.
+
+What makes a Globalpayer?
+
+Globalpayers think like a client, act like an owner and win as one team. We’re curious and innovative – always finding better ways to deliver impact. We empower each other to make decisions, and it’s our passion that drives excellence in everything we set out to do.
+
+Does this sound like you? Then you sound like a Globalpayer. Apply now to take your career global.
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at Worldpay by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Director jobs
+Head of Release - Cambridge
+Similar jobs
+Change & Release Manager, AWS ProServe UKGI
+Change & Release Manager, AWS ProServe UKGI
+Amazon Web Services (AWS)
+Cambridge, England, United Kingdom
+17 hours ago
+Release Train Engineer
+Release Train Engineer
+Leidos
+Ham, England, United Kingdom
+1 week ago
+Change & Release Manager
+Change & Release Manager
+Halfords
+Worcestershire, England, United Kingdom
+£55,000 - £70,000
+1 month ago
+Change & Release Manager, AWS ProServe UKGI
+Change & Release Manager, AWS ProServe UKGI
+Amazon Web Services (AWS)
+Bristol, England, United Kingdom
+17 hours ago
+Service Transition Manager
+Service Transition Manager
+Wiltshire Police
+Devizes, England, United Kingdom
+6 days ago
+Platform Manager
+Platform Manager
+Map Room
+Gloucestershire, England, United Kingdom
+1 week ago
+Show more jobs like this 
+People also viewed
+Head of Program Management
+Head of Program Management
+
+Elastic Ltd
+
+Oxford, England, United Kingdom
+£60,000 - £80,000
+2 weeks ago
+Director, Systems Software
+Director, Systems Software
+
+IonQ
+
+Oxford, England, United Kingdom
+1 month ago
+Delivery Manager
+Delivery Manager
+
+Narwhal Labs
+
+City Of Bristol, England, United Kingdom
+2 days ago
+Business Systems Lead
+Business Systems Lead
+
+Rowden
+
+Filton, England, United Kingdom
+1 week ago
+Project Manager II
+Project Manager II
+
+RELX
+
+Oxford, England, United Kingdom
+2 months ago
+Lead Configuration and Change Manager
+Lead Configuration and Change Manager
+
+Leonardo
+
+Bristol, England, United Kingdom
+£70,000 - £76,000
+1 week ago
+Connected Vehicle Transformation Manager
+Connected Vehicle Transformation Manager
+
+Aston Martin Lagonda Ltd
+
+Gaydon, England, United Kingdom
+1 week ago
+Programme Manager
+Programme Manager
+
+SR2
+
+Oxford, England, United Kingdom
+2 weeks ago
+Head of Project Management
+Head of Project Management
+
+ICOMAT
+
+Gloucester, England, United Kingdom
+1 month ago
+Management Consultant - Senior And Lead Level
+Management Consultant - Senior And Lead Level
+
+Quick Release_
+
+Bristol, England, United Kingdom
+3 months ago
+Similar Searches
+Director jobs
+156,873 open jobs
+Chief Knowledge Officer jobs
+21 open jobs
+Head Soccer Coach jobs
+29 open jobs
+New Business Sales Manager jobs
+2,643 open jobs
+Head Volleyball Coach jobs
+18 open jobs
+Head of Analytics jobs
+1,148 open jobs
+Head of Data Management jobs
+1,601 open jobs
+Head of Faculty jobs
+166 open jobs
+Head of Music jobs
+1,364 open jobs
+Chief Psychologist jobs
+604 open jobs
+Director of Sustainability jobs
+707 open jobs
+Head of Risk jobs
+2,556 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Worldpay
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

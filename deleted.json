@@ -4571,5 +4571,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Lead Delivery Engineer",
+    "company": "Jagex: The RuneScape Company",
+    "location": "Cambridge, England, United Kingdom",
+    "url": "https://uk.linkedin.com/jobs/view/lead-delivery-engineer-at-jagex-the-runescape-company-4448280613",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires the applicant to have the permanent right to work in the UK and explicitly states no visa sponsorship is available, which disqualifies Priya as she would need employer-sponsored work visa for UK roles.",
+    "id": "b6c15534",
+    "source": "linkedin_uk_release_manager",
+    "added_at": "2026-10-08T07:28:46+03:00",
+    "posted_date": "2026-09-17",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
