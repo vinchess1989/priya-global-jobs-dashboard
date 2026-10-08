@@ -1,0 +1,208 @@
+Title: Build & Deployment Manager - JFrog Artifactory
+Company: Yesterday by Proactive Appointments
+Location: London, UK
+URL: https://www.reed.co.uk/jobs/build-deployment-manager-jfrog-artifactory/57426578
+Posted: 2026-10-07
+Deadline: Open until filled
+Reason: The job aligns with Priya's expertise in CI/CD (JFrog Artifactory, GitHub Actions), configuration management, and regulated environments (matches her Elektrobit/Topcon background). Location is London, UK (target country), and role fits 'DevOps Engineer'/'Configuration Manager' categories.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Jobs
+Courses
+Career advice
+Recruiting? Post a job
+Register CV
+Saved jobs
+Sign in
+What
+Where
+Search jobs
+Browse jobs
+Search results
+Home
+Information Technology
+Manager
+Job details
+FeaturedNewEasy Apply
+Build & Deployment Manager - JFrog Artifactory
+Yesterday by Proactive Appointments
+£600 - £635 per day
+London
+Contract, full-time
+Apply now
+Save
+Full job description
+
+Build & Deployment Manager - JFrog Artifactory
+
+4 days onsite - Inside IR35
+
+Our client, a leading global financial services organisation, is looking for an experienced Build & Deployment Manager to join its engineering function and take ownership of secure software delivery and supply-chain controls across a complex, regulated technology environment.
+
+This is a hands-on engineering role, focused on building, administering and continuously improving enterprise DevSecOps capabilities. You’ll work across JFrog Artifactory and Xray, GitHub Enterprise, CI/CD platforms and ServiceNow, helping development teams build, secure, package, deploy and manage software through repeatable, auditable pipelines.
+
+The Role
+
+You’ll provide technical ownership of secure software supply-chain controls across the organisation. You’ll work closely with engineering, security and application teams to embed appropriate security controls into delivery pipelines without creating unnecessary friction.
+
+Your responsibilities will include:
+
+Administering and supporting JFrog Artifactory and Xray, including repositories, permissions, package promotion, build information, retention policies and scanning.
+
+Designing, implementing and supporting secure CI/CD pipelines across multiple technology stacks.
+
+Managing GitHub Enterprise, including repositories, branching, pull requests, permissions, releases and integration with security/build tooling.
+
+Embedding security controls including SAST, software composition analysis, dependency and artefact scanning, secrets detection, SBOM generation and policy-based gates.
+
+Managing vulnerabilities from initial discovery and technical triage through ownership, prioritisation, remediation, validation and evidence-based closure.
+
+Integrating vulnerability and software asset information with ServiceNow, supporting accurate application/service mapping and remediation tracking.
+
+Automating processes using PowerShell, Bash, Python or equivalent, REST APIs and configuration-as-code.
+
+Supporting build and deployment technologies such as TeamCity, Octopus Deploy, GitHub Actions and Azure DevOps.
+
+Troubleshooting complex issues across source control, pipelines, dependencies, build agents, repositories, security tooling, deployment platforms and target environments.
+
+Producing technical designs, reusable pipeline standards, operating procedures, support documentation and audit evidence.
+
+Working within formal change, incident, problem, release and vulnerability-management processes.
+
+What We’re Looking For
+
+We’re seeking an engineer with strong practical experience in DevSecOps, platform engineering or enterprise build and release engineering, ideally gained within a complex or regulated environment.
+
+You should have:
+
+Strong hands-on experience with JFrog Artifactory and Xray.
+
+Proven experience designing and supporting secure CI/CD pipelines.
+
+Strong knowledge of GitHub Enterprise and modern source-control practices.
+
+A good understanding of artefact repositories, package managers, dependency management, immutable artefacts, provenance and controlled promotion.
+
+Practical knowledge of secure coding, OWASP, application vulnerabilities and remediation approaches.
+
+Experience managing vulnerabilities throughout their complete lifecycle.
+
+Experience integrating security/vulnerability tooling with ServiceNow, ideally Vulnerability Response or Application Vulnerability Response.
+
+Strong scripting and automation skills, alongside experience working with REST APIs and configuration-as-code.
+
+Working knowledge of Windows and Linux build agents, credentials, certificates, TLS, secrets management, logging and access controls.
+
+The ability to investigate and resolve complex technical issues across the software delivery lifecycle.
+
+Experience with JFrog Advanced Security/Curation, GitHub Advanced Security, CodeQL, Dependabot, Terraform, Docker, Kubernetes, SBOMs, software signing/attestation or cloud-native platforms would be highly advantageous.
+
+Knowledge of Java, .NET, JavaScript/TypeScript, Python or Go is useful, but this is not an application-development role. We’re primarily interested in your ability to understand different development ecosystems and engineer secure, reliable delivery processes.
+
+Build & Deployment Manager - JFrog Artifactory
+
+
+
+
+Due to the volume of applications received for positions, it will not be possible to respond to all applications and only applicants who are considered suitable for interview will be contacted.
+
+Proactive Appointments Limited operates as an employment agency and employment business and is an equal opportunities organisation
+
+We take our obligations to protect your personal data very seriously. Any information provided to us will be processed as detailed in our Privacy Notice, a copy of which can be found on our website http://proactive.it/privacy-notice/
+
+Share
+Hide
+Add skills to your profile and be found by recruiters.
+Create profile
+Similar Jobs
+Easy Apply
+Build & Deployment Engineer
+28 September by Deerfoot Recruitment Solutions Ltd
+Competitive salary
+City of London, London
+Contract, full-time
+See more jobs like this
+Recommended courses
+Mastering Jenkins CI with Amazon AWS: Build DevOps Pipeline
+Online, Self-paced
+£15
+AWS CodePipeline: DevOps CI/CD Masterclass 2023
+Online, Self-paced
+£15
+Microsoft Certified Azure Developer Associate
+Online, Self-paced
+£495
+View Software testing courses
+Reference: 57426578
+Please note that Reed.co.uk will only ask for passport or driving licence details where necessary and through official, secure channels.
+Report this job 
+Create alerts for similar jobs
+Build & Deployment Manager - JFrog Artifactory
+London
+Edit
+Email address
+Create alert
+By creating an alert, you agree to the Terms and conditions applicable to our service and acknowledge that your personal data will be used in accordance with our Privacy policy and you will receive emails and communications about jobs and career related topics.
+Posted by Proactive Appointments
+View all jobs and profile
+JOBS
+Contact us
+Job search
+Recruiter directory
+Remote jobs
+Browse jobs
+Browse locations
+Popular searches
+Career advice
+Tax calculator
+Average salary checker
+Help
+Contact a REED office
+Sitemap
+RECRUITER
+Recruiter site
+Post a job
+CV Search
+Recruitment agencies
+Recruiter Advice
+COURSES
+Help
+Contact us
+Find a course
+View all subjects
+Discount courses
+Free courses
+Awarding body directory
+Career guides
+Advertise a course
+Courses sitemap
+MORE FROM Reed.co.uk
+About us
+Careers at Reed.co.uk
+Press office
+Corporate governance
+Modern slavery statement
+REED
+Tempzone: timesheets & holiday
+Authorise timesheets
+Reed Group Services
+Reed Specialist Recruitment
+Reed Learning
+Reed in Partnership
+Careers with REED
+James Reed - Official Site
+Podcast - James Reed: all about business
+ESG & sustainability
+Learn how Reed is leading the way in philanthropy
+Introducing our new podcast
+New
+
+James Reed: all about business
+
+Listen here
+Manage Preferences,Security, Privacy, Terms & Conditions
+
+COPYRIGHT © Reed.co.uk 2026
