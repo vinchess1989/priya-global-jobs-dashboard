@@ -1,0 +1,313 @@
+Title: Release, Delivery & Scrum Lead
+Company: Sightview Software
+Location: Noida, Uttar Pradesh, India
+URL: https://in.linkedin.com/jobs/view/release-delivery-scrum-lead-at-sightview-software-4476721189
+Posted: 2026-10-08
+Deadline: N/A
+Reason: The role aligns with Priya’s expertise in release management, configuration management, and technical documentation, and is located in India (a target country) with no explicit visa sponsorship restrictions.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Release, Delivery & Scrum Lead
+Sightview Software  Noida, Uttar Pradesh, India
+20 hours ago  87 applicants
+  
+
+See who Sightview Software has hired for this role
+
+Apply 
+Save
+Sightview Software provided pay range
+
+This range is provided by Sightview Software. Your actual pay will be based on your skills and experience — talk with your recruiter to learn more.
+
+Base pay range
+$30,000.00/yr - $40,000.00/yr
+About Sightview
+
+Sightview Software LLC provides a suite of industry-leading software specifically geared toward ophthalmology and optometry practices — practice management, surgical, revenue cycle management (RCM), MIPS reporting, and more. Sightview is a one-stop shop for eye care specialists and their patients.
+
+Engagement
+
+
+Integrity
+Collaboration
+Resilience
+Accountability
+
+
+Job Summary
+
+The Release & Delivery Lead is the single accountable owner of how Sightview ships. This role owns the release calendar and Change Control Board process end-to-end, defines and enforces the checkpoints before, during, and after every deployment, and keeps internal teams and customer-facing stakeholders informed of what’s coming, when, and what it means for them. The Release & Delivery Lead also serves as Scrum Master for one or more delivery teams, bringing agile discipline to planning and execution, and partners closely with Engineering, QA, DevOps, Product, and Support to protect the reliability of every release our customers depend on for patient care.
+
+Essential Duties & Responsibilities
+
+Release Coordination
+
+
+Own the release calendar for our products and coordinate scope, timing, and readiness with Engineering, QA, DevOps, Product, and Support.
+Run the Change Control Board (CCB) process, gather decision evidence, and coach the organization on the process elements.
+Facilitate release readiness (go/no-go) reviews and bring the right people together to assess tradeoffs and reach go/no-go decisions based on clear entry/exit criteria.
+Track release scope in Jira (fix versions, release tickets, dependencies) and keep status visible to stakeholders.
+Identify and track release risks, dependencies, and blockers early, and drive them to resolution or escalation in partnership with stakeholders.
+
+
+Deployment Process and Checkpoints
+
+
+Document and maintain the pre-, intra-, and post-deployment processes, checklists, and runbooks in Confluence.
+Define clear checkpoints and owners for each phase: code freeze, regression sign-off, change approval, deployment window, smoke testing, rollback decision, and post-release validation.
+Coordinate live deployment events and act as the single point of coordination while a release is in flight.
+Lead post-release reviews and retrospectives, capture lessons learned, and turn them into process improvements.
+Keep release documentation audit-ready for regulated and compliance-driven reviews.
+
+
+Agile Delivery
+
+
+Serve as Scrum Master for one or more teams: facilitate planning, stand-ups, reviews, and retrospectives.
+Coach teams and stakeholders on Scrum and Agile practices, and remove impediments to delivery.
+Help plan and align work across teams (PI Planning or equivalent) and manage cross-team dependencies.
+Track and report delivery metrics such as velocity, predictability, cycle time, release frequency, and escaped defects.
+
+
+Communication
+
+
+Own internal release communications: release plans, deployment notices, status updates, and outage or maintenance notices.
+Partner with Product, Support, Customer Success, and Marketing on customer-facing communications, including release notes, maintenance windows, and feature announcements.
+Keep Support and customer-facing teams ready for each release with known issues, changes that affect workflows, and FAQs.
+Give leadership concise, reliable updates on release health and delivery status.
+
+
+Required Qualifications
+
+
+5+ years in software delivery, release management, or agile project delivery.
+3+ years as a Scrum Master on software development teams.
+A proven record of coordinating production releases across several teams and functions.
+Experience writing and maintaining process documentation, runbooks, and checklists.
+Excellent written and spoken English, with the ability to write a clear deployment notice for engineers and a plain-language release summary for customers or executives.
+Hands-on experience with Jira (boards, fix versions, filters/JQL, dashboards) and Confluence.
+Daily fluency with Microsoft 365, including Teams, Outlook, SharePoint, and Excel.
+Comfort facilitating meetings with a wide range of people, from engineers to executives to customers.
+Strong organization and follow-through, with the ability to juggle several release trains and deadlines.
+Enough technical grounding to follow deployment pipelines, environments, and release risks, and to ask engineers the right questions.
+
+
+Preferred Qualifications
+
+
+Experience as a Release Train Engineer (RTE) in SAFe, or leading releases across several Scrum teams (Scrum of Scrums).
+Certifications such as SAFe RTE, SAFe Scrum Master (SSM), PSM, CSM, or ITIL 4 Foundation.
+A technical background, such as prior work as a developer, QA engineer, systems administrator, or DevOps engineer.
+Familiarity with CI/CD, cloud infrastructure (AWS preferred), environment management, and rollback strategies.
+Health IT experience, especially EHR/EMR, practice management, or other clinical software.
+Experience with multi-tenant SaaS products and customer-facing maintenance windows.
+Experience in regulated environments, such as HIPAA, ONC Health IT Certification, or SOC 2.
+Experience with ITSM or change management practices (CAB, change records, release approvals).
+Experience working alongside a support organization (for example HubSpot or Zendesk) to connect releases with customer issues.
+
+
+Physical Requirements & Work Environment
+
+
+Prolonged periods of sitting at a desk and working on a computer
+Regular use of a keyboard, mouse, and monitor, requiring repetitive hand and wrist motion
+Ability to communicate clearly by phone, video conference, and in person
+Ability to read and interpret information on a computer screen and in printed documents
+Occasional standing, walking, bending, and reaching within a home or office environment
+Ability to occasionally lift and move office supplies or equipment weighing up to 15 pounds
+
+
+Compensation & Benefits
+
+Compensation for this role is paid in local currency and will be confirmed based on experience, qualifications, and location. [Benefits package to be confirmed — this role is based in India or the Philippines and is expected to be administered through Sightview’s local employer-of-record provider rather than Sightview’s U.S. benefits plans; do not default to the U.S. medical/dental/vision/401(k) package used on domestic JDs.]
+
+BACKGROUND CHECK & DRUG-FREE WORKPLACE
+
+[Confirm background-check and any drug-testing requirements with local counsel or Sightview’s employer-of-record provider before posting — the standard U.S. paragraph used on domestic JDs, including the marijuana-testing carve-out, may not apply or be appropriate for a role based in India or the Philippines.]
+
+EQUAL EMPLOYMENT OPPORTUNITY
+
+Sightview is an equal opportunity employer and recruits, hires, trains, and promotes without regard to any characteristic protected by applicable law in the country where this role is based. [Confirm the specific protected-characteristic language applicable under India/Philippines law with local counsel before posting — the U.S. Title VII/ADA-style list used on domestic JDs does not map directly to either jurisdiction.]
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Sightview Software by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Project Manager
+Project Manager
+Dario
+Gurugram, Haryana, India
+3 weeks ago
+Product Owner, VP
+Product Owner, VP
+NatWest Group
+Gurugram, Haryana, India
+1 day ago
+Senior Product Release Manager
+Senior Product Release Manager
+Comviva
+Gurugram, Haryana, India
+6 days ago
+Technical Delivery Manager
+Technical Delivery Manager
+AppSquadz
+Noida, Uttar Pradesh, India
+2 weeks ago
+Technical Program Manager
+Technical Program Manager
+Graviton Research Capital
+Gurugram, Haryana, India
+2 weeks ago
+Program/Project Management Lead
+Program/Project Management Lead
+Accenture in India
+Gurugram, Haryana, India
+1 week ago
+Show more jobs like this 
+People also viewed
+Senior Technical Program Manager
+Senior Technical Program Manager
+
+Globeia
+
+Gurugram, Haryana, India
+4 hours ago
+Offshore Delivery Lead
+Offshore Delivery Lead
+
+EXL
+
+Gurugram, Haryana, India
+5 days ago
+1970750-Senior Manager
+1970750-Senior Manager
+
+EXL
+
+Gurugram, Haryana, India
+1 week ago
+Technical Project Manager
+Technical Project Manager
+
+Xceedance
+
+Gurugram, Haryana, India
+1 week ago
+Project manager
+Project manager
+
+Enveu
+
+Noida, Uttar Pradesh, India
+2 months ago
+Agile Scrum Master - Integrations & Delivery
+Agile Scrum Master - Integrations & Delivery
+
+Makse Group
+
+Gurugram, Haryana, India
+2 months ago
+Programme Manager
+Programme Manager
+
+National e-Governance Division
+
+New Delhi, Delhi, India
+3 days ago
+Custom Software Engineer
+Custom Software Engineer
+
+Accenture in India
+
+Gurugram, Haryana, India
+1 week ago
+Project Manager
+Project Manager
+
+Primathon
+
+Gurgaon, Haryana, India
+4 months ago
+Technical Program Manager - Underwriting
+Technical Program Manager - Underwriting
+
+Talentiser
+
+Chennai, Tamil Nadu, India
+20 hours ago
+Similar Searches
+Unix Consultant jobs
+623 open jobs
+Delivery Manager jobs
+14,404 open jobs
+Agile Coach jobs
+1,905 open jobs
+Datacenter Administrator jobs
+845 open jobs
+Release Engineer jobs
+3,467 open jobs
+Scrum Master jobs
+9,144 open jobs
+Service Delivery Consultant jobs
+3,099 open jobs
+Release Manager jobs
+5,638 open jobs
+Fund Accounting Supervisor jobs
+188 open jobs
+Project Manager Scrum Master jobs
+2,543 open jobs
+Service Delivery Director jobs
+170 open jobs
+Network Services Manager jobs
+511 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

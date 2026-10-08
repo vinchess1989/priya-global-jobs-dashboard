@@ -1,0 +1,335 @@
+Title: Enterprise Release Manager
+Company: Tavant
+Location: Bengaluru, Karnataka, India
+URL: https://in.linkedin.com/jobs/view/enterprise-release-manager-at-tavant-4476135710
+Posted: 2026-10-06
+Deadline: N/A
+Reason: The role aligns with Priya's expertise in release management and configuration strategies, fits within her target countries (India), and matches her background in regulated environments.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Enterprise Release Manager
+Tavant  Bengaluru, Karnataka, India
+2 days ago  131 applicants
+  
+
+See who Tavant has hired for this role
+
+Apply 
+Save
+
+Req 1838
+Title: Release Manager
+
+Duration: 1 year
+
+Location: offshore
+
+Max Billing Rate: submit at your rate
+ 
+
+Position Summary
+
+We are seeking an experienced Enterprise Release Manager to lead the planning, governance, coordination, and execution of technology releases across a complex mortgage servicing and lending ecosystem. This individual will serve as the central point of orchestration between Technology, Product, Infrastructure, Security, Operations, Vendors, and Business stakeholders to ensure releases are delivered safely, efficiently, and with minimal business risk.
+
+The ideal candidate is a confident communicator, strategic thinker, and highly organized leader who can balance technical understanding with business priorities. They must be comfortable engaging with executive leadership, facilitating enterprise-level discussions, influencing decisions across multiple organizations, and communicating complex topics in a clear and concise manner.
+
+This role is responsible for driving release excellence, deployment governance, operational readiness, dependency management, risk mitigation, and continuous improvement practices while supporting an Agile and DevOps delivery model.
+
+Key Responsibilities
+
+Enterprise Release Governance
+
+Lead end-to-end release planning, scheduling, coordination, and execution across multiple technology portfolios.
+Establish and enforce release management standards, policies, procedures, and controls.
+Govern release calendars and enterprise deployment schedules to minimize production risk and business disruption.
+Drive release readiness reviews and go/no-go decision processes.
+Ensure alignment between Release Management, Change Management, Incident Management, Problem Management, and Service Delivery processes.
+
+Mortgage Technology Delivery
+
+Coordinate releases supporting mortgage origination, servicing, customer portals, mobile applications, integrations, regulatory platforms, and enterprise infrastructure.
+Assess release impacts across business services, applications, APIs, data flows, and dependent systems.
+Partner with product, engineering, architecture, and operations teams to ensure smooth implementation of strategic initiatives.
+
+Risk & Operational Readiness
+
+Identify release risks, dependencies, constraints, and mitigation strategies.
+Validate deployment readiness including:
+Testing completion
+Rollback plans
+Support readiness
+Monitoring capabilities
+Disaster recovery considerations
+Vendor dependencies
+Facilitate post-release reviews and drive lessons learned activities.
+
+CMDB & Application Dependency Management
+
+Leverage CMDB data, application mapping, and service ownership models to improve release impact analysis.
+Ensure release decisions are supported by accurate configuration and dependency information.
+Partner with engineering teams to enhance visibility of application-to-application dependencies.
+Utilize service mapping and configuration management practices to reduce release-related risk.
+
+Executive Communication & Leadership
+
+Present release strategy, risks, readiness, and outcomes to executive leadership.
+Lead cross-functional discussions involving Directors, Vice Presidents, SVPs, CIOs, and business executives.
+Translate complex technical topics into business-focused communications.
+Drive accountability across technology and business teams while maintaining strong stakeholder relationships.
+
+Continuous Improvement
+
+Develop metrics and executive reporting on release performance.
+Analyze trends related to release success, deployment quality, incidents, and failed changes.
+Drive automation opportunities within release pipelines and release governance workflows.
+Promote best practices aligned with ITIL, Agile, DevOps, and Site Reliability Engineering principles.
+
+Required Qualifications
+
+Experience
+
+10+ years of experience in Technology Delivery, Release Management, Change Management, Program Management, or IT Service Management.
+Experience supporting large-scale enterprise technology environments.
+Experience within mortgage servicing, mortgage originations, financial services, banking, or highly regulated industries.
+Proven success managing complex, multi-team releases with executive visibility.
+Experience working with both internal delivery teams and third-party vendors.
+
+Leadership Attributes
+
+Exceptional executive presence and communication skills.
+Ability to confidently facilitate meetings with senior leadership.
+Strong verbal, written, presentation, and negotiation skills.
+Demonstrated ability to influence without direct authority.
+Comfortable making decisions in high-pressure and time-sensitive situations.
+Strong organizational, prioritization, and planning capabilities.
+Ability to balance competing priorities while maintaining strategic focus.
+
+Technical Knowledge
+
+Strong understanding of:
+Release Management
+ITSM – MIM/INC/PRB
+CMDB Management
+Service Mapping and Application Dependency Mapping
+SDLC Methodologies
+Agile Delivery
+DevOps Practices
+Working knowledge of cloud environments, APIs, enterprise applications, and infrastructure technologies.
+
+Preferred Certifications
+
+Highly Preferred
+
+ITIL® 4 Managing Professional (MP) or ITIL® 4 Strategic Leader (SL)
+Project Management Professional (PMP)
+Certified ScrumMaster (CSM) or Professional Scrum Master (PSM)
+
+Preferred
+
+SAFe Release Train Engineer (RTE)
+SAFe Agilist (SA)
+DevOps Foundation
+AWS Cloud Practitioner, Azure Fundamentals, or equivalent cloud certification
+ServiceNow Certified System Administrator or ServiceNow Implementation Certification
+
+Success Profile
+
+The successful candidate will be:
+
+An enterprise-level communicator who can confidently engage executives and technology leaders.
+Highly intelligent and analytical with strong business acumen.
+Exceptionally organized and detail-oriented.
+Comfortable challenging teams when release risk introduces operational instability.
+Focused on operational excellence and continuous improvement.
+Skilled at connecting technical execution to business outcomes.
+Able to lead through influence, collaboration, and accountability.
+Passionate about creating predictable, safe, and scalable release practices across the organization.
+
+Executive-Level Differentiator
+
+This individual is not simply coordinating deployments; they are serving as the enterprise authority for release readiness, deployment risk, operational stability, and service protection across the mortgage technology landscape while providing leadership-level communication to executives and stakeholders. They must be viewed as a trusted advisor capable of speaking comfortably with engineering teams one moment and CIO/CISO leadership the next.
+
+ 
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Technology, Information and Media
+  
+
+Referrals increase your chances of interviewing at Tavant by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Senior Release Management , Vice President
+Senior Release Management , Vice President
+State Street
+Bengaluru, Karnataka, India
+2 weeks ago
+Release Manager
+Release Manager
+Rakuten India
+Greater Bengaluru Area
+1 week ago
+Change And Release Manager- BSS Domain
+Change And Release Manager- BSS Domain
+Rakuten India
+Bengaluru, Karnataka, India
+3 days ago
+Release Manager
+Release Manager
+Thoucentric
+Bengaluru, Karnataka, India
+7 months ago
+Senior Configuration and Delivery Manager
+Senior Configuration and Delivery Manager
+WSP in India
+Bengaluru, Karnataka, India
+5 days ago
+Release Management Senior
+Release Management Senior
+HP
+Bengaluru, Karnataka, India
+2 months ago
+Show more jobs like this 
+People also viewed
+Engineering Program Manager
+Engineering Program Manager
+
+Cisco
+
+Bengaluru, Karnataka, India
+2 weeks ago
+Transition Leader
+Transition Leader
+
+3M
+
+Bengaluru, Karnataka, India
+2 days ago
+STAFF, TECHNICAL PROGRAM MANAGER
+STAFF, TECHNICAL PROGRAM MANAGER
+
+Walmart Global Tech India
+
+Bengaluru, Karnataka, India
+2 days ago
+Software Engineering Manager- Build and Release Engineering
+Software Engineering Manager- Build and Release Engineering
+
+Hewlett Packard Enterprise
+
+Bengaluru, Karnataka, India
+1 week ago
+Delivery Manager
+Delivery Manager
+
+NTT DATA North America
+
+Bangalore Urban, Karnataka, India
+1 day ago
+Staff Manager, Technical Delivery Management, Java, Microservices, AI driven software product development
+Staff Manager, Technical Delivery Management, Java, Microservices, AI driven software product development
+
+HARMAN India
+
+Bengaluru, Karnataka, India
+2 weeks ago
+Sr. Manager - Java Development
+Sr. Manager - Java Development
+
+Standard Chartered India
+
+Bengaluru East, Karnataka, India
+2 days ago
+Program Manager
+Program Manager
+
+SourcingXPress
+
+Bengaluru, Karnataka, India
+₹1,500,000 - ₹2,500,000
+1 month ago
+Release Management Associate
+Release Management Associate
+
+Halliburton
+
+Bengaluru, Karnataka, India
+1 week ago
+IMUAM Deployment Manager
+IMUAM Deployment Manager
+
+Johnson & Johnson Innovative Medicine
+
+Bengaluru, Karnataka, India
+3 days ago
+Similar Searches
+Change And Release Manager jobs
+184 open jobs
+Software Configuration Manager jobs
+7,612 open jobs
+Unix Consultant jobs
+623 open jobs
+Release Engineer jobs
+3,467 open jobs
+Deployment Manager jobs
+4,865 open jobs
+Build And Release Engineer jobs
+3,712 open jobs
+SAP Basis Team Lead jobs
+194 open jobs
+Software Release Engineer jobs
+346 open jobs
+Configuration Manager jobs
+1,407 open jobs
+Change Manager jobs
+8,241 open jobs
+Problem Manager jobs
+2,374 open jobs
+Contract Test Engineer jobs
+920 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
