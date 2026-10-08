@@ -4588,5 +4588,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Senior Project Manager",
+    "company": "CarTrawler",
+    "location": "Dublin, County Dublin, Ireland",
+    "url": "https://ie.linkedin.com/jobs/view/senior-project-manager-at-cartrawler-4476185979",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires an existing right to work in Ireland without sponsorship, which Priya does not have, and the posting explicitly states no sponsorship is available.",
+    "id": "09d794f9",
+    "source": "linkedin_ie_release_manager",
+    "added_at": "2026-10-08T08:27:11+03:00",
+    "posted_date": "2026-10-07",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]

@@ -1,0 +1,344 @@
+Title: DevOps Manager
+Company: Everseen
+Location: Cork, County Cork, Ireland
+URL: https://ie.linkedin.com/jobs/view/devops-manager-at-everseen-4474902234
+Posted: 2026-10-07
+Deadline: N/A
+Reason: The job as a DevOps Manager at Everseen in Cork, Ireland matches Priya's expertise in CI/CD pipelines, automation, and release management, along with her experience in regulated industries and technical documentation.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Manager
+Everseen  Cork, County Cork, Ireland
+1 day ago   Be among the first 25 applicants
+  
+
+See who Everseen has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Everseen: A leader in vision AI solutions for the world’s leading retailers.
+
+The Role
+
+As a DevOps manager you will lead and grow a distributed, follow-the-sun DevOps Operations team that owns the L3 support function for our Edge/on-prem (OpenShift, k0s) and cloud platforms (AKS and GKE). Your primary responsibility is to deliver reliable operations at scale by establishing the processes, standards, and capabilities that enable fast, high-quality L3 resolution.
+
+You will foster tight, day-to-day collaboration between Operations and the DevOps engineering teams to ensure unified incident and change management across time zones.
+
+The primary objective is to deliver fast, regionally aligned L3 support for DevOps-related incidents and changes, streamline DevOps–Ops handoffs, and equip Ops with the tooling and automation needed to resolve more L1/L2 issues.
+
+Having a good understanding of our product, its components and their interactions is essential in troubleshooting and problem remediation.
+
+You will partner with DevOps engineering to automate and streamline existing workflows and processes.
+
+Ensuring timely, high-quality handling of requests will reduce incident duration and directly improve customer satisfaction.
+
+This role will allow you to take your career to the next level, working alongside industry experts and scaling an already successful global organization. You will work with cutting edge technologies in both Cloud and Edge environments.
+
+What You'll Do
+
+
+Develop team capabilities in automation, cloud and edge deployment, monitoring, troubleshooting and DevOps CI/CD pipelines.
+Drive continuous improvement initiatives and ensure alignment with business goals.
+
+
+Leadership
+
+
+Manage and lead the global DevOps L3 team. Manage the day-to-day running of the team and the projects.
+Overall responsibility for the projects that the team is working on. Acts as a point of escalation for the team.
+Works with senior leadership to create strategic goals for their team. Measures the performance of those goals.
+
+
+Teaching and Sharing Culture
+
+
+Shares skills, knowledge, and expertise with the team.
+Fosters a culture of collaboration and continuous learning by organizing training sessions, workshops, and knowledge-sharing sessions.
+Writes and maintains standard operations procedures (SOP) for new and existing applications and services.
+Keeps up-to-date on best practices and new technologies.
+Collaborates on technical architecture and system design.
+Evaluates existing components or systems to determine integration requirements and to ensure the final solutions meet organizational needs.
+Interacts with cross-functional management on high-profile technical operations while providing clear feedback and leadership to support teams.
+Authoring knowledge-base articles and driving internal knowledge sharing.
+Works in off-routine hours occasionally. Works with customers and travel to international customer or partner locations.
+
+
+Collaborating With
+
+
+Operations (Customer Deployment) teams: Collaborate with the Operations teams for troubleshooting and solving L3 tickets, create automations to reduce and optimize workload.
+DevOps Cloud and Edge teams: Work closely with the wider DevOps engineering teams, your manager, developers and QA engineers to understand requirements, provide technical guidance, and ensure smooth integration and deployment of our product.
+Security Team: Collaborate with the team to ensure the security of our cloud and edge solutions.
+
+
+Our Tech Stack
+
+
+At Everseen, you will have the opportunity to work with cutting-edge technology. Our stack includes:
+CI/CD Tools: GitLab CI/CD
+Cloud Platforms: Azure (AKS, Registry), GCP (GKE)
+Edge Platforms: Docker, Podman, Kubernetes(k0s) and Openshift
+Edge OS: RHEL, Ubuntu
+Automation Tools: Ansible (AWX), Jinja, Terraform
+Deployment Tools: Helm, Flux CD
+Observability: Prometheus, Loki, Grafana alloy, Grafana dashboards, Thanos
+Databases: Elasticsearch, MongoDB
+Authentication: Keycloak
+Scripting Languages: Python, Bash
+
+
+Profile And Skills
+
+
+Experience: Proven 3+ years experience as a DevOps Manager and previous experience as a DevOps/Automation Engineer, Linux Administrator or a combination of them.
+Management experience: Experience in building new teams and establishing processes and procedures.
+Linux & System Services: Basic understanding of local and distributed filesystems (ext4, xfs, NFS), storage migration, SSH tunneling, SCP, SFTP, web servers (Nginx, Apache), reverse proxying, and troubleshooting (logs, performance, connectivity).
+Containerization & Orchestration: Basic knowledge of Docker and Kubernetes/OpenShift, and virtualization solutions.
+Configuration Management & CI/CD: Experience with Ansible/Ansible Tower (or similar tools like Salt, Puppet, Chef), Jenkins/GitLab CI/CD (or equivalents like CircleCI, TeamCity), and Infrastructure as Code (IaC) using Terraform (or alternatives like Azure Automation, CloudFormation).
+Cloud & Version Control: Familiarity with Azure Cloud (or AWS, GCP), GIT for system versioning, and basic understanding of backup solutions.
+Scripting & Programming: Experience in Bash scripting and Python for automation and development tasks.
+Monitoring & Logging: Experience with monitoring tools like Node exporter, Prometheus, Grafana, and log collection solutions (e.g.,Prometheus, fluentd, logstash).
+Databases: Basic understanding of relational (MySQL, MariaDB) and NoSQL (Elasticsearch, MongoDB) databases, with hands-on experience writing queries.
+API & Data Formats: Hands-on experience with JSON and making Restful API calls.
+Software Engineering & Architecture: Broad understanding of software engineering principles, architecture, programming languages, frameworks, and industry trends, particularly in the AI space.
+
+
+Analytical And Problem-Solving Skills
+
+
+Possesses strong analytical and problem-solving abilities, leveraging data to inform product decisions. This skill is essential for identifying market opportunities, optimizing product features, and addressing challenges effectively.
+
+
+Communication Skills
+
+
+Excellent presentation, oral, and written communication skills. Fluent business English is a requirement.
+
+
+Customer Focus
+
+
+A passionate advocate for determining and delivering solutions with a high level of customer satisfaction.
+Ability to prioritize customer experience as a top priority in solution delivery.
+
+
+Interest in Learning and Growth Mindset
+
+
+Demonstrated interest in learning and a strong desire to expand knowledge in their respective field.
+Eagerness to explore new technologies, methodologies, and best practices to enhance skills and capabilities.
+Results-oriented attitude, with a drive to achieve objectives efficiently.
+
+
+Technical Leadership
+
+
+Capable of leading and engaging in technical discussions with stakeholders and beginning to lead smaller projects. Provide strategic and thought leadership to the team and stakeholders.
+AdviseS technology leaders, our product team, and other internal stakeholders to make technology decisions that grow and improve our products.
+
+
+Leadership
+
+
+Leads matrixed project teams from across the organization
+Coaches and mentors less experienced members of the team
+
+
+About Everseen
+
+Shrink and inefficiency cost global retailers more than a hundred billion dollars each year. But Everseen is changing that equation. We are a leader in vision AI, transforming business operations for global retailers by reducing shrink, improving operations, and delivering a better customer experience.
+
+Supporting 11 of the top 20 global retailers, Everseen’s AI innovations help retailers save millions of dollars every month. Its flagship product, Evercheck, is deployed in 10,000 retail stores and 150,000 checkouts globally. Everseen operates at unmatched scale, processing over 15 million transactions, and more than six petabytes of video data, daily.
+
+Trusted by major food, drug, mass, and specialty retailers around the world - including Kroger, Meijer, and Woolworths - we also partner with leading hardware, AI, and cloud computing providers such as Google, NVIDIA, NCR, and Dell.
+
+Founded in 2007 and headquartered in Cork, Ireland, Everseen has over 700 employees globally, with a European headquarters in Cork, Ireland, a U.S. headquarters in Miami, and hubs in Romania, Serbia, India, Australia, and Spain.
+
+We are a dedicated team of inventors, research scientists, engineers, AI experts and retail industry veterans. Our culture is built on accountability, collaboration, and high standards. We take ownership of outcomes, prioritise our customers, operate as one team, move quickly with purpose, and continually raise the bar in everything we deliver.
+
+Our Culture
+
+Our culture is built on ownership and accountability, we own outcomes, not tasks. We stay relentlessly customer-first, letting their needs shape our priorities and decisions.
+
+We work as one team: we challenge ideas, align quickly, and commit together. We move with pace, without compromising on simplicity or quality. And every day, we raise the bar, strengthening our talent, pushing innovation forward, and maximizing our impact.
+
+Our Values
+
+We OWN THE OUTCOME. No silos, no excuses.
+
+We ARE CUSTOMER-FIRST. They guide our decisions.
+
+We ARE ONE TEAM. Debate, decide, commit.
+
+We MOVE WITH PACE. With simplicity and quality.
+
+We RAISE THE BAR. On talent, innovation and impact.
+
+Our Commitment
+
+Everseen is committed to creating an environment where everyone can succeed. Our employees should feel a sense of belonging, have an opportunity to grow their careers, and feel free to be their most authentic selves. Everseen takes great pride in the diversity of its global workforce, and insists upon a safe, inclusive workplace where our differences are our collective strength. We treat each other with dignity, and respect, and require all employees, officers, and directors to seek to understand the importance and value to Everseen of diversity, and inclusion.
+
+Everseen is committed to creating a safe environment for all employees and has a zero tolerance policy for bias and discrimination of any kind. Our work environment is one without offensive, hostile, or intimidating conduct, whether verbal, written or physical, in nature. Everseen will not tolerate prejudice or discrimination of any kind including without limitation, where based on aspects such as, race, colour, sex, gender, religion, age, family status, disability of any kind, sexual orientation.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Everseen by 2x
+
+See who you know
+
+Get notified about new DevOps Manager jobs in Cork, County Cork, Ireland.
+
+Sign in to create job alert
+Similar jobs
+Lead DevOps Engineer
+Lead DevOps Engineer
+The Citco Group Limited
+Cork, County Cork, Ireland
+2 weeks ago
+Lead Cloud Operations Engineer | Cork Based
+Lead Cloud Operations Engineer | Cork Based
+OpenText
+Cork, County Cork, Ireland
+5 days ago
+Lead DevSecOps Engineer
+Lead DevSecOps Engineer
+McKesson
+Cork, County Cork, Ireland
+1 day ago
+Dev Ops Senior Engineer
+Dev Ops Senior Engineer
+Acuity
+Cork, County Cork, Ireland
+1 day ago
+Ops Engineer
+Ops Engineer
+NetApp
+County Cork, Ireland
+4 days ago
+Ops Engineer
+Ops Engineer
+NetApp
+Cork, County Cork, Ireland
+5 days ago
+Show more jobs like this 
+People also viewed
+Sr. Analyst / Manager - Automation Engineer
+Sr. Analyst / Manager - Automation Engineer
+
+Eli Lilly and Company
+
+Cork, County Cork, Ireland
+1 week ago
+Project Manager
+Project Manager
+
+Iarnród Éireann Irish Rail
+
+County Cork, Ireland
+€88,102.76 - €97,376.68
+1 week ago
+Associate Engineering Manager
+Associate Engineering Manager
+
+Stryker
+
+Cork, County Cork, Ireland
+1 week ago
+Regional Manager
+Regional Manager
+
+Horizons Cork
+
+Cork, County Cork, Ireland
+1 week ago
+Engineering Quality & Excellence Manager
+Engineering Quality & Excellence Manager
+
+AMCS Group
+
+Cork, County Cork, Ireland
+1 day ago
+Lead Site Reliability Engineer
+Lead Site Reliability Engineer
+
+OpenText
+
+Cork, County Cork, Ireland
+3 days ago
+Lead Site Reliability Engineer | Cork
+Lead Site Reliability Engineer | Cork
+
+OpenText
+
+Cork, County Cork, Ireland
+2 weeks ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+OpenText
+
+Cork, County Cork, Ireland
+2 weeks ago
+Sr. Site Reliability Administrator
+Sr. Site Reliability Administrator
+
+OpenText
+
+Cork, County Cork, Ireland
+3 weeks ago
+Sr. Site Reliability Engineer | Cork
+Sr. Site Reliability Engineer | Cork
+
+OpenText
+
+Cork, County Cork, Ireland
+1 week ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

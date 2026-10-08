@@ -1,0 +1,279 @@
+Title: DevOps Manager
+Company: Nutritics
+Location: Dublin, County Dublin, Ireland
+URL: https://ie.linkedin.com/jobs/view/devops-manager-at-nutritics-4474053940
+Posted: 2026-10-07
+Deadline: N/A
+Reason: The role aligns with DevOps Engineer criteria (CI/CD, infrastructure-as-code ownership), is located in Ireland (target country), and matches mid-senior experience level. The job explicitly mentions Azure and cloud strategy, which ties to her Elektrobit and Topcon regulated-industry CI/CD/release management background.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Manager
+Nutritics  Dublin, County Dublin, Ireland
+1 day ago  30 applicants
+  
+
+See who Nutritics has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+About Nutritics💥
+
+Nutritics is redefining how hospitality and foodservice businesses operate. We give organisations complete clarity and control over their food, menus, supply chains, and environmental impact. Trusted by 500+ customers worldwide, from contract caterers and restaurant groups to healthcare and education providers, we are the platform of choice for businesses that take food data seriously.
+
+
+
+
+Backed by PE investment, we're scaling rapidly across UK&I and entering the US market. Our ambition: to become the world's most trusted food information platform.
+
+
+
+
+You will own every production environment Nutritics runs, in Azure and in our data centre, and build the operations team around it. Nutritics, Ten Kites and QuickDish serve food businesses across Ireland, the UK, the US and the Middle East.
+
+
+
+
+This is a hands-on leadership role.You will lead security, reliability, observability, CI/CD and infrastructure as code across production, hands-on, while building and leading the team that runs it alongside you.
+
+
+
+
+Main Responsibilities💻
+
+Own production. Accountable for the availability, performance, security and cost of every production environment across our product portfolio, spanning Azure and a co-located data centre.
+Build and lead the team. Hire, develop and lead a platform and operations team, growing the function as the business scales.
+Reliability and incident response. Define service level objectives and own backup, disaster recovery and business continuity. Lead and mature our incident response capability: severity model, on-call rota, runbooks, status communications and blameless post-incident reviews, backed by centralised logging, error tracking, database profiling and alerting so we detect and resolve issues proactively.
+CI/CD and developer enablement. Own and evolve continuous integration and deployment across all product stacks, with automated builds, test and security gates, and trunk-based development, working closely with engineering teams so shipping is fast and safe.
+Infrastructure as code. Every environment and region is defined in code and reproducible from source control. You choose and standardise the tooling across our estate.
+Cloud strategy and regional expansion. Lead the long-term evolution of our hosting, including cloud migration and new regional deployments that meet customer data residency requirements.
+Platform security. Own platform-level security controls including perimeter protection, secrets management, identity and access, and vulnerability and patch management
+DevSecOps. Build security into how we ship software, not just where it runs. Embed automated security testing across the delivery pipeline, including static and dynamic code analysis, dependency and container scanning, secrets detection and infrastructure-as-code checks, with clear policies on what blocks a release. Work with engineering teams to make secure-by-default the easy path, through hardened templates, threat modelling on significant changes, and fast feedback developers can act on.
+FinOps and vendors. Own the infrastructure budget and forecast, report cost per product and environment, set reserved capacity strategy, and manage hosting and infrastructure suppliers, so unit cost falls as we grow.
+
+
+
+
+Career Progression and Development🚀
+
+At Nutritics, growth is built into how we operate and we believe that the best way for our business to grow is for our people to grow. As we scale internationally with the backing of private equity investment, we create real opportunities for people to stretch their skills, take on new challenges, and shape the future of our platform and our industry.
+
+You can expect:
+
+Impact and Recognition: Join a team delivering significant global growth where you can feel and see the direct impact of your individual contributions.
+Expert Collaboration: Learn from working alongside an experienced management team and market leading clients around the world.
+Structured Growth: Benefit from bi-annual performance reviews and a personalised career development plan tailored to your ambitions.
+Mentorship and Coaching: Access ongoing support and opportunities to expand your responsibilities as the business scales.
+Global Pathways: Take advantage of clear progression routes into senior leadership and specialist roles as we continue our international expansion.
+
+
+
+
+The Ideal candidate will have🙌
+
+Eight or more years running production systems, including being the person on the hook when they fail.
+Deep AWS / Azure knowledge: networking, identity, managed SQL and MySQL, multi-region design. You have moved a workload from a data centre to cloud before.
+Comfortable working across multiple technology stacks: Windows, SQL Server and .NET on one side; Linux, MySQL and PHP on the other.
+Infrastructure as code in anger: Ansible / Terraform / Bicep, with the discipline to rebuild an environment from a clean repo.
+Built CI/CD from the ground up, including for a team migrating off TFS or similar legacy tooling.
+Secrets management, WAF and patching as routine, not projects.
+Fluent written and spoken English.
+The craic 😉
+
+Strong plus
+
+Operating in the US and Middle East from Ireland. GDPR and food-safety regulated data. Prior people management.
+
+
+
+
+Most Importantly👍
+
+Nutritics is a people first business scaling at a world class pace, and we are looking for individuals who align with our five core values: Team First, Open Communication, No Ego, Integrity, and The Rocket 🚀. We take our mission seriously but don’t take ourselves too seriously, fostering a collaborative spirit where transparency, openness and results are valued over hierarchy. By joining us, you become part of an award winning culture that balances high speed international growth with a genuine commitment to the wellbeing and development of every team member.
+
+
+
+
+Working with Nutritics💪
+
+25 days annual leave (plus public holidays), growing the longer you stay with us.
+Genuine work-life balance, with perks like summer hours and enhanced parenting leave.
+A generous allowance to support your health and wellbeing.
+Pension contributions matched by the company.
+Life Assurance cover.
+A competitive, market-aligned salary package.
+Corporate travel insurance.
+Real opportunities for career growth along diverse and rewarding paths.
+Ongoing training and development to help you build your skills.
+A supportive team of experienced, knowledgeable colleagues to learn from.
+
+
+
+
+Location and Hours of Work🌍
+
+Our weekly hours of work are 37.5 covering Monday to Friday. This is a hybrid role and we offer a lot of flexibility around core hours. This role can be based in Ireland, with a requirement to work from the local office one day every two weeks.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Nutritics by 2x
+
+See who you know
+
+Get notified about new DevOps Manager jobs in Dublin, County Dublin, Ireland.
+
+Sign in to create job alert
+Similar jobs
+DevOps Engineering Manager
+DevOps Engineering Manager
+Gong
+Dublin, County Dublin, Ireland
+2 weeks ago
+Engineering Manager, Infrastructure
+Engineering Manager, Infrastructure
+Protex AI
+Dublin, County Dublin, Ireland
+13 hours ago
+Platform Engineering Lead
+Platform Engineering Lead
+BOYLE Sports
+Dundalk, County Louth, Ireland
+6 months ago
+Site Reliability Engineering Manager (Software) - Apple Services Engineering, Dublin
+Site Reliability Engineering Manager (Software) - Apple Services Engineering, Dublin
+Apple
+Dublin, County Dublin, Ireland
+1 month ago
+Sr Manager, Cloud Engineering
+Sr Manager, Cloud Engineering
+eBay
+Dublin, County Dublin, Ireland
+1 day ago
+Senior Manager of SRE
+Senior Manager of SRE
+JPMorganChase
+Dublin, County Dublin, Ireland
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Newcode.ai
+
+Dublin, County Dublin, Ireland
+5 months ago
+Senior Cloud Engineer
+Senior Cloud Engineer
+
+Workday
+
+Dublin, County Dublin, Ireland
+18 hours ago
+Director, Site Reliability Engineering
+Director, Site Reliability Engineering
+
+Klaviyo
+
+Dublin, County Dublin, Ireland
+1 week ago
+Platform Engineering Manager - Design Engineering & Cloud Enablement (IRE)
+Platform Engineering Manager - Design Engineering & Cloud Enablement (IRE)
+
+Inizio
+
+Dublin, County Dublin, Ireland
+1 week ago
+Cloud Infrastructure/Engineer
+Cloud Infrastructure/Engineer
+
+Mars Capital
+
+Dublin 4, County Dublin, Ireland
+4 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Susquehanna International Group
+
+Dublin, County Dublin, Ireland
+6 days ago
+DevOps Engineer
+DevOps Engineer
+
+RWS
+
+Dublin, County Dublin, Ireland
+3 weeks ago
+Site Reliability Engineering (SRE) Lead - VP
+Site Reliability Engineering (SRE) Lead - VP
+
+Robert Walters
+
+Dublin, County Dublin, Ireland
+€85,000 - €125,000
+1 week ago
+Senior Manager, Data & Storage Reliability Engineering
+Senior Manager, Data & Storage Reliability Engineering
+
+ServiceNow
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+Head of Infrastructure & Platform Engineering Transformation
+Head of Infrastructure & Platform Engineering Transformation
+
+The Panel
+
+Dublin, County Dublin, Ireland
+5 days ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
