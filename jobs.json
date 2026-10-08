@@ -139742,8 +139742,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-08T01:09:57+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-08T07:26:33+03:00"
   },
   {
     "title": "Electronics Development Engineer",
@@ -139759,8 +139759,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-08T01:09:57+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-08T07:26:34+03:00"
   },
   {
     "title": "Senior Manager, R&D Quality CPD",
@@ -139776,8 +139776,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-08T01:09:57+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-08T07:26:34+03:00"
   },
   {
     "title": "Facilities & Equipment Maintenance Engineer",
@@ -139793,8 +139793,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-08T01:09:57+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-08T07:26:34+03:00"
   },
   {
     "title": "Technical Manager",
@@ -139810,8 +139810,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-08T01:09:57+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-08T07:26:34+03:00"
   },
   {
     "title": "Supplier Quality Auditor",
@@ -141891,8 +141891,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-08T01:19:58+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-08T07:26:34+03:00"
   },
   {
     "title": "DevOps Engineer",
@@ -141908,8 +141908,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-08T01:19:58+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-08T07:26:35+03:00"
   },
   {
     "title": "DevOps Engineer (SC Cleared)",
@@ -141925,8 +141925,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-08T01:19:58+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-08T07:26:35+03:00"
   },
   {
     "title": "DevOps engineer",
@@ -141942,8 +141942,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-08T01:19:59+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-08T07:26:35+03:00"
   },
   {
     "title": "DevOps Engineer",
@@ -141951,16 +141951,15 @@
     "location": "Extract from page",
     "url": "https://www.totaljobs.com/job/devops-engineer/adria-solutions-job107994549",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "maybe",
+    "reason": "Job details are inaccessible (access denied), so location, company-specific requirements, and visa sponsorship information cannot be verified.",
     "id": "e658c818",
     "source": "totaljobs_devops_engineer",
     "added_at": "2026-10-08T01:10:59+03:00",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-08T01:19:59+03:00"
+    "eval_model": "local/qwen/qwen3-14b"
   },
   {
     "title": "DevOps Engineer",
