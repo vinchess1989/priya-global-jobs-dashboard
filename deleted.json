@@ -5166,5 +5166,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Senior Quality System Engineer - Design, Airvo",
+    "company": "Fisher & Paykel Healthcare",
+    "location": "Auckland, Auckland, New Zealand",
+    "url": "https://nz.linkedin.com/jobs/view/senior-quality-system-engineer-design-airvo-at-fisher-paykel-healthcare-4471319332",
+    "visited": "yes",
+    "matches_requirements": "yes",
+    "reason": "The role aligns with Priya's background as a Technical Communication Specialist and Quality Gatekeeper in regulated medical devices (MDR/ISO 13485), matching the 'Quality Engineer' category under Target Job Criteria, and is located in New Zealand (a target country).",
+    "id": "51dd34b1",
+    "source": "linkedin_nz_requirements_manager",
+    "added_at": "2026-10-09T22:18:17+03:00",
+    "posted_date": "2026-10-02",
+    "deadline": "2026-09-23",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": "job_descriptions/fisher___paykel_heal_senior_quality_system_engineer_51dd34b1.txt",
+    "deletion_reason": "Deadline (2026-09-23) passed by more than 2 days and unreviewed"
   }
 ]
