@@ -5132,5 +5132,39 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Lead Technical Business Analyst",
+    "company": "Compas",
+    "location": "Canberra, Australian Capital Territory, Australia",
+    "url": "https://au.linkedin.com/jobs/view/lead-technical-business-analyst-at-compas-4474858636",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires a Baseline security clearance, which is a government security requirement and falls under the 'No Visa Sponsorship / Existing Right to Work Required' hard rejection criterion.",
+    "id": "5067e85f",
+    "source": "linkedin_au_requirements_manager",
+    "added_at": "2026-10-09T21:37:49+03:00",
+    "posted_date": "2026-10-09",
+    "deadline": "2026-10-14",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Iteration Manager Business Analyst",
+    "company": "Slater and Gordon Lawyers",
+    "location": "Melbourne, Victoria, Australia",
+    "url": "https://au.linkedin.com/jobs/view/iteration-manager-business-analyst-at-slater-and-gordon-lawyers-4476255150",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires applicants to have full and unrestricted working rights in Australia, but Priya would need employer visa sponsorship (she only holds a Finland residence permit) \u00e2\u20ac\u201d this triggers the 'No Visa Sponsorship' hard rejection.",
+    "id": "c40d65c6",
+    "source": "linkedin_au_requirements_manager",
+    "added_at": "2026-10-09T21:37:49+03:00",
+    "posted_date": "2026-10-09",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
