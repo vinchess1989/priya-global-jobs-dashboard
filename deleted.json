@@ -5098,5 +5098,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": "job_descriptions/artificial_labs_documentation_lead_227e50f7.txt",
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Technical Records Specialist -Shannon",
+    "company": "Tech Skills Resources (part of the CPL Group)",
+    "location": "Limerick, County Limerick, Ireland",
+    "url": "https://ie.linkedin.com/jobs/view/technical-records-specialist-shannon-at-tech-skills-resources-part-of-the-cpl-group-4474474573",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job posting explicitly requires applicants to have 'unrestricted permission to work in Ireland' without mentioning visa sponsorship availability, which disqualifies it under the 'No Visa Sponsorship / Existing Right to Work Required' hard rejection rule.",
+    "id": "1ec2bb3b",
+    "source": "linkedin_ie_technical_writer",
+    "added_at": "2026-10-09T11:32:19+03:00",
+    "posted_date": "2026-10-08",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
