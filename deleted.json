@@ -5183,5 +5183,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": "job_descriptions/fisher___paykel_heal_senior_quality_system_engineer_51dd34b1.txt",
     "deletion_reason": "Deadline (2026-09-23) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "IN_Manager_Cybersecurity_Advisory Corporate_Advisory_Mumbai",
+    "company": "PwC India",
+    "location": "Mumbai, Maharashtra, India",
+    "url": "https://in.linkedin.com/jobs/view/in-manager-cybersecurity-advisory-corporate-advisory-mumbai-at-pwc-india-4464044123",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role focuses on cybersecurity advisory and credit risk management, which does not align with Priya's expertise in DevOps, configuration management, release management, or technical writing/communication.",
+    "id": "e7d7344c",
+    "source": "linkedin_in_requirements_manager",
+    "added_at": "2026-10-09T22:53:26+03:00",
+    "posted_date": "2026-10-02",
+    "deadline": "2026-09-16",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-09-16) passed by more than 2 days and unreviewed"
   }
 ]
