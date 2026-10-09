@@ -5574,5 +5574,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Deadline (2026-10-08) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Supplier Quality Engineer",
+    "company": "Boeing",
+    "location": "Brisbane, Queensland, Australia",
+    "url": "https://au.linkedin.com/jobs/view/supplier-quality-engineer-at-boeing-4475722937",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires Australian citizenship and an NV1 Defence clearance, which the candidate does not have and cannot obtain without existing residency/citizenship, falling under the 'No Visa Sponsorship' hard rejection.",
+    "id": "3709952d",
+    "source": "linkedin_au_quality_engineer",
+    "added_at": "2026-10-10T02:13:03+03:00",
+    "posted_date": "2026-10-09",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
