@@ -5115,5 +5115,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "landscaper",
+    "company": "Am\u00e9nagement Faucher et Fils Inc.",
+    "location": "Sainte-Catherine-de-Hatley, QC, Canada",
+    "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50460293",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires existing work authorization in Canada (Canadian citizen, permanent resident, or valid work permit), which Priya does not hold, and the posting explicitly states no sponsorship is available.",
+    "id": "8b28cf2c",
+    "source": "jobbank_ca_documentation_specialist",
+    "added_at": "2026-10-09T18:16:48+03:00",
+    "posted_date": "2026-10-09",
+    "deadline": "2026-10-23",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
