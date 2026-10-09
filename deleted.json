@@ -5591,5 +5591,39 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Senior Software Test Engineer New Zealand",
+    "company": "Aviat Networks",
+    "location": "Lower Hutt, Wellington, New Zealand",
+    "url": "https://nz.linkedin.com/jobs/view/senior-software-test-engineer-new-zealand-at-aviat-networks-4477142798",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job explicitly states 'no sponsorship' and requires the applicant to already have the right to work in New Zealand, which Priya does not possess (she only has a Finnish residence permit).",
+    "id": "dabe75e7",
+    "source": "linkedin_nz_quality_engineer",
+    "added_at": "2026-10-10T02:25:50+03:00",
+    "posted_date": "2026-10-09",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Quality Coordinator",
+    "company": "Radius Care",
+    "location": "Tauranga, Bay of Plenty, New Zealand",
+    "url": "https://nz.linkedin.com/jobs/view/quality-coordinator-at-radius-care-4470305761",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job posting explicitly states that Radius Care cannot support work visas/visa changes, which disqualifies it under the 'No Visa Sponsorship' hard rejection criterion.",
+    "id": "ef95c22b",
+    "source": "linkedin_nz_quality_engineer",
+    "added_at": "2026-10-10T02:25:50+03:00",
+    "posted_date": "2026-09-26",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
