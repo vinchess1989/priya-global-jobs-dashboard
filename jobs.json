@@ -149762,20 +149762,19 @@
   },
   {
     "title": "Senior SAP Technical Consultant: SAP BWonHANA & BW4Hana Development: GoLive: FTC: Pretoria",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "Arid Talent Solutions CC",
+    "location": "Pretoria, South Africa",
     "url": "https://www.pnet.co.za/jobs--Senior-SAP-Technical-Consultant-SAP-BWonHANA-BW4Hana-Development-GoLive-FTC-Pretoria-Pretoria-Arid-Talent-Solutions-CC--4285985-inline.html",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job requires SAP SD certification and functional consulting responsibilities, which do not align with the candidate's expertise in CI/CD, release management, and regulated-industry quality compliance (MDR/ISO 13485/ASPICE).",
     "id": "4d8f0e49",
     "source": "pnet_technical_writer",
     "added_at": "2026-10-09T15:27:57+03:00",
-    "posted_date": "N/A",
+    "posted_date": "2026-10-07",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-09T15:39:49+03:00"
+    "eval_model": "local/qwen/qwen3-14b"
   },
   {
     "title": "International Operations Support Specialist - P8 Poseidon programme",
