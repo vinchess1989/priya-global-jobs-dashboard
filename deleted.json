@@ -5064,5 +5064,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Deadline (2026-10-07) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Senior Solution Specialist | M365",
+    "company": "Datacom",
+    "location": "Hamilton, Waikato, New Zealand",
+    "url": "https://nz.linkedin.com/jobs/view/senior-solution-specialist-m365-at-datacom-4477618458",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires New Zealand citizenship or permanent residency with no visa sponsorship available, which Priya cannot meet as she only holds a Finnish residence permit.",
+    "id": "434d8209",
+    "source": "linkedin_nz_product_specialist",
+    "added_at": "2026-10-09T08:25:16+03:00",
+    "posted_date": "2026-10-09",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
