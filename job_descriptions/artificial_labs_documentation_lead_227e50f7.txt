@@ -1,0 +1,304 @@
+Title: Documentation Lead
+Company: Artificial Labs
+Location: London, England, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/documentation-lead-at-artificial-labs-4464863706
+Posted: 2026-09-18
+Deadline: N/A
+Reason: The role aligns with Priya's background in technical communication/documentation leadership (matches her Topcon/Accenture experience) in a non-US location (UK), with no visa sponsorship restrictions mentioned.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Documentation Lead
+Artificial Labs  London, England, United Kingdom
+3 weeks ago  54 applicants
+  
+
+See who Artificial Labs has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+About Artificial
+
+Help shape the future of specialty insurance
+
+At Artificial, we’re building the next generation of technology for the specialty (re)insurance market. Our mission is to transform how brokers and carriers operate in complex markets by removing operational barriers and enabling smarter, faster decision-making.
+
+We use modern technology to solve real challenges for some of the world’s leading brokers and insurers. By automating the repetitive and structuring the complex, we help our partners unlock new opportunities for innovation and growth.
+
+You’ll be joining a collaborative team that values curiosity, ownership, and continuous learning. We work in an environment where ideas are heard, support is built-in, and outcomes matter. Everyone here has the chance to make a tangible impact on our products, our customers, and the industry.
+
+We've just raised $45M (£33M) in Series B funding from lead investor CommerzVentures, new investor Move Capital, as well as all existing shareholders. This investment round gives us the room to grow with confidence, continue to innovate, and ensure that Artificial remains the first choice for brokers and carriers seeking a smarter way to trade digitally.
+
+Join us, and take the chance to be a part of something that will change the landscape of insurance for generations.
+
+About The Role
+
+At Artificial, there are three primary sources of documentation we maintain:
+
+
+Client-facing product documentation for insurance business users (brokers, underwriters and operations teams using our platform)
+Our internal documentation site, which is our most heavily used documentation surface, built docs-as-code from the engineering repository and authored largely by engineers.
+Our public API documentation, owned and authored by our Integrations team from auto-generated OpenAPI specifications.
+
+
+The below responsibilities break down how each of these three sources are to be managed.
+
+Responsibilities
+
+
+Own the client-facing product documentation (1) end-to-end: strategy, information architecture, standards, tooling and content quality
+Own the internal documentation gap backlog (2):
+proactively identify potential gaps and triage incoming gap reports
+route each one to the best-placed author and chase it to completion
+write the content yourself where you're the right author
+Steward the internal documentation site (2) and public API documentation (3): set the standards, information architecture and editorial bar for content authored by engineering and integrations teams, and keep the publishing pipelines healthy
+Interview engineers about new features as they ship, and demystify them for non-technical readers before anyone has to ask
+Act as editorial reviewer on documentation changes, catching duplication, misplacement and unclear writing before it ships
+Write and maintain the highest-value client-facing content yourself: core product guides and release communications
+Select, build and run the documentation toolchain, including docs-as-code workflows (static site generators, CI/CD, review gates) where they serve us best
+Design and operate AI-assisted authoring pipelines that raise quality and throughput without sacrificing accuracy
+Build the contribution model: templates, style standards and review processes that let product managers and engineers contribute content you curate rather than gatekeep
+Partner with the Integrations team on API documentation: raise the quality of guides and examples around the auto-generated reference without taking authorship away from the experts
+Partner with product and customer-facing teams so documentation ships with releases, not after them
+Measure whether documentation is working: usage, search behaviour, support deflection and client feedback, and act on what you find
+Set the standard for clear technical communication across the company
+
+About You
+
+
+6+ years in technical writing, documentation engineering or a closely related discipline
+Preferably an ex Engineer who has stepped into technical writing / documentation
+Demonstrable experience producing end-user product documentation, plus enough developer documentation experience to edit and improve API guides credibly
+Hands-on experience owning documentation tooling, including docs-as-code workflows (for example Git-based authoring, static site generators, CI pipelines)
+A portfolio or writing samples that show you can make complex technical material clear for both technical and non-technical readers
+Used to working in a fast-paced, technological environment, with all the ambiguities this presents: flexibility will be needed
+Confident in reading and understanding code and pull requests, so that you are able to identify where documentation might need adding/editing
+
+
+We especially want to hear from you if you have:
+
+
+Built or substantially restructured a documentation estate, not just contributed to one
+Experience establishing contribution models where engineers and product managers write and you edit and curate
+Practical experience using LLMs in documentation workflows, with a clear-eyed view of where they help and where they fail
+Familiarity with structured documentation frameworks such as Diataxis
+Familiarity with OpenAPI specifications and generating reference documentation from source
+Previously worked in a scale-up environment
+Come from an InsurTech, FinTech or other regulated-industry background
+
+
+Benefits
+
+
+Private medical insurance
+Income protection insurance
+Life insurance of 4 * base salary
+On-site gym and shower facilities
+Enhanced maternity and paternity pay
+Team social events and company parties
+Salary exchange on pension and nursery fees
+Access to Maji, the financial wellbeing platform
+Company stock options managed through Ledgy
+Milestone Birthday Bonus and a Life Events leave policy
+Generous holiday allowance of 28 days plus national holidays
+Home office and equipment allowance, and a company MacBook
+Learning allowance and leave to attend conferences or take exams
+YuLife employee benefits, including EAP and bereavement helplines
+For each new hire, we plant a tree through our partnership with Ecologi Action
+The best coffee machine in London, handmade in Italy and imported just for us!
+
+
+We’re proud to be an equal opportunities employer and are committed to building a team that reflects the diverse communities around us. If there’s anything you need to make the hiring process more accessible, just let us know—we’re happy to make adjustments. You’re also welcome to share your preferred pronouns with us at any point.
+
+Think you don’t meet every requirement? Please apply anyway. We value potential as much as experience, and we know that raw talent counts.
+
+As part of our hiring process, we’ll carry out some background checks. These may include a criminal record check, reviewing your credit history, speaking with previous employers and confirming your academic qualifications.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Artificial Labs by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Documentalist jobs
+Documentation Lead
+Similar jobs
+Documentation Lead
+Documentation Lead
+Digital Asset
+London, England, United Kingdom
+2 weeks ago
+Document Control Lead
+Document Control Lead
+Hill International, Inc.
+London, England, United Kingdom
+1 year ago
+Portfolio Information Lead
+Portfolio Information Lead
+Post Office Ltd
+City Of London, England, United Kingdom
+12 hours ago
+Information Manager
+Information Manager
+AECOM
+London, England, United Kingdom
+4 months ago
+Senior Information Coordinator
+Senior Information Coordinator
+Kier Group
+London, England, United Kingdom
+1 week ago
+Technical Writer
+Technical Writer
+Post Office Ltd
+City Of London, England, United Kingdom
+2 days ago
+Show more jobs like this 
+People also viewed
+Document Controller
+Document Controller
+
+Otis Elevator Co.
+
+Southwark, England, United Kingdom
+2 days ago
+Information Manager
+Information Manager
+
+Mace
+
+London, England, United Kingdom
+2 weeks ago
+Senior Document Controller
+Senior Document Controller
+
+Murphy
+
+London, England, United Kingdom
+1 week ago
+Document Controller
+Document Controller
+
+Berkeley Group Plc
+
+Maidenhead, England, United Kingdom
+6 days ago
+Document Management Specialist
+Document Management Specialist
+
+UST
+
+London Area, United Kingdom
+2 weeks ago
+Document Controller
+Document Controller
+
+Equans UK & Ireland
+
+Hatfield, England, United Kingdom
+3 weeks ago
+Knowledge and Information Management Practice Lead
+Knowledge and Information Management Practice Lead
+
+The National Archives, UK
+
+Richmond Upon Thames, England, United Kingdom
+1 week ago
+Senior Information Management Analyst
+Senior Information Management Analyst
+
+Sword Group
+
+London, England, United Kingdom
+2 weeks ago
+Document Controller UK
+Document Controller UK
+
+Arcadis
+
+London, England, United Kingdom
+2 weeks ago
+Document Controller - London - 145278
+Document Controller - London - 145278
+
+Jones Engineering
+
+London, England, United Kingdom
+1 month ago
+Similar Searches
+Documentalist jobs
+337 open jobs
+Documentation Manager jobs
+3,468 open jobs
+Documentation Coordinator jobs
+4,501 open jobs
+Lead Technical Writer jobs
+133 open jobs
+Document Manager jobs
+3,393 open jobs
+Senior Document Controller jobs
+289 open jobs
+Regional Auditor jobs
+337 open jobs
+Documentation Engineer jobs
+3,410 open jobs
+Principal Technical Writer jobs
+30 open jobs
+Database Assistant jobs
+2,842 open jobs
+Senior Archaeologist jobs
+15 open jobs
+Direct Marketing Coordinator jobs
+454 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
