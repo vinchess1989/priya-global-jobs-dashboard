@@ -5676,5 +5676,39 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Quality Assurance & Regulatory Affairs Engineer (QARA)",
+    "company": "Hays Specialist Recruitment Limited",
+    "location": "Swindon, Wiltshire, UK",
+    "url": "https://www.reed.co.uk/jobs/quality-assurance-regulatory-affairs-engineer-qara/57436703",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires applicants to have the right to work in the UK at the time of application, and no visa sponsorship is available, which disqualifies the candidate due to her need for employer-sponsored work visa.",
+    "id": "60c7eeb0",
+    "source": "reed_eu_mdr",
+    "added_at": "2026-10-10T08:19:48+03:00",
+    "posted_date": "2026-10-09",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Quality Assurance & Regulatory Affairs Engineer",
+    "company": "Hays Specialist Recruitment Limited",
+    "location": "Swindon, Wiltshire, UK",
+    "url": "https://www.reed.co.uk/jobs/quality-assurance-regulatory-affairs-engineer/57435864",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires applicants to have the right to work in the UK and explicitly states no sponsorship is available, which disqualifies Priya who needs employer visa sponsorship for non-Finland roles.",
+    "id": "e1d37e4c",
+    "source": "reed_eu_mdr",
+    "added_at": "2026-10-10T08:19:48+03:00",
+    "posted_date": "2026-10-09",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
