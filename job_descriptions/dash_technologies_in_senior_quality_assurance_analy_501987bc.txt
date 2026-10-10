@@ -1,0 +1,331 @@
+Title: Senior Quality Assurance Analyst (QMS)
+Company: Dash Technologies Inc.
+Location: Ahmedabad, Gujarat, India
+URL: https://in.linkedin.com/jobs/view/senior-quality-assurance-analyst-qms-at-dash-technologies-inc-4475418982
+Posted: 2026-10-08
+Deadline: N/A
+Reason: The role aligns with the candidate's experience in quality gatekeeping under ISO 13485/MDR and her background in regulated medical device software QA, matching both the 'Quality Engineer' and 'Requirements Engineer' categories.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Quality Assurance Analyst (QMS)
+Dash Technologies Inc.  Ahmedabad, Gujarat, India
+2 days ago  114 applicants
+  
+
+See who Dash Technologies Inc. has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+About Dash Technologies
+
+Founded in 2010 and headquartered in Dublin, Ohio, USA, Dash Technologies Inc. is a healthcare-focused technology company with a global delivery center in Ahmedabad, India. For more than 15 years, Dash has partnered with healthcare and MedTech organizations to design and engineer digital health solutions spanning Medical IoT, device and system integration, connected applications, artificial intelligence, machine learning, and data analytics. An ISO 9001-certified company, Dash combines strong engineering capabilities with practical execution to advance healthcare’s digital transformation and improve care delivery.
+
+The Opportunity
+
+Dash Technologies is seeking an experienced Software Quality Engineer to lead software quality assurance, testing, validation, and regulatory documentation for a Medical Device Software product being built from scratch.
+
+You will be responsible for developing test strategies, executing software verification and validation activities, maintaining quality documentation, and ensuring compliance with applicable medical device standards and FDA quality system requirements.
+
+This is a hands-on individual contributor role for a quality professional who combines deep medical device software expertise with strong documentation discipline and the ability to work independently while collaborating effectively with cross-functional teams.
+
+What You’ll Do
+
+Software Quality Assurance
+
+
+Develop, review, and maintain software quality plans, procedures, work instructions, test documentation, and quality records.
+Ensure software quality processes and documentation align with ISO 13485, FDA 21 CFR Part 820, IEC 62304, and other applicable medical device standards.
+Maintain accurate, controlled, and audit-ready quality documentation throughout the product lifecycle.
+Support internal and external audits by providing timely access to quality documentation, test evidence, and project records.
+
+
+Software Testing and Validation
+
+
+Develop and execute comprehensive test cases, test scripts, test plans, and test procedures for Medical Device Software.
+Design and execute validation protocols, including IQ, OQ, and PQ where applicable.
+Perform software verification and validation activities in alignment with IEC 62304 software lifecycle requirements.
+Conduct functional, regression, integration, system, and user acceptance testing across development sprints.
+Identify, document, and track defects through resolution using bug-tracking tools.
+Review test results, prepare quality reports, and ensure issues are appropriately addressed before release.
+
+
+Risk Management and Compliance
+
+
+Apply ISO 14971 risk management principles to software testing and validation activities.
+Contribute to software risk analysis, hazard identification, and mitigation verification.
+Ensure traceability between user needs, requirements, design outputs, code, test cases, test results, and risk controls.
+Support design controls, design reviews, verification activities, and design transfer in accordance with ISO 13485 and FDA requirements.
+Identify quality and compliance risks and communicate them to relevant stakeholders.
+
+
+Agile Quality Integration
+
+
+Work within agile development teams to integrate quality practices into sprint planning, execution, reviews, and retrospectives.
+Define acceptance criteria and participate in backlog refinement.
+Ensure quality gates are met before software releases.
+Collaborate with developers on test automation strategies and CI/CD pipeline integration.
+Balance agile development velocity with medical device regulatory rigor and documentation requirements.
+
+
+Cross-Functional Collaboration
+
+
+Partner with product managers to ensure requirements are testable, measurable, and aligned with intended use and regulatory expectations.
+Work with engineering teams to resolve defects, improve testability, and enhance software quality.
+Liaise with regulatory affairs and clinical teams to ensure software verification and validation activities support regulatory submissions and clinical evidence requirements.
+Communicate quality status, project risks, testing progress, and quality metrics to leadership and stakeholders.
+
+
+Required Qualifications
+
+
+Bachelor’s degree in engineering, Biomedical Engineering, Computer Science, Electronics, or a related field, or equivalent practical experience.
+At least 5 years of experience in software quality engineering, software testing, or software verification and validation roles.
+At least 3 years of experience working with Medical Device Software or regulated healthcare technology.
+Hands-on experience developing and maintaining software quality documentation in a regulated environment.
+Proven experience developing and executing test cases, scripts, plans, and procedures for software products.
+Direct experience designing and executing validation protocols and software verification and validation activities.
+Strong knowledge of ISO 13485, ISO 14971, and IEC 62304.
+Working knowledge of IEC 60601 and other relevant medical device standards.
+Familiarity with agile methodologies such as Scrum or Kanban.
+Excellent written and verbal communication skills, with strong organizational capabilities and attention to detail.
+Experience with test management tools such as Jira, TestRail, Zephyr, or similar platforms.
+Experience with bug-tracking systems and software development lifecycle tools.
+
+
+Bonus Points
+
+
+Experience supporting FDA 510(k), De Novo, or PMA submissions involving software documentation.
+Practical experience applying both ISO 13485 and IEC 62304 during medical device software development.
+Experience with test automation frameworks such as Selenium, Cypress, or similar tools.
+Experience integrating automated testing with CI/CD pipelines.
+Prior experience establishing quality processes and testing practices for products developed from scratch.
+Experience working in a startup or new product development environment.
+Certifications such as Certified Software Quality Engineer, Certified Software Test Engineer, or Regulatory Affairs Certification.
+
+
+How You Work
+
+Skills and Competencies
+
+
+Strong analytical, problem-solving, and root cause analysis skills.
+Meticulous attention to detail and a commitment to software quality.
+Excellent technical writing skills, with the ability to create clear, precise, and traceable quality records.
+Ability to work independently and manage multiple priorities effectively.
+Strong ownership mindset, sound judgment, and the ability to balance quality rigor with development velocity.
+Strong interpersonal skills and the ability to influence without authority.
+Confidence in identifying, communicating, and escalating quality and compliance risks appropriately.
+
+
+Values We Seek
+
+
+MedTech Experience: Passion for healthcare technology and improving patient outcomes through quality software.
+Communication Skills: Clear, concise, and timely communication with technical and non-technical stakeholders.
+Documentation Discipline: Ability to produce precise, compliant, and traceable software quality records.
+Quality Mindset: Commitment to maintaining high standards of software quality, compliance, and patient safety.
+
+
+Why Join Dash
+
+What We Offer
+
+
+A high-impact individual contributor role supporting a Medical Device Software product from the ground up.
+The opportunity to shape software quality processes, testing strategies, and validation activities for a new product line.
+A collaborative team at our Ahmedabad delivery center with exposure to Medical IoT, artificial intelligence, and digital health initiatives.
+Competitive compensation, performance-based bonuses, and comprehensive benefits.
+Professional development support for certifications, training, and industry conferences.
+Flexible work arrangements and a culture that values quality, innovation, and patient safety.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Public Health, Hospitals and Health Care, and IT System Custom Software Development
+  
+
+Referrals increase your chances of interviewing at Dash Technologies Inc. by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Assistant Manager QA
+Assistant Manager QA
+Actylis
+Ahmedabad, Gujarat, India
+7 months ago
+Senior Executive - QA
+Senior Executive - QA
+Piramal Pharma Ltd
+Ahmedabad, Gujarat, India
+1 month ago
+Quality Assurance Executive - Canada Market
+Quality Assurance Executive - Canada Market
+Emcure Pharmaceuticals Limited
+Ahmedabad, Gujarat, India
+1 hour ago
+Senior Executive, Quality Assurance
+Senior Executive, Quality Assurance
+Amneal Pharmaceuticals
+Ahmedabad, Gujarat, India
+2 weeks ago
+Lead – QMS & ESG
+Lead – QMS & ESG
+Soleos Energy Limited
+Ahmedabad, Gujarat, India
+3 days ago
+Quality Coordinator
+Quality Coordinator
+Lindström
+Sanand, Gujarat, India
+11 hours ago
+Show more jobs like this 
+People also viewed
+Quality Control - Manager/Senior Manager
+Quality Control - Manager/Senior Manager
+
+Zydus Group
+
+Ahmedabad, Gujarat, India
+4 weeks ago
+Deputy Manager - Quality (Electrical)
+Deputy Manager - Quality (Electrical)
+
+Adani Natural Resources
+
+Ahmedabad, Gujarat, India
+12 hours ago
+Lead Project Quality Manager
+Lead Project Quality Manager
+
+Arabelle Solutions
+
+Sanand, Gujarat, India
+2 weeks ago
+Quality Manager (Systems and MEPF)
+Quality Manager (Systems and MEPF)
+
+Mace
+
+Ahmedabad, Gujarat, India
+1 week ago
+Supplier Development Professional – Specialist
+Supplier Development Professional – Specialist
+
+Milacron
+
+Ahmedabad, Gujarat, India
+2 weeks ago
+Management Representative (ISO)
+Management Representative (ISO)
+
+4C Consulting Pvt. Ltd. - ISO Consulting Services in Ahmedabad, Gujarat, India
+
+Ahmedabad, Gujarat, India
+22 hours ago
+ISO Consultant
+ISO Consultant
+
+4C Consulting Pvt. Ltd. - ISO Consulting Services in Ahmedabad, Gujarat, India
+
+Ahmedabad, Gujarat, India
+18 hours ago
+Process Excellence & Quality Manager
+Process Excellence & Quality Manager
+
+VRecruitFirst
+
+Ahmedabad, Gujarat, India
+1 day ago
+Deputy Manager, Quality, Mehsana Plant
+Deputy Manager, Quality, Mehsana Plant
+
+Imerys
+
+Mehsana, Gujarat, India
+2 weeks ago
+Quality Analyst
+Quality Analyst
+
+Actowiz Solutions
+
+Ahmedabad, Gujarat, India
+3 months ago
+Similar Searches
+Software Quality Analyst jobs
+2,173 open jobs
+Software Quality Manager jobs
+627 open jobs
+Automation Developer jobs
+3,829 open jobs
+Build And Release Engineer jobs
+3,712 open jobs
+Regulatory Affairs Analyst jobs
+129 open jobs
+Senior Quality Assurance Engineer jobs
+849 open jobs
+Software Quality Assurance Analyst jobs
+2,032 open jobs
+Automation Test Analyst jobs
+975 open jobs
+Release Engineer jobs
+3,467 open jobs
+Merchandise Planner jobs
+261 open jobs
+Underwriting Analyst jobs
+2,989 open jobs
+Commercial Supervisor jobs
+373 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Dash Technologies Inc.
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
