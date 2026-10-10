@@ -153637,8 +153637,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-10T06:30:44+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-10T13:25:43+03:00"
   },
   {
     "title": "Transport Manager",
@@ -153654,8 +153654,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-10T06:30:44+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-10T13:25:43+03:00"
   },
   {
     "title": "Contract Agile Delivery Manager - Data & Supply Chain",
@@ -153671,8 +153671,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-10T06:30:44+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-10T13:25:43+03:00"
   },
   {
     "title": "Project Manager - Engineering",
@@ -153688,8 +153688,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-10T06:30:44+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-10T13:25:44+03:00"
   },
   {
     "title": "Manager , Business Analyst, Technology Consulting. Belfast",
@@ -158480,8 +158480,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-10T06:48:03+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-10T13:25:44+03:00"
   },
   {
     "title": "Quality Manager (Manufacturing)",
@@ -158497,8 +158497,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-10T06:48:04+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-10T13:25:44+03:00"
   },
   {
     "title": "Delivery Assurance &  Quality Manager",
@@ -158514,8 +158514,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-10T06:48:04+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-10T13:25:44+03:00"
   },
   {
     "title": "Quality Certification Manager ( Edgewing )",
@@ -158531,8 +158531,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-10T06:48:04+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-10T13:25:44+03:00"
   },
   {
     "title": "Quality Manager",
@@ -158548,8 +158548,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-10T06:48:04+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-10T13:25:45+03:00"
   },
   {
     "title": "Quality Manager",
@@ -158565,8 +158565,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-10T06:48:04+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-10T13:25:45+03:00"
   },
   {
     "title": "Quality Manager",
@@ -158582,8 +158582,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-10T06:48:05+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-10T13:25:45+03:00"
   },
   {
     "title": "Quality Manager",
@@ -158599,8 +158599,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-10T06:48:05+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-10T13:25:45+03:00"
   },
   {
     "title": "GeoData Quality Manager",
@@ -158616,8 +158616,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-10T06:48:05+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-10T13:25:46+03:00"
   },
   {
     "title": "GeoData Quality Manager",
@@ -158625,16 +158625,15 @@
     "location": "Extract from page",
     "url": "https://www.totaljobs.com/job/geodata-quality-manager/bright-purple-resourcing-job107978369",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "Job description text unavailable due to access denial; cannot confirm location, sponsorship requirements, or role fit against candidate criteria.",
     "id": "c9de25bc",
     "source": "totaljobs_quality_manager",
     "added_at": "2026-10-10T06:44:29+03:00",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-10T06:48:05+03:00"
+    "eval_model": "local/qwen/qwen3-14b"
   },
   {
     "title": "Quality Manager",
