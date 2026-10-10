@@ -1,0 +1,264 @@
+Title: DevOps Engineer
+Company: SWTCH
+Location: Toronto, Ontario, Canada
+URL: https://ca.linkedin.com/jobs/view/devops-engineer-at-swtch-4477854207
+Posted: 2026-10-10
+Deadline: N/A
+Reason: The DevOps Engineer role at SWTCH in Toronto, Canada matches Priya's expertise in CI/CD pipelines (GitHub Actions), infrastructure-as-code (OpenTofu/Terraform), and AWS container platforms, aligning with her experience at Elektrobit and Topcon.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+SWTCH  Toronto, Ontario, Canada
+12 hours ago  44 applicants
+  
+
+See who SWTCH has hired for this role
+
+Apply
+Save
+Who We Are
+
+
+
+SWTCH is pioneering EV charging solutions for multifamily and commercial properties across North America. Since 2016, our team of entrepreneurs, energy professionals, and technologists has been focused on unlocking the social, economic, and environmental benefits of widespread EV adoption. Today, our solutions are deployed in tens of thousands of locations —many of which are low-to-moderate income housing—helping to make clean mobility accessible for all.
+
+With an expanding footprint across Canada and the U.S., we're scaling quickly and looking for mission-driven talent to help accelerate our growth.
+
+
+The Opportunity
+
+
+
+SWTCH is looking for a highly motivated DevOps Engineer to join our growing tech team. Reporting to the Director of Engineering, you will design, build, and optimize our AWS container platform, CI/CD pipelines, and infrastructure-as-code tooling. This is a collaborative role: you'll work closely with development and operations teams to streamline deployment, testing, and software delivery, and help lead our path to push-to-deploy continuous delivery.
+
+Responsibilities
+
+
+Develop and maintain our AWS ECS platform (Fargate and ECS on EC2), along with our existing EC2 and Docker Compose hosts
+Manage CI/CD pipelines on GitHub Actions, improving reliability and build speeds and moving us toward push-to-deploy with feature flags, canary or blue-green deploys, and automated rollback
+Collaborate with Development and Architecture teams to build highly available cloud environments, including our Traefik-based OCPP edge and self-hosted Redpanda streaming platform
+Build and extend our toolchain, including AWS (ECS, Fargate, Secrets Manager, Parameter Store), OpenTofu, and shell scripting, with Checkov, tflint, and plan checks on every PR
+Maintain and enhance automation tooling and deployment infrastructure in line with SOC 2 best practices
+Identify parts of the architecture that lack redundancy and improve reliability, including supporting our MySQL to Postgres migration
+Build monitoring, alerting, and tooling (Vector, Grafana, VictoriaMetrics, OpenTelemetry) that surfaces front-end and back-end issues as soon as they happen, including per-service SLOs and burn-rate alerts
+Write and maintain clear documentation for infrastructure and processes
+
+
+
+Requirements
+
+
+5+ years of experience in DevOps, release engineering, or build automation, including 3+ years with large-scale distributed infrastructure and client-server architecture
+Hands-on experience with AWS ECS (Fargate and/or EC2), Docker, and container technologies in a microservices environment
+Experience deploying and managing infrastructure as code with OpenTofu or Terraform
+Strong experience with AWS and cloud infrastructure automation
+Experience with CI/CD (ideally GitHub Actions), continuous testing, and monitoring and alerting tools such as Grafana and Prometheus-compatible metrics (e.g., VictoriaMetrics)
+
+
+Nice to Have
+
+Experience with Kafka-compatible streaming systems such as Redpanda or Kafka
+An AWS certification. If you don't have one yet, we're happy to sponsor your exam
+Experience working in a SOC 2 environment
+
+
+
+Benefits
+
+
+Business Impact - As a member of the Engineering Team, you have the opportunity to take a supporting role and make a significant impact on the culture and values of the company
+Environmental Impact - We are a clean energy company with a mission to reduce carbon emissions globally to ensure a clean and sustainable future
+Diversity - People develop their talents and skills in different ways. We value different paths and experiences. If you think you meet the qualifications we are seeking, take a chance and express your interest here
+
+
+SWTCH does not offer employment to prospects without first ensuring that qualified candidates speak directly with the hiring manager and a member of our P&C team. All qualifications will be done face-to-face, whether that is in person or over Google Meet. SWTCH does not send out offers of employment without meeting candidates and does not offer employment via text. If you are contacted for any personal information via text and/or without having met a member of our hiring team in person, please disregard.
+
+
+SWTCH Energy is an equal opportunity employer, all qualified applicants will receive consideration for employment without regard to age, race, color, religion, sex including sexual orientation and gender identity, national origin, disability, protected veteran status, or any other characteristic protected by applicable laws. Accommodations are available on request for candidates taking part in all aspects of the selection process.
+
+Show more 
+Seniority level
+Associate
+Employment type
+Full-time
+Industries
+Non-profit Organizations and Primary and Secondary Education
+  
+
+Referrals increase your chances of interviewing at SWTCH by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+Leap Tools
+Toronto, Ontario, Canada
+2 weeks ago
+DevOps Engineer II
+DevOps Engineer II
+commonsku
+Toronto, Ontario, Canada
+CA$110,000 - CA$130,000
+1 week ago
+DevOps Engineer
+DevOps Engineer
+TitanFile Inc.
+Toronto, Ontario, Canada
+3 weeks ago
+DevOps Engineer
+DevOps Engineer
+J&M Group
+Toronto, Ontario, Canada
+1 week ago
+DevOps Engineer
+DevOps Engineer
+Objectway
+Toronto, Ontario, Canada
+CA$140,000 - CA$165,000
+1 week ago
+DevOps Engineer
+DevOps Engineer
+Paymentus
+Richmond Hill, Ontario, Canada
+$100,000 - $130,000
+4 days ago
+Show more jobs like this 
+People also viewed
+DevOps Specialist
+DevOps Specialist
+
+Manulife
+
+Toronto, Ontario, Canada
+1 week ago
+DevOps Engineer(Salesforce)
+DevOps Engineer(Salesforce)
+
+Scotiabank
+
+Toronto, Ontario, Canada
+11 hours ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+Rentsync
+
+Toronto, Ontario, Canada
+1 week ago
+Infrastructure Engineer
+Infrastructure Engineer
+
+Bayview Asset Management, LLC
+
+Toronto, Ontario, Canada
+4 months ago
+Cloud Engineer
+Cloud Engineer
+
+Xanadu
+
+Toronto, Ontario, Canada
+3 weeks ago
+Cloud Engineer
+Cloud Engineer
+
+FacilityOS
+
+North York, Ontario, Canada
+CA$80,000 - CA$100,000
+1 week ago
+Infrastructure Engineer
+Infrastructure Engineer
+
+ElevenLabs
+
+Toronto, Ontario, Canada
+7 hours ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+MaintainX
+
+Toronto, Ontario, Canada
+CA$88,000 - CA$195,000
+2 weeks ago
+Cloud Operations Engineer
+Cloud Operations Engineer
+
+Porter Airlines Inc.
+
+Toronto, Ontario, Canada
+5 months ago
+Cloud Platform Engineer
+Cloud Platform Engineer
+
+EQ Bank
+
+Toronto, Ontario, Canada
+2 weeks ago
+Similar Searches
+Vice President Finance jobs
+290 open jobs
+Recruiting Intern jobs
+30 open jobs
+Finance Officer jobs
+2,911 open jobs
+Software Test Engineer jobs
+522 open jobs
+Venture Partner jobs
+73 open jobs
+Site Reliability Engineer jobs
+7,519 open jobs
+Configuration Analyst jobs
+1,231 open jobs
+Contract Recruiter jobs
+513 open jobs
+Chief Financial Officer jobs
+939 open jobs
+Director of Engineering jobs
+1,182 open jobs
+Client Manager jobs
+10,118 open jobs
+Reimbursement Specialist jobs
+2,784 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
