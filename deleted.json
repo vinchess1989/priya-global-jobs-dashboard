@@ -5744,5 +5744,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Customer Care Agent",
+    "company": "Konnekt",
+    "location": "Malta",
+    "url": "https://jobsinmalta.com/job/customer-service/customer-care-agent-101282",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires candidates to already be based in Malta with the legal right to work there, which disqualifies it under the 'No Visa Sponsorship / Existing Right to Work Required' hard rejection rule.",
+    "id": "13417cd8",
+    "source": "jobsinmalta_broad",
+    "added_at": "2026-10-10T09:53:07+03:00",
+    "posted_date": "2026-10-08",
+    "deadline": "2026-11-07",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
