@@ -5778,5 +5778,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Deadline (2025-08-28) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Senior Configuration Management Analyst",
+    "company": "Saab",
+    "location": "Mawson Lakes SA, Australia",
+    "url": "https://au.jora.com/job/Configuration-Management-Analyst-f8f2b371e33c9a92d1ef68a13ada65c7",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires Australian citizenship and an Australian Defence Security Clearance (NV1), which Priya does not hold and cannot obtain without being an Australian citizen, falling under the 'No Visa Sponsorship / Existing Right to Work Required' hard rejection.",
+    "id": "9f0aa3da",
+    "source": "jora_au_configuration_manager",
+    "added_at": "2026-10-10T16:38:15+03:00",
+    "posted_date": "2026-09-28",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
