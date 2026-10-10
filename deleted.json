@@ -5710,5 +5710,39 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Quality Systems Associate, Co-op/New Grad",
+    "company": "Boston Scientific",
+    "location": "Mississauga, Ontario, Canada",
+    "url": "https://ca.linkedin.com/jobs/view/quality-systems-associate-co-op-new-grad-at-boston-scientific-4476352419",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires no visa sponsorship and is explicitly targeted at co-ops/new grads, which conflicts with the candidate's need for sponsorship and her mid-to-senior experience level.",
+    "id": "3eaabb03",
+    "source": "linkedin_ca_iso_13485",
+    "added_at": "2026-10-10T08:47:23+03:00",
+    "posted_date": "2026-10-09",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Territory Manager VIC/TAS (Medical Devices)",
+    "company": "Intervene Medical",
+    "location": "Greater Melbourne Area",
+    "url": "https://au.linkedin.com/jobs/view/territory-manager-vic-tas-medical-devices-at-intervene-medical-4474698248",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires 'full Australian working rights' which the candidate does not have and cannot obtain without employer sponsorship, violating the 'No Visa Sponsorship' hard rejection rule.",
+    "id": "3afe74aa",
+    "source": "linkedin_au_iso_13485",
+    "added_at": "2026-10-10T08:47:44+03:00",
+    "posted_date": "2026-10-07",
+    "deadline": "2026-11-07",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
