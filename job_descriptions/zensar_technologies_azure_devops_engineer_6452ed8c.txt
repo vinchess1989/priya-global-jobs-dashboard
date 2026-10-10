@@ -1,0 +1,313 @@
+Title: Azure DevOps Engineer
+Company: Zensar Technologies
+Location: Johannesburg Metropolitan Area
+URL: https://za.linkedin.com/jobs/view/azure-devops-engineer-at-zensar-technologies-4475223403
+Posted: 2026-10-10
+Deadline: N/A
+Reason: The Azure DevOps Engineer role at Zensar Technologies in Johannesburg, South Africa matches Priya’s expertise in CI/CD pipelines, infrastructure automation, and regulated environments, aligning with her background in configuration management, release engineering, and Azure tooling.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Azure DevOps Engineer
+Zensar Technologies  Johannesburg Metropolitan Area
+21 hours ago   Be among the first 25 applicants
+  
+
+See who Zensar Technologies has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Direct message the job poster from Zensar Technologies
+
+Shante Pearl Chetty
+Shante Pearl Chetty
+Talent Sourcing Specialist
+
+Why Zensar?
+
+We’re a bunch of hardworking, fun-loving, people-oriented technology enthusiasts. We love what we do, and we’re passionate about helping our clients thrive in an increasingly complex digital world. Zensar is an organization focused on building relationships with our clients and with each other—and happiness is at the core of everything we do. In fact, we’re so into happiness that we’ve created a Global Happiness Council, and we send out a Happiness Survey to our employees each year. We’ve learned that employee happiness requires more than a competitive paycheck, and our employee value proposition—grow, own, achieve, learn (GOAL)—lays out the core opportunities we seek to foster for every employee. Teamwork and collaboration are critical to Zensar’s mission and success, and our teams work on a diverse and challenging mix of technologies across a broad industry spectrum. These industries include banking and financial services, high-tech and manufacturing, healthcare, insurance, retail, and consumer services. Our employees enjoy flexible work arrangements and a competitive benefits package, including medical, dental, vision, 401(k), among other benefits. If you are looking for a place to have an immediate impact, to grow and contribute, where we work hard, play hard, and support each other, consider joining team Zensar!
+
+
+
+
+Job Description:
+
+
+
+
+Location: Sandton, Gauteng
+
+Relevant Experience: 8+ Years
+
+Employment Type: Permanent/contract
+
+
+
+
+Role Summary
+
+We are seeking an experienced Azure DevOps Engineer to design, implement, and manage scalable cloud infrastructure, CI/CD pipelines, and automation solutions on Microsoft Azure. The ideal candidate will have strong expertise in Azure services, Infrastructure as Code (IaC), containerization, and DevSecOps practices.
+
+
+
+
+Key Responsibilities
+
+• Design, build, and maintain Azure cloud infrastructure and DevOps solutions.
+
+• Develop and manage CI/CD pipelines using Azure DevOps, GitHub Actions, or similar tools.
+
+• Automate infrastructure provisioning using Terraform, ARM Templates, or Bicep.
+
+• Implement and manage containerized workloads using Docker and Kubernetes (AKS).
+
+• Monitor application and infrastructure performance using Azure Monitor, Log Analytics, and Application Insights.
+
+• Implement security best practices, vulnerability management, and DevSecOps controls.
+
+• Collaborate with development, testing, and operations teams to streamline software delivery.
+
+• Manage source control, branching strategies, and release management processes.
+
+• Troubleshoot deployment, performance, and infrastructure issues.
+
+• Ensure high availability, scalability, and disaster recovery of Azure environments.
+
+
+
+
+Required Skills & Experience
+
+• Strong experience with Microsoft Azure cloud services.
+
+• Hands-on experience with Azure DevOps and CI/CD pipeline implementation.
+
+• Proficiency in Terraform, ARM Templates, or Bicep.
+
+• Experience with Docker, Kubernetes (AKS), and container orchestration.
+
+• Strong scripting skills in PowerShell, Bash, or Python.
+
+• Experience with Git-based source control systems.
+
+• Knowledge of networking, security, identity management, and monitoring in Azure.
+
+• Understanding of Agile, DevOps, and Site Reliability Engineering (SRE) practices.
+
+• Experience with Infrastructure as Code (IaC) and automation frameworks.
+
+
+
+
+Preferred Qualifications
+
+• Microsoft Azure certifications such as:
+
+o Azure Administrator Associate (AZ-104)
+
+o Azure DevOps Engineer Expert (AZ-400)
+
+o Azure Solutions Architect Expert (AZ-305)
+
+• Experience in banking, financial services, or regulated environments.
+
+• Exposure to multi-cloud environments (AWS/GCP) is advantageous.
+
+
+
+
+Zensar believes that diversity of backgrounds, thought, experience, and expertise fosters the robust exchange of ideas that enables the highest quality collaboration and work product. Zensar is an equal opportunity employer. All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by federal, state, or local law. Zensar is committed to providing veteran employment opportunities to our service men and women. Zensar is committed to providing equal employment opportunities for people with disabilities or religious observances, including reasonable accommodation when needed.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Banking, Investment Banking, and Financial Services
+  
+
+Referrals increase your chances of interviewing at Zensar Technologies by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Johannesburg Metropolitan Area.
+
+Sign in to create job alert
+Jobs
+Access Developer jobs
+Azure DevOps Engineer
+Similar jobs
+DevOps Engineer - (AML Platform)
+DevOps Engineer - (AML Platform)
+Optimal Growth Technologies
+Johannesburg, Gauteng, South Africa
+1 month ago
+Senior DevOps & Site Reliability Engineer
+Senior DevOps & Site Reliability Engineer
+Indsafri
+Johannesburg Metropolitan Area
+3 weeks ago
+Data Platform Engineer
+Data Platform Engineer
+Zensar Technologies
+Johannesburg Metropolitan Area
+3 days ago
+Senior Azure Cloud/Platform Engineer - MF
+Senior Azure Cloud/Platform Engineer - MF
+DVT
+Johannesburg, Gauteng, South Africa
+1 month ago
+Senior Cloud DevOps Engineer
+Senior Cloud DevOps Engineer
+Ikue
+Johannesburg, Gauteng, South Africa
+9 months ago
+SRE Platform Engineer (Microsoft Azure)
+SRE Platform Engineer (Microsoft Azure)
+Syspro
+Johannesburg, Gauteng, South Africa
+3 weeks ago
+Show more jobs like this 
+People also viewed
+Test Automation Specialist
+Test Automation Specialist
+
+Zensar Technologies
+
+Johannesburg Metropolitan Area
+4 days ago
+Cloud Managed Services Engineer (L4)
+Cloud Managed Services Engineer (L4)
+
+NTT DATA, Inc.
+
+Johannesburg, Gauteng, South Africa
+1 day ago
+Azure Developer
+Azure Developer
+
+EQPLUS TECHNOLOGIES PTY LTD
+
+Johannesburg, Gauteng, South Africa
+1 day ago
+Test Automation Engineer
+Test Automation Engineer
+
+Klipboard
+
+Johannesburg, Gauteng, South Africa
+15 hours ago
+Data Engineer
+Data Engineer
+
+cloudandthings.io
+
+Johannesburg Metropolitan Area
+1 month ago
+Azure Security Specialist
+Azure Security Specialist
+
+SASSO CONSULTING
+
+Johannesburg, Gauteng, South Africa
+13 hours ago
+IT Remote Project Engineer
+IT Remote Project Engineer
+
+FusionTek
+
+Johannesburg, Gauteng, South Africa
+ZAR 500,000 - ZAR 800,000
+1 week ago
+Cloud & IT Operations Administrator (Azure Focussed) Important: Completion of the assessment below is mandatory. Applications without a completed assessment will not be reviewed.
+Cloud & IT Operations Administrator (Azure Focussed) Important: Completion of the assessment below is mandatory. Applications without a completed assessment will not be reviewed.
+
+Evalex Talent Solutions
+
+Johannesburg Metropolitan Area
+3 weeks ago
+Full Stack Software Engineer
+Full Stack Software Engineer
+
+Standard Bank Group
+
+Johannesburg, Gauteng, South Africa
+2 weeks ago
+Murex Engineer (Testing and Automation)
+Murex Engineer (Testing and Automation)
+
+RMB - Rand Merchant Bank
+
+Johannesburg, Gauteng, South Africa
+1 week ago
+Similar Searches
+Access Developer jobs
+18 open jobs
+Plant Metallurgist jobs
+92 open jobs
+Sharepoint Architect jobs
+12 open jobs
+SAP Co Consultant jobs
+39 open jobs
+Citrix Administrator jobs
+51 open jobs
+Associate Software Engineer jobs
+4,100 open jobs
+Java Software Engineer jobs
+1,208 open jobs
+System Development Engineer jobs
+3,642 open jobs
+Sharepoint Specialist jobs
+3,599 open jobs
+Commercial Broker jobs
+25 open jobs
+Automation Test Analyst jobs
+116 open jobs
+SAP Support Analyst jobs
+78 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
