@@ -1,0 +1,123 @@
+Title: DevOps Engineer
+Company: Future Secure AI
+Location: Melbourne VIC, Australia
+URL: https://au.jora.com/job/DevOps-Engineer-73f3fc337127f2d2dece91d64acb6e53
+Posted: 3mo ago
+Deadline: N/A
+Reason: The job as a DevOps Engineer in Melbourne, Australia aligns with Priya's expertise in CI/CD, infrastructure automation, and regulated-industry experience, while meeting location and visa sponsorship criteria.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Search
+Sign in
+What
+Where
+Search jobs
+DevOps Engineer
+Future Secure AI
+–
+Melbourne VIC
+Full time
+Hybrid
+3mo ago, from ALO
+Apply on company site
+
+About the Company
+
+At Future Secure AI, we're building something genuinely new — and we're looking for people bold enough to build it with us. We work at the frontier of AI, tackling big, real-world problems for global enterprises across multiple industries, armed with state-of-the-art technology and a culture that prizes courage, rigor, and relentless curiosity. Our BRAVER values aren't just words on a wall — they describe the kind of people we are and the standard we hold ourselves to every day. Our leadership team is entrepreneurial, experienced, and accessible, with an open-door policy that means you'll never be just a number here. We invest seriously in your growth because we know our success depends on yours. If you're ready to work alongside some of the brightest minds in the industry, push into uncharted territory, and do work that genuinely matters, Future Secure AI is the place for you.
+
+About the Company
+
+At Future Secure AI, we're building something genuinely new — and we're looking for people bold enough to build it with us. We work at the frontier of AI, tackling big, real-world problems for global enterprises across multiple industries, armed with state-of-the-art technology and a culture that prizes courage, rigor, and relentless curiosity. Our BRAVER values aren't just words on a wall — they describe the kind of people we are and the standard we hold ourselves to every day. Our leadership team is entrepreneurial, experienced, and accessible, with an open-door policy that means you'll never be just a number here. We invest seriously in your growth because we know our success depends on yours. If you're ready to work alongside some of the brightest minds in the industry, push into uncharted territory, and do work that genuinely matters, Future Secure AI is the place for you.
+
+About the Role
+
+We're looking for a DevOps and Infrastructure engineer to join our engineering team and help us build the reliability, observability and automation foundations behind our production platforms.
+
+This is a hands-on role for someone who enjoys solving complex infrastructure problems, improving how systems operate in production, and automating the things that shouldn't need to be done manually.
+
+What you'll do
+
+Own observability and alerting across our production platforms — building and tuning monitoring, logging, metrics, traces and actionable alerts.
+Deliver and own the Classic monitoring retrofit, including synthetic and heartbeat checks and log shipping, helping move the team from manual monitoring to proactive, alert-driven support.
+Own infrastructure reliability, including cloud infrastructure, networking, environments, configuration, capacity, performance and resilience.
+Support CI/CD and deployment, including safe release, rollback and incident-disable mechanisms.
+Take a lead role in infrastructure incident response, diagnosing issues and restoring services during production incidents.
+Participate in the primary on-call rotation and support P1 incidents alongside the Service Delivery Manager.
+Build automation and tooling to reduce repetitive operational work and eliminate unnecessary toil.
+Help implement and operate integrations across Jira Service Management, Confluence and Opsgenie.
+Contribute to security and infrastructure hardening, including secrets management, patching and security escalation processes.
+Create and maintain runbooks and help ensure monitoring, rollback and kill-switch capabilities are ready before systems go live.
+What we're looking for
+
+
+You'll ideally have 3+ years of experience in SRE, DevOps, Platform Engineering or Infrastructure Engineering, with a strong interest in reliability and automation.
+
+You'll bring:
+
+Strong experience with cloud infrastructure, CI/CD and Infrastructure as Code.
+Hands-on experience with observability, including logging, metrics, tracing and alerting.
+Strong scripting and automation skills — Python, Bash or SQL would be valuable.
+Experience with production incident response and on-call environments.
+A structured and methodical approach to troubleshooting complex infrastructure issues.
+Experience introducing monitoring and observability into systems where it may not already exist.
+A mindset of automate first, reduce toil and make systems easier to operate.
+Nice to have
+
+Experience with low-code platforms and integration/connector troubleshooting.
+ITIL 4 Foundation or similar operational experience.
+Security and infrastructure hardening experience.
+
+Why Join Us?
+
+A high-performance culture
+State-of-the-art technology
+Experience world-class leadership
+Scale of impact and purpose
+A competitive salary and a huge growth trajectory
+Work with the best in the industry
+Flexible work environment
+Diversity and creativity
+
+Disclaimer: We do not wish to be contacted by recruitment agencies. Our hiring process is managed in-house and the best way for candidates to express interest is by applying with your resume through our company website.
+
+Future Secure AI Privacy Policy
+
+At Future Secure AI, we are committed to protecting your privacy and adhering to the principles of the General Data Protection Regulation (GDPR) and the Australian Privacy Principles (APPs) under the Privacy Act 1988 (Cth). Our Privacy Policy outlines how we collect, use, share, and protect your personal data when you visit our website at www.futuresecure.ai (the "Website") and use our services.
+
+Future Secure AI Privacy Policy
+
+
+At Future Secure AI, we are committed to protecting your privacy and adhering to the principles of the General Data Protection Regulation (GDPR) and the Australian Privacy Principles (APPs) under the Privacy Act 1988 (Cth). Our Privacy Policy outlines how we collect, use, share, and protect your personal data when you visit our website at www.futuresecure.ai (the "Website") and use our services. 
+
+Apply on company site
+Be careful - Don’t provide your bank or credit card details when applying for jobs. Don't transfer any money or complete suspicious online surveys. If you see something suspicious, report this job ad.
+Email to yourself or a friend
+Email job
+Discover Jora
+Browse jobs
+Browse salaries
+Find recruiter
+About
+FAQ
+Blog
+Reviews
+Browse Jobs in Australia
+Jobs in Sydney
+Jobs in Melbourne
+Jobs in Hobart
+Jobs in Brisbane
+Jobs in Perth
+Jobs in Darwin
+Jobs in Adelaide
+Connect with us
+TikTok
+Facebook
+Linkedin
+Get Jora app
+Contact us
+Privacy
+Terms & Conditions
+©2026 Job Seeker Pty Ltd
