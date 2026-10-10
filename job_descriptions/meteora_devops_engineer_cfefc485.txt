@@ -1,0 +1,358 @@
+Title: DevOps Engineer
+Company: Meteora
+Location: Singapore, Singapore
+URL: https://sg.linkedin.com/jobs/view/devops-engineer-at-meteora-4476258520
+Posted: 2026-10-09
+Deadline: N/A
+Reason: The DevOps Engineer role at Meteora in Singapore matches Priya's expertise in CI/CD pipelines, infrastructure automation, and regulated-industry experience, aligning with her background in configuration management and release ownership.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+Meteora  Singapore, Singapore
+1 day ago   Be among the first 25 applicants
+  
+
+See who Meteora has hired for this role
+
+Apply 
+Save
+
+Direct message the job poster from Meteora
+
+Daryl Tan
+Daryl Tan
+Principal Consultant @ Nodeworthy | Web3 & DeFi Recruitment | Precision Hiring for Web3 Projects
+
+Senior DevOps Engineer
+
+Location: Singapore or Kuala Lumpur
+
+Employment Type: Full-time
+
+
+
+
+About the Opportunity
+
+You will own and improve the infrastructure, deployment systems and operational reliability behind a high-traffic production platform. The role covers cloud infrastructure, Kubernetes, CI/CD, observability, incident response, infrastructure automation and production security.
+
+This is a deeply hands-on individual-contributor position. You should be comfortable designing infrastructure, writing automation, deploying changes, investigating production incidents and taking ownership of systems from implementation through ongoing operation.
+
+The ideal candidate is an experienced DevOps or SRE engineer who also possesses strong security fundamentals. You should be able to keep production systems reliable and scalable while ensuring that infrastructure, access controls, deployment processes and developer environments remain appropriately secured.
+
+This role does not cover smart-contract auditing or protocol-level security reviews, which are handled by a separate internal team.
+
+
+
+
+What You’ll Own
+
+Cloud Infrastructure and Platform Engineering
+
+Design, build and operate highly available production infrastructure on Google Cloud Platform.
+Manage and improve Kubernetes clusters, networking, compute, storage, databases and other managed cloud services.
+Build reusable infrastructure through infrastructure-as-code and automation.
+Improve the scalability, reliability, performance and cost efficiency of production systems.
+Establish consistent infrastructure standards across development, staging and production environments.
+Identify and resolve infrastructure bottlenecks, configuration issues and operational risks.
+Evaluate and implement new infrastructure tools where they provide clear operational value.
+Maintain clear documentation and runbooks for critical systems.
+
+CI/CD and Deployment Automation
+
+Own and improve CI/CD pipelines, build systems and deployment workflows.
+Automate testing, builds, releases, environment provisioning and production deployments.
+Improve deployment speed and reliability while maintaining appropriate safeguards.
+Secure source-code repositories, build environments, automation systems and deployment credentials.
+Implement branch protections, approval workflows, rollback processes and deployment auditability.
+Review infrastructure-as-code and deployment configurations for reliability and security issues.
+Work closely with engineers to make deployments simple, repeatable and safe.
+
+Reliability, Monitoring and Observability
+
+Build and maintain monitoring, logging, alerting and observability across infrastructure and applications.
+Define service-level indicators and operational metrics for critical production systems.
+Improve visibility into system health, application performance and infrastructure utilisation.
+Detect and investigate abnormal service behaviour before it becomes a major incident.
+Reduce alert noise and ensure that operational alerts are clear and actionable.
+Identify recurring production issues and implement long-term preventive improvements.
+Conduct capacity planning and prepare systems for periods of increased activity.
+
+Production Operations and Incident Response
+
+Respond to production incidents involving infrastructure, services, APIs, databases and deployment systems.
+Lead technical investigations from initial alert through containment, diagnosis and resolution.
+Coordinate recovery efforts across DevOps, SRE, backend and frontend engineering.
+Perform root-cause analysis and lead post-incident reviews.
+Develop and maintain incident-response and disaster-recovery playbooks.
+Improve system resilience, redundancy, backup and recovery processes.
+Participate in an appropriate production support or on-call rotation.
+
+Infrastructure and Operational Security
+
+Apply security best practices across cloud infrastructure, Kubernetes, CI/CD and developer environments.
+Manage IAM, service accounts, privileged access and least-privilege policies.
+Improve the management of credentials, secrets, API keys and deployment permissions.
+Monitor infrastructure and production systems for suspicious access, configuration changes and abnormal activity.
+Identify exposed services, excessive permissions, insecure configurations and other infrastructure weaknesses.
+Introduce network segmentation and appropriate controls around sensitive systems.
+Strengthen software-supply-chain security across repositories, dependencies and build environments.
+Support the investigation and remediation of infrastructure or application security incidents.
+Establish secure infrastructure baselines and monitor environments for deviations.
+
+Engineering Collaboration
+
+Partner with backend and frontend engineers to improve application deployment, reliability and performance.
+Provide infrastructure guidance during the design of new services and products.
+Help engineers diagnose production and performance issues.
+Review backend architecture from an operational, scalability and security perspective.
+Contribute to backend or DevOps code when additional engineering support is required.
+Improve service-to-service authentication, API security and production configuration.
+Make infrastructure and security practices practical and easy for engineers to adopt.
+
+
+
+
+What We’re Looking For
+
+Essential Experience
+
+At least 7 years of hands-on experience across DevOps, SRE, cloud infrastructure or production engineering.
+Strong production experience with Google Cloud Platform or another major cloud provider.
+Deep experience deploying and operating Kubernetes in production.
+Strong knowledge of networking, Linux systems, containers, DNS, load balancing and cloud architecture.
+Experience with infrastructure-as-code tools such as Terraform.
+Strong experience designing and maintaining CI/CD pipelines.
+Experience building monitoring, logging, alerting and observability systems.
+Demonstrated ability to investigate and resolve complex production incidents independently.
+Strong understanding of IAM, authentication, authorisation, secrets management and infrastructure security.
+Ability to navigate infrastructure configurations, application code, logs and distributed production systems.
+Proficiency in at least one relevant programming or scripting language, such as Go, Python, TypeScript/Node.js, Java or Rust.
+Strong debugging, automation and problem-solving capabilities.
+Ability to operate independently in a fast-moving engineering environment.
+Working knowledge of cryptocurrency, blockchain, DeFi and exchange infrastructure.
+
+Security Experience Required
+
+This is primarily a DevOps and production-infrastructure role, but candidates must have practical security experience, including:
+
+Securing cloud and Kubernetes environments.
+Implementing least-privilege access controls.
+Managing secrets and privileged credentials.
+Securing CI/CD and deployment pipelines.
+Monitoring systems for suspicious activity.
+Supporting security-incident investigation and remediation.
+Identifying infrastructure and application misconfigurations.
+
+A dedicated cybersecurity background is not required if you have demonstrated experience incorporating security into the systems you have built and operated.
+
+Bonus Experience
+
+Previous experience supporting cryptocurrency, blockchain, DeFi, exchange or financial-technology infrastructure.
+Significant production experience with GCP and Google Kubernetes Engine.
+Experience operating high-throughput, high-availability or financially sensitive systems.
+Experience with backend services, APIs and distributed systems.
+Experience conducting security reviews or collaborating with security researchers and auditors.
+Relevant cloud, Kubernetes or security certifications.
+Diploma or bachelor’s degree in Computer Science, Cloud Engineering, Infrastructure Security or a related discipline.
+
+
+
+
+Who You’ll Work With
+
+You will work closely with:
+
+Backend and frontend engineering.
+DevOps and SRE.
+Product and operations.
+Internal security specialists.
+External infrastructure or security partners where appropriate.
+
+This is a high-ownership role with significant autonomy and direct responsibility for the reliability and security of production systems.
+
+
+
+
+Scope Clarification
+
+The role focuses on DevOps, cloud infrastructure, production reliability and operational security. Smart-contract auditing and protocol-security reviews are outside its scope.
+
+
+
+
+Location Requirement
+
+Candidates must be based in Singapore or Kuala Lumpur.
+
+
+
+
+Application
+
+This is a confidential search managed by Nodeworthy.
+
+To apply, please submit:
+
+Your CV.
+A brief description of a production infrastructure environment you have owned.
+An example of a major production or security incident you investigated and resolved.
+Your GitHub profile or technical portfolio, if available.
+
+Shortlisted candidates will receive further information about the company and opportunity directly from Nodeworthy.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Information Services and Technology, Information and Media
+  
+
+Referrals increase your chances of interviewing at Meteora by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+BIT Official
+Singapore, Singapore
+1 day ago
+DevOps Engineer
+DevOps Engineer
+Capgemini
+Singapore, Singapore
+2 months ago
+DevOps Engineer
+DevOps Engineer
+Capgemini Engineering
+Singapore
+3 weeks ago
+DevOps & Kubernetes Engineer
+DevOps & Kubernetes Engineer
+Accenture Southeast Asia
+Singapore, Singapore
+3 weeks ago
+DevOps Engineer
+DevOps Engineer
+Merquri
+Singapore, Singapore
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+stakefish
+Singapore
+$130,000 - $180,000
+5 days ago
+Show more jobs like this 
+People also viewed
+DevOps Engineer
+DevOps Engineer
+
+SCIENTE
+
+Singapore, Singapore
+1 day ago
+DevOps Engineer
+DevOps Engineer
+
+Temus
+
+Singapore, Singapore
+2 weeks ago
+Cloud Engineer
+Cloud Engineer
+
+VeSync
+
+Singapore, Singapore
+3 weeks ago
+Platform Engineer
+Platform Engineer
+
+Vitol
+
+Singapore, Singapore
+18 hours ago
+Site Reliability Engineer (Cloud) - Infrastructure Engineering
+Site Reliability Engineer (Cloud) - Infrastructure Engineering
+
+ByteDance
+
+Singapore, Singapore
+1 week ago
+CRM DevOps Engineer
+CRM DevOps Engineer
+
+StarHub
+
+Singapore, Singapore
+4 days ago
+DevOps Engineer
+DevOps Engineer
+
+Mav3rik
+
+Singapore
+4 months ago
+DevOps Consultant - GS26021
+DevOps Consultant - GS26021
+
+Activate Interactive
+
+Singapore, Singapore
+1 month ago
+DevOps Engineer (Transcribe)
+DevOps Engineer (Transcribe)
+
+Assurity Trusted Solutions Pte Ltd
+
+Singapore, Singapore
+3 months ago
+DevOps Engineer - A26318
+DevOps Engineer - A26318
+
+Activate Interactive
+
+Singapore, Singapore
+1 week ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Meteora
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

@@ -1,0 +1,258 @@
+Title: DevOps Engineer
+Company: SCIENTE
+Location: Singapore, Singapore
+URL: https://sg.linkedin.com/jobs/view/devops-engineer-at-sciente-4471250513
+Posted: 2026-10-09
+Deadline: N/A
+Reason: The job aligns with Priya's expertise in DevOps engineering, CI/CD pipelines, automation, and release management, and is located in Singapore (a target country) with no explicit visa sponsorship restrictions.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+SCIENTE  Singapore, Singapore
+1 day ago  140 applicants
+  
+
+See who SCIENTE has hired for this role
+
+Apply
+Save
+
+Direct message the job poster from SCIENTE
+
+Nabanita Poddar
+Nabanita Poddar
+Lead - Talent Acquisition APAC at SCIENTE
+
+Job Summary
+
+We are seeking an experienced Application Operations / DevOps Engineer with strong experience in enterprise application support, UNIX environments, automation, and production operations. The role involves providing L2 operational support, improving system reliability, implementing automation and CI/CD pipelines, managing incidents and escalations, and driving continuous improvements across complex IT environments. The position also requires hands-on experience with scripting, DevOps tools, monitoring, application architecture, ITIL practices, and collaboration between Development and Operations teams.
+
+Mandatory Skill-set
+
+Minimum 8+ years of experience working in UNIX/Linux environments;
+Strong experience in Application Operations, Production Support, and L2 technical support;
+Hands-on experience with at least one DevOps technology such as Ansible, GitLab, Docker, or Kubernetes;
+Strong experience in system operations, troubleshooting, incident management, and technical issue resolution;
+Experience with scripting languages, preferably Python and/or PowerShell;
+Good understanding of IT ecosystems, application architectures, infrastructure, and production environments;
+Experience in automation, monitoring, alerting, and system reliability improvements;
+Strong understanding of CI/CD pipelines and DevOps practices;
+Experience supporting complex operational activities including disaster recovery, migrations, major maintenance, and production changes;
+Ability to perform Root Cause Analysis (RCA) and implement corrective/preventive actions;
+Experience managing technical escalations and ensuring timely resolution of production issues;
+Strong understanding of ITIL practices, Agile methodologies, and continuous improvement principles;
+Ability to maintain and improve existing operational workflows, processes, and frameworks;
+Strong analytical, troubleshooting, problem-solving, and communication skills;
+Bachelor’s degree in Computer Science, Information Technology, Programming & Systems Analysis, Computer Studies, or a related discipline.
+
+Desired Skill-set
+
+Experience working in the banking or financial services domain;
+Experience with Control-M or other enterprise task schedulers;
+Knowledge of observability and monitoring tools such as Grafana, Kibana, Prometheus, AppDynamics, or Dynatrace;
+Experience with Docker, Kubernetes, Ansible, and GitLab environments;
+Knowledge of production monitoring, alert management, application performance, and system availability;
+Experience with security monitoring and operational controls;
+Knowledge of disaster recovery, system migrations, and major maintenance activities;
+Experience with on-call support and rotational shift environments.
+
+Responsibilities
+
+Provide primary operational technical support for enterprise applications and assist functional support teams with technical troubleshooting;
+Provide L2 production support, investigate incidents, manage technical issues, and coordinate escalations through to resolution;
+Monitor production applications and infrastructure to ensure availability, reliability, performance, and operational stability;
+Troubleshoot complex issues across UNIX/Linux environments, applications, infrastructure, and interconnected IT systems;
+Perform Root Cause Analysis (RCA) for recurring and major incidents and implement appropriate corrective and preventive actions;
+Support complex operational activities including disaster recovery, application migrations, major maintenance, upgrades, and production changes;
+Automate repetitive operational tasks using Python, PowerShell, Ansible, or other scripting/automation technologies;
+Develop and maintain CI/CD pipelines to improve deployment efficiency and reduce time-to-market;
+Implement and improve monitoring, alerting, observability, and operational dashboards using appropriate enterprise tools;
+Improve system reliability and quality through automation, proactive monitoring, security enhancements, and continuous improvement initiatives;
+Maintain and improve existing operational workflows, processes, standards, and support frameworks;
+Work closely with Development and Operations teams to bridge the gap between application development and production operations;
+Maintain programmable code and operational scripts based on technical instructions and system specifications;
+Manage technical escalations, production incidents, planned changes, and operational activities while ensuring appropriate communication with stakeholders;
+Participate in rotational shifts and on-call support for critical production environments, including non-business hours and weekends when required;
+Support incident, change, and problem management processes in accordance with ITIL and organizational standards;
+Identify opportunities to improve operational efficiency, system stability, and automation across the application landscape;
+Prepare and maintain technical documentation, operating procedures, knowledge articles, and troubleshooting guides;
+Conduct knowledge-sharing sessions and provide technical guidance and training to team members;
+Collaborate with globally distributed teams and stakeholders to ensure effective delivery of operational services;
+Promote a culture of continuous learning, innovation, knowledge sharing, and proactive problem-solving.
+
+
+
+
+Should you be interested in this career opportunity, please send in your updated resume to apply@sciente.com at the earliest.
+
+
+
+
+When you apply, you voluntarily consent to the disclosure, collection and use of your personal data for employment/recruitment and related purposes in accordance with the SCIENTE Group Privacy Policy, a copy of which is published at SCIENTE’s website (https://www.sciente.com/privacy-policy).
+
+
+
+
+Confidentiality is assured, and only shortlisted candidates will be notified for interviews.
+
+
+
+
+EA Licence No. 07C5639
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Contract
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at SCIENTE by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+BIT Official
+Singapore, Singapore
+1 day ago
+DevOps Engineer
+DevOps Engineer
+Capgemini
+Singapore, Singapore
+2 months ago
+DevOps Engineer
+DevOps Engineer
+Capgemini Engineering
+Singapore
+3 weeks ago
+DevOps & Kubernetes Engineer
+DevOps & Kubernetes Engineer
+Accenture Southeast Asia
+Singapore, Singapore
+3 weeks ago
+DevOps Engineer
+DevOps Engineer
+Merquri
+Singapore, Singapore
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+stakefish
+Singapore
+$130,000 - $180,000
+5 days ago
+Show more jobs like this 
+People also viewed
+DevOps Engineer
+DevOps Engineer
+
+Temus
+
+Singapore, Singapore
+2 weeks ago
+Cloud Engineer
+Cloud Engineer
+
+VeSync
+
+Singapore, Singapore
+3 weeks ago
+Platform Engineer
+Platform Engineer
+
+Vitol
+
+Singapore, Singapore
+19 hours ago
+Site Reliability Engineer (Cloud) - Infrastructure Engineering
+Site Reliability Engineer (Cloud) - Infrastructure Engineering
+
+ByteDance
+
+Singapore, Singapore
+1 week ago
+CRM DevOps Engineer
+CRM DevOps Engineer
+
+StarHub
+
+Singapore, Singapore
+4 days ago
+DevOps Engineer
+DevOps Engineer
+
+Mav3rik
+
+Singapore
+4 months ago
+DevOps Consultant - GS26021
+DevOps Consultant - GS26021
+
+Activate Interactive
+
+Singapore, Singapore
+1 month ago
+DevOps Engineer (Transcribe)
+DevOps Engineer (Transcribe)
+
+Assurity Trusted Solutions Pte Ltd
+
+Singapore, Singapore
+3 months ago
+DevOps Engineer - A26318
+DevOps Engineer - A26318
+
+Activate Interactive
+
+Singapore, Singapore
+1 week ago
+CloudOps Engineer
+CloudOps Engineer
+
+Adecco
+
+Singapore, Singapore
+SGD 6,500 - SGD 7,800
+1 day ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at SCIENTE
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

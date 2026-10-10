@@ -1,0 +1,197 @@
+Title: DevOps Engineer
+Company: User Experience Researchers Pte Ltd (Singapore)
+Location: Singapore, Singapore
+URL: https://sg.linkedin.com/jobs/view/devops-engineer-at-user-experience-researchers-pte-ltd-singapore-4476260815
+Posted: 2026-10-09
+Deadline: N/A
+Reason: The job as a DevOps Engineer in Singapore matches Priya's CI/CD/configuration-management expertise (Terraform, Ansible, Jenkins/GitHub Actions) and regulated-industry experience, while aligning with her target countries and mid-senior-level role preference.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+User Experience Researchers Pte Ltd (Singapore)  Singapore, Singapore
+1 day ago  56 applicants
+  
+
+See who User Experience Researchers Pte Ltd (Singapore) has hired for this role
+
+Apply
+Save
+
+Key Responsibilities:
+
+Provision, configure, and support AWS cloud infrastructure across enterprise environments, including compute, networking, storage, databases, containers, and related cloud services.
+Develop and maintain Infrastructure as Code (IaC) and support automation of infrastructure provisioning, configuration, patching, and operational activities using Terraform, Ansible, AWS Systems Manager, Python, and Shell scripting.
+Support CI/CD and DevOps workflows, including infrastructure deployment, configuration management, source-code management, security scanning, and automated operational processes.
+Monitor infrastructure availability, performance, capacity, and security using cloud and enterprise monitoring/logging solutions; troubleshoot infrastructure and production issues and support root-cause analysis.
+Implement and maintain infrastructure security controls, including IAM and least-privilege access, system hardening, patch management, vulnerability remediation, security findings, and audit/compliance requirements.
+Collaborate with application, cybersecurity, network, cloud platform, and service provider teams, and maintain technical documentation, SOPs, operational runbooks, and infrastructure standards.
+
+
+
+
+What We Are Looking For:
+
+Bachelor's degree in Computer Science, Information Technology, Engineering, or a related discipline, or equivalent professional experience.
+Minimum 3–5 years of relevant experience in ICT infrastructure, cloud engineering, DevOps, systems engineering, or infrastructure operations, with hands-on exposure to AWS environments.
+Good knowledge of AWS services covering compute, networking, storage, databases, IAM, monitoring, and related cloud infrastructure services.
+Hands-on experience with Terraform, Ansible, or equivalent Infrastructure as Code and configuration-management technologies.
+Experience with CI/CD and source-control platforms such as GitLab CI/CD, Jenkins, GitHub Actions, Bitbucket, or equivalent technologies.
+Good understanding of cloud and infrastructure security, including IAM, least privilege, vulnerability management, system hardening, patching, security findings remediation, and audit/compliance requirements.
+Experience with scripting and automation using Python, Shell/Bash, AWS Systems Manager, or equivalent technologies.
+Good analytical, troubleshooting, communication, and collaboration skills, with the ability to work effectively with application, infrastructure, cybersecurity, network, and service provider teams.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at User Experience Researchers Pte Ltd (Singapore) by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+BIT Official
+Singapore, Singapore
+1 day ago
+DevOps Engineer
+DevOps Engineer
+Capgemini
+Singapore, Singapore
+2 months ago
+DevOps Engineer
+DevOps Engineer
+Capgemini Engineering
+Singapore
+3 weeks ago
+DevOps & Kubernetes Engineer
+DevOps & Kubernetes Engineer
+Accenture Southeast Asia
+Singapore, Singapore
+3 weeks ago
+DevOps Engineer
+DevOps Engineer
+Merquri
+Singapore, Singapore
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+stakefish
+Singapore
+$130,000 - $180,000
+5 days ago
+Show more jobs like this 
+People also viewed
+DevOps Engineer
+DevOps Engineer
+
+Temus
+
+Singapore, Singapore
+2 weeks ago
+Cloud Engineer
+Cloud Engineer
+
+VeSync
+
+Singapore, Singapore
+3 weeks ago
+Platform Engineer
+Platform Engineer
+
+Vitol
+
+Singapore, Singapore
+19 hours ago
+Site Reliability Engineer (Cloud) - Infrastructure Engineering
+Site Reliability Engineer (Cloud) - Infrastructure Engineering
+
+ByteDance
+
+Singapore, Singapore
+1 week ago
+CRM DevOps Engineer
+CRM DevOps Engineer
+
+StarHub
+
+Singapore, Singapore
+4 days ago
+DevOps Engineer
+DevOps Engineer
+
+Mav3rik
+
+Singapore
+4 months ago
+DevOps Consultant - GS26021
+DevOps Consultant - GS26021
+
+Activate Interactive
+
+Singapore, Singapore
+1 month ago
+DevOps Engineer (Transcribe)
+DevOps Engineer (Transcribe)
+
+Assurity Trusted Solutions Pte Ltd
+
+Singapore, Singapore
+3 months ago
+DevOps Engineer - A26318
+DevOps Engineer - A26318
+
+Activate Interactive
+
+Singapore, Singapore
+1 week ago
+CloudOps Engineer
+CloudOps Engineer
+
+Adecco
+
+Singapore, Singapore
+SGD 6,500 - SGD 7,800
+1 day ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at User Experience Researchers Pte Ltd (Singapore)
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
