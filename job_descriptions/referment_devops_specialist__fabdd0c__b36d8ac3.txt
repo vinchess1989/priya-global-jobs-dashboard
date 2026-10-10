@@ -1,0 +1,240 @@
+Title: DevOps Specialist (FABDD0C)
+Company: Referment
+Location: London, England, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/devops-specialist-fabdd0c-at-referment-4476902319
+Posted: 2026-10-08
+Deadline: N/A
+Reason: The role aligns with Priya's DevOps/CI-CD expertise (Jenkins, Docker, Kubernetes), configuration management background, and regulated-industry quality gatekeeping experience, despite not being in a medical/device-regulated domain.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Specialist (FABDD0C)
+Referment  London, England, United Kingdom
+2 days ago  30 applicants
+  
+
+See who Referment has hired for this role
+
+Apply
+Save
+Referment is working with a London-based technology company that builds data transparency and accountability tools for the investment management industry. Its platform aggregates and validates cost and holdings data from across the investment supply chain, serving pension funds, asset managers and other service providers. The DevOps team sits with the core application team and runs the multi-tenant cluster that serves both production customers and in-office developers.
+
+The Role
+
+You'll join a cross-disciplinary team responsible for a robust multi-tenant cluster, participating in the daily scrum and weekly releases. The team's automation covers the whole stack, from OS installation through UI and regression testing to production deployment, and you'll help extend it further. You'll work on new capabilities including continuous deployment, data-centre affinity and workload management, and contribute to improvements in build, performance, security, operating systems, networking and monitoring. The team breaks long-term projects into small deliveries to achieve rapid change, and expects you to be an expert in at least one of these disciplines and able to bring others along.
+
+What We're Looking For
+
+
+Strong grounding in Linux systems administration and automation
+Expertise in at least one area such as build, performance, security, networking, storage or monitoring
+A track record of improving continuous integration and provisioning at scale
+Belief in breaking long-term projects into small, frequent deliveries
+Willingness to share knowledge with peers inside and outside the team
+
+
+Technologies
+
+
+OS: Red Hat Linux, bare metal and virtual machines
+Provisioning: Puppet, Kickstart, RPM
+Languages: Bash, Ruby, Python, Java, Clojure
+Security: Kerberos, SELinux, LDAP
+Big data: HDFS, Flink, Kafka
+Containers: Docker, KVM
+Schedulers: YARN, Kubernetes
+CI/CD: Jenkins
+
+
+This could suit a senior DevOps or platform engineer from a Linux-heavy, high-throughput environment who wants ownership of automation across the full stack.
+
+#Referment
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development, Investment Management, and IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Referment by 2x
+
+See who you know
+
+Get notified about new DevOps Specialist jobs in London, England, United Kingdom.
+
+Sign in to create job alert
+Jobs
+Financial Economist jobs
+DevOps Specialist (FABDD0C)
+Similar jobs
+🛠️ SITE RELIABILITY ENGINEER / DEVOPS
+🛠️ SITE RELIABILITY ENGINEER / DEVOPS
+Tandem Dating
+Harrow, England, United Kingdom
+3 months ago
+DevOps Engineer, Studios
+DevOps Engineer, Studios
+IMG
+Uxbridge, England, United Kingdom
+1 day ago
+SRE, London
+SRE, London
+Apple
+London, England, United Kingdom
+3 months ago
+DevOps Engineer
+DevOps Engineer
+Pharo Management
+London, England, United Kingdom
+1 week ago
+DevOps Engineer
+DevOps Engineer
+Ripjar
+London, England, United Kingdom
+5 months ago
+DevOps Engineer
+DevOps Engineer
+Neev
+London Area, United Kingdom
+1 day ago
+Show more jobs like this 
+People also viewed
+DevOps Engineer
+DevOps Engineer
+
+Netcompany
+
+London, England, United Kingdom
+6 days ago
+DevOps Engineer
+DevOps Engineer
+
+Kharon
+
+London, England, United Kingdom
+£90,000 - £105,000
+2 days ago
+Platform Engineer
+Platform Engineer
+
+Akuna Capital
+
+London, England, United Kingdom
+3 weeks ago
+Dev Ops Engineer
+Dev Ops Engineer
+
+Millennium
+
+London, England, United Kingdom
+4 days ago
+DevOps Engineer
+DevOps Engineer
+
+Perk
+
+London, England, United Kingdom
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+IQGeo
+
+Cambridge, England, United Kingdom
+3 weeks ago
+Platform Engineer
+Platform Engineer
+
+OLI
+
+Cambridge, England, United Kingdom
+£80,000 - £90,000
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Prima
+
+London, England, United Kingdom
+16 hours ago
+DevOps Engineer
+DevOps Engineer
+
+BAE Systems Digital Intelligence
+
+London, England, United Kingdom
+1 year ago
+DevOps Engineer
+DevOps Engineer
+
+BAE Systems
+
+London, England, United Kingdom
+2 weeks ago
+Similar Searches
+Financial Economist jobs
+135 open jobs
+Senior Desktop Engineer jobs
+668 open jobs
+Head of Support jobs
+13,020 open jobs
+Windows Engineer jobs
+1,158 open jobs
+Information Technology Services Manager jobs
+878 open jobs
+Head of Infrastructure jobs
+1,287 open jobs
+Market Maker jobs
+199 open jobs
+Technology Manager jobs
+8,928 open jobs
+Quantitative Risk Analyst jobs
+3,210 open jobs
+Quantitative Researcher jobs
+1,697 open jobs
+Economist jobs
+22,388 open jobs
+Storage Administrator jobs
+1,404 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Referment
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

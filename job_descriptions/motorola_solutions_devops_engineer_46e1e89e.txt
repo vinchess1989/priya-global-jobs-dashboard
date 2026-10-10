@@ -1,0 +1,267 @@
+Title: DevOps Engineer
+Company: Motorola Solutions
+Location: Cork, County Cork, Ireland
+URL: https://ie.linkedin.com/jobs/view/devops-engineer-at-motorola-solutions-4477183616
+Posted: 2026-10-09
+Deadline: N/A
+Reason: The job as a DevOps Engineer at Motorola Solutions in Cork, Ireland matches Priya's expertise in CI/CD pipelines, configuration management, and regulated-industry compliance, aligning with her background at Elektrobit and Topcon Healthcare.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+Motorola Solutions  Cork, County Cork, Ireland
+1 day ago  31 applicants
+  
+
+See who Motorola Solutions has hired for this role
+
+Apply 
+Save
+Company Overview
+
+At Motorola Solutions, we believe that everything starts with our people. We’re a global close-knit community, united by the relentless pursuit to help keep people safer everywhere. We build and connect technologies to help protect people, property and places. Our solutions foster the collaboration that’s critical for safer communities, safer schools, safer hospitals, safer businesses, and ultimately, safer nations. Connect with a career that matters, and help us build a safer future.
+
+Department Overview
+
+Department Description
+
+Innovation is the oxygen of our company, and in 2023, we invested more than US$850 million in research and development (R&D). We’re now opening a new Research & Development Centre in Cork, Ireland focused on designing software for the company’s comprehensive land mobile radio (LMR) portfolio, with plans for expansion across other technologies in the future.
+
+Motorola Solutions’ ecosystem of technologies is centred on safety and security, with LMR representing a foundational core. The company has deployed more than 13,000 LMR networks worldwide, trusted by governments and enterprises for highly secure communications designed to work in the most extreme conditions. Modernised with broadband and advanced data applications, LMR remains at the forefront of providing public safety agencies with the communications they rely on and need.
+
+You’ll be part of our diverse and experienced global team, developing meaningful solutions that support thousands of public safety agencies and enterprises worldwide in solving complex safety and security challenges. Come join our team to work on real-world projects with a real-world impact.
+
+Job Description
+
+
+We are looking for a DevOps Engineer to join our team of innovative engineers who are consistently raising the bar on creativity and user experiences. Responsibilities include but not limited to:
+Design and implement improvements on current SCM/DevOps practices to stay on top of industry standard best practices with emphasis on automation.
+Implement automation strategies, effective monitoring, deploy and maintain CI/CD pipelines.
+Build and release engineer.
+Inter-group and intra-group teamwork in a multi-site world-wide development environment.
+
+
+Basic Requirements
+
+
+Practical Knowledge of Git
+Experience in Linux OS as a user
+Knowledge of Continuous Integration tools, preferably Jenkins
+Knowledge of Cloud Platforms (e.g. GCP)
+Knowledge of Docker Containerization
+Knowledge of JCasc or IAC
+Scripting Languages: Bash, Perl, Python
+Programming Languages: Groovy, Java
+Tools: Git, Bitbucket, Artifactory, Jenkins, Sonarcube, Klocwork, Gradle, Maven, MySQL
+Infrastructure: Linux, AWS, Azure, Dockers
+A drive towards automating repetitive tasks (e.g. scripting via Python, Bash, Groovy)
+AI Engineering Tools: Claude Code, Github Copilot, ChatGPT
+Willingness to learn and apply new technologies through self-learning
+Ability to work independently but also be a team player
+
+
+Basic Requirements
+
+
+Bachelor's Degree required; major in Computer Science, Computer Engineering, or Electrical Engineering
+1+ years experience desirable
+
+
+In Return For Your Expertise, We’ll Support You In This New Challenge With Coaching & Development Every Step Of The Way. Also, To Reward Your Hard Work You’ll Get
+
+
+Competitive salary and bonus schemes
+24 days holiday entitlement + bank holidays
+Attractive Master Trust pension arrangement
+Flexible working options
+Private medical care
+Employee Stock Purchase Plan
+Life assurance
+Career development support and wide ranging learning opportunities
+Employee health and wellbeing support EAP, wellbeing guidance etc.
+Corporate social responsibility initiatives including support for volunteering days
+Family friendly policies
+
+
+Travel Requirements
+
+Under 10%
+
+Relocation Provided
+
+None
+
+Position Type
+
+Experienced
+
+Referral Payment Plan
+
+No
+
+Company
+
+Motorola Solutions Ireland Limited
+
+EEO Statement
+
+Motorola Solutions is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion or belief, sex, sexual orientation, gender identity, national origin, disability, veteran status or any other legally-protected characteristic.
+
+We are proud of our people-first and community-focused culture, empowering every Motorolan to be their most authentic self and to do their best work to deliver on the promise of a safer world. If you’d like to join our team but feel that you don’t quite meet all of the preferred skills, we’d still love to hear why you think you’d be a great addition to our team.
+
+
+Show more 
+Seniority level
+Entry level
+Employment type
+Full-time
+Industries
+Telecommunications
+  
+
+Referrals increase your chances of interviewing at Motorola Solutions by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Cork, County Cork, Ireland.
+
+Sign in to create job alert
+Similar jobs
+Ops Engineer
+Ops Engineer
+NetApp
+Cork, County Cork, Ireland
+1 week ago
+Ops Engineer
+Ops Engineer
+NetApp
+County Cork, Ireland
+6 days ago
+Dev Ops Senior Engineer
+Dev Ops Senior Engineer
+Acuity
+Cork, County Cork, Ireland
+3 days ago
+Lead DevOps Engineer
+Lead DevOps Engineer
+The Citco Group Limited
+Cork, County Cork, Ireland
+2 weeks ago
+Junior DevOps Engineer – Jenkins - Cork, Ireland
+Junior DevOps Engineer – Jenkins - Cork, Ireland
+Qualcomm
+Cork, County Cork, Ireland
+1 week ago
+Lead Cloud Operations Engineer | Cork Based
+Lead Cloud Operations Engineer | Cork Based
+OpenText
+Cork, County Cork, Ireland
+1 week ago
+Show more jobs like this 
+People also viewed
+Lead Cloud Systems Engineer | Cork
+Lead Cloud Systems Engineer | Cork
+
+OpenText
+
+Cork, County Cork, Ireland
+1 week ago
+Sr. Site Reliability Engineer | Cork
+Sr. Site Reliability Engineer | Cork
+
+OpenText
+
+Cork, County Cork, Ireland
+1 week ago
+Sr. Site Reliability Administrator
+Sr. Site Reliability Administrator
+
+OpenText
+
+Cork, County Cork, Ireland
+1 day ago
+Software Engineer
+Software Engineer
+
+NetApp
+
+Cork, County Cork, Ireland
+21 hours ago
+Software Engineer
+Software Engineer
+
+NetApp
+
+County Cork, Ireland
+1 day ago
+Sr. Cloud Applications Engineer (SRE) | Cork
+Sr. Cloud Applications Engineer (SRE) | Cork
+
+OpenText
+
+Cork, County Cork, Ireland
+1 week ago
+Software Engineer
+Software Engineer
+
+NetApp
+
+Cork, County Cork, Ireland
+1 day ago
+Software Engineer
+Software Engineer
+
+NetApp
+
+County Cork, Ireland
+2 days ago
+Senior Cloud Applications Developer
+Senior Cloud Applications Developer
+
+OpenText
+
+Cork, County Cork, Ireland
+1 week ago
+Principal Cloud Systems Engineer
+Principal Cloud Systems Engineer
+
+OpenText
+
+Cork, County Cork, Ireland
+1 day ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Motorola Solutions
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
