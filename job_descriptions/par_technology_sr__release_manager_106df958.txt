@@ -1,0 +1,277 @@
+Title: Sr. Release Manager
+Company: PAR Technology
+Location: Markham, Ontario, Canada
+URL: https://ca.linkedin.com/jobs/view/sr-release-manager-at-par-technology-4456048374
+Posted: 2026-10-03
+Deadline: N/A
+Reason: The Sr. Release Manager role at PAR Technology in Canada aligns with the candidate's 15+ years of release management experience in regulated industries, CI/CD pipeline ownership, cross-functional coordination, and quality gatekeeping (matching Topcon/Elektrobit background). Location is Canada (remote), which is a target country and allows visa sponsorship.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Sr. Release Manager
+PAR Technology  Markham, Ontario, Canada
+1 week ago   Be among the first 25 applicants
+  
+
+See who PAR Technology has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+For over four decades, PAR Technology Corporation (NYSE: PAR) has been a leader in restaurant technology, empowering brands worldwide to create lasting connections with their guests. Our innovative solutions and commitment to excellence provide comprehensive software and hardware that enable seamless experiences and drive growth for over 100,000 restaurants in more than 110 countries. Embracing our "Better Together" ethos, we offer Unified Customer Experience solutions, combining point-of-sale, digital ordering, loyalty and back-office software solutions as well as industry-leading hardware and drive-thru offerings. To learn more, visit partech.com or connect with us on LinkedIn, X (formerly Twitter), Facebook, and Instagram.
+
+Position Description
+
+A Sr. Release Manager at PAR Technology orchestrates the end-to-end software release lifecycle for enterprise restaurant and retail systems, applying disciplined program management to bring structure, predictability, and accountability to complex delivery. The Release Manager coordinates cross-functional teams such as engineering, DevOps, product, and QA to execute complex, high-frequency deployments across stacks, ensuring safe, reliable production rollouts without service disruptions while operating in a fast-paced environment. This role is also expected to identify and act upon opportunities to apply AI and intelligent tooling to the release process itself — reducing manual effort, surfacing risk earlier, and continuously improving how PAR ships software.
+
+The ideal candidate is a results-oriented self-starter with proven experience in release management and technical program management; the ability to plan, sequence, and drive multi-team workstreams to a fixed date and the ability to influence without authority. This candidate is also comfortable evaluating and adopting AI-powered tools to improve how releases are planned, tracked, and executed.
+
+Position Location:
+
+Canada (Remote)
+
+Reports To
+
+Sr. Manager, Product Operations
+
+What We’re Looking For
+
+
+5+ years of experience in release management, program management, or project management, within a cross-functional multi-team software development environment.
+Deep understanding and experience with SDLC and Agile and Scrum frameworks.
+Proficiency in delivery and release tooling such as Jira (Administrator level), Confluence, Monday.com, and similar deployment, reporting, and dashboarding tools, with the ability to configure and maintain these systems, not just use them.
+Demonstrated experience leveraging AI and intelligent tooling (e.g., AI-assisted documentation and communication, automated risk/anomaly detection, chatbot-driven status reporting, workflow automation) to reduce manual effort, accelerate cadence, and continuously improve the release process.
+Superior organizational skills with a strong focus on quality and execution rigor.
+Strong program management capabilities, including building and maintaining detailed release plans, RAID logs, and dependency maps across multiple concurrent workstreams, and proactively managing scope, timeline, and resourcing tradeoffs.
+Strong collaboration and relationship-building skills; able to bring together diverse personalities and functions.
+Excellent communication skills, with the ability to document, present, and explain complex technical topics clearly to varied audiences.
+Experience creating executive-ready presentations and presenting to senior leaders.
+Strong listening skills and confidence in asking thoughtful, clarifying, and sometimes difficult questions.
+Passion for working with technical teams and environments.
+Strong leadership and influence skills without formal authority; a true servant leader.
+Excellent facilitation, negotiation, and conflict management skills.
+High degree of ownership, independence, and adaptability in fast-paced settings.
+
+
+Additional Skills
+
+
+Experience supporting large-scale software releases or platform transformations.
+Strong analytical and problem-solving capabilities.
+Ability to translate ambiguity into structured plans and execution paths.
+Comfort facilitating executive-level and cross-functional meetings.
+
+
+Unleash your potential: What you will be doing and owning:
+
+
+Deployment Execution: Own release-level prioritization, milestones, deliverables, and success criteria. Act as the primary point of contact for production deployments, patching, release issues, escalations, and contingency planning.
+Cross-Functional Orchestration: Drive alignment across engineering, DevOps, Product, QA, and Customer Success teams to ensure features ship on the committed release date and meet defined business and quality targets. Identify and manage internal and external dependencies, risks, and logistics throughout the release process, and build strong, trusted relationships with stakeholders. Apply conflict resolution, cross-team collaboration, and effective communication to drive alignment and results.
+Release Scheduling: Plan, coordinate, and maintain the release calendar across multiple development and testing environments.
+Quality & Risk Management: Monitor pre-release gates and coordinate “Go/No-Go” discussions to ensure software meets all quality, security, and compliance standards.
+Process Improvements and Automation: Identify, pilot, and scale AI and automation tooling (e.g., AI-assisted documentation and communication, automated quality/risk signal aggregation, workflow bots) to streamline deployment processes, reduce manual coordination overhead, and accelerate release cadence. Track and report on the measurable impact of these improvements.
+
+
+Interview Process
+
+Interview #1: Video Screen with Talent Acquisition
+
+Interview #2: Video interview with the Hiring Managers
+
+Interview #3: Video interview with Panel formed of Product and Engineering
+
+Interview #4: Video interview with Product & Engineering Leadership
+
+PAR is proud to provide equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability or genetics. We also provide reasonable accommodations to individuals with disabilities in accordance with applicable laws. If you require reasonable accommodation to complete a job application, pre-employment testing, a job interview or to otherwise participate in the hiring process, or for your role at PAR, please contact accommodations@partech.com. If you’d like more information about your EEO rights as an applicant, please visit the US Department of Labor's website.
+
+Compensation Range: CA$100K - CA$119K
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at PAR Technology by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Change And Release Manager jobs
+Sr. Release Manager
+Similar jobs
+Staff / Senior Deployment & Release Manager
+Staff / Senior Deployment & Release Manager
+AeroVect
+Toronto, Ontario, Canada
+1 month ago
+Sr. Release Manager
+Sr. Release Manager
+PAR Technology
+Toronto, Ontario, Canada
+1 week ago
+Senior Portfolio Release Manager — Flights Acquisition & Retention
+Senior Portfolio Release Manager — Flights Acquisition & Retention
+Priceline
+Toronto, Ontario, Canada
+3 days ago
+Senior Portfolio Release Manager, Customer Growth
+Senior Portfolio Release Manager, Customer Growth
+Priceline
+Toronto, Ontario, Canada
+2 weeks ago
+Release Lead
+Release Lead
+J&M Group
+Toronto, Ontario, Canada
+1 month ago
+Implementation Manager
+Implementation Manager
+TechDoQuest
+Toronto, Ontario, Canada
+1 week ago
+Show more jobs like this 
+People also viewed
+Software Engineer, Simulation Scalability - Sim RIM (Release and Incident Management) Focus
+Software Engineer, Simulation Scalability - Sim RIM (Release and Incident Management) Focus
+
+General Motors
+
+Markham, Ontario, Canada
+1 hour ago
+Workday Lead
+Workday Lead
+
+Teranet Inc.
+
+Toronto, Ontario, Canada
+20 hours ago
+Senior Technical Delivery Manager
+Senior Technical Delivery Manager
+
+fintex
+
+Toronto, Ontario, Canada
+CA$165,000 - CA$190,000
+2 weeks ago
+DevOps Project Manager
+DevOps Project Manager
+
+Tata Consultancy Services
+
+Toronto, Ontario, Canada
+CA$100,000 - CA$120,000
+4 weeks ago
+Senior DevOps Lead - Vice President
+Senior DevOps Lead - Vice President
+
+Citi
+
+Mississauga, Ontario, Canada
+2 weeks ago
+Senior ELM - Developer Productivity
+Senior ELM - Developer Productivity
+
+Index Exchange
+
+Toronto, Ontario, Canada
+2 weeks ago
+Technical Project Manager, Assessment
+Technical Project Manager, Assessment
+
+Esri Canada
+
+Toronto, Ontario, Canada
+3 weeks ago
+Site Reliability Engineer / Release Management & Automation Specialist
+Site Reliability Engineer / Release Management & Automation Specialist
+
+Sun Life
+
+North York, Ontario, Canada
+2 weeks ago
+Senior Manager, Business Applications and Partnering
+Senior Manager, Business Applications and Partnering
+
+Liberty
+
+Oakville, Ontario, Canada
+2 days ago
+Technical Program Manager
+Technical Program Manager
+
+eBay
+
+Toronto, Ontario, Canada
+5 hours ago
+Similar Searches
+Change And Release Manager jobs
+167 open jobs
+Release Engineer jobs
+1,158 open jobs
+Deployment Manager jobs
+4,679 open jobs
+Build And Release Engineer jobs
+1,070 open jobs
+Configuration Manager jobs
+487 open jobs
+Change Manager jobs
+8,343 open jobs
+Problem Manager jobs
+2,369 open jobs
+Assistant Professor of Mathematics jobs
+67 open jobs
+Delivery Manager jobs
+11,325 open jobs
+Game Producer jobs
+87 open jobs
+Incident Manager jobs
+585 open jobs
+SAP Basis Manager jobs
+124 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
