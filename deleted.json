@@ -5761,5 +5761,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "ADMIN WORKSHOP MANAGER",
+    "company": "Public Transport - Buscor",
+    "location": "City of Mbombela, Mpumalanga, South Africa",
+    "url": "https://za.linkedin.com/jobs/view/admin-workshop-manager-at-public-transport-buscor-4474899244",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job title 'Admin Workshop Manager' does not align with the candidate's expertise in technical communication, release management, configuration management, or regulated-industry quality/compliance roles.",
+    "id": "191421a2",
+    "source": "linkedin_za_configuration_manager",
+    "added_at": "2026-10-10T16:13:54+03:00",
+    "posted_date": "2026-10-09",
+    "deadline": "2025-08-28",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2025-08-28) passed by more than 2 days and unreviewed"
   }
 ]
