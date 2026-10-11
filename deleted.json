@@ -6509,5 +6509,39 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "EUROPEAN PRODUCT EXECUTIVE",
+    "company": "Click&GoHolidays",
+    "location": "Dublin, County Dublin, Ireland",
+    "url": "https://ie.linkedin.com/jobs/view/european-product-executive-at-click-goholidays-4467614075",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role 'European Product Executive' does not align with Priya's expertise in configuration management, release engineering, or technical documentation, and instead requires travel industry-specific product operations experience she lacks.",
+    "id": "96050d2b",
+    "source": "linkedin_ie_product_specialist",
+    "added_at": "2026-10-11T13:48:11+03:00",
+    "posted_date": "2026-09-27",
+    "deadline": "2026-10-01",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-10-01) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Technical & Regulatory Specialist",
+    "company": "The People Co.",
+    "location": "Dublin, County Dublin, Ireland",
+    "url": "https://ie.linkedin.com/jobs/view/technical-regulatory-specialist-at-the-people-co-4477656958",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires the candidate to hold the right to work in the UK and explicitly states no visa sponsorship is available, which disqualifies Priya due to her need for employer-sponsored visa support.",
+    "id": "e9260373",
+    "source": "linkedin_ie_product_specialist",
+    "added_at": "2026-10-11T13:48:11+03:00",
+    "posted_date": "2026-10-10",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
