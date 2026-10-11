@@ -6407,5 +6407,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Resident Engineer \u2013 LUBWSS Phase 2",
+    "company": "Ing\u00e9rop",
+    "location": "Durban, KwaZulu-Natal, South Africa",
+    "url": "https://za.linkedin.com/jobs/view/resident-engineer-%E2%80%93-lubwss-phase-2-at-ing%C3%A9rop-4437802132",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires a Resident Engineer with civil engineering and construction supervision experience, which does not align with the candidate's background in software configuration management, release engineering, and technical writing.",
+    "id": "97afca50",
+    "source": "linkedin_za_quality_manager",
+    "added_at": "2026-10-11T07:50:55+03:00",
+    "posted_date": "2026-07-13",
+    "deadline": "2026-07-10",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-07-10) passed by more than 2 days and unreviewed"
   }
 ]
