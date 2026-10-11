@@ -6339,5 +6339,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Staff Engineer (Backend experience with AI transformation)",
+    "company": "Signify Technology",
+    "location": "Malta",
+    "url": "https://mt.linkedin.com/jobs/view/staff-engineer-backend-experience-with-ai-transformation-at-signify-technology-4477232238",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job posting explicitly states 'No Sponsorship for this position,' which falls under the Hard Rejection criterion requiring visa sponsorship, and the role's focus on backend AI engineering does not align with the candidate's expertise in release/CM/DevOps or technical writing.",
+    "id": "2ec99211",
+    "source": "linkedin_mt_quality_engineer",
+    "added_at": "2026-10-11T06:35:54+03:00",
+    "posted_date": "2026-10-11",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
