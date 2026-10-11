@@ -6594,5 +6594,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Deadline (2026-09-16) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "National Quality, Compliance and Risk Manager Surrey Hills VIC, Australia",
+    "company": "ONCALL Group Australia",
+    "location": "Surrey Hills, Victoria, Australia",
+    "url": "https://au.linkedin.com/jobs/view/national-quality-compliance-and-risk-manager-surrey-hills-vic-australia-at-oncall-group-australia-4468920461",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires applicants to have Australian Working Rights, which Priya does not possess (she holds a Finnish residence permit and would need employer-sponsored visa for Australia), triggering a hard rejection under 'No Visa Sponsorship / Existing Right to Work Required'.",
+    "id": "fbf54156",
+    "source": "linkedin_au_quality_manager",
+    "added_at": "2026-10-11T20:46:28+03:00",
+    "posted_date": "2026-09-27",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
