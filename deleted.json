@@ -6560,5 +6560,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Deadline (2026-10-09) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "System Analyst / Analyst Programmer - Information Technology Services Office",
+    "company": "The Hong Kong University of Science and Technology",
+    "location": "Kwun Tong District, Hong Kong SAR",
+    "url": "https://hk.linkedin.com/jobs/view/system-analyst-analyst-programmer-information-technology-services-office-at-the-hong-kong-university-of-science-and-technology-4467434249",
+    "visited": "yes",
+    "matches_requirements": "maybe",
+    "reason": "The job is located in Hong Kong (target country) and involves documentation and release management, but the primary focus on application development may not fully align with the candidate\u2019s expertise in CI/CD, configuration management, or regulated industries.",
+    "id": "c052be05",
+    "source": "linkedin_hk_requirements_engineer",
+    "added_at": "2026-10-11T17:41:31+03:00",
+    "posted_date": "2026-09-20",
+    "deadline": "2026-09-29",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-09-29) passed by more than 2 days and unreviewed"
   }
 ]
