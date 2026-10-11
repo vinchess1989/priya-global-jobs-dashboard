@@ -6492,5 +6492,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Platform Engineering Manager",
+    "company": "Learnosity",
+    "location": "Sydney, New South Wales, Australia",
+    "url": "https://au.linkedin.com/jobs/view/platform-engineering-manager-at-learnosity-4475990001",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires the applicant to already have the right to live and work in Australia, which Priya does not possess, and no visa sponsorship is mentioned as available.",
+    "id": "dec7a355",
+    "source": "linkedin_au_release_manager",
+    "added_at": "2026-10-11T13:01:58+03:00",
+    "posted_date": "2026-10-09",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
