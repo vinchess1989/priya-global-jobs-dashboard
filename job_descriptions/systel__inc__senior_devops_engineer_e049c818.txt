@@ -1,0 +1,266 @@
+Title: Senior Devops Engineer
+Company: Systel, Inc.
+Location: Navi Mumbai, Maharashtra, India
+URL: https://in.linkedin.com/jobs/view/senior-devops-engineer-at-systel-inc-4431093149
+Posted: 2026-07-13
+Deadline: N/A
+Reason: The Senior DevOps Engineer role at Systel, Inc. in Navi Mumbai, India matches Priya's expertise in CI/CD pipelines, Azure infrastructure, and release management, aligning with her background at Elektrobit and Topcon, while meeting location and experience criteria.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Devops Engineer
+Systel, Inc.  Navi Mumbai, Maharashtra, India
+3 months ago   Be among the first 25 applicants
+  
+
+See who Systel, Inc. has hired for this role
+
+Apply
+Save
+Job Title: Senior DevOps Engineer ( 4+ Years)
+
+As a DevOps Engineer, you will play a key role in designing, implementing, and managing secure, scalable, and automated cloud infrastructure that powers our enterprise applications. This role focuses on building and maintaining CI/CD pipelines, automating deployments, managing Azure cloud environments, and ensuring high availability, reliability, and security across development, testing, and production systems.
+
+You will work closely with software developers, QA engineers, architects, database administrators, and IT teams to streamline software delivery, optimize infrastructure performance, and support AI-enabled cloud solutions.
+
+The ideal candidate is proactive, detail-oriented, passionate about automation, cloud technologies, infrastructure optimization, and continuous improvement.
+
+Duties and ResponsibilitiesCI/CD & Automation
+Design, build, and maintain CI/CD pipelines using Azure DevOps and GitHub Actions
+Automate application deployments for .NET Core, Angular, Web APIs, and database DACPACs
+Implement Git branching and release strategies to support efficient development workflows
+Develop deployment scripts and automate build and release processes
+Design zero-downtime deployment and rollback strategies
+Leverage AI-assisted DevOps tools to improve deployment, automation, troubleshooting, and operational efficiency
+Cloud Infrastructure Management
+Deploy, manage, and optimize Azure cloud environments ensuring scalability, security, and high availability
+Manage Azure App Services, Azure Kubernetes Service (AKS), Azure Virtual Machines, and API Management
+Implement Infrastructure-as-Code (IaC) using Terraform and ARM Templates
+Configure Azure Front Door, Load Balancers, and Application Gateway
+Support deployment and management of AI-powered applications using Azure AI Foundry, Azure OpenAI, and Azure AI Services
+Security & Compliance
+Integrate security best practices into CI/CD pipelines
+Manage secrets, certificates, and encryption keys using Azure Key Vault
+Ensure compliance with organizational security standards and policies
+Monitoring & Troubleshooting
+Implement logging, monitoring, and alerting using Azure Monitor, Application Insights, and related tools
+Troubleshoot infrastructure, deployment, and production issues across multiple environments
+Optimize system performance, reliability, and operational stability
+Collaboration & Documentation
+Collaborate with development, QA, and IT teams to improve deployment processes
+Document infrastructure, deployment procedures, and system configurations
+Participate in continuous improvement initiatives for DevOps processes and cloud operations
+Knowledge and Skills RequiredEducation and Experience
+Bachelor's degree in Computer Science, Information Technology, Engineering, or a related field
+4+ years of professional experience in DevOps, Cloud Infrastructure, or a related role
+Technical Skills
+Strong hands-on experience with Azure DevOps, GitHub Enterprise, and GitHub Actions
+Experience creating and managing CI/CD pipelines for .NET, Angular, APIs, and database deployments
+Strong knowledge of Microsoft Azure services including App Services, AKS, Virtual Machines, Azure API Management, and Azure Front Door
+Hands-on experience with Docker and Kubernetes (AKS)
+Experience implementing Infrastructure-as-Code using Terraform or ARM Templates
+Strong scripting skills using PowerShell, Bash, or Python
+Experience with Azure Monitor, Application Insights, and cloud monitoring tools
+Familiarity with Azure Key Vault and cloud security best practices
+Experience deploying AI-powered applications using Azure AI Foundry, Azure OpenAI, or Azure AI Services is an advantage
+Behavioral Competencies
+Fanatical Customer Service: Deliver reliable, high-quality infrastructure that supports business success
+Absolute Ownership: Take responsibility for infrastructure stability, deployment success, and operational excellence
+Passion for Improvement: Continuously improve automation, cloud infrastructure, and DevOps practices
+Uncompromising Integrity: Maintain transparency, accountability, and security in all DevOps activities
+Strong problem-solving, collaboration, and communication skills
+Benefits
+Opportunity to work on enterprise-scale cloud infrastructure and modern DevOps technologies
+Exposure to Azure cloud services, Kubernetes, Infrastructure-as-Code, and AI-powered solutions
+Collaborative and innovative work environment
+Continuous learning and professional growth opportunities
+Competitive compensation package
+Additional Information
+Experience: 4+ Years
+Location: Navi Mumbai
+Work Mode: Full-time | Work from Office
+
+ 
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Wireless Services, Telecommunications, and Communications Equipment Manufacturing
+  
+
+Referrals increase your chances of interviewing at Systel, Inc. by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Navi Mumbai, Maharashtra, India.
+
+Sign in to create job alert
+Similar jobs
+Senior DevOps Engineer
+Senior DevOps Engineer
+Newfold Digital
+Mumbai Metropolitan Region
+18 hours ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+novio
+Mumbai Metropolitan Region
+3 months ago
+Devops/ Senior Devops Engineer
+Devops/ Senior Devops Engineer
+NEC Software Solutions (India)
+Mumbai, Maharashtra, India
+2 weeks ago
+Devops/ Senior Devops Engineer
+Devops/ Senior Devops Engineer
+NEC Software Solutions
+Mumbai Metropolitan Region
+2 weeks ago
+Devops Engineer/ Senior Devops Engineer
+Devops Engineer/ Senior Devops Engineer
+WebEngage
+Mumbai, Maharashtra, India
+7 months ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+SourcingXPress
+Mumbai, Maharashtra, India
+5 months ago
+Show more jobs like this 
+People also viewed
+Senior Cloud Infrastructure Engineer – Mumbai / Hybrid
+Senior Cloud Infrastructure Engineer – Mumbai / Hybrid
+
+compoundexpress
+
+Mumbai Metropolitan Region
+1 month ago
+SDE 3 - DevOps
+SDE 3 - DevOps
+
+FanCode
+
+Mumbai, Maharashtra, India
+6 days ago
+DevOps / MLOps Engineer
+DevOps / MLOps Engineer
+
+Godrej Industries Group
+
+Mumbai, Maharashtra, India
+5 months ago
+DevOps Engineer
+DevOps Engineer
+
+Whitefield Careers
+
+Mumbai Metropolitan Region
+4 months ago
+Platform Engineer
+Platform Engineer
+
+Kotak Mahindra Bank
+
+Mumbai, Maharashtra, India
+₹6 - ₹15
+3 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Sia
+
+Mumbai, Maharashtra, India
+4 weeks ago
+Senior Software Engineer - DevOps
+Senior Software Engineer - DevOps
+
+LogiNext
+
+Mumbai, Maharashtra, India
+1 year ago
+Senior Cloud Engineer I
+Senior Cloud Engineer I
+
+Russell Investments
+
+Mumbai Metropolitan Region
+5 months ago
+Platform Engineer
+Platform Engineer
+
+Waystone
+
+Mumbai, Maharashtra, India
+2 days ago
+Senior DevOps & Platform Engineering Lead
+Senior DevOps & Platform Engineering Lead
+
+Transaction Network Services (TNS)
+
+Mumbai Metropolitan Region
+1 week ago
+Similar Searches
+Software Solutions Architect jobs
+9,272 open jobs
+Human Resources Representative jobs
+935 open jobs
+Dotnet Developer jobs
+8,372 open jobs
+Software Engineering Manager jobs
+8,787 open jobs
+Scrum Master jobs
+9,144 open jobs
+Platform Engineer jobs
+9,812 open jobs
+Human Resources Business Partner jobs
+1,147 open jobs
+Talent Acquisition Manager jobs
+1,664 open jobs
+Buyer jobs
+1,805 open jobs
+Human Resources Manager jobs
+1,843 open jobs
+Developer jobs
+73,513 open jobs
+Solutions Architect jobs
+14,142 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Systel, Inc.
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
