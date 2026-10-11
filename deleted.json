@@ -6577,5 +6577,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Deadline (2026-09-29) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Analyste principal(e) de syst\u00e8mes de gestion, ServiceNow CSM - FR 125",
+    "company": "Export Development Canada | Exportation et d\u00e9veloppement Canada",
+    "location": "Toronto, Ontario, Canada",
+    "url": "https://ca.linkedin.com/jobs/view/analyste-principal-e-de-syst%C3%A8mes-de-gestion-servicenow-csm-fr-125-at-export-development-canada-exportation-et-d%C3%A9veloppement-canada-4462427056",
+    "visited": "yes",
+    "matches_requirements": "maybe",
+    "reason": "The job aligns with Configuration Management/Release Management due to system analysis and Agile delivery responsibilities, but French fluency may be required (unclear if mandatory) and the role isn't explicitly in a regulated/safety-critical domain.",
+    "id": "0888b7f9",
+    "source": "linkedin_ca_requirements_manager",
+    "added_at": "2026-10-11T18:58:16+03:00",
+    "posted_date": "2026-09-11",
+    "deadline": "2026-09-16",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-09-16) passed by more than 2 days and unreviewed"
   }
 ]
