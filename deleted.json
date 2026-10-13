@@ -7376,5 +7376,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Deadline (2026-10-11) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Senior Regulatory Affairs Manager, Chemistry Manufacturing and Controls",
+    "company": "GE HealthCare",
+    "location": "Newfoundland and Labrador, Canada",
+    "url": "https://ca.linkedin.com/jobs/view/senior-regulatory-affairs-manager-chemistry-manufacturing-and-controls-at-ge-healthcare-4478745060",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job posting explicitly states that GE HealthCare will not sponsor employment visas, which disqualifies it under the 'No Visa Sponsorship / Existing Right to Work Required' hard rejection rule.",
+    "id": "7c7e3b98",
+    "source": "linkedin_ca_eu_mdr",
+    "added_at": "2026-10-13T10:01:52+03:00",
+    "posted_date": "2026-10-13",
+    "deadline": "2026-10-31",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
