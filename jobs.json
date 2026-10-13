@@ -178373,8 +178373,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-12T04:11:06+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-13T09:51:10+03:00"
   },
   {
     "title": "Project Quality Manager",
@@ -178390,8 +178390,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-12T04:11:06+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-13T09:51:10+03:00"
   },
   {
     "title": "Quality Management Lead",
@@ -178407,8 +178407,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-12T04:11:06+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-13T09:51:10+03:00"
   },
   {
     "title": "Senior Quality Engineer",
@@ -178424,8 +178424,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-12T04:11:06+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-13T09:51:11+03:00"
   },
   {
     "title": "Contract Quality Engineer - AS9100/9102",
@@ -180828,8 +180828,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-12T03:18:59+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-13T09:51:11+03:00"
   },
   {
     "title": "Technical Writer E-7A Airborne Early Warning & Control (AEW&C)",
@@ -181037,8 +181037,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-12T03:36:30+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-13T09:51:11+03:00"
   },
   {
     "title": "PK Medical Writer",
@@ -181054,8 +181054,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-12T03:36:30+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-13T09:51:11+03:00"
   },
   {
     "title": "Principal Medical Writer - Publications",
@@ -181071,8 +181071,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-12T03:36:31+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-13T09:51:12+03:00"
   },
   {
     "title": "Procurement Risk & Resilience Specialist (Edgewing)",
@@ -182679,98 +182679,112 @@
     "company": "GXS Bank",
     "location": "Singapore, Singapore",
     "url": "https://sg.linkedin.com/jobs/view/lead-quality-assurance-risk-oversight-at-gxs-bank-4471852264",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role requires specialized AML/CFT Compliance experience in regulated financial institutions, which does not align with Priya\u2019s background in medical device (MDR/ISO 13485) and automotive (ASPICE/TUV) quality gatekeeping, configuration management, and release engineering.",
     "id": "f27ba1e0",
     "source": "linkedin_sg_quality_manager",
     "added_at": "2026-10-12T07:35:00+03:00",
-    "posted_date": "N/A",
-    "deadline": "N/A"
+    "posted_date": "2026-09-29",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null
   },
   {
     "title": "Manager, Technical Operations",
     "company": "Thermo Fisher Scientific",
     "location": "Singapore, Singapore",
     "url": "https://sg.linkedin.com/jobs/view/manager-technical-operations-at-thermo-fisher-scientific-4470404345",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job does not align with Priya's domain expertise in DevOps, Configuration Management, or Release Management, and instead focuses on pharmaceutical production operations and GMP compliance, which is outside her regulated-industry technical/quality product-specialist background.",
     "id": "44fce00f",
     "source": "linkedin_sg_quality_manager",
     "added_at": "2026-10-12T07:35:00+03:00",
-    "posted_date": "N/A",
-    "deadline": "N/A"
+    "posted_date": "2026-09-29",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null
   },
   {
     "title": "Regional Quality Engineering Program Manager",
     "company": "Onto Innovation",
     "location": "Singapore",
     "url": "https://sg.linkedin.com/jobs/view/regional-quality-engineering-program-manager-at-onto-innovation-4468514597",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "maybe",
+    "reason": "The role aligns with Priya\u2019s quality engineering and compliance experience (e.g., MDR/ISO 13485, audit readiness) but focuses more on manufacturing/supplier quality rather than regulated software or CI/CD, which were central to her previous roles.",
     "id": "69970bae",
     "source": "linkedin_sg_quality_manager",
     "added_at": "2026-10-12T07:35:00+03:00",
-    "posted_date": "N/A",
-    "deadline": "N/A"
+    "posted_date": "2026-09-22",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null
   },
   {
     "title": "Manager, Technical Operations",
     "company": "Thermo Fisher Scientific",
     "location": "Pioneer, West Region, Singapore",
     "url": "https://sg.linkedin.com/jobs/view/manager-technical-operations-at-thermo-fisher-scientific-4098518226",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "maybe",
+    "reason": "The role involves technical operations and GMP compliance in pharmaceutical manufacturing, which partially overlaps with the candidate\u2019s regulated-industry experience but lacks explicit alignment with her CI/CD/release-management focus.",
     "id": "1d75ee6c",
     "source": "linkedin_sg_quality_manager",
     "added_at": "2026-10-12T07:35:00+03:00",
-    "posted_date": "N/A",
-    "deadline": "N/A"
+    "posted_date": "2026-09-29",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null
   },
   {
     "title": "Manager - Supplier Engineering (Mechanical & Print and Pack)",
     "company": "Resmed",
     "location": "Singapore, Singapore",
     "url": "https://sg.linkedin.com/jobs/view/manager-supplier-engineering-mechanical-print-and-pack-at-resmed-4467445472",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job role does not align with the candidate's expertise in DevOps, release management, configuration management, or technical documentation, as it focuses on supplier engineering and manufacturing processes.",
     "id": "91ff5d3d",
     "source": "linkedin_sg_quality_manager",
     "added_at": "2026-10-12T07:35:00+03:00",
-    "posted_date": "N/A",
-    "deadline": "N/A"
+    "posted_date": "2026-10-07",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null
   },
   {
     "title": "TM/TL Resource requirement for UC Domain",
     "company": "RAPSYS TECHNOLOGIES PTE LTD",
     "location": "Singapore, Singapore",
     "url": "https://sg.linkedin.com/jobs/view/tm-tl-resource-requirement-for-uc-domain-at-rapsys-technologies-pte-ltd-4477100912",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role requires test management expertise in unified communications (UC) domains, which does not align with Priya's background in release/configuration management, technical writing, and quality gatekeeping. Her experience lacks direct UC testing or test leadership responsibilities.",
     "id": "4b7a1e2c",
     "source": "linkedin_sg_quality_manager",
     "added_at": "2026-10-12T07:35:00+03:00",
-    "posted_date": "N/A",
-    "deadline": "N/A"
+    "posted_date": "2026-10-08",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null
   },
   {
     "title": "Quality Control Principal Specialist, Raw Materials & Compendial",
     "company": "WuXi Biologics",
     "location": "Singapore, Singapore",
     "url": "https://sg.linkedin.com/jobs/view/quality-control-principal-specialist-raw-materials-compendial-at-wuxi-biologics-4468491123",
-    "visited": "no",
-    "matches_requirements": "pending",
-    "reason": "",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires biopharmaceutical QC laboratory experience and scientific qualifications not aligned with the candidate's background in software configuration/release management and technical documentation, despite matching the Singapore location criterion.",
     "id": "7aeef855",
     "source": "linkedin_sg_quality_manager",
     "added_at": "2026-10-12T07:35:00+03:00",
-    "posted_date": "N/A",
-    "deadline": "N/A"
+    "posted_date": "2026-09-22",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null
   },
   {
     "title": "SHEQ Manager Environmental and Quality",
