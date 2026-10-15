@@ -1,9 +1,9 @@
 {
   "pid": 36220,
   "started_at": "2026-10-15T13:18:42+03:00",
-  "heartbeat_at": "2026-10-16T00:01:01+03:00",
+  "heartbeat_at": "2026-10-16T00:57:51+03:00",
   "phase": "reviewing",
-  "detail": "Back End Developer",
-  "last_scrape_ok_at": "2026-10-15T22:39:06+03:00",
+  "detail": "Lead DevOps Engineer",
+  "last_scrape_ok_at": "2026-10-16T00:04:35+03:00",
   "last_error": null
 }

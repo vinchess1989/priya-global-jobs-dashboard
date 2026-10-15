@@ -8821,5 +8821,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Deadline (2026-10-14) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "Reperio Human Capital",
+    "location": "Dublin, Ireland",
+    "url": "https://www.cv-library.co.uk/job/225731890/devops-engineer",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job posting explicitly states no visa sponsorship is available and requires applicants to already have the right to work in Ireland, which disqualifies it under Hard Rejection criteria.",
+    "id": "af60c25e",
+    "source": "cv_library_devops_engineer",
+    "added_at": "2026-10-16T00:04:35+03:00",
+    "posted_date": "2026-10-15",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
