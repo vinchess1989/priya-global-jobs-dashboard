@@ -6,7 +6,8 @@ pass. Anything that fails a check falls back to the review path, so the safe def
 "don't submit".
 
     python auto_submit_gate.py check  --job-id ID --apply-url URL [--questions Q.json] [--answers A.json]
-        -> prints one JSON line: {"decision": "auto"|"review", "reasons": [...], ...}
+        -> prints one JSON line: {"decision": "auto"|"confirm"|"review", "reasons": [...], ...}
+           "confirm" = every check passed but Priya hasn't OK'd this job yet (job_status[url].submit_approved)
     python auto_submit_gate.py record --job-id ID --result RESULT.json
         -> writes the outcome to Firestore (applied / form_filled / action_item)
 
@@ -58,7 +59,8 @@ def _now():
 
 def _load(path):
     try:
-        return json.loads(Path(path).read_text(encoding="utf-8"))
+        # utf-8-sig: PowerShell's Set-Content -Encoding utf8 writes a BOM, which plain utf-8 json.loads rejects.
+        return json.loads(Path(path).read_text(encoding="utf-8-sig"))
     except Exception:
         return None
 
@@ -123,7 +125,7 @@ def _auto_submits(status):
     return out
 
 
-def check(job_id, apply_url, questions_path=None, answers_path=None):
+def check(job_id, apply_url, questions_path=None, answers_path=None, fit=None):
     reasons = []
     job = _find_job(job_id)
     if not job:
@@ -142,6 +144,10 @@ def check(job_id, apply_url, questions_path=None, answers_path=None):
     match = entry.get("matches_requirements") or job.get("matches_requirements")
     if match != "yes":
         reasons.append(f"match is '{match}', auto-submit is for 'yes' only")
+    # 3b. Priya (2026-10-14): stretch/weak fits are filled for her to submit herself - only a job
+    #     /fill-form judged a STRONG fit may go out automatically. No verdict = not strong.
+    if fit != "strong":
+        reasons.append(f"fit judged '{fit or 'not given'}' - only strong matches are auto-submitted")
     if (entry.get("applied") or job.get("applied")) == "yes":
         reasons.append("already marked applied")
     # 4/5. Sites that must never be automated.
@@ -200,7 +206,16 @@ def check(job_id, apply_url, questions_path=None, answers_path=None):
         if a.get("placeholder") and SALARY_RE.search(a.get("label", "")):
             reasons.append("salary answer left as placeholder")
 
-    return {"decision": "review" if reasons else "auto", "reasons": reasons, "job_url": url,
+    # 9. Priya (2026-10-15): even a job that passes everything is only sent after she OKs that specific job.
+    #    "confirm" = fill it, leave it open and ask her; "auto" only once job_status[url].submit_approved is true.
+    if reasons:
+        decision = "review"
+    elif entry.get("submit_approved") is True:
+        decision = "auto"
+    else:
+        decision = "confirm"
+        reasons.append("all checks passed - waiting for Priya's OK before submitting")
+    return {"decision": decision, "reasons": reasons, "job_url": url,
             "auto_submits_today": today_count, "daily_cap": DAILY_CAP}
 
 
@@ -247,12 +262,13 @@ def main():
     c.add_argument("--apply-url", required=True)
     c.add_argument("--questions")
     c.add_argument("--answers")
+    c.add_argument("--fit", choices=["strong", "stretch"], help="/fill-form's fit verdict; anything but strong -> review")
     r = sub.add_parser("record")
     r.add_argument("--job-id", required=True)
     r.add_argument("--result", required=True)
     a = ap.parse_args()
     if a.cmd == "check":
-        print(json.dumps(check(a.job_id, a.apply_url, a.questions, a.answers)))
+        print(json.dumps(check(a.job_id, a.apply_url, a.questions, a.answers, a.fit)))
     else:
         record(a.job_id, a.result)
 

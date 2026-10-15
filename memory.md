@@ -217,3 +217,11 @@ Gotcha: job_status contains a non-job `initialized` placeholder field - code ite
   (`_driver_dead`) and leave unreviewed jobs pending. `orchestrator.py` restarts the scraper up to 10x with backoff.
 - Dashboard (`firebase_app/index.html` `renderScraperHealth()`): green running / amber quiet >45 min / red not responding >2 h or
   phase=hung; hover shows phase, last scrape, last error; "Last Updated" = last_scrape_ok_at; heartbeat re-read every 5 min.
+
+## Auto-submit asks first; fixes ported from priya_jobs (2026-10-15)
+Priya turned this board's switch on (shared_state/settings.auto_submit_enabled, 2026-10-15 14:23) and asked that even strong
+matches be confirmed with her first. Ported from priya_jobs: gate returns `confirm` until job_status[url].submit_approved is
+true (set only from her per-job OK), requires fill-form's `--fit strong` (stretch -> review), reads JSON as utf-8-sig;
+scrape_application.py label-marked required fields + radio groups under their legend + own CDP tab + [id=...] lookups;
+fill-form.md: no browser.close() over CDP, live required check uses label/legend markers, confirm flow. This board's
+global-only form rules (needs visa sponsorship abroad, relocate to job's country, clearance) were kept.
