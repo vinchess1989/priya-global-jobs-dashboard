@@ -1,0 +1,270 @@
+Title: Senior DevOps Engineer
+Company: CareCone Group
+Location: Sydney, New South Wales, Australia
+URL: https://au.linkedin.com/jobs/view/senior-devops-engineer-at-carecone-group-4479755327
+Posted: 2026-10-15
+Deadline: N/A
+Reason: The job aligns with Priya's DevOps/CI-CD expertise, is located in Australia (a target country), and does not trigger any hard rejections.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer
+CareCone Group  Sydney, New South Wales, Australia
+13 hours ago   Be among the first 25 applicants
+  
+
+See who CareCone Group has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Direct message the job poster from CareCone Group
+
+Shalini Tomar
+Shalini Tomar
+Talent Acquisition Consultant at Carecone Australia
+
+Role: Senior DevOps Engineer
+
+Location: Sydney
+
+
+
+
+Job Description:
+
+Key Responsibilities
+
+EKS Platform Engineering:
+
+Design, implement, and maintain highly available and secure Kubernetes clusters using Amazon EKS, including node pool management, upgrade strategies, and disaster recovery.
+Ensure Kubernetes security best practices (RBAC, pod security, network policies).
+Configure Kubernetes networking, ingress, autoscaling (HPA, Karpenter/Cluster Autoscaler).
+Manage secrets and configuration (Vault)
+
+CI/CD Pipeline Management: Build and optimize CI/CD pipelines (Bitbucket, Jenkins, Ansible) to automate code deployment and infrastructure changes, ensuring safe, rapid, and reliable releases.
+
+Automation: Develop and maintain automation tools and scripts (Python/Shell/Bash),Optimize deployment strategies (blue-green, canary, rolling updates)
+
+Observability & Monitoring: Implement and enhance monitoring, alerting, and logging solutions to gain real-time visibility into system health.
+
+Performance & Cost Optimization: Proactively analyse system capacity and optimize AWS resource utilization, balancing performance with cost-efficiency.
+
+Security & Compliance: Implement security best practices, including RBAC, network policies, secrets management, and image scanning within EKS.
+
+Collaboration: Collaborate with cross-functional teams to align infrastructure goals with business objectives.
+
+Continuous Improvement: Identify areas for optimization and efficiency improvements within the infrastructure and automation processes. Stay up-to-date with industry trends and emerging technologies to recommend enhancements.
+
+
+
+
+Required Skills:
+
+Technical Skills:
+
+Deep knowledge of Kubernetes (EKS) and container orchestration
+Strong experience with AWS Cloud
+Proficiency in Docker and container lifecycle management
+Hands-on experience with Terraform (preferred)
+Experience with CI/CD tools (Git, Jenkins, Ansible, etc.)
+scripting skills (Python, Bash, or Go)
+SRE & DevOps Practices
+Familiarity with incident response and on-call rotation
+understanding of networking
+Knowledge of security and compliance in cloud environments
+
+
+
+
+Interested Candidates can share their updated resumes on shalini.tomar@carecone.com.au or can reach me on +61283195549
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Contract
+Industries
+Staffing and Recruiting
+  
+
+Referrals increase your chances of interviewing at CareCone Group by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Sydney, New South Wales, Australia.
+
+Sign in to create job alert
+Similar jobs
+Sr DevOps Engineer
+Sr DevOps Engineer
+XPT Software
+Sydney, New South Wales, Australia
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+Cloud Raptor
+Sydney, New South Wales, Australia
+A$150,000 - A$170,000
+17 hours ago
+Sr DevOps Engineer
+Sr DevOps Engineer
+XPT Software Australia
+Sydney, New South Wales, Australia
+2 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Atain
+Sydney, New South Wales, Australia
+2 weeks ago
+Senior Software DevOps Engineer
+Senior Software DevOps Engineer
+SITA
+Sydney, New South Wales, Australia
+1 day ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Hatch
+Sydney, New South Wales, Australia
+3 weeks ago
+Show more jobs like this 
+People also viewed
+Senior DevOps Engineer - Operations
+Senior DevOps Engineer - Operations
+
+CoStar Group
+
+Pyrmont, New South Wales, Australia
+1 week ago
+Platform - Devops Engineer
+Platform - Devops Engineer
+
+CareCone Group
+
+Sydney, New South Wales, Australia
+1 day ago
+Senior Site Reliability Engineer (Platform Engineering/DevOps)
+Senior Site Reliability Engineer (Platform Engineering/DevOps)
+
+Cover Genius
+
+Sydney, New South Wales, Australia
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+Nityo Infotech
+
+Sydney, New South Wales, Australia
+1 week ago
+Senior Cloud Engineer - DEVOPS (Temporary Fixed Term Full Time Opportunity until 30/06/2030)
+Senior Cloud Engineer - DEVOPS (Temporary Fixed Term Full Time Opportunity until 30/06/2030)
+
+Transport for NSW
+
+Parramatta, New South Wales, Australia
+2 days ago
+Senior Cloud Engineer
+Senior Cloud Engineer
+
+Wisr
+
+Sydney, New South Wales, Australia
+1 week ago
+Platform DevOps Engineer
+Platform DevOps Engineer
+
+Future Secure AI
+
+Sydney, New South Wales, Australia
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+CMSN Group Pty Ltd
+
+Greater Sydney Area
+2 months ago
+DevOps Engineer
+DevOps Engineer
+
+APM
+
+Sydney, New South Wales, Australia
+5 hours ago
+DevOps Engineer
+DevOps Engineer
+
+CORTO
+
+Sydney, New South Wales, Australia
+3 days ago
+Similar Searches
+Managed Services Consultant jobs
+896 open jobs
+Resourcing Consultant jobs
+451 open jobs
+Java Software Engineer jobs
+760 open jobs
+English Translator jobs
+189 open jobs
+Problem Manager jobs
+1,088 open jobs
+Senior Data Engineer jobs
+1,798 open jobs
+Technical Account Manager jobs
+1,183 open jobs
+Oracle Database Administrator jobs
+4,171 open jobs
+Senior Software Engineer jobs
+1,571 open jobs
+Software Consultant jobs
+2,301 open jobs
+Digital Director jobs
+808 open jobs
+Talent Acquisition Manager jobs
+526 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

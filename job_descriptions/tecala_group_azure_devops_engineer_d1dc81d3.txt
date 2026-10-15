@@ -1,0 +1,309 @@
+Title: Azure DevOps Engineer
+Company: Tecala Group
+Location: Sydney, New South Wales, Australia
+URL: https://au.linkedin.com/jobs/view/azure-devops-engineer-at-tecala-group-4479253727
+Posted: 2026-10-14
+Deadline: N/A
+Reason: The Azure DevOps Engineer role at Tecala Group in Sydney, Australia aligns with Priya's expertise in CI/CD pipelines, infrastructure-as-code, and scripting (PowerShell, Python/Bash), as well as her experience in regulated/safety-critical industries through configuration management and release ownership.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Azure DevOps Engineer
+Tecala Group  Sydney, New South Wales, Australia
+1 day ago   Be among the first 25 applicants
+  
+
+See who Tecala Group has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Direct message the job poster from Tecala Group
+
+Nikita Raniga
+Nikita Raniga
+People & Capability Partner @ Tecala Group
+
+WHO ARE WE?
+
+Tecala is an award-winning national ICT managed services provider. We work hard to help our customers transform their businesses through the innovative use of technology and need more great people to join our vibrant and growing team.
+
+
+
+
+We have been certified as a Great Place to Work for 2023, 2024, 2025 and 2026 ranked in the top 10 of Australia's Best Workplaces in Technology 2025, ranked #19 in Australia's Best Workplaces List for 2025, and been recognised as Australia's #1 Managed Service Provider and ranked #29 globally in the 2025 MSP 501, Channel Futures' industry-leading benchmark for high-performing MSPs worldwide.
+
+
+
+
+We pride ourselves on our reputation for quality and consistently delivering the right solution for our customers. You have the opportunity to become part of a supportive team, working together to provide solutions that make a difference to our broad customer base. If you are passionate about technology and motivated by assisting customers in improving their ICT operations, you will thrive with us.
+
+
+
+
+ABOUT THE ROLE
+
+We’re looking for an Azure DevOps Engineer to join our cloud team. You’ll design, build and support CI/CD pipelines and infrastructure-as-code across a range of client environments, helping customers modernise how they deliver and run their applications on Microsoft Azure. This is a hands-on technical role where you’ll work closely with architects, developers and client stakeholders.
+
+
+
+
+WHAT WE'RE LOOKING FOR
+
+What You’ll Be Doing
+
+Designing, building and maintaining CI/CD pipelines in Azure DevOps (and GitHub Actions where required).
+Developing and managing infrastructure as code using Terraform and/or Bicep/ARM templates.
+Deploying and supporting Azure services including App Services, AKS, Functions, Azure SQL, networking and identity.
+Automating build, release and operational tasks with PowerShell, Bash or Python.
+Implementing monitoring, logging and alerting with Azure Monitor, Log Analytics and Application Insights.
+Embedding security and governance best practice into pipelines and platforms (Key Vault, policy, RBAC, secrets management).
+Troubleshooting deployment and platform issues and contributing to continuous improvement.
+Producing clear technical documentation and supporting handover to operations teams.
+Working directly with clients to understand requirements and recommend practical solutions.
+
+What You’ll Bring
+
+3+ years’ experience in a DevOps, cloud or platform engineering role.
+Strong hands-on experience with Azure DevOps (Repos, Pipelines, Boards, Artifacts) and YAML pipelines.
+Solid Microsoft Azure experience across computer, networking, storage and identity (Entra ID).
+Infrastructure-as-code experience with Terraform and/or Bicep.
+Scripting skills in PowerShell and/or Python/Bash.
+Experience with containers (Docker, Kubernetes/AKS) highly regarded.
+Understanding of Git branching strategies and release management.
+Microsoft certifications such as AZ-400 or AZ-104 highly regarded.
+MSP or consulting experience across multiple client environments is a plus.
+Excellent communication skills and a client-focused, collaborative approach.
+Full Australian working rights and ideally ability for DISP sponsorship.
+
+
+
+
+WHAT WE CAN OFFER YOU
+
+As part of our team, you'll be able to learn and grow in a supportive and inclusive environment. We have listed some of those benefits below for you:
+
+Competitive salary (base + super + bonus).
+Flexible and hybrid working arrangements.
+Exposure to a wide variety of clients, projects and modern technologies.
+A supportive, collaborative team culture with clear career progression.
+Paid Birthday Leave.
+Inclusive paid parental leave policy that supports all parents & carers.
+Health & Wellness perks including discounted gym membership.
+Access to ongoing Learning & Development opportunities including self-paced learning through our learning management system.
+Access to Career Pathways so you can continue to build a career in the business.
+Paid certifications and remuneration incentive to get upskilled / certified to support your development.
+Reward & Recognition Program where you can also thank and reward your team mates.
+Employee discounts – Access discounted rates and offers from a variety of providers, including health insurance and IT Hardware.
+Employee Assistance Program (EAP).
+
+
+
+
+Note: As an essential part of our hiring process, you will be required to undertake a National Criminal History Check.
+
+
+
+
+HOW TO APPLY
+
+If you’re passionate about automation and cloud and want to grow your career with a great team, click Apply and submit your resume and a brief cover letter today.
+
+
+
+
+No agencies please – we've got this one covered.
+
+
+
+
+We foster an inclusive and diverse work environment where our people can be themselves. Every idea and perspective is valued so that our services reflect the companies we support. We welcome diversity in all its forms, and so we welcome applications from suitably qualified candidates across the range of underrepresented communities.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Tecala Group by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Sydney, New South Wales, Australia.
+
+Sign in to create job alert
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+APM
+Sydney, New South Wales, Australia
+5 hours ago
+Microsoft DevOps Support Engineer
+Microsoft DevOps Support Engineer
+Avanade
+Sydney, New South Wales, Australia
+2 weeks ago
+DevOps Engineer / Senior Analyst (AU Citizen with Security Clearance)
+DevOps Engineer / Senior Analyst (AU Citizen with Security Clearance)
+Accenture Australia
+Sydney, New South Wales, Australia
+3 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Atain
+Sydney, New South Wales, Australia
+2 weeks ago
+Azure Cloud Engineer
+Azure Cloud Engineer
+Built
+Sydney, New South Wales, Australia
+2 weeks ago
+DevOps Engineering Sr Consultant
+DevOps Engineering Sr Consultant
+Avanade
+Sydney, New South Wales, Australia
+1 week ago
+Show more jobs like this 
+People also viewed
+Principal Engineer - Cloud & DevOps (NV1)
+Principal Engineer - Cloud & DevOps (NV1)
+
+LAB3
+
+Sydney, New South Wales, Australia
+1 week ago
+Cloud Engineer (Temporary opportunity until 30th June 2028)
+Cloud Engineer (Temporary opportunity until 30th June 2028)
+
+Transport for NSW
+
+Macquarie Park, New South Wales, Australia
+23 hours ago
+Cloud DevOps Engineer - GCP
+Cloud DevOps Engineer - GCP
+
+Westpac Group
+
+Kogarah, New South Wales, Australia
+1 week ago
+Senior Cloud Engineer
+Senior Cloud Engineer
+
+Wisr
+
+Sydney, New South Wales, Australia
+1 week ago
+Cloud & Infrastructure Platform Engineer
+Cloud & Infrastructure Platform Engineer
+
+Hays
+
+Sydney, New South Wales, Australia
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+Macquarie Group
+
+Sydney, New South Wales, Australia
+2 weeks ago
+Devops Consultant
+Devops Consultant
+
+Infosys
+
+North Sydney, New South Wales, Australia
+2 days ago
+Azure Cloud Engineer
+Azure Cloud Engineer
+
+Versent
+
+Sydney, New South Wales, Australia
+3 days ago
+Platform DevOps Engineer
+Platform DevOps Engineer
+
+Future Secure AI
+
+Sydney, New South Wales, Australia
+1 week ago
+Lead DevOps Engineer
+Lead DevOps Engineer
+
+EML Group
+
+Sydney, New South Wales, Australia
+1 day ago
+Similar Searches
+Windows System Administrator jobs
+488 open jobs
+Consulting Project Manager jobs
+911 open jobs
+Infrastructure Engineer jobs
+2,368 open jobs
+Server Engineer jobs
+649 open jobs
+Director of Recruiting jobs
+49 open jobs
+Talent Acquisition Lead jobs
+493 open jobs
+Senior Solutions Architect jobs
+893 open jobs
+Graduate Software Engineer jobs
+4,187 open jobs
+Microsoft Specialist jobs
+4,701 open jobs
+Talent Acquisition Manager jobs
+526 open jobs
+System Engineer jobs
+1,611 open jobs
+Information Technology Business Analyst jobs
+86 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
