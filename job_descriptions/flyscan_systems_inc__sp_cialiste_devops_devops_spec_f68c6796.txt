@@ -1,0 +1,344 @@
+Title: Spécialiste DevOps/DevOps Specialist
+Company: Flyscan Systems Inc.
+Location: Quebec, Canada
+URL: https://ca.linkedin.com/jobs/view/sp%C3%A9cialiste-devops-devops-specialist-at-flyscan-systems-inc-4469607495
+Posted: 2026-09-24
+Deadline: N/A
+Reason: The role aligns with Priya's DevOps/CI-CD expertise (GitLab CI, branching strategies, automation), is located in Canada (target country), and matches her configuration-management background and positive constraints.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Spécialiste DevOps/DevOps Specialist
+Flyscan Systems Inc.  Quebec, Canada
+3 weeks ago  95 applicants
+  
+
+See who Flyscan Systems Inc. has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Direct message the job poster from Flyscan Systems Inc.
+
+Christophe Tremblay, CRHA
+Christophe Tremblay, CRHA
+Spécialiste en acquisition de talents TI senior et Consultant RH 🚀 chez Humanify par Go RH.
+
+English below*
+
+À propos de Flyscan Systems Inc.
+
+Flyscan est à la fine pointe de la technologie en matière de sécurité et de protection de l’environnement. Nous avons conçu et développé un système d’inspection aérienne capable d’identifier de petites fuites de pétrole et de gaz, ainsi que d’autres menaces qui ne peuvent pas être détectées par l’œil humain. Grâce à nos logiciels de pointe, à l’IA et à des algorithmes hautement performants, nous aidons les entreprises du secteur de l’énergie à réduire les risques environnementaux et à améliorer la sécurité en leur fournissant des données exploitables, des analyses basées et des solutions GIS.
+
+
+
+
+Dans le cadre de notre croissance, nous sommes à la recherche d'un ou d'une spécialiste DevOps pour standardiser et automatiser le cycle de livraison logicielle dans l'ensemble de nos équipes. Vous serez le moteur de la cohérence de nos pipelines, de la standardisation de l'expérience développeur, et de l'intégration de la sécurité et des métriques au cœur de tout ce que nous construisons.
+
+
+
+
+Votre Rôle :
+
+Architecture des pipelines : Concevoir, construire et maintenir des pipelines GitLab CI robustes pour une pile technologique variée (C/C++, Golang, .NET, Node.js, Flutter, Python, PHP), alors que plusieurs projets n'ont actuellement aucune automatisation unifiée ou seulement des pipelines de build et de déploiement minimaux.
+Gestion des branches et versionnage : Définir et faire appliquer une stratégie de branches cohérente, en intégrant les commits conventionnels Git et le versionnage sémantique automatisé, afin de simplifier les livraisons et la gestion des artéfacts.
+Expérience développeur (DevEx) : Favoriser l'efficacité du développement local en standardisant et en maintenant les configurations DevContainer dans toutes les équipes de développement.
+Intégration DevSecOps : Intégrer la sécurité en continu au cycle de déploiement en incorporant l'analyse statique, les outils SAST/DAST et les lignes directrices OWASP à des barrières (gates) automatisées dans les pipelines.
+Sécurité de la chaîne d'approvisionnement logicielle (SLSA) : Faire progresser la posture de sécurité de nos pipelines vers la conformité SLSA en automatisant la génération des nomenclatures logicielles (SBOM), l'analyse des vulnérabilités des dépendances (CVE) et la signature numérique des artéfacts.
+Métriques d'ingénierie : Implanter et suivre les métriques DORA (fréquence de déploiement, délai de livraison des changements, MTTR, taux d'échec des changements) afin d'offrir une visibilité sur la vélocité de développement et la santé des pipelines.
+Automatisation des golden images : Brancher nos recettes d'infrastructure as code existantes (Packer, cloud-init) et nos paquets applicatifs edge (images OCI distroless Podman, Quadlets systemd) à des pipelines CI entièrement automatisés et continus.
+
+
+
+
+Ce Que Nous Recherchons :
+
+Une personne autonome, douée pour la résolution de problèmes, qui aime prendre des processus chaotiques ou inexistants et en faire des flux de travail robustes et fluides.
+Un(e) expert(e) en environnements Linux, en scripting et en automatisation de pipelines.
+Un(e) spécialiste pragmatique qui comprend qu'un bon pipeline CI/CD est invisible pour la personne qui développe, tout en appliquant en arrière-plan des normes strictes de qualité et de sécurité.
+Quelqu'un à l'aise de collaborer avec les équipes IA, backend et embarqué/IoT, pour que tout le monde travaille selon les mêmes façons de faire.
+Aimer travailler dans un environnement Agile dynamique et partager ses connaissances avec les membres de l'équipe.
+
+
+
+
+Exigences Techniques :
+
+Formation : Diplôme universitaire ou collégial en informatique, en génie logiciel ou dans un domaine connexe.
+Compétences fondamentales : Maîtrise experte de Bash, de Python et de l'administration Linux.
+CI/CD et conteneurs : Vaste expérience pratique de GitLab CI/CD, des workflows Git, des stratégies de branches et de la conteneurisation (Docker, Podman, DevContainers).
+DevSecOps et sécurité : Solide connaissance pratique de la sécurité de la chaîne d'approvisionnement logicielle (SLSA), des cadres OWASP et de l'intégration d'outils SAST/DAST aux pipelines CI.
+Infrastructure et automatisation des OS : Expérience de l'automatisation de la construction d'images de référence (golden images) avec des outils comme Packer et cloud-init.
+Métriques et AQ : Connaissance de l'implantation des métriques DORA et de l'intégration des résultats de tests automatisés (p. ex. via les API QMetry) aux barrières de déploiement.
+Langues : La maîtrise de l'anglais, à l'oral comme à l'écrit, est requise; le français est un atout.
+
+
+
+
+Ce Que Nous Offrons :
+
+Un environnement de travail flexible combinant télétravail et collaboration en personne dans nos bureaux de Québec, Montréal et Bromont
+Adopte ton propre rythme avec des horaires flexibles
+Profite de congés de maladie illimités pour prioriser ta santé sans souci
+Programme d’assurances collectives
+Accès à une plateforme de télémédecine
+Salaire compétitif basé sur ton expérience et les standards du marché
+Développe tes compétences grâce à des opportunités de formation et de perfectionnement
+Participe à des vols d’essai et vois notre technologie en action !
+Activités d’équipe à distance ou en personne organisées par notre club social
+Une équipe géniale !
+
+
+
+
+About Flyscan Systems Inc.
+
+Flyscan is at the cutting edge of technology in security and environmental protection. We have created and developed a remote sensing system capable of precisely identifying small oil and gas leaks and other threats that cannot be detected by the human eye. Through state-of-the-art software, advanced AI, and highly efficient algorithms, we help energy companies reduce environmental risk, improve safety, and meet regulatory requirements by delivering actionable data and GIS-driven insights.
+
+As we continue to scale, we are looking for a DevOps Specialist to standardize and automate the software delivery lifecycle across multiple teams. You will be the driving force in bringing coherence to our pipelines, standardizing our developer experience, and baking security and metrics into everything we build.
+
+
+
+
+Key Responsibilities
+
+Pipeline Architecture: Design, build, and maintain robust GitLab CI pipelines across a diverse tech stack (C/C++, Golang, .NET, Node.js, Flutter, Python, PHP) where many projects currently lack unified automation or have minimal build and deploy pipelines.
+Branching & Version Control: Define and enforce a cohesive branching strategy, integrating Git conventional commits and automated semantic versioning to streamline releases and artifact management.
+Developer Experience (DevEx): Champion local development efficiency by standardizing and maintaining DevContainer configurations across all software teams.
+DevSecOps Integration: Embed continuous security into the deployment lifecycle by integrating static analysis, SAST/DAST tooling, and OWASP guidelines into automated pipeline gates.
+Supply Chain Security (SLSA): Advance our pipeline security posture toward SLSA compliance by automating the generation of Software Bill of Materials (SBOMs), dependency vulnerability scanning (CVEs), and digital artifact signatures.
+Engineering Metrics: Implement and monitor DORA metrics (Deployment Frequency, Lead Time for Changes, MTTR, Change Failure Rate) to provide visibility into development velocity and pipeline health.
+Golden Image Automation: Wire our existing infrastructure-as-code recipes (Packer, cloud-init) and edge application packages (Podman distroless OCI images, systemd Quadlets) into fully automated, continuous CI pipelines.
+
+
+
+
+What We Are Looking For:
+
+A highly autonomous problem-solver who thrives on taking chaotic or missing processes and engineering them into streamlined, robust workflows.
+An exceptional operator when it comes to Linux environments, scripting, and pipeline automation.
+A pragmatic specialist who understands that a great CI/CD pipeline is invisible to the developer but enforces strict quality and security standards in the background.
+Someone comfortable collaborating across AI, backend, and embedded/IoT teams to ensure everyone operates from the same playbook.
+Enjoy working in a dynamic Agile environment and sharing knowledge with team members.
+
+
+
+
+Technical Requirements:
+
+Education: University or college degree in computer science, software engineering, or a related field.
+Core Mastery: Expert-level proficiency in Bash, Python, and Linux administration.
+CI/CD & Containers: Extensive hands-on experience with GitLab CI/CD, Git workflows, branching strategies, and containerization (Docker, Podman, DevContainers).
+DevSecOps & Security: Strong working knowledge of software supply chain security (SLSA), OWASP frameworks, and integrating SAST/DAST tools into CI pipelines.
+Infrastructure & OS Automation: Experience automating OS golden image builds using tools like Packer and cloud-init.
+Metrics & QA: Familiarity with implementing DORA metrics and integrating automated test results (e.g., via QMetry APIs) into deployment gates.
+Language: Proficiency in English is required, written and spoken; French is an asset.
+
+
+
+
+What we offer:
+
+We offer a flexible work environment with a balance of remote work and in-person collaboration from our Québec, Montreal, and Bromont offices.
+Set your own rhythm with flexible hours
+Enjoy unlimited sick days so you can prioritize your health without worry
+Collective insurance program
+Access to a telemedicine platform
+Get a competitive salary based on your experience and market standards
+Grow with opportunities for training and skill development
+Take part in test flights and see our technology in action!
+Team activities remotely or in person organized by our social club
+An awesome team!
+
+
+
+
+Show more 
+Seniority level
+Associate
+Employment type
+Full-time
+Industries
+Technology, Information and Media
+  
+
+Referrals increase your chances of interviewing at Flyscan Systems Inc. by 2x
+
+See who you know
+
+Get notified about new DevOps Specialist jobs in Quebec, Canada.
+
+Sign in to create job alert
+Similar jobs
+Spécialiste DevOps
+Spécialiste DevOps
+Onepoint
+Québec, Quebec, Canada
+1 week ago
+Platform Engineer
+Platform Engineer
+Xsolla
+Montreal, Quebec, Canada
+1 week ago
+DevOps
+DevOps
+Onepoint
+Montreal, Quebec, Canada
+2 weeks ago
+DevOps/Cloud Engineer
+DevOps/Cloud Engineer
+Auctria
+Canada
+CA$120 - CA$130
+1 day ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Modern Campus
+Canada
+1 week ago
+Intermediate DevOps Engineer
+Intermediate DevOps Engineer
+Practice Better
+Canada
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Site Reliability Engineer
+Site Reliability Engineer
+
+MLabs
+
+Canada
+3 weeks ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+Parallel Domain
+
+Canada
+2 days ago
+Sr. Site Reliability Engineer
+Sr. Site Reliability Engineer
+
+Blackpoint Cyber
+
+Canada
+1 week ago
+Staff DevOps Engineer
+Staff DevOps Engineer
+
+Nexxa.ai
+
+Canada
+1 month ago
+Staff Site Reliability Engineer
+Staff Site Reliability Engineer
+
+Caseware
+
+Canada
+1 month ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+PENN Interactive
+
+Canada
+1 month ago
+Cloud Engineer- Remote
+Cloud Engineer- Remote
+
+BeyondTrust
+
+Canada
+5 days ago
+Site Reliability Engineer, Infrastructure Platforms — AMER (Intermediate to Senior Staff)
+Site Reliability Engineer, Infrastructure Platforms — AMER (Intermediate to Senior Staff)
+
+GitLab
+
+Canada
+5 days ago
+DevOps IA
+DevOps IA
+
+Wepoint
+
+Montreal, Quebec, Canada
+2 weeks ago
+Ingénieur DevOps/Ingénieure DevOps
+Ingénieur DevOps/Ingénieure DevOps
+
+Arcane Technologies
+
+Québec, Quebec, Canada
+1 week ago
+Similar Searches
+Vehicle Dynamics Engineer jobs
+163 open jobs
+Embedded System Developer jobs
+328 open jobs
+System Programmer jobs
+661 open jobs
+Embedded Developer jobs
+484 open jobs
+Embedded Software Engineer jobs
+464 open jobs
+Software Test Engineer jobs
+522 open jobs
+Junior Mechanical Engineer jobs
+1,466 open jobs
+Director of Professional Services jobs
+473 open jobs
+System Developer jobs
+1,552 open jobs
+SQL Database Administrator jobs
+13,833 open jobs
+Embedded System Engineer jobs
+5,155 open jobs
+SAP Specialist jobs
+659 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

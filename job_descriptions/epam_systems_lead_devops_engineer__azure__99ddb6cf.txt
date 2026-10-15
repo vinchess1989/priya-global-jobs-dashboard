@@ -1,0 +1,266 @@
+Title: Lead DevOps Engineer (Azure)
+Company: EPAM Systems
+Location: Toronto, Ontario, Canada
+URL: https://ca.linkedin.com/jobs/view/lead-devops-engineer-azure-at-epam-systems-4461918511
+Posted: 2026-09-15
+Deadline: N/A
+Reason: The job as Lead DevOps Engineer at EPAM Systems in Toronto, Canada aligns with the candidate's expertise in CI/CD pipelines, infrastructure automation (Terraform, Jenkins), and Azure cloud services, matching her experience in configuration management and regulated-industry compliance.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Lead DevOps Engineer (Azure)
+EPAM Systems  Toronto, Ontario, Canada
+1 month ago  68 applicants
+  
+
+See who EPAM Systems has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Drive cloud transformation for Canada's #1 retail brand through hands-on DevOps engineering and infrastructure automation. Join our Cloud Operations & Automation team to build enterprise-grade Azure and GCP platforms while delivering innovative solutions.
+
+At EPAM, you'll work on cutting-edge technologies, solve complex challenges, and shape the future of digital innovation. With access to continuous learning, mentorship, and global projects, your expertise will drive meaningful change.
+
+Req.#1036604900
+
+The recruiting efforts for this position are intended to fill an existing vacancy to backfill a role.
+
+Responsibilities
+
+
+Develop and deploy Infrastructure as Code using Terraform to build scalable Azure cloud infrastructure and services
+Automate Linux and Windows systems administration using Bash, PowerShell, and Python in enterprise environments
+Build and maintain CI/CD pipelines using Jenkins, Ansible, ADO, and other automation tools for development programs
+Implement security best practices and compliance validation through automated infrastructure hardening and monitoring
+Collaborate with architects, security engineers, and project leads to deliver enterprise-grade cloud native solutions
+Create comprehensive technical documentation and communicate project timelines, dependencies, and progress effectively
+
+
+Requirements
+
+
+5+ years of technical experience in development, operations, or full-stack implementations with proven DevOps expertise
+Expert-level proficiency in Azure cloud services and advanced Infrastructure as Code development using Terraform
+Advanced Linux server administration skills with strong networking fundamentals including VNETs, subnetting, and security groups
+Expert knowledge of build automation tools including Jenkins, Artifactory, Ansible, and Azure DevOps (ADO)
+Experience with container technologies including Docker, Kubernetes, and Helm in production environments
+Computer Science or Engineering degree or equivalent relevant experience with Agile Scrum methodology knowledge (Optional)
+
+
+We offer
+
+
+Extended Healthcare with Prescription Drugs, Dental and Vision, and Healthcare Spending Account (Company Paid)
+Life and AD&D Insurance (Company Paid)
+Employee Assistance Program (Company Paid)
+Telehealth (Company Paid)
+Short-term Disability (Company Paid)
+Long-Term Disability
+Paid Time Off (including vacation and sick days)
+Registered Retirement Savings Plan (RRSP) with Company match
+Maternity/Parental/Adoption Leave Top-up
+Employee Stock Purchase Program
+Critical Illness Insurance
+Employee Discounts
+Unlimited access to LinkedIn learning solutions
+
+
+This posting includes a base salary range EPAM Canada would reasonably expect to pay the selected candidate. Individual compensation offers within the range are based on a variety of factors, including, but not limited to, experience, credentials, education, training, the demand for the role, skillset, and overall business and local labour market considerations. Most candidates are hired at a salary within the range disclosed. Salary range: CA$135,000 - CA$155,000. In addition, the details highlighted in this job posting above are a general description of all other expected benefits and compensation for the position.
+
+An artificial intelligence system is software that is developed with one or more techniques that can, for a given set of human-defined objectives, using algorithmic information processing, generate outputs such as content, predictions, recommendations, or decisions with varying levels of autonomy (“AI”). Tasks that humans have traditionally done by thinking and reasoning are increasingly being done by, or with the help of, AI to help create efficiencies. EPAM may use AI during the recruitment process, in connection with collecting or processing your personal data. Some (non-exhaustive) examples of tasks that EPAM may use AI for include conducting initial screening, creating transcripts of interviews, and assessing applications/CVs against defined job description criteria to make suggestions to the individuals evaluating your candidacy. Your personal data and the results of any processing are not shared with AI applications outside of EPAM infrastructure. While EPAM may use AI to help create efficiencies during the recruitment process, EPAM does not use AI to make hiring decisions, which is done by EPAM Talent Acquisition and management.
+
+EPAM Canada welcomes and encourages applications from candidates with disabilities. Please contact WFA Human Resource CA WFAHRCA@epam.com if you have questions in this regard, or if you require an accommodation to complete the application process. Click here to review EPAM’s Accessibility for Ontarians with Disabilities Accessibility Policies and Multi-Year Access.
+
+EPAM is a leading global provider of digital platform engineering and development services. We are committed to having a positive impact on our clients, our employees, and our communities. We embrace a dynamic and inclusive culture. Here you will collaborate with multi-national teams, contribute to a myriad of innovative projects that deliver the most creative and cutting-edge solutions, and have an opportunity to continuously learn and grow. No matter where you are located, you will join a dedicated, creative, and diverse community that will help you discover your fullest potential.
+
+Engineer the Future with a Career at EPAM
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development and IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at EPAM Systems by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Toronto, Ontario, Canada.
+
+Sign in to create job alert
+Similar jobs
+Senior Platform Engineer
+Senior Platform Engineer
+Scotiabank
+Toronto, Ontario, Canada
+6 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+CARET
+Toronto, Ontario, Canada
+$140,000 - $170,000
+2 weeks ago
+Principal Cloud Engineer
+Principal Cloud Engineer
+BMO
+Toronto, Ontario, Canada
+1 week ago
+Principal Azure Cloud Platform Engineer
+Principal Azure Cloud Platform Engineer
+BMO
+Toronto, Ontario, Canada
+1 week ago
+Lead Cloud Platform Engineer, Azure
+Lead Cloud Platform Engineer, Azure
+Thomson Reuters
+Toronto, Ontario, Canada
+2 weeks ago
+Senior DevOps Engineer - Digital Platforms
+Senior DevOps Engineer - Digital Platforms
+Four Seasons
+Toronto, Ontario, Canada
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Staff Cloud Engineer , Cloud Platform
+Staff Cloud Engineer , Cloud Platform
+
+Kinaxis
+
+Toronto, Ontario, Canada
+1 week ago
+Lead DevOps Engineer
+Lead DevOps Engineer
+
+RBC
+
+Toronto, Ontario, Canada
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Capco
+
+Toronto, Ontario, Canada
+1 day ago
+Senior Cloud Systems Engineer (CI/CD & Data Platform)
+Senior Cloud Systems Engineer (CI/CD & Data Platform)
+
+Numeris
+
+Toronto, Ontario, Canada
+1 week ago
+Senior Cloud Engineer - Terraform, Azure
+Senior Cloud Engineer - Terraform, Azure
+
+BDO Canada
+
+Toronto, Ontario, Canada
+3 weeks ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+Kinross Gold Corporation
+
+Toronto, Ontario, Canada
+1 day ago
+Cloud Lead
+Cloud Lead
+
+J&M Group
+
+Toronto, Ontario, Canada
+1 month ago
+Sr. Cloud Platform Specialist
+Sr. Cloud Platform Specialist
+
+McKesson
+
+Mississauga, Ontario, Canada
+2 weeks ago
+Senior Platform Engineer - Terraform, Azure
+Senior Platform Engineer - Terraform, Azure
+
+BDO Canada
+
+Oakville, Ontario, Canada
+1 week ago
+Cloud Engineer
+Cloud Engineer
+
+Morson Edge (Canada)
+
+Oakville, Ontario, Canada
+CA$95,000 - CA$135,000
+2 weeks ago
+Similar Searches
+Application Development Analyst jobs
+5,345 open jobs
+Senior Business Process Analyst jobs
+1,811 open jobs
+J2Ee Developer jobs
+1,045 open jobs
+System Test Analyst jobs
+307 open jobs
+Data Processing Specialist jobs
+3,863 open jobs
+Production Control Supervisor jobs
+704 open jobs
+Senior Technical Account Manager jobs
+1,100 open jobs
+Business Objects Developer jobs
+872 open jobs
+Computer Software Engineer jobs
+14,092 open jobs
+Technical Librarian jobs
+92 open jobs
+Quality Assurance Automation Engineer jobs
+402 open jobs
+Test Architect jobs
+755 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

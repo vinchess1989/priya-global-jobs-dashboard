@@ -1,0 +1,277 @@
+Title: DevOps Engineer
+Company: Synechron
+Location: Halifax, Nova Scotia, Canada
+URL: https://ca.linkedin.com/jobs/view/devops-engineer-at-synechron-4475676045
+Posted: 2026-10-12
+Deadline: N/A
+Reason: The role of DevOps Engineer at Synechron in Halifax, Canada matches Priya’s expertise in CI/CD pipelines (Jenkins/GitHub Actions), infrastructure automation, and regulated-industry experience, aligning with her background in Elektrobit and Topcon.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+Synechron  Halifax, Nova Scotia, Canada
+3 days ago  93 applicants
+  
+
+See who Synechron has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Synechron provided pay range
+
+This range is provided by Synechron. Your actual pay will be based on your skills and experience — talk with your recruiter to learn more.
+
+Base pay range
+CA$110,000.00/yr - CA$115,000.00/yr
+
+Direct message the job poster from Synechron
+
+Ankit Soni
+Ankit Soni
+Global Recruitments at Synechron
+
+We are
+
+At Synechron, we believe in the power of digital to transform businesses for the better. Our global consulting firm combines creativity and innovative technology to deliver industry-leading digital solutions. Synechron’s progressive technologies and optimization strategies span end-to-end Artificial Intelligence, Consulting, Digital, Cloud & DevOps, Data, and Software Engineering, servicing an array of noteworthy financial services and technology firms. Through research and development initiatives in our FinLabs we develop solutions for modernization, from Artificial Intelligence and Blockchain to Data Science models, Digital Underwriting, mobile-first applications and more. Over the last 20+ years, our company has been honored with multiple employer awards, recognizing our commitment to our talented teams. With top clients to boast about, Synechron has a global workforce of 14,500+, and has 58 offices in 21 countries within key global markets.
+
+
+
+
+Responsibilities:
+
+Design, build, deploy, and operate scalable cloud infrastructure for business-critical applications
+Own and continuously improve CI/CD pipelines and deployment processes using tools such as Jenkins, GitHub Actions, and related technologies
+Build, maintain, and optimize Kubernetes environments supporting both internal platforms and client-facing applications
+Develop and manage Infrastructure as Code using Terraform and DevOps best practices
+Create automation tools and scripts using Bash and Python to improve platform efficiency and reliability
+Monitor, troubleshoot, and optimize infrastructure, applications, and distributed systems across multiple environments
+Ensure high availability, scalability, security, and performance of cloud platforms and services
+Lead root cause analysis and resolution of complex production incidents
+Collaborate closely with Development, Security, Architecture, and Infrastructure teams to deliver robust solutions
+Drive continuous improvement initiatives related to platform engineering, automation, standardization, and operational excellence
+Participate in infrastructure design decisions and contribute to long-term cloud and platform strategy
+
+
+
+
+Required Skills:
+
+5+ years of experience in DevOps
+Strong hands-on experience with cloud services such as AWS or Azure and cloud-native architecture principles
+Advanced experience with Infrastructure as Code, particularly Terraform
+Extensive experience deploying and managing Kubernetes-based environments
+Strong containerization expertise using Docker
+Proven experience designing, implementing, and maintaining CI/CD pipelines
+Strong scripting and automation skills using Bash and Python
+Experience with monitoring, logging, observability, and alerting solutions
+Solid understanding of Linux systems administration and networking fundamentals
+Experience supporting production environments and mission-critical systems
+Strong troubleshooting and problem-solving skills across distributed systems
+Ability to take ownership of infrastructure and platform services from design through production operations
+Excellent communication and collaboration skills in cross-functional and international teams
+
+
+
+
+Preferred Qualifications:
+
+Experience in banking domain.
+
+
+
+
+SYNECHRON’S DIVERSITY & INCLUSION STATEMENT
+
+Diversity & Inclusion are fundamental to our culture, and Synechron is proud to be an equal opportunity workplace and is an affirmative action employer. Our Diversity, Equity, and Inclusion (DEI) initiative ‘Same Difference’ is committed to fostering an inclusive culture – promoting equality, diversity and an environment that is respectful to all. We strongly believe that a diverse workforce helps build stronger, successful businesses as a global company. We encourage applicants from across diverse backgrounds, race, ethnicities, religion, age, marital status, gender, sexual orientations, or disabilities to apply. We empower our global workforce by offering flexible workplace arrangements, mentoring, internal mobility, learning and development programs, and more. All employment decisions at Synechron are based on business needs, job requirements and individual qualifications, without regard to the applicant’s gender, gender identity, sexual orientation, race, ethnicity, disabled or veteran status, or any other characteristic protected by law.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Technology, Information and Internet
+  
+
+Referrals increase your chances of interviewing at Synechron by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Halifax, Nova Scotia, Canada.
+
+Sign in to create job alert
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+Galent
+Halifax, Nova Scotia, Canada
+18 hours ago
+DevOps Engineer - Halifax Canada
+DevOps Engineer - Halifax Canada
+NTT DATA North America
+Halifax, Nova Scotia, Canada
+1 week ago
+DevOps Engineer
+DevOps Engineer
+Synechron
+Halifax, Nova Scotia, Canada
+CA$95,000 - CA$100,000
+2 weeks ago
+Senior DevOps Developer
+Senior DevOps Developer
+Autodesk
+Greater Halifax Metropolitan Area
+5 days ago
+DevOps Consultant – Application Release & Platform Operations
+DevOps Consultant – Application Release & Platform Operations
+CGI
+Halifax, Nova Scotia, Canada
+5 days ago
+AWS Engineer
+AWS Engineer
+Cognizant
+Halifax, Nova Scotia, Canada
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Ingénierie des processus de développement et d'exploitation (DevOps) - Conseiller(ère) principal(e)
+Ingénierie des processus de développement et d'exploitation (DevOps) - Conseiller(ère) principal(e)
+
+Deloitte
+
+Halifax, Nova Scotia, Canada
+5 days ago
+Software Engineer II, Backend (Online Storage)
+Software Engineer II, Backend (Online Storage)
+
+Affirm
+
+Halifax, Nova Scotia, Canada
+6 days ago
+Co-op/ Intern Site Reliability Engineer
+Co-op/ Intern Site Reliability Engineer
+
+Kinaxis
+
+Halifax, Nova Scotia, Canada
+2 weeks ago
+AI Platform Engineer
+AI Platform Engineer
+
+Pacer Group
+
+Halifax, Nova Scotia, Canada
+CA$55 - CA$60
+18 hours ago
+Gen AI Developer
+Gen AI Developer
+
+J&M Group
+
+Halifax, Nova Scotia, Canada
+1 month ago
+AI Platform Engineer
+AI Platform Engineer
+
+Tata Consultancy Services
+
+Halifax, Nova Scotia, Canada
+1 day ago
+Gen AI Developer
+Gen AI Developer
+
+Galent
+
+Halifax, Nova Scotia, Canada
+20 hours ago
+AWS ETL Data Engineer - REMOTE
+AWS ETL Data Engineer - REMOTE
+
+NTT DATA North America
+
+Halifax, Nova Scotia, Canada
+1 week ago
+IT Automation Architect
+IT Automation Architect
+
+WSP in Canada
+
+Halifax, Nova Scotia, Canada
+1 week ago
+Automation QE
+Automation QE
+
+Tata Consultancy Services
+
+Halifax, Nova Scotia, Canada
+CA$90,000 - CA$110,000
+1 week ago
+Similar Searches
+Java Developer Contract jobs
+91 open jobs
+Senior Database Developer jobs
+2,770 open jobs
+Websphere Administrator jobs
+35 open jobs
+Test Coordinator jobs
+414 open jobs
+Intermediate Software Engineer jobs
+14,971 open jobs
+Investment Performance Analyst jobs
+145 open jobs
+Senior Pipeline Engineer jobs
+101 open jobs
+Senior Technical Business Analyst jobs
+267 open jobs
+Peoplesoft Consultant jobs
+30 open jobs
+Java Software Engineer jobs
+2,724 open jobs
+Oracle Database Developer jobs
+161 open jobs
+Lead Software Quality Assurance Engineer jobs
+109 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
