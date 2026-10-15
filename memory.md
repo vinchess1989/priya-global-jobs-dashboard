@@ -205,3 +205,15 @@ Gotcha: job_status contains a non-job `initialized` placeholder field - code ite
   old code build `https://TOKEN@vinchess1989@github.com` ("URL rejected"). The dead env var was removed.
 - Only Manju_jobs_private pushes as munchnambiar; everything else as vinchess1989 (global CLAUDE.md rule).
 - Verified 2026-10-03 after a stop/sync/restart: background pushes succeed through the stored login (priya_jobs 13:23-13:29, priya_global_jobs 13:31), both level with GitHub.
+
+
+## Scraper heartbeat + watchdog (2026-10-15)
+- Ported from priya_jobs. Incident: 2026-10-13 ~11:40 a Playwright error (`Connection closed while reading from the driver`) hung the
+  scraper for 2 days while the dashboard still said "Server Connection Active" (that label only meant GitHub Pages served jobs.json;
+  "Last Updated" was the Pages Last-Modified/deploy time). Worse, in the review loop a dead driver marked every remaining job
+  `error` permanently.
+- `scraper.py`: `_progress()` writes `scraper_status.json` (heartbeat_at, phase, detail, last_scrape_ok_at, last_error), committed by
+  `update_git()`; watchdog thread `os._exit(3)` after 45 min without progress; scrape/review loops stop on a dead driver
+  (`_driver_dead`) and leave unreviewed jobs pending. `orchestrator.py` restarts the scraper up to 10x with backoff.
+- Dashboard (`firebase_app/index.html` `renderScraperHealth()`): green running / amber quiet >45 min / red not responding >2 h or
+  phase=hung; hover shows phase, last scrape, last error; "Last Updated" = last_scrape_ok_at; heartbeat re-read every 5 min.
