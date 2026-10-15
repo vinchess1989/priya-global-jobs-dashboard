@@ -1,0 +1,256 @@
+Title: Senior DevOps Engineer
+Company: Kybera
+Location: London Area, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/senior-devops-engineer-at-kybera-4476028532
+Posted: 2026-10-13
+Deadline: N/A
+Reason: The Senior DevOps Engineer role at Kybera in London, UK matches Priya's expertise in CI/CD pipelines, infrastructure automation, and regulated safety-critical systems, aligning with her background in automotive ASPICE/TUV and medical device MDR/ISO 13485 compliance.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer
+Kybera  London Area, United Kingdom
+2 days ago  84 applicants
+  
+
+See who Kybera has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Direct message the job poster from Kybera
+
+Thomasina Holyman (née Cleary)
+Thomasina Holyman (née Cleary)
+People @Kybera
+
+
+
+Help us build the infrastructure that takes autonomous technology from development to dependable real-world deployment.
+
+
+
+
+At Kybera, we're building the software infrastructure that enables autonomous vehicles to operate safely and reliably in complex industrial environments, starting with ports and logistics.
+
+
+
+
+We're looking for a Senior DevOps Engineer to help us build and scale the engineering and operational backbone behind our technology.
+
+
+
+
+This is a senior hands-on role for someone who enjoys building robust infrastructure, creating elegant deployment systems and solving the complex challenge of getting advanced technology running reliably across cloud, on-premises and real-world customer environments.
+
+
+
+
+What you'll be doing
+
+Shape Kybera's DevOps and platform engineering approach across infrastructure, CI/CD, observability, reliability and security.
+Design scalable platform architectures spanning cloud, on-premises, hybrid and customer-site environments.
+Build reusable deployment standards and patterns that can scale across our products and future customer deployments.
+Build, maintain and improve CI/CD pipelines across multiple repositories, services and product components.
+Lead release engineering and deployment automation for Kybera's technology.
+Help us create repeatable, secure and scalable deployments across development, test, staging, production and customer environments.
+Design deployment approaches for isolated customer environments, multiple sites and multi-tenant systems where required.
+Build strong observability, monitoring, alerting and operational health practices into our production systems.
+Lead incident response and turn lessons learned into improvements in platform reliability.
+Embed security, safety, compliance, auditability and traceability into the way our infrastructure and deployment processes are designed.
+
+
+
+
+We'd love to hear from you if you have...
+
+5+ years' experience in DevOps, SRE, Platform or Infrastructure Engineering, including experience operating at senior or lead level.
+Strong production experience with AWS, ideally alongside another cloud or on-premises environment.
+Experience designing and scaling CI/CD across multiple repositories and product lines using GitHub Actions or equivalent.
+Experience supporting safety-critical, mission-critical or highly regulated production systems.
+A strong understanding of reliability, observability, infrastructure security and deployment automation.
+The confidence to make technical decisions and establish standards while remaining hands-on with the technology.
+Excellent communication skills and the ability to work effectively with engineering teams, customers, partners and other stakeholders.
+Experience with autonomous systems, robotics, industrial automation, transportation or other mission-critical infrastructure would be a bonus, as would familiarity with ROS 2 build and release tooling, multi-tenant SaaS platforms or customer-isolated deployment models.
+
+Don't worry if you don't tick every box. We're interested in people with strong engineering fundamentals, curiosity and the ability to build reliable systems in complex environments, even if your experience comes from a different industry.
+
+
+
+
+Why Kybera?
+
+You'll be joining Kybera at an early and important stage of our journey, with the opportunity to shape the infrastructure, tools and engineering practices that underpin our technology as we move from development into increasingly complex real-world deployments.
+
+We're a small, fast-moving team, so this isn't a role where you'll simply inherit somebody else's platform. You'll have genuine ownership, work closely with engineers across our autonomy stack and have a direct influence on how our technology is built, deployed and operated.
+
+If you want to build the foundations that allow sophisticated autonomous systems to work reliably outside the lab and in the real world, we'd love to hear from you.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development, Technology, Information and Media, and IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Kybera by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in London Area, United Kingdom.
+
+Sign in to create job alert
+Similar jobs
+Senior DevOps Engineer
+Senior DevOps Engineer
+Catapult
+London, England, United Kingdom
+1 day ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Xelix
+London, England, United Kingdom
+6 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+LocalStack
+London, England, United Kingdom
+£70,000 - £90,000
+1 month ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Duetto
+London, England, United Kingdom
+3 days ago
+Senior Dev Ops Engineer
+Senior Dev Ops Engineer
+Square Enix
+London, England, United Kingdom
+2 months ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Quantum Motion
+London, England, United Kingdom
+3 months ago
+Show more jobs like this 
+People also viewed
+Senior DevOps Engineer - Global
+Senior DevOps Engineer - Global
+
+Orix Digi
+
+Harrow, England, United Kingdom
+2 months ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Oliver Bernard
+
+London Area, United Kingdom
+£100,000 - £125,000
+2 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Anson McCade
+
+London Area, United Kingdom
+£60,000 - £80,000
+2 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Careers at MI5, MI6 and GCHQ
+
+Greater London, England, United Kingdom
+2 days ago
+Intermediate DevOps Engineer
+Intermediate DevOps Engineer
+
+Global Relay
+
+Greater London, England, United Kingdom
+1 day ago
+DevOps Engineer
+DevOps Engineer
+
+Methods
+
+London, England, United Kingdom
+5 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Selby Jennings
+
+London, England, United Kingdom
+1 day ago
+Senior Cloud Infrastructure Engineer (cloud sandboxes)
+Senior Cloud Infrastructure Engineer (cloud sandboxes)
+
+LocalStack
+
+London, England, United Kingdom
+€42,000 - €90,000
+1 month ago
+Senior DevOps Engineer (Linux focused)
+Senior DevOps Engineer (Linux focused)
+
+Darktrace
+
+London, England, United Kingdom
+3 days ago
+Senior AWS DevOps Engineer
+Senior AWS DevOps Engineer
+
+Netcompany
+
+London, England, United Kingdom
+2 weeks ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Kybera
+Continue with Google
+Sign in with Email
+
+or
+
+Continue with Google
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
