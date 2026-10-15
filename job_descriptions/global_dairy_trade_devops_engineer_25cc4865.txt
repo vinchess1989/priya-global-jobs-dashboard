@@ -1,0 +1,270 @@
+Title: DevOps Engineer
+Company: Global Dairy Trade
+Location: Auckland, New Zealand
+URL: https://nz.linkedin.com/jobs/view/devops-engineer-at-global-dairy-trade-4477281383
+Posted: 2026-10-12
+Deadline: N/A
+Reason: The DevOps Engineer role at Global Dairy Trade in Auckland, New Zealand aligns with Priya’s expertise in CI/CD pipelines, infrastructure-as-code, and cloud automation (AWS/Azure), as well as her experience with configuration management and regulated-industry compliance from Elektrobit and Topcon.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+Global Dairy Trade  Auckland, New Zealand
+3 days ago  59 applicants
+  
+
+See who Global Dairy Trade has hired for this role
+
+Apply 
+Save
+
+Purpose
+
+The DevOps Engineer exists to enhance and streamline GDT’s technology infrastructure, enabling efficient and reliable operations in a dynamic global marketplace. The role is pivotal in designing, implementing, and maintaining automated deployment pipelines, and in ensuring system scalability, security, and high availability.
+
+By fostering seamless collaboration between development and operations teams, the DevOps Engineer supports the delivery of robust digital platforms that underpin GDT’s trading activities. The role drives innovation, optimises processes, and contributes to the continuous improvement of the systems that enable GDT to meet the evolving demands of its global customer base.
+
+The right person will bring deep hands-on experience with AWS and Azure, infrastructure as code, containers, and CI/CD, combined with a calm and reliable approach to supporting production systems during live auctions.
+
+
+
+
+Key Accountabilities
+
+The DevOps Engineer is accountable for managing the complete lifecycle of GDT’s cloud-based infrastructure and CI/CD pipelines. All accountabilities are executed in alignment with GDT’s technical strategy and architectural guidelines, and GDT’s commitment to operating as an independent, neutral, and transparent price discovery platform.
+
+CI/CD Pipelines: Design, implement, and maintain CI/CD pipelines using tools such as GitHub Actions. Automate build, test, and deployment processes to achieve faster and more reliable software delivery, and monitor and optimise pipelines for performance and efficiency.
+Cloud Infrastructure Management: Design, build, and manage infrastructure in AWS and Azure to ensure efficient use of resources. Implement best practice for resource provisioning and management using infrastructure as code, and monitor and optimise resources for performance and cost efficiency while maintaining high levels of scalability and security.
+Developer Enablement: Work closely with development teams to understand application needs and implement cloud-based solutions that improve efficiency and performance. Take part in regular meetings and architectural discussions, provide infrastructure support aligned to application requirements, guide teams on deploying applications to AWS and Azure, and optimise cloud resources to meet performance and scalability needs.
+Infrastructure & Process Automation: Identify and automate manual and repetitive tasks across the software delivery lifecycle. Develop and maintain automation scripts and tools to streamline the deployment, monitoring, and scaling of cloud-based infrastructure, ensuring consistent, repeatable, and reliable deployments that reduce manual workload.
+Live Auction Monitoring & Support: Provide ongoing monitoring, troubleshooting, support, and maintenance for production platforms, overseeing system health and performance and proactively addressing issues to maintain high availability and reliability. Support the Trading Operations team in executing GDT auctions through live monitoring during auction execution, as well as pre- and post-auction support and reporting.
+System Monitoring & Incident Response: Implement comprehensive monitoring and alerting systems to ensure platform stability. Respond to incidents and troubleshoot issues as they arise, mitigating potential downtime to maintain a highly available service across GDT platforms.
+Security & Compliance: Implement security best practice across environments, ensuring compliance with industry standards and building data protection measures into the infrastructure. Collaborate with engineering teams to identify vulnerabilities and implement proactive solutions that keep the platform secure.
+Disaster Recovery & Business Continuity: Develop and maintain disaster recovery strategies that minimise service disruption in the event of system failures. Test and refine backup and recovery processes to ensure data integrity and rapid restoration of services, and work closely with IT and operations teams to align disaster recovery plans with GDT’s overall business continuity strategy.
+Performance & Cost Optimisation: Continuously assess infrastructure and application performance to identify optimisation opportunities, and implement solutions that improve resource utilisation, reduce latency, and maximise operational efficiency. Conduct regular cost analysis and reporting to optimise cloud spend within budgetary constraints while maintaining performance standards.
+Innovation & Continuous Improvement: Stay up to date with emerging technology trends and advances in DevOps practice, and suggest and implement improvements to the DevOps process, technology stack, and coding practices to enhance productivity and quality.
+Cross-Functional Collaboration: Keep the CTO informed of key issues in the DevOps domain and share insights on emerging industry trends, best practices, and innovative solutions. Work with the Head of Engineering to align DevOps practice with technical strategy and organisational standards; with the Software Architect to ensure infrastructure design follows architectural guidelines and to identify and address security vulnerabilities; with Product Managers to align DevOps practice with business objectives; with Software Engineers on deployment strategy and smooth software delivery; and with Support Engineers to triage and resolve production issues. Communicate complex technical issues clearly to technical and non-technical stakeholders, and work with vendor teams and infrastructure providers to ensure outsourced work and infrastructure meet GDT’s standards for quality, performance, and security.
+
+
+
+
+Experience & Capability Requirements
+
+
+
+
+Skills & Experience
+
+Bachelor’s degree in computer science, software engineering, or a related field, or equivalent practical experience
+Cloud-related certifications such as AWS Certified DevOps Engineer or Azure DevOps Expert
+Minimum 5 years’ hands-on experience with public cloud services such as AWS and Azure, including deploying and managing scalable cloud infrastructure
+Proven expertise designing, implementing, and maintaining CI/CD pipelines using tools such as GitHub Actions and/or Jenkins
+Solid experience with infrastructure-as-code tools such as Terraform
+Strong experience with container technologies such as Docker and orchestration platforms such as Kubernetes
+Proficiency in scripting languages such as Bash, Python, or PowerShell for automating tasks, performing data analysis, and managing systems
+Experience with monitoring tools such as Prometheus, Grafana, or the ELK Stack, including configuring alerts and using these tools to troubleshoot issues
+Experience tuning system performance, resource allocation, and cost, with a proven ability to identify performance bottlenecks and implement effective solutions
+Experience with relational and non-relational databases, including optimising performance and scalability and contributing to database-related infrastructure decisions
+At least 2 years’ experience working in Agile teams (Scrum or Kanban), including sprint planning, daily stand-ups, and iterative development cycles
+Experience developing and maintaining infrastructure and CI/CD pipelines in complex, large-scale environments
+
+
+
+
+Preferred Qualifications
+
+Master’s degree in computer science, software engineering, or a related discipline
+Certified Kubernetes Administrator (CKA)
+Understanding of and experience with microservices-based systems, including managing their deployment, scaling, and orchestration in a cloud environment
+Experience designing and implementing disaster recovery strategies and high availability solutions in cloud environments, maintaining business continuity and uptime under challenging conditions
+Experience implementing secure SecOps practices and ensuring compliance with industry standards
+Experience in a small to medium-sized business where software plays a central role in the product or service offering
+Prior experience in the dairy, agriculture, or global trading platforms industry
+Experience working in a global or multicultural environment with diverse teams
+
+
+
+
+Personal Attributes
+
+Strong technical depth across cloud platforms, containerisation, CI/CD tooling, and scripting and automation, with the ability to manage infrastructure and configuration efficiently
+Strong analytical and problem-solving skills, able to optimise performance, debug intricate issues, and keep the platform secure and efficient
+Excellent verbal and written communication, able to convey technical concepts clearly to technical and non-technical stakeholders
+A strong collaborator with internal teams and external partners, capable of driving cross-functional initiatives and building alignment across teams
+Meticulous attention to detail, ensuring infrastructure, pipelines, and configuration are robust, consistent, and well documented
+Takes initiative, proactively identifying areas for improvement and innovation
+Adaptable to changing requirements, technologies, and industry trends, and committed to continuous learning
+Highly organised with strong time management, balancing multiple priorities and delivering high-quality work under tight deadlines
+
+
+
+
+Success Indicators
+
+CI/CD pipelines are reliable and efficient, enabling frequent, low-risk deployments with minimal manual intervention
+Cloud infrastructure across AWS and Azure is managed as code, consistent across environments, and scales to meet platform demand
+Live auctions are supported by robust monitoring and alerting, with production issues detected early and resolved quickly in partnership with Trading Operations
+Platform availability is maintained at a high level, and incidents are responded to promptly with root causes addressed
+Disaster recovery and backup processes are documented, regularly tested, and aligned with GDT’s business continuity strategy
+Security best practice is embedded in the infrastructure, with vulnerabilities identified and remediated proactively
+Cloud spend is regularly analysed, reported, and optimised, staying within budget without compromising performance
+Development teams are well supported and deploy with confidence, as manual and repetitive delivery tasks are steadily automated
+
+
+
+
+Note: GDT Clear is GDT’s organisational framework, inspired by Requisite Organisation principles, ensuring work complexity matches capability, roles have clear accountability and authority, and organisational structures support long-term value creation.
+
+Show more 
+Seniority level
+Associate
+Employment type
+Full-time
+Industries
+Dairy Product Manufacturing
+  
+
+Referrals increase your chances of interviewing at Global Dairy Trade by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+SoftwareOne
+Auckland, Auckland, New Zealand
+2 weeks ago
+DevOps Product Manager
+DevOps Product Manager
+Global Wave Group
+Auckland, New Zealand
+2 days ago
+Site Reliability Engineer
+Site Reliability Engineer
+Tribe Group
+Auckland, Auckland, New Zealand
+1 week ago
+Infrastructure Engineer
+Infrastructure Engineer
+Letterboxd
+Auckland, Auckland, New Zealand
+1 week ago
+DevOps Engineer - Mandarin Speaking
+DevOps Engineer - Mandarin Speaking
+Global Wave Group
+Auckland, New Zealand
+2 days ago
+Site Reliability Engineer
+Site Reliability Engineer
+ZURU
+Auckland, New Zealand
+1 week ago
+Show more jobs like this 
+People also viewed
+Senior Lead Platform / DevOps Engineer (SRE)
+Senior Lead Platform / DevOps Engineer (SRE)
+
+Synechron
+
+Auckland, New Zealand
+14 hours ago
+IT Systems Engineer
+IT Systems Engineer
+
+Rocket Lab
+
+Auckland, Auckland, New Zealand
+3 days ago
+Support Engineer
+Support Engineer
+
+Propellerhead
+
+Auckland, New Zealand
+2 days ago
+Linux Infrastructure Engineer
+Linux Infrastructure Engineer
+
+Westpac New Zealand
+
+Auckland, New Zealand
+23 hours ago
+Senior Site Reliability Engineer, ANZ
+Senior Site Reliability Engineer, ANZ
+
+Partly
+
+Auckland, Auckland, New Zealand
+5 days ago
+IT Infrastructure Engineer
+IT Infrastructure Engineer
+
+Cognizant
+
+Auckland, Auckland, New Zealand
+2 days ago
+Principal Engineer, Platform & Security
+Principal Engineer, Platform & Security
+
+Stuff
+
+Auckland, Auckland, New Zealand
+1 month ago
+Senior Cloud Engineer
+Senior Cloud Engineer
+
+NZ Super Fund
+
+Auckland, Auckland, New Zealand
+1 week ago
+Senior Software Engineer - Platform
+Senior Software Engineer - Platform
+
+Halter
+
+Auckland, New Zealand
+2 months ago
+Lead Software Engineer - Platform
+Lead Software Engineer - Platform
+
+Halter
+
+Auckland, New Zealand
+2 months ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
