@@ -8447,5 +8447,39 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Deadline (2026-10-13) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "2 x \ud83d\ude80 Release Managers Needed \u2013 High-Growth Series B Tech for Good SaaS - Bristol/Southampton/London - Remote",
+    "company": "Areti Group | B Corp\u2122",
+    "location": "United Kingdom",
+    "url": "https://uk.linkedin.com/jobs/view/2-x-%F0%9F%9A%80-release-managers-needed-%E2%80%93-high-growth-series-b-tech-for-good-saas-bristol-southampton-london-remote-at-areti-group-b-corp%E2%84%A2-4470933276",
+    "visited": "yes",
+    "matches_requirements": "yes",
+    "reason": "The role aligns with Priya's expertise in release management (end-to-end SaaS releases, cross-team coordination) and fits her target location (UK), experience level (mid-senior), and English-language requirement. While not explicitly mentioning configuration management, the overlap with her Elektrobit/Topcon background and the 'configuration management' positive constraint approval makes this a strong match.",
+    "id": "5f4a6bdb",
+    "source": "linkedin_uk_release_manager",
+    "added_at": "2026-09-29T04:54:32+03:00",
+    "posted_date": "2026-09-24",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": "job_descriptions/areti_group___b_corp_2_x___release_managers_needed__5f4a6bdb.txt",
+    "deletion_reason": "Closed - LinkedIn says no longer accepting applications (checked 2026-10-15)"
+  },
+  {
+    "title": "Technical Content Writer (Remote)",
+    "company": "Hire Feed",
+    "location": "South Africa",
+    "url": "https://za.linkedin.com/jobs/view/technical-content-writer-remote-at-hire-feed-4467206342",
+    "visited": "yes",
+    "matches_requirements": "yes",
+    "reason": "The role aligns with Priya's technical writing expertise (matches her Topcon and Accenture experience) and is located in South Africa (a target country), with remote flexibility.",
+    "id": "758b542c",
+    "source": "linkedin_za_technical_writer",
+    "added_at": "2026-09-29T14:21:13+03:00",
+    "posted_date": "2026-09-15",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": "job_descriptions/hire_feed_technical_content_writer__remo_758b542c.txt",
+    "deletion_reason": "Closed - LinkedIn says no longer accepting applications (checked 2026-10-15)"
   }
 ]
