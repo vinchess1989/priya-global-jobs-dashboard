@@ -204,3 +204,4 @@ Gotcha: job_status contains a non-job `initialized` placeholder field - code ite
   2026-10-03 (manju_jobs 18 commits, priya_global_jobs 88 behind); then pinning the account in the remote URL made the
   old code build `https://TOKEN@vinchess1989@github.com` ("URL rejected"). The dead env var was removed.
 - Only Manju_jobs_private pushes as munchnambiar; everything else as vinchess1989 (global CLAUDE.md rule).
+- Verified 2026-10-03 after a stop/sync/restart: background pushes succeed through the stored login (priya_jobs 13:23-13:29, priya_global_jobs 13:31), both level with GitHub.
