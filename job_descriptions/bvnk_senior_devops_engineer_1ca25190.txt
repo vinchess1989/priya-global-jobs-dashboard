@@ -1,0 +1,292 @@
+Title: Senior DevOps Engineer
+Company: BVNK
+Location: Cape Town, Western Cape, South Africa
+URL: https://za.linkedin.com/jobs/view/senior-devops-engineer-at-bvnk-4479206086
+Posted: 2026-10-14
+Deadline: N/A
+Reason: The job as a Senior DevOps Engineer in Cape Town, South Africa aligns with Priya's expertise in CI/CD pipelines, infrastructure-as-code, and regulated environments, meeting all target criteria including location, role type, and experience level.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer
+BVNK  Cape Town, Western Cape, South Africa
+1 day ago  78 applicants
+  
+
+See who BVNK has hired for this role
+
+Apply 
+Save
+About us:
+
+BVNK is the stablecoin-powered financial stack for enterprises. We're now part of Mastercard, and together we're building a network for every form of money – one that delivers more reach, more capability and more choice.
+
+We enable businesses to build financial products, unlock new markets, and move money in seconds across 130+ countries, with 40+ licenses for fiat and digital assets globally. Processing billions annually, we empower enterprises worldwide to send, receive, convert, and settle stablecoins and fiat seamlessly through a single integration.
+
+Our mission is to accelerate global money movement, and we're assembling a world-class team to make it happen.
+
+Trusted by industry leaders like Corpay, Worldpay, Deel, and Flywire, we deliver the infrastructure that makes new forms of money usable within the financial systems customers already rely on today.
+
+By combining Mastercard's global payment reach and trusted networks with BVNK's stablecoin infrastructure, we're building the trusted operating layer for the evolution of money movement, helping customers participate in emerging digital networks without having to rebuild their businesses around every new innovation.
+
+We're a diverse team spread across EMEA, North America, and APAC, with a shared belief that stablecoins are the new infrastructure layer for financial services, and that BVNK is at the forefront of this shift.
+
+We're incredibly honored to have been recognized by:
+
+
+CNBC World's Top Fintech Companies (2026)
+FXC Intelligence Top 100 Cross-border Payment Companies (2026)
+Newsweek's The Top 100 Global Most Loved Workplaces (three years running, most recently 2025)
+LinkedIn as one of the Top 20 Startups in the UK (2025)
+
+
+Location: We offer a Hybrid/Remote working policy.
+
+FUNCTION: Engineering
+
+We are looking for an experienced and forward-thinking Senior DevOps Engineer to join our DevOps team.
+
+In this role, you will be instrumental in designing, scaling, and maintaining the resilient, highly available cloud infrastructure powering our global payments network. You will partner closely with engineering teams to optimize CI/CD pipelines, drive Infrastructure-as-Code (IaC) standards, enhance platform observability, and embed robust security and automation across our entire deployment lifecycle.
+
+Key Areas of Responsibilities:
+
+
+Cloud Infrastructure & Architecture: Design, provision, and maintain secure, scalable, and resilient multi-region cloud infrastructure using modern Infrastructure-as-Code practices.
+CI/CD & Deployment Automation: Architect, maintain, and optimize robust CI/CD pipelines to ensure safe, repeatable, and automated releases across environments.
+Platform Reliability & Observability: Implement comprehensive monitoring, logging, tracing, and alerting systems to ensure high uptime and rapid incident response.
+Security & Compliance Standards: Embed DevSecOps best practices into every stage of the software lifecycle, maintaining rigorous security controls, automated compliance checks, and access management.
+Developer Experience & Tooling: Build and maintain developer platforms and self-service tooling that empower software engineers to deploy, test, and manage services independently and efficiently.
+Technical Leadership & Collaboration: Champion operational excellence and automation within the team, providing guidance and mentorship to engineers across the wider organisation.
+
+
+What we need from you:
+
+
+Extensive DevOps / Cloud Engineering Experience: Proven track record operating and scaling production systems within modern cloud environments (e.g., AWS).
+Infrastructure as Code (IaC): Deep expertise with tools such as Terraform or CloudFormation to manage complex infrastructure at scale.
+Containerisation & Orchestration: Strong production experience with Docker and Kubernetes (EKS or equivalent).
+CI/CD Mastery: Proven experience designing and optimising automated pipelines using tools such as GitHub Actions or ArgoCD.
+Observability & Monitoring: Hands-on experience with modern observability tooling (e.g., Prometheus, Grafana, ELK/OpenSearch).
+Scripting & Automation: Strong scripting proficiency in languages such as Python, Bash, or Go.
+Security-First Approach: Solid understanding of cloud security fundamentals, network architecture (VPCs, firewalls, load balancers), permissions segregations and secrets management.
+Bonus: Experience operating infrastructure in regulated environments, payments, FinTech, or crypto/blockchain platforms.
+Bonus: Exposure to AI-assisted developer workflows or automation tooling.
+Open to participate in out of hours on call rota
+
+
+What you can expect from us:
+
+
+Fair and competitive salary at every stage of your growth
+Flexible working hours, with hybrid working at its heart
+A culture built on passionate, growth-minded people
+A flexible approach to holiday
+Opportunities to travel to our offices around the world
+An open and creative environment where you can help us define the future of BVNK, its culture, and its opportunity sets
+
+
+At BVNK, we are focused on building a diverse and inclusive team. While you may not meet all of our requirements, we'd encourage you to apply if you meet the majority of our expectations. You may be a great fit for this role or another role in our team.
+
+Compensation packages are based on candidate experience and relevant certifications.
+
+Bulgaria Salary Range
+
+€70.000—€90.000 EUR
+
+Compensation packages are based on candidate experience and relevant certifications.
+
+Spain Salary Range
+
+€80.000—€100.000 EUR
+
+Compensation packages are based on candidate experience and relevant certifications.
+
+Poland Salary Range
+
+350 000 zł—420 000 zł PLN
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at BVNK by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Cape Town, Western Cape, South Africa.
+
+Sign in to create job alert
+Jobs
+Senior Manager Talent Acquisition jobs
+Senior DevOps Engineer
+Similar jobs
+Senior Cloud DevOps Engineer
+Senior Cloud DevOps Engineer
+Ikue
+South Africa
+9 months ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Jobgether
+South Africa
+1 day ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+SearchApi
+South Africa
+3 months ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+RELX
+South Africa
+1 month ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+Morningstar
+South Africa
+1 week ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+LexisNexis
+South Africa
+1 month ago
+Show more jobs like this 
+People also viewed
+DevOps Engineer
+DevOps Engineer
+
+Red & Yellow Creative School of Business
+
+Western Cape, South Africa
+1 month ago
+Senior Azure DevOps - PC
+Senior Azure DevOps - PC
+
+DVT
+
+South Africa
+2 weeks ago
+Senior Software Engineer
+Senior Software Engineer
+
+The Flex
+
+South Africa
+3 weeks ago
+Senior Back-End Engineer (South Africa - Remote)
+Senior Back-End Engineer (South Africa - Remote)
+
+Draslovka
+
+South Africa
+1 week ago
+Senior AWS Solution Architect (Modernisation)
+Senior AWS Solution Architect (Modernisation)
+
+Cloud Bridge
+
+South Africa
+1 month ago
+Senior Data Infrastructure Engineer (Scraping & Scale)
+Senior Data Infrastructure Engineer (Scraping & Scale)
+
+Jobgether
+
+South Africa
+3 days ago
+IT Remote Project Engineer
+IT Remote Project Engineer
+
+FusionTek
+
+Cape Town, Western Cape, South Africa
+ZAR 500,000 - ZAR 800,000
+1 week ago
+Head of Systems
+Head of Systems
+
+Calamatta Cuschieri
+
+South Africa
+12 hours ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+OfferZen
+
+City of Cape Town, Western Cape, South Africa
+1 week ago
+Senior Data Engineer
+Senior Data Engineer
+
+Keyrock
+
+Cape Town, Western Cape, South Africa
+2 months ago
+Similar Searches
+Senior Manager Talent Acquisition jobs
+72 open jobs
+Director Talent Management jobs
+13 open jobs
+Project Finance Analyst jobs
+338 open jobs
+Management Information Systems Specialist jobs
+3,994 open jobs
+Performance Test Engineer jobs
+19 open jobs
+Investment Administrator jobs
+177 open jobs
+Crime Analyst jobs
+10 open jobs
+Director of Architecture jobs
+12 open jobs
+Software Engineering Team Lead jobs
+3,912 open jobs
+Candidate Attorney jobs
+26 open jobs
+Chief Legal Officer jobs
+12 open jobs
+Bank Manager jobs
+191 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

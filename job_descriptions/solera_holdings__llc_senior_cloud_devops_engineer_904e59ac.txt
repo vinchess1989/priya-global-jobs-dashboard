@@ -1,0 +1,279 @@
+Title: Senior Cloud DevOps Engineer
+Company: Solera Holdings, LLC.
+Location: Hyderabad, Telangana, India
+URL: https://in.linkedin.com/jobs/view/senior-cloud-devops-engineer-at-solera-holdings-llc-4467195193
+Posted: 2026-10-15
+Deadline: N/A
+Reason: The role aligns with Priya's expertise in CI/CD pipeline ownership, infrastructure as code (IaC), and DevOps practices, matching her experience at Elektrobit and Topcon. The location (Hyderabad, India) is within her target countries, and the senior-level position fits her 15 years of experience.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Cloud DevOps Engineer
+Solera Holdings, LLC.  Hyderabad, Telangana, India
+7 hours ago  60 applicants
+  
+
+See who Solera Holdings, LLC. has hired for this role
+
+Apply 
+Save
+Who We Are
+
+Solera is a global leader in data and software services that strives to transform every touchpoint of the vehicle lifecycle into a connected digital experience. In addition, we provide products and services to protect life’s other most important assets: our homes and digital identities. Today, Solera processes over 300 million digital transactions annually for approximately 235,000 partners and customers in more than 90 countries. Our 6,500 team members foster an uncommon, innovative culture and are dedicated to successfully bringing the future to bear today through cognitive answers, insights, algorithms, and automation. For more information, please visit solera.com.
+
+Job Summary
+
+We are looking for a Senior DevOps Engineer who will have a holistic approach about systems when driving the definition, building, deployment and operations of Solera applications in close collaboration with Dev, QA and Ops peers.
+
+We are seeking an individual who will show ownership and can help build the appropriate bridges and processes across the various teams, leveraging experience with minimal direction, while balancing trade-off and strict processes and methodologies in a fast-paced environment. This individual will lead the creation and evolution of our CI/CD pipelines for deployment and operations of solutions across Solera’s various environments which may include on-prem or cloud systems.
+
+Our products intersect with all the current and exciting trends in the automotive and transportation industries, and our business is growing every year. Our people and our platforms are the foundation and enabler of that growth.
+
+We are expanding our team looking for technologists with a passion for developing highly available and distributed applications in the cloud, and a drive to deliver software products that make a meaningful difference in the lives of others.
+
+These regulations prohibit discrimination against qualified individuals based on their status as protected veterans or individuals with disabilities and prohibit discrimination against all individuals based on their race, color, religion, sex, sexual orientation, gender identity or national origin. These regulations require that covered prime contractors and subcontractors take affirmative action to employ and advance in employment individuals without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status or disability.
+
+Our Stack
+
+We expect the ideal candidate to be proficient in the following technologies and tools (list not exhaustive), in particular the CI/CD and Infrastructure stacks:
+
+
+CI/CD: GitHub Actions, Helm Deploy, Spinnaker, Octopus Deploy, Jenkins, NuGet, SonarQube
+Source Control and Processes: Jira, Confluence, Git/GitHub
+Languages: Python, PowerShell, batch, bash
+Infrastructure: AWS (EKS, MSK, EC2, S3, ECR, Secrets Manager, Cognito, etc...), Terraform, Linux administration, Windows Server administration, Docker
+Backend: MS SQL Server, Cassandra, MongoDB, Redis, Elasticsearch, Prometheus, Grafana, Datadog
+Traditional internet and security protocols (HTTP, TLS, PKI)
+
+
+Our Team
+
+The IT team runs the entire infrastructure supporting Solera services and customers, powered by on-prem systems in our datacenter and a large public cloud footprint. The team, whose ownership and drive has no match, is composed of experts in DevOps, DataOps, Production Operations, IT, and Security. Our team is a global operation with support around the clock to ensure we fulfill the Solera Promise to our customers.
+
+Your Role
+
+
+Lead the transition of legacy/manual deployment processes to a completely automated, DevOps ready posture
+Ownership in a very agile and fast paced environment of the CI/CD pipeline for deployment and operations of Solera AWS footprint
+Create and maintain the continuously evolving Solera DevOps CI/CD pipelines across Dev, QA and Production
+Create and maintain all cloud resources with Infrastructure as Code (IaC)
+Maintain stability across all environments with IaC
+Develop with cross-functional teams’ strategies towards higher organizational throughput via automation and flexible processes
+Design and create reliable continuous deployment solutions that will yield higher availability and uptime for our internal and external customers
+Manage operational cost with optimal resource utilization across on-prem and cloud services, including evolving capacity planning
+Help the team balance and plan longer term projects against the demands of a fast-changing environment
+Enforce security policies by ensuring vulnerabilities are tracked and timely addressed
+Diagnose, troubleshoot and resolve issues related to Solera environments
+Support Dev and QA teams along the steps of the Software Development Life Cycle by maintaining environments and tools
+Maintain and develop documentation to facilitate understanding of products, features, and tools, including training material
+Participate in rotations as necessary in a 24x7x365 organization
+
+
+Minimum Qualifications
+
+
+B.S. or M.S. Degree in Computer Science/Computer Information Science or equivalent (M.S. highly desirable)
+8+ years of experience driving CI/CD for systems being deployed to cloud providers (proficiency with AWS services and associated setup/operations)
+8+ years of experience in a 24x7x365 global SaaS/PaaS operation
+8+ years of experience with virtualization and Docker containers
+Proficiency with scripting languages (PowerShell, batch, bash, Python, or equivalent)
+
+
+Preferred Qualifications
+
+
+You demonstrate proficiency the technologies in our stack (see above) with 8+ years of experience in a large portion of the tools and technologies we leverage, in particular the CI/CD and Infra stacks.
+You demonstrate a high sense of urgency and ownership
+You take great pride in helping teams and individuals
+You have competence in building and designing complex systems leveraging multiple technologies (legacy and new)
+You can demonstrate and ensure consistency in line with industry best practices for CI/CD, code quality, operational readiness, and security
+Strong organizational skills in a fast paced and fast changing environment
+You are driven, self-motivated to learn and ramp up fast
+You are candid and can hold your own as the DevOps representative in cross-functional teams
+Be able to perform training and knowledge transfers
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Solera Holdings, LLC. by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Hyderabad, Telangana, India.
+
+Sign in to create job alert
+Jobs
+Senior Services Engineer jobs
+Senior Cloud DevOps Engineer
+Similar jobs
+Senior DevOps Engineer
+Senior DevOps Engineer
+Teradata
+Hyderabad, Telangana, India
+2 weeks ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+Turvo
+Hyderabad, Telangana, India
+1 week ago
+Sr. DevOps Engineer
+Sr. DevOps Engineer
+Apple
+Hyderabad, Telangana, India
+4 weeks ago
+Sr Cloud DevOps Engineer Global - DevOps Tooling & Pipelines
+Sr Cloud DevOps Engineer Global - DevOps Tooling & Pipelines
+Southwest Airlines
+Greater Hyderabad Area
+3 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+HighRadius
+Hyderabad, Telangana, India
+2 months ago
+Sr DevOps Engineer
+Sr DevOps Engineer
+Keyloop
+Hyderabad, Telangana, India
+1 week ago
+Show more jobs like this 
+People also viewed
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Cornerstone OnDemand
+
+Hyderabad, Telangana, India
+2 weeks ago
+Staff Engineer IT (Cloud Platform Engineering)
+Staff Engineer IT (Cloud Platform Engineering)
+
+Qualcomm
+
+Greater Hyderabad Area
+16 hours ago
+Senior DevOps Engineer – Multi-Cloud Infrastructure (AWS / GCP / Azure)
+Senior DevOps Engineer – Multi-Cloud Infrastructure (AWS / GCP / Azure)
+
+PETADATA
+
+Hyderabad, Telangana, India
+21 hours ago
+Staff DevOps Engineer
+Staff DevOps Engineer
+
+Teradata
+
+Hyderabad, Telangana, India
+1 week ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+Mirantis
+
+Hyderabad, Telangana, India
+3 weeks ago
+Principal Cloud Engineer - AWS
+Principal Cloud Engineer - AWS
+
+MiniMed
+
+Hyderabad, Telangana, India
+2 weeks ago
+Sr. DevSecOps Engineering
+Sr. DevSecOps Engineering
+
+Novartis India
+
+Greater Hyderabad Area
+6 days ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+
+Recruiting Bond International
+
+Hyderabad, Telangana, India
+₹2,000,000 - ₹3,500,000
+3 months ago
+Senior DevOps Engineer (Development Operations Engineer, SaaS)
+Senior DevOps Engineer (Development Operations Engineer, SaaS)
+
+NetBrain Technologies Inc.
+
+Greater Hyderabad Area
+1 week ago
+Sr. AWS DevOps Engineer- Kubernetes Expertise
+Sr. AWS DevOps Engineer- Kubernetes Expertise
+
+Cloudelligent
+
+Hyderabad, Telangana, India
+4 months ago
+Similar Searches
+Senior Services Engineer jobs
+776 open jobs
+Application Development Engineer jobs
+2,076 open jobs
+Computer Science Teacher jobs
+48,959 open jobs
+Principal Security Consultant jobs
+249 open jobs
+Junior Dotnet Developer jobs
+3,317 open jobs
+Regional Project Manager jobs
+609 open jobs
+Vice President Treasury jobs
+383 open jobs
+Senior Brand Strategist jobs
+496 open jobs
+Senior Manager Business Intelligence jobs
+249 open jobs
+Placement Director jobs
+82 open jobs
+Assistant Project Engineer jobs
+815 open jobs
+Director Alliances jobs
+153 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

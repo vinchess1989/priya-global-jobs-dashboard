@@ -1,0 +1,366 @@
+Title: Gemstone DevOps Engineer
+Company: Indsafri
+Location: City of Johannesburg, Gauteng, South Africa
+URL: https://za.linkedin.com/jobs/view/gemstone-devops-engineer-at-indsafri-4477076062
+Posted: 2026-10-15
+Deadline: N/A
+Reason: The role aligns with DevOps Engineer responsibilities (CI/CD pipelines, Linux administration, automation) in South Africa, a target country, and includes configuration management aspects matching her Elektrobit/Topcon experience.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Gemstone DevOps Engineer
+Indsafri  City of Johannesburg, Gauteng, South Africa
+10 hours ago   Be among the first 25 applicants
+  
+
+See who Indsafri has hired for this role
+
+Apply
+Save
+
+Direct message the job poster from Indsafri
+
+Dovhani Ramambila
+Dovhani Ramambila
+IT Talent Acquisition Specialist @ Indsafri
+
+Purpose of the Position
+
+The Linux/Windows Systems Administrator is responsible for the installation, configuration,
+
+administration, monitoring, maintenance, and optimisation of Linux servershosting GemStone/S application environments. The role ensuresthe stability, security, performance, and availability of production, test, and development systems while working closely with application development teams, infrastructure teams. This is the primary DevOps role for the Gemstone/s environment.
+
+
+
+
+Responsibilities
+
+
+
+
+Linux Server Administration
+
+Configure, and maintain Linux operating systemsacross development, test, prelive, and production environments.
+Coordinate operatingsystem upgrades, patching,and security updateswith I&O and other stakeholders.
+Manage user accounts, permissions, groups, and accesscontrols.
+Monitor and maintainstorage, file systems,network services, and system services.
+Troubleshoot server, operating system, andinfrastructure issues.
+
+GemStone/S Administration
+
+Monitor and maintain GemStone/S environments.
+Configure and upgrade GemStone/S environments with seniordevs.
+Monitor GemStone processes(stone, netldi, gem, and repository).
+Monitor user and bulk processes.
+Monitor GemStone backups, replication and recovery procedures.
+Monitor repository integrity checksand report repository-related issues.
+
+Deploy Pipeline
+
+Monitor deployment pipelines and respond to issues.
+Support application deployments and environment configuration changes (Jenkins, git, Ansible, OS Scripts).
+Assist development teams with performance analysisand troubleshooting.
+
+
+
+
+Monitoring and Performance Management
+
+Monitor server health, application availability, disk usage,memory utilisation, and system performance.
+Implement proactivemonitoring and alertingmechanisms.
+Enhance observability by integrating with organisation tools (DataDog)
+
+Security and Compliance
+
+Enforce Linux security standards and best practices.
+Manage SSH access, certificates, firewall configurations, and vulnerability remediation.
+Ensure compliance with company securitypolicies and audit requirements.
+Participate in security reviewsand incident responseactivities.
+
+Backup, Recoveryand Business Continuity
+
+Monitor daily restore procedures.
+Develop, maintain, and test backupand recovery procedures.
+Perform regular disaster recovery validation exercises.
+Ensure recovery time and recovery point objectives are met.
+Maintain documentation of recovery procedures.
+
+Automation and DevOps Support
+
+Maintain and enhance automation scripts for administration and operational tasks (Jenkins and Ansible).
+Support CI/CD processes and deployment automation (Jenkins, Ansible, terragrunt and bat/bash).
+Implement configuration management and infrastructure-as-code practices where applicable.
+Improve operational efficiency through automation.
+
+Documentation
+
+Maintain accurate technical documentation for systems, configurations, procedures, and support activities.
+Create and update operational runbooks and troubleshooting guides.
+Document architecture changes and system dependencies.
+
+Support and Incident Management
+
+Support the investigation of production incidents.
+Conduct root causeanalysis and implementpreventative measures.
+Work with internalteams to resolvecomplex issues.
+
+
+
+
+AI
+
+Use approved AI-assisted tools to enhancecoding, testing, troubleshooting, and documentation activities.
+Validate and apply appropriate governance to AI-generated outputs, ensuringquality, security, and compliance requirements are met.
+
+
+
+
+Qualifications and experience
+
+Diploma or Degreein Information Technology, Computer Science, Engineering, or a relatedfield.
+Relevant Linux certifications will be advantageous.
+5+ years of Linux systemsadministration experience.
+2+ years supporting enterprise application platforms.
+Experience administering mission-critical production environments.
+Experience supporting GemStone/S environments is highly advantageous.
+
+
+
+
+
+
+
+Technical Competencies Required
+
+
+
+
+Linux Administration
+
+Red Hat Enterprise Linux, Ubuntu, or similar distributions.
+Shell scripting (Bash,Python, or similar).
+Systems, networking, storage management, and performance tuning.
+MQ configuration
+
+Gemstone
+
+GemStone/S Skills will be advantageous
+Backup and recovery procedures.
+Performance monitoring and capacity planning.
+MFA integration - Client / tokens
+
+Infrastructure
+
+Cloud platforms - AWS advantageous.
+TCP/IP networking.
+
+Monitoring and Automation
+
+DataDog (Prometheus).
+Git version control.
+Ansible or similar automation tools.
+CI/CD tooling knowledgeadvantageous.
+
+
+
+
+Behavioural Competencies
+
+Self driven to learn.
+Strong analytical and problem-solving abilities.
+Excellent troubleshooting skills.
+Ability to work independently and take ownership of systems.
+Strong communication and documentation skills.
+Attention to detail and commitment to operational excellence.
+Ability to performeffectively under pressureduring incidents.
+Collaborative team player with customer-focused attitude.
+
+
+
+
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Contract
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Indsafri by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in City of Johannesburg, Gauteng, South Africa.
+
+Sign in to create job alert
+Jobs
+Mainframe System Programmer jobs
+Gemstone DevOps Engineer
+Similar jobs
+DevOps Engineer - (AML Platform)
+DevOps Engineer - (AML Platform)
+Optimal Growth Technologies
+Johannesburg, Gauteng, South Africa
+1 month ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+VALR
+Johannesburg, Gauteng, South Africa
+1 month ago
+Azure DevOps Engineer
+Azure DevOps Engineer
+Zensar Technologies
+Johannesburg Metropolitan Area
+6 days ago
+Azure DevOps Engineer
+Azure DevOps Engineer
+Samaha Consulting
+Sandton, Gauteng, South Africa
+12 hours ago
+Platform Engineer
+Platform Engineer
+Share
+City of Johannesburg, Gauteng, South Africa
+4 weeks ago
+Senior DevOps & Site Reliability Engineer
+Senior DevOps & Site Reliability Engineer
+Indsafri
+Johannesburg Metropolitan Area
+4 weeks ago
+Show more jobs like this 
+People also viewed
+Gemstone DevOps Engineer
+Gemstone DevOps Engineer
+
+Concord EFS
+
+Johannesburg, Gauteng, South Africa
+3 days ago
+Cloud Managed Services Engineer (L4)
+Cloud Managed Services Engineer (L4)
+
+NTT DATA, Inc.
+
+Johannesburg, Gauteng, South Africa
+1 week ago
+Staff Platform Engineer
+Staff Platform Engineer
+
+Nintex
+
+Johannesburg, Gauteng, South Africa
+2 weeks ago
+Platform Engineering Lead
+Platform Engineering Lead
+
+Talent Shore
+
+Johannesburg, Gauteng, South Africa
+3 weeks ago
+IT Systems Developer- Automation
+IT Systems Developer- Automation
+
+Liberty Group South Africa
+
+City of Johannesburg, Gauteng, South Africa
+1 day ago
+DevOps / Cloud Infrastructure Engineer
+DevOps / Cloud Infrastructure Engineer
+
+Wariverse
+
+Johannesburg Metropolitan Area
+6 days ago
+Linux Engineer
+Linux Engineer
+
+Impronics Technologies
+
+Johannesburg, Gauteng, South Africa
+1 year ago
+Technology/Domain Specialist II - Kafka (OVA5718)
+Technology/Domain Specialist II - Kafka (OVA5718)
+
+Ovations Talent Sourcing
+
+Johannesburg, Gauteng, South Africa
+3 days ago
+Senior AI Platform Engineer (Cloud)
+Senior AI Platform Engineer (Cloud)
+
+Absa Group
+
+Johannesburg, Gauteng, South Africa
+6 days ago
+IT Remote Project Engineer
+IT Remote Project Engineer
+
+FusionTek
+
+Johannesburg, Gauteng, South Africa
+ZAR 500,000 - ZAR 800,000
+1 week ago
+Similar Searches
+Mainframe System Programmer jobs
+12 open jobs
+Telecommunications Analyst jobs
+23 open jobs
+Freelance Marketing jobs
+130 open jobs
+Hadoop Developer jobs
+826 open jobs
+Senior Network Engineer jobs
+104 open jobs
+Software Quality Engineer jobs
+112 open jobs
+Business Process Engineer jobs
+3,696 open jobs
+Trading Specialist jobs
+155 open jobs
+Information Technology Auditor jobs
+70 open jobs
+Software Quality Assurance Engineer jobs
+80 open jobs
+Junior Scientist jobs
+19 open jobs
+Functional Analyst jobs
+494 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
