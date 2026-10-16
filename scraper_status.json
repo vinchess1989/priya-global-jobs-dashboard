@@ -1,9 +1,9 @@
 {
   "pid": 63744,
   "started_at": "2026-10-16T05:08:28+03:00",
-  "heartbeat_at": "2026-10-16T09:43:33+03:00",
+  "heartbeat_at": "2026-10-16T10:22:10+03:00",
   "phase": "reviewing",
-  "detail": "Manager, DevOps & App Support",
-  "last_scrape_ok_at": "2026-10-16T09:34:23+03:00",
+  "detail": "Manager, Regional CoE (Core Banking System Rollout)",
+  "last_scrape_ok_at": "2026-10-16T10:13:17+03:00",
   "last_error": null
 }
