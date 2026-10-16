@@ -225,3 +225,13 @@ true (set only from her per-job OK), requires fill-form's `--fit strong` (stretc
 scrape_application.py label-marked required fields + radio groups under their legend + own CDP tab + [id=...] lookups;
 fill-form.md: no browser.close() over CDP, live required check uses label/legend markers, confirm flow. This board's
 global-only form rules (needs visa sponsorship abroad, relocate to job's country, clearance) were kept.
+
+## Scrapers take turns: one cycle at a time (2026-10-16)
+- Incident: priya_jobs, priya_global_jobs and manju_uk_jobs each ran a headless Chromium + reviews side by side next to
+  LM Studio (qwen3-14b) and the PC ran out of its 32 GB RAM (0.1 GB free, 76 GB committed).
+- Fix (same in all three repos): `SCRAPER_TURN_LOCK_FILE` = `%USERPROFILE%\.claude\scraper_turn.lock`, an OS file lock.
+  Each main-loop iteration calls `_acquire_scraper_turn()` before polling/scraping/reviewing/pushing and `turn.release()`
+  before its 5 s / 600 s idle wait, so only one scraper works at a time; waiters heartbeat phase=`waiting` every 30 s (keeps
+  the 45-min watchdog quiet). A crashed holder releases the lock automatically. The older LLM priority/pipeline locks still apply.
+- Restart order used 2026-10-16: priya_jobs -> priya_global_jobs -> manju_uk_jobs. To stop a scraper safely, kill its
+  orchestrator first (else it restarts the scraper), then the scraper tree while its log is in `Reviewing:`/`[LLM]`.
