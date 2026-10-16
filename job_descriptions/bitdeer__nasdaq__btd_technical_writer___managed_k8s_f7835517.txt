@@ -1,0 +1,213 @@
+Title: Technical Writer - Managed K8s
+Company: Bitdeer (NASDAQ: BTDR)
+Location: Singapore, Singapore
+URL: https://sg.linkedin.com/jobs/view/technical-writer-managed-k8s-at-bitdeer-nasdaq-btdr-4477068992
+Posted: 2026-10-15
+Deadline: N/A
+Reason: The job aligns with Priya's expertise as a Technical Writer/Documentation Specialist, involving API reference documentation, release notes, and docs-as-code pipelines, matching her Topcon experience and configuration management-positive constraint.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Technical Writer - Managed K8s
+Bitdeer (NASDAQ: BTDR)  Singapore, Singapore
+1 day ago   Be among the first 25 applicants
+  
+
+See who Bitdeer (NASDAQ: BTDR) has hired for this role
+
+Apply 
+Save
+About Bitdeer
+
+Bitdeer is a world-leading technology company for Bitcoin mining and AI cloud.
+
+Bitdeer is committed to providing comprehensive Bitcoin mining solutions for its customers. Apart from designing industry-leading ASIC chips and manufacturing mining rigs, the Group handles complex processes involved in computing across the value chain. This includes equipment procurement, transport logistics, datacenter design and construction, equipment management, and network and facility operations. Bitdeer also offers advanced cloud capabilities to customers with a high demand for artificial intelligence.
+
+Headquartered in Singapore, Bitdeer operates globally with a diversified 3 GW energy portfolio, and deploys Bitcoin mining and HPC datacenters in the United States, Bhutan, Norway, Canada, Malaysia, and Ethiopia.
+
+About The Role
+
+We are seeking a Technical Writer to own the documentation surface for our AI Cloud Kubernetes platform — the API reference, SDK and CLI docs, Terraform provider guides, getting-started paths, and release notes that let customers provision and operate self-serve GPU clusters without opening a support ticket. This is not a proofreading role: you will read the control-plane API, SDK, CLI, and Terraform provider source and diffs directly, verify every documented request and response against a running environment, and update documentation the moment an interface changes rather than after a customer files a ticket about it. You will run a docs-as-code pipeline — versioned alongside the codebase, built and linted in CI, published in lockstep with each release — so documentation ships the same day as the feature, not weeks later. Release notes are treated as a contract: every breaking change, deprecated field, and altered default must be called out precisely enough that a customer can patch their integration in minutes rather than debug a mysterious failure in production. You will treat rising support-ticket volume on any topic as a leading indicator of a documentation gap, tracing repeat tickets back to missing steps, wrong defaults, or undocumented edge cases across cluster lifecycle, provisioning, console workflows, IaC, billing, and security, and closing the gap. The role sits close to engineering: you'll read PRs that touch public interfaces and push back when an API ships without a documented migration path.
+
+What You Will Be Responsible For
+
+
+API, SDK, and CLI Reference Documentation: Own reference documentation for the control-plane API, SDK, CLI, and Terraform provider, writing directly against the OpenAPI spec and source rather than secondhand descriptions from engineers. Verify every request, response, and error code against a live environment before publishing, and regenerate reference pages automatically from schema where possible so drift cannot silently accumulate.
+Getting-Started and Self-Serve Guides: Build and maintain the onboarding paths that take a new customer from signup to a running GPU workload — cluster creation, provisioning, console navigation, IaC setup — without a support interaction. Structure guides by customer persona (platform admin standing up a cluster versus application developer deploying a workload) so each reader lands on the shortest path to their outcome.
+Release Notes and Breaking-Change Communication: Own the release notes cadence, writing precise, customer-actionable entries for every breaking change, field deprecation, default-value change, and new capability shipped by the platform. Coordinate with engineering ahead of each release to confirm migration steps are documented and tested, not assumed.
+Docs-as-Code Pipeline Ownership: Build and operate the docs-as-code pipeline — content versioned in git, built and linted in CI, deployed on the same cadence as product releases — so documentation is never a manual, out-of-band step. Maintain the toolchain (static site generation, doc versioning, search, example validation) as a piece of engineering infrastructure with its own reliability bar.
+Support-Ticket-Driven Gap Closure: Monitor ticket volume and topic trends with the support team and treat sustained spikes on any feature as a signal that documentation, not the product, needs to change. Ship the fix, then track whether ticket volume on that topic actually drops, closing the loop rather than treating the doc update as done on merge.
+Cross-Functional Engineering Engagement: Read design docs and PRs that touch public interfaces early enough to document features before launch, not after the first confused customer. Partner with product and engineering to ensure new capabilities ship with getting-started coverage and reference docs on day one, and flag when a proposed API or CLI change would be difficult for a customer to self-serve.
+
+
+How You Will Stand Out
+
+
+Bring 2+ years of technical writing experience for a developer-facing API, cloud, or infrastructure product, with direct ownership of API reference and getting-started documentation for paying customers. Experience documenting Kubernetes, GPU infrastructure, or other complex control-plane systems is strongly preferred.
+Demonstrate hands-on technical fluency: you can read Go or TypeScript well enough to verify a documented behavior against source, work directly from OpenAPI specs, and run the CLI, SDK, and Terraform provider yourself to confirm every example actually works before publishing it. You are comfortable in a Kubernetes environment (kubectl, Helm, cluster provisioning) rather than documenting it secondhand.
+Show proven experience running a docs-as-code pipeline — git-based content, CI build and lint, versioned publishing synced to a software release cadence — including selecting and maintaining the toolchain (static site generators, OpenAPI-driven reference generation, doc versioning). You should be able to point to a specific pipeline you built or significantly improved.
+Have a track record of writing release notes and breaking-change communication for an API that customers depend on in production, precise enough that customers can act on them without opening a ticket. You understand how to structure a deprecation notice or migration guide so it prevents support escalations rather than triggering them.
+Be able to work from support-ticket data to prioritize documentation work, partnering with support and engineering to identify where missing or unclear docs are driving ticket volume. You communicate directly with engineers about upcoming API changes and can hold a technical conversation about design trade-offs, not just document the outcome.
+
+
+What You Will Experience Working With Us
+
+
+A culture that values authenticity and diversity of thoughts and backgrounds;
+An inclusive and respectable environment with open workspaces and exciting start-up spirit;
+Fast-growing company with the chance to network with industrial pioneers and enthusiasts;
+Ability to contribute directly and make an impact on the future of the digital asset industry;
+Involvement in new projects, developing processes/systems;
+Personal accountability, autonomy, fast growth, and learning opportunities;
+Attractive welfare benefits and developmental opportunities such as training and mentoring.
+
+
+Bitdeer is committed to providing equal employment opportunities in accordance with country, state, and local laws. Bitdeer does not discriminate against employees or applicants based on conditions such as race, colour, gender identity and/or expression, sexual orientation, marital and/or parental status, religion, political opinion, nationality, ethnic background or social origin, social status, disability, age, indigenous status, and union.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Bitdeer (NASDAQ: BTDR) by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Technical Writer
+Technical Writer
+AvePoint
+Singapore
+2 weeks ago
+Technical Writer - MaaS
+Technical Writer - MaaS
+Bitdeer (NASDAQ: BTDR)
+Singapore, Singapore
+1 day ago
+Technical Writer, Eggplant Test
+Technical Writer, Eggplant Test
+Keysight Technologies
+Singapore, Singapore
+1 month ago
+Technical Writer
+Technical Writer
+VDL ETG Singapore
+Singapore, Singapore
+1 month ago
+Sr Technical Writer
+Sr Technical Writer
+Thermo Fisher Scientific
+Singapore, Singapore
+6 days ago
+Technical Writer
+VDL ENABLING TECHNOLOGIES GROUP (SINGAPORE) PTE. LTD.
+Singapore, Singapore
+1 week ago
+Show more jobs like this 
+People also viewed
+VoidZero Developer Relations Engineer
+VoidZero Developer Relations Engineer
+
+Cloudflare
+
+Singapore, Singapore
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+BIT Official
+
+Singapore, Singapore
+1 week ago
+Infrastructure / Platform Engineer
+Infrastructure / Platform Engineer
+
+PSA Singapore
+
+Singapore, Singapore
+1 week ago
+Developer Support Engineer (Singapore)
+Developer Support Engineer (Singapore)
+
+Braintrust
+
+Singapore
+SGD 140,000 - SGD 190,000
+1 week ago
+Multi Cloud
+Multi Cloud
+
+Wipro
+
+Singapore, Singapore
+3 weeks ago
+Dedicated Support Engineer - Singapore
+Dedicated Support Engineer - Singapore
+
+OpenAI
+
+Singapore
+2 weeks ago
+Cloud Site Reliability Engineer (SRE)
+Cloud Site Reliability Engineer (SRE)
+
+Singapore Pools
+
+Singapore, Singapore
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+stakefish
+
+Singapore
+$130,000 - $180,000
+1 week ago
+Member of Technical Staff, Cloud Orchestration
+Member of Technical Staff, Cloud Orchestration
+
+Inferact
+
+Singapore, Singapore
+SGD 200,000 - SGD 400,000
+3 months ago
+Technical Trainer
+
+NEXTLABS INTERNATIONAL PRIVATE LIMITED
+
+Singapore, Singapore
+3 days ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Your California Privacy Choices
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Bitdeer (NASDAQ: BTDR)
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
