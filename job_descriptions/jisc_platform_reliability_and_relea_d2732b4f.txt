@@ -1,0 +1,458 @@
+Title: Platform reliability and release manager
+Company: Jisc
+Location: England, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/platform-reliability-and-release-manager-at-jisc-4478428900
+Posted: 2026-10-15
+Deadline: Open until filled
+Reason: The role aligns with Priya's expertise in release management, CI/CD pipelines, and regulated environments, and is located in the UK where she is open to relocating.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Platform reliability and release manager
+Jisc  England, United Kingdom
+1 day ago   Be among the first 25 applicants
+  
+
+See who Jisc has hired for this role
+
+Apply 
+Save
+Jisc provided pay range
+
+This range is provided by Jisc. Your actual pay will be based on your skills and experience — talk with your recruiter to learn more.
+
+Base pay range
+£50,000.00/yr - £55,000.00/yr
+
+Direct message the job poster from Jisc
+
+Steph Taggart (She/her)
+Steph Taggart (She/her)
+Talent acquisition Manager
+
+Job Title: Platform Reliability and Release Manager
+
+Jisc Grade: TGE3
+
+Salary: c £50,000 per annum (negotiable based on experience) + comprehensive benefits package
+
+Job Type: 12 month Fixed Term Contract
+
+Hours: 35 per week
+
+Reports into: Head of DXP Operations
+
+Working style: Hybrid - A blend of working from home and your nominated hub office. We have hubs located in London, Bristol, Manchester and Oxford.
+
+
+
+
+About Jisc:
+
+At Jisc, we're driven by a simple ambition: to use technology to transform education, research and innovation.
+
+For more than 30 years, we've been the digital partner for the UK's education and research sectors, providing world-class networks, innovative digital services and expert guidance that help universities, colleges and research institutions thrive.
+
+
+
+
+Our work supports millions of learners, educators and researchers every day, enabling everything from groundbreaking discoveries and life-changing research to exceptional digital learning experiences. While many people may not realise it, the technology and services we provide help power some of the UK's most important educational and research achievements.
+
+
+
+
+Join Jisc and you'll be part of a purpose-driven organisation where your ideas can have a real impact. Together, we're shaping the future of learning, research and innovation for the benefit of society.
+
+
+
+
+Shape the stability, scalability and future of Jisc's Digital Experience Platform
+
+At Jisc, we're on a mission to empower education, research and innovation through world-class digital services. Behind every seamless customer experience is a reliable, secure and high-performing platform. We're looking for a Platform Reliability & Release Manager to take ownership of that mission and play a pivotal role in ensuring our Digital Experience Platform operates at its very best.
+
+This is an exciting opportunity for someone who thrives at the intersection of platform engineering, release management and operational excellence. You'll lead the strategy, processes and technologies that keep our critical platforms running smoothly while enabling the safe and rapid delivery of new features and improvements.
+
+
+
+
+Why this role matters
+
+As our Platform Reliability & Release Manager, you'll be responsible for the resilience, availability and continuous evolution of Jisc's Digital Experience Platform (DXP), built primarily on Salesforce, MuleSoft and Copado.
+
+
+
+
+You'll be the driving force behind reliable platform operations, high-quality releases and continuous improvement. Whether it's preventing service disruption, automating operational processes, improving release pipelines or leading platform upgrades, you'll help ensure that thousands of users benefit from secure, stable and scalable digital services.
+
+
+
+
+This is more than a technical leadership role. It's an opportunity to influence how Jisc delivers change, manages risk and improves the experience of our members, customers and colleagues.
+
+
+
+
+What you'll be doing
+
+
+
+
+Own platform reliability and performance
+
+Lead the day-to-day operational integrity of the Digital Experience Platform.
+Drive platform stability, resilience, scalability and service availability.
+Champion a proactive approach to monitoring, incident prevention and continuous improvement.
+Identify opportunities to improve performance, reduce risk and optimise costs.
+
+Lead enterprise release management
+
+Define and own the release and environment management strategy across Salesforce, MuleSoft and related technologies.
+Oversee the full release lifecycle, ensuring high-quality, low-risk deployments.
+Coordinate complex releases across multiple environments and stakeholder groups.
+Establish release readiness criteria, manage dependencies and minimise deployment risks.
+
+Accelerate automation and DevOps practices
+
+Leverage software engineering principles to automate operational activities and improve platform efficiency.
+Enhance CI/CD capabilities and deployment processes.
+Drive the adoption of DevOps and DevSecOps best practices across the platform landscape.
+
+Manage environments and platform tooling
+
+Lead platform upgrades, maintenance activities and security patching.
+Oversee sandbox management, environment synchronisation and data refresh strategies.
+Manage associated tooling including Copado and related release management technologies.
+Ensure teams are equipped with the processes, tooling and guidance required for successful delivery.
+
+Collaborate and influence
+
+Partner closely with development teams, security specialists, architects and operational stakeholders.
+Lead release communications and change governance activities, including CAB engagement.
+Act as a trusted technical leader, influencing platform strategy and championing best practice.
+
+
+
+
+What we’re looking for
+
+You’ll be someone who enjoys solving complex operational challenges and creating structure in fast-moving technology environments. You’ll combine technical expertise with leadership, communication and planning skills to deliver reliable outcomes.
+
+
+
+
+You'll bring experience in:
+
+Platform operations, reliability engineering or release management.
+Managing multiple environments across development, testing and production.
+Salesforce, MuleSoft, Copado or similar enterprise platforms.
+Release management, CI/CD pipelines and DevOps practices.
+Automation and process improvement initiatives that drive tangible business value.
+Incident management, troubleshooting and root cause analysis.
+Change management and governance processes.
+Working across technical and non-technical stakeholder groups.
+Leading initiatives, mentoring others and driving continuous improvement.
+Experience with technologies and tools such as Git, GitHub, GitLab, Jira, Confluence, Power Platform, Power Automate, Tableau, Power BI and cloud-based platforms would be highly beneficial.
+
+
+
+
+What success looks like
+
+In this role you'll:
+
+Improve platform reliability and service uptime
+Deliver smooth, predictable and successful releases
+Increase automation and operational efficiency
+Reduce platform risk and technical debt
+Help teams deliver change faster and more confidently
+Create a culture of continuous improvement and operational excellence
+
+
+
+
+Professional development
+
+We're looking for professionals who are committed to continual learning and growth.
+
+
+
+
+Relevant certifications include:
+
+Salesforce Certified Administrator
+Salesforce Certified Platform Developer I
+Copado Certified Fundamentals I & II - Metadata Pipeline
+
+If you're passionate about building reliable platforms, delivering change at scale and helping shape the future of digital services, we'd love to hear from you.
+
+
+
+
+Don’t meet every single requirement?
+
+We know that sometimes people can be put off applying for a job if they think they can’t tick every box, so we encourage you to apply even if you do not meet 100% of the requirements, but if you feel this role is perfect for you. You may be just the right candidate for this or other roles!
+
+
+
+
+Hybrid working:
+
+Specific patterns for working in the office are not mandated, and the frequency of time worked in the office is agreed with your manager. Meeting in person is something we value, so you may need to travel on occasion to any of our hub offices.
+
+
+
+
+Why work for us?
+
+At Jisc, every role is meaningful, and every individual is valued. We foster a culture of continuous learning and personal growth, offering opportunities to develop new skills and make a real impact in education and research. With a strong focus on work-life balance, we embrace flexible working that prioritises outcomes over hours, empowering you to create a rhythm that energises both your professional and personal life.
+
+
+
+
+Our Guiding Principles:
+
+Jisc’s culture is powered by our four guiding principles: putting customers first, driving innovation, creating impact, and championing inclusive collaboration to deliver sustainable outcomes and shape a better future.
+
+
+
+
+Discover the amazing benefits we provide! Here’s what you can look forward to:
+
+Flexible work pattern, which can adapt to suit your schedules and personal commitments
+31 days annual leave (plus bank holidays) that includes three closure days over Christmas
+Buy up to an additional 5 days leave during the flexible benefits window
+Generous flexible pension schemes
+A range of wellbeing lifestyle benefits including company paid health care cash plan, mental health first aiders and support
+A company culture of continuous learning with access to thousands of LinkedIn Learning courses, and lots of resources and opportunities to support your development
+Allocated allowance of up to £250 to equip your home office
+Financial well-being support including access to preferential loan and savings plans, mortgage advice, will writing tools and support and resources to help you make the most of your money
+A wide range of discounts and cashback from retailers and big-name high-street stores
+Family friendly policies including enhanced parental, maternity and paternity and co-parental leave as well as opportunity for career breaks
+Support your volunteering with up to 3 days volunteer leave
+
+
+
+
+Equity, diversity and inclusion:
+
+Jisc believe our people make all the difference in cultivating an inclusive culture that welcomes ideas, encourages innovation, and values belonging.
+
+
+
+
+We work hard to create an equitable experience for our candidates and workforce which embraces all aspects of their identity including race and ethnicity, religion and belief, sex, gender identity, sexual orientation, trans identities, age, class, disability, neurodivergence, or veteran status.
+
+
+
+
+Application process:
+
+Please let us know how we can best accommodate you throughout the recruitment process. We’re committed to making our process accessible and comfortable for everyone - just tell us what works best for you.
+
+
+
+
+Interested? Don’t leave it too late to apply. We may close the vacancy early once we’ve received enough applications. Just so you know, we review CVs as soon as we can and aim to provide an update on your application within 4 weeks of receiving it. However, you may hear from us a lot sooner, so please keep an eye out for our emails or calls!
+
+
+
+
+We’re really looking forward to getting to know the real you. While we encourage the use of AI tools to help you get started on your CV or cover letter, we encourage you to review your application before submitting. Make sure it truly reflects your own voice, experiences, and personality.
+
+
+
+
+If you are currently a Jisc employee, please apply through your Dayforce Employee profile.
+
+
+
+
+We have a thorough background screening process that verifies the details you share with us in your CV and your application. Any inaccurate information supplied during the application stages can lead to a job offer being withdrawn.
+
+
+
+
+Sponsorship:
+
+Jisc has an active sponsor licence to recruit on a Skilled worker visa basis. Candidates wishing to apply who require sponsorship should determine the likelihood of obtaining a Certificate of Sponsorship for the role by assessing their circumstances against the relevant Home Office criteria. Jisc does not offer any financial re-imbursement towards the applicant costs, such as re-location, skilled worker visa and dependant costs or the immigration health charge.
+
+No agencies please
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Contract
+Industries
+Technology, Information and Media, IT Services and IT Consulting, and Education
+  
+
+Referrals increase your chances of interviewing at Jisc by 2x
+
+See who you know
+
+Get notified about new Release Manager jobs in England, United Kingdom.
+
+Sign in to create job alert
+Similar jobs
+Release Manager
+Release Manager
+Station
+London Area, United Kingdom
+1 week ago
+Head of Release - Cambridge
+Head of Release - Cambridge
+Global Payments Inc.
+Cambridge, England, United Kingdom
+1 week ago
+Configuration & Release Readiness Lead
+Configuration & Release Readiness Lead
+dunnhumby
+London, England, United Kingdom
+21 hours ago
+Head of Release - Cambridge
+Head of Release - Cambridge
+Worldpay
+Cambridge, England, United Kingdom
+1 week ago
+Release Manager
+Release Manager
+Lighthouse Games
+Royal Leamington Spa, England, United Kingdom
+1 month ago
+CI/CD & Release Automation Lead
+CI/CD & Release Automation Lead
+WTW
+Reigate, England, United Kingdom
+1 week ago
+Show more jobs like this 
+People also viewed
+Technical Delivery Manager
+Technical Delivery Manager
+
+DeterTech | UK
+
+Telford, England, United Kingdom
+2 weeks ago
+Delivery Lead, Engineering & Technology, CP R&D IT
+Delivery Lead, Engineering & Technology, CP R&D IT
+
+Syngenta
+
+Bracknell, England, United Kingdom
+3 weeks ago
+Platform Engineering Manager (SRE)
+Platform Engineering Manager (SRE)
+
+Basis Technologies
+
+Bracknell, England, United Kingdom
+3 days ago
+Senior Director Release Management
+Senior Director Release Management
+
+IFS
+
+London, England, United Kingdom
+1 week ago
+Platform Lead
+Platform Lead
+
+Blue Light Card
+
+London, England, United Kingdom
+1 week ago
+Environments Manager
+Environments Manager
+
+Expleo Group
+
+London, England, United Kingdom
+18 hours ago
+Tech Lead, Site Reliability Engineering
+Tech Lead, Site Reliability Engineering
+
+LSEG
+
+Nottingham, England, United Kingdom
+14 hours ago
+SIAM Release Manager
+SIAM Release Manager
+
+Capgemini
+
+Manchester, England, United Kingdom
+2 months ago
+Senior Tech Lead
+Senior Tech Lead
+
+DWP Digital
+
+Newcastle Upon Tyne, England, United Kingdom
+£75,026 - £92,522
+6 days ago
+Release Engineering Lead Azure DevOps
+Release Engineering Lead Azure DevOps
+
+Client Server
+
+Reigate, England, United Kingdom
+£110,000 - £130,000
+2 days ago
+Similar Searches
+Change And Release Manager jobs
+228 open jobs
+Unix Consultant jobs
+319 open jobs
+Release Engineer jobs
+2,904 open jobs
+Deployment Manager jobs
+11,482 open jobs
+Build And Release Engineer jobs
+2,631 open jobs
+Configuration Manager jobs
+661 open jobs
+Change Manager jobs
+19,466 open jobs
+Problem Manager jobs
+4,516 open jobs
+Contract Test Engineer jobs
+393 open jobs
+Assistant Professor of Mathematics jobs
+120 open jobs
+Delivery Manager jobs
+32,530 open jobs
+Game Producer jobs
+190 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Your California Privacy Choices
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Jisc
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

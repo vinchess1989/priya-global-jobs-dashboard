@@ -8855,5 +8855,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Release Train Engineer",
+    "company": "Leidos",
+    "location": "Ham, England, United Kingdom",
+    "url": "https://uk.linkedin.com/jobs/view/release-train-engineer-at-leidos-4464368744",
+    "visited": "yes",
+    "matches_requirements": "yes",
+    "reason": "The role aligns with Priya's expertise in release management, configuration control, and CI/CD governance, matching her background at Elektrobit and Topcon, and is located in the UK (a target country) with no visa sponsorship restrictions.",
+    "id": "5a739c63",
+    "source": "linkedin_uk_release_manager",
+    "added_at": "2026-10-16T09:14:41+03:00",
+    "posted_date": "2026-10-02",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": "job_descriptions/leidos_release_train_engineer_5a739c63.txt",
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]

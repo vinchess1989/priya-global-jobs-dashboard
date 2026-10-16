@@ -1,0 +1,400 @@
+Title: Release Train Engineer
+Company: Leidos
+Location: Ham, England, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/release-train-engineer-at-leidos-4464368744
+Posted: 2026-10-02
+Deadline: N/A
+Reason: The role aligns with Priya's expertise in release management, configuration control, and CI/CD governance, matching her background at Elektrobit and Topcon, and is located in the UK (a target country) with no visa sponsorship restrictions.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Release Train Engineer
+Leidos  Ham, England, United Kingdom
+2 weeks ago  46 applicants
+  
+
+See who Leidos has hired for this role
+
+Apply 
+Save
+Description
+
+Release Train Engineer
+
+Location: Farnborough, with flexibility to work from home dependent on business demands
+
+The Role
+
+We are seeking an experienced Release Train Engineer (RTE) to lead and orchestrate the execution of Programme Increments (PIs), releases, and environment governance across a complex projects.
+
+The RTE is a servant leader and delivery enabler, responsible for ensuring that planning, execution, and release activities flow smoothly from concept through to production. This role blends PI facilitation, release management, configuration control, and delivery governance, with a strong emphasis on quality, transparency, and getting value delivered quickly.
+
+This role requires strong technical awareness, excellent organisational capability, and the confidence to coordinate across Project Management, Engineering, Operations, and Customer stakeholders in a controlled delivery environment.
+
+What will I be doing?
+
+Release Train Engineer / PI Leadership
+
+
+Act as the Release Train Engineer (RTE) for the Agile Release Train, facilitating execution and continuous improvement.
+Serve as PI Master of Ceremonies, owning the preparation, facilitation, and follow up of PI Planning events.
+Work closely with Product Managers to ensure Features, Enablers, and supporting scope are correctly captured and maintained in Jira.
+Coordinate with PMs to align priorities and respond to customer needs and dependencies.
+Engage with customer stakeholders on PI priorities, scope, and sequencing.
+Own and maintain the PI agenda, authoring and coordinating slide content to guide PI sessions.
+Schedule and facilitate PI events (primarily virtual), ensuring effective participation and outcomes.
+Produce PI level reports, including outcomes from Multi RFC PI Planning, ensuring visibility of commitments and risks.
+Analyse PI trends such as scope creep and velocity, working with PMs and teams to understand causes and drive corrective actions.
+
+
+Inspect & Adapt / Continuous Improvement
+
+
+Lead Inspect & Adapt, postmortems, and retrospectives.
+Author and coordinate retrospective slide packs, working with teams to capture learning.
+Schedule, record, and track Lessons Learned and improvement actions across PIs.
+
+
+Release Management
+
+
+Own and manage release scope.
+Define and enforce how scope is added to, removed from, or adjusted within a release.
+Verify all stakeholders are aligned before scope is committed to a release.
+Proactively work with Engineering to clarify which release branch is the origin for each change.
+Reconcile PI commitments against release plans, ensuring alignment between planning and execution.
+Communicate and manage scope changes transparently across the ART.
+Maintain a strong delivery mindset with a clear objective to push work into production as quickly and safely as possible.
+Author customer facing scope and release documentation as required.
+
+
+Environment Management
+
+
+Own the Release & Activities Environment Schedule across all environments.
+Coordinate sequencing of releases and activities to minimise contention and delivery risk.
+Ensure environment usage supports PI and release commitments.
+Work with PMs to secure time on the environments in support of newly contracted work in far future dates
+
+
+Configuration & Change Governance
+
+
+Act as Configuration Manager, maintaining strict control over what is deployed into each environment.
+Ensure environments are protected from uncontrolled or unauthorised change.
+Bring changes through appropriate governance forums (e.g. TAB).
+Work closely with Engineering teams and the TIP Manager to coordinate deployments and cutovers.
+
+
+Build & Branch Governance (ART Gatekeeper)
+
+
+Own and manage internal build numbering and versioning standards.
+Assign internal build numbers in line with agreed conventions.
+Act as gatekeeper for all pull requests (BitBucket) into release branches, ensuring:
+Peer reviews are complete
+Static code analysis has been completed
+Items are in approved scope
+Commit messages meet standards
+Merge conflicts are resolved by Engineering
+Merge release branches back into the main branch (work with Engineers for conflict resolution)
+Verify Jira items are in the correct workflow states prior to merge.
+Conduct builds into environments and verify that the correct build is deployed.
+
+
+Release Notes & Jira Hygiene
+
+
+Author internal build notes (version / build notes).
+Author customer facing release notes.
+Ensure Jira hygiene prior to release cut:
+All issues correctly linked and in appropriate states
+All code merged into the release branch
+No outstanding review or readiness gaps
+Work with teams to resolve items still in peer review or non release ready states.
+Ensure Jira workflows are applied consistently across the ART.
+
+
+What does Leidos need from me?
+
+Essential
+
+
+Proven experience performing RTE like responsibilities in large scale agile environment.
+Strong working knowledge of Jira, including workflow management and reporting.
+Understanding of Git / Bitbucket workflows and pull request governance.
+Understanding of Git / Bitbucket branching strategies
+Excellent organisational skills with the ability to manage complex, multi team delivery.
+Exceptional attention to detail — work must pass review first time without obvious errors.
+Strong interpersonal and communication skills, comfortable engaging with engineers, PMs, and customers.
+Positive, delivery focused mindset with a bias toward flow and production delivery.
+
+
+Desirable
+
+
+Experience operating within SAFe Agile Release Trains.
+Experience in regulated or controlled delivery environments.
+Familiarity with release governance, change control, and multi environment delivery.
+
+
+Familiarity (not Deep Hands On Proficiency Required) With
+
+
+Cloud technologies & IaC
+Software development (Java)
+Databases
+Unix/Linux operational skills.
+
+
+What We Offer
+
+
+A pivotal Release Train Engineer role at the heart of project execution.
+Significant influence over delivery flow, quality, and outcomes.
+Exposure to large scale, complex programmes with real customer impact.
+Competitive salary, benefits, and flexible working arrangements.
+
+
+What We Do For You
+
+At Leidos we are PASSIONATE about customer success, UNITED as a team and INSPIRED to make a difference. We offer meaningful and engaging careers, a collaborative culture, and support for your career goals, all while nurturing a healthy work-life balance.
+
+We provide an employment package that attracts, develops and retains only the best in talent. Our reward scheme includes:
+
+
+Contributory Pension Scheme
+Private Medical Insurance
+33 days Annual Leave (including public and privilege holidays)
+Access to Flexible benefits (including life assurance, health schemes, gym memberships, annual buy and sell holidays and a cycle to work scheme)
+Flexi-Time Working
+
+
+Commitment To Diversity
+
+We welcome applications from every part of the community and are committed to a truly diverse and inclusive culture. We foster a sense of belonging, welcoming all perspectives and contributions, and providing equal access to opportunities and resources for everyone. If you have a disability or need any reasonable adjustments during the application and selection stages please let us know, and we will respond in a way that best fits your needs.
+
+Who We Are
+
+Leidos UK & EUROPE – we work to make the world safer, healthier, and more efficient through technology, engineering and science.
+
+Leidos is a growing company delivering innovative technology and solutions focused on safeguarding critical capabilities and transformation in frontline services, our work in the United Kingdom includes addressing some of the most complex problems in defence, healthcare, government, safety and security, and transportation.
+
+What Makes Us Different
+
+Purpose: you can use your passion and abilities at Leidos to keep the people you care about safe. We are at the forefront of machine learning, AI, cyber security and solutions. Using your skills in the technology frontline by helping to build a safer world. You can inspire change.
+
+Collaboration: having flexibility to do your job is one of our core benefits, enabling you to become part of our extraordinary team. We have been empowering our people to work flexibly for years. Whether you work from home, the office or on customer sites, we will give you the digital tools and the flexibility to work smarter and align your needs and ours.
+
+People: Leidos empowers people from every background to be themselves and gives you the tools to learn new skills by enabling growth whilst developing. We believe that extraordinary people need opportunities to grow, to be inspired and to inspire others. At Leidos, we invest in technical academies, career rotations and a career development plans that enhance your future.
+
+If you're looking for comfort, keep scrolling. At Leidos, we outthink, outbuild, and outpace the status quo — because the mission demands it. We're not hiring followers. We're recruiting the ones who disrupt, provoke, and refuse to fail. Step 10 is ancient history. We're already at step 30 — and moving faster than anyone else dares.
+
+Original Posting
+
+For U.S. Positions: While subject to change based on business needs, Leidos reasonably anticipates that this job requisition will remain open for at least 3 days with an anticipated close date of no earlier than 3 days after the original posting date as listed above.
+
+Pay Range
+
+£61,500.00-£78,800.00
+
+The Leidos pay range for this job level is a general guideline only and not a guarantee of compensation or salary. Additional factors considered in extending an offer include (but are not limited to) responsibilities of the job, education, experience, knowledge, skills, and abilities, as well as internal equity, alignment with market data, applicable bargaining agreement (if any), or other law.
+
+About Leidos
+
+Leidos is an industry and technology leader serving government and commercial customers with smarter, more efficient digital and mission innovations. Headquartered in Reston, Virginia, with 47,000 global employees, Leidos reported annual revenues of approximately $16.7 billion for the fiscal year ended January 3, 2025. For more information, visit www.Leidos.com.
+
+Pay And Benefits
+
+Pay and benefits are fundamental to any career decision. That's why we craft compensation packages that reflect the importance of the work we do for our customers. Employment benefits include competitive compensation, Health and Wellness programs, Income Protection, Paid Leave and Retirement. More details are available at www.leidos.com/careers/pay-benefits.
+
+Securing Your Data
+
+Beware of fake employment opportunities using Leidos’ name. Leidos will never ask you to provide payment-related information during any part of the employment application process (i.e., ask you for money), nor will Leidos ever advance money as part of the hiring process (i.e., send you a check or money order before doing any work). Further, Leidos will only communicate with you through emails that are generated by the Leidos.com automated system – never from free commercial services (e.g., Gmail, Yahoo, Hotmail) or via WhatsApp, Telegram, etc. If you received an email purporting to be from Leidos that asks for payment-related information or any other personal information (e.g., about you or your previous employer), and you are concerned about its legitimacy, please make us aware immediately by emailing us at LeidosCareersFraud@leidos.com.
+
+If you believe you are the victim of a scam, contact your local law enforcement and report the incident to the U.S. Federal Trade Commission.
+
+Commitment to Non-Discrimination
+
+All qualified applicants will receive consideration for employment without regard to sex, race, ethnicity, age, national origin, citizenship, religion, physical or mental disability, medical condition, genetic information, pregnancy, family structure, marital status, ancestry, domestic partner status, sexual orientation, gender identity or expression, veteran or military status, or any other basis prohibited by law. Leidos will also consider for employment qualified applicants with criminal histories consistent with relevant laws.
+
+#Remote
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Government Administration and IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Leidos by 2x
+
+See who you know
+
+Get notified about new Release Engineer jobs in Ham, England, United Kingdom.
+
+Sign in to create job alert
+Similar jobs
+Release Train Engineer
+Release Train Engineer
+Leidos
+Farnborough, England, United Kingdom
+2 weeks ago
+Delivery Lead, Engineering & Technology, CP R&D IT
+Delivery Lead, Engineering & Technology, CP R&D IT
+Syngenta
+Bracknell, England, United Kingdom
+3 weeks ago
+Release Manager
+Release Manager
+Nourish Care
+Bournemouth, England, United Kingdom
+1 week ago
+Senior Scrum Master
+Senior Scrum Master
+Northrop Grumman UK
+Cheltenham, England, United Kingdom
+£50,000 - £70,000
+1 week ago
+Senior Scrum Master
+Senior Scrum Master
+Leonardo
+Gloucester, England, United Kingdom
+£59,400 - £78,000
+1 week ago
+Software Release Manager
+Software Release Manager
+Aspire Personnel Ltd
+Poole, England, United Kingdom
+£55,000 - £60,000
+15 hours ago
+Show more jobs like this 
+People also viewed
+Solution Deployment Project Manager
+Solution Deployment Project Manager
+
+Dexory
+
+Didcot, England, United Kingdom
+6 days ago
+Delivery Manager
+Delivery Manager
+
+AtkinsRéalis
+
+Cheltenham, England, United Kingdom
+6 months ago
+PMO Lead
+PMO Lead
+
+Nominet
+
+Oxford, England, United Kingdom
+6 days ago
+Oracle Test and Release Manager
+Oracle Test and Release Manager
+
+Ellison Institute of Technology Oxford
+
+Oxford, England, United Kingdom
+1 day ago
+Intelligent Optimization Lead
+Intelligent Optimization Lead
+
+Microsoft
+
+Reading, England, United Kingdom
+1 week ago
+Lead Software Engineer - Application Owner
+Lead Software Engineer - Application Owner
+
+JPMorganChase
+
+Bournemouth, England, United Kingdom
+2 weeks ago
+Software Delivery Team Lead
+Software Delivery Team Lead
+
+Spectrum IT Recruitment
+
+Basingstoke, England, United Kingdom
+1 day ago
+Agile Delivery Manager / Scrum Master (Public Sector)
+Agile Delivery Manager / Scrum Master (Public Sector)
+
+IBM
+
+Hursley, England, United Kingdom
+1 week ago
+Project Planner
+Project Planner
+
+Saab
+
+Fareham, England, United Kingdom
+2 weeks ago
+Transition Project Manager
+Transition Project Manager
+
+Rheinmetall
+
+Greater Bristol Area, United Kingdom
+1 month ago
+Similar Searches
+Build And Release Engineer jobs
+2,631 open jobs
+Production Database Administrator jobs
+647 open jobs
+Agile Coach jobs
+3,225 open jobs
+Release Manager jobs
+5,967 open jobs
+Software Configuration Management Engineer jobs
+2,318 open jobs
+Configuration Management Engineer jobs
+181 open jobs
+Design Release Engineer jobs
+1,964 open jobs
+Scrum Master jobs
+15,217 open jobs
+Support Escalation Engineer jobs
+1,623 open jobs
+Change And Release Manager jobs
+228 open jobs
+Associate Design Engineer jobs
+918 open jobs
+Assistant Professor of Mathematics jobs
+120 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Your California Privacy Choices
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Leidos
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
