@@ -185832,16 +185832,15 @@
     "location": "Lower Hutt City, Wellington, New Zealand",
     "url": "https://nz.linkedin.com/jobs/view/et-project-lead-at-enovis-4479204600",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job title 'ET Project Lead' does not align with Priya's target roles in configuration management, release management, or technical documentation, and the sparse job description lacks details to confirm alignment with her skills.",
     "id": "a6931764",
     "source": "linkedin_nz_configuration_manager",
     "added_at": "2026-10-16T04:26:16+03:00",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-16T04:49:30+03:00"
+    "eval_model": "local/qwen/qwen3-14b"
   },
   {
     "title": "Technical Quality & Validation Manager - Herd Testing",
