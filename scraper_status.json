@@ -1,9 +1,12 @@
 {
   "pid": 63744,
   "started_at": "2026-10-16T05:08:28+03:00",
-  "heartbeat_at": "2026-10-16T22:50:01+03:00",
+  "heartbeat_at": "2026-10-16T23:34:45+03:00",
   "phase": "reviewing",
-  "detail": "Finance Operations Specialist - UK HOURS",
-  "last_scrape_ok_at": "2026-10-16T22:34:49+03:00",
-  "last_error": null
+  "detail": "Senior Product Owner",
+  "last_scrape_ok_at": "2026-10-16T23:34:43+03:00",
+  "last_error": {
+    "at": "2026-10-16T23:33:39+03:00",
+    "message": "linkedin_za_requirements_manager: Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://www.linkedin.com/jobs/search?keywords=Requirements+Manager&location=South%20Africa&sortBy=DD\nCall log:\n  - navigating to \"https://www.linkedin.com/jobs/search?keywords=Requirements+Manager&location=South%20Africa&s"
+  }
 }
