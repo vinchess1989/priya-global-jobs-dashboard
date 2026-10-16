@@ -1,12 +1,9 @@
 {
-  "pid": 36220,
-  "started_at": "2026-10-15T13:18:42+03:00",
-  "heartbeat_at": "2026-10-16T04:23:28+03:00",
+  "pid": 63744,
+  "started_at": "2026-10-16T05:08:28+03:00",
+  "heartbeat_at": "2026-10-16T05:32:05+03:00",
   "phase": "reviewing",
-  "detail": "Knowledge Manager (Personal Law)",
-  "last_scrape_ok_at": "2026-10-16T03:23:58+03:00",
-  "last_error": {
-    "at": "2026-10-16T01:42:42+03:00",
-    "message": "pnet_devops_engineer: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.pnet.co.za/jobs/devops-engineer\nCall log:\n  - navigating to \"https://www.pnet.co.za/jobs/devops-engineer\", waiting until \"load\"\n"
-  }
+  "detail": "Field Technical Manager",
+  "last_scrape_ok_at": "2026-10-16T05:22:28+03:00",
+  "last_error": null
 }

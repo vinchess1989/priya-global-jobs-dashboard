@@ -1,0 +1,238 @@
+Title: PLM, Configuration & BOM Control Manager
+Company: Halter
+Location: Auckland, New Zealand
+URL: https://nz.linkedin.com/jobs/view/plm-configuration-bom-control-manager-at-halter-4457675521
+Posted: 2026-09-16
+Deadline: N/A
+Reason: The role aligns with the candidate's configuration management expertise (PLM/BOM control), is located in New Zealand (target country), and allows visa sponsorship.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+PLM, Configuration & BOM Control Manager
+Halter  Auckland, New Zealand
+1 month ago  50 applicants
+  
+
+See who Halter has hired for this role
+
+Apply 
+Save
+About Halter
+
+At Halter, we’re on a mission to enable farmers and graziers to run the most productive and sustainable operations. Our customers are using Halter to break free from the time-intensive constraints of conventional practices. Imagine watching 500 cattle stand up and walk calmly towards their next break? No quad bikes, no dogs, no fences. Just a group of cattle walking at their own pace. People say it looks like magic. Our customers are revolutionizing grazing with Halter. It's changing lives and transforming an industry. People join Halter to do meaningful work. By joining us you’ll be solving challenging problems within a talented team and a culture built for high performance. Our team out-think, out-work and out-care. We’re committed to delivering real change in the world - this isn’t easy, and in truth, we love that it’s hard.
+
+We’re backed to deliver on a mission that matters by Tier 1 investors including Founders Fund, Bessemer Venture Partners, BOND, DCVC, Blackbird, Promus Ventures, Rocket Lab’s Peter Beck and Icehouse ventures.
+
+To find out more, visit our LinkedIn & Instagram.
+
+About The Role
+
+Halter is scaling global production of connected livestock wearables while still making meaningful product and manufacturing changes. Our engineering decisions are well owned. We now need a dedicated owner for the BOMs, change records and planning visibility those decisions depend on.
+
+You'll keep product, process, supplier and validation records complete, traceable and current. Engineering, Quality, Production, Supply Chain, suppliers and contract manufacturers will build from one reliable source of truth, including a forward view of upcoming BOM changes and their build impact.
+
+"Manager" here means ownership of systems, records and coordination. It is not people management initially, and it is not approval authority over engineering changes.
+
+What you'll do
+
+
+Run engineering change control end to end in Arena: ECO/ECN records, affected items, redlines, effectivity and implementation timing, through to cut-in at our contract manufacturers.
+Own BOM integrity: part numbers, revisions, lifecycles, HPN/MPN and approved manufacturer lists, with EBOM and MBOM kept aligned with what CMs actually build.
+Publish a weekly forward BOM plan for Supply Chain covering upcoming changes, validation state, implementation timing, supply risk and build impact.
+Keep Onshape → Arena and Altium → Arena traceability reliable, and publish released documents to their relevant homes.
+Administer our Arena deployment: configuration, lifecycles, roles, permissions, supplier access, onboarding, training and data quality.
+Build and run practical registers for changes in flight, waivers and deviations, supplier-document status, document currency, missing records and overdue items.
+Co-define release-boundary conventions with Engineering and Quality, then keep them easy to follow and consistently applied.
+Give decision owners clear status reporting, so they act on facts instead of hunting through systems.
+
+
+What we're looking for
+
+
+Hands-on experience with BOMs and engineering change in hardware, electronics, medical device or automotive manufacturing. You've raised, routed and implemented ECOs, not only filed them.
+Administrator-level experience with a PLM system such as Arena, Windchill, Teamcenter or Agile. Arena is a bonus; the discipline matters more than the platform.
+Fluency with revisions, effectivity, EBOM→MBOM, HPN/MPN, AML/AVL, waivers and deviations, and clear-to-build planning.
+Experience working with contract manufacturers or suppliers to land BOM changes on the line.
+Exceptional attention to detail and follow-through. You notice stale revisions, quietly expired waivers, unclear ownership and changes that will hit an upcoming build.
+Strong written communication, sound judgement, and the persistence to follow up warmly until open items close.
+Willingness to travel occasionally to suppliers and production sites, for example for supplier onboarding or change cut-ins.
+
+
+Nice to have
+
+
+Experience in a design-controlled or regulated environment, such as ISO 13485 or IATF 16949.
+Electronics BOM experience, including PCBA revisions and Altium-to-PLM workflows.
+ERP/MRP integration experience, so BOM changes flow cleanly into planning.
+
+
+Location and work rights
+
+This role is based in Auckland, working on site with our Production team. You'll need the existing right to work in New Zealand or be open to relocation and visa sponsorship to Auckland, NZ.
+
+Join our team
+
+Halter is committed to promoting a diverse and inclusive workplace — a place where we can each be ourselves and do the best work of our lives. Research shows that while men apply to jobs when they meet an average of 60% of the requirements, women and under-represented groups of candidates tend to only apply when they meet every requirement. If you think you have what it takes but don’t necessarily tick every requirement on this job description, please still get in touch and apply to Halter. We’d love to chat to see if you’ll be an epic fit!
+
+If this opportunity sounds like you, please apply below by sending through your cover letter explaining why you’re excited about this role and working at Halter, along with your CV, and we’ll be in touch!
+
+Please also feel free to check out the careers page for more information on working at Halter and don't forget to follow us on LinkedIn & Instagram.
+
+Why our team loves working at Halter:
+
+
+Work that genuinely matters. Every now and again a company comes along that transforms an entire industry and leaves the world in a better place. Our team gets to be part of something truly meaningful, helping farmers improve their livelihoods, spend more time with their families, and build more sustainable operations.
+Spectacular people solving hard problems. Our culture is designed for talented people to do work that changes lives. The team is filled with diverse, kind, and driven people who push each other to do their best work. You'll be thrown into the deep end, tackling complex challenges and building something tangible that solves real problems.
+You'll grow here. Autonomy, mastery, and learning define how we work. You'll have the freedom to work on interesting problems, master new skills, and continuously develop yourself, both through your role and our $1,000 personal growth fund.
+This isn't easy, and we love that it's hard. Working at Halter will be the most rewarding and the most challenging work of your life. We move fast, take bold bets, and work hard to reshape an entire industry. As one team member put it: "Joining Halter is a bit like strapping yourself to a rocket ship, but it's an epic journey to be a part of!"
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Technology, Information and Internet
+  
+
+Referrals increase your chances of interviewing at Halter by 2x
+
+See who you know
+
+Get notified about new Configuration Manager jobs in Auckland, New Zealand.
+
+Sign in to create job alert
+Similar jobs
+Senior Systems Engineer - Configuration and Change Management
+Senior Systems Engineer - Configuration and Change Management
+Rocket Lab
+Auckland, Auckland, New Zealand
+3 weeks ago
+Systems Engineer – Configuration and Change Management
+Systems Engineer – Configuration and Change Management
+Rocket Lab
+Auckland, Auckland, New Zealand
+2 weeks ago
+Manufacturing Process Engineering Manager - Hardware Assembly
+Manufacturing Process Engineering Manager - Hardware Assembly
+Halter
+Auckland, New Zealand
+2 months ago
+Information & Systems Manager
+Information & Systems Manager
+ACCIONA
+Auckland, Auckland, New Zealand
+3 days ago
+New Product Technology Project Manager
+New Product Technology Project Manager
+Apple
+Auckland, Auckland, New Zealand
+1 month ago
+Senior Manager - Hardware Returns & Failure Analysis
+Senior Manager - Hardware Returns & Failure Analysis
+Halter
+Auckland, New Zealand
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Engineering Lead
+Engineering Lead
+
+ZURU
+
+Auckland, Auckland, New Zealand
+5 days ago
+Data Quality Lead
+Data Quality Lead
+
+Synechron
+
+Auckland, New Zealand
+1 week ago
+Senior Quality Systems Engineer
+Senior Quality Systems Engineer
+
+Fisher & Paykel Healthcare
+
+Auckland, Auckland, New Zealand
+1 week ago
+Data Service Delivery Manager
+Data Service Delivery Manager
+
+Danone
+
+Auckland, Auckland, New Zealand
+4 days ago
+Data Practice Lead
+Data Practice Lead
+
+Momentum Consulting Group
+
+Auckland, Auckland, New Zealand
+2 weeks ago
+NZ Mechanical Engineering Discipline Manager
+NZ Mechanical Engineering Discipline Manager
+
+Worley
+
+Auckland, Auckland, New Zealand
+1 week ago
+Quality Assurance Practice Lead
+Quality Assurance Practice Lead
+
+Beca
+
+Auckland, Auckland, New Zealand
+1 week ago
+Cases Lead
+Cases Lead
+
+RELX
+
+Auckland, Auckland, New Zealand
+2 months ago
+Data Operations Lead/Manager
+Data Operations Lead/Manager
+
+Tata Consultancy Services
+
+Auckland, New Zealand
+5 days ago
+Cases Lead
+Cases Lead
+
+LexisNexis
+
+Auckland, Auckland, New Zealand
+2 months ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Your California Privacy Choices
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Halter
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
