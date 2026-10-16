@@ -9195,5 +9195,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": "job_descriptions/camunda_technical_writer_364d9356.txt",
     "deletion_reason": "Duplicate re-post of Camunda Technical Writer - already applied 2026-10-15 via the Finland board (47030500)"
+  },
+  {
+    "title": "Technical Document Writer",
+    "company": "Aurec Group",
+    "location": "Canberra ACT, Australia",
+    "url": "https://au.jora.com/job/Technical-Document-Writer-44b8acd3d51b26082e24fec9551afc39",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires an NV1 security clearance, which Priya cannot obtain due to lack of Australian citizenship or prior residence, making it a hard rejection under 'No Visa Sponsorship / Existing Right to Work Required'.",
+    "id": "6c672c70",
+    "source": "jora_au_technical_writer",
+    "added_at": "2026-10-16T19:06:52+03:00",
+    "posted_date": "2026-10-13",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
