@@ -1,9 +1,9 @@
 {
   "pid": 63744,
   "started_at": "2026-10-16T05:08:28+03:00",
-  "heartbeat_at": "2026-10-16T11:15:51+03:00",
+  "heartbeat_at": "2026-10-16T11:42:01+03:00",
   "phase": "reviewing",
-  "detail": "ET Project Lead",
-  "last_scrape_ok_at": "2026-10-16T10:42:13+03:00",
+  "detail": "Head of Service Delivery",
+  "last_scrape_ok_at": "2026-10-16T11:24:19+03:00",
   "last_error": null
 }
