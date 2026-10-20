@@ -11320,5 +11320,39 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Deadline (2026-10-16) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Senior Adviser / Senior Legal Counsel, Regulatory Policy",
+    "company": "Financial Markets Authority \u2013 Te Mana T\u0101tai Hokohoko",
+    "location": "Auckland, New Zealand",
+    "url": "https://nz.linkedin.com/jobs/view/senior-adviser-senior-legal-counsel-regulatory-policy-at-financial-markets-authority-%E2%80%93-te-mana-t%C4%81tai-hokohoko-4477269671",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires legal/regulatory policy expertise with law degrees and legislative analysis experience, which does not align with the candidate's background in technical communication, configuration management, and release engineering.",
+    "id": "7fc404cc",
+    "source": "linkedin_nz_eu_mdr",
+    "added_at": "2026-10-19T22:00:38+03:00",
+    "posted_date": "2026-10-13",
+    "deadline": "2026-10-18",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-10-18) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Mechanical Engineer",
+    "company": "Windcave",
+    "location": "Auckland, New Zealand",
+    "url": "https://nz.linkedin.com/jobs/view/mechanical-engineer-at-windcave-4476255046",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires the applicant to already have the right to work in New Zealand, which disqualifies it under the 'No Visa Sponsorship / Existing Right to Work Required' hard rejection rule.",
+    "id": "70be5c61",
+    "source": "linkedin_nz_eu_mdr",
+    "added_at": "2026-10-19T22:00:38+03:00",
+    "posted_date": "2026-10-13",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
