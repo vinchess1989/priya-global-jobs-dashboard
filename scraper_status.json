@@ -1,9 +1,9 @@
 {
   "pid": 22868,
   "started_at": "2026-10-20T11:35:27+03:00",
-  "heartbeat_at": "2026-10-20T13:46:17+03:00",
+  "heartbeat_at": "2026-10-20T14:01:20+03:00",
   "phase": "reviewing",
-  "detail": "Quality Compliance Senior Manager",
+  "detail": "Quality Manager",
   "last_scrape_ok_at": "2026-10-20T12:54:22+03:00",
   "last_error": {
     "at": "2026-10-20T12:53:04+03:00",
