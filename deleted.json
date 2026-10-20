@@ -11354,5 +11354,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Regulatory Affairs Associate",
+    "company": "KLS Martin Australia",
+    "location": "Lane Cove West, New South Wales, Australia",
+    "url": "https://au.linkedin.com/jobs/view/regulatory-affairs-associate-at-kls-martin-australia-4479946902",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires full Australian working rights and explicitly states no visa sponsorship is available, which disqualifies the candidate due to her need for employer-sponsored work visa.",
+    "id": "4c50fe67",
+    "source": "linkedin_au_eu_mdr",
+    "added_at": "2026-10-19T20:25:54+03:00",
+    "posted_date": "2026-10-19",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
