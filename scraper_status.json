@@ -1,9 +1,9 @@
 {
-  "pid": 44452,
-  "started_at": "2026-10-20T08:00:06+03:00",
-  "heartbeat_at": "2026-10-20T11:01:29+03:00",
+  "pid": 22868,
+  "started_at": "2026-10-20T11:35:27+03:00",
+  "heartbeat_at": "2026-10-20T11:48:59+03:00",
   "phase": "reviewing",
-  "detail": "DHF Engineer - Medical Device #8762",
-  "last_scrape_ok_at": "2026-10-20T10:27:43+03:00",
+  "detail": "Clinical Specialist",
+  "last_scrape_ok_at": "2026-10-20T11:38:51+03:00",
   "last_error": null
 }
