@@ -49,6 +49,10 @@ allow-listed accounts only, and scripts authenticate via **`firestore_auth.py`**
   than the siblings) — it needed its own `playwright install chromium`.
 - Scheduled Task `PriyaGlobalJobsLocalLLMOrchestrator` → `orchestrator.py` → `scraper.py`.
   Restarting: stop the task AND kill the child `scraper.py` (single-instance lock).
+  **Disabled 2026-10-20:** now run by the shared `JobScrapersSequentialMorning` task (daily 08:00,
+  `~\.claude\run_scrapers_sequential.ps1`: priya_jobs → priya_global_jobs → manju_uk_jobs, one at a
+  time, then unloads the LM Studio model). `orchestrator.py` passes `scraper.py --once` (one full
+  scrape pass, then drain the review queue and exit). Details in priya_jobs/memory.md.
 - `LOCAL_LLM_ENDPOINT`/`LOCAL_LLM_MODEL` come from the Windows user env vars (shared).
 
 ## Scraper specifics (vs priya_jobs)
