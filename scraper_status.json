@@ -1,9 +1,12 @@
 {
   "pid": 22868,
   "started_at": "2026-10-20T11:35:27+03:00",
-  "heartbeat_at": "2026-10-20T12:47:37+03:00",
+  "heartbeat_at": "2026-10-20T13:03:23+03:00",
   "phase": "reviewing",
-  "detail": "Automation \u2013 Test Lead \u2013 L3",
-  "last_scrape_ok_at": "2026-10-20T11:38:51+03:00",
-  "last_error": null
+  "detail": "Field Service Technician",
+  "last_scrape_ok_at": "2026-10-20T12:54:22+03:00",
+  "last_error": {
+    "at": "2026-10-20T12:53:04+03:00",
+    "message": "cv_library_iso_13485: Page.goto: Navigation to \"https://www.cv-library.co.uk/iso-13485-jobs\" is interrupted by another navigation to \"about:blank\"\nCall log:\n  - navigating to \"https://www.cv-library.co.uk/iso-13485-jobs\", waiting until \"load\"\n"
+  }
 }
