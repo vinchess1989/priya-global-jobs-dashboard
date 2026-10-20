@@ -1,0 +1,259 @@
+Title: Senior Devops Engineer
+Company: Fruition Group Ireland
+Location: Dublin, County Dublin, Ireland
+URL: https://ie.linkedin.com/jobs/view/senior-devops-engineer-at-fruition-group-ireland-4479971568
+Posted: 2026-10-19
+Deadline: N/A
+Reason: The role of Senior DevOps Engineer matches Priya's expertise in CI/CD pipelines, Infrastructure as Code (Terraform/Pulumi), containerization (Docker/Kubernetes), and automation, with the job located in Ireland (a target country) and requiring mid-senior experience.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Devops Engineer
+Fruition Group Ireland  Dublin, County Dublin, Ireland
+1 day ago  45 applicants
+  
+
+See who Fruition Group Ireland has hired for this role
+
+Apply
+Save
+Fruition Group Ireland provided pay range
+
+This range is provided by Fruition Group Ireland. Your actual pay will be based on your skills and experience — talk with your recruiter to learn more.
+
+Base pay range
+€70,000.00/yr - €100,000.00/yr
+
+Direct message the job poster from Fruition Group Ireland
+
+Victoria Dinn
+Victoria Dinn
+Recruitment Consultant // IT Specialist & Business Change Recruitment // Assoc. CIPD
+
+Job Description
+
+My client, a technology-focused organisation, is seeking an experienced Senior DevOps Engineer to support the development, automation and optimisation of its cloud infrastructure and software delivery processes.
+
+
+
+
+Job Responsibilities
+
+Design, implement and maintain scalable, secure and highly available cloud infrastructure, primarily using AWS.
+Develop and optimise CI/CD pipelines to streamline software deployment, testing and release management.
+Automate infrastructure provisioning, configuration and management through Infrastructure as Code (IaC) technologies, including Terraform and Pulumi.
+Manage containerised applications and orchestration environments using Docker and Kubernetes.
+Collaborate closely with software engineering teams to support applications developed using TypeScript, Node.js and related technologies.
+Implement effective monitoring, logging and alerting solutions to improve system performance, availability and reliability.
+Identify opportunities to strengthen cloud security, optimise infrastructure costs and improve operational resilience.
+Provide technical leadership, troubleshoot complex infrastructure issues and promote DevOps best practices across engineering teams.
+
+
+
+
+Experience Required
+
+5+ years' experience in DevOps Engineering, Cloud Engineering, Site Reliability Engineering or a related technical role.
+Strong hands-on experience designing, deploying and managing production environments within AWS.
+Proven experience implementing Infrastructure as Code using Terraform and/or Pulumi.
+Extensive knowledge of containerisation technologies, particularly Docker and Kubernetes.
+Demonstrated expertise in building, maintaining and improving CI/CD pipelines.
+Strong understanding of Linux/Unix environments, networking, cloud security and infrastructure troubleshooting.
+Experience supporting modern web applications and backend services, ideally involving TypeScript, JavaScript and Node.js.
+Proficiency in scripting and automation using Python, Bash or similar languages.
+Excellent problem-solving, communication and stakeholder management skills, with the ability to work independently and collaborate across technical teams.
+
+
+
+
+Desirable Skills
+
+Experience managing container orchestration environments using AWS ECS or Amazon EKS.
+Familiarity with GitOps methodologies and automated infrastructure deployment practices.
+Knowledge of monitoring and observability solutions such as Prometheus, Grafana or AWS CloudWatch.
+Experience working with SQL databases and RESTful API-based applications.
+Understanding of modern software development practices, including automated testing, version control and code reviews.
+Exposure to cloud-native architecture, microservices and distributed applications.
+Experience implementing DevSecOps practices, including vulnerability management, secrets management and automated security testing.
+Previous experience mentoring engineers or contributing to technical architecture decisions.
+
+
+
+
+Educational Requirements
+
+Bachelor's degree or third-level qualification in Computer Science, Software Engineering, Information Technology or a related discipline.
+Relevant AWS, Kubernetes or Terraform certifications would be advantageous.
+
+
+
+
+How to Apply
+
+To apply for this role, please submit your updated CV. If your skills and experience match job requirements, you will be contacted to discuss your application in detail.
+
+
+
+
+Similar Roles Open
+
+As a specialised recruitment agency, we also have several other permanent and contract IT roles available. Visit our website for more information or explore additional opportunities.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Technology, Information and Media
+  
+
+Referrals increase your chances of interviewing at Fruition Group Ireland by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Dublin, County Dublin, Ireland.
+
+Sign in to create job alert
+Similar jobs
+Senior DevOps Engineer
+Senior DevOps Engineer
+Newcode.ai
+Dublin, County Dublin, Ireland
+5 months ago
+Senior Cloud Engineer
+Senior Cloud Engineer
+Workday
+Dublin, County Dublin, Ireland
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+MCS Group | Your Specialist Recruitment Consultancy
+Dublin, County Dublin, Ireland
+€80,000 - €90,000
+1 week ago
+OmniPay Dev Ops Engineer
+OmniPay Dev Ops Engineer
+Fiserv
+Dublin, County Dublin, Ireland
+5 days ago
+Principal DevOps Engineer - Decision Management Platform
+Principal DevOps Engineer - Decision Management Platform
+Mastercard
+Dublin, County Dublin, Ireland
+2 weeks ago
+Quantitative Development - DevOps Engineer
+Quantitative Development - DevOps Engineer
+Millennium
+Dublin, County Dublin, Ireland
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Senior Site Reliability engineer
+Senior Site Reliability engineer
+
+Guidewire Software
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+Pepper Advantage
+
+Dublin, County Dublin, Ireland
+3 weeks ago
+DevOps Engineer (Azure)
+DevOps Engineer (Azure)
+
+DOCOsoft
+
+Dublin, County Dublin, Ireland
+1 month ago
+Senior Cloud Engineer/ Cloud Architect
+Senior Cloud Engineer/ Cloud Architect
+
+Henry Schein
+
+Dublin, County Dublin, Ireland
+5 days ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+Blockdaemon
+
+Dublin, County Dublin, Ireland
+1 week ago
+AWS DevOps Engineer – Dublin/Remote (2 days onsite pw)
+AWS DevOps Engineer – Dublin/Remote (2 days onsite pw)
+
+IT Search
+
+Dublin, County Dublin, Ireland
+3 days ago
+AI Platform DevOps Engineer
+AI Platform DevOps Engineer
+
+The Clorox Company
+
+Dublin, County Dublin, Ireland
+1 week ago
+Senior Cloud Engineer
+Senior Cloud Engineer
+
+Advanced Resource Managers
+
+Dublin, County Dublin, Ireland
+€50 - €54
+6 days ago
+Site Reliability Engineer (SRE/ DevOps) - Engineering Productivity
+Site Reliability Engineer (SRE/ DevOps) - Engineering Productivity
+
+Arista Networks
+
+Dublin, County Dublin, Ireland
+2 months ago
+Senior DevOps Engineer - Enterprise Scale Projects, Hybrid Working
+Senior DevOps Engineer - Enterprise Scale Projects, Hybrid Working
+
+TechHeads
+
+Greater Dublin
+€90,000 - €105,000
+1 week ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
