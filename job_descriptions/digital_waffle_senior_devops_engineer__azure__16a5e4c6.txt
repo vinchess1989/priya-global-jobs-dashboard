@@ -1,0 +1,300 @@
+Title: Senior DevOps Engineer (Azure)
+Company: Digital Waffle
+Location: Nottingham, England, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/senior-devops-engineer-azure-at-digital-waffle-4479968837
+Posted: 2026-10-19
+Deadline: N/A
+Reason: The job aligns with Priya's expertise in DevOps engineering (Azure, CI/CD, infrastructure as code) and is located in the UK, which is within her target countries; she meets the experience level and language requirements.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer (Azure)
+Digital Waffle  Nottingham, England, United Kingdom
+1 day ago   Be among the first 25 applicants
+  
+
+See who Digital Waffle has hired for this role
+
+Apply
+Save
+
+Direct message the job poster from Digital Waffle
+
+Zak Jones
+Zak Jones
+Tech Recruitment Manager (DevOps, Cloud & Infrastructure) for the UK & US 🇬🇧🇺🇸. Get in touch to find out how I can solve your hiring problems!
+
+Role: Senior DevOps Engineer (Azure)
+
+Location: Remote, UK
+
+Salary: £75,000 – £85,000 + bonus
+
+
+
+
+Key Skills:
+
+Azure (Azure Landing Zones)
+AKS
+GitOps (ArgoCD)
+Terraform
+
+
+
+
+The Role:
+
+This is a hands-on senior engineering position with plenty of scope to influence technical direction, improve engineering standards and help shape the way cloud infrastructure is designed and delivered. You'll work closely with development, infrastructure and security teams, acting as a technical escalation point and helping drive best practice across the wider engineering function.
+
+
+
+
+What You'll Be Doing
+
+Design, build and maintain scalable Azure infrastructure using Terraform and Infrastructure as Code.
+Develop and manage production Kubernetes/AKS environments, including upgrades, security, networking and optimisation.
+Establish and improve GitOps and CI/CD practices, using tools such as GitHub Actions, Azure DevOps and ArgoCD.
+Build reusable Terraform modules, deployment templates and automation to improve consistency across environments.
+Design and maintain Azure networking, including VNets, hub-and-spoke architectures, DNS, NSGs and firewall solutions.
+Implement cloud security practices across identity, access management, container security and infrastructure.
+Develop and maintain Helm charts and standardised deployment processes for application teams.
+Introduce and improve monitoring, logging, tracing and platform observability.
+Automate repetitive processes using Python, Bash or similar scripting languages.
+Contribute to technical designs, architecture decisions and platform roadmaps.
+Help improve developer experience through tooling, documentation and self-service capabilities.
+Act as a senior technical escalation point and provide mentoring and guidance to other engineers.
+Support the continued evolution of the platform, including container orchestration, autoscaling, progressive delivery and platform security.
+
+
+
+
+What We're Looking For:
+
+You'll be an experienced DevOps/Platform Engineer with a strong background in cloud infrastructure and automation. We're looking for someone who can operate independently, get hands-on with complex technical challenges and confidently contribute to architectural discussions.
+
+
+
+
+Key experience:
+
+Strong commercial experience with Microsoft Azure.
+Extensive experience with Terraform and Infrastructure as Code.
+Strong production experience with Kubernetes, ideally AKS.
+Good understanding of Azure networking and cloud architecture.
+Experience building and maintaining CI/CD pipelines.
+Experience with GitOps, ideally using ArgoCD or a similar platform.
+Strong knowledge of Docker and containerised environments.
+Experience with Helm and Kubernetes application deployment.
+Good understanding of cloud security, IAM, RBAC and secure CI/CD practices.
+Strong Linux administration and troubleshooting skills.
+Proficiency with Python, Bash or similar scripting languages.
+Experience contributing to technical architecture, design documentation and engineering standards.
+Comfortable communicating technical concepts to both technical and non-technical stakeholders.
+Experience mentoring engineers or acting as a senior technical point of contact.
+
+
+
+
+Desirable Experience
+
+Istio or Cilium
+Argo Rollouts
+KEDA or Karpenter
+Falco or Kyverno
+Go development
+Azure Front Door
+Azure Firewall
+Entra ID and PIM
+Observability platforms such as Grafana, Loki or OpenTelemetry
+Experience working within regulated or compliance-focused environments
+
+
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development, IT System Custom Software Development, and IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Digital Waffle by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Contract Database Administrator jobs
+Senior DevOps Engineer (Azure)
+Similar jobs
+Senior Azure DevOps Engineer
+Senior Azure DevOps Engineer
+Digital Waffle
+Nottingham, England, United Kingdom
+1 day ago
+Principal DevOps Engineer (Azure)
+Principal DevOps Engineer (Azure)
+Digital Waffle
+Nottingham, England, United Kingdom
+1 day ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+The Insolvency Service
+Nottingham, England, United Kingdom
+£59,429 - £63,222
+2 weeks ago
+Cloud Platform Engineer
+Cloud Platform Engineer
+Howdens
+Wellingborough, England, United Kingdom
+20 hours ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Next
+Leicester, England, United Kingdom
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+Uniper
+Birmingham, England, United Kingdom
+3 days ago
+Show more jobs like this 
+People also viewed
+Senior Platform Engineer (linux)
+Senior Platform Engineer (linux)
+
+National Physical Laboratory (NPL)
+
+Solihull, England, United Kingdom
+3 weeks ago
+Third Line Cloud Engineer
+Third Line Cloud Engineer
+
+Computacenter
+
+Nottingham, England, United Kingdom
+3 weeks ago
+Infrastructure Architect ALM/PLM
+Infrastructure Architect ALM/PLM
+
+Siemens
+
+Solihull, England, United Kingdom
+1 week ago
+Cloud Infrastructure Manager
+Cloud Infrastructure Manager
+
+Sciensus
+
+Burton Upon Trent, England, United Kingdom
+3 weeks ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+
+HM Revenue & Customs
+
+Birmingham, England, United Kingdom
+17 hours ago
+Senior Cloud & Infrastructure Analyst
+Senior Cloud & Infrastructure Analyst
+
+De Montfort University
+
+Leicester, England, United Kingdom
+£44,746 - £56,535
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+Stealth iT Consulting
+
+England, United Kingdom
+5 days ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+GCS
+
+England, United Kingdom
+£100,000 - £120,000
+3 weeks ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+Capgemini
+
+Birmingham, England, United Kingdom
+4 days ago
+AWS IaaS Sys Admin
+AWS IaaS Sys Admin
+
+Accenture UK & Ireland
+
+Birmingham, England, United Kingdom
+1 week ago
+Similar Searches
+Contract Database Administrator jobs
+304 open jobs
+Customer Account Executive jobs
+7,009 open jobs
+Post Production Producer jobs
+80 open jobs
+Affiliate Account Manager jobs
+866 open jobs
+Media Account Manager jobs
+551 open jobs
+Web Project Manager jobs
+1,833 open jobs
+Chief Information Technology Officer jobs
+135 open jobs
+Marketing Account Manager jobs
+4,491 open jobs
+Marketing Operations Coordinator jobs
+1,027 open jobs
+Advertising Project Manager jobs
+3,568 open jobs
+Marketing Graduate jobs
+1,668 open jobs
+Public Relations Account Manager jobs
+53 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

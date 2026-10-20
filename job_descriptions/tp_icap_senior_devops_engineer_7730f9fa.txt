@@ -1,0 +1,287 @@
+Title: Senior DevOps Engineer
+Company: TP ICAP
+Location: Belfast, Northern Ireland, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/senior-devops-engineer-at-tp-icap-4478605802
+Posted: 2026-10-20
+Deadline: N/A
+Reason: The job matches as a Senior DevOps Engineer role in Belfast, UK, aligning with her CI/CD, infrastructure automation, and release management expertise, and meets all location, experience, and language criteria.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer
+TP ICAP  Belfast, Northern Ireland, United Kingdom
+16 hours ago   Be among the first 25 applicants
+  
+
+See who TP ICAP has hired for this role
+
+Apply 
+Save
+Group Overview
+
+The TP ICAP Group is a world leading provider of market infrastructure.
+
+Our purpose is to provide clients with access to global financial and commodities markets, improving price discovery, liquidity, and distribution of data, through responsible and innovative solutions.
+
+Through our people and technology, we connect clients to superior liquidity and data solutions.
+
+The Group is home to a stable of premium brands. Collectively, TP ICAP is the largest interdealer broker in the world by revenue, the number one Energy & Commodities broker in the world, the world’s leading provider of OTC data, and an award winning all-to-all trading platform.
+
+Founded in London in 1866, the Group operates from more than 60 offices in 27 countries. We are 5,200 people strong. We work as one to achieve our vision of being the world’s most trusted, innovative, liquidity and data solutions specialist.
+
+Role Overview
+
+The Senior DevOps Engineer leads the design, automation, and optimisation of cloud and on‑premise environments to enable secure, scalable, and reliable software delivery. The role drives CI/CD maturity, observability, environment automation, and operational resilience across teams. It partners with developers, architects, testers and platform teams to modernise engineering practices, streamline deployments, and support agile delivery at scale while upholding excellence in automation, tooling, and cloud engineering.
+
+Role Responsibilities
+
+
+Design and manage secure, scalable cloud infrastructure using AWS services.
+Develop and maintain Infrastructure‑as‑Code solutions to automate resource deployment.
+Lead automation of development, testing, and production delivery across CI/CD pipelines.
+Engineer CI/CD and observability tooling to support best‑practice software deployment.
+Improve production stability and resiliency through enhanced monitoring and process optimisation.
+Collaborate with engineering, QA and operations teams to ensure seamless application integration and deployment.
+Architect and support microservices using containerisation and serverless technologies.
+Drive automation of environment management, logging and monitoring capabilities.
+Ensure adherence to cloud standards, security best practices and organisational policies.
+Contribute to agile delivery practices and participate in activities to support continuous improvement.
+
+
+Experience / Competences
+
+Essential
+
+
+Degree in a relevant discipline or equivalent industry experience.
+Extensive and proven experience as a DevOps Engineer working with AWS cloud services.
+Strong hands‑on experience with CI/CD pipelines, automation, pipeline‑as‑code and Infrastructure-as-Code (AWS CDK, Terraform).
+Knowledge and working experience of containerization using Docker, and orchestration using Kubernetes.
+Experience with scripting languages such as Python, Bash, PowerShell, Go or Groovy.
+Knowledge of observability concepts and tools such as Grafana, Prometheus, CloudWatch, or similar stacks.
+Experience integrating automated testing within CI/CD workflows.
+Experience in automation tooling such as GitLab, Jenkins, Argo CD, CloudBees or Nexus.
+Working experience with Linux‑based and Windows Server environments
+Experience implementing cloud security best practices across infrastructure and applications.
+Ability to collaborate effectively with cross‑functional engineering teams.
+Experience working in agile delivery environments (e.g. SAFe) and practising Lean Delivery principles.
+Strong problem‑solving skills with attention to detail.
+
+
+Desired
+
+
+Experience leading DevOps or engineering transformation initiatives.
+Familiarity with serverless architectures and microservices design patterns.
+Experience working with multi‑vendor environments and external service providers.
+Knowledge of Helm charts and Kubernetes cluster management (EKS).
+Knowledge of incremental delivery and shift‑left practices for quality and resiliency.
+Experience in software development using C#/.NET, Java, or Go
+
+
+
+
+Role Band & Level
+
+
+Manager, 6
+
+
+#NIJobs
+
+Not The Perfect Fit?
+
+Concerned that you may not meet the criteria precisely? At TP ICAP, we wholeheartedly believe in fostering inclusivity and cultivating a work environment where everyone can flourish, regardless of your personal or professional background. If you are enthusiastic about this role but find that your experience doesn't align perfectly with every aspect of the job description, we strongly encourage you to apply. You may be the ideal candidate for this position or another opportunity within our organisation. Our dedicated Talent Acquisition team is here to assist you in recognising how your unique skills and abilities can be a valuable contribution. Don't hesitate to take the leap and explore the possibilities. Your potential is what truly matters to us.
+
+Company Statement
+
+We know that the best innovation happens when diverse people with different perspectives and skills work together in an inclusive atmosphere. That's why we're building a culture where everyone plays a part in making people feel welcome, ready and willing to contribute. TP ICAP Accord - our Employee Network - is a central to this. As well as representing specific groups, TP ICAP Accord helps increase awareness, collaboration, shares best practice, and holds our firm to account for driving continuous cultural improvement.
+
+Location
+
+UK - City Quays 3 - Belfast
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at TP ICAP by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Director Equity jobs
+Senior DevOps Engineer
+Similar jobs
+Principal DevOps Engineer (AWS, Kubernetes, SaaS)
+Principal DevOps Engineer (AWS, Kubernetes, SaaS)
+Gearset
+Belfast, Northern Ireland, United Kingdom
+3 weeks ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+Symphony
+Belfast, Northern Ireland, United Kingdom
+2 days ago
+DevOps (Kubernetes, Terraform, Ansible & Docker)
+DevOps (Kubernetes, Terraform, Ansible & Docker)
+Thrive IT Systems
+Belfast, Northern Ireland, United Kingdom
+3 days ago
+DevOps Engineer
+DevOps Engineer
+PRIMUS Global Solutions (PRIMUS UK & Europe)
+Belfast, Northern Ireland, United Kingdom
+5 days ago
+Cloud Engineer - Infrastructure as Code
+Cloud Engineer - Infrastructure as Code
+Deloitte
+Belfast, Northern Ireland, United Kingdom
+2 days ago
+Site Reliability Engineer
+Site Reliability Engineer
+Trimble Inc.
+Newcastle, Northern Ireland, United Kingdom
+3 days ago
+Show more jobs like this 
+People also viewed
+Cloud Engineer
+Cloud Engineer
+
+MSM Technology
+
+Northern Ireland, United Kingdom
+2 weeks ago
+Senior Software Engineer (Developer Tooling)
+Senior Software Engineer (Developer Tooling)
+
+Cloudsmith
+
+Belfast, Northern Ireland, United Kingdom
+1 week ago
+Senior Technical Support Engineer
+Senior Technical Support Engineer
+
+Cloudsmith
+
+Belfast, Northern Ireland, United Kingdom
+2 months ago
+Staff Software Engineer
+Staff Software Engineer
+
+Bazaarvoice
+
+Belfast, Northern Ireland, United Kingdom
+2 weeks ago
+Senior Software Engineer
+Senior Software Engineer
+
+The Flex
+
+Belfast, Northern Ireland, United Kingdom
+3 weeks ago
+Senior QA Engineer
+Senior QA Engineer
+
+Upwind Security
+
+Belfast, Northern Ireland, United Kingdom
+1 week ago
+Senior Software Engineer
+Senior Software Engineer
+
+EverQuote
+
+Belfast, Northern Ireland, United Kingdom
+3 weeks ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+
+Camlin Group
+
+Lisburn, Northern Ireland, United Kingdom
+1 week ago
+Senior Software Engineer
+Senior Software Engineer
+
+EverQuote Pro
+
+Belfast, Northern Ireland, United Kingdom
+1 month ago
+Senior Software Engineer, Media
+Senior Software Engineer, Media
+
+Symphony
+
+Belfast, Northern Ireland, United Kingdom
+1 week ago
+Similar Searches
+Director Equity jobs
+456 open jobs
+Head of Trading jobs
+963 open jobs
+Credit Trader jobs
+312 open jobs
+Broker Assistant jobs
+4,481 open jobs
+Quality Assurance Test Analyst jobs
+703 open jobs
+Head of Corporate Development jobs
+896 open jobs
+Private Banking Analyst jobs
+2,206 open jobs
+Surveillance Manager jobs
+535 open jobs
+Head of Market Risk jobs
+391 open jobs
+Sales Trader jobs
+87 open jobs
+Yacht Broker jobs
+3,026 open jobs
+Technical Business Analyst jobs
+5,102 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

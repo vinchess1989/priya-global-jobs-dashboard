@@ -1,0 +1,285 @@
+Title: Senior DevOps Engineer
+Company: Hong Kong Exchanges and Clearing Limited (HKEX)
+Location: London, England, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/senior-devops-engineer-at-hong-kong-exchanges-and-clearing-limited-hkex-4480369145
+Posted: 2026-10-17
+Deadline: N/A
+Reason: The job aligns with Priya's expertise in DevOps/CI-CD (Kubernetes, Terraform, Ansible) and regulated environments, matches her location preferences (London, UK), and fits the 'Configuration Manager / Configuration Management Engineer' role type explicitly approved by the user.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer
+Hong Kong Exchanges and Clearing Limited (HKEX)  London, England, United Kingdom
+3 days ago  44 applicants
+  
+
+See who Hong Kong Exchanges and Clearing Limited (HKEX) has hired for this role
+
+Apply 
+Save
+Shift Pattern:
+
+Standard 40 Hour Week (United Kingdom)
+
+Scheduled Weekly Hours:
+
+40
+
+Corporate Grade:
+
+D - Assistant Vice President
+
+Reporting Line:
+
+(UK Division) Information Technology
+
+Location:
+
+UK-London
+
+Worker Type:
+
+Permanent
+
+This role is a critical part of the Development Tooling team, responsible for creating and maintaining the internal tools and systems that developers use to build, test, and deploy software more efficiently. The main goal is to improve developer productivity and experience by streamlining workflows, automating repetitive tasks, and ensuring that development environments are fast, reliable, and easy to use. Act as a bridge between development and infrastructure teams, helping standardise processes, enforce best practices, and optimise performance across the software development lifecycle. An Engineer supporting the strategic roadmap of modernising the toolset at the LME.
+
+This is a high-impact role for a candidate who is passionate about engineering excellence, working directly with development and operations teams to create solutions and enabling tangible value through technology. This role is an end-to-end engineering role which includes solution design, implementation, deployment, and support in a regulated corporate (Prod) environment.
+
+Responsibilities:
+
+
+Design, deploy, and manage Kubernetes clusters across on-prem environments.
+Develop and maintain Python scripts and automation tools for infrastructure provisioning, monitoring, and deployment.
+Build and maintain CI/CD pipelines using tools like Ansible, Artifactory, Bitbucket, Bamboo, GitLab CI, and ArgoCD.
+Implement infrastructure as code (IaC) using Terraform, Helm, or similar tools.
+Monitor system performance and troubleshoot issues across the stack.
+Collaborate with development teams to ensure smooth application delivery and operations.
+Ensure security, compliance, and best practices are followed in infrastructure and deployment processes.
+Lead incident analysis and root cause investigations for data-related issues, implementing improvements to enhance system stability and performance.
+Act as a liaison between technical teams and non-technical stakeholders, ensuring clear and effective communication of project status, risks, and requirements.
+Ensure all technical documentation is accurate, up-to-date, and accessible to relevant stakeholders.
+Participate in on-call rotations and incident response.
+
+
+Academic and Professional Qualifications Required:
+
+
+Required: Bachelor’s degree in Computer Science, Software Engineering, Data Science, or a closely related field.
+Advantageous: Certifications or substantial hands-on experience with modern Development pipeline tools
+Desirable: Familiarity with financial services regulatory frameworks and best practices for data governance
+
+
+Required Knowledge and Level of Experience:
+
+
+Experience: Minimum 8 years expertise in software development workflows, infrastructure automation, and developer experience.
+Programming Skills : proficient in scripting like Python bash and PowerShell
+
+
+Skills set and Core Competencies Required for Role:
+
+
+Strong hands-on experience with Kubernetes (self-managed).
+Proficiency in Python for scripting and automation.
+Solid understanding of CI/CD pipelines and DevOps practices.
+Experience with Terraform, Helm, or other IaC tools.
+Experienced with monitoring and logging tools (e.g., Prometheus, Grafana).
+Experience with containerization (Docker) and container orchestration.
+Strong problem-solving skills and a collaborative mindset.
+
+
+Personal Qualities:
+
+
+Proactivity: Demonstrates a passion for continuous learning, improvement, and staying current with industry trends.
+Independent and dependable: Work well under pressure and within cross-functional teams
+Collaboration: Works effectively across departments and disciplines, building strong relationships with both technology and business colleagues.
+Outcome-Driven: Motivated by delivering real-world outcomes, improving enterprise value, and supporting business strategy.
+Problem-Solving and Critical Thinking: Proactively identify inefficiencies and propose effective, scalable solutions.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at Hong Kong Exchanges and Clearing Limited (HKEX) by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Portfolio Architect jobs
+Senior DevOps Engineer
+Similar jobs
+Sr DevOps Engineer
+Sr DevOps Engineer
+Xe.com
+Bracknell, England, United Kingdom
+2 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Catapult
+London, England, United Kingdom
+6 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+OAG
+Luton, England, United Kingdom
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Xelix
+London, England, United Kingdom
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+LocalStack
+London, England, United Kingdom
+£70,000 - £90,000
+1 month ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Duetto
+London, England, United Kingdom
+1 week ago
+Show more jobs like this 
+People also viewed
+🛠️ SITE RELIABILITY ENGINEER / DEVOPS
+🛠️ SITE RELIABILITY ENGINEER / DEVOPS
+
+Tandem Dating
+
+Harrow, England, United Kingdom
+3 months ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Station
+
+City Of London, England, United Kingdom
+£75,000 - £95,000
+1 week ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+Attio
+
+London, England, United Kingdom
+£105,000 - £125,000
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Applied Data Science Partners
+
+London Area, United Kingdom
+6 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Metrea
+
+London, England, United Kingdom
+20 hours ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+WeDo
+
+London Area, United Kingdom
+£70,000 - £75,000
+5 days ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+Lyst
+
+London, England, United Kingdom
+1 month ago
+Lead DevOps Engineer - AWS, Kubernetes, Terraform
+Lead DevOps Engineer - AWS, Kubernetes, Terraform
+
+JPMorganChase
+
+Greater London, England, United Kingdom
+4 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+B4B Payments - A Banking Circle Group Company
+
+London, England, United Kingdom
+4 weeks ago
+Senior DevOps Engineer - Global
+Senior DevOps Engineer - Global
+
+Orix Digi
+
+Harrow, England, United Kingdom
+2 months ago
+Similar Searches
+Portfolio Architect jobs
+2,395 open jobs
+System Development Manager jobs
+1,020 open jobs
+Chief Solutions Architect jobs
+50 open jobs
+Fixed Income Portfolio Manager jobs
+277 open jobs
+Assistant Risk Manager jobs
+3,689 open jobs
+Bond Trader jobs
+453 open jobs
+System Operations Engineer jobs
+21,886 open jobs
+Structurer jobs
+251 open jobs
+Head of Banking jobs
+658 open jobs
+Deputy Chief Executive Officer jobs
+176 open jobs
+Fixed Income Trader jobs
+469 open jobs
+Private Banking Assistant jobs
+4,445 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
