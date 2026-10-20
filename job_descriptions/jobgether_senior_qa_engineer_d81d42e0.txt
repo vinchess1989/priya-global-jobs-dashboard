@@ -1,0 +1,305 @@
+Title: Senior QA Engineer
+Company: Jobgether
+Location: South Africa
+URL: https://za.linkedin.com/jobs/view/senior-qa-engineer-at-jobgether-4478847519
+Posted: 2026-10-15
+Deadline: N/A
+Reason: The Senior QA Engineer role at Jobgether aligns with Priya's experience in quality gatekeeping, regulatory compliance (MDR/ISO 13485), and AI-assisted testing in healthcare software, located in South Africa (a target country).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior QA Engineer
+Jobgether  South Africa
+5 days ago   Be among the first 25 applicants
+  
+
+See who Jobgether has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+This position is listed on behalf of a partner company, which manages all applications and next steps. Our partner is looking for a Senior QA Engineer based in South Africa.
+
+Join a forward-thinking technology team building AI-powered healthcare software that supports critical clinical workflows and improves operational efficiency.
+
+In this role, you will establish and lead a next-generation quality engineering practice, combining modern test automation with AI-driven testing methodologies.
+
+You will take ownership of the QA strategy, architect the testing infrastructure, and build scalable frameworks that ensure software reliability, security, and performance.
+
+Working with AI coding agents and advanced evaluation tools, you will help validate both traditional software functionality and the accuracy, safety, and dependability of AI-powered features.
+
+You will collaborate closely with engineers, product managers, designers, and clinical experts to translate complex requirements into measurable quality standards.
+
+Your work will directly contribute to delivering secure, reliable healthcare technology that supports emergency department professionals and their patients.
+
+This is an exciting opportunity for a hands-on quality engineering leader who values ownership, continuous improvement, and practical AI innovation.
+
+Accountabilities
+
+
+QA strategy and quality leadership: Own the end-to-end quality assurance strategy, defining test plans, risk-based coverage targets, quality gates, and release readiness criteria across the software development lifecycle.
+Test architecture and tooling: Evaluate, select, and document the testing technology stack for user interfaces, APIs, integrations, performance, accessibility, and security. Record architectural decisions, alternatives, and trade-offs to establish a scalable, maintainable approach.
+Automation framework development: Build, maintain, and optimize automated test frameworks for web applications, APIs, and integrations. Establish clear standards that enable engineers and AI agents to extend test coverage reliably.
+Clinical workflow validation: Replace manual regression testing with automated coverage of critical healthcare workflows, including triage, clinical documentation, orders, and patient discharge.
+Performance and reliability testing: Develop load, stress, and soak tests that simulate realistic emergency department usage and peak traffic. Establish performance baselines and identify regressions before production releases.
+CI/CD integration: Integrate automated testing into continuous integration and delivery pipelines so that pull requests and builds receive fast, reliable feedback. Apply parallel execution and AI-assisted test impact analysis to improve testing efficiency.
+Defect management and root-cause analysis: Identify, document, prioritize, and resolve defects in collaboration with engineering teams. Investigate underlying causes and implement improvements that prevent recurring issues.
+Exploratory and agile testing: Lead exploratory testing for new features and complex clinical workflows. Contribute to sprint planning, backlog refinement, retrospectives, acceptance criteria, effort estimation, and release readiness decisions.
+AI-assisted test engineering: Use large language models to transform user stories, acceptance criteria, and clinical specifications into test scenarios, edge cases, and boundary conditions. Review and refine AI-generated outputs using sound testing principles and engineering judgment.
+Agentic test automation: Leverage AI coding agents, Playwright MCP, and automated planning, generation, and healing capabilities to create and maintain tests. Ensure AI-generated code meets the same quality and review standards as production code.
+Intelligent failure analysis: Apply AI-assisted locator healing, flaky-test detection, failure clustering, root-cause summaries, and defect routing to reduce maintenance effort and accelerate issue resolution.
+Synthetic test data management: Establish realistic, privacy-safe synthetic patient records and clinical scenarios as the standard for functional, performance, and AI evaluation testing. Use appropriate generation tools while ensuring that real protected health information is never exposed in test environments or AI prompts.
+AI feature evaluation: Build evaluation frameworks for AI-powered capabilities using golden datasets, scoring rubrics, model-based grading calibrated against human reviews, and regression gates triggered by changes to models, prompts, or knowledge sources.
+AI safety and security: Test AI features for hallucinations, clinical and coding inaccuracies, bias, privacy leakage, prompt injection, and unsafe behavior. Partner with clinical experts to define measurable acceptance thresholds for safe and reliable use in emergency care.
+Quality metrics and continuous improvement: Track escaped defects, test flakiness, execution times, test authoring efficiency, and maintenance effort. Communicate quality trends and demonstrate the impact of AI-assisted engineering practices.
+Security, accessibility, and compliance: Incorporate security scanning, accessibility checks, dependency analysis, and healthcare data protection requirements into testing workflows.
+Knowledge sharing and collaboration: Work closely with developers, product stakeholders, and clinical specialists to establish a quality-first culture and share reusable testing practices across engineering teams.
+
+
+Requirements
+
+
+Professional experience: At least 5 years of professional QA or software testing experience, including a minimum of 3 years developing and maintaining automated testing solutions, ideally in a SaaS or web application environment.
+QA fundamentals: Strong understanding of testing methodologies, risk-based testing, test design techniques, defect lifecycle management, and software development lifecycle practices.
+Programming skills: Strong proficiency in TypeScript or JavaScript and working knowledge of Python. Ability to write maintainable, reliable test code to the same standards expected of production software.
+Test automation expertise: Hands-on experience with modern automation frameworks, preferably Playwright, with Cypress or Selenium also considered. Demonstrated ability to build frameworks from the ground up, manage test data, maintain stable and efficient suites, and make well-reasoned tooling decisions.
+AI-native engineering practices: Regular, practical use of AI coding agents in test engineering, with concrete examples of how these tools have improved test creation, maintenance, or debugging. Ability to identify inaccurate, incomplete, or unreliable AI-generated output.
+Testing AI-powered systems: Understanding of how large language model applications can fail and experience evaluating non-deterministic outputs through evaluation datasets, scoring rubrics, model-based grading, and measurable pass thresholds.
+Performance testing: Practical experience with Locust, k6, JMeter, or comparable tools, including designing realistic workload models, interpreting performance results, and identifying bottlenecks.
+API and integration testing: Solid experience testing APIs and integrations, with the ability to validate contracts, data exchanges, and system behavior across interconnected services.
+CI/CD and version control: Experience integrating automated test suites into build pipelines and working with CI/CD tooling and Git-based development workflows.
+Security and data quality awareness: Understanding of secure testing practices, test data management, and the importance of protecting sensitive information in healthcare-related environments.
+Communication and ownership: Strong analytical and problem-solving skills, a proactive approach to identifying risks, and the ability to communicate quality concerns clearly to engineers, product managers, and leadership.
+Remote and agile collaboration: Experience working in fast-paced, agile, distributed teams across time zones, with the independence and accountability needed to deliver results in a remote environment.
+Education: Bachelor’s degree in Computer Science, Software Engineering, or a related discipline, or equivalent practical experience.
+
+
+Nice To Have
+
+
+Experience in healthcare technology or regulated clinical software, particularly electronic health records (EHR), Emergency Department Information Systems (EDIS), or ONC Health IT certification testing.
+Familiarity with HL7 v2, FHIR, and HIPAA requirements governing healthcare data, test environments, and privacy.
+Hands-on experience with LLM evaluation and AI observability tools such as Promptfoo, DeepEval, Ragas, Langfuse, or LangSmith.
+Experience building MCP servers, custom AI agents, or AI-assisted engineering tools.
+Knowledge of Playwright MCP and AI-driven test planning, generation, maintenance, and healing.
+Experience with performance tools such as Locust or k6 and security tools such as OWASP ZAP.
+Experience with accessibility testing, WCAG standards, visual regression testing, and automated accessibility tools such as axe-core.
+Familiarity with AI security testing, prompt-injection assessment, red-teaming, and the OWASP Top 10 for LLM Applications.
+Experience with contract testing tools such as Pact and validation of healthcare interoperability interfaces.
+
+
+Benefits
+
+
+Competitive compensation: Salary aligned with UK working hours, with an emphasis on fair and transparent compensation.
+Remote flexibility: Work remotely with flexibility designed to support work-life balance.
+Global collaboration: Work alongside talented professionals from diverse backgrounds and locations.
+Professional development: Access training opportunities to strengthen technical skills and expand expertise in QA, automation, and AI-driven quality engineering.
+Career progression: Opportunities for long-term professional growth and advancement within the organization.
+Healthcare coverage: Comprehensive health benefits designed to support employee well-being and peace of mind.
+Technical innovation: Opportunity to shape a modern QA practice and work with AI coding agents, advanced automation frameworks, and AI evaluation technologies.
+Meaningful impact: Contribute to the reliability and safety of healthcare software supporting critical clinical workflows.
+
+
+How Jobgether Works
+
+We use an AI-powered matching process to ensure your application is reviewed quickly, objectively, and fairly against the role's core requirements. Our system identifies the top-fitting candidates, and this shortlist is then shared directly with the hiring company. The final decision and next steps (interviews, assessments) are managed by their internal team.
+
+We appreciate your interest and wish you the best!
+
+Why Apply Through Jobgether?
+
+Data Privacy Notice: By submitting your application, you acknowledge that Jobgether will process your personal data to evaluate your candidacy and share relevant information with the hiring employer. This processing is based on legitimate interest and pre-contractual measures under applicable data protection laws (including GDPR). You may exercise your rights (access, rectification, erasure, objection) at any time.
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Internet Marketplace Platforms
+  
+
+Referrals increase your chances of interviewing at Jobgether by 2x
+
+See who you know
+
+Get notified about new Senior Quality Assurance Engineer jobs in South Africa.
+
+Sign in to create job alert
+Similar jobs
+Senior Software Quality Engineer
+Senior Software Quality Engineer
+Jobgether
+South Africa
+1 day ago
+Data QA Engineer
+Data QA Engineer
+Jobgether
+South Africa
+1 day ago
+Software Quality Assurance Lead
+Software Quality Assurance Lead
+Provision-sa (Pty) Ltd
+South Africa
+5 hours ago
+Senior Quality Assurance Engineer
+Senior Quality Assurance Engineer
+DigiOutsource
+Cape Town, Western Cape, South Africa
+2 weeks ago
+Senior Software Quality Engineer (all genders) - Vollzeit & Teilzeit
+Senior Software Quality Engineer (all genders) - Vollzeit & Teilzeit
+Expleo Group
+Hamburg, Eastern Cape, South Africa
+2 weeks ago
+Manual Tester
+Manual Tester
+Inspired Thinking Group (ITG)
+South Africa
+ZAR 280,000 - ZAR 450,000
+3 days ago
+Show more jobs like this 
+People also viewed
+Software Quality Assurance Analyst
+Software Quality Assurance Analyst
+
+Pedros
+
+Durban, KwaZulu-Natal, South Africa
+6 days ago
+Quality Engineering Lead
+Quality Engineering Lead
+
+X, bigly labs
+
+Johannesburg, Gauteng, South Africa
+1 hour ago
+Manual tester (3 month FTC)
+Manual tester (3 month FTC)
+
+Inspired Thinking Group (ITG)
+
+South Africa
+ZAR 280,000 - ZAR 450,000
+3 days ago
+Test Automation Specialist
+Test Automation Specialist
+
+Zensar Technologies
+
+Johannesburg Metropolitan Area
+2 weeks ago
+Senior Full-Stack Product Engineer
+Senior Full-Stack Product Engineer
+
+The Flex
+
+South Africa
+3 weeks ago
+Senior Software Engineer (Cape Town)
+Senior Software Engineer (Cape Town)
+
+OLX
+
+Cape Town, Western Cape, South Africa
+1 month ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+LexisNexis
+
+South Africa
+1 month ago
+Analista de QA Pleno/Sênior foco em automação - Híbrido
+Analista de QA Pleno/Sênior foco em automação - Híbrido
+
+talent's club
+
+East London, Eastern Cape, South Africa
+3 weeks ago
+Ruby Engineer - Web Scraping (Remote)
+Ruby Engineer - Web Scraping (Remote)
+
+SearchApi
+
+South Africa
+10 months ago
+Software Quality Assurance / Testing Engineer: ServiceNow
+Software Quality Assurance / Testing Engineer: ServiceNow
+
+NTT DATA, Inc.
+
+Johannesburg, Gauteng, South Africa
+2 weeks ago
+Similar Searches
+Engineer jobs
+4,853 open jobs
+Senior Software Tester jobs
+272 open jobs
+Senior Software Quality Engineer jobs
+25 open jobs
+Quality Assurance Engineer jobs
+186 open jobs
+Contract Test Engineer jobs
+30 open jobs
+Senior Quality Engineer jobs
+85 open jobs
+Software Quality Assurance Engineer jobs
+80 open jobs
+Senior Automation Engineer jobs
+640 open jobs
+Engineering Officer jobs
+297 open jobs
+Quality Assurance Test Analyst jobs
+105 open jobs
+Escalation Engineer jobs
+132 open jobs
+Software Automation Engineer jobs
+326 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Jobgether
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
