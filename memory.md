@@ -53,6 +53,9 @@ allow-listed accounts only, and scripts authenticate via **`firestore_auth.py`**
   `~\.claude\run_scrapers_sequential.ps1`: priya_jobs → priya_global_jobs → manju_uk_jobs, one at a
   time, then unloads the LM Studio model). `orchestrator.py` passes `scraper.py --once` (one full
   scrape pass, then drain the review queue and exit). Details in priya_jobs/memory.md.
+  **2026-10-20:** a `job_requirements.md` edit now re-queues only jobs whose title/company/location
+  matches keywords from the changed lines (diffed against the gitignored `requirements_snapshot.md`),
+  not every job. Details in priya_jobs/memory.md.
 - `LOCAL_LLM_ENDPOINT`/`LOCAL_LLM_MODEL` come from the Windows user env vars (shared).
 
 ## Scraper specifics (vs priya_jobs)

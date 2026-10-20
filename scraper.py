@@ -7,6 +7,7 @@ import unicodedata
 import subprocess
 import threading
 import hashlib
+import difflib
 import argparse
 import glob
 from datetime import datetime, timedelta
@@ -27,6 +28,8 @@ JOBS_FILE = os.path.join(BASE_DIR, "jobs.json")
 SEEN_URLS_FILE = os.path.join(BASE_DIR, "seen_urls.json")
 CHECKPOINT_FILE = os.path.join(BASE_DIR, "checkpoint.json")
 REQ_FILE = os.path.join(BASE_DIR, "job_requirements.md")
+# Copy of job_requirements.md as of the last check, diffed to see what an edit changed.
+REQ_SNAPSHOT_FILE = os.path.join(BASE_DIR, "requirements_snapshot.md")
 DELETED_FILE = os.path.join(BASE_DIR, "deleted.json")
 HISTORY_FILE = os.path.join(BASE_DIR, "jobs_history.json")
 LOGS_DIR = os.path.join(BASE_DIR, "logs")
@@ -1085,11 +1088,64 @@ def get_active_llm_model(endpoint):
     return _load_last_llm_model() or os.environ.get("LOCAL_LLM_MODEL")
 
 
+_CHANGE_STOPWORDS = {
+    'about', 'above', 'after', 'again', 'against', 'being', 'below', 'between', 'candidate',
+    'candidates', 'clearly', 'could', 'every', 'experience', 'explicitly', 'including', 'match',
+    'matches', 'other', 'posting', 'postings', 'reject', 'rejection', 'requirement',
+    'requirements', 'should', 'their', 'there', 'these', 'those', 'through', 'under', 'unless',
+    'where', 'which', 'while', 'within', 'without', 'would', 'years',
+}
+
+
+def _changed_requirement_lines(old_text, new_text):
+    """Lines added ('+ ...') or removed ('- ...') between two versions of job_requirements.md."""
+    return [line.strip() for line in difflib.ndiff(old_text.splitlines(), new_text.splitlines())
+            if line[:2] in ('+ ', '- ') and line[2:].strip()]
+
+
+def _requirement_change_keywords(changed_lines, sample_titles):
+    """Lowercase keywords for the jobs a requirements edit could affect. Asks the LLM, which
+    knows synonyms and the languages the titles use; falls back to the changed lines' words."""
+    llm_endpoint = os.environ.get("LOCAL_LLM_ENDPOINT")
+    llm_model = get_active_llm_model(llm_endpoint)
+    prompt = (
+        "The requirements file a job-matching reviewer uses was edited. Lines added (+) or "
+        "removed (-):\n" + "\n".join(changed_lines) + "\n\n"
+        "Which job postings could get a different verdict because of this edit? List short "
+        "lowercase keywords or phrases that would appear in the title, company or location of "
+        "such postings (role names, skills, domains, places, companies). Include common "
+        "synonyms, and translations into the languages these existing titles use:\n"
+        + "\n".join(sample_titles) + "\n\n"
+        'Reply with JSON only: {"keywords": ["...", "..."]}'
+    )
+    try:
+        resp_json, llm_used = _call_llm_with_fallback(
+            [{"role": "user", "content": prompt}], llm_endpoint, llm_model,
+            temperature=0.1, max_tokens=800,
+        )
+        parsed = extract_json_from_text(resp_json['choices'][0]['message'].get('content') or '')
+        keywords = sorted({k.strip().lower() for k in parsed.get('keywords', [])
+                           if isinstance(k, str) and len(k.strip()) >= 3})
+        if keywords:
+            print(f"INFO: Requirement-change keywords (LLM: {llm_used}): {', '.join(keywords)}")
+            return keywords
+    except Exception as e:
+        print(f"WARNING: LLM keyword extraction for the requirements change failed: {e}")
+    keywords = sorted(set(re.findall(r"\w{5,}", " ".join(changed_lines).lower())) - _CHANGE_STOPWORDS)
+    print(f"INFO: Requirement-change keywords (word fallback): {', '.join(keywords)}")
+    return keywords
+
+
 def check_requirements_update():
-    """Check if job_requirements.md has changed, and flag jobs for re-evaluation if it has."""
+    """If job_requirements.md changed, flag for re-review only the jobs the edit could affect:
+    diff it against REQ_SNAPSHOT_FILE, turn the added/removed lines into keywords, and queue the
+    jobs whose title/company/location contains one. Before 2026-10-20 every job was re-queued
+    on any edit (a ~5,000-job backlog that took days to review)."""
     req_hash = get_file_hash(REQ_FILE)
     if not req_hash:
         return
+    with open(REQ_FILE, 'r', encoding='utf-8') as f:
+        req_text = f.read()
 
     checkpoint_data = {}
     if os.path.exists(CHECKPOINT_FILE):
@@ -1100,17 +1156,34 @@ def check_requirements_update():
             pass
 
     saved_hash = checkpoint_data.get("requirements_hash", "")
-    if saved_hash and req_hash != saved_hash:
-        print("INFO: job_requirements.md has changed! Resetting evaluation status for existing jobs...")
-        if os.path.exists(JOBS_FILE):
-            with open(JOBS_FILE, 'r', encoding='utf-8') as f:
-                jobs = json.load(f)
-            for job in jobs:
-                if job.get('user_review') != 'done':
-                    job['needs_re_review'] = True
-            with open(JOBS_FILE, 'w', encoding='utf-8') as f:
-                json.dump(jobs, f, indent=2)
+    if saved_hash and req_hash != saved_hash and os.path.exists(JOBS_FILE):
+        with open(JOBS_FILE, 'r', encoding='utf-8') as f:
+            jobs = json.load(f)
+        candidates = [j for j in jobs if j.get('user_review') != 'done']
+        old_text = None
+        if os.path.exists(REQ_SNAPSHOT_FILE):
+            with open(REQ_SNAPSHOT_FILE, 'r', encoding='utf-8') as f:
+                old_text = f.read()
+        if old_text is None:
+            # No earlier copy to diff against (first edit after this was introduced).
+            print("INFO: job_requirements.md has changed but there is no snapshot to diff - re-queueing every job.")
+            flagged = candidates
+        else:
+            changed_lines = _changed_requirement_lines(old_text, req_text)
+            keywords = _requirement_change_keywords(changed_lines, [j.get('title', '') for j in jobs[-40:]]) if changed_lines else []
+            flagged = [j for j in candidates
+                       if any(kw in " ".join(str(j.get(k) or '') for k in ('title', 'company', 'location')).lower()
+                              for kw in keywords)]
+            print(f"INFO: job_requirements.md has changed ({len(changed_lines)} lines) - "
+                  f"re-queueing {len(flagged)} of {len(candidates)} jobs that match its keywords.")
+        for job in flagged:
+            job['needs_re_review'] = True
+        with open(JOBS_FILE, 'w', encoding='utf-8') as f:
+            json.dump(jobs, f, indent=2)
 
+    if req_hash != saved_hash or not os.path.exists(REQ_SNAPSHOT_FILE):
+        with open(REQ_SNAPSHOT_FILE, 'w', encoding='utf-8') as f:
+            f.write(req_text)
     checkpoint_data["requirements_hash"] = req_hash
     with open(CHECKPOINT_FILE, 'w', encoding='utf-8') as f:
         json.dump(checkpoint_data, f, indent=2)
