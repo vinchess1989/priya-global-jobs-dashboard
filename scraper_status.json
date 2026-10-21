@@ -1,12 +1,12 @@
 {
   "pid": 59256,
   "started_at": "2026-10-21T07:36:18+03:00",
-  "heartbeat_at": "2026-10-21T19:03:06+03:00",
-  "phase": "reviewing",
-  "detail": "IT Business Analyst - Trading Systems",
-  "last_scrape_ok_at": "2026-10-21T19:00:06+03:00",
+  "heartbeat_at": "2026-10-21T19:10:05+03:00",
+  "phase": "scraped",
+  "detail": "0 new jobs",
+  "last_scrape_ok_at": "2026-10-21T19:10:05+03:00",
   "last_error": {
-    "at": "2026-10-21T16:38:01+03:00",
-    "message": "cv_library_documentation_specialist: Page.goto: Navigation to \"https://www.cv-library.co.uk/documentation-specialist-jobs\" is interrupted by another navigation to \"about:blank\"\nCall log:\n  - navigating to \"https://www.cv-library.co.uk/documentation-specialist-jobs\", waiting until \"load\"\n"
+    "at": "2026-10-21T19:10:04+03:00",
+    "message": "jobsinmalta_broad: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://jobsinmalta.com/jobs\nCall log:\n  - navigating to \"https://jobsinmalta.com/jobs\", waiting until \"load\"\n"
   }
 }
