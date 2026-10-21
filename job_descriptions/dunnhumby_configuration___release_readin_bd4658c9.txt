@@ -1,0 +1,277 @@
+Title: Configuration & Release Readiness Lead
+Company: dunnhumby
+Location: London, England, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/configuration-release-readiness-lead-at-dunnhumby-4479803466
+Posted: 2026-10-16
+Deadline: N/A
+Reason: The job aligns with Priya's expertise in Configuration Management/Release Readiness (matches her Elektrobit & Topcon experience), is located in the UK (target country), and involves technical communication/documentation (matches her Technical Communication Specialist background).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Configuration & Release Readiness Lead
+dunnhumby  London, England, United Kingdom
+5 days ago  28 applicants
+  
+
+See who dunnhumby has hired for this role
+
+Apply 
+Save
+London | Full-time | Hybrid
+
+About dunnhumby
+
+dunnhumby is the global leader in Customer Data Science, helping the world's most ambitious retailers and brands put the customer at the heart of every decision. With nearly 3,000 experts across Europe, Asia, Africa and the Americas, we partner with iconic businesses like Tesco, Coca-Cola, Meijer, Procter & Gamble and Metro to turn data into growth, innovation and measurable value for their customers.
+
+Technology & Engineering
+
+dunnhumby’s Technology and Engineering team builds the platforms, pipelines and systems that make customer data science possible at scale. From the data infrastructure that ingests billions of transactions to the APIs and cloud architecture that power our products, we engineer reliable, high-performance software trusted by the world’s leading retailers and brands.
+
+About the Role
+
+As our Configuration & Release Readiness Lead, you’ll ensure that continuously deployed functionality is technically and operationally ready before it is released to clients.
+
+You’ll coordinate the engineering activity required to move capabilities from deployed but inactive to demonstrably ready for controlled exposure. This spans tenant-specific configuration, permissions, feature controls, cross-service dependencies, observability, validation evidence, supportability and technical release controls.
+
+The role is particularly important as our platform moves towards continuous deployment and supports a growing number of client environments. You’ll establish the consistent governance and evidence needed to make informed release decisions while improving release quality, predictability and operational outcomes.
+
+What You’ll Be Doing
+
+
+You’ll provide a single engineering view of release readiness, bringing together the evidence, dependencies and decisions required for safe and controlled releases.
+Own release-readiness governance, defining criteria, evidence standards and decision points, facilitating reviews and making clear readiness recommendations.
+Assure tenant and configuration readiness, verifying that configuration, permissions, mappings, feature controls and dependencies are accurate, approved, traceable and consistent across services and environments.
+Coordinate technical and operational validation, including integration, default behaviours, failure modes, rollback and disablement mechanisms.
+Confirm support readiness, ensuring monitoring, observability, success measures, runbooks, documentation and recovery procedures are established before exposure.
+Improve release outcomes, using release experience, incidents and learning to strengthen controls, measurement and predictability across Engineering, Product, Platform, Security, Data and Operations.
+
+
+What We’re Looking For
+
+
+You’ll be someone who brings structure, evidence and sound judgement to complex technical decisions. You’ll understand how software moves safely from deployment to release and communicate clearly across teams without needing to own each participating function directly.
+Experience coordinating complex releases within a B2B SaaS, software platform or enterprise product environment.
+Strong understanding of continuous deployment, progressive delivery, feature flags and configuration-driven systems.
+Knowledge of configurable customer environments, including single-tenant or multi-tenant models and dependencies across microservices, data flows, permissions and platform components.
+Structured readiness and risk management, covering evidence, exceptions, dependencies, operational support and informed release decisions.
+Clear technical communication, with the confidence to coordinate Engineering, Product, Platform and Operations stakeholders around blockers, remediation and readiness status.
+
+
+You’ll Thrive If You…
+
+
+Bring systems thinking and close attention to configuration and operational detail.
+Understand practices such as configuration-as-code, GitOps, CI/CD, observability, SRE and service ownership.
+Are familiar with feature-management standards or platforms such as OpenFeature, LaunchDarkly or equivalent.
+Look for opportunities to automate validation and strengthen configuration-assurance controls.
+
+
+What You Can Expect From Us
+
+We won't just meet your expectations. We'll defy them. So you'll enjoy the comprehensive rewards package you'd expect from a leading technology company. But also, a degree of personal flexibility you might not expect. Plus, thoughtful perks, like flexible working hours and your birthday off.
+
+And we don't just talk about diversity and inclusion. We live it every day – with thriving networks including dh Gender Equality Network, dh Proud, dh Family, dh One, dh Enabled and dh Thrive as the living proof. We want everyone to have the opportunity to shine and perform at your best throughout our recruitment process — please let your recruiter know what adjustments would help.
+
+UK Benefits
+
+
+Healthcare & Protection: Flexible allowance, private medical insurance through Vitality, life assurance, partner life assurance, income protection and critical illness cover.
+Pension: Aviva pension scheme with up to 7.5% employer matching.
+Wellbeing: Access to the Wellness Hub and confidential employee assistance support services.
+Lifestyle Benefits: Car leasing, Cycle to Work scheme, technology purchase options and additional voluntary benefits.
+Time Off: Annual holiday allowance, public holidays, the option to purchase additional leave, loyalty days and a birthday day off.
+Additional Recognition: Long service awards and Talent Scout referral rewards.
+
+
+
+
+Our approach to Flexible Working
+
+At dunnhumby, we value and respect difference and are committed to building an inclusive culture by creating an environment where you can balance a successful career with your commitments and interests outside of work.
+
+We believe that you will do your best at work if you have a work / life balance. Some roles lend themselves to flexible options more than others, so if this is important to you please raise this with your recruiter, as we are open to discussing agile working opportunities during the hiring process.
+
+For further information about how we collect and use your personal information please see our Privacy Notice which can be found (here)
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Technology, Information and Media
+  
+
+Referrals increase your chances of interviewing at dunnhumby by 2x
+
+See who you know
+
+Get notified about new Configuration Specialist jobs in London, England, United Kingdom.
+
+Sign in to create job alert
+Similar jobs
+Technical Configuration Manager
+Technical Configuration Manager
+Wayve
+London, England, United Kingdom
+2 weeks ago
+CI/CD & Release Automation Lead
+CI/CD & Release Automation Lead
+WTW
+Reigate, England, United Kingdom
+1 week ago
+Head of Release - Cambridge
+Head of Release - Cambridge
+Global Payments Inc.
+Cambridge, England, United Kingdom
+1 week ago
+Change & Release Manager, AWS ProServe UKGI
+Change & Release Manager, AWS ProServe UKGI
+Amazon Web Services (AWS)
+London, England, United Kingdom
+1 week ago
+Release Manager
+Release Manager
+IO Interactive
+Brighton, England, United Kingdom
+1 week ago
+Salesforce Release Manager
+Salesforce Release Manager
+Sopra Steria
+London, England, United Kingdom
+5 days ago
+Show more jobs like this 
+People also viewed
+Senior Build Tools Engineer
+Senior Build Tools Engineer
+
+SEGA Europe
+
+Horsham, England, United Kingdom
+5 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Pacific Life
+
+London, England, United Kingdom
+1 week ago
+Configuration Manager - Principal/Associate
+Configuration Manager - Principal/Associate
+
+AtkinsRéalis
+
+London, England, United Kingdom
+7 months ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Pacific Life Re
+
+London, England, United Kingdom
+1 week ago
+Principal Technical Delivery Readiness Manager, Advanced Services (Professional Services) - UK
+Principal Technical Delivery Readiness Manager, Advanced Services (Professional Services) - UK
+
+Everpure
+
+London, England, United Kingdom
+2 weeks ago
+Configuration Management Analyst
+Configuration Management Analyst
+
+Lockheed Martin
+
+Ampthill, England, United Kingdom
+£44,000 - £54,500
+3 weeks ago
+Technical Project Manager (Release Train Engineer)
+Technical Project Manager (Release Train Engineer)
+
+EPAM Systems
+
+London, England, United Kingdom
+1 month ago
+Test & Release Manager
+Test & Release Manager
+
+Monument Technology
+
+London, England, United Kingdom
+3 weeks ago
+Senior Director Release Management
+Senior Director Release Management
+
+IFS
+
+London, England, United Kingdom
+2 weeks ago
+Release Train Engineer
+Release Train Engineer
+
+EDF (UK)
+
+London, England, United Kingdom
+8 hours ago
+Similar Searches
+Senior Configuration Analyst jobs
+2,225 open jobs
+Configuration Engineer jobs
+21,560 open jobs
+Purchasing Engineer jobs
+3,470 open jobs
+Configuration Analyst jobs
+2,372 open jobs
+Configurator jobs
+21,780 open jobs
+Incident Management Specialist jobs
+2,287 open jobs
+Middleware Engineer jobs
+2,212 open jobs
+Network Designer jobs
+1,966 open jobs
+Configuration Management Engineer jobs
+181 open jobs
+Advertising Operations Manager jobs
+38 open jobs
+Internet Marketing Assistant jobs
+4,392 open jobs
+Network Infrastructure Engineer jobs
+2,312 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
