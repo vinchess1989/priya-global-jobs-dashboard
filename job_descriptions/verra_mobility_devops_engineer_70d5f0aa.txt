@@ -1,0 +1,111 @@
+Title: DevOps Engineer
+Company: Verra Mobility
+Location: Melbourne VIC, Australia
+URL: https://au.jora.com/job/DevOps-Engineer-35bbc59469035016b56b23aaec320dd7
+Posted: 1mo ago
+Deadline: N/A
+Reason: The job as a DevOps Engineer at Verra Mobility in Melbourne, Australia aligns with Priya's expertise in CI/CD pipelines, Infrastructure as Code (Terraform), and AWS/Kubernetes, along with her regulated-industry experience and target location.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Search
+Sign in
+What
+Where
+Search jobs
+DevOps Engineer
+Verra Mobility
+–
+Melbourne VIC
+Hybrid
+1mo ago, from Verra Mobility
+Apply on company site
+
+Verra Mobility is a global leader in smart mobility, developing technology-driven solutions that help make transportation safer and more efficient. Our platforms support government, enforcement, tolling and commercial mobility customers across Australia, North America and Europe.
+
+As we continue to expand and modernise our cloud platforms, we are looking for a DevOps Engineer to join our SaaS Operations Support team in South Melbourne.
+
+This is a hands-on role with genuine production ownership. You will operate and improve AWS-hosted SaaS platforms, strengthen automation and deployment capability, support Kubernetes environments and contribute to broader platform modernisation initiatives across APAC.
+
+The role
+
+As a DevOps Engineer at Verra Mobility, you will:
+
+Build, operate and improve AWS infrastructure across services including EKS, EC2, RDS, Lambda, IAM, S3 and Route 53.
+Manage Kubernetes workloads and the EKS platform lifecycle, including upgrades, deployments, troubleshooting and operational stability.
+Build and improve CI/CD pipelines using tools such as GitHub Actions and Bamboo.
+Develop and maintain reusable Infrastructure as Code using Terraform, CloudFormation or similar technologies.
+Monitor platform performance and availability using New Relic, Prometheus and Grafana.
+Lead and support P1/P2 production incident response, root cause analysis and preventative actions.
+Contribute to platform reliability, automation, scalability, security and operational improvement initiatives.
+Work closely with engineering, product and support teams within an agile delivery environment.
+Participate in the DevOps on-call roster, providing out-of-hours support for critical production incidents.
+
+What you bring
+
+3+ years' experience in DevOps, Cloud Engineering, Site Reliability Engineering or a similar role.
+Strong hands-on AWS experience within production environments.
+Practical experience with Kubernetes, ideally Amazon EKS.
+Strong Infrastructure as Code capability using Terraform, CloudFormation or similar.
+Experience building and supporting CI/CD pipelines.
+Scripting capability using Shell, Python or PowerShell.
+Linux administration experience.
+A sound understanding of networking, cloud security, IAM and infrastructure fundamentals.
+Experience supporting highly available, customer-facing or SaaS platforms.
+Strong troubleshooting skills and the ability to work effectively during production incidents.
+
+Experience with tools such as Git, GitHub Actions, Bamboo, Jira, SonarQube, Veracode, New Relic, Prometheus and Grafana will be well regarded.
+
+Why Verra Mobility?
+
+You will work on technology that supports real-world transport and public safety outcomes, with exposure to both modern cloud-native architecture and established production platforms.
+
+The role offers:
+
+Broad technical ownership across cloud infrastructure and platform operations.
+Exposure to major customer and technology initiatives across APAC.
+Opportunities to improve automation, reliability and engineering practices.
+A collaborative international technology environment.
+Hybrid working from our South Melbourne office and home.
+
+Our values
+
+Our values guide how we work and make decisions:
+
+Do What’s Right | Choose Courage Over Comfort | Win Together | Own It
+
+To apply, submit your resume and a cover letter outlining your relevant experience.
+
+We value the unique backgrounds, experiences, and contributions that each person brings to our community and encourage and celebrate diversity. First Nations people, those identifying as LGBTQIA+, females, people of all ages, with disabilities and culturally and linguistically diverse people are encouraged to apply. Our aim is to create a workforce that reflects the community in which we live.
+
+Apply on company site
+Be careful - Don’t provide your bank or credit card details when applying for jobs. Don't transfer any money or complete suspicious online surveys. If you see something suspicious, report this job ad.
+Email to yourself or a friend
+Email job
+Discover Jora
+Browse jobs
+Browse salaries
+Find recruiter
+About
+FAQ
+Blog
+Reviews
+Browse Jobs in Australia
+Jobs in Sydney
+Jobs in Melbourne
+Jobs in Hobart
+Jobs in Brisbane
+Jobs in Perth
+Jobs in Darwin
+Jobs in Adelaide
+Connect with us
+TikTok
+Facebook
+Linkedin
+Get Jora app
+Contact us
+Privacy
+Terms & Conditions
+©2026 Job Seeker Pty Ltd
