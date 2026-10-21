@@ -1,0 +1,247 @@
+Title: Senior Release Engineer
+Company: Danaher
+Location: Bengaluru East, Karnataka, India
+URL: https://in.linkedin.com/jobs/view/senior-release-engineer-at-danaher-4477394670
+Posted: 2026-10-17
+Deadline: N/A
+Reason: The job aligns with Priya's expertise in release engineering, CI/CD, and cross-functional coordination, matches her target location (India), and fits the mid-to-senior experience level with regulated compliance elements.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Release Engineer
+Danaher  Bengaluru East, Karnataka, India
+4 days ago  42 applicants
+  
+
+See who Danaher has hired for this role
+
+Apply 
+Save
+Bring more to life.
+
+At Danaher, our work saves lives. And each of us plays a part. Fueled by our culture of continuous improvement, we turn ideas into impact, innovating at the speed of life.
+
+Our 60,000+ associates work across the globe at more than 15 unique businesses within life sciences, diagnostics, and biotechnology.
+
+Are you ready to accelerate your potential and make a real difference? At Danaher, you can build an incredible career at a leading science and technology company, where we are committed to hiring and developing from within. You will thrive in a culture of belonging where you and your unique viewpoint matter.
+
+Learn Danaher Business System, which makes everything possible.
+
+The Senior Release Engineer owns the planning, coordination, governance, and continuous improvement of releases across Danaher's Enterprise Data Platform, including Snowflake, Azure, Matillion, dbt, Airflow, GitHub, and related data services. This role orchestrates releases across platform, data engineering, operations, security, and OpCo teams, ensuring changes are tested, approved, traceable, communicated, and deployed with minimal business disruption. The Release Manager strengthens release discipline through automation, standard controls, metrics, and pragmatic delivery practices while supporting both planned releases and urgent production changes.
+
+This position reports to the Director - Data Platform and Operations and is part of the Enterprise Data Engineering team located in the Bangalore IDC office. The specific working arrangement will be confirmed by the interview team.
+
+In This Role, You Will Have The Opportunity To
+
+
+Lead end-to-end release management and governance for the data platform, including release planning, scope, schedules, dependencies, readiness reviews, go/no-go decisions, change approvals, production readiness checks, deployments, validation, rollback, hypercare, closure activities, and post-release reviews with clear decision tracking and accountability.- Coordinate cross-functional delivery and stakeholder alignment by partnering with platform engineering, data engineering, DataOps, architecture, security, service management, vendors, and OpCo teams to manage dependencies, mitigate risks, represent releases at Change Approval Boards, ensure adherence to DHR standard processes, and align release trains with enterprise platform priorities, data product delivery, compliance commitments, and OpCo onboarding.- Establish and continuously improve release processes, standards, and automation by defining and maintaining release calendars, checklists, entry and exit criteria, deployment and rollback plans, runbooks, evidence requirements, and release reporting, while advancing GitHub Actions, CI/CD, GitOps, automated testing, environment promotion, and deployment controls.- Ensure change, risk, compliance, and production stability management by enforcing change-management, segregation-of-duties, security, audit, compliance, and emergency change requirements; coordinating release windows, production validation, incident handoffs, rollback decisions, and release communications to minimize failed changes and service disruptions.- Drive release transparency, performance measurement, and continuous improvement through stakeholder communications, reporting of release status, milestones, dependencies, risks and decisions, and by leveraging release outcomes, defects, incidents, lead time, deployment frequency, rollback trends, and lessons learned to improve delivery reliability, efficiency, and operational excellence.
+
+
+The Essential Requirements Of The Job Include
+
+
+5+ years of progressive experience in release management, change management, platform operations, software delivery, or related technology disciplines, including responsibility for coordinating enterprise production releases across complex technology environments.- Proven experience managing releases across cloud, data, or software platforms, working across multiple teams, environments, dependencies, and stakeholder groups while balancing competing priorities and ensuring successful delivery outcomes.- Strong technical understanding of modern data platform technologies, including Snowflake, Azure, Matillion, dbt, and Apache Airflow, with the ability to assess deployment dependencies, operational impacts, and production risks.- Hands-on knowledge of modern software delivery and change-control practices, including GitHub Enterprise or comparable source-control platforms, CI/CD methodologies, branching and promotion strategies, automated testing, deployment approvals, rollback procedures, and IT service management/change processes using ServiceNow or equivalent tools, including standard, normal, and emergency changes.- Exceptional planning, facilitation, documentation, risk management, and communication skills, with the ability to coordinate multiple releases, translate complex technical release information into concise status, readiness, risk, and decision communications for both engineering teams and executive leadership; Bachelor's degree in Computer Science, Information Systems, Engineering, Business, or a related discipline, or equivalent professional experience.
+
+
+Travel, Motor Vehicle Record & Physical/Environment Requirements
+
+
+Ability to travel up to 10% domestically and occasionally internationally for team meetings, planning workshops, vendor engagements, and OpCo collaboration.
+
+
+It would be a plus if you also possess previous experience in:
+
+
+Release management for regulated or audit-sensitive platforms under SOX, SOC 1/2, GxP, privacy, or similar control frameworks.
+GitOps, reusable GitHub Actions workflows, automated quality gates, artifact versioning, and progressive delivery practices.
+Data platform observability, incident management, problem management, disaster recovery, and operational readiness.
+Coordinating releases in a multi-OpCo, multi-tenant, or federated enterprise environment.
+Certifications such as ITIL 4, SAFe, Scrum.
+
+
+Join our winning team today. Together, we’ll accelerate the real-life impact of tomorrow’s science and technology. We partner with customers across the globe to help them solve their most complex challenges, architecting solutions that bring the power of science to life.
+
+For more information, visit www.danaher.com.
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Industries
+Biotechnology Research
+  
+
+Referrals increase your chances of interviewing at Danaher by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Build And Release Engineer jobs
+Senior Release Engineer
+Similar jobs
+Senior Release Engineer
+Senior Release Engineer
+GitLab
+Bengaluru, Karnataka, India
+3 days ago
+Senior Release Engineer
+Senior Release Engineer
+InvestCloud, Inc.
+Bengaluru, Karnataka, India
+2 weeks ago
+Senior Platform Engineer - Release & Platform Engineering
+Senior Platform Engineer - Release & Platform Engineering
+OutSystems
+Bengaluru, Karnataka, India
+2 weeks ago
+Senior Customer Release Engineer
+Senior Customer Release Engineer
+SiFive
+Bengaluru, Karnataka, India
+3 months ago
+Member of Technical Staff - Lead Release Engineer (Production Engineering)
+Member of Technical Staff - Lead Release Engineer (Production Engineering)
+Everpure
+Bengaluru, Karnataka, India
+2 weeks ago
+Senior Build and Release Methodology Engineer
+Senior Build and Release Methodology Engineer
+NVIDIA
+Bengaluru, Karnataka, India
+2 days ago
+Show more jobs like this 
+People also viewed
+Sr. Software DevOps Engineer
+Sr. Software DevOps Engineer
+
+Nordson Corporation
+
+Bengaluru, Karnataka, India
+1 week ago
+Lead Software Engineer (NRT+RM)
+Lead Software Engineer (NRT+RM)
+
+Societe Generale Global Solution Centre
+
+Bengaluru, Karnataka, India
+1 week ago
+Engineer, Platform Reliability & Performance [T500-29839]
+Engineer, Platform Reliability & Performance [T500-29839]
+
+Abercrombie & Fitch Co.
+
+Bengaluru, Karnataka, India
+2 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Skylo
+
+Bengaluru, Karnataka, India
+1 week ago
+SAP Release Manager
+SAP Release Manager
+
+Cognizant
+
+Bangalore Urban, Karnataka, India
+2 weeks ago
+SAP Release Engineer
+SAP Release Engineer
+
+Festo India
+
+Greater Bengaluru Area
+3 weeks ago
+Architect II - DevOps
+Architect II - DevOps
+
+Philips
+
+Bengaluru, Karnataka, India
+21 hours ago
+Senior DevOps Engineer I (Automation)
+Senior DevOps Engineer I (Automation)
+
+Smartsheet
+
+Bengaluru East, Karnataka, India
+2 months ago
+Build and Release Manager
+Build and Release Manager
+
+Neuron7.ai
+
+Bengaluru, Karnataka, India
+3 weeks ago
+Assistant Manager - DevOps/DevSecOps Engineer
+Assistant Manager - DevOps/DevSecOps Engineer
+
+BNP Paribas
+
+Bengaluru, Karnataka, India
+5 days ago
+Similar Searches
+Build And Release Engineer jobs
+3,712 open jobs
+Release Engineer jobs
+3,467 open jobs
+Configuration Management Engineer jobs
+325 open jobs
+Performance Test Lead jobs
+624 open jobs
+Change And Release Manager jobs
+184 open jobs
+Software Release Engineer jobs
+346 open jobs
+Design Release Engineer jobs
+1,379 open jobs
+Senior Firmware Engineer jobs
+914 open jobs
+Release Manager jobs
+5,638 open jobs
+Performance Test Engineer jobs
+555 open jobs
+Portfolio Assistant jobs
+2,392 open jobs
+Automation Test Analyst jobs
+975 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
