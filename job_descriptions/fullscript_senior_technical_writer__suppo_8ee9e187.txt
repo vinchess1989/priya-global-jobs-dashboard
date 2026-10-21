@@ -1,0 +1,355 @@
+Title: Senior Technical Writer, Support Documentation
+Company: Fullscript
+Location: Toronto, Ontario, Canada
+URL: https://ca.linkedin.com/jobs/view/senior-technical-writer-support-documentation-at-fullscript-4480841933
+Posted: 2026-10-18
+Deadline: N/A
+Reason: The role aligns with Priya's background as a Technical Communication Specialist and her experience in documentation ownership, meeting all target job criteria including location (Toronto, Canada), senior-level experience, and English-language requirements.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Technical Writer, Support Documentation
+Fullscript  Toronto, Ontario, Canada
+3 days ago  40 applicants
+  
+
+See who Fullscript has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+About Fullscript
+
+We’re an industry-leading health technology company on a mission to help people get better. We started in 2011 with one simple idea. Make it easier for practitioners to access the products they trust so they can deliver better care.
+
+That simple idea grew into a platform that powers every part of care. Today, more than 125,000 practitioners use Fullscript for clinical insights, lab interpretations, patient analytics, education, and access to high-quality supplements. Over 10 million patients rely on Fullscript to stay connected to their care plans and follow through on treatment.
+
+We build tools that make care smarter and more human. Tools that save time, simplify decisions, and help practitioners stay closely connected to the people they care for. When everything they need is in one place, they can focus on what matters most: helping people get better.
+
+This is your invitation.
+
+Bring your ideas, your grit, and your care for people.
+
+Join us and shape the future of care.
+
+The Opportunity
+
+The Senior Technical Writer owns documentation for one or more product areas of the Fullscript platform, and partners on the content strategy behind how the Support Center as a whole is structured. It has grown alongside a platform that evolves quickly. Expect a mix of mature documentation to maintain and refine, and newer product surfaces where you decide what should exist at all.
+
+This role reports to the Manager, Support Documentation, and is a primary partner on content strategy. You are comfortable deciding how content is structured so people can find it, where the line falls between self-service and a conversation with a support agent, which numbers the work should move, and what to stop doing. The work stays hands-on. You will keep writing and editing documentation alongside the structural work.
+
+The Support Center is the source of truth for platform knowledge, whether the reader is a practitioner, a patient, or one of our own support agents. An error in it reaches every audience at once, and content has to hold up for someone scanning a page as much as for a system pulling a single answer out of it.
+
+What you'll do
+
+Documentation ownership
+
+
+Own the content lifecycle for your product areas, from planning and drafting through maintenance and retirement, across every audience those areas touch.
+Document complex platform behavior, including integrations, identity and permissions, and net-new features with no existing content model to build on.
+Answer the question the reader arrived with, and where it genuinely helps, surface the adjacent capability they did not know existed.
+Use AI-assisted authoring to draft, summarize, and audit, then validate the output against the product before it publishes.
+
+
+
+Information architecture and content strategy
+
+
+Partner with the Manager, Support Documentation, to design and evolve the information architecture of the Support Center: taxonomy, content types, navigation, and the metadata schema underneath them.
+Identify when a new feature makes existing documentation inconsistent or redundant, and lead the consolidation rather than layering new content on top.
+Monitor documentation effectiveness through self-service resolution, search performance, feature adoption, and support contact volume on documented topics, and prioritize work based on what those show.
+Produce AI-ready content: topics that still make sense when a system pulls one out on its own, consistent semantic markup, and metadata complete enough to route a question to the right answer.
+Use insights on where AI-assisted support returns wrong answers to prioritize the content fixes that follow, and negotiate that work against everything else in the queue.
+
+
+
+Release scoping and cross-functional collaboration
+
+
+Gather and validate technical information ahead of a release, partnering with Product Management, Product Marketing, Engineering, and whichever subject matter experts (SMEs) own the detail, and translate what you learn into documentation.
+Work with support managers and frontline agents to find where customers get stuck, and use what they see to decide what gets documented and at what depth. Flag for Product when a pattern points at the product rather than the content.
+Produce an impact assessment for each release: which existing content becomes inaccurate, which audiences are affected, and who owns each open question.
+Identify what readers will need that the product specification does not address, and pursue those questions to an answer rather than documenting around the gap.
+Scope and size the releases nobody else can take yet, flag what will not fit early enough for someone to make a call, and grow the team's scoping until writers handle their own domains unaided.
+
+
+
+Standards, quality, and governance
+
+
+Model and enforce the style guide, editorial policy, and content quality standard, and keep them current as the platform changes.
+Maintain consistent terminology across the Support Center: a controlled vocabulary of approved terms, the variants to avoid, and definitions SMEs have signed off on.
+Improve content operations: templates and content types, SME review and approval workflows, and a review cadence driven by risk, usage, and feedback rather than by article age.
+Govern the entire Support Center, including content the team does not author: taxonomy and metadata consistency, deduplication, and a defined path from published to deprecated to archived with redirects in place.
+
+
+
+Peer review and mentorship
+
+
+Provide peer review and mentorship on craft, and be the editorial resource other writers come to.
+Bring other writers into release scoping and walk them through how you got to the impact assessment.
+
+
+
+What You Bring To The Table
+
+
+5+ years writing technical or support documentation for SaaS platforms or complex software environments.
+Direct experience changing the structure of a documentation set, knowledge base, or help center, not only working within one.
+Strong writing skills, with the ability to turn complex technical behavior into accurate, scannable documentation, and to write the same information at the right depth for a practitioner, a patient, or a support agent.
+Comfortable working from incomplete information. You can define the documentation plan for a release that is still taking shape instead of waiting for a finished brief.
+Experience with content modeling and single-sourcing, so a fact lives in one place rather than being maintained across a dozen articles.
+Proficiency in a modern content management system, including its structured fields and metadata rather than only its authoring view.
+Comfort with AI-assisted authoring, and an interest in why a well-written article can still produce a wrong answer.
+
+
+
+Bonus if you have
+
+
+Healthcare, clinical, or other regulated software documentation experience
+Experience with knowledge management practices where support agents contribute and improve content as they resolve cases.
+Experience improving how content gets found, through on-site search relevance, query analysis, or external ranking.
+Documenting integrations across a partner ecosystem, where behavior differs from one integration to the next.
+Experience with a component content management system (CCMS) such as Paligo, Heretto, or IXIASOFT, or with structured authoring in DITA.
+Taxonomy or ontology work, including knowledge graphs and the entity relationships underneath them.
+Prior work grounding a knowledge base for retrieval-augmented generation (RAG) or an AI support assistant, including how you measured whether the answers came back right.
+Prompt design, or a working view of where AI-generated drafts reliably fall short.
+
+
+
+What We Can Offer You
+
+
+Remote-first flexibility to work where you work best, with Ottawa, Toronto, or Calgary preferred for this role.
+Flexible PTO and competitive pay, because work-life balance matters
+RRSP/401k match and competitive compensation packages to invest in your future
+Premium benefits package with customizable coverage, paramedical services, and an HSA.
+Fullscript discounts to save on high-quality wellness products
+Continuous learning opportunities to grow your skills and career
+
+
+
+Compensation Range
+
+The salary range for this role is between $75,000 and $90,000 (CAD). Fullscript shares salary ranges to support transparency and help candidates make informed decisions. The range shown reflects base salary only. The range shown reflects base salary only. Additional incentives, perks, and benefits may be available as part of Fullscript’s total rewards package.
+
+Final compensation depends on experience, skills, and location. We review pay regularly to stay aligned with market data and internal equity. Benefits and total rewards may vary by region.
+
+Why Fullscript
+
+Great work happens when people feel supported, trusted, and inspired. At Fullscript, we stay curious and keep finding smarter ways to make care better. We grow together, take on new challenges, and focus on impact. We put people first, work as a team, and leave egos at the door.
+
+What To Know Before You Apply
+
+We’re grateful for the interest in joining Fullscript. To make sure your application reaches our hiring team, please apply directly through our careers page.
+
+A quick note: Due to the high volume of applications, we’re not able to respond to phone or email inquiries about application status. If there’s a match, our team will reach out directly.
+
+Fullscript is an equal opportunity employer committed to creating an inclusive workplace. Accommodations are available upon request at accommodations@fullscript.com.
+
+All offers are contingent on successful background checks conducted in compliance with federal, state, and provincial laws.
+
+We use AI tools to support parts of the hiring process, including screening and reviewing responses. Final hiring decisions are always made by people and follow all applicable privacy and employment laws in Canada and the U.S.
+
+Learn More
+
+www.fullscript.com
+
+@fullscriptHQ on instagram
+
+@fullscript on YouTube
+
+FullScript on LinkedIn
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Industries
+Health and Human Services
+  
+
+Referrals increase your chances of interviewing at Fullscript by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Lead Technical Writer jobs
+Senior Technical Writer, Support Documentation
+Similar jobs
+Staff Technical Writer | Remote | Canada
+Staff Technical Writer | Remote | Canada
+Grafana Labs
+Greater Toronto Area, Canada
+1 day ago
+Technical Writer
+Technical Writer
+Braze
+Toronto, Ontario, Canada
+22 hours ago
+Technical Writer
+Technical Writer
+Interac Corp.
+Toronto, Ontario, Canada
+2 days ago
+Technical Writer
+Technical Writer
+ZenaTech Inc.
+Toronto, Ontario, Canada
+CA$60,000 - CA$70,000
+2 weeks ago
+Technical Writer
+Technical Writer
+FNZ
+Toronto, Ontario, Canada
+1 week ago
+Product Knowledge Base Technical Writer
+Product Knowledge Base Technical Writer
+Survalent
+Greater Toronto Area, Canada
+3 weeks ago
+Show more jobs like this 
+People also viewed
+Content Developer
+Content Developer
+
+SOTI
+
+Mississauga, Ontario, Canada
+1 week ago
+RÉDACTEUR, EXPÉRIENCE D’UTILISATEUR – CAN
+RÉDACTEUR, EXPÉRIENCE D’UTILISATEUR – CAN
+
+The Home Depot Canada
+
+Toronto, Ontario, Canada
+4 days ago
+Analyste QA / Documentation / Formation / Support - Jumeau numérique
+Analyste QA / Documentation / Formation / Support - Jumeau numérique
+
+TEHORA inc.
+
+Toronto, Ontario, Canada
+2 months ago
+Technical Specification Engineer
+Technical Specification Engineer
+
+Brandt Group of Companies
+
+Mississauga, Ontario, Canada
+4 weeks ago
+Technical Specification Engineer
+Technical Specification Engineer
+
+Brandt Group of Companies
+
+Stoney Creek, Ontario, Canada
+4 weeks ago
+Digital Content Specialist
+Digital Content Specialist
+
+Fidelity Canada
+
+Mississauga, Ontario, Canada
+1 week ago
+Technical Solutions Engineer
+Technical Solutions Engineer
+
+Coinme
+
+Toronto, Ontario, Canada
+1 month ago
+Senior Technical Writing Ecologist
+Senior Technical Writing Ecologist
+
+WSP in Canada
+
+Toronto, Ontario, Canada
+5 days ago
+Senior Editor, AI and Technology, Deloitte Global Insights
+Senior Editor, AI and Technology, Deloitte Global Insights
+
+Deloitte
+
+Toronto, Ontario, Canada
+1 week ago
+AI Enablement Specialist
+AI Enablement Specialist
+
+Simon-Kucher
+
+Toronto, Ontario, Canada
+2 weeks ago
+Similar Searches
+Lead Technical Writer jobs
+253 open jobs
+Contract Technical Writer jobs
+123 open jobs
+Information Developer jobs
+14,724 open jobs
+Documentation Manager jobs
+2,050 open jobs
+Technical Writer jobs
+1,614 open jobs
+Senior Content Developer jobs
+273 open jobs
+Senior Proposal Writer jobs
+261 open jobs
+Senior Business Process Analyst jobs
+1,811 open jobs
+Documentation Engineer jobs
+1,410 open jobs
+Technical Editor jobs
+323 open jobs
+Technical Illustrator jobs
+540 open jobs
+Writer jobs
+1,376 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Fullscript
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
