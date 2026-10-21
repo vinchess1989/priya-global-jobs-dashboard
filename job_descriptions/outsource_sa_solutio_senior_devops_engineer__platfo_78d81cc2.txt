@@ -1,0 +1,238 @@
+Title: Senior DevOps Engineer (Platform Foundations & Enablement)
+Company: Outsource SA Solutions (Pty) Ltd
+Location: South Africa
+URL: https://www.pnet.co.za/jobs--Senior-DevOps-Engineer-Platform-Foundations-Enablement-Outsource-SA-Solutions-Pty-Ltd--4291618-inline.html
+Posted: 2026-10-17
+Deadline: N/A
+Reason: The job matches as a Senior DevOps Engineer role in South Africa (a target country), aligning with her experience in CI/CD, platform enablement, and regulated environments.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Find a job
+Post a job
+Sign up
+Tired of searching? Let’s find you the right jobs faster
+Get Started
+Find Jobs
+Senior DevOps Engineer (Platform Foundations & Enablement)
+Outsource SA Solutions (Pty) Ltd
+Fixed Term, Permanent, Temp with possibility of going permanent, Temporary
+Full Time
+Published: 4 days ago
+EE/AA, Non EE/AA
+I'm interested
+Save
+Senior DevOps Engineer (Platform Foundations & Enablement)
+Outsource SA Solutions (Pty) Ltd
+I'm interested
+Introduction
+
+Our client in the financial services sector is establishing a shared Technology Platform to provide common engineering, deployment, security, integration, and operational capabilities to multiple delivery teams.
+
+The platform will enable teams to build once and deploy consistently across on-premises, private cloud, and AWS environments while consuming standardised platform services and engineering controls. The objective is to eliminate duplicated technology effort, improve engineering consistency, and accelerate delivery across the estate.
+
+The successful candidate will serve as a senior technical resource within the Platform Engineering function and will be responsible for establishing foundational capabilities across Developer Enablement, Engineering Standards, Deployment Automation, and the initial onboarding of workloads onto the target Kubernetes runtime platforms. The role will also provide technical leadership and mentoring to future engineers joining the platform team.
+
+Duties & Responsibilities
+
+Establish the foundational engineering platform consumed by multiple delivery teams.
+
+Define and implement platform standards, engineering patterns, and reusable capabilities.
+
+Develop self-service onboarding capabilities for platform consumers.
+
+Establish platform governance, access controls, and operating standards.
+
+Create reusable engineering assets that reduce duplication across teams.
+
+ 
+
+CI/CD and Engineering Standards
+
+Design and implement standard GitHub repository structures.
+
+Implement branch protection, repository governance, and code ownership models.
+
+Build and maintain reusable GitHub Actions workflows.
+
+Design and maintain reusable "golden workflows" and engineering templates consumed by feature teams.
+
+Implement security and quality gates within CI/CD pipelines.
+
+Establish software supply chain controls and artifact management practices.
+
+Implement SAST, SCA, DAST, container scanning, and secrets scanning controls.
+
+ 
+
+Deployment Automation & GitOps
+
+Implement GitOps deployment patterns using ArgoCD.
+
+Build and maintain Helm deployment standards.
+
+Configure automated environment promotion pipelines.
+
+Support release orchestration using Octopus Deploy.
+
+Define deployment governance, approval workflows, and rollback mechanisms.
+
+Enable consistent deployments across Kubernetes and VM-based workloads.
+
+ 
+
+Kubernetes & Runtime Enablement
+
+Support onboarding of workloads onto Rancher and AWS EKS platforms.
+
+Implement Kubernetes deployment standards and operational patterns.
+
+Configure RBAC, namespaces, security controls, and deployment guardrails.
+
+Support Infrastructure-as-Code implementation and automation.
+
+Enable hybrid deployment patterns across AWS, on-premises, and private cloud environments.
+
+ 
+
+Platform Leadership
+
+Act as a senior engineering anchor within the platform team.
+
+Mentor future DevOps and Platform Engineers.
+
+Provide technical guidance to delivery teams adopting platform capabilities.
+
+Participate in architecture, governance, and engineering standards discussions.
+
+Collaborate with Architecture, Operations, and Feature Teams to onboard workloads and evolve platform capabilities.
+
+Desired Experience & Qualification
+
+6–8 years experience in software engineering, infrastructure engineering, cloud engineering, or DevOps.
+
+5 years practical DevOps or Platform Engineering experience.
+
+3 years Kubernetes (KaaS) administration and deployment experience.
+
+Experience implementing enterprise CI/CD platforms and Infrastructure-as-Code solutions.
+
+Experience supporting production environments and developing reusable engineering automation.
+
+Experience working within regulated enterprise environments.
+
+ 
+
+Preferred Experience:
+
+Financial Services / Trading Technology experience.
+
+Hybrid cloud experience.
+
+Experience supporting large-scale engineering organisations.
+
+ 
+
+Technical Skills Required
+
+Source Control & Developer Enablement: GitHub Enterprise, Repository Governance, Branch Protection, CODEOWNERS, RBAC, Git Workflows
+
+CI/CD & Automation: GitHub Actions, CI/CD Pipeline Development, Automated Testing, Software Supply Chain Security, Artifact Management (Nexus Repository Manager or equivalent)
+
+DevSecOps: SAST, SCA, DAST, Container Security Scanning, Secrets Scanning, Security Gates
+
+Deployment Automation: ArgoCD, GitOps, Helm, Octopus Deploy, Environment Promotion
+
+Kubernetes & Cloud: Kubernetes / KaaS, Rancher, AWS EKS, Container Platforms, Linux Administration
+
+Infrastructure as Code: Terraform (Mandatory)
+
+Desirable / Advantageous: CyberArk, AWS Secrets Manager, Entra ID, Ping Identity, OpenTelemetry, Prometheus, Grafana, Loki, Tempo, Kafka, IBM MQ, Solace, PostgreSQL
+
+Package & Remuneration
+
+TBD
+
+Interested?
+I'm interested
+Outsource SA Solutions (Pty) Ltd
+2 Jobs
+These jobs were popular with other job seekers
+Senior DevOps Engineer
+Psybergate (Pty) Ltd
+JHB - Northern Suburbs
+just now
+Senior Information Security Analyst
+Datonomy Solutions
+Sandton
+just now
+Senior DevOps Support Engineer (Johannesburg or Cape Town)
+Elite Search & Selection
+Johannesburg
+just now
+Senior JAVA Salesforce Developer - SANDTON (Hybrid) - R1.6m PA
+E-Merge IT Recruitment
+Sandton
+just now
+Senior Java Full Stack Engineer - SANDTON (Hybrid) - R1.6m PA
+E-Merge IT Recruitment
+Sandton
+just now
+Information Security Analyst: FTC: Sandton
+Arid Talent Solutions CC
+Sandton
+just now
+Senior Software Engineer (Solution Architect)
+IDbase Software
+Sandton
+just now
+Backend /Platform Engineer (Senior or strong mid-level) - Rosebank
+HC Recruit (Pty) Ltd
+Sandton
+just now
+Senior Information Security Analyst
+DeARX Services (Pty)Ltd
+Sandton
+just now
+Data Architect
+Be Different Recruitment
+Sandton
+just now
+Get hired.
+Find success.
+Get started
+Pnet
+About us
+Privacy policy
+Disclaimer
+Terms and conditions
+PAIA
+Jobseekers
+Career advice
+Blog
+Recruiters
+Post job ads
+Contact us – recruiters
+Products and Services
+Download
+App Store
+Google Play
+Pnet © 2026
+We use cookies
+
+We transmit personal data to third-party providers who help us to improve our web services. In this context, we also create and enrich usage profiles (e.g., on the basis of cookie IDs), which may also be transferred outside the Republic of South Africa and outside the EU and EEA.
+
+For this and to be able to use certain services for the purposes listed below, we require your consent. By clicking "Accept all", you agree to these (revocable at any time). This also includes your consent to the transmission of certain personal data to third countries, including the USA*, in accordance with Section 72 (1) (b) POPIA. You can change your settings or refuse data processing under "Settings or reject". You can change your selection at any time under "Privacy Statement" at the bottom of the page.
+
+Storing and/or retrieving information on a device
+Cookies, device identifiers or other information may be stored on or retrieved from your device for the processing purposes shown to you.
+Personalised ads and content, ad and content measurement, audience insights and product development
+Ads and content can be personalised based on a profile. More data can be added to better personalise ads and content. The performance of ads and content can be measured. Insights about audiences who have viewed the ads and content can be extracted. Data can be used to build or improve user experience, systems and software.
+Display third-party content (social networks, videos)
+Content from social networks and embedded content from third-party providers can be displayed.
+Settings or reject
+Accept All
+You can also exercise your right to object to data processing based on legitimate interests under “Privacy Statement”.
+Privacy Statement

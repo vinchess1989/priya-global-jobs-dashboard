@@ -1,0 +1,158 @@
+Title: DevOps Engineer
+Company: Fraxion
+Location: Cape Town, South Africa
+URL: https://www.pnet.co.za/jobs--DevOps-Engineer-Cape-Town-WC-Job-Crystal--4290344-inline.html
+Posted: 2026-10-15
+Deadline: N/A
+Reason: The job as a DevOps Engineer in Cape Town, South Africa matches Priya's expertise in CI/CD pipelines (Azure DevOps, Jenkins), infrastructure management, and automation scripting, aligning with her experience at Elektrobit and Topcon, while meeting location and visa sponsorship criteria.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Find a job
+Post a job
+Sign up
+Tired of searching? Let’s find you the right jobs faster
+Get Started
+Find Jobs
+DevOps Engineer
+Job Crystal
+Cape Town, WC
+Permanent
+Published: 6 days ago
+I'm interested
+Save
+DevOps Engineer
+Job Crystal
+I'm interested
+Job Intro
+DevOps Engineer - Cape Town, WC Western Cape
+
+Fraxion is a cloud spend management platform. We handle purchase requisitions, approvals, purchase orders and AP automation for mid-market companies. Engineering is in Cape Town. The platform runs on Microsoft Azure and our build and release pipelines run in Azure DevOps. Our customers are in the USA, the UK and South Africa, so the team overlaps with the USA in the late afternoon. We work hybrid, 2 days a week in the office.
+Job Specification
+This is the single infrastructure seat. You own the platform our products run on, and you report to the VP of Engineering. What you will do
+Own and improve the Azure DevOps build and release pipelines that deploy our products through development, test, UAT and production
+Keep the Azure hosting platform healthy, secure and correctly sized across our internal and production subscriptions
+Automate deployment and environment tasks so a release is repeatable and needs no manual work
+Manage secrets, certificates and access per environment, and keep production properly separated from the other tiers
+Monitor the platform, set up alerting, and lead the technical response when a production problem occurs
+Support the development and QA teams with environments, build failures and deployment problems
+Track and reduce cloud cost, and remove waste in non production environments
+Apply best practice and secure configuration standards, and document the platform you build
+Use AI assistants as part of normal delivery, and hold generated scripts, pipelines and configuration to the same review, test and security standard as anything you write by hand
+How we work with AI
+Offer
+We are not experimenting with AI. The team works with AI assistants every day and we expect you to do the same from week one. For this seat that means pipeline work, scripting, infrastructure configuration and log analysis, not only application code. We want to see your method. Where you hand work to the assistant and where you do not, and how you check what comes back before it touches an environment. Generated configuration gets the same review and security standard as configuration you write yourself, and production is where that matters most. If you are still working out how to work this way, this is not the right time for you to join us. What we are looking for
+5+ years in a DevOps, infrastructure or platform engineering role, SaaS preferred
+Microsoft Azure, hands on: App Service and service plans, resource groups, storage, Key Vault, Entra ID
+Azure DevOps Pipelines: YAML builds, multi stage release pipelines, environments, approvals, variable groups and service connections
+Scripting with PowerShell. Bash or Python is also useful
+Running multiple environments from development through to production, including promotion between tiers, and secret and certificate handling per environment
+Monitoring and alerting with Azure Monitor and Log Analytics, and log analysis for fault finding
+Git and branch policies: build validation, required reviewers and linked work items
+Production support: incident response, root cause analysis and preventive follow up
+Scrum or Agile
+Able to work as the single infrastructure person in a mid sized engineering team
+Daily use of AI assistants in your own infrastructure, pipeline and scripting work, and the ability to show how you use them, how you review the output and where you do not trust it
+Nice to have
+Infrastructure as code with Bicep, Terraform or ARM templates. We do not use it today, so the ability to introduce it is valuable
+GitHub Actions
+Jenkins
+Networking: virtual networks, subnets, private endpoints, DNS, firewalls and VPN
+Containers: Docker, Azure Container Apps or Kubernetes
+Microsoft SQL Server operations: backups, restores and basic performance work
+Hosting and troubleshooting .NET applications
+Security and compliance exposure, for example SOC 2 or ISO 27001
+Cloud cost optimisation
+Microsoft Azure certification
+Hours and on call Flexible working hours, with late afternoon availability when we overlap with the USA offices. There is no on call rotation. Our interview process
+A 30 minute conversation with Marius (VP Engineering) and Radia (HR Manager)
+A technical session with Marius and Stephen (IT Manager)
+A second conversation with Marius and Stephen
+References, then offer
+We move fast when we are convinced. You will hear from us either way.
+
+Monthly Salary: Market related
+I'm interested
+Job Crystal
+HR Services, Recruitment & Selection • 0-50 Employees
+92 Jobs
+Company Profile
+These jobs were popular with other job seekers
+Platform Engineer
+QE Services
+Cape Town
+just now
+INTERMEDIATE DEVOPS ENGINEER
+Imqs
+Hybrid preferably - Stellenbosch
+just now
+DevOps Engineer
+Eqplus Technologies (Pty) Ltd
+Cape Town
+just now
+DevOps Engineer
+iLaunch (Pty) Ltd
+Centurion
+just now
+Cloud Engineer
+Communicate IT
+Cape Town: South Peninsula
+just now
+Platform / Cloud Engineer
+MSP Staffing Pty Ltd
+Johannesburg
+just now
+Platform / Cloud Engineer
+MSP Staffing Pty Ltd
+Johannesburg
+just now
+Networking and Observability Platform MS Engineer (L3)
+Sabenza IT Recruitment
+Cape Town
+just now
+DevOps Engineer | The DevOps Conductor
+Communicate IT
+Cape Town: Northern Suburbs
+just now
+DevOps / SRE Cloud Engineer
+Goldman Tech Resourcing (Pty) Ltd
+KwaZulu Natal, Western Cape, Gauteng
+just now
+Get hired.
+Find success.
+Get started
+Pnet
+About us
+Privacy policy
+Disclaimer
+Terms and conditions
+PAIA
+Jobseekers
+Career advice
+Blog
+Recruiters
+Post job ads
+Contact us – recruiters
+Products and Services
+Download
+App Store
+Google Play
+Pnet © 2026
+We use cookies
+
+We transmit personal data to third-party providers who help us to improve our web services. In this context, we also create and enrich usage profiles (e.g., on the basis of cookie IDs), which may also be transferred outside the Republic of South Africa and outside the EU and EEA.
+
+For this and to be able to use certain services for the purposes listed below, we require your consent. By clicking "Accept all", you agree to these (revocable at any time). This also includes your consent to the transmission of certain personal data to third countries, including the USA*, in accordance with Section 72 (1) (b) POPIA. You can change your settings or refuse data processing under "Settings or reject". You can change your selection at any time under "Privacy Statement" at the bottom of the page.
+
+Storing and/or retrieving information on a device
+Cookies, device identifiers or other information may be stored on or retrieved from your device for the processing purposes shown to you.
+Personalised ads and content, ad and content measurement, audience insights and product development
+Ads and content can be personalised based on a profile. More data can be added to better personalise ads and content. The performance of ads and content can be measured. Insights about audiences who have viewed the ads and content can be extracted. Data can be used to build or improve user experience, systems and software.
+Display third-party content (social networks, videos)
+Content from social networks and embedded content from third-party providers can be displayed.
+Settings or reject
+Accept All
+You can also exercise your right to object to data processing based on legitimate interests under “Privacy Statement”.
+Privacy Statement
