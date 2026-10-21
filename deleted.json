@@ -12051,5 +12051,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Staff Technical Writer | Remote | UK",
+    "company": "Grafana Labs",
+    "location": "London Area, United Kingdom",
+    "url": "https://uk.linkedin.com/jobs/view/staff-technical-writer-remote-uk-at-grafana-labs-4481266121",
+    "visited": "yes",
+    "matches_requirements": "yes",
+    "reason": "The role aligns with Priya's technical writing expertise (matches her Topcon/Accenture experience) and is located in the UK (target country), with remote work flexibility. The job explicitly mentions 'Remote | UK' and does not restrict to the US or require US citizenship.",
+    "id": "192b33e0",
+    "source": "linkedin_uk_technical_writer",
+    "added_at": "2026-10-21T13:34:40+03:00",
+    "posted_date": "2026-10-20",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": "job_descriptions/grafana_labs_staff_technical_writer___remot_192b33e0.txt",
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
