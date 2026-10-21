@@ -1,0 +1,283 @@
+Title: Lead, Release and Change Management
+Company: McKesson
+Location: Mississauga, Ontario, Canada
+URL: https://ca.linkedin.com/jobs/view/lead-release-and-change-management-at-mckesson-4480810745
+Posted: 2026-10-18
+Deadline: N/A
+Reason: The role aligns with the candidate's expertise in release/change management, CI/CD, and regulated industries (healthcare), matches her technical profile, and is located in Canada (target country) with no visa restrictions mentioned.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Lead, Release and Change Management
+McKesson  Mississauga, Ontario, Canada
+3 days ago  60 applicants
+  
+
+See who McKesson has hired for this role
+
+Apply 
+Save
+McKesson is an impact-driven, Fortune 10 company that touches virtually every aspect of healthcare. We are known for delivering insights, products, and services that make quality care more accessible and affordable. Here, we focus on the health, happiness, and well-being of you and those we serve – we care.
+
+What you do at McKesson matters. We foster a culture where you can grow, make an impact, and are empowered to bring new ideas. Together, we thrive as we shape the future of health for patients, our communities, and our people. If you want to be part of tomorrow’s health today, we want to hear from you.
+
+About The Role
+
+McKesson is seeking a Lead, Release and Change Management help design, improve, and govern enterprise-scale infrastructure across cloud, on-premises, and hybrid environments. In this role, you will provide senior technical leadership for infrastructure initiatives that support resilient, secure, and scalable technology operations.
+
+You will partner across engineering, operations, security, architecture, and business teams to strengthen reliability, improve automation, support safe deployments, and guide change-management practices across multiple systems. This role is ideal for an infrastructure leader who brings deep technical expertise, strong ownership, and a continuous improvement mindset.
+
+What You’ll Do
+
+
+Lead design, implementation, and support of enterprise infrastructure systems across cloud, on-premises, and hybrid environments.
+Own release coordination and change-management processes across multiple systems to support safe, reliable delivery.
+Manage change calendars, environment scheduling, deployment readiness, and release risk mitigation.
+Serve as an escalation point for critical incidents, complex troubleshooting, and root-cause analysis.
+Drive automation, orchestration, and reliability improvements using modern infrastructure and DevOps practices.
+Govern SLA/OLA performance, infrastructure compliance, operational standards, and security protocols.
+Analyze infrastructure performance, capacity, cost, availability, and service data to recommend improvements.
+Use AI-enabled tools to draft service and incident reports, summarize incidents, automate routine reporting, prepare governance content, and accelerate analysis.
+
+
+
+Basic Requirements
+
+
+10+ years of progressive experience in infrastructure engineering, cloud infrastructure, platform engineering, systems engineering, network engineering, or a related technical field.
+Experience designing, supporting, or governing enterprise-scale infrastructure systems.
+Hands-on experience with cloud platforms, virtualization, automation, orchestration, or infrastructure-as-code tools.
+Experience supporting incident management, change management, release coordination, or production operations.
+Working knowledge of infrastructure security, compliance practices, network architecture, and reliability engineering.
+Experience communicating technical recommendations to engineering teams, business partners, and technology leaders.
+Bachelor’s degree in Computer Science, Engineering, Information Systems, or related field, or equivalent practical experience.
+
+
+
+Preferred Skills/Experience
+
+
+Experience with Terraform, Ansible, Puppet, CI/CD pipelines, Git, Kubernetes, containers, or DevOps toolchains.
+Familiarity with change calendars, environment scheduling, deployment windows, and safe-deployment practices.
+Experience with enterprise storage, distributed storage, SDN, network capacity planning, or cost optimization.
+Experience in healthcare, life sciences, financial services, or another regulated enterprise environment.
+Experience using AI tools to support incident reporting, SLA analysis, operational reporting, governance documentation, or root-cause analysis.
+Strong collaboration, change leadership, systems thinking, and data-driven decision-making skills.
+
+
+
+Travel, Work Environment, And Physical Requirements
+
+
+Work model may be remote, hybrid, or office-based depending on business and team needs.
+Occasional travel may be required for team, project, vendor, or business meetings.
+Ability to work at a computer for extended periods and participate in virtual or in-person collaboration.
+
+
+
+We are proud to offer a competitive compensation package at McKesson as part of our Total Rewards. This is determined by several factors, including performance, experience and skills, equity, regular job market evaluations, and geographical markets. The pay range shown below is aligned with McKesson's pay philosophy, and pay will always be compliant with any applicable regulations. In addition to base pay, other compensation, such as an annual bonus or long-term incentive opportunities may be offered. For more information regarding benefits at McKesson, please click here.
+
+Our Base Pay Range for this position
+
+$122,100 - $162,800
+
+McKesson has become aware of online recruiting-related scams in which individuals who are not affiliated with or authorized by McKesson are using McKesson’s (or affiliated entities, like CoverMyMeds or RxCrossroads) name in fraudulent emails, job postings or social media messages. In light of these scams, please bear the following in mind:
+
+McKesson Talent Advisors will never solicit money or credit card information in connection with a McKesson job application.
+
+McKesson Talent Advisors do not communicate with candidates via online chatrooms or using email accounts such as Gmail or Hotmail. Note that McKesson does rely on a virtual assistant (Gia) for certain recruiting-related communications with candidates.
+
+McKesson job postings are posted on our career site: careers.mckesson.com.
+
+McKesson is an Equal Opportunity Employer
+
+McKesson provides equal employment opportunities to applicants and employees, without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability, age, genetic information, or any other legally protected category. For additional information on McKesson’s full Equal Employment Opportunity policies, visit our Equal Employment Opportunity page.
+
+McKesson is committed to being an Equal Employment Opportunity Employer and offers opportunities to all job seekers including job seekers with disabilities. If you need a reasonable accommodation to assist with your job search or application for employment, please contact us by sending an email to (United States) Disability_Accommodation@McKesson.com or (Canada) Accessibility@mckesson.ca. Resumes or CVs submitted to this email box will not be accepted.
+
+Join us at McKesson!
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Hospitals and Health Care
+  
+
+Referrals increase your chances of interviewing at McKesson by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Change And Release Manager jobs
+Lead, Release and Change Management
+Similar jobs
+Release Manager
+Release Manager
+Scotiabank
+Toronto, Ontario, Canada
+1 day ago
+SPECIALIST - TECHNOLOGY CHANGE MANAGEMENT - HYBRID
+SPECIALIST - TECHNOLOGY CHANGE MANAGEMENT - HYBRID
+GreenShield
+Toronto, Ontario, Canada
+CA$72,521 - CA$109,341
+3 weeks ago
+Product Readiness & Change Risk, Lead
+Product Readiness & Change Risk, Lead
+Interac Corp.
+Toronto, Ontario, Canada
+1 week ago
+Incident and Release Manager FCC
+Incident and Release Manager FCC
+Fidelity Canada
+Toronto, Ontario, Canada
+1 week ago
+Sr. Release Manager
+Sr. Release Manager
+PAR Technology
+Toronto, Ontario, Canada
+2 weeks ago
+Sr. Release Manager
+Sr. Release Manager
+PAR Technology
+Markham, Ontario, Canada
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Enterprise Change Enablement Manager
+Enterprise Change Enablement Manager
+
+RBC
+
+Toronto, Ontario, Canada
+1 week ago
+Manager, DevOps
+Manager, DevOps
+
+Michael Page
+
+Markham, Ontario, Canada
+CA$110,000 - CA$115,000
+4 days ago
+Manager, Business Application Management
+Manager, Business Application Management
+
+TD
+
+Toronto, Ontario, Canada
+2 weeks ago
+Workday Lead
+Workday Lead
+
+Teranet Inc.
+
+Toronto, Ontario, Canada
+1 week ago
+Enterprise Change Manager
+Enterprise Change Manager
+
+RBC
+
+Toronto, Ontario, Canada
+4 days ago
+Senior Engineering Manager, Release Engineering
+Senior Engineering Manager, Release Engineering
+
+PagerDuty
+
+Toronto, Ontario, Canada
+6 days ago
+Release Train Engineer, Deloitte Global Technology
+Release Train Engineer, Deloitte Global Technology
+
+Deloitte
+
+Toronto, Ontario, Canada
+1 week ago
+DevOps CI/CD / Kentico - Engineer/Lead - Remote Canada Position
+DevOps CI/CD / Kentico - Engineer/Lead - Remote Canada Position
+
+NTT DATA North America
+
+Toronto, Ontario, Canada
+2 weeks ago
+Principle Software Engineering – Continuous Integration & Quality Gating
+Principle Software Engineering – Continuous Integration & Quality Gating
+
+General Motors
+
+Markham, Ontario, Canada
+2 weeks ago
+Senior ELM - Developer Productivity
+Senior ELM - Developer Productivity
+
+Index Exchange
+
+Toronto, Ontario, Canada
+5 days ago
+Similar Searches
+Change And Release Manager jobs
+167 open jobs
+Release Manager jobs
+3,420 open jobs
+Configuration Manager jobs
+487 open jobs
+Change Project Manager jobs
+1,865 open jobs
+Vice President Management jobs
+6,510 open jobs
+Change Manager jobs
+8,343 open jobs
+Release Engineer jobs
+1,158 open jobs
+Director of Quality Assurance jobs
+431 open jobs
+Director of Information Technology jobs
+247 open jobs
+Head of Ecommerce jobs
+198 open jobs
+Head of Project Management jobs
+281 open jobs
+Head of Information Technology jobs
+181 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

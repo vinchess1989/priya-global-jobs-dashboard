@@ -1,10 +1,10 @@
 {
   "pid": 59256,
   "started_at": "2026-10-21T07:36:18+03:00",
-  "heartbeat_at": "2026-10-21T08:54:56+03:00",
+  "heartbeat_at": "2026-10-21T09:06:30+03:00",
   "phase": "reviewing",
-  "detail": "Service Manager (ServiceNow)",
-  "last_scrape_ok_at": "2026-10-21T08:44:52+03:00",
+  "detail": "IT Service Management Practice Lead (Toronto, ON or Burnaby, BC- Hybrid)",
+  "last_scrape_ok_at": "2026-10-21T08:56:30+03:00",
   "last_error": {
     "at": "2026-10-21T08:21:08+03:00",
     "message": "cv_library_devops_engineer: Page.goto: Navigation to \"https://www.cv-library.co.uk/devops-engineer-jobs\" is interrupted by another navigation to \"about:blank\"\nCall log:\n  - navigating to \"https://www.cv-library.co.uk/devops-engineer-jobs\", waiting until \"load\"\n"
