@@ -1,10 +1,10 @@
 {
   "pid": 63188,
   "started_at": "2026-10-21T20:40:05+03:00",
-  "heartbeat_at": "2026-10-21T22:30:09+03:00",
+  "heartbeat_at": "2026-10-21T22:45:03+03:00",
   "phase": "reviewing",
-  "detail": "Senior Systems Coordinator Finance",
-  "last_scrape_ok_at": "2026-10-21T22:18:46+03:00",
+  "detail": "Senior Engineering Operations Manager",
+  "last_scrape_ok_at": "2026-10-21T22:32:40+03:00",
   "last_error": {
     "at": "2026-10-21T21:36:15+03:00",
     "message": "cv_library_devops_engineer: Page.goto: Navigation to \"https://www.cv-library.co.uk/devops-engineer-jobs\" is interrupted by another navigation to \"about:blank\"\nCall log:\n  - navigating to \"https://www.cv-library.co.uk/devops-engineer-jobs\", waiting until \"load\"\n"

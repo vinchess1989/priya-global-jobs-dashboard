@@ -12272,5 +12272,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Power Platform Technical Lead",
+    "company": "Hays",
+    "location": "Wellington, Wellington, New Zealand",
+    "url": "https://nz.linkedin.com/jobs/view/power-platform-technical-lead-at-hays-4482027901",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires 'Valid Working Rights in New Zealand Essential,' which implies no visa sponsorship is offered, and Priya does not currently have the right to work in New Zealand.",
+    "id": "1e46276e",
+    "source": "linkedin_nz_configuration_manager",
+    "added_at": "2026-10-21T22:31:36+03:00",
+    "posted_date": "2026-10-21",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
