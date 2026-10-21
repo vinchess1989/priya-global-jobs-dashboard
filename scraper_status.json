@@ -1,10 +1,10 @@
 {
   "pid": 59256,
   "started_at": "2026-10-21T07:36:18+03:00",
-  "heartbeat_at": "2026-10-21T15:31:15+03:00",
+  "heartbeat_at": "2026-10-21T15:44:47+03:00",
   "phase": "reviewing",
-  "detail": "Senior 5G Systems Engineer",
-  "last_scrape_ok_at": "2026-10-21T15:20:11+03:00",
+  "detail": "Document Controller",
+  "last_scrape_ok_at": "2026-10-21T15:32:41+03:00",
   "last_error": {
     "at": "2026-10-21T15:18:54+03:00",
     "message": "cv_library_technical_writer: Page.goto: Navigation to \"https://www.cv-library.co.uk/technical-writer-jobs\" is interrupted by another navigation to \"about:blank\"\nCall log:\n  - navigating to \"https://www.cv-library.co.uk/technical-writer-jobs\", waiting until \"load\"\n"
