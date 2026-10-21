@@ -1,10 +1,10 @@
 {
   "pid": 59256,
   "started_at": "2026-10-21T07:36:18+03:00",
-  "heartbeat_at": "2026-10-21T18:19:22+03:00",
+  "heartbeat_at": "2026-10-21T18:31:51+03:00",
   "phase": "reviewing",
-  "detail": "Senior Consultant - Workday",
-  "last_scrape_ok_at": "2026-10-21T18:08:36+03:00",
+  "detail": "Business Analyst",
+  "last_scrape_ok_at": "2026-10-21T18:20:41+03:00",
   "last_error": {
     "at": "2026-10-21T16:38:01+03:00",
     "message": "cv_library_documentation_specialist: Page.goto: Navigation to \"https://www.cv-library.co.uk/documentation-specialist-jobs\" is interrupted by another navigation to \"about:blank\"\nCall log:\n  - navigating to \"https://www.cv-library.co.uk/documentation-specialist-jobs\", waiting until \"load\"\n"
