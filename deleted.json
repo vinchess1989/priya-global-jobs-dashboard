@@ -12085,5 +12085,39 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Deadline (2023-11-01) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Supply Chain Document Administrator (Permanent)",
+    "company": "Babcock Canada Inc.",
+    "location": "Victoria, British Columbia, Canada",
+    "url": "https://ca.linkedin.com/jobs/view/supply-chain-document-administrator-permanent-at-babcock-canada-inc-4479639385",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires a Canadian Secret Security and ITAR Clearance, which Priya cannot obtain without Canadian citizenship or prior residency, falling under the 'No Visa Sponsorship / Existing Right to Work Required' hard rejection.",
+    "id": "96bcfdb5",
+    "source": "linkedin_ca_documentation_specialist",
+    "added_at": "2026-10-21T15:46:26+03:00",
+    "posted_date": "2026-10-17",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Document Controller",
+    "company": "McConnell Dowell",
+    "location": "Perth, Western Australia, Australia",
+    "url": "https://au.linkedin.com/jobs/view/document-controller-at-mcconnell-dowell-4480942891",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires valid work rights for Australia, which implies no visa sponsorship is available, and the candidate needs employer-sponsored visa support to work in Australia.",
+    "id": "46963726",
+    "source": "linkedin_au_documentation_specialist",
+    "added_at": "2026-10-21T15:46:48+03:00",
+    "posted_date": "2026-10-19",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
