@@ -11949,5 +11949,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Manager: Master & Reference Data Management",
+    "company": "Nedbank",
+    "location": "Johannesburg, Gauteng, South Africa",
+    "url": "https://za.linkedin.com/jobs/view/manager-master-reference-data-management-at-nedbank-4477707078",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job does not align with Priya's target roles (DevOps/Release Management/Configuration Management) or her approved positive constraints (configuration management, Topcon experience).",
+    "id": "2e74cbc7",
+    "source": "linkedin_za_configuration_manager",
+    "added_at": "2026-10-21T09:30:47+03:00",
+    "posted_date": "2026-10-17",
+    "deadline": "2026-08-03",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-08-03) passed by more than 2 days and unreviewed"
   }
 ]
