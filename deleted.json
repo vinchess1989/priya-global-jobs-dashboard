@@ -12068,5 +12068,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": "job_descriptions/grafana_labs_staff_technical_writer___remot_192b33e0.txt",
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Technical Business Analyst",
+    "company": "ACC New Zealand",
+    "location": "Wellington, Wellington, New Zealand",
+    "url": "https://nz.linkedin.com/jobs/view/technical-business-analyst-at-acc-new-zealand-4479938982",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires existing New Zealand work rights at application, but Priya does not hold them and the posting does not mention visa sponsorship availability.",
+    "id": "e18b514d",
+    "source": "linkedin_nz_technical_writer",
+    "added_at": "2026-10-21T14:02:49+03:00",
+    "posted_date": "2026-10-19",
+    "deadline": "2023-11-01",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2023-11-01) passed by more than 2 days and unreviewed"
   }
 ]
