@@ -12017,5 +12017,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": "job_descriptions/wrk_digital_release___deployment_manager_f95ea6d2.txt",
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Cloud Platform Engineer",
+    "company": "Howdens Joinery",
+    "location": "Northampton, UK",
+    "url": "https://www.reed.co.uk/jobs/cloud-platform-engineer/57280703",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job posting explicitly states that candidates must have a valid right to work in the UK and does not offer sponsorship for depot positions, which disqualifies the opportunity under the 'No Visa Sponsorship / Existing Right to Work Required' hard rejection rule.",
+    "id": "c080d91f",
+    "source": "reed_release_manager",
+    "added_at": "2026-10-21T11:22:53+03:00",
+    "posted_date": "2026-10-20",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
