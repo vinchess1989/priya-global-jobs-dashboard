@@ -1,10 +1,10 @@
 {
   "pid": 59256,
   "started_at": "2026-10-21T07:36:18+03:00",
-  "heartbeat_at": "2026-10-21T18:45:07+03:00",
+  "heartbeat_at": "2026-10-21T18:58:10+03:00",
   "phase": "reviewing",
-  "detail": "Advisory Services Analyst",
-  "last_scrape_ok_at": "2026-10-21T18:33:14+03:00",
+  "detail": "TECHNICAL PRODUCT OWNER \u2013 DEV EXPERIENCE - 100% REMOTE \u2013 R1.2m PA",
+  "last_scrape_ok_at": "2026-10-21T18:46:33+03:00",
   "last_error": {
     "at": "2026-10-21T16:38:01+03:00",
     "message": "cv_library_documentation_specialist: Page.goto: Navigation to \"https://www.cv-library.co.uk/documentation-specialist-jobs\" is interrupted by another navigation to \"about:blank\"\nCall log:\n  - navigating to \"https://www.cv-library.co.uk/documentation-specialist-jobs\", waiting until \"load\"\n"
