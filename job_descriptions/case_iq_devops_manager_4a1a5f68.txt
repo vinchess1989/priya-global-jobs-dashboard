@@ -1,0 +1,345 @@
+Title: DevOps Manager
+Company: Case IQ
+Location: Canada
+URL: https://ca.linkedin.com/jobs/view/devops-manager-at-case-iq-4480269183
+Posted: 2026-10-20
+Deadline: N/A
+Reason: The role of DevOps Manager at Case IQ in Canada aligns with Priya's extensive experience in CI/CD, release management, and platform strategy, along with her background in regulated industries and technical documentation.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Manager
+Case IQ  Canada
+1 day ago  39 applicants
+  
+
+See who Case IQ has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Case IQ provided pay range
+
+This range is provided by Case IQ. Your actual pay will be based on your skills and experience — talk with your recruiter to learn more.
+
+Base pay range
+CA$150,000.00/yr - CA$180,000.00/yr
+
+Case IQ is a leading B2B SaaS company in the governance, risk, and compliance (GRC) space, helping organizations build safer, more accountable workplaces. We offer a comprehensive suite of solutions that enable organizations to move from reactive approaches to proactive risk management. Our software helps teams across compliance, HR, legal, and investigations report, manage, investigate, and prevent workplace risk - including ethics violations, fraud, harassment, discrimination, security incidents, and third-party issues - so they can better protect their people, culture, and business.
+
+
+
+
+Backed by over 25 years of domain expertise and trusted by Fortune 500 companies, Case IQ has supported the management of millions of cases and helped mitigate billions in financial and reputational risk.
+
+
+
+
+Role Summary
+
+We are seeking a Manager of DevOps Engineering to lead our DevOps function as a combination of Platform Team and Enabling Team, aligned to Team Topologies principles, across four product lines.
+
+
+
+
+This role is responsible for defining and executing a modern DevOps strategy (≈60%), while remaining hands-on (≈40%) to actively guide engineers and development teams in adopting modern practices. The DevOps organization exists to enable fast flow, reduce cognitive load for product teams, and provide a reliable, self-service platform for delivery and operations.
+
+
+
+
+The Manager of DevOps Engineering will lead 3+ full-time DevOps Engineers and coordinate external DevOps service providers, partnering closely with Architecture, Development Managers, QA/Test Automation, and Product Management to ensure DevOps capabilities are scalable, discoverable, and adopted across teams.
+
+
+
+
+AI-Forward Ways of Working
+
+At Case IQ, AI is part of how we build. We look for engineers who can use AI-assisted development and agentic workflows with strong technical judgment: defining clear intent and constraints, validating outputs, protecting customer data, and keeping humans accountable for production decisions. You will help establish practical patterns for responsible AI use across discovery, design, implementation, testing, observability, and operations.
+
+
+
+
+DevOps Mission (Team Topologies Lens)
+
+As a Platform Team: Provide internal, self-service DevOps capabilities that product teams can use independently to build, deploy, and operate software safely and efficiently.
+As an Enabling Team: Temporarily embed with product teams to help them adopt modern DevOps practices, remove bottlenecks, and upskill teams—then step back once capabilities are internalized.
+
+
+
+
+This role ensures the organization does not rely on DevOps as a centralized delivery gate but instead uses DevOps to accelerate all teams.
+
+
+
+
+What You'll Do
+
+Platform Leadership & Strategy (≈60%)
+
+Define and evolve a DevOps Platform strategy that serves four product lines with shared, reusable capabilities
+Establish platform standards and golden paths for:
+CI/CD pipelines and release orchestration
+Infrastructure as Code (IaC)
+Cloud architecture, scalability, and cost management
+Observability, logging, metrics, and alerting
+Secure-by-default environments and pipelines
+Ensure the platform minimizes cognitive load for development teams while enabling autonomy
+Partner with Architecture to align DevOps platform capabilities with long-term technical direction
+Prioritize platform investments based on flow efficiency, reliability, and developer experience
+Maintain a high standard of security awareness, ensuring data protection, compliance with company policies, and adherence to industry standards in all aspects of work.
+
+Enabling Team Leadership (≈40% Hands-On)
+
+Lead by example through direct technical involvement and coaching
+Temporarily embed DevOps engineers with product teams to:
+Improve deployment pipelines and release safety
+Enable teams to own their services and environments
+Reduce manual steps and DevOps dependencies
+Teach and model modern DevOps practices rather than owning execution indefinitely
+Create documentation, templates, and automation that allow teams to self-serve
+
+Team & Vendor Management
+
+Manage and develop 3+ full-time DevOps Engineers, emphasizing platform thinking and enablement behaviors
+Direct and coordinate external DevOps service providers, ensuring work aligns with platform and enablement goals
+Set clear expectations that DevOps success is measured by team independence, not ticket throughput
+Foster a culture of continuous improvement, experimentation, and learning
+
+
+
+
+Metrics You'll Own
+
+The Manager of DevOps Engineering owns and drives improvement in the following flow and reliability metrics, aligned to Team Topologies outcomes
+
+Deployment Frequency (partnering with QA and Test Automation)
+DORA Metrics
+Deployment Frequency
+Lead Time for Changes
+Change Failure Rate
+Mean Time to Recovery (MTTR)
+Change Failure Rate
+Runtime of Updates (deployment and infrastructure update duration)
+Cycle Time to Perform a Release
+Reduction in DevOps-related handoffs and dependencies for product teams
+
+
+
+
+What Success Looks Like
+
+Product teams deploy independently using shared DevOps platform capabilities
+DevOps engineers spend less time firefighting and more time enabling flow
+DORA and release metrics show sustained improvement across all product lines
+Reduced operational risk and faster recovery from incidents
+DevOps is viewed as a force multiplier, not a bottleneck
+
+
+
+
+Who You Are
+
+6+ years of experience in DevOps, SRE, or Platform Engineering
+3+ years of experience managing or leading engineers
+Strong hands-on experience with modern cloud platforms (AWS, Azure, or GCP)
+Expertise in:
+CI/CD tooling (GitHub Actions, GitLab CI, Jenkins, etc.)
+Infrastructure as Code (Terraform, CloudFormation, Pulumi, etc.)
+Containers and orchestration (Docker, Kubernetes, ECS, etc.)
+Experience supporting multiple product teams or product lines
+Demonstrated success improving delivery speed and reliability through enablement, not centralization
+
+Nice to Haves (Assets)
+
+Practical experience applying Team Topologies concepts
+Experience building or evolving internal developer platforms
+Background in SaaS or B2B software environments
+Experience managing external vendors or managed service providers
+Strong communication and influence skills across technical and product leadership
+
+
+
+
+Perks and Benefits
+
+Work remotely within a flexible work environment (our team spans the US and Canada)
+Competitive company-paid benefits plan starting day 1!
+Generous professional development budget
+RRSP/ 401k matching program
+Half-day Fridays in the summer
+
+
+
+
+Selected candidates will be contacted through BambooHR (please check your junk mail).
+
+
+
+
+Case IQ is an equal opportunity employer. All qualified applicants are given consideration regardless of race, religion, color, gender, sex, age, sexual orientation, gender identity, national origin, marital status, citizenship status, disability, veteran status, or any other protected class as provided in applicable employment laws. If you have a disability or special need that requires accommodation, please contact us at hr@caseiq.com.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Case IQ by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Marketing Manager jobs
+DevOps Manager
+Similar jobs
+Engineering Manager, DevEx
+Engineering Manager, DevEx
+Slice
+Canada
+18 hours ago
+Head of Platform (Infrastructure & DevOps)
+Head of Platform (Infrastructure & DevOps)
+Mimica
+Canada
+1 day ago
+Engineering Manager, Dedicated Infrastructure
+Engineering Manager, Dedicated Infrastructure
+GitLab
+Canada
+2 weeks ago
+Engineering Manager - Core Infrastructure (Remote)
+Engineering Manager - Core Infrastructure (Remote)
+CrowdStrike
+Greater Toronto Area, Canada
+2 weeks ago
+Platform Engineering Manager
+Platform Engineering Manager
+Precisely
+Canada
+1 week ago
+Platform Team Lead
+Platform Team Lead
+nesto
+Canada
+3 weeks ago
+Show more jobs like this 
+People also viewed
+Staff DevOps Engineer
+Staff DevOps Engineer
+
+Nexxa.ai
+
+Canada
+1 month ago
+Infrastructure Engineer/SRE
+Infrastructure Engineer/SRE
+
+Cresta
+
+Canada
+2 weeks ago
+Chef d'équipe plateforme
+Chef d'équipe plateforme
+
+nesto
+
+Canada
+3 weeks ago
+Cloud Platform Engineer
+Cloud Platform Engineer
+
+GitLab
+
+Canada
+6 days ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+Parallel Domain
+
+Canada
+1 week ago
+AI DevOps & Reliability Engineer
+AI DevOps & Reliability Engineer
+
+Branch
+
+Vancouver, British Columbia, Canada
+4 days ago
+Engineering Manager, FDE Infrastructure (NORAM)
+Engineering Manager, FDE Infrastructure (NORAM)
+
+Cohere
+
+Canada
+1 day ago
+DevOps Developer
+DevOps Developer
+
+Caseware
+
+Canada
+1 month ago
+DevOps Engineer
+DevOps Engineer
+
+Capgemini Engineering
+
+Canada
+3 weeks ago
+Senior DevOps Engineer - Robotics Simulation
+Senior DevOps Engineer - Robotics Simulation
+
+NVIDIA
+
+Canada
+4 days ago
+Similar Searches
+Marketing Manager jobs
+5,538 open jobs
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
