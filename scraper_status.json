@@ -1,9 +1,9 @@
 {
   "pid": 63188,
   "started_at": "2026-10-21T20:40:05+03:00",
-  "heartbeat_at": "2026-10-21T20:50:57+03:00",
+  "heartbeat_at": "2026-10-21T21:03:27+03:00",
   "phase": "reviewing",
-  "detail": "Devops - Senior Consultant",
-  "last_scrape_ok_at": "2026-10-21T20:40:29+03:00",
+  "detail": "Site Reliability Engineer III",
+  "last_scrape_ok_at": "2026-10-21T20:52:16+03:00",
   "last_error": null
 }
