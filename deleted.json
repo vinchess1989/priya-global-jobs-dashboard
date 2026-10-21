@@ -12289,5 +12289,39 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Configuration Manager",
+    "company": "ASC",
+    "location": "Perth, WA, Australia or Adelaide, SA, Australia",
+    "url": "https://au.jora.com/job/Configuration-Manager-d31598b6ddb56548b37815f0841f16a1",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires an Australian Defence Security Clearance and National Police Clearance, which the candidate cannot obtain due to her Finnish residency and lack of Australian citizenship/eligibility, constituting a 'No Visa Sponsorship / Existing Right to Work Required' hard rejection.",
+    "id": "64405541",
+    "source": "jora_au_configuration_manager",
+    "added_at": "2026-10-21T22:48:12+03:00",
+    "posted_date": "2026-10-11",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Systems and Configuration Lead",
+    "company": "Penske Australia",
+    "location": "Kings Park NSW, Australia",
+    "url": "https://au.jora.com/job/Systems-and-Configuration-e314cd8d1ad42cbbcabf2362b1750557",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires Australian citizenship, which the candidate does not have and cannot obtain without employer sponsorship, violating the 'No Visa Sponsorship' hard rejection rule.",
+    "id": "b148579f",
+    "source": "jora_au_configuration_manager",
+    "added_at": "2026-10-21T22:48:12+03:00",
+    "posted_date": "14h ago",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
