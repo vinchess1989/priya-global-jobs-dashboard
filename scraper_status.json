@@ -1,9 +1,12 @@
 {
   "pid": 59256,
   "started_at": "2026-10-21T07:36:18+03:00",
-  "heartbeat_at": "2026-10-21T08:19:48+03:00",
+  "heartbeat_at": "2026-10-21T08:31:57+03:00",
   "phase": "reviewing",
-  "detail": "Assistant Manager, Infrastructure Architecture & Delivery",
-  "last_scrape_ok_at": "2026-10-21T07:59:38+03:00",
-  "last_error": null
+  "detail": "DevOps Engineer",
+  "last_scrape_ok_at": "2026-10-21T08:21:55+03:00",
+  "last_error": {
+    "at": "2026-10-21T08:21:08+03:00",
+    "message": "cv_library_devops_engineer: Page.goto: Navigation to \"https://www.cv-library.co.uk/devops-engineer-jobs\" is interrupted by another navigation to \"about:blank\"\nCall log:\n  - navigating to \"https://www.cv-library.co.uk/devops-engineer-jobs\", waiting until \"load\"\n"
+  }
 }

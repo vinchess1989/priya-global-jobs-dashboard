@@ -1,0 +1,250 @@
+Title: DevOps Engineer
+Company: Blues Point Ltd
+Location: Remote (UK)
+URL: https://www.reed.co.uk/jobs/devops-engineer/57477487
+Posted: 2026-10-20
+Deadline: N/A
+Reason: The job aligns with Priya's expertise in DevOps engineering, CI/CD pipelines, Azure DevOps, and infrastructure as code (Terraform), and matches her preference for remote work in the UK.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Jobs
+Courses
+Career advice
+Recruiting? Post a job
+Register CV
+Saved jobs
+Sign in
+What
+Where
+Search jobs
+Browse jobs
+Search results
+Home
+Information Technology
+Engineer
+Dev Ops Engineer
+Job details
+NewEasy Apply
+DevOps Engineer
+Yesterday by Blues Point Ltd
+£65,000 - £70,000 per annum
+Birmingham, West Midlands (County)
+Permanent, full-time
+Remote
+Skills: 
+DevOps, Azure DevOps
+ + 2 more
+Apply now
+Save
+Full job description
+DevOps Engineer
+
+Remote UK | £65,000–£70,000 per annum
+
+Are you an experienced DevOps Engineer who enjoys improving deployment processes, supporting cloud-hosted applications and making systems more reliable, secure and efficient?
+
+We’re looking for a hands-on DevOps Engineer to support and enhance a portfolio of bespoke business applications, microservices and cloud-hosted services running on Microsoft Azure.
+
+This is an application-focused role, combining deployment management, automation, monitoring and operational support. You’ll work closely with software developers, infrastructure specialists and security teams to ensure applications run smoothly, deployments are consistent and issues are resolved quickly.
+
+You’ll have the opportunity to improve existing processes, strengthen automation and help shape the way applications are deployed, monitored and supported across development, test and production environments.
+
+While you’ll need a strong understanding of Azure, Docker, Kubernetes, Helm and Terraform, responsibility for wider enterprise infrastructure, networking and overall cloud architecture sits with the Infrastructure team. Your focus will be on the application platform and its day-to-day operation.
+
+The Role
+
+Your responsibilities will include:
+
+Supporting, maintaining and improving production applications, microservices and distributed systems hosted in Microsoft Azure.
+Managing and enhancing deployment processes, CI/CD pipelines and release workflows using Azure DevOps and Git.
+Supporting containerised applications running on Docker and Kubernetes, including deployments and configuration management using Helm.
+Developing and maintaining Infrastructure as Code using Terraform to enable consistent, repeatable and controlled deployments.
+Maintaining Azure application environments and supporting services, including App Services, Azure Functions, Storage, Key Vault and Azure Kubernetes Service (AKS).
+Monitoring application health, availability and performance, implementing effective logging, alerting and observability.
+Investigating and resolving issues across applications, APIs, integrations, databases and supporting services.
+Managing application configuration, secrets, environment variables and deployment settings across multiple environments.
+Supporting Linux-hosted services, scheduled jobs and background processing workloads.
+Identifying opportunities to improve automation, operational efficiency, deployment reliability and support processes.
+Working with development teams to improve application monitoring, supportability and deployment standards.
+Collaborating with Infrastructure and Cyber Security teams to resolve issues and deliver platform improvements.
+Maintaining clear technical documentation, operational procedures and support runbooks.
+About You
+
+You’ll be a practical, technically capable DevOps Engineer with experience supporting live applications and improving the processes and platforms that keep them running reliably.
+
+You’ll ideally have:
+
+Strong experience supporting production applications, microservices and distributed systems.
+Hands-on experience with Microsoft Azure, particularly application hosting, deployment and operational support.
+Experience with Azure DevOps, Git, CI/CD pipelines and modern software delivery practices.
+Strong experience with Docker, Kubernetes and Helm in production environments.
+Experience developing and maintaining Terraform-based Infrastructure as Code within Azure.
+Good Linux administration skills, ideally with Ubuntu, including troubleshooting, configuration, monitoring and performance optimisation.
+Experience with monitoring, logging, alerting and observability tools such as Azure Monitor, Application Insights, Prometheus or Grafana.
+The ability to troubleshoot complex application, API, integration and platform issues.
+Experience managing application configuration, secrets and environment-specific deployment settings.
+Familiarity with Azure services such as App Services, Functions, Storage Accounts, Key Vault and AKS.
+Experience supporting data platforms such as SQL Server, PostgreSQL, Cosmos DB and/or Redis.
+An understanding of secure software delivery, DevSecOps and operational resilience.
+Strong problem-solving skills and the ability to work collaboratively with technical teams and business stakeholders.
+
+Experience with Bash, PowerShell or Python for scripting and automation would also be beneficial.
+
+Technology Environment
+
+You’ll be working across a modern cloud and application technology stack, including:
+
+Cloud platform: Microsoft Azure, App Services, Azure Functions, Storage, Key Vault, AKS
+DevOps and deployment: Azure DevOps, Git, CI/CD pipelines
+Containers and orchestration: Docker, Kubernetes, Helm
+Infrastructure as Code: Terraform
+Monitoring and observability: Azure Monitor, Application Insights, Prometheus, Grafana
+Operating systems and scripting: Ubuntu Linux, Bash, PowerShell, Python
+Application platforms: Microservices, REST APIs, distributed applications and background processing services
+What’s on Offer?
+Salary of £65,000–£70,000 per annum, depending on experience.
+Fully remote working within the UK.
+The opportunity to work with a modern Azure-based application platform.
+A varied, hands-on role combining cloud technologies, automation, deployment engineering and problem-solving.
+The chance to improve operational processes and make a tangible difference to application reliability and delivery.
+
+If you’re passionate about DevOps, enjoy getting to the root of technical problems and want to help build more reliable, automated and maintainable application environments, we’d love to hear from you.
+
+Skills
+Azure DevOpsCI/CD (Continuous Integration/Delivery)DevOpsTerraform (Infrastructure as Code) (Kubernetes)
+Share
+Hide
+Add skills to your profile and be found by recruiters.
+Create profile
+Similar Jobs
+Senior DevOps Engineer
+2 October by Inspire People
+£48,429 - £52,222 per annum, inc benefits
+Birmingham, West Midlands (County)
+Permanent, full-time
+Easy Apply
+Lead DevOps Engineer
+13 October by Oscar Technology
+£65,000 - £75,000 per annum
+Birmingham, West Midlands (County)
+Permanent, full-time
+Featured
+Easy Apply
+AI Platform & DevOps Engineer
+10 October by Michael Page Technology
+£64,800 - £72,000 per annum
+Birmingham, West Midlands (County)
+Permanent, full-time
+Easy Apply
+Cloud Engineer
+24 September by Oscar Technology
+£40,000 - £55,000 per annum
+Birmingham, West Midlands (County)
+Permanent, full-time
+New
+Easy Apply
+Full Stack Developer
+Yesterday by Blues Point Ltd
+£70,000 - £80,000 per annum
+Birmingham, West Midlands (County)
+Permanent, full-time
+Lead Qa Engineer
+8 October by Compass Group UK & Ireland Ltd
+Competitive salary
+Birmingham, West Midlands (County)
+Permanent, full-time
+See more jobs like this
+Reference: 57477487
+Please note that Reed.co.uk will only ask for passport or driving licence details where necessary and through official, secure channels.
+Report this job 
+Create alerts for similar jobs
+DevOps Engineer
+Birmingham
+Edit
+Email address
+Create alert
+By creating an alert, you agree to the Terms and conditions applicable to our service and acknowledge that your personal data will be used in accordance with our Privacy policy and you will receive emails and communications about jobs and career related topics.
+Recommended courses
+Microsoft Certified Azure Developer Associate
+Online, Self-paced
+£395
+Microsoft Certified Azure Administrator Associate
+Online, Self-paced
+£295
+Maters in DevOps Engineer IT Program job ready | Bundle 13 Courses | Live Projects
+Online with live classes
+£3,999.99
+View Development courses
+Posted by Blues Point Ltd
+View all jobs and profile
+JOBS
+Contact us
+Job search
+Recruiter directory
+Remote jobs
+Browse jobs
+Browse locations
+Popular searches
+Career advice
+Tax calculator
+Average salary checker
+Help
+Contact a REED office
+Sitemap
+RECRUITER
+Recruiter site
+Post a job
+CV Search
+Recruitment agencies
+Recruiter Advice
+COURSES
+Help
+Contact us
+Find a course
+View all subjects
+Discount courses
+Free courses
+Awarding body directory
+Career guides
+Advertise a course
+Courses sitemap
+MORE FROM Reed.co.uk
+About us
+Careers at Reed.co.uk
+Press office
+Corporate governance
+Modern slavery statement
+REED
+Tempzone: timesheets & holiday
+Authorise timesheets
+Reed Group Services
+Reed Specialist Recruitment
+Reed Learning
+Reed in Partnership
+Careers with REED
+James Reed - Official Site
+Podcast - James Reed: all about business
+ESG & sustainability
+Learn how Reed is leading the way in philanthropy
+Introducing our new podcast
+New
+
+James Reed: all about business
+
+Listen here
+Manage Preferences,Security, Privacy, Terms & Conditions
+
+COPYRIGHT © Reed.co.uk 2026
+
+We Value Your Privacy
+We and our 1033 partners use cookies and process your data to personalise content and ads, measure performance and improve our services. You can update or withdraw your consent at any time via Manage Preferences. See our Privacy Policy.
+We and our partners process data to provide:
+
+Use precise geolocation data. Actively scan device characteristics for identification. Store and/or access information on a device. Personalised advertising and content, advertising and content measurement, audience research and services development.
+Partner List
+
+Show Purposes
+Reject All I Accept
