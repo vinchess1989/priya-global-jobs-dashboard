@@ -1,12 +1,12 @@
 {
   "pid": 62480,
   "started_at": "2026-10-21T19:42:14+03:00",
-  "heartbeat_at": "2026-10-21T20:14:04+03:00",
+  "heartbeat_at": "2026-10-21T20:35:50+03:00",
   "phase": "reviewing",
-  "detail": "Account Manager",
-  "last_scrape_ok_at": "2026-10-21T19:58:52+03:00",
+  "detail": "Store Helper",
+  "last_scrape_ok_at": "2026-10-21T20:17:47+03:00",
   "last_error": {
-    "at": "2026-10-21T19:58:28+03:00",
-    "message": "linkedin_mt_iso_13485: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.linkedin.com/jobs/search?keywords=ISO+13485&geoId=100961908&sortBy=DD\nCall log:\n  - navigating to \"https://www.linkedin.com/jobs/search?keywords=ISO+13485&geoId=100961908&sortBy=DD\", waiting until \"load\"\n"
+    "at": "2026-10-21T20:16:12+03:00",
+    "message": "cv_library_iso_13485: Page.goto: Navigation to \"https://www.cv-library.co.uk/iso-13485-jobs\" is interrupted by another navigation to \"about:blank\"\nCall log:\n  - navigating to \"https://www.cv-library.co.uk/iso-13485-jobs\", waiting until \"load\"\n"
   }
 }
