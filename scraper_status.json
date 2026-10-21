@@ -1,12 +1,12 @@
 {
   "pid": 63188,
   "started_at": "2026-10-21T20:40:05+03:00",
-  "heartbeat_at": "2026-10-22T01:45:16+03:00",
+  "heartbeat_at": "2026-10-22T02:02:58+03:00",
   "phase": "reviewing",
-  "detail": "Supervisor, Technical Writer",
-  "last_scrape_ok_at": "2026-10-22T01:32:08+03:00",
+  "detail": "Manufacturing Senior Associate_104865",
+  "last_scrape_ok_at": "2026-10-22T01:50:22+03:00",
   "last_error": {
-    "at": "2026-10-22T00:38:54+03:00",
-    "message": "cv_library_product_specialist: Page.goto: Navigation to \"https://www.cv-library.co.uk/product-specialist-jobs\" is interrupted by another navigation to \"about:blank\"\nCall log:\n  - navigating to \"https://www.cv-library.co.uk/product-specialist-jobs\", waiting until \"load\"\n"
+    "at": "2026-10-22T01:47:53+03:00",
+    "message": "pnet_technical_writer: Page.goto: Navigation to \"https://www.pnet.co.za/jobs/technical-writer\" is interrupted by another navigation to \"about:blank\"\nCall log:\n  - navigating to \"https://www.pnet.co.za/jobs/technical-writer\", waiting until \"load\"\n"
   }
 }

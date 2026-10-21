@@ -12901,5 +12901,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Deadline (2026-10-20) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Government Services Adviser",
+    "company": "Department of Corrections NZ",
+    "location": "Wellington, New Zealand",
+    "url": "https://nz.linkedin.com/jobs/view/government-services-adviser-at-department-of-corrections-nz-4481164012",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role does not align with the candidate's expertise in configuration management, release processes, or technical documentation ownership in regulated industries; it focuses on legal/administrative tasks unrelated to her background.",
+    "id": "b94091ec",
+    "source": "linkedin_nz_documentation_specialist",
+    "added_at": "2026-10-22T01:49:39+03:00",
+    "posted_date": "2026-10-22",
+    "deadline": "2023-11-01",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2023-11-01) passed by more than 2 days and unreviewed"
   }
 ]
