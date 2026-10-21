@@ -1,0 +1,307 @@
+Title: DevOps Engineer
+Company: Codewinglet Private Limited
+Location: Surat, Gujarat, India
+URL: https://in.linkedin.com/jobs/view/devops-engineer-at-codewinglet-private-limited-4480402459
+Posted: 2026-10-20
+Deadline: N/A
+Reason: The job as a DevOps Engineer in Surat, India matches Priya's expertise in CI/CD pipelines, infrastructure management, and regulated industries, aligning with her background at Elektrobit and Topcon, as well as the positive constraint related to configuration management and technical communication experience.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+Codewinglet Private Limited  Surat, Gujarat, India
+1 day ago  125 applicants
+  
+
+See who Codewinglet Private Limited has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Job Title: DevOps Engineer
+
+Company: Codewinglet Pvt Ltd
+
+Location: Surat, Gujarat (Must be based in Surat or willing to relocate)
+
+Experience: 1-6 Years
+
+Employment Type: Full-time
+
+Work Mode: Work from Office (WFO)
+
+About Codewinglet
+
+Codewinglet Pvt. Ltd. is an AI-first engineering company building modern software products and solutions across AI, web, backend, and cloud technologies.
+
+Role Overview
+
+We are looking for a hands-on DevOps Engineer to build, automate, secure, and maintain reliable cloud infrastructure and deployment pipelines. You will work with cloud, Terraform, Docker, Kubernetes, Helm, CI/CD, and monitoring tools to improve deployment efficiency and production reliability.
+
+You will take ownership of infrastructure and delivery tasks from implementation through troubleshooting and continuous improvement, collaborating closely with development and engineering teams. You will also contribute to technical design decisions, infrastructure reviews, incident resolution, and knowledge sharing.
+
+Key Responsibilities
+
+
+Build, maintain, and troubleshoot CI/CD pipelines and application deployments across environments.
+Provision and manage AWS infrastructure using Terraform and infrastructure-as-code best practices.
+Manage containerized applications using Docker, Kubernetes, and Helm.
+Monitor systems, investigate incidents, identify root causes, and implement preventive improvements.
+Apply cloud security best practices, manage secrets, and support vulnerability remediation.
+Optimize cloud costs, performance, availability, and resource utilization.
+Follow change-management practices and maintain technical documentation.
+Collaborate with development teams on automation, infrastructure design, and release reliability.
+
+
+Required Technical Skills
+
+
+Linux & Networking: Linux administration, troubleshooting, TCP/IP, DNS, HTTP/S, firewalls, load balancers, and AWS networking (VPC, subnets, routing, security groups).
+Git & Scripting: Git workflows, branching strategies, and Bash or Python scripting.
+Containers & Orchestration: Docker, Kubernetes fundamentals, and hands-on Helm chart development, configuration, releases, and troubleshooting.
+CI/CD: Practical experience with GitHub Actions, Jenkins, GitLab CI, or an equivalent platform; automated builds, testing, deployments, and rollbacks.
+AWS: Hands-on experience with services such as EC2, VPC, IAM, S3, RDS, CloudWatch, and EKS or ECS.
+Terraform: Infrastructure provisioning, reusable modules, remote state, state locking, environment separation, and plan/apply workflows.
+Monitoring & Security: Metrics, logs, dashboards, alerts, incident troubleshooting, least-privilege IAM, secret management, and vulnerability scanning.
+
+
+Good To Have (Preferred Skills)
+
+
+Experience with Azure or Google Cloud Platform (GCP).
+GitOps tools such as Argo CD or Flux.
+DevSecOps tools such as Trivy, Gitleaks, SonarQube, or Snyk.
+OpenTelemetry, distributed tracing, SRE practices, or FinOps.
+Relevant certifications such as AWS SAA / DOP, CKA, CKAD, or Terraform Associate.
+
+
+Eligibility Criteria
+
+
+Experience: 1-6 years in DevOps, SRE, cloud infrastructure, or platform engineering.
+Education: Relevant degree or equivalent practical experience.
+Certifications: Cloud, Kubernetes, or Terraform certifications are preferred but not mandatory.
+Willingness to work onsite in Surat and participate in operational support as required.
+
+
+What You Will Gain
+
+
+Hands-on ownership of real-world cloud infrastructure and deployment workflows.
+Opportunities to work on infrastructure design, automation, security, and cloud optimization.
+Structured learning paths, learning materials, and support for professional development.
+Growth opportunities toward Senior DevOps Engineer, Platform Engineer, or SRE roles.
+
+
+Soft Skills We Value
+
+
+Ownership, systematic problem-solving, curiosity, clear communication, collaboration, proactiveness, composure, and continuous improvement.
+
+
+Why Join Codewinglet?
+
+
+Modern products and technologies in an AI-first engineering environment.
+Real-time AI projects, including AI Agents and GenAI systems.
+High-growth, fast-paced learning environment.
+Exposure to the latest technologies and live projects.
+Supportive and transparent leadership.
+Clear career growth and performance-based appraisals.
+Competitive & industry-aligned salary.
+Stable team culture with regular engagement activities.
+Flexible working hours and 5-day work week.
+On-time salary disbursement.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT System Custom Software Development, Software Development, and IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Codewinglet Private Limited by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Surat, Gujarat, India.
+
+Sign in to create job alert
+Jobs
+Database Engineer jobs
+DevOps Engineer
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+Gainserv
+Surat, Gujarat, India
+2 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Uffizio
+Valsad, Gujarat, India
+3 months ago
+Infrastructure Engineer
+Infrastructure Engineer
+videosdk.live
+Surat, Gujarat, India
+1 month ago
+Product Support Engineer
+Product Support Engineer
+videosdk.live
+Surat, Gujarat, India
+4 months ago
+Intern DevOps Engineer
+Intern DevOps Engineer
+Codewinglet Private Limited
+Surat, Gujarat, India
+1 day ago
+IT Infrastructure Support Engineer
+IT Infrastructure Support Engineer
+StellarEdge Brokers
+Surat, Gujarat, India
+2 months ago
+Show more jobs like this 
+People also viewed
+MERN Stack Developer
+MERN Stack Developer
+
+EbizzInfotech
+
+Surat, Gujarat, India
+₹180,000 - ₹480,000
+1 year ago
+Senior Manager – IT Infrastructure & Cybersecurity
+Senior Manager – IT Infrastructure & Cybersecurity
+
+Concept Medical
+
+Surat, Gujarat, India
+1 week ago
+Fullstack Laravel Developer
+Fullstack Laravel Developer
+
+CVNinja
+
+Surat, Gujarat, India
+₹40,000 - ₹70,000
+1 month ago
+Python Developer
+Python Developer
+
+DecodeUp (P) Limited
+
+Chorasi, Gujarat, India
+1 year ago
+Forward Deployed Engineer
+Forward Deployed Engineer
+
+videosdk.live
+
+Surat, Gujarat, India
+4 months ago
+Information Technology Administrator
+Information Technology Administrator
+
+videosdk.live
+
+Surat, Gujarat, India
+6 months ago
+Full Stack Engineer
+Full Stack Engineer
+
+videosdk.live
+
+Surat, Gujarat, India
+6 months ago
+SDE 1
+SDE 1
+
+videosdk.live
+
+Surat, Gujarat, India
+6 months ago
+Machine Learning Engineer
+Machine Learning Engineer
+
+videosdk.live
+
+Surat, Gujarat, India
+₹300,000 - ₹500,000
+1 week ago
+Full Stack Engineer
+Full Stack Engineer
+
+videosdk.live
+
+Surat, Gujarat, India
+1 month ago
+Similar Searches
+Database Engineer jobs
+5,147 open jobs
+Human Resources Executive jobs
+1,134 open jobs
+Assistant Product Manager jobs
+1,009 open jobs
+SQL Developer jobs
+4,158 open jobs
+Javascript Developer jobs
+14,295 open jobs
+Search Engine Optimization Specialist jobs
+1,957 open jobs
+Machine Learning Engineer jobs
+23,895 open jobs
+Junior Web Developer jobs
+5,053 open jobs
+Talent Acquisition Specialist jobs
+3,083 open jobs
+Web Development Intern jobs
+1,491 open jobs
+Human Resources Generalist jobs
+1,980 open jobs
+Python Developer jobs
+12,759 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

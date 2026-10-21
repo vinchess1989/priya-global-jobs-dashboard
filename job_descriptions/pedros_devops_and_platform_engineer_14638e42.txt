@@ -1,0 +1,299 @@
+Title: DevOps and Platform Engineer
+Company: Pedros
+Location: Durban, KwaZulu-Natal, South Africa
+URL: https://za.linkedin.com/jobs/view/devops-and-platform-engineer-at-pedros-4481796362
+Posted: 2026-10-21
+Deadline: N/A
+Reason: The job aligns with DevOps Engineer criteria (CI/CD pipelines, infrastructure as code) and meets location (South Africa), experience level (mid-senior), and English-language requirements. It also matches the configuration management positive constraint.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps and Platform Engineer
+Pedros  Durban, KwaZulu-Natal, South Africa
+6 hours ago   Be among the first 25 applicants
+  
+
+See who Pedros has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+The DevOps and Platform Engineer implements and maintains the hosting platform: the virtual machines and services that run the company's applications in Private Hosted Environments, and public cloud services where the business needs them. The role keeps that environment patched, secure, monitored, recoverable and well documented, and builds and maintains the automation (pipelines and infrastructure as code) that gets applications onto it reliably and repeatably.
+
+The role reports to the Platform and Engineering Manager, who sets the hosting standards and assists where needed. The engineer implements and maintains the environment to those standards and is the main hands-on owner of the platform day to day.
+
+Responsibilities
+
+Hosting Infrastructure
+
+
+Implement, configure, operate and maintain the hosting virtual machines and services in Private Hosted Environments, to the standards set by the Platform and Engineering Manager.
+Implement and maintain public cloud services on AWS and Azure where the business needs them, to the same standards.
+Carry out routine maintenance, including patching, upgrades, certificate and credential renewals, and lifecycle management.
+Provision and decommission development, test and production environments in a consistent, repeatable way.
+Maintain an accurate inventory of hosted systems, environments and their dependencies.
+
+
+Automation and Delivery Pipelines
+
+
+Build and maintain the CI/CD pipelines used by the development team.
+Define infrastructure as code so environments can be rebuilt from source control rather than by hand.
+Automate repetitive operational work and reduce manual steps in deployment and maintenance.
+Support developers in deploying and running their applications correctly in each environment.
+
+
+Security and Hardening
+
+
+Apply hardening baselines, network segmentation, and firewall and access rules across hosted environments.
+Manage access to hosting environments on a least-privilege basis, review it regularly and remove it promptly when no longer needed.
+Manage secrets, keys and certificates so that no credentials sit in code or repositories.
+Run dependency, container image and configuration scanning in the pipelines, and act on the results with the Platform and Engineering Manager.
+Remediate hosting-related security and risk findings assigned by the Platform and Engineering Manager within agreed timelines, and provide evidence of the fix for independent verification.
+
+
+Backup, Recovery and Resilience
+
+
+Implement and operate backups for hosted systems, aligned to the agreed RPO/RTO and system classification.
+Test restores on a regular schedule and record the results.
+Maintain recovery runbooks and contribute to disaster recovery and business continuity planning.
+
+
+Monitoring and Incident Response
+
+
+Implement monitoring, alerting and log collection for hosted systems, and keep alerts actionable.
+Respond to hosting incidents, restore service, and document the root cause and follow-up actions.
+Take part in out-of-hours support for hosted systems.
+
+
+Change Control
+
+
+Raise hosting changes through the IT Operations change process and implement only approved changes.
+Record what was changed, when and why, so changes can be traced and reversed.
+
+
+Cost Awareness
+
+
+Right-size and tag resources, and flag unused or underused resources.
+Provide the Platform and Engineering Manager with consumption data so spend can be tracked and motivated.
+
+
+Documentation and Knowledge Sharing
+
+
+Maintain runbooks, architecture diagrams and procedures so another team member can operate, restore and rebuild the environment in the engineer's absence.
+Work with the Platform and Engineering Manager and the senior developers so that at least one other person can perform critical tasks such as restoring from backup, rotating credentials and deploying to production.
+
+
+Requirements
+
+
+5+ years in infrastructure, DevOps or hosting roles, running production systems.
+Hands-on experience implementing and running virtual machines and services in privately hosted environments, including virtualisation platforms.
+Working experience with AWS and Azure services, enough to implement and maintain them where needed.
+Strong Linux server administration.
+Containerisation experience with Docker and an orchestrator such as Docker Swarm or Kubernetes, including reverse proxies and load balancing.
+Infrastructure as code experience (for example Terraform, Bicep, CloudFormation or Ansible) and CI/CD pipeline experience.
+Solid networking knowledge, including DNS, TLS, firewalls, VPNs and network segmentation.
+Practical experience with backup, restore and disaster recovery, including having tested restores.
+Experience with monitoring, logging and alerting tools.
+Understanding of identity and access management, including least privilege, role-based access, SSO and OAuth.
+Scripting ability in Bash, PowerShell or Python.
+Clear written documentation, and the discipline to work to a standard set by someone else and show evidence of compliance.
+Willingness to take part in out-of-hours support.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Restaurants
+  
+
+Referrals increase your chances of interviewing at Pedros by 2x
+
+See who you know
+
+Get notified about new Platform Engineer jobs in Durban, KwaZulu-Natal, South Africa.
+
+Sign in to create job alert
+Jobs
+Site Reliability Engineer jobs
+DevOps and Platform Engineer
+Similar jobs
+Senior DevOps Engineer (Architecture)
+Senior DevOps Engineer (Architecture)
+BETSoftware
+Durban, KwaZulu-Natal, South Africa
+1 week ago
+Platform and Engineering Manager
+Platform and Engineering Manager
+Pedros
+Durban, KwaZulu-Natal, South Africa
+6 hours ago
+Infrastructure SysOps Engineer
+Infrastructure SysOps Engineer
+Rewardsco
+Umhlanga, KwaZulu-Natal, South Africa
+1 month ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+BETSoftware
+Durban, KwaZulu-Natal, South Africa
+1 week ago
+Senior Team Lead, DevOps
+Senior Team Lead, DevOps
+NTT DATA, Inc.
+Durban, KwaZulu-Natal, South Africa
+2 weeks ago
+Solutions Engineer
+Solutions Engineer
+Pedros
+Durban, KwaZulu-Natal, South Africa
+6 hours ago
+Show more jobs like this 
+People also viewed
+Engineer - Geotechnical
+Engineer - Geotechnical
+
+AECOM
+
+Durban, KwaZulu-Natal, South Africa
+2 months ago
+Engineer - Geotechnical
+Engineer - Geotechnical
+
+AECOM
+
+Durban Metropolitan Area
+3 months ago
+Senior Applied AI Engineer – Prompting & Evaluation
+Senior Applied AI Engineer – Prompting & Evaluation
+
+Klipboard
+
+Durban, KwaZulu-Natal, South Africa
+12 hours ago
+Technical Lead
+Technical Lead
+
+Unilever
+
+Durban, KwaZulu-Natal, South Africa
+5 days ago
+Coding Facilitator
+Coding Facilitator
+
+HyperionDev
+
+Durban, KwaZulu-Natal, South Africa
+5 months ago
+Senior Developer
+Senior Developer
+
+Rewardsco
+
+Umhlanga, KwaZulu-Natal, South Africa
+1 month ago
+Toolsetter
+Toolsetter
+
+MAHLE
+
+Durban, KwaZulu-Natal, South Africa
+1 week ago
+Process Safety Engineer
+Process Safety Engineer
+
+Buckman
+
+Durban, KwaZulu-Natal, South Africa
+2 weeks ago
+IT Support Engineer (Microsoft 365) - Office Based
+IT Support Engineer (Microsoft 365) - Office Based
+
+Growth Resourcing
+
+Umhlanga, KwaZulu-Natal, South Africa
+ZAR 204,000 - ZAR 240,000
+1 month ago
+Production Process Controller
+Production Process Controller
+
+Coca-Cola Beverages Africa
+
+Phoenix, KwaZulu-Natal, South Africa
+5 days ago
+Similar Searches
+Site Reliability Engineer jobs
+1,083 open jobs
+Infrastructure Engineer jobs
+360 open jobs
+Linux Engineer jobs
+269 open jobs
+Senior Infrastructure Engineer jobs
+155 open jobs
+Virtualization Engineer jobs
+78 open jobs
+Unix Engineer jobs
+38 open jobs
+Cloud Architect jobs
+324 open jobs
+System Development Engineer jobs
+3,642 open jobs
+Senior Reliability Engineer jobs
+28 open jobs
+Linux System Engineer jobs
+240 open jobs
+Database Engineer jobs
+270 open jobs
+Linux System Administrator jobs
+35 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

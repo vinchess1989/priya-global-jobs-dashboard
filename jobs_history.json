@@ -38421,5 +38421,38 @@
     "applied": 4,
     "added": 0,
     "deleted": 0
+  },
+  {
+    "timestamp": "2026-10-20T17:20:55",
+    "total": 12481,
+    "yes": 862,
+    "no": 7220,
+    "maybe": 3705,
+    "pending": 61,
+    "applied": 4,
+    "added": 15,
+    "deleted": 0
+  },
+  {
+    "timestamp": "2026-10-21T07:37:07",
+    "total": 12496,
+    "yes": 862,
+    "no": 7220,
+    "maybe": 3706,
+    "pending": 75,
+    "applied": 4,
+    "added": 15,
+    "deleted": 0
+  },
+  {
+    "timestamp": "2026-10-21T07:48:55",
+    "total": 12473,
+    "yes": 866,
+    "no": 7203,
+    "maybe": 3711,
+    "pending": 60,
+    "applied": 4,
+    "added": 0,
+    "deleted": 23
   }
 ]
