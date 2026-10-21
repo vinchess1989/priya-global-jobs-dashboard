@@ -1,12 +1,12 @@
 {
-  "pid": 59256,
-  "started_at": "2026-10-21T07:36:18+03:00",
-  "heartbeat_at": "2026-10-21T19:15:40+03:00",
-  "phase": "reviewing",
-  "detail": "Contract Manager",
-  "last_scrape_ok_at": "2026-10-21T19:10:05+03:00",
+  "pid": 49916,
+  "started_at": "2026-10-21T19:16:49+03:00",
+  "heartbeat_at": "2026-10-21T19:33:17+03:00",
+  "phase": "scraped",
+  "detail": "0 new jobs",
+  "last_scrape_ok_at": "2026-10-21T19:33:17+03:00",
   "last_error": {
-    "at": "2026-10-21T19:10:04+03:00",
+    "at": "2026-10-21T19:33:16+03:00",
     "message": "jobsinmalta_broad: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://jobsinmalta.com/jobs\nCall log:\n  - navigating to \"https://jobsinmalta.com/jobs\", waiting until \"load\"\n"
   }
 }
