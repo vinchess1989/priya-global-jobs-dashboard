@@ -1,0 +1,259 @@
+Title: DevOps Engineer
+Company: PRESCRIRE Solutions
+Location: Greater Montreal Metropolitan Area
+URL: https://ca.linkedin.com/jobs/view/devops-engineer-at-prescrire-solutions-4478647039
+Posted: 2026-10-20
+Deadline: N/A
+Reason: The job as a DevOps Engineer at PRESCRIRE Solutions in Montreal, Canada matches Priya's expertise in CI/CD pipelines, cloud infrastructure, and regulated-industry compliance, along with her preference for roles in Canada.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+PRESCRIRE Solutions  Greater Montreal Metropolitan Area
+1 day ago  93 applicants
+  
+
+See who PRESCRIRE Solutions has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Company Overview
+
+PRESCRIRE Solutions is building AICA, an AI-powered clinical assistant platform that automates end-to-end healthcare workflows from patient intake to billing submission. Backed by NRC IRAP funding and positioned for global expansion, we're revolutionizing healthcare administration while establishing Montreal as a global leader in healthcare AI innovation.
+
+Our Mission
+
+To eliminate the administrative burden crisis affecting millions of healthcare professionals worldwide, enabling physicians to reclaim 10-15 hours per week and focus on what matters most: patient care.
+
+About The Role
+
+Build and maintain the cloud infrastructure supporting AICA's global deployment. You'll ensure 99.9% uptime while managing multi-region deployments, automated scaling, and disaster recovery for mission-critical healthcare systems built to serve thousands of physicians.
+
+Key Responsibilities
+
+
+Infrastructure Management: Maintain and scale cloud platform deployment with data residency and multi-region capabilities.
+CI/CD Pipeline Development: Build sophisticated automated deployment pipelines enabling rapid iteration and zero-downtime deployments.
+Monitoring & Alerting: Implement comprehensive observability, logging, and alerting systems for 24/7 operations.
+Scaling Architecture: Design and implement auto-scaling solutions for rapidly growing user base and enterprise customers.
+Disaster Recovery: Implement robust backup, recovery, and business continuity procedures for mission-critical data protection.
+
+
+Required Qualifications
+
+
+3+ years DevOps or cloud infrastructure experience with enterprise-scale deployments.
+Strong experience with Google Cloud Platform or AWS including compute, storage, and networking services.
+Proficiency with containerization technologies including Docker and Kubernetes orchestration.
+Experience with Infrastructure as Code tools including Terraform, Ansible, or similar automation platforms.
+Knowledge of monitoring, logging, and alerting tools for production system management.
+
+
+Preferred Qualifications
+
+
+Healthcare IT infrastructure experience with compliance-focused cloud deployments.
+Experience with multi-region deployments and Canadian data residency requirements.
+Knowledge of high-availability system design and disaster recovery planning.
+Background in security-focused infrastructure and compliance automation.
+
+
+Why Join PRESCRIRE Solutions?
+
+We're not just building software, we're revolutionizing how healthcare works globally, creating massive value for providers, patients, and shareholders.
+
+Exceptional Wealth Creation
+
+
+Explosive Growth: Join during our rocket ship phase from startup to global healthcare AI leader.
+Significant Equity: Meaningful ownership stakes with massive upside potential in a $50B+ market.
+Career Acceleration: Fast-track leadership roles as we scale from 3 to 150+ employees by 2029.
+
+
+Elite Benefits & Environment
+
+
+Top-Tier Compensation: Highly competitive packages that reward exceptional performance.
+Premium Benefits: Comprehensive health, dental, and vision coverage for you and your family.
+Continuous Learning: Generous budget for conferences, training, and skill development.
+Modern Work Environment: State-of-the-art Montreal office with flexible hybrid arrangements.
+
+
+Interview Process
+
+
+1. Initial Screening (30 mins): Phone/video call with HR to discuss background and mutual fit.
+2. Technical Assessment: Role-specific technical evaluation or coding challenge.
+3. Team Interviews (2-3 rounds): Technical discussions with engineering team and direct manager.
+4. Final Interview: Strategic discussion with CEO Patrick Mousseau.
+
+
+About Montreal's Tech Scene
+
+Montreal is rapidly becoming North America's AI capital, offering ambitious technologists an unparalleled opportunity to build world-changing companies. Home to MILA and a growing cluster of breakthrough AI companies, the city provides a unique economic advantage to build significant wealth faster with a lower cost of living than SF/NYC.
+
+Questions?
+
+Email: careers@prescrire-solutions.com
+
+Website: www.prescrire-solutions.com
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Technology, Information and Internet
+  
+
+Referrals increase your chances of interviewing at PRESCRIRE Solutions by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+Hasbro
+Montreal, Quebec, Canada
+21 hours ago
+Platform Engineer
+Platform Engineer
+Xsolla
+Montreal, Quebec, Canada
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+EMERES INC.
+Montreal, Quebec, Canada
+2 weeks ago
+DevOps Engineer (Cloud Infrastructure)
+DevOps Engineer (Cloud Infrastructure)
+Tecsys Inc.
+Montreal, Quebec, Canada
+1 week ago
+Ingénieur·e DevOps
+Ingénieur·e DevOps
+Hasbro
+Montreal, Quebec, Canada
+21 hours ago
+DevOps
+DevOps
+Extia
+Montreal, Quebec, Canada
+3 days ago
+Show more jobs like this 
+People also viewed
+Analyste DevOps
+Analyste DevOps
+
+TMX Group
+
+Montreal, Quebec, Canada
+1 week ago
+Site Reliability Engineer / Full Stack Engineer
+Site Reliability Engineer / Full Stack Engineer
+
+Lockheed Martin
+
+Montreal, Quebec, Canada
+2 months ago
+Senior Devops
+Senior Devops
+
+Archie
+
+Montreal, Quebec, Canada
+1 month ago
+Platform Engineer
+Platform Engineer
+
+CDWare Technologies
+
+Greater Montreal Metropolitan Area
+1 month ago
+Infrastructure Engineer
+Infrastructure Engineer
+
+People Culture Talent
+
+Montreal, Quebec, Canada
+1 month ago
+DevOps Principal·e / Principal DevOps
+DevOps Principal·e / Principal DevOps
+
+Cloud Imperium Games Montreal
+
+Montreal, Quebec, Canada
+1 week ago
+Platform Engineer - fintech - Montreal - $220,000+ bonus!
+Platform Engineer - fintech - Montreal - $220,000+ bonus!
+
+Hunter Bond
+
+Montreal, Quebec, Canada
+2 days ago
+DevOps Developer - Hybrid
+DevOps Developer - Hybrid
+
+ISAAC Instruments
+
+St-Bruno-de-Montarville, Quebec, Canada
+1 day ago
+Platform Engineer - Reliability - FinTech - $125,000-$225,000 CAD + Bonus
+Platform Engineer - Reliability - FinTech - $125,000-$225,000 CAD + Bonus
+
+Hunter Bond
+
+Montreal, Quebec, Canada
+CA$125,000 - CA$225,000
+1 day ago
+DevOps / Full Stack Software Developer
+DevOps / Full Stack Software Developer
+
+Xiphos
+
+Montreal, Quebec, Canada
+2 days ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at PRESCRIRE Solutions
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

@@ -1,0 +1,277 @@
+Title: Senior DevOps Engineer
+Company: VXG
+Location: Toronto, Ontario, Canada
+URL: https://ca.linkedin.com/jobs/view/senior-devops-engineer-at-vxg-4480719896
+Posted: 2026-10-21
+Deadline: N/A
+Reason: The Senior DevOps Engineer role at VXG aligns with Priya’s CI/CD pipeline ownership, configuration management expertise (Git, branching strategies), and infrastructure automation experience, despite not being in a regulated domain.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer
+VXG  Toronto, Ontario, Canada
+19 hours ago  57 applicants
+  
+
+See who VXG has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Full-time role based in our office in the midtown Toronto.
+
+
+
+
+VXG is seeking an experienced DevOps Engineer to join our team and help build reliable, automated, and scalable infrastructure for our cutting-edge video software platform. You will play a key role in streamlining deployments, monitoring, and troubleshooting across AWS and Kubernetes environments, ensuring that our systems remain robust, secure, and efficient.
+
+
+
+
+Key Responsibilities
+
+
+
+
+Automate the installation and deployment of VXG software on customers infrastructure - AWS and Kubernetes.
+Install and maintain Kubernetes deployments on customers infrastructure - private data centres, on-premises servers.
+Build and maintain scripts to configure, test, and optimize our solutions.
+Continuously improve deployment pipelines with a focus on reliability and scalability.
+Implement and enforce best practices for security, monitoring, and infrastructure automation.
+Collaborate with development teams to integrate CI/CD practices and support smooth releases and updates for all customers.
+Maintenance of production deployments, upgrades, health monitoring of services, and working with software engineers on new metrics to increase observability
+
+
+
+
+Requirements
+
+
+
+
+Strong experience with configuration management systems (Ansible) and infrastructure as code tools (Terraform, Helm Charts, CloudFormation).
+Expertise with Git administration and CI/CD pipelines (GitLab CI).
+Very strong Linux system administration experience.
+Hands-on expertise with AWS services: EC2, AutoScaling, CloudWatch, RDS, S3, CloudFormation.
+Knowledge of Docker, Kubernetes, and Helm Charts.
+Experience with Semaphore UI.
+Familiarity with VMWare vSphere.
+Strong scripting skills in Bash and Python.
+Understanding of network technologies and protocols (IP, TCP, UDP, TLS).
+
+
+
+
+Nice to Have
+
+
+
+
+Knowledge of software build tools: GNU Make, Meson, Autotools, SCons, Gradle.
+Experience with monitoring and observability tools (Prometheus, Zabbix).
+Hands-on experience managing centralized logging systems (ELK stack).
+
+
+
+
+What We Offer
+
+
+
+
+• Competitive salary and equity package.
+
+• Work in a collaborative and fast-moving startup environment.
+
+• Modern office space in the heart of Midtown Toronto.
+
+• Health and wellness benefits.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at VXG by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Senior DevOps Engineer
+Senior DevOps Engineer
+Miovision
+Kitchener, Ontario, Canada
+CA$130,000 - CA$170,000
+1 day ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+CARET
+Toronto, Ontario, Canada
+$140,000 - $170,000
+3 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Keyfactor
+Toronto, Ontario, Canada
+2 days ago
+Senior DevOps Engineer, Agentic Automation & Live Games
+Senior DevOps Engineer, Agentic Automation & Live Games
+Big Viking Games
+Toronto, Ontario, Canada
+CA$140,000 - CA$180,000
+1 month ago
+Senior DevOps Engineer - Robotics Simulation
+Senior DevOps Engineer - Robotics Simulation
+NVIDIA
+Toronto, Ontario, Canada
+4 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Aptiv
+Ottawa, Ontario, Canada
+1 week ago
+Show more jobs like this 
+People also viewed
+DevOps Engineer
+DevOps Engineer
+
+SWTCH
+
+Toronto, Ontario, Canada
+1 week ago
+Cloud DevOps
+Cloud DevOps
+
+SOTI
+
+Mississauga, Ontario, Canada
+15 hours ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Ayla Networks
+
+Ontario, Canada
+1 month ago
+Cloud Engineer ,Automation- Remote Ontario
+Cloud Engineer ,Automation- Remote Ontario
+
+Smile Digital Health
+
+Toronto, Ontario, Canada
+CA$120,000 - CA$140,000
+1 week ago
+Senior Cloud Engineer
+Senior Cloud Engineer
+
+The Nationwide Group
+
+Markham, Ontario, Canada
+CA$130,000 - CA$145,000
+3 weeks ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+Rootly
+
+Toronto, Ontario, Canada
+7 months ago
+DevOps Engineer
+DevOps Engineer
+
+Leap Tools
+
+Toronto, Ontario, Canada
+3 weeks ago
+Senior Release Engineer
+Senior Release Engineer
+
+Akamai Technologies
+
+Ottawa, Ontario, Canada
+5 days ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+GFL Environmental Inc.
+
+Vaughan, Ontario, Canada
+5 days ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+Scotiabank
+
+Toronto, Ontario, Canada
+3 days ago
+Similar Searches
+Business Development Intern jobs
+226 open jobs
+Platform Engineer jobs
+3,470 open jobs
+Chief Information Officer jobs
+789 open jobs
+Marketing Associate jobs
+2,564 open jobs
+Chief Technology Officer jobs
+725 open jobs
+Data Scientist jobs
+15,996 open jobs
+Engineer jobs
+24,068 open jobs
+Account Executive jobs
+3,738 open jobs
+Director jobs
+55,280 open jobs
+Site Reliability Engineer jobs
+7,519 open jobs
+Network Engineer jobs
+6,983 open jobs
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at VXG
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
