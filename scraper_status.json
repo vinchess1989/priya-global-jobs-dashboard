@@ -1,12 +1,12 @@
 {
   "pid": 63188,
   "started_at": "2026-10-21T20:40:05+03:00",
-  "heartbeat_at": "2026-10-22T00:37:32+03:00",
+  "heartbeat_at": "2026-10-22T00:51:08+03:00",
   "phase": "reviewing",
-  "detail": "Client Services Analyst",
-  "last_scrape_ok_at": "2026-10-22T00:25:56+03:00",
+  "detail": "Electronic Product Development Specialist (Ref # 24776)",
+  "last_scrape_ok_at": "2026-10-22T00:40:07+03:00",
   "last_error": {
-    "at": "2026-10-21T23:43:42+03:00",
-    "message": "cv_library_release_manager: Page.goto: Navigation to \"https://www.cv-library.co.uk/release-manager-jobs\" is interrupted by another navigation to \"about:blank\"\nCall log:\n  - navigating to \"https://www.cv-library.co.uk/release-manager-jobs\", waiting until \"load\"\n"
+    "at": "2026-10-22T00:38:54+03:00",
+    "message": "cv_library_product_specialist: Page.goto: Navigation to \"https://www.cv-library.co.uk/product-specialist-jobs\" is interrupted by another navigation to \"about:blank\"\nCall log:\n  - navigating to \"https://www.cv-library.co.uk/product-specialist-jobs\", waiting until \"load\"\n"
   }
 }
