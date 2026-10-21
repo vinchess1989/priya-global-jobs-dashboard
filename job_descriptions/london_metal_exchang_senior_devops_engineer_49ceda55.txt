@@ -1,0 +1,292 @@
+Title: Senior DevOps Engineer
+Company: London Metal Exchange
+Location: London, England, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/senior-devops-engineer-at-london-metal-exchange-4477396622
+Posted: 2026-10-16
+Deadline: N/A
+Reason: The Senior DevOps Engineer role at London Metal Exchange aligns with Priya's expertise in CI/CD pipelines, infrastructure automation, and regulated compliance, matching her background in configuration management, release ownership, and Python scripting.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer
+London Metal Exchange  London, England, United Kingdom
+5 days ago  42 applicants
+  
+
+See who London Metal Exchange has hired for this role
+
+Apply 
+Save
+Shift Pattern:
+
+Standard 40 Hour Week (United Kingdom)
+
+Scheduled Weekly Hours:
+
+40
+
+Corporate Grade:
+
+D - Assistant Vice President
+
+Reporting Line:
+
+(UK Division) Information Technology
+
+Location:
+
+UK-London
+
+Worker Type:
+
+Permanent
+
+This role is a critical part of the Development Tooling team, responsible for creating and maintaining the internal tools and systems that developers use to build, test, and deploy software more efficiently. The main goal is to improve developer productivity and experience by streamlining workflows, automating repetitive tasks, and ensuring that development environments are fast, reliable, and easy to use. Act as a bridge between development and infrastructure teams, helping standardise processes, enforce best practices, and optimise performance across the software development lifecycle. An Engineer supporting the strategic roadmap of modernising the toolset at the LME.
+
+This is a high-impact role for a candidate who is passionate about engineering excellence, working directly with development and operations teams to create solutions and enabling tangible value through technology. This role is an end-to-end engineering role which includes solution design, implementation, deployment, and support in a regulated corporate (Prod) environment.
+
+Responsibilities:
+
+
+
+Design, deploy, and manage Kubernetes clusters across on-prem environments.
+Develop and maintain Python scripts and automation tools for infrastructure provisioning, monitoring, and deployment.
+Build and maintain CI/CD pipelines using tools like Ansible, Artifactory, Bitbucket, Bamboo, GitLab CI, and ArgoCD.
+Implement infrastructure as code (IaC) using Terraform, Helm, or similar tools.
+Monitor system performance and troubleshoot issues across the stack.
+Collaborate with development teams to ensure smooth application delivery and operations.
+Ensure security, compliance, and best practices are followed in infrastructure and deployment processes.
+Lead incident analysis and root cause investigations for data-related issues, implementing improvements to enhance system stability and performance.
+Act as a liaison between technical teams and non-technical stakeholders, ensuring clear and effective communication of project status, risks, and requirements.
+Ensure all technical documentation is accurate, up-to-date, and accessible to relevant stakeholders.
+Participate in on-call rotations and incident response.
+
+
+
+Academic and Professional Qualifications Required:
+
+
+
+Required: Bachelor’s degree in Computer Science, Software Engineering, Data Science, or a closely related field.
+Advantageous: Certifications or substantial hands-on experience with modern Development pipeline tools
+Desirable: Familiarity with financial services regulatory frameworks and best practices for data governance
+
+
+
+Required Knowledge and Level of Experience:
+
+
+
+Experience: Minimum 8 years expertise in software development workflows, infrastructure automation, and developer experience.
+Programming Skills : proficient in scripting like Python bash and PowerShell
+
+
+
+Skills set and Core Competencies Required for Role:
+
+
+
+Strong hands-on experience with Kubernetes (self-managed).
+Proficiency in Python for scripting and automation.
+Solid understanding of CI/CD pipelines and DevOps practices.
+Experience with Terraform, Helm, or other IaC tools.
+Experienced with monitoring and logging tools (e.g., Prometheus, Grafana).
+Experience with containerization (Docker) and container orchestration.
+Strong problem-solving skills and a collaborative mindset.
+
+
+
+Personal Qualities:
+
+
+
+Proactivity: Demonstrates a passion for continuous learning, improvement, and staying current with industry trends.
+Independent and dependable: Work well under pressure and within cross-functional teams
+Collaboration: Works effectively across departments and disciplines, building strong relationships with both technology and business colleagues.
+Outcome-Driven: Motivated by delivering real-world outcomes, improving enterprise value, and supporting business strategy.
+Problem-Solving and Critical Thinking: Proactively identify inefficiencies and propose effective, scalable solutions.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at London Metal Exchange by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in London, England, United Kingdom.
+
+Sign in to create job alert
+Similar jobs
+Sr DevOps Engineer
+Sr DevOps Engineer
+Xe.com
+Bracknell, England, United Kingdom
+2 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Catapult
+London, England, United Kingdom
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+OAG
+Luton, England, United Kingdom
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Xelix
+London, England, United Kingdom
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+LocalStack
+London, England, United Kingdom
+£70,000 - £90,000
+1 month ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Duetto
+London, England, United Kingdom
+1 week ago
+Show more jobs like this 
+People also viewed
+DevOps Engineer - AWS & Terraform
+DevOps Engineer - AWS & Terraform
+
+Global Payments Inc.
+
+London, England, United Kingdom
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Applied Data Science Partners
+
+London Area, United Kingdom
+1 hour ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+WeDo
+
+London Area, United Kingdom
+£70,000 - £75,000
+6 days ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+Lyst
+
+London, England, United Kingdom
+1 month ago
+Lead DevOps Engineer - AWS, Kubernetes, Terraform
+Lead DevOps Engineer - AWS, Kubernetes, Terraform
+
+JPMorganChase
+
+Greater London, England, United Kingdom
+5 days ago
+Senior DevOps Engineer - Global
+Senior DevOps Engineer - Global
+
+Orix Digi
+
+Harrow, England, United Kingdom
+2 months ago
+Lead DevOps Engineer
+Lead DevOps Engineer
+
+hedgehog lab
+
+London, England, United Kingdom
+5 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Oliver Bernard
+
+London Area, United Kingdom
+£100,000 - £125,000
+3 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Code Wizards Group
+
+Theale, England, United Kingdom
+2 weeks ago
+Senior Platform (DevOps) Engineer
+Senior Platform (DevOps) Engineer
+
+Point of Rental Software
+
+Reading, England, United Kingdom
+3 weeks ago
+Similar Searches
+Interim Lawyer jobs
+6,158 open jobs
+Senior Sql Database Administrator jobs
+405 open jobs
+Bond Trader jobs
+453 open jobs
+Commodity Analyst jobs
+2,584 open jobs
+Power Trader jobs
+110 open jobs
+Futures Trader jobs
+328 open jobs
+Market Data Analyst jobs
+2,645 open jobs
+Head of Market Research jobs
+285 open jobs
+Quantitative Risk Analyst jobs
+3,210 open jobs
+Fixed Income Trader jobs
+469 open jobs
+Senior Application Support Engineer jobs
+898 open jobs
+Senior Mining Engineer jobs
+37 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at London Metal Exchange
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

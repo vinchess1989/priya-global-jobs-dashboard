@@ -1,0 +1,239 @@
+Title: DevOps Engineer - Belfast
+Company: Upwind Security
+Location: Belfast, Northern Ireland, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/devops-engineer-belfast-at-upwind-security-4482076371
+Posted: 2026-10-21
+Deadline: N/A
+Reason: The DevOps Engineer role at Upwind Security aligns with Priya's expertise in CI/CD pipelines, infrastructure automation, and regulated-industry experience, while the Belfast, UK location is within her target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer - Belfast
+Upwind Security  Belfast, Northern Ireland, United Kingdom
+6 hours ago   Be among the first 25 applicants
+  
+
+See who Upwind Security has hired for this role
+
+Apply 
+Save
+Description
+
+Upwind is a next-generation Cloud Security Platform that leverages runtime context to identify and prioritize critical risks, providing precise insights and efficient cloud security management. Unlike traditional tools, Upwind uses runtime data proactively for risk prioritization and posture insights, ensuring teams focus on what truly matters. With industry-leading efficiency and eBPF-powered sensors, Upwind delivers comprehensive capabilities, including agentless cloud posture discovery, real-time threat protection, and integrated API security. From misconfigurations to malware defense, Upwind ensures end-to-end, cost-effective cloud infrastructure protection. At Upwind, you’ll have the opportunity to think creatively, explore new ideas, and use your skills to make a meaningful impact on our growth.
+
+We are looking for an experienced DevOps Engineer to join our team. Our DevOps team collaborates closely with every engineering unit within Upwind, delivering CI/CD and scalable infrastructure for all Upwind features. We leverage valued OSS solutions and employ a modern tech stack, including Kubernetes, Terraform, Argo, Helm, VictoriaMetrics, Neo4j, ElasticSearch, Redis, TimescaleDB, RabbitMQ, and more.
+
+What You’ll Do
+
+
+Take part, end to end on all features within upwind’s infrastructure, CI\CD pipelines and product features
+Be part of our product’s architectural and infrastructure design, examine and implement new cloud technologies, and open-source tools to improve the delivery and availability of the product.
+Plan and push to scale in DevEx and infrastructure efforts
+Be responsible for stable and scalable execution of product feature's infrasructure
+Monitor and maintain Production infrastructure that makes Upwind's magic happen.
+
+
+Requirements
+
+
++3 years of experience as a DevOps engineer on a production high-scale distributed system, working in a Linux environment.
+Hands-on experience with containerized environments - Kubernetes and its OSS ecosystem is used all over Upwind’s infrastructure.
+Experience with maintaining and scaling various database, and queueing infrastructures (Elasticsearch, MySql, Neo4j, Postgres (Timescale), RabbitMQ, Redis or similar technologies)
+Extensive experience with working in cloud environments on a Production system
+The mindset of automation - push to automate as many of manual processes as possible
+In-depth knowledge of build/release systems, CI/CD pipelines. (Github actions, ArgoCD)
+Proven, hands-on experience with infrastructure as code in production environments (Terraform, Terragrunt,CDK etc..)
+Proven hands-on experience with Helm templating language
+Scripting/programming skills with Python/Bash/Go.
+An innovative approach, with the ability to quickly learn technologies, and implement cutting edge technologies
+A strong sense of ownership and accountability
+
+
+Nice to have:
+
+
+Deep knowledge of working with Prometheus monitoring stack (Grafana, AlertManager, Victoria Metrics)
+Hands on experience with multiple cloud vendors
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Computer and Network Security
+  
+
+Referrals increase your chances of interviewing at Upwind Security by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Belfast, Northern Ireland, United Kingdom.
+
+Sign in to create job alert
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+PRIMUS Global Solutions (PRIMUS UK & Europe)
+Belfast, Northern Ireland, United Kingdom
+1 week ago
+DevOps Engineer 2 (Intermediate)
+DevOps Engineer 2 (Intermediate)
+Black Duck
+Belfast, Northern Ireland, United Kingdom
+5 days ago
+Site Reliability Engineer
+Site Reliability Engineer
+Delinea
+Belfast, Northern Ireland, United Kingdom
+6 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+TP ICAP
+Belfast, Northern Ireland, United Kingdom
+1 day ago
+DevOps (Kubernetes, Terraform, Ansible & Docker)
+DevOps (Kubernetes, Terraform, Ansible & Docker)
+Thrive IT Systems
+Belfast, Northern Ireland, United Kingdom
+5 days ago
+Site Reliability Engineer
+Site Reliability Engineer
+Trimble Inc.
+Newcastle, Northern Ireland, United Kingdom
+4 days ago
+Show more jobs like this 
+People also viewed
+Senior Technical Operations Engineer
+Senior Technical Operations Engineer
+
+Oracle
+
+Belfast, Northern Ireland, United Kingdom
+6 days ago
+Technical Associate - SAP UK Intern (13 Month Placement)
+Technical Associate - SAP UK Intern (13 Month Placement)
+
+SAP
+
+Belfast, Northern Ireland, United Kingdom
+£27,230 - £27,230
+6 days ago
+Staff Software Engineer
+Staff Software Engineer
+
+Harness
+
+Belfast, Northern Ireland, United Kingdom
+2 weeks ago
+Senior Cloud Security Engineer
+Senior Cloud Security Engineer
+
+Black Duck
+
+Belfast, Northern Ireland, United Kingdom
+2 weeks ago
+Application Support Engineer Hybrid
+Application Support Engineer Hybrid
+
+Apex Fintech Solutions
+
+Northern Ireland, United Kingdom
+1 week ago
+Senior Technical Support Engineer
+Senior Technical Support Engineer
+
+Cloudsmith
+
+Belfast, Northern Ireland, United Kingdom
+2 months ago
+Software Engineer II
+Software Engineer II
+
+Proofpoint
+
+Belfast, Northern Ireland, United Kingdom
+1 week ago
+NOC Engineer
+NOC Engineer
+
+Proofpoint
+
+Belfast, Northern Ireland, United Kingdom
+2 weeks ago
+AI Enablement and Reliability Engineering Placement Year - 2027/27
+AI Enablement and Reliability Engineering Placement Year - 2027/27
+
+CME Group
+
+Belfast, Northern Ireland, United Kingdom
+2 weeks ago
+Senior Engineer - Python & Containerization (VP)
+Senior Engineer - Python & Containerization (VP)
+
+Citi
+
+Belfast, Northern Ireland, United Kingdom
+1 day ago
+Similar Searches
+Financial Sales Consultant jobs
+3,186 open jobs
+Security Solutions Architect jobs
+2,387 open jobs
+Senior Technical Business Analyst jobs
+391 open jobs
+Regional Account Manager jobs
+2,943 open jobs
+Senior Technical Account Manager jobs
+2,494 open jobs
+Director Solutions Engineering jobs
+207 open jobs
+Product Architect jobs
+6,862 open jobs
+Network Operations Engineer jobs
+1,214 open jobs
+Commercial Account Executive jobs
+7,349 open jobs
+Senior Technical Analyst jobs
+6,072 open jobs
+Marketing Business Development Manager jobs
+13,797 open jobs
+Named Account Manager jobs
+2,620 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Upwind Security
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

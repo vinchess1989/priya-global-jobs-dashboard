@@ -12221,5 +12221,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "SR2",
+    "location": "Hereford, England, United Kingdom",
+    "url": "https://uk.linkedin.com/jobs/view/devops-engineer-at-sr2-4478282385",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires British citizenship and a minimum of five years' continuous UK residency for security clearance, which Priya does not meet, and no visa sponsorship is offered.",
+    "id": "4ce5c114",
+    "source": "linkedin_uk_devops_engineer",
+    "added_at": "2026-10-21T20:40:29+03:00",
+    "posted_date": "2026-10-19",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
