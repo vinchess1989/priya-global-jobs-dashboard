@@ -12034,5 +12034,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "APS6 Environment and Release Manager",
+    "company": "Talent Corp",
+    "location": "Melbourne VIC, Australia",
+    "url": "https://au.jora.com/job/Release-Manager-124206bb649f5a677686781d1b879883",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires Australian citizenship and a Baseline security clearance, which the candidate does not have and cannot obtain without sponsorship, falling under the 'No Visa Sponsorship' hard rejection.",
+    "id": "379c9fba",
+    "source": "jora_au_release_manager",
+    "added_at": "2026-10-21T11:34:34+03:00",
+    "posted_date": "2026-10-19",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
