@@ -1,12 +1,12 @@
 {
-  "pid": 49916,
-  "started_at": "2026-10-21T19:16:49+03:00",
-  "heartbeat_at": "2026-10-21T19:33:17+03:00",
-  "phase": "scraped",
-  "detail": "0 new jobs",
-  "last_scrape_ok_at": "2026-10-21T19:33:17+03:00",
+  "pid": 62480,
+  "started_at": "2026-10-21T19:42:14+03:00",
+  "heartbeat_at": "2026-10-21T20:14:04+03:00",
+  "phase": "reviewing",
+  "detail": "Account Manager",
+  "last_scrape_ok_at": "2026-10-21T19:58:52+03:00",
   "last_error": {
-    "at": "2026-10-21T19:33:16+03:00",
-    "message": "jobsinmalta_broad: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://jobsinmalta.com/jobs\nCall log:\n  - navigating to \"https://jobsinmalta.com/jobs\", waiting until \"load\"\n"
+    "at": "2026-10-21T19:58:28+03:00",
+    "message": "linkedin_mt_iso_13485: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.linkedin.com/jobs/search?keywords=ISO+13485&geoId=100961908&sortBy=DD\nCall log:\n  - navigating to \"https://www.linkedin.com/jobs/search?keywords=ISO+13485&geoId=100961908&sortBy=DD\", waiting until \"load\"\n"
   }
 }
