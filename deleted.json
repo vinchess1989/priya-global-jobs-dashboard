@@ -13632,5 +13632,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Deadline (2026-10-21) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Service Knowledge Manager",
+    "company": "ADP",
+    "location": "Staines-Upon-Thames, England, United Kingdom",
+    "url": "https://uk.linkedin.com/jobs/view/service-knowledge-manager-at-adp-4474006062",
+    "visited": "yes",
+    "matches_requirements": "maybe",
+    "reason": "The role aligns well with her technical documentation and process governance experience, but it requires specific payroll operations experience which she lacks.",
+    "id": "d9ed006a",
+    "source": "linkedin_uk_configuration_manager",
+    "added_at": "2026-10-23T02:30:27+03:00",
+    "posted_date": "2026-10-09",
+    "deadline": "2025-10-23",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Deadline (2025-10-23) passed by more than 2 days and unreviewed"
   }
 ]

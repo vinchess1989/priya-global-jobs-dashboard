@@ -1,0 +1,314 @@
+Title: Release Manager - AI Models
+Company: Wayve
+Location: London, England, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/release-manager-ai-models-at-wayve-4479418271
+Posted: 2026-10-22
+Deadline: N/A
+Reason: The role is a perfect match for her background in release management, CI/CD, and safety-critical systems, and the company explicitly offers relocation support and visa sponsorship.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Release Manager - AI Models
+Wayve  London, England, United Kingdom
+1 day ago   Be among the first 25 applicants
+  
+
+See who Wayve has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Before the detail, here's the challenge you'd help us solve.
+
+We build the embodied intelligence that moves real vehicles safely, and the ecosystem a billion machines will run on in the future. Very few people in AI can say this. Every role here, whatever the team, plugs into that.
+
+Here’s what this particular role covers.
+
+🛠️ About our Engineering Teams
+
+Our engineering teams bring together ML engineering, evaluation and data science, software platform, testing, and product to turn breakthrough autonomous-driving technology into reliable products. Model releases connect these disciplines, taking AI models from early hypotheses through training, evaluation, and on-road testing to deployment across our vehicle fleet.
+
+As our Release Manager — AI Models, you’ll help ensure that a core part of our technology — the AI model — is released reliably, on time, and to the standard required for production. You’ll bring structure and disciplined release practices to the fast-paced, non-deterministic world of ML, building the processes and systems that support clarity, stability, and business goals.
+
+🧠 Your day-to-day
+
+
+Own the model release cycle, maintaining a steady and predictable cadence while adapting to changing business priorities.
+Coordinate across ML engineering, evaluation and data science, software platform, testing, and product to keep releases moving and resolve dependencies.
+Run the gates that promote models from hypothesis → training → evaluation → validation → deployment, making clear what is ready to ship and what needs more work.
+Drive investigations into regressions and integration issues, coordinate rollback or roll-forward decisions, and follow through on technical debt and corrective actions.
+Be the central point of contact for model-release status, risks, and timelines, giving engineers and leadership the right level of detail.
+Run post-release reviews and turn lessons learned into practical improvements across teams.
+
+
+🧩 What You’ll Be Working On
+
+
+Release gates and promotion criteria: Define and justify what it takes for a model to progress, balancing performance gains, reproducibility, product requirements, safety, and compatibility with the onboard software stack and vehicle platform.
+A release process that works for ML: Build frameworks that connect model development, evaluation, the Wayve onboard stack, and product needs — applying strong release-engineering practices while recognising where hypothesis-driven, non-deterministic systems need a different approach.
+Bottleneck identification and improvement: Find constraints in the release lifecycle, implement dashboards and KPIs to make them visible, and proactively escalate gaps.
+Tooling and automation: Partner with ML platform and integration teams to shape end-to-end automated release tooling. Define requirements that improve developer experience, release efficiency, and stakeholder communication.
+Reliable, stable deployments: Strengthen how teams handle model versions, integration issues, regressions, and recovery so that releases deliver value reliably.
+
+
+🙌 You Should Apply If
+
+
+You have 5+ years of experience in release management, software engineering, or a related field.
+You understand the Software Development Life Cycle (SDLC) and release management practices, including testing strategy, system integration, branching, and versioning.
+You have a conceptual understanding of ML fundamentals: what training data is, the difference between training and inference, what a model version or checkpoint represents, and why model validation is probabilistic rather than simply pass/fail.
+You have experience with CI/CD pipelines and automation tools such as GitHub, Buildkite, and CLI tools.
+You’re skilled at managing releases in complex, fast-moving systems and comfortable adapting processes and tooling as requirements, architecture, and timelines change.
+You bring strong problem-solving and decision-making skills, including when release trade-offs depend on limited or ambiguous data.
+You communicate clearly with engineers and leadership, helping people understand priorities, risks, and decisions.
+You’re pragmatic, methodical, and system-minded. You bring strong release-engineering instincts and are keen to develop the judgment to know where ML systems require a different approach.
+
+
+It’s a Bonus If You Also Bring
+
+
+Experience in AI/ML, autonomous vehicles, or robotics.
+Familiarity with MLOps methodologies and tooling.
+Experience with ML evaluation practices and tooling, especially for physical systems — including simulation, model leaderboards, and statistically powered experiments such as A/B or shadow-mode testing.
+Awareness of model hardware and software dependencies.
+A BSc or equivalent in Computer Science, Engineering, or a related technical discipline.
+
+
+🌱 Not ticking every box? That’s totally okay! If you’re passionate about autonomy and keen to learn, we encourage you to apply even if you don’t meet every requirement.
+
+More About Wayve
+
+🚀 Wayve is building the leading AI platform for autonomous driving. We are pioneering an end-to-end AI approach that enables vehicles to learn directly from real-world experience, developing the ability to adapt, generalise and improve at scale. Instead of relying on hand-coded rules or pre-mapped environments, our AI Driver learns to drive by understanding the world around it. The result is technology that navigates complex urban environments with intelligence, precision and natural flow, unlocking meaningful advances in both safety and efficiency. We believe autonomy represents a once-in-a-generation transformation in how people and goods move, comparable to the shift from horses to cars, and from human-driven vehicles to intelligent machines.
+
+Our ambition is to make autonomy universal. Wayve’s mapless and hardware-agnostic AI platform integrates with global OEM partners, enabling continuous software evolution and unlocking advanced levels of automation from L2 plus through to L4 as our core AI model scales. In a race increasingly defined by intelligence and real-world learning, Wayve is taking a distinct approach, building a generalisable driving intelligence that can power any vehicle, anywhere. By combining embodied AI with scalable deployment, we are creating technology that can be shaped to each OEM brand and driver experience, accelerating the transition to a safer, more intelligent future of mobility.
+
+How we work 💻 — Locations & Flexible Working:
+
+This is a full-time role based in our London office.
+
+Our main hubs are in London, Sunnyvale, Yokohama, Herzliya, Vancouver and Leonberg. We operate a hybrid working model that combines in-person collaboration in our dedicated office spaces with focused time working remotely. This gives our teams the connection and energy of working together, alongside the flexibility to do their best work in a way that fits their lives.
+
+🔍 The Interview Process
+
+Our process is clear and respectful of your time:
+
+
+Initial call / recruiter screen (30 mins)
+Competency Interviews (Release Management & Cross Functional Collaboration)
+Deep-dive technical interviews (Technical Assessment and Case Study)
+Final interview: mission & values alignment
+
+
+We’ll always explain the format and work around your availability.
+
+What’s in it for you (Location dependent):
+
+
+💰 Salaries benchmarked against the market annually
+📈 Meaningful equity, sharing in the ownership and long-term success of Wayve
+✈️ Relocation support and visa sponsorship where applicable
+✅ Hybrid working, core hours and the chance to work hands-on in vehicle workshops and labs
+📚 Learning and development budgets with support for training, conferences and growth
+🩺 Comprehensive benefits including health insurance, dental, enhanced maternity and paternity leave, retirement or pension where applicable, access to therapists, wellbeing partnerships, team socials and more
+
+
+A quick, honest note before you apply.
+
+Wayve is not a mature, fully-structured place with the playbook already written. Much of how we work is still being written, and if you join, you’ll help write it. That suits people who want real ownership more than people who need a settled structure from day one.
+
+If that sounds like the kind of problem you want to spend your time on, we’d really like to hear from you.
+
+At Wayve we're committed to creating a diverse, fair and respectful culture that is inclusive of everyone based on their unique skills and perspectives, and regardless of sex, race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, veteran status, pregnancy or related condition (including breastfeeding) or any other basis as protected by applicable law.
+
+For more information visit Careers at Wayve. To learn more about what drives us, visit Values at Wayve
+
+DISCLAIMER: We will not ask about marriage or pregnancy, care responsibilities or disabilities in any of our job adverts or interviews. However, we do look to capture information about care responsibilities, and disabilities among other diversity information as part of an optional DEI Monitoring form to help us identify areas of improvement in our hiring process and ensure that the process is inclusive and non-discriminatory.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Wayve by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Change And Release Manager jobs
+Release Manager - AI Models
+Similar jobs
+Lead Technical Program Manager, Applied AI - Markets Operations
+Lead Technical Program Manager, Applied AI - Markets Operations
+JPMorganChase
+Greater London, England, United Kingdom
+2 weeks ago
+Release Manager
+Release Manager
+Station
+London Area, United Kingdom
+12 hours ago
+Technical Program Manager, AI Safety and Security Launches, DeepMind
+Technical Program Manager, AI Safety and Security Launches, DeepMind
+Google DeepMind
+London, England, United Kingdom
+2 weeks ago
+Configuration & Release Readiness Lead
+Configuration & Release Readiness Lead
+dunnhumby
+London, England, United Kingdom
+1 week ago
+AI Solutions & Operations Lead – GenAI / ML - Insurance
+AI Solutions & Operations Lead – GenAI / ML - Insurance
+i3
+City Of London, England, United Kingdom
+2 weeks ago
+Release Manager
+Release Manager
+IO Interactive
+Brighton, England, United Kingdom
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Release Engineer
+Release Engineer
+
+Cisco
+
+London, England, United Kingdom
+2 weeks ago
+Engineering Manager, AI Platform
+Engineering Manager, AI Platform
+
+The Economist
+
+London, England, United Kingdom
+1 week ago
+AI Implementation Manager
+AI Implementation Manager
+
+Burns Sheehan
+
+London Area, United Kingdom
+£65,000 - £80,000
+1 week ago
+Delivery Manager
+Delivery Manager
+
+Global
+
+London, England, United Kingdom
+3 days ago
+Applied AI Manager
+Applied AI Manager
+
+9fin
+
+London, England, United Kingdom
+19 hours ago
+AI Manager
+AI Manager
+
+Marcenta Chartering & Shipping Ltd
+
+London, England, United Kingdom
+2 months ago
+Databricks Platform Manager - ML Ops
+Databricks Platform Manager - ML Ops
+
+BSI
+
+Milton Keynes, England, United Kingdom
+2 weeks ago
+AI & Automation Manager (d/f/m)
+AI & Automation Manager (d/f/m)
+
+Personio
+
+London, England, United Kingdom
+1 week ago
+Product Manager - AI Services
+Product Manager - AI Services
+
+Esko
+
+London, England, United Kingdom
+2 days ago
+Forward Deployed AI Engineer
+Forward Deployed AI Engineer
+
+Accenture UK & Ireland
+
+London, England, United Kingdom
+1 week ago
+Similar Searches
+Change And Release Manager jobs
+228 open jobs
+Unix Consultant jobs
+319 open jobs
+Release Engineer jobs
+2,904 open jobs
+Deployment Manager jobs
+11,482 open jobs
+Build And Release Engineer jobs
+2,631 open jobs
+Configuration Manager jobs
+661 open jobs
+Change Manager jobs
+19,466 open jobs
+Problem Manager jobs
+4,516 open jobs
+Contract Test Engineer jobs
+393 open jobs
+Assistant Professor of Mathematics jobs
+120 open jobs
+Delivery Manager jobs
+32,530 open jobs
+Game Producer jobs
+190 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Wayve
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
