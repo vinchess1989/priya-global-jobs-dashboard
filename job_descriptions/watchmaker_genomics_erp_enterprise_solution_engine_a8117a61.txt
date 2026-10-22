@@ -1,0 +1,369 @@
+Title: ERP Enterprise Solution Engineer
+Company: Watchmaker Genomics
+Location: Cape Town, Western Cape, South Africa
+URL: https://za.linkedin.com/jobs/view/erp-enterprise-solution-engineer-at-watchmaker-genomics-4463986111
+Posted: 2026-09-23
+Deadline: N/A
+Reason: The role aligns perfectly with the candidate's expertise in release management, configuration management, and quality/compliance (CSV/ISO 13485) in a regulated environment, and the location (South Africa) is a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+ERP Enterprise Solution Engineer
+Watchmaker Genomics  Cape Town, Western Cape, South Africa
+1 month ago  36 applicants
+  
+
+See who Watchmaker Genomics has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Position: ERP Enterprise Solution Engineer
+
+Position Type: Full time
+
+Department : Information Technology
+
+Location: Salt River, Cape Town, South Africa
+
+Experience: 7+ years with a degree in Information Technology/Systems
+
+Company Description
+
+Watchmaker Genomics is a global life sciences company with R&D and production facilities in Cape Town, South Africa, and headquarters in Boulder, Colorado. Our team is driven by a passion for innovation and a commitment to collaboration, creativity, and scientific rigor. We believe that the intersection of biology, engineering, and computer science offers exciting opportunities to develop novel technologies that advance research and enhance human health. We leverage our enzyme engineering and computational biology capabilities to develop products that support high-growth applications in genomics, molecular diagnostics, and personalized medicine.
+
+Position Description
+
+Watchmaker Genomics is inviting applications for an on site, full time position of an ERP Enterprise Solutions Engineer in our Cape Town office. This position reports to the Director of Global IT, will own the full lifecycle of our Epicor Kinetic ERP platform and its integrated application estate, and will play a pivotal role in facilitating effective communication and collaboration between the IT department and various business units within our organization. This role is responsible for understanding business needs, aligning technology solutions, and ensuring the successful stabilization, optimization, and utilization of our ERP, MES and other related systems to support the achievement of our strategic goals, including planning and executing new phased rollouts of modules, integrations, sites and entities. The IT Enterprise Solutions Engineer - ERP will be a key advocate for leveraging technology to enhance operational efficiency and drive business outcomes.
+
+The role owns ERP architecture, technical design, live/test environments, SQL Server and application health, integrations, security, releases, monitoring, backup and recovery readiness, and technical delivery of new modules, fixes and rollouts. It works with business process owners, IT Infrastructure, CSV/Quality, the Master Data Management team, Data Architects, BI report writers and external partners to ensure changes are scalable, controlled and aligned with approved business rules and regulated processes.
+
+The successful candidate will thrive in a dynamic, fast-paced working environment and contribute directly to our company culture and success. This position will offer unique challenges, learning and growth including the opportunity to implement global solutions. The role supports both our Boulder (US) and Cape Town (South Africa) sites across time zones, with periodic travel for phased rollouts and on site support weeks, and after-hours availability during cutover windows, hypercare periods and month end.
+
+Responsibilities
+
+ERP Architecture and Technical Ownership
+
+
+Own the global Epicor Kinetic architecture, technical roadmap and solution standards, ensuring new modules, fixes and enhancements align with approved business rules, processes, security and CSV controls;
+Translate approved requirements into system configuration, technical specifications, integrations and controlled development using appropriate Epicor capabilities;
+Provide technical leadership to the ERP Application Engineer and act as the final internal escalation point for complex ERP issues.
+
+
+Platform, Server and Environment Management
+
+
+Administer various environments, SQL Server, application services, scheduled processes, monitoring, patches, upgrades and deployment registers;
+Maintain system availability and recoverability through backup/restore verification, recovery planning, performance monitoring and coordinated infrastructure remediation.
+Liaise with solution architects to align enterprise system architecture with broader enterprise architecture principles.
+
+
+Integration, Security and Controlled Change
+
+
+Design, operate and troubleshoot ERP integrations, APIs and interfaces with finance, banking, tax, shipping, CRM, data and manufacturing systems;
+Administer privileged ERP security, service accounts, credentials and technical access controls, and maintain controlled release, change and rollback procedures.
+
+
+ERP Platform and Environment Lifecycle Management
+
+
+Administer the Epicor Kinetic environment estate, including LIVE, TEST and DEV environment management and refreshes, backup and restore verification, and version and patch management aligned to tested baselines;
+Maintain deployment registers for customizations, BPM directives, Epicor Functions and configuration changes, and monitor scheduled processes and system agent health;
+Operate monitoring and alerting for applications, databases, print and integration services.
+
+
+Data, MDM, Reporting and BI Collaboration
+
+
+Support the Master Data Management team with ERP data models, DMT-related technical guidance, migration dependencies, troubleshooting and validation; MDM retains responsibility for preparing and executing master data uploads;
+Support Data Architects and BI report writers with ERP source definitions, data lineage, extracts, BAQs/SSRS, integration dependencies and ERP-side troubleshooting;
+Own technical configuration and controlled deployment of ERP reports, labels, CofA outputs and print-routing components where these reside within the ERP platform.
+
+
+Incident, Rollout and Compliance Management
+
+
+Lead L2/L3 technical incident and problem resolution, root-cause analysis, vendor escalation and permanent corrective actions;
+Lead technical release, cutover, recovery and hypercare activities for new modules, integrations, sites and entities;
+Ensure technical changes protect traceability, label/CofA integrity, financial posting integrity and regulated-system compliance.
+
+
+Project Management and Plan of Record
+
+
+Develop comprehensive project plans, timelines, and milestones for system initiatives, and maintain a single integrated plan of record with a RAID log, decision log and steering reporting cadence;
+Ensure every task, decision and risk has a named owner and keep all planning documents coherent with the plan of record.
+
+
+Regulated Systems Compliance
+
+
+Maintain CSV validation evidence and change control for configurations, customizations and lot mask changes;
+Safeguard traceability, label and CofA integrity, and financial posting integrity in system design and operation.
+
+
+Required Experience
+
+
+ERP Implementation and Support Experience: Hands on experience implementing, administering and supporting Epicor Kinetic is required or strongly preferred.
+Business Process Understanding: Strong familiarity with various business processes across different departments, such as finance, supply chain, manufacturing, and HR, is crucial. This helps in translating business requirements into effective technology solutions.
+Data Mapping and Transformation: Proficiency in defining data mapping, transformation, and conversion processes to ensure seamless data flow between systems. Experience with data manipulation tools and techniques is essential.
+Integration and Middleware Knowledge: Demonstrated experience with designing, implementing, and managing integrations between ERP systems and other applications using middleware solutions
+Project Management: Proven track record in managing projects, especially those related to ERP implementation, upgrades, or integration initiatives. Skills in defining project scopes, timelines, resource allocation, and risk management are important.
+Change Management and Training: Experience in change management strategies, including user training and adoption planning, to ensure smooth transitions during ERP implementations and updates.
+Vendor and Partner Collaboration: Experience in working collaboratively with external partners, third party vendors, and consultants to facilitate successful system integrations.
+Regulated Environment Experience: Experience in regulated manufacturing environments (ISO13485, GMP or CSV governed), including validation evidence, change control, traceability, label and CofA integrity, and audit support.
+Multi-Site and Multi Company ERP: Experience supporting multi-site, multi-company ERP operations with intercompany transactions across time zones.
+Finance Process Literacy: Working knowledge of posting rules, month end close support, bank and tax integrations, and reconciliation controls.
+Database and Integration Foundation: SQL Server administration (backups, recovery models, maintenance) and REST or OData integration experience.
+
+
+The Candidate Must Demonstrate The Following Skills
+
+
+Strong understanding of:
+business processes and operations;
+enterprise architecture principles, including integration patterns and best practices;
+Analytical and problem solving skills;
+Excellent organizational skills and outstanding attention to detail;
+Effective written, verbal and presentation and listening communications skills;
+Strong teamwork and collaboration skills;
+SQL Server administration, including backups, recovery and maintenance;
+REST and OData integration and API troubleshooting;
+BAQ, dashboard and SSRS report development;
+Data analysis and reconciliation;
+Stress and Time management.
+
+The Candidate Must Demonstrate The Following Personal Attributes
+
+
+Honest and trustworthy;
+Possess cultural awareness and sensitivity;
+Flexible and able to work long hours.
+
+
+Qualifications And Education
+
+
+7+ years proven experience in a similar role, preferably with a focus on ERP systems, with a degree or diploma in Information Technology/Systems, or equivalent qualification from a recognized tertiary institution in Information Technology.
+
+
+Additional Information
+
+The position will contribute to enhancing the organization's efficiency, data driven decision making, and overall success by serving as a liaison between business units and the IT department and by owning the ERP platform through its full lifecycle. The role's emphasis on understanding business needs, aligning technology solutions, and promoting effective enterprise system utilization ensures the organization's enterprise software related initiatives are well executed and aligned with strategic objectives.
+
+Application Requirements
+
+To apply for the position, please submit the following in a PDF format:
+
+
+Letter of motivation (upload where it says cover letter)
+Resume or Curriculum vitae, highlighting relevant qualifications and experience
+
+
+Applications without a Letter of Motivation will not be considered. Local candidates preferred.
+
+If selected to participate in the interview process, the names and contact information of three professional references who are able to assess your suitability for the position in terms of the specified requirements will be requested.
+
+To ensure your application is considered, please submit it by Friday, 30 October 2026. Please note that this position may close earlier if we receive a high volume of applications. We encourage you to apply as soon as possible.
+
+
+
+
+
+WE ARE AN EQUAL OPPORTUNITY/AFFIRMATIVE ACTION EMPLOYER
+
+Watchmaker Genomics is committed to being an equal opportunity employer and creating a culturally diverse environment. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability status, age, or veteran status or any other characteristics as protected by applicable law.
+
+All applicants will be asked if currently eligible to work in South Africa; and if now or in the future will require visa sponsorship to continue working in South Africa.
+
+This position may be subject to pre-employment checks, including driving history check, drug screening and a background check for any convictions directly related to its duties and responsibilities. All pre-employment checks will comply with all applicable laws.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Biotechnology Research
+  
+
+Referrals increase your chances of interviewing at Watchmaker Genomics by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Senior Linux Administrator jobs
+ERP Enterprise Solution Engineer
+Similar jobs
+Systems Integration Engineer
+Systems Integration Engineer
+Entersekt
+Stellenbosch, Western Cape, South Africa
+3 days ago
+Sales Engineer
+Sales Engineer
+Boam AI
+Cape Town, Western Cape, South Africa
+2 months ago
+Presales / Deployment Engineer
+Presales / Deployment Engineer
+Splynx ISP Framework
+City of Cape Town, Western Cape, South Africa
+2 weeks ago
+Solutions Engineer (Tax)
+Solutions Engineer (Tax)
+Xceptor
+Cape Town, Western Cape, South Africa
+6 days ago
+Senior Enterprise Solutions Architect – Microsoft Dynamics 365 & Power Platform
+Senior Enterprise Solutions Architect – Microsoft Dynamics 365 & Power Platform
+Aculocity
+Durbanville, Western Cape, South Africa
+1 week ago
+Technical Services Engineer III
+Technical Services Engineer III
+impact.com
+Cape Town, Western Cape, South Africa
+1 week ago
+Show more jobs like this 
+People also viewed
+Platform Engineer
+Platform Engineer
+
+Share
+
+Cape Town, Western Cape, South Africa
+1 month ago
+SATIC: Forward -Deployed engineer
+SATIC: Forward -Deployed engineer
+
+PwC South Africa
+
+City of Cape Town, Western Cape, South Africa
+1 week ago
+Senior Solutions Architect
+Senior Solutions Architect
+
+Liquid Thought
+
+Cape Town, Western Cape, South Africa
+6 days ago
+Technical Business Analyst
+Technical Business Analyst
+
+Open Box Software
+
+Cape Town, Western Cape, South Africa
+4 weeks ago
+Solutions Architect
+Solutions Architect
+
+The Shoprite Group of Companies
+
+Brackenfell, Western Cape, South Africa
+2 weeks ago
+Principal ERP Analyst - ERP Finance Stream, PPM, ISU – Revenue and SAP Authorisations ● REF NO: CS 151/26
+Principal ERP Analyst - ERP Finance Stream, PPM, ISU – Revenue and SAP Authorisations ● REF NO: CS 151/26
+
+City of Cape Town
+
+City of Cape Town, Western Cape, South Africa
+1 week ago
+Senior Data Solutions Engineer
+Senior Data Solutions Engineer
+
+Entelect
+
+City of Cape Town, Western Cape, South Africa
+2 weeks ago
+Solutions Consultant (Cape Town)
+Solutions Consultant (Cape Town)
+
+Palo Alto Networks
+
+Cape Town, Western Cape, South Africa
+2 weeks ago
+Founding Engineer
+Founding Engineer
+
+Share
+
+Cape Town, Western Cape, South Africa
+4 months ago
+Technical Sales Support - Rail Car Handling
+Technical Sales Support - Rail Car Handling
+
+Metso
+
+Cape Town, Western Cape, South Africa
+12 hours ago
+Similar Searches
+Senior Linux Administrator jobs
+40 open jobs
+Email Administrator jobs
+41 open jobs
+Demand Planning Manager jobs
+225 open jobs
+Strategic Communications Manager jobs
+17 open jobs
+Senior Enterprise Architect jobs
+108 open jobs
+Fabrication Engineer jobs
+91 open jobs
+Fabrication Manager jobs
+221 open jobs
+Customer Engineer jobs
+3,725 open jobs
+Senior System Engineer jobs
+149 open jobs
+Server Administrator jobs
+89 open jobs
+Network Specialist jobs
+142 open jobs
+Senior Infrastructure Engineer jobs
+155 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Watchmaker Genomics
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

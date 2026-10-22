@@ -1,0 +1,307 @@
+Title: Lead Release Manager
+Company: Q2
+Location: Bengaluru, Karnataka, India
+URL: https://in.linkedin.com/jobs/view/lead-release-manager-at-q2-4480016185
+Posted: 2026-10-23
+Deadline: Open until filled
+Reason: The role is a perfect match for her extensive experience in release management, configuration management, and quality gatekeeping within regulated environments, and it is located in one of her target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Lead Release Manager
+Q2  Bengaluru, Karnataka, India
+14 hours ago  39 applicants
+  
+
+See who Q2 has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+As passionate about our people as we are about our mission.
+
+Why Join Q2?
+
+Q2 is a leading provider of digital banking and lending solutions to banks, credit unions, alternative finance companies, and fintechs in the U.S. and internationally. Our mission is simple: build strong and diverse communities through innovative financial technology—and we do that by empowering our people to help create success for our customers.
+
+What Makes Q2 Special?
+
+Being as passionate about our people as we are about our mission. We celebrate our employees in many ways through our year-round Q2 ChangeMakers awards program and global moments of recognition and connection. We invest in the growth and development of our team members through ongoing learning opportunities, internal mobility, and meaningful leadership relationships. We also know that nothing builds trust and collaboration like having fun and giving back together. From company-wide volunteer days to events like our Q2 Homecoming Week—featuring learning, community service, and culture-building experiences—we create opportunities to connect, grow, and make an impact.
+
+Q2 is seeking a Lead Release Manager to ensure software changes are delivered safely and predictably across our digital banking platform. You'll play a pivotal role in release governance and customer delivery while navigating complex environments and evolving technologies.
+
+As part of our Software Delivery organization, you'll work across Engineering, Product, and customer-facing teams to drive informed decisions and effective coordination. We're looking for someone with sound judgment, exceptional organizational skills, and the curiosity to challenge existing practices and make software delivery simpler, safer, and more efficient.
+
+Responsibilities
+
+
+Lead release readiness reviews, challenge unresolved risks, and ensure approval requirements are met.
+Co-lead the Change Advisory Board (CAB) as a regional champion, driving risk-based decisions and consistent change governance.
+Coordinate release readiness across multiple product lines, ensuring dependencies, documentation, and communications are addressed.
+Coordinate customer-specific software updates by validating scheduling data, identifying inconsistencies, and confirming dependencies with accountable teams.
+Deliver clear, timely communications to customers and internal stakeholders regarding releases and planned updates.
+Facilitate alignment between Support, Product, and Engineering on customer-impacting defect priorities and their implications for upcoming releases.
+Challenge existing release workflows and drive measurable improvements in delivery reliability and efficiency.
+Partner with Engineering and AI enablement teams to identify automation opportunities, define requirements, and validate solutions that reduce manual effort and improve accuracy.
+
+
+Required
+
+EXPERIENCE & QUALIFICATIONS:
+
+
+Typically requires a Bachelor's degree in a related field and 9–12 years of relevant experience in software release management, software engineering, product delivery, or related disciplines.
+Demonstrated success independently coordinating complex software releases or production delivery across multiple product teams and organizations.
+Strong understanding of the Software Development Life Cycle (SDLC), CI/CD pipelines, software testing, deployment workflows, and modern software delivery practices.
+Experience with Change Advisory Boards (CAB), production change approvals, and higher-risk changes, including risk assessment and mitigation.
+Strong stakeholder management and facilitation skills, with the ability to challenge assumptions, engage technical experts, and drive decisions and accountability across teams.
+Strong analytical skills with experience validating operational data, identifying inconsistencies, and managing competing schedules and priorities.
+Demonstrated success challenging existing processes, identifying inefficiencies, and driving measurable operational improvements.
+Excellent written and verbal communication skills, with the ability to clearly convey release risks, changes, and impacts to technical teams, customers, and executive leadership.
+
+
+Preferred
+
+
+Experience with progressive delivery, phased rollouts, artifact promotion, or cell-based architectures.
+Experience with automated release controls, quality gates, or deployment governance.
+Familiarity with AI-enabled workflows, MCP integrations, or process automation.
+Knowledge of DORA metrics and software delivery performance measurement.
+Experience with Jira, Confluence, GitLab, Jenkins, or similar tools.
+Experience in financial technology, digital banking, or regulated SaaS environments.
+
+
+RESPONSIBILITIES:
+
+
+Coordinate with Engineering groups and monitor associated software release notes for all component parts of the Q2ebanking software solutions
+Establish Engineering completeness criteria including component dependencies to gate the delivery of releases into QA for testing
+Coordinate with QA group and monitor releases in testing
+Establish QA completeness criteria for release of successfully tested software component and their dependencies to gate the delivery of releases to Implementation groups
+Maintain release baselines (versions of all compatible solution components) and updates for new and existing external customers
+Serve as a liaison between business units to guarantee smooth and timely delivery of software packages to our Implementations and Support teams
+Promote updates to administrative Windows application in a Data Center environment
+Maintain records to identify cross-module compatibility of software versions
+Responsible for ensuring that all security, availability, confidentiality and privacy policies and controls are adhered to
+Answer questions and serve as source of knowledge for application releases EXPERIENCE AND KNOWLEDGE:
+Bachelor’s degree in related field and 9-12 years in a software release management role
+Experience managing, controlling and tracking releases with successful delivery
+Experience with and knowledge of the following concepts and technologies:
+Software Configuration Management
+Software Release Management
+Release notes and documentation processes
+Windows 7, Windows 2003/2008 Server
+SVN (preferred), GIT, and other Source Repository tools
+Salesforce or other Case Management software
+General knowledge of the software development life cycle (SDLC) processes
+Manage multiple product releases in a fast pace environment
+
+
+This position requires fluent written and oral communication in English.
+
+Health & Wellness
+
+
+Hybrid Work Opportunities
+Flexible Time Off
+Career Development & Mentoring Programs
+Health & Wellness Benefits, including competitive health insurance offerings and generous paid parental leave for eligible new parents
+Community Volunteering & Company Philanthropy Programs
+Employee Peer Recognition Programs – “You Earned it”
+
+
+Click here to find out more about the benefits we offer.
+
+Our Culture & Commitment
+
+We’re proud to foster a supportive, inclusive environment where career growth, collaboration, and wellness are prioritized. And our benefits go beyond healthcare—offering resources for physical, mental, and professional well-being. Click here to find out more about the benefits we offer. Q2 employees are encouraged to give back through volunteer work and nonprofit support through our Spark Program (see more). We believe in making an impact—in the industry and in the community.
+
+We are an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, genetic information, or veteran status.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at Q2 by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Change And Release Manager jobs
+Lead Release Manager
+Similar jobs
+Release Manager
+Release Manager
+GlobalLogic
+Bengaluru, Karnataka, India
+1 week ago
+Change And Release Manager- BSS Domain
+Change And Release Manager- BSS Domain
+Rakuten India
+Bengaluru, Karnataka, India
+2 weeks ago
+Release Manager
+Release Manager
+Thoucentric
+Bengaluru, Karnataka, India
+7 months ago
+SAP Release Manager
+SAP Release Manager
+Cognizant
+Bangalore Urban, Karnataka, India
+1 week ago
+Senior Manager - QA & Release
+Senior Manager - QA & Release
+GSK
+Bengaluru, Karnataka, India
+3 days ago
+Senior Configuration and Delivery Manager
+Senior Configuration and Delivery Manager
+WSP in India
+Bengaluru, Karnataka, India
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Senior Manager – Engineering Excellence
+Senior Manager – Engineering Excellence
+
+Manhattan Associates
+
+Bengaluru, Karnataka, India
+1 week ago
+SAP Project Manager
+SAP Project Manager
+
+Quest Global
+
+Bengaluru, Karnataka, India
+1 day ago
+Technical Program Management III
+Technical Program Management III
+
+Cohesity
+
+Bangalore Rural, Karnataka, India
+6 days ago
+Senior Release Engineer
+Senior Release Engineer
+
+LSEG
+
+Bengaluru, Karnataka, India
+3 days ago
+Environment Manager - Risk Management and GCO
+Environment Manager - Risk Management and GCO
+
+EY
+
+Bengaluru, Karnataka, India
+1 week ago
+Application Lead
+Application Lead
+
+Accenture in India
+
+Bengaluru, Karnataka, India
+1 day ago
+SAP Landscape Lead
+SAP Landscape Lead
+
+Arm
+
+Bengaluru, Karnataka, India
+3 weeks ago
+Engineering Manager
+Engineering Manager
+
+Arctic Wolf
+
+Bengaluru, Karnataka, India
+1 week ago
+Manager, Quality Assurance
+Manager, Quality Assurance
+
+Autonomize AI
+
+Bengaluru, Karnataka, India
+6 days ago
+Salesforce DevOps/ Release- Manager
+Salesforce DevOps/ Release- Manager
+
+PwC Acceleration Center India
+
+Bengaluru East, Karnataka, India
+5 days ago
+Similar Searches
+Change And Release Manager jobs
+184 open jobs
+Software Configuration Manager jobs
+7,612 open jobs
+Unix Consultant jobs
+623 open jobs
+Release Engineer jobs
+3,467 open jobs
+Deployment Manager jobs
+4,865 open jobs
+Build And Release Engineer jobs
+3,712 open jobs
+SAP Basis Team Lead jobs
+194 open jobs
+Software Release Engineer jobs
+346 open jobs
+Configuration Manager jobs
+1,407 open jobs
+Change Manager jobs
+8,241 open jobs
+Problem Manager jobs
+2,374 open jobs
+Contract Test Engineer jobs
+920 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Q2
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
