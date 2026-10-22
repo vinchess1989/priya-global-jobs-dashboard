@@ -1,10 +1,10 @@
 {
   "pid": 63188,
   "started_at": "2026-10-21T20:40:05+03:00",
-  "heartbeat_at": "2026-10-22T05:56:27+03:00",
+  "heartbeat_at": "2026-10-22T06:08:56+03:00",
   "phase": "reviewing",
-  "detail": "finance manager",
-  "last_scrape_ok_at": "2026-10-22T05:46:33+03:00",
+  "detail": "Quality Engineer,",
+  "last_scrape_ok_at": "2026-10-22T05:58:17+03:00",
   "last_error": {
     "at": "2026-10-22T05:46:02+03:00",
     "message": "cv_library_requirements_manager: Page.goto: Navigation to \"https://www.cv-library.co.uk/requirements-manager-jobs\" is interrupted by another navigation to \"about:blank\"\nCall log:\n  - navigating to \"https://www.cv-library.co.uk/requirements-manager-jobs\", waiting until \"load\"\n"
