@@ -1,0 +1,92 @@
+Title: Azure Devops Engineer
+Company: Silverlink Technologies
+Location: Melbourne, Australia
+URL: https://au.jora.com/job/Azure-DevOps-Engineer-bdfbed8059fbf5d254397a504984d8e0
+Posted: 20h ago
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's expertise in Azure DevOps, CI/CD pipeline management, and configuration management, and is located in an eligible country (Australia) with no stated restrictions on sponsorship.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Search
+Sign in
+What
+Where
+Search jobs
+Azure Devops Engineer
+Silverlink Technologies
+–
+Melbourne VIC
+Contract, Casual/Temporary
+20h ago, from seek.com.au
+Apply on company site
+
+About the role
+
+We are seeking an experienced Azure DevOps Engineer to design, implement, and manage cloud infrastructure, CI/CD pipelines, automation frameworks, and platform reliability solutions within Microsoft Azure environments. The ideal candidate will have strong hands-on experience with Azure DevOps, Infrastructure as Code (IaC), container platforms, and cloud-native application deployments. The role requires close collaboration with development, QA, architecture, security, and operations teams to deliver scalable, secure, and highly available enterprise solutions.
+
+Key responsibilities
+
+Design, build, and maintain Azure DevOps CI/CD pipelines.
+
+Automate application build, test, deployment, and release processes.
+
+Implement DevSecOps practices within delivery pipelines.
+
+Support blue-green and canary deployment strategies.
+
+Provision and manage Azure infrastructure using Infrastructure as Code.
+
+Implement and support Azure Virtual Machines, Azure App Services, Azure Functions, Azure Storage, Azure SQL Database, Azure Key Vault, and Azure Kubernetes Service (AKS).
+
+Develop reusable Terraform modules and templates.
+
+Deploy and manage applications using Docker containers.
+
+Administer Kubernetes / AKS clusters.
+
+Implement observability solutions using Azure Monitor, Application Insights, Log Analytics, Grafana, and Prometheus.
+
+About you
+
+ADO skills required.
+
+Knowledge of AKS.
+
+Understand architectural level but also be hands on.
+
+Understand code, know DevOps & DevSecOps.
+
+Hands-on experience as a Platform Engineer.
+
+Apply on company site
+Be careful - Don’t provide your bank or credit card details when applying for jobs. Don't transfer any money or complete suspicious online surveys. If you see something suspicious, report this job ad.
+Email to yourself or a friend
+Email job
+Discover Jora
+Browse jobs
+Browse salaries
+Find recruiter
+About
+FAQ
+Blog
+Reviews
+Browse Jobs in Australia
+Jobs in Sydney
+Jobs in Melbourne
+Jobs in Hobart
+Jobs in Brisbane
+Jobs in Perth
+Jobs in Darwin
+Jobs in Adelaide
+Connect with us
+TikTok
+Facebook
+Linkedin
+Get Jora app
+Contact us
+Privacy
+Terms & Conditions
+©2026 Job Seeker Pty Ltd

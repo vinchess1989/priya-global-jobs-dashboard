@@ -1,9 +1,12 @@
 {
   "pid": 76292,
   "started_at": "2026-10-23T02:20:09+03:00",
-  "heartbeat_at": "2026-10-23T02:25:20+03:00",
+  "heartbeat_at": "2026-10-23T02:29:46+03:00",
   "phase": "reviewing",
-  "detail": "Core Site Reliability Engineer",
-  "last_scrape_ok_at": "2026-10-23T02:23:03+03:00",
-  "last_error": null
+  "detail": "DevOps Platform Engineer / Keycloak Specialist",
+  "last_scrape_ok_at": "2026-10-23T02:27:12+03:00",
+  "last_error": {
+    "at": "2026-10-23T02:25:55+03:00",
+    "message": "cv_library_devops_engineer: Page.goto: Navigation to \"https://www.cv-library.co.uk/devops-engineer-jobs\" is interrupted by another navigation to \"about:blank\"\nCall log:\n  - navigating to \"https://www.cv-library.co.uk/devops-engineer-jobs\", waiting until \"load\"\n"
+  }
 }

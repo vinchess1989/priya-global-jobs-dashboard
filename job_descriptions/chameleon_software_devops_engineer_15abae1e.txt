@@ -1,0 +1,187 @@
+Title: DevOps Engineer
+Company: Chameleon Software
+Location: Melbourne, Australia
+URL: https://au.jora.com/job/DevOps-Engineer-dbeb0d8192be9a96977f34c19799412b
+Posted: 24h ago
+Deadline: Open until filled
+Reason: This DevOps Engineer role in Melbourne, Australia matches the candidate's strong CI/CD and automation background while offering sponsorship potential.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Search
+Sign in
+What
+Where
+Search jobs
+DevOps Engineer
+Chameleon Software
+–
+Melbourne VIC
+Full time
+Remote
+Hybrid
+24h ago, from seek.com.au
+Apply on company site
+
+DevOps Engineer
+
+Chameleon Software | Jonas Software ANZ
+Melbourne / Remote
+
+Own the cloud platform. Automate what slows us down. Then help explore what AI can do next.
+
+The opportunity
+
+Chameleon Software is looking for a hands-on DevOps Engineer to take ownership of the AWS infrastructure supporting our Case Manager platform.
+
+You’ll work across AWS, Terraform, SQL, CI/CD, security, monitoring and SaaS environments, with the freedom to improve how things are built, deployed and operated rather than simply maintaining what already exists.
+
+But this isn’t a traditional DevOps role.
+
+Alongside your core DevOps responsibilities, you’ll have capacity to contribute directly within our development team, particularly around AI research, experimentation and new ways of working. You’ll have access to the same AI tools as the wider development team, with the support and freedom to explore where they can genuinely improve the way we build and operate software.
+
+It’s a great opportunity for someone who enjoys owning infrastructure but doesn’t necessarily want to stay within the traditional boundaries of DevOps.
+
+What you’ll be doing
+
+Cloud infrastructure
+
+Own and operate Chameleon’s AWS infrastructure supporting the Case Manager platform.
+
+Build and maintain infrastructure as code using Terraform.
+
+Provision and maintain customer SaaS environments.
+
+Support database creation, configuration and migrations from on-premise to SaaS.
+
+Help ensure our platforms remain available, scalable and recoverable while meeting customer data residency requirements.
+
+Maintain visibility of infrastructure and hosting costs and identify opportunities to improve efficiency.
+
+Provide technical support for escalated SaaS issues.
+
+Deployment and automation
+
+Own and improve CI/CD pipelines across build, test, deployment and rollback.
+
+Automate deployments to reduce manual effort and make releases safer and more repeatable.
+
+Help evolve deployment processes as Chameleon continues its move towards web-based delivery.
+
+Support planned after-hours deployments where required, with working hours managed around those deployments.
+
+Security, reliability and monitoring
+
+Build automated security checks into delivery pipelines, including vulnerability, dependency and secrets scanning.
+
+Maintain monitoring, logging and alerting that helps identify issues before they affect customers.
+
+Own backups and regular restore testing for production environments and critical applications.
+
+Lead the technical response to infrastructure and deployment incidents.
+
+Investigate root causes and turn what we learn into practical improvements.
+
+Work closely with Security & Systems Administration across relevant product-side security requirements.
+
+AI, development and experimentation
+
+This is where the role moves beyond traditional DevOps.
+
+When capacity allows, you’ll work alongside the development team and have the opportunity to contribute directly to development and AI R&D work.
+
+That could include:
+
+Using AI-assisted development tools to contribute code and prototypes.
+
+Exploring agentic and orchestrated development workflows.
+
+Using AI to assist with infrastructure as code and automation.
+
+Exploring intelligent monitoring, alerting and incident triage.
+
+Experimenting with new AI tools and approaches and turning the useful ones into practical solutions.
+
+Building automation that connects development, infrastructure and operations.
+
+Supporting the infrastructure and operational requirements of future customer-facing AI capabilities.
+
+You won’t be expected to figure this out alone. You’ll have full support to use Chameleon’s AI tooling alongside the development team, giving you room to experiment, learn and apply AI where it can make a genuine difference.
+
+We’re less interested in whether you’ve used one particular AI platform and more interested in how you think about the technology. Experience experimenting with Claude, AI coding tools, agents, orchestration or similar technologies would certainly be an advantage.
+
+What you’ll bring
+
+You’ll ideally bring experience across a mix of the following:
+
+Hands-on experience working with AWS in a production environment.
+
+Infrastructure as code experience, ideally Terraform.
+
+Strong practical SQL and database experience.
+
+Experience building or maintaining CI/CD pipelines and deployment automation.
+
+Experience supporting cloud-hosted SaaS environments.
+
+An understanding of monitoring, observability, backups and incident management.
+
+A practical approach to cloud security and automated security controls.
+
+Exposure to AI-assisted development or DevOps tools, or a genuine interest in experimenting with agents, orchestration and automation.
+
+Some software development experience or the confidence to contribute code when the opportunity arises.
+
+The ability to work independently, solve problems and take ownership from idea through to implementation.
+
+Most importantly, you’ll be self-driven and hands-on.
+
+This isn’t a role where you’ll spend your time directing others to do the technical work. You’ll be an individual contributor with the autonomy to understand the environment, challenge how things are done and build better ways of doing them.
+
+The practical stuff
+
+Location: Melbourne / Remote.
+
+Planned after-hours deployments are occasionally required, with working hours managed around those deployments.
+
+Travel is limited and expected only a few times each year.
+
+You’ll have significant ownership of Chameleon’s product-side cloud infrastructure while working closely with the broader development team.
+
+About Chameleon Software
+
+Chameleon Software sits within Jonas Software ANZ, combining the backing and stability of a larger software organisation with the opportunity to work closely with the technology and people behind an established software business.
+
+If you enjoy owning cloud infrastructure, automating the repetitive stuff, writing some code and exploring where AI can genuinely change the way software is built and operated, we’d love to hear from you.
+
+Apply on company site
+Be careful - Don’t provide your bank or credit card details when applying for jobs. Don't transfer any money or complete suspicious online surveys. If you see something suspicious, report this job ad.
+Email to yourself or a friend
+Email job
+Discover Jora
+Browse jobs
+Browse salaries
+Find recruiter
+About
+FAQ
+Blog
+Reviews
+Browse Jobs in Australia
+Jobs in Sydney
+Jobs in Melbourne
+Jobs in Hobart
+Jobs in Brisbane
+Jobs in Perth
+Jobs in Darwin
+Jobs in Adelaide
+Connect with us
+TikTok
+Facebook
+Linkedin
+Get Jora app
+Contact us
+Privacy
+Terms & Conditions
+©2026 Job Seeker Pty Ltd

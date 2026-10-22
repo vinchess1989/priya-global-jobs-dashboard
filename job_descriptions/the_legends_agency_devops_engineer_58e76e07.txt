@@ -1,0 +1,209 @@
+Title: DevOps Engineer
+Company: The Legends Agency
+Location: Cape Town, South Africa (Remote)
+URL: https://www.pnet.co.za/jobs--DevOps-Engineer-Remote-Cape-Town-Based-Remote-The-Legends-Agency--4295377-inline.html
+Posted: 2026-10-23
+Deadline: Open until filled
+Reason: The role aligns with the candidate's DevOps and CI/CD expertise, is located in South Africa (a target country), and does not have any hard rejections.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Find a job
+Post a job
+Sign up
+Tired of searching? Let’s find you the right jobs faster
+Get Started
+Find Jobs
+ DevOps Engineer
+The Legends Agency
+Remote, Cape Town Based | Remote
+Permanent
+Full Time
+Published: 10 hours ago
+Non EE/AA
+I'm interested
+Save
+ DevOps Engineer
+The Legends Agency
+I'm interested
+Introduction
+
+ DevOps Engineer
+
+Build and maintain the cloud infrastructure, automation and reliability supporting a global Reseller platform.
+
+Remote, Cape Town Based | Remote | R95,000 per month, negotiable
+
+ABOUT OUR CLIENT
+
+Our client helps businesses provide seamless and affordable connectivity to customers around the world. Its platform combines modern technology with direct relationships with Tier 1 mobile network operators, enabling partners to launch and scale connectivity products.
+
+The business is growing quickly, with technology running through its operations and supporting the connectivity products delivered to partners globally.
+
+THE ROLE: DEVOPS ENGINEER
+
+The DevOps Engineer will help build and maintain the infrastructure, automation and reliability supporting the Reseller platform. Working closely with the Engineering team, the role focuses on cloud environments, CI/CD pipelines and monitoring systems that enable developers to deploy quickly and safely.
+
+The role is also responsible for supporting a secure, scalable and highly available platform for partners around the world.
+
+Duties & Responsibilities
+
+• Build and maintain scalable, secure cloud infrastructure in AWS.
+
+• Support and improve CI/CD pipelines to enable fast, reliable and repeatable deployments.
+
+• Write and maintain Infrastructure as Code (IaC) to provision and manage environments consistently.
+
+• Implement and maintain monitoring, logging and alerting to support platform reliability.
+
+• Participate in an on-call rotation, responding to incidents, diagnosing root causes and carrying out post-incident reviews to prevent recurrence.
+
+• Identify repeatable operational tasks and automate them.
+
+• Support distributed systems, containerisation and orchestration within a cloud environment.
+
+• Follow and help uphold security best practices across infrastructure, including secrets management, vulnerability scanning and access control.
+
+• Collaborate with the development team to troubleshoot performance, scalability and deployment issues.
+
+• Write documentation for infrastructure, processes and runbooks.
+
+Desired Experience & Qualification
+
+ABOUT YOU
+
+• 5+ years of experience in a DevOps, SRE or Infrastructure Engineering role.
+
+• Solid computer science foundations, including some exposure to distributed systems.
+
+• Experience working in AWS cloud environments.
+
+• Experience writing Infrastructure as Code, such as Terraform or CloudFormation.
+
+• Experience with CI/CD tooling, such as GitHub Actions, GitLab CI or Jenkins.
+
+• Experience with containerisation using Docker.
+
+• Familiarity with monitoring and observability tooling, such as Prometheus, Grafana, Datadog or CloudWatch.
+
+• Familiarity with security standards and authentication methods, including API key, JWT and OAuth 2.0.
+
+• Familiarity with Cloudflare.
+
+• Comfortable participating in an on-call rotation.
+
+• Experience working in Agile environments.
+
+• Excellent troubleshooting skills with a methodical approach to problem-solving.
+
+• Strong communication skills and comfortable working with stakeholders and customers.
+
+• Comfortable working in a multicultural, multidisciplinary environment.
+
+• Fluent in written and spoken English.
+
+• Collaborative and supportive, with a willingness to continue learning from more senior team members.
+
+PREFERRED SKILLS & EXPERIENCE
+
+• Bachelor’s degree in Computer Science, Mathematics or equivalent.
+
+• Exposure to orchestration using Kubernetes.
+
+• Experience with scripting languages such as Python or Bash.
+
+• Experience with programming languages such as Go, Java or C# is a bonus.
+
+• Experience with Event-Driven architecture.
+
+• Familiarity with database administration and optimisation using Postgres.
+
+• Experience working in a telecoms or SaaS environment.
+
+Package & Remuneration
+
+ R95,000 per month, negotiable
+
+I'm interested
+The Legends Agency
+HR Services, Recruitment & Selection • 1-10 Employees
+Company Profile
+These jobs were popular with other job seekers
+INTERMEDIATE DEVOPS ENGINEER
+Imqs
+Hybrid preferably - Stellenbosch
+just now
+Platform Engineer
+Network IT
+Centurion
+just now
+DevOps Engineer
+iLaunch (Pty) Ltd
+Centurion
+just now
+DevOps Engineer
+Eqplus Technologies (Pty) Ltd
+Cape Town
+just now
+DevOps
+MSP Staffing Pty Ltd
+Cape Town Or Gauteng
+just now
+DevOps / SRE Cloud Engineer
+Goldman Tech Resourcing (Pty) Ltd
+KwaZulu Natal, Western Cape, Gauteng
+just now
+Platform / Cloud Engineer
+MSP Staffing Pty Ltd
+Johannesburg
+just now
+DevOps
+MSP Staffing Pty Ltd
+Cape Town Or Gauteng
+just now
+System Analyst – Infrastructure & DevOps
+Watershed Consulting
+johannesburg
+just now
+DevOps Engineer | The DevOps Conductor
+Communicate IT
+Cape Town: Northern Suburbs
+just now
+Get hired.
+Find success.
+Get started
+Pnet
+About us
+Privacy policy
+Disclaimer
+Terms and conditions
+PAIA
+Jobseekers
+Career advice
+Blog
+Recruiters
+Post job ads
+Contact us – recruiters
+Products and Services
+Download
+App Store
+Google Play
+Pnet © 2026
+We use cookies
+
+We transmit personal data to third-party providers who help us to improve our web services. In this context, we also create and enrich usage profiles (e.g., on the basis of cookie IDs), which may also be transferred outside the Republic of South Africa and outside the EU and EEA.
+
+For this and to be able to use certain services for the purposes listed below, we require your consent. By clicking "Accept all", you agree to these (revocable at any time). This also includes your consent to the transmission of certain personal data to third countries, including the USA*, in accordance with Section 72 (1) (b) POPIA. You can change your settings or refuse data processing under "Settings or reject". You can change your selection at any time under "Privacy Statement" at the bottom of the page.
+
+Storing and/or retrieving information on a device
+Cookies, device identifiers or other information may be stored on or retrieved from your device for the processing purposes shown to you.
+Personalised ads and content, ad and content measurement, audience insights and product development
+Ads and content can be personalised based on a profile. More data can be added to better personalise ads and content. The performance of ads and content can be measured. Insights about audiences who have viewed the ads and content can be extracted. Data can be used to build or improve user experience, systems and software.
+Display third-party content (social networks, videos)
+Content from social networks and embedded content from third-party providers can be displayed.
+Settings or reject
+Accept All
+You can also exercise your right to object to data processing based on legitimate interests under “Privacy Statement”.
+Privacy Statement

@@ -1,0 +1,167 @@
+Title: DevOps Platform Engineer / Keycloak Specialist
+Company: Falcorp Resourcing
+Location: Centurion, South Africa
+URL: https://www.pnet.co.za/jobs--DevOps-Platform-Engineer-Keycloak-Specialist-Centurion-Falcorp-Resourcing--4295391-inline.html
+Posted: 2026-10-23
+Deadline: N/A
+Reason: The role is a strong match for her DevOps, configuration management, and release automation background, and it is located in South Africa, which is one of her target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Find a job
+Post a job
+Sign up
+Tired of searching? Let’s find you the right jobs faster
+Get Started
+Find Jobs
+DevOps Platform Engineer / Keycloak Specialist
+Falcorp Resourcing
+Centurion
+Fixed Term
+Full Time
+Published: 10 hours ago
+Non EE/AA
+I'm interested
+Save
+DevOps Platform Engineer / Keycloak Specialist
+Falcorp Resourcing
+I'm interested
+Introduction
+
+The DevOps / Platform Engineer (Keycloak Specialist) is responsible for the deployment, automation, scalability, and operational stability of enterprise Keycloak platforms. The role focuses on managing highly available Keycloak environments, implementing infrastructure automation, GitOps-driven configuration management, database optimisation, supporting cluster operations, and ensuring secure, resilient identity services.
+
+Working closely with Solution Architects, Security Teams, Developers, and Infrastructure Engineers, the successful candidate will drive platform reliability, lifecycle management, configuration automation, performance optimisation, and zero-downtime deployment strategies across cloud and on-premises environments. The role is accountable for ensuring the operational health of Keycloak platforms, including distributed caching performance, database efficiency, platform observability, and infrastructure scalability.
+
+Duties & Responsibilities
+Deploy, configure, and maintain Keycloak platforms in Kubernetes and OpenShift environments.
+Manage Keycloak clustering, high availability, and platform performance.
+Manage Keycloak deployment lifecycles using the official Kubernetes Keycloak Operator and custom Custom Resource Definitions (CRDs).
+Implement and support Keycloak Operator-based deployments and lifecycle management.
+Implement GitOps workflows (e.g., ArgoCD / Flux) using the Terraform Keycloak Provider or Keycloak Config CLI to automate realm, client, and role deployments without manual console intervention.
+Configure and optimise Infinispan caching and PostgreSQL database clustering.
+Tune JDBC connection pooling (Agroal/HikariCP), optimise read/write transaction limits, and manage Keycloak schema migration during minor and major platform upgrades.
+Develop Infrastructure as Code (IaC) solutions using Terraform, including the Terraform Keycloak Provider.
+Automate platform provisioning, configuration, monitoring, and operational processes.
+Plan and execute zero-downtime upgrades, migrations, platform maintenance activities, and infrastructure lifecycle management.
+Implement end-to-end observability, alerting, and health probes using Prometheus metrics (/metrics), Grafana dashboards, and synthetic transaction monitoring for authentication and authorisation endpoints.
+Troubleshoot platform, infrastructure, database, caching, and authentication-related issues.
+Collaborate with development, security, architecture, and infrastructure teams to deliver reliable IAM solutions.
+Produce and maintain operational documentation, standards, runbooks, configuration baselines, and deployment procedures.
+Desired Experience & Qualification
+Bachelor's Degree in Computer Science, Information Technology, Engineering, or a related field.
+Minimum of 5 years' experience in DevOps, Platform Engineering, Site Reliability Engineering (SRE), or Infrastructure Engineering roles.
+Proven experience deploying and managing Keycloak in enterprise environments.
+Strong operational experience with the modern Quarkus-based Keycloak runtime (Keycloak 17+ / 2x+), including container build-time versus runtime optimisation strategies.
+Strong experience with Kubernetes and/or OpenShift platforms.
+Hands-on experience with the Keycloak Operator, Custom Resource Definitions (CRDs), and Keycloak lifecycle management.
+Experience configuring and managing clustered Keycloak deployments.
+Strong knowledge of Infinispan caching, distributed session management, and clustering technologies, including:
+JGroups discovery protocols (DNS_PING, KUBE_PING).
+Distributed cache replication tuning.
+Split-brain prevention and recovery strategies.
+Network partition handling.
+Cross-node session consistency.
+Experience with PostgreSQL administration, replication, database clustering, performance tuning, and schema lifecycle management.
+Proficiency with Terraform and Infrastructure as Code (IaC) practices, including the Terraform Keycloak Provider.
+Experience implementing GitOps operating models using ArgoCD, Flux, or similar GitOps platforms.
+Experience implementing CI/CD pipelines and deployment automation.
+Strong understanding of high availability, disaster recovery, backup, recovery, and business continuity strategies.
+Experience planning and executing zero-downtime upgrades, migrations, and production deployments.
+Familiarity with containerisation technologies such as Docker and Kubernetes.
+Knowledge of authentication and federation technologies including:
+OAuth 2.0
+OpenID Connect (OIDC)
+SAML
+Strong experience with observability and monitoring platforms, including:
+Prometheus
+Grafana
+OpenSearch / Elasticsearch
+OpenTelemetry
+Jaeger
+Centralised logging and alerting platforms
+Strong troubleshooting, analytical, and problem-solving skills.
+Excellent communication and stakeholder management abilities.
+Experience within Telecommunications, Financial Services, Consulting, or large-scale enterprise environments will be advantageous.
+I'm interested
+Falcorp Resourcing
+14 Jobs
+Company Profile
+These jobs were popular with other job seekers
+Platform Engineer
+Network IT
+Centurion
+just now
+DevOps Engineer
+iLaunch (Pty) Ltd
+Centurion
+just now
+IAM/ Keycloak Engineer - Java/SPI
+Falcorp Resourcing
+Centurion
+just now
+Embedded Systems Engineer
+MSP Staffing Pty Ltd
+Centurion
+just now
+IT Infrastructure Engineer/ Systems Engineer
+Hello Group
+Centurion
+just now
+Digital Product and Platform Specialist- Centurion
+Pro Tem Capability
+Centurion
+just now
+Back end C# Developer
+Network IT
+Centurion
+just now
+ICT Technical Manager (Centurion)
+Elchemie
+Centurion
+just now
+Embedded Systems Engineer
+MSP Staffing Pty Ltd
+Centurion
+just now
+Systems Engineer Mining Machinery
+Network Engineering
+Johannesburg East
+just now
+Get hired.
+Find success.
+Get started
+Pnet
+About us
+Privacy policy
+Disclaimer
+Terms and conditions
+PAIA
+Jobseekers
+Career advice
+Blog
+Recruiters
+Post job ads
+Contact us – recruiters
+Products and Services
+Download
+App Store
+Google Play
+Pnet © 2026
+We use cookies
+
+We transmit personal data to third-party providers who help us to improve our web services. In this context, we also create and enrich usage profiles (e.g., on the basis of cookie IDs), which may also be transferred outside the Republic of South Africa and outside the EU and EEA.
+
+For this and to be able to use certain services for the purposes listed below, we require your consent. By clicking "Accept all", you agree to these (revocable at any time). This also includes your consent to the transmission of certain personal data to third countries, including the USA*, in accordance with Section 72 (1) (b) POPIA. You can change your settings or refuse data processing under "Settings or reject". You can change your selection at any time under "Privacy Statement" at the bottom of the page.
+
+Storing and/or retrieving information on a device
+Cookies, device identifiers or other information may be stored on or retrieved from your device for the processing purposes shown to you.
+Personalised ads and content, ad and content measurement, audience insights and product development
+Ads and content can be personalised based on a profile. More data can be added to better personalise ads and content. The performance of ads and content can be measured. Insights about audiences who have viewed the ads and content can be extracted. Data can be used to build or improve user experience, systems and software.
+Display third-party content (social networks, videos)
+Content from social networks and embedded content from third-party providers can be displayed.
+Settings or reject
+Accept All
+You can also exercise your right to object to data processing based on legitimate interests under “Privacy Statement”.
+Privacy Statement

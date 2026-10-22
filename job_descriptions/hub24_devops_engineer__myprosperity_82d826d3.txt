@@ -1,0 +1,181 @@
+Title: DevOps Engineer, myprosperity
+Company: HUB24
+Location: Melbourne, VIC, Australia
+URL: https://au.jora.com/job/DevOps-Engineer-1c181831d888271189c91b4e351908f3
+Posted: 2026-10-21
+Deadline: N/A
+Reason: The role aligns perfectly with the candidate's extensive experience in DevOps, CI/CD, and infrastructure automation within regulated environments, and it is located in Australia, which is a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Search
+Sign in
+What
+Where
+Search jobs
+DevOps Engineer, myprosperity
+HUB24
+–
+Melbourne VIC
+Full time
+Hybrid
+2d ago, from Hub24
+Apply on company site
+
+About HUB24
+
+
+
+
+At HUB24, we’re rethinking the way wealth management works, combining platform, technology and data to create better outcomes for financial professionals and their clients.
+
+Our purpose is simple:  Empower better financial futures, together.
+
+What sets us apart is how we work. We back bold thinking, move with pace, and turn ideas into action. You’ll have the opportunity to make a real impact across your team, the business, and for the clients we support every day.
+
+HUB24 Limited is an ASX-listed company (ASX: HUB) and part of the ASX100. We have over 1,100 employees across Australia, with offices in Sydney, Melbourne, Brisbane, Perth and the Gold Coast. 
+
+
+
+
+Why you’ll enjoy working here
+
+
+
+
+We create an environment where you can do your best work and see the impact of it.
+
+Work with smart, collaborative people who get things done.
+Your ideas won’t sit in a backlog, they’ll be heard, tested and actioned.
+Grow your career your way, with support to learn, stretch and explore new opportunities.
+
+We also offer benefits to support you inside and outside of work:
+
+Genuinely flexible and hybrid ways of working.
+Employee Share Scheme.
+Additional leave and wellbeing support.
+Enhanced parental leave and support through different life stages.
+Everyday benefits, including discounts and financial wellbeing support.
+
+Why this is an exciting opportunity
+
+
+We’re looking for a hands-on DevOps Engineer to help build, support and continuously improve our cloud platforms, infrastructure and software delivery capabilities.
+
+Working across AWS and GCP environments, you’ll use Infrastructure as Code, automation and modern CI/CD practices to create secure, scalable and reliable solutions. You’ll also help strengthen our observability, container platforms, incident response and operational practices.
+
+You’ll collaborate with Platform, Cyber Security, Software Engineering, Product and Test teams, giving you the opportunity to influence how technology is delivered across the organisation. This role is well suited to an engineer who enjoys solving complex problems, improving developer experience and turning repetitive processes into reliable automation
+
+What you’ll be doing
+
+
+
+Implement and support scalable cloud solutions across AWS and GCP, aligned with established architecture and engineering standards.
+Build and maintain infrastructure using Terraform, CloudFormation or equivalent Infrastructure as Code technologies.
+Develop reusable infrastructure modules, templates and technical documentation.
+Support cloud networking, identity and access management, platform security and governance.
+Build, maintain and optimise CI/CD pipelines in partnership with Software Engineering, Test and Platform teams.
+Automate software build, testing, deployment and release processes.
+Apply engineering standards, controls and quality gates, while contributing to their continuous improvement.
+Improve DevOps practices, developer experience and self-service capabilities.
+Implement and support monitoring, logging, tracing and alerting solutions.
+Contribute to reliability engineering practices, including service indicators, service objectives, error budgets, resilience testing and capacity planning.
+Support containerised workloads and administer Docker and Kubernetes environments.
+Participate in production incident response, root-cause analysis and service improvement activities.
+Support vulnerability management, patching, secrets management and compliance obligations.
+Work with Cyber Security teams to embed secure-by-design principles.
+Troubleshoot technical issues and collaborate with senior engineers and other teams to resolve complex problems.
+Contribute practical insights to architecture decisions, technology roadmaps and platform improvements.
+Participate in peer reviews, knowledge sharing and team learning activities.
+Identify and implement improvements to automation, reliability, security and delivery processes.
+
+What you bring
+
+
+
+
+You don’t need to tick every box, but experience in the below will set you up for success.
+
+
+
+
+Experience & Skills
+
+
+
+At least three years’ experience in DevOps, Cloud Engineering, Platform Engineering or a related technical role.
+Hands-on experience operating and supporting cloud platforms in a production environment.
+Strong practical experience with AWS.
+Proficiency in Terraform and Infrastructure as Code practices.
+Experience with container technologies, including Docker and Kubernetes.
+Strong scripting and automation skills using Python, PowerShell, Bash or a similar language.
+Experience with CI/CD platforms such as GitHub Actions, Harness, Jenkins, TeamCity or Bamboo.
+Experience with monitoring and observability tools such as Dynatrace, Datadog, Prometheus, Grafana, CloudWatch or the ELK Stack.
+Knowledge of modern software development lifecycle practices and DevOps delivery methods.
+Experience implementing secure, reliable, scalable and highly available systems using established engineering patterns.
+Strong troubleshooting, incident management and root-cause analysis capabilities.
+Experience supporting production systems and participating in incident response within a high-availability environment.
+Experience working within Agile delivery frameworks.
+Clear communication, stakeholder engagement and technical documentation skills.
+Ability to take ownership of assigned work while collaborating effectively across multiple teams.
+Hands-on experience with Google Cloud Platform.
+Experience contributing to cloud migration, platform modernisation or infrastructure improvement initiatives.
+Understanding of artificial intelligence capabilities and their application within modern engineering environments.
+Experience working in financial services or another regulated environment.
+Relevant certifications, such as: AWS Certified Solutions Architect AWS Certified DevOps Engineer Certified Kubernetes Administrator HashiCorp Certified: Terraform Associate
+
+Our process
+
+
+
+
+We aim to keep the process simple and respectful of your time:
+
+You’ll receive an acknowledgement after applying.
+Our Talent team will review your application and keep you updated.
+If shortlisted, we’ll connect to learn more about you.
+Interviews may be virtual or in person.
+You’ll receive an outcome and feedback.
+
+If you need any adjustments, please let us know - we’re here to support you.
+
+
+
+
+Our commitment
+
+We’re committed to building an inclusive environment where everyone feels valued and supported to do their best work. We welcome applications from people of all backgrounds, identities and experiences.
+
+Agencies, we work with a panel of preferred suppliers and are not accepting any unsolicited CVs.
+
+Apply on company site
+Be careful - Don’t provide your bank or credit card details when applying for jobs. Don't transfer any money or complete suspicious online surveys. If you see something suspicious, report this job ad.
+Email to yourself or a friend
+Email job
+Discover Jora
+Browse jobs
+Browse salaries
+Find recruiter
+About
+FAQ
+Blog
+Reviews
+Browse Jobs in Australia
+Jobs in Sydney
+Jobs in Melbourne
+Jobs in Hobart
+Jobs in Brisbane
+Jobs in Perth
+Jobs in Darwin
+Jobs in Adelaide
+Connect with us
+TikTok
+Facebook
+Linkedin
+Get Jora app
+Contact us
+Privacy
+Terms & Conditions
+©2026 Job Seeker Pty Ltd
