@@ -56,6 +56,11 @@ allow-listed accounts only, and scripts authenticate via **`firestore_auth.py`**
   **2026-10-20:** a `job_requirements.md` edit now re-queues only jobs whose title/company/location
   matches keywords from the changed lines (diffed against the gitignored `requirements_snapshot.md`),
   not every job. Details in priya_jobs/memory.md.
+  **2026-10-22 — no longer local-only (user decision):** reviews go to Gemini first
+  (`GEMINI_KEYS`: `GEMINI_API_KEY_VINEETH_BITS` → `GEMINI_API_KEY`, Windows user env vars; eval_model
+  `gemini-vineeth-bits/...` or `gemini/...`), the local model only if both fail. Local-only (~1 min/job)
+  made the morning run last 26 h+. The morning run also gives each dashboard a 60-min budget
+  (`SCRAPER_DEADLINE`). Details in priya_jobs/memory.md.
 - `LOCAL_LLM_ENDPOINT`/`LOCAL_LLM_MODEL` come from the Windows user env vars (shared).
 
 ## Scraper specifics (vs priya_jobs)

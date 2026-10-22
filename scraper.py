@@ -1641,8 +1641,18 @@ def _post_llm_with_retry(url, headers, payload, timeout=120, retries=2, backoff_
         raise last_err
     raise requests.exceptions.RequestException("LLM request failed with no captured exception")
 
-# This board uses ONLY the local LM Studio server - no Groq/Gemini (user decision,
-# 2026-09-27). The Finland board (priya_jobs) keeps its cloud providers.
+# Local-only from 2026-09-27 until 2026-10-22, when the user switched this board to Gemini first:
+# local-only review (~1 min/job) made the morning run last over a day and kept the LM Studio
+# model (and its ~8 GB RAM prompt cache) busy around the clock. The local server is the fallback.
+# Gemini via its OpenAI-compatible endpoint; each model has its own free-tier quota, so they
+# rotate on failure (gemini-3.1-flash-lite validated 2026-09-27 on priya_jobs: 32/40 exact).
+GEMINI_ENDPOINT = "https://generativelanguage.googleapis.com/v1beta/openai/chat/completions"
+GEMINI_MODELS = [m.strip() for m in os.environ.get("GEMINI_MODELS", "gemini-3.1-flash-lite,gemini-3.5-flash-lite").split(",") if m.strip()]
+# (label, Windows user env var), tried in order: each is a separate Gemini account with its own
+# quota. The label is what eval_model records, and keeps each key's 429 cooldowns separate.
+GEMINI_KEYS = (("gemini-vineeth-bits", "GEMINI_API_KEY_VINEETH_BITS"), ("gemini", "GEMINI_API_KEY"))
+
+_cloud_model_cooldown_until = {}  # "label/model" -> epoch seconds; see _try_cloud_provider
 
 # Minimum max_tokens for local LM Studio calls, and the HTTP timeout that budget needs -
 # see _call_llm_with_fallback.
@@ -1661,12 +1671,53 @@ def _truncated_without_verdict(resp_json):
     except Exception:
         return False
 
-def _call_llm_with_fallback(messages, llm_endpoint, llm_model, temperature=0.1, max_tokens=500, timeout_local=120, timeout_groq=60):
-    """Send the request to the local LM Studio server - this board is local-only (no
-    Groq/Gemini). The name and signature match the sibling scrapers so the call sites
-    stay identical; timeout_groq is unused.
+def _try_cloud_provider(messages, endpoint, api_key, models, temperature, max_tokens, timeout, label):
+    """Try each model in `models` in order, stopping at the first success (one attempt per
+    model). Returns (response_json, provider_label), or None if every model failed. Models
+    that just returned 429 are skipped until their retry-after cooldown has passed."""
+    for model in models:
+        key = f"{label}/{model}"
+        if time.time() < _cloud_model_cooldown_until.get(key, 0):
+            continue
+        try:
+            payload = {"model": model, "messages": messages, "temperature": temperature, "max_tokens": max_tokens}
+            headers = {"Content-Type": "application/json", "Authorization": f"Bearer {api_key}"}
+            response = requests.post(endpoint, headers=headers, json=payload, timeout=timeout)
+            if response.status_code == 429:
+                try:
+                    cooldown_seconds = float(response.headers.get("retry-after"))
+                except (TypeError, ValueError):
+                    cooldown_seconds = 60
+                _cloud_model_cooldown_until[key] = time.time() + cooldown_seconds
+                print(f"  [LLM] {label} model '{model}' rate-limited, cooling down {cooldown_seconds:.0f}s, trying next...")
+                continue
+            response.raise_for_status()
+            resp_json = response.json()
+            if _truncated_without_verdict(resp_json):
+                bigger = max(max_tokens * 8, 4096)
+                print(f"  [LLM] {label} model '{model}' used its whole {max_tokens}-token budget without a verdict - retrying once with {bigger}...")
+                payload["max_tokens"] = bigger
+                response = requests.post(endpoint, headers=headers, json=payload, timeout=timeout * 3)
+                response.raise_for_status()
+                resp_json = response.json()
+            return resp_json, f"{label}/{model}"
+        except Exception as e:
+            print(f"  [LLM] {label} model '{model}' failed ({e}), trying next...")
+    return None
 
-    Returns (response_json, provider_label), provider_label being 'local/<model>'."""
+def _call_llm_with_fallback(messages, llm_endpoint, llm_model, temperature=0.1, max_tokens=500, timeout_local=120, timeout_groq=60):
+    """Try Gemini first (GEMINI_MODELS on each key in GEMINI_KEYS), falling back to the
+    local LM Studio server once every cloud attempt has failed. The name and signature match
+    the sibling scrapers so the call sites stay identical (timeout_groq is the cloud timeout).
+
+    Returns (response_json, provider_label), e.g. 'gemini/gemini-3.1-flash-lite' or 'local/<model>'."""
+    for label, key_name in GEMINI_KEYS:
+        gemini_api_key = os.environ.get(key_name)
+        if gemini_api_key:
+            result = _try_cloud_provider(messages, GEMINI_ENDPOINT, gemini_api_key, GEMINI_MODELS, temperature, max_tokens, timeout_groq, label)
+            if result:
+                return result
+
     headers = {"Content-Type": "application/json"}
     llm_api_key = os.environ.get("LOCAL_LLM_API_KEY")
     if llm_api_key:
@@ -2615,6 +2666,9 @@ def main():
     # exiting when it is empty or a review round clears nothing (so it can't spin forever).
     scrape_pass_done = False
     last_pending_count = None
+    # Epoch seconds set by run_scrapers_sequential.ps1: past it, --once stops between batches and
+    # the next morning's run carries on from the checkpoint / review queue.
+    once_deadline = float(os.environ.get("SCRAPER_DEADLINE") or 0)
 
     while not stop_event.is_set():
         turn = _acquire_scraper_turn()
@@ -2656,6 +2710,10 @@ def main():
         # even while re-reviews are pending (before 2026-09-25, scraping waited for
         # an empty queue and no new jobs were found for a week).
         if args.once:
+            if once_deadline and time.time() >= once_deadline:
+                print(f"\nINFO: --once time budget used up ({len(pending_jobs)} jobs still need review). Exiting; the next run continues.")
+                turn.release()
+                break
             if scrape_pass_done and (not pending_jobs or (last_pending_count is not None and len(pending_jobs) >= last_pending_count)):
                 print(f"\nINFO: --once run finished ({len(pending_jobs)} jobs still need review). Exiting.")
                 turn.release()
