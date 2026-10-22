@@ -1,0 +1,270 @@
+Title: Senior DevOps Engineer
+Company: Duetto
+Location: London, England, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/senior-devops-engineer-at-duetto-4478387794
+Posted: 2026-10-15
+Deadline: N/A
+Reason: This Senior DevOps Engineer role matches her extensive CI/CD and release automation background, is located in the UK (with a remote option), and aligns well with her target experience level.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Join now
+Sign in
+Senior DevOps Engineer
+Duetto  London, England, United Kingdom
+1 week ago   Over 200 applicants
+  
+
+See who Duetto has hired for this role
+
+Apply 
+Save
+
+Duetto's platform runs 24/7 for hotels, resorts, and casinos around the world, and that reliability doesn't happen by accident. We're looking for a Senior DevOps Engineer to architect, build, and own the AWS infrastructure that keeps our Revenue & Profit Operating System fast, secure, and always on, while helping shape how our engineering org automates its way out of manual toil.
+
+What Makes Us Different?
+
+Duetto is the hospitality industry's leading revenue management platform, founded in 2012 by former Wynn Resorts executives who knew the industry needed better technology. We built the world's first Revenue & Profit Operating System — a suite of tools (GameChanger, ScoreBoard, BlockBuster, Advance and more) that goes beyond room pricing to give hotels, resorts and casinos a complete picture of their revenue and profitability. Trusted by clients ranging from independent boutique hotels to global chains, we've been named the #1 Revenue Management Software by HotelTechAwards four years running and the #1 Best Place to Work in Hotel Tech in 2025. Backed by GrowthCurve Capital since 2024, we're accelerating our investment in AI, and we're genuinely passionate about the industry we serve. We build products we're proud of, for customers we care about.
+
+ 
+
+What You'll Be Doing
+Architect and implement infrastructure for seamless migrations of critical systems, keeping uptime and reliability front and center
+Design, build, and maintain the tooling and processes that let our SaaS products scale and run themselves on AWS
+Partner closely with developers to strengthen the reliability, performance, security, and scalability of our application architecture
+Build and maintain the critical infrastructure components that keep everything highly available and secure
+Drive alignment across technical and non-technical teams, making sure infrastructure decisions serve the whole business
+Take your turn as last line of defense in our weekly on-call rotation, leading root cause analysis and driving fixes that stick for good
+
+ 
+
+What We're Looking For
+
+You may be a good fit if you have the following:
+
+5+ years in an Ops, DevOps, or SRE role, with real system design and architecture chops. You're comfortable administering cloud infrastructure hands-on (AWS preferred, Azure or GCP also welcome), and you know your way around networking and security at an engineering level. 
+You're fluent in the AWS ecosystem (IAM, VPC, EC2, ELB, RDS, S3, Lambda, API Gateway, Secrets Manager, KMS, CloudWatch, CloudTrail), have run Terraform/Terragrunt in production, and have worked with Chef or Puppet. 
+You're at home with GitHub, GitHub Actions, Jenkins, JFrog Artifactory, and GitOps workflows, and you've used DataDog, Prometheus, or Grafana to keep tabs on system health. 
+You can read Java, Ruby, Bash/Zsh, HCL, Python, and JavaScript well enough to move fast across a codebase.
+
+Strong candidates may also have:
+
+Experience with ECS or EKS, exposure to SOC2 or secure-by-default practices
+Familiarity with L7 load balancing.
+
+ 
+
+Why Duetto?
+You'll own meaningful infrastructure decisions, not just execute someone else's blueprint. New tooling choices are proposed with a business case and decided as a team, so your judgment matters
+We're an AI-forward company across every function, not just engineering. You'll be equipped to use AI for things like incident triage, IaC code generation, and runbook authoring, and encouraged to push that further
+You'll work at the intersection of serious infrastructure and an industry we genuinely love. Our customers depend on us around the clock, and that shows up in how seriously we take reliability
+Real collaboration, not silos. You'll partner directly with developers and cross-functional teams to solve problems together, not just file tickets
+We celebrate diverse perspectives and back that up with the room to debate ideas openly. Come as you are, and bring your full self to the work
+
+ 
+
+The Details
+Location: Remote, Croatia, Spain or UK
+Work model: Fully remote
+Weekly on-call rotation as last line of support for 24/7 services
+
+ 
+
+Duetto is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, colour, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, or any other characteristic protected by applicable law.
+
+ 
+
+Sound like you?
+
+If this sounds like the kind of infrastructure work that gets you excited, apply even if you don't check every single box. We'd rather meet someone with the right instincts and hunger to grow than tick boxes on a checklist.
+
+ 
+
+ 
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Technology, Information and Internet
+  
+
+Referrals increase your chances of interviewing at Duetto by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in London, England, United Kingdom.
+
+Sign in to create job alert
+Jobs
+Application Engineering Manager jobs
+Senior DevOps Engineer
+Similar jobs
+Senior DevOps Engineer
+Senior DevOps Engineer
+Arbor Education
+United Kingdom
+£70,000 - £80,000
+5 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Nearform
+United Kingdom
+1 week ago
+Sr. DevOps Engineer - AWS
+Sr. DevOps Engineer - AWS
+Intermedia Intelligent Communications
+United Kingdom
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+OAG
+United Kingdom
+1 week ago
+Senior DevOps Engineer (AWS Platform)
+Senior DevOps Engineer (AWS Platform)
+Enigmatic Smile Limited
+United Kingdom
+4 months ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+ieso
+United Kingdom
+£70,000 - £80,000
+3 weeks ago
+Show more jobs like this 
+People also viewed
+DevOps Engineer (100% remote)
+DevOps Engineer (100% remote)
+
+Tether.io
+
+United Kingdom
+6 days ago
+Senior DevOps Engineer- Night Shift(10:00 PM - 6:00 AM)
+Senior DevOps Engineer- Night Shift(10:00 PM - 6:00 AM)
+
+NiCE
+
+United Kingdom
+1 day ago
+DevOps Engineer
+DevOps Engineer
+
+Amber Labs
+
+London Area, United Kingdom
+6 days ago
+Lead DevOps Engineer
+Lead DevOps Engineer
+
+myenergi
+
+United Kingdom
+3 weeks ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+Camunda
+
+United Kingdom
+1 week ago
+Cloud Infrastructure Engineer
+Cloud Infrastructure Engineer
+
+Perlego
+
+United Kingdom
+£60,000 - £65,000
+4 months ago
+DevOps Engineer
+DevOps Engineer
+
+Methods
+
+London, England, United Kingdom
+1 week ago
+Site Reliability Engineer, Infrastructure Platforms — UK (Intermediate to Senior Staff)
+Site Reliability Engineer, Infrastructure Platforms — UK (Intermediate to Senior Staff)
+
+GitLab
+
+United Kingdom
+1 day ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+Rainmaker
+
+London Area, United Kingdom
+3 weeks ago
+Cloud Platform Engineer
+Cloud Platform Engineer
+
+Prolific
+
+London, England, United Kingdom
+2 weeks ago
+Similar Searches
+Application Engineering Manager jobs
+1,261 open jobs
+Investment Performance Analyst jobs
+422 open jobs
+Director of Revenue jobs
+1,070 open jobs
+Presales Solutions Consultant jobs
+118 open jobs
+Group Marketing Director jobs
+4,788 open jobs
+Revenue Manager jobs
+2,587 open jobs
+Bureau Manager jobs
+150 open jobs
+Portfolio Management Analyst jobs
+3,255 open jobs
+Yield Manager jobs
+211 open jobs
+Customer Solutions Specialist jobs
+7,766 open jobs
+Director of Revenue Management jobs
+666 open jobs
+Group Product Manager jobs
+2,281 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Duetto
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

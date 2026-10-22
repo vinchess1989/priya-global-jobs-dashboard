@@ -1,0 +1,244 @@
+Title: Senior DevOps Engineer
+Company: Applied Data Science Partners
+Location: London Area, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/senior-devops-engineer-at-applied-data-science-partners-4481124856
+Posted: 2026-10-22
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in CI/CD, release management, and DevOps automation, and it is located in a target country (UK) with no restrictive citizenship or clearance requirements mentioned.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Join now
+Sign in
+Senior DevOps Engineer
+Applied Data Science Partners  London Area, United Kingdom
+22 hours ago  30 applicants
+  
+
+See who Applied Data Science Partners has hired for this role
+
+Apply 
+Save
+
+We are looking for a Senior DevOps Engineer to help build and maintain the infrastructure, tooling and processes that enable our engineering teams to deliver high‑quality software quickly and reliably for our clients and internal processes.
+
+
+
+
+You will work closely with our Software Engineers, as well as client tech teams, developing the full lifecycle of environments and CI/CD pipelines across multiple clouds (Azure, AWS and occasionally GCP) and our on‑premise data centre. You will be instrumental in improving reliability and observability for the ADSP delivery team and our clients.
+
+
+
+
+If this sounds like you, we can't wait to hear from you!
+
+
+
+
+KEY RESPONSIBILITIES:
+
+Design, build and maintain infrastructure on Azure and AWS (and occasionally GCP) using infrastructure‑as‑code.
+Standardise and optimise Docker images for our Python and TypeScript services.
+Manage container runtimes and orchestration platforms (e.g. Docker Compose, Kubernetes, ECS, AKS, etc.).
+Implement image scanning, registry management and deployment strategies (blue/green, canary, rolling).
+Design and maintain CI/CD pipelines to build, test and deploy applications across environments.
+Integrate automated testing, security checks and quality gates into the pipelines.
+Automate repetitive operational tasks using scripts and tooling (Python, Bash, etc.).
+Collaborate with developers to define branching strategies, release processes and rollback procedures.
+Implement and maintain monitoring, logging and alerting for applications and infrastructure.
+Participate in incident response, root‑cause analysis and post‑incident reviews.
+Work with security and engineering teams to implement best practices for secrets management, access control and hardening of Linux, cloud resources and container images.
+Contribute to backup, disaster recovery and business continuity planning.
+Improve the local and remote development experience inside Linux VMs (tooling, environment consistency, documentation).
+Provide guidance and support to engineering teams on the use of Docker, cloud services and deployment tools effectively.
+Champion DevOps culture, promoting automation, observability and continuous improvement.
+Communicate with clients through written reports, calls and presentations to explain your work and recommendations.
+Work closely with client tech teams to understand their requirements, integrate with their existing tooling and processes, and design appropriate DevOps solutions.
+Support the handover of infrastructure, pipelines and operational runbooks to client teams, ensuring they can operate and evolve the solution.
+Represent the DevOps perspective in client workshops, discovery sessions and architecture/design reviews.
+
+
+
+
+KEY REQUIREMENTS:
+
+Strong hands‑on experience with Linux (preferably in a server or VM context).
+Strong practical experience with Docker (creating, optimising and running containers in production).
+Experience with at least one major cloud provider (Azure or AWS) in a production environment; familiarity with the other and/or GCP is a plus.
+Experience designing and maintaining CI/CD pipelines (e.g. Azure DevOps, GitLab CI, GitHub Actions, CircleCI, Jenkins, etc.).
+Proficiency with at least one scripting or programming language (e.g. Python, Bash).
+Experience with infrastructure‑as‑code (e.g. Terraform, ARM/Bicep, CloudFormation, Pulumi).
+Understanding of networking fundamentals (DNS, routing, load balancing, VPNs, firewalls).
+Familiarity with monitoring and logging tools (e.g. Prometheus, Grafana, ELK/EFK stack, CloudWatch, Azure Monitor, Datadog, etc.).
+Good understanding of security best practices in cloud and Linux environments (IAM, least privilege, secrets management, patching).
+Experience presenting technical concepts to stakeholders.
+Ability to work independently and as part of a team
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Applied Data Science Partners by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in London Area, United Kingdom.
+
+Sign in to create job alert
+Jobs
+Chief Technology Officer jobs
+Senior DevOps Engineer
+Similar jobs
+Senior DevOps Engineer
+Senior DevOps Engineer
+Catapult
+London, England, United Kingdom
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Xelix
+London, England, United Kingdom
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+LocalStack
+London, England, United Kingdom
+£70,000 - £90,000
+1 month ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Duetto
+London, England, United Kingdom
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Trust In SODA
+London Area, United Kingdom
+£90,000 - £100,000
+19 hours ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Global Relay
+London Area, United Kingdom
+22 hours ago
+Show more jobs like this 
+People also viewed
+Senior DevOps Engineer - Global
+Senior DevOps Engineer - Global
+
+Orix Digi
+
+Harrow, England, United Kingdom
+2 months ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Oliver Bernard
+
+London Area, United Kingdom
+£100,000 - £125,000
+3 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Careers at MI5, MI6 and GCHQ
+
+Greater London, England, United Kingdom
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Inara
+
+London Area, United Kingdom
+£85,000 - £90,000
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+Methods
+
+London, England, United Kingdom
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+B4B Payments - A Banking Circle Group Company
+
+London, England, United Kingdom
+22 hours ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Selby Jennings
+
+London, England, United Kingdom
+1 week ago
+Senior Cloud Infrastructure Engineer (cloud sandboxes)
+Senior Cloud Infrastructure Engineer (cloud sandboxes)
+
+LocalStack
+
+London, England, United Kingdom
+€42,000 - €90,000
+1 month ago
+Senior Platform Engineer (DevOps)
+Senior Platform Engineer (DevOps)
+
+Fnality
+
+London Area, United Kingdom
+2 days ago
+Senior AWS DevOps Engineer
+Senior AWS DevOps Engineer
+
+Netcompany
+
+London, England, United Kingdom
+4 minutes ago
+Similar Searches
+Chief Technology Officer jobs
+1,054 open jobs
+Head of Marketing jobs
+5,921 open jobs
+Vice President jobs
+12,303 open jobs
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Applied Data Science Partners
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

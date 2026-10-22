@@ -1,0 +1,317 @@
+Title: Platform Engineer
+Company: Marex
+Location: London, England, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/platform-engineer-at-marex-4470900541
+Posted: 2026-09-24
+Deadline: N/A
+Reason: The role is a strong match for her DevOps, CI/CD, and infrastructure automation expertise, and it is located in the UK, which is one of her target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Join now
+Sign in
+Platform Engineer
+Marex  London, England, United Kingdom
+4 weeks ago  152 applicants
+  
+
+See who Marex has hired for this role
+
+Apply 
+Save
+About Marex
+
+Marex Group plc (NASDAQ: MRX) is a diversified global financial services platform providing essential liquidity, market access and infrastructure services to clients across energy, commodities and financial markets. The group provides comprehensive breadth and depth of coverage across four core services: clearing, agency and execution, market making, and hedging and investment solutions. It has a leading franchise in many major metals, energy and agricultural products, with access to 60 exchanges. The group provides access to the world’s major commodity markets, covering a broad range of clients that include some of the largest commodity producers, consumers and traders, banks, hedge funds and asset managers. With more than 40 offices worldwide, the group has over 3,000 employees across Europe, Asia and the Americas.
+
+For more information visit https://www.marex.com/
+
+Vacancy Number: VN3135
+
+Department Description
+
+Marex has unique access across markets with significant share globally both on and off exchange. The depth of knowledge amongst its teams and divisions provides its customers with clear advantage, and its technology-led service provides access to all major exchanges, order-flow management via screen, voice and DMA, plus award-winning data, insights and analytics.
+
+The Technology Department delivers differentiation, scalability and security for the business. Reporting to the COO, Technology provides digital tools, software services and infrastructure globally to all business groups. Software development and support teams work in agile ‘streams’ aligned to specific business areas. Our other teams work enterprise-wide to provide critical services including our global service desk, network and system infrastructure, IT operations, security, enterprise architecture and design.
+
+The Platform Engineering function strives to automate infrastructure management and provide Marex technology teams with self-service tools and workflows with the aim to streamline software delivery and accelerate the pace of innovation.
+
+Role Summary
+
+As a Platform Engineer you will help the team creating a platform where building, testing, and releasing of software can happen rapidly, frequently and reliably. You will be a DevOps advocate working closely with development and operations teams improving the collaboration whilst removing any impediments through automation, improved tooling, or processes. You will play a key role in a multi-disciplined team building and operating a new security conscious cloud environment.
+
+We are seeking an engineer with a passion for automation and scripting to enhance and streamline our operations and engineering practices. The ideal candidate will leverage one or more scripting languages, Ansible, and Infrastructure as Code (IaC) tools like Terraform to automate our configurations, monitoring, and troubleshooting.
+
+Responsibilities
+
+Role specific:
+
+
+Build and operate a platform used by development and operations teams to provision their infrastructure and run their applications in the cloud and on-premises. Perform weekend work as necessary to carry out maintenance, participate in on-call duties and respond to support escalations to ensure the operational health of the platform. Support any teams using the platform as required.
+Deliver a continuous integration and deployment platform that integrates seamlessly with the development tools already in use and ensure its effectiveness to delivery software rapidly.
+Improve the developer experience, facilitate developers in building cloud infrastructure and deploying their applications free of impediments.
+Develop policies, standards, and guidelines for IAC and CI/CD that teams can follow.
+Propose and implement workflow and toolchain improvements to automate repetitive tasks.
+Ensure security and governance are considered a priority by applying security practices as part of the SDLC and developing and enforcing policies.
+Collaborate with teams on architectural design and cloud best practices.
+DevOps advocate to educate and promote DevOps practices across technology.
+Stay abreast of Cloud and DevOps industry best practices and tooling.
+Lead and mentor junior engineers in the team to deliver platform objectives
+
+
+All staff:
+
+
+Ensuring compliance with the company’s regulatory requirements under the FCA, NFA, AMF, AFM, MAS.
+Adhere to the operational risk framework for your role ensuring that all regulatory or company determined parameters are complied with.
+Role model for demonstrating highest level standards of integrity and conduct and reflecting Company Values.
+At all times complying with the FCA’s Code of Conduct
+To ensure that you are fully aware of and adhere to internal policies that relate to you, your role or any other activities for which you have any level of responsibility
+To report any breaches of policy to Compliance and/ or your supervisor as required
+To escalate risk events immediately
+To provide input to risk management processes, as required.
+
+
+Competencies, Skills, Experience & Qualifications:
+
+Skills and Experience:
+
+Essential:
+
+
+Proven experience in working closely with development and operations teams throughout the SDLC, implemented CI/CD effectively and deployed into Cloud environments with IAC (Terraform or other similar tools).
+Considerable experience in deploying and running applications securely in AWS or Azure, familiarity with cloud native tooling and cloud security best practices.
+Built and operated containerized workloads and used serverless technology.
+Proficiency in scripting with programming languages Python or PowerShell.
+Excellent verbal and written communication skills
+
+
+Desirable:
+
+
+Familiarity with configuration management tools such as Puppet or Ansible.
+Monitoring in the cloud using tools such as CloudWatch, Splunk, DataDog, Prometheus, Grafana.
+Broad technical knowledge with a background in Linux Engineering or Development/Automation.
+Worked in a fast-moving Agile environment using Scrum or Kanban.
+
+
+Competencies:
+
+
+A collaborative team player, approachable, self-efficient and influences a positive work environment.
+Demonstrates curiosity.
+Resilient in a challenging, fast-paced environment
+Excels at building relationships, networking and influencing others
+Strategic collaborator with insight and agility, able to anticipate future challenges, ensuring operational effectiveness
+
+
+Conduct Rules, You must:
+
+
+Act with integrity
+Act with due skill, care and diligence
+Be open and cooperative with the FCA, the PRA and other regulators
+Pay due regard to the interests of customers and treat them fairly
+Observe proper standard of market conduct
+Act to deliver good outcomes for retail customers
+
+
+Company Values
+
+Be collaborative - by working together across the organisation, we foster teamwork, can better respond to challenges and successfully deliver for our clients
+
+Act with integrity - we pride ourselves on our honesty and high ethical standards. We apply these values when working with all our clients, colleagues and other stakeholders
+
+Be adaptable and entrepreneurial - we embrace change as markets evolve to constantly increase our efficiency and create innovative solutions for our clients. We are interested in the world around us and inquisitive about understanding the challenges and opportunities our clients face.
+
+Be respectful – how we treat each other, and our clients says everything about who we are. We always act respectfully and treat people fairly in everything we do.
+
+Nurture talent – we aim to grow our own talent and make Marex the place ambitious, hardworking and talented people choose to build their career. This means giving and taking stretch opportunities, taking risks, and committing to career development and support – for ourselves, and our teams.
+
+Marex is fully committed to being an inclusive employer and providing an inclusive and accessible recruitment process for all. We will provide reasonable adjustments to remove any disadvantage to you being considered for this role. We value the differences that a diverse workforce brings to the company. We welcome applications from candidates returning to the workforce. Also, Marex is committed to avoiding circumstances in which the appearance or possibility of conflicts of interest may exist within the hiring process.
+
+If you would like to receive any information in a different way or would like us to do anything differently to help you, please include it in your application.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at Marex by 2x
+
+See who you know
+
+Get notified about new Platform Engineer jobs in London, England, United Kingdom.
+
+Sign in to create job alert
+Jobs
+Senior Network Design Engineer jobs
+Platform Engineer
+Similar jobs
+Platform Engineer
+Platform Engineer
+Lyst
+London, England, United Kingdom
+1 month ago
+Platform Engineer
+Platform Engineer
+Faculty
+London, England, United Kingdom
+6 days ago
+Platform Engineer
+Platform Engineer
+Relation
+London, England, United Kingdom
+9 months ago
+Platform Engineer
+Platform Engineer
+Capital on Tap
+London, England, United Kingdom
+1 day ago
+Platform Engineer
+Platform Engineer
+Sensor Tower
+London, England, United Kingdom
+1 month ago
+Platform Engineer
+Platform Engineer
+Charlotte Tilbury Beauty
+London, England, United Kingdom
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Senior Platform Engineer
+Senior Platform Engineer
+
+Rainmaker
+
+London Area, United Kingdom
+3 weeks ago
+Platform Engineer
+Platform Engineer
+
+Sanderson
+
+London Area, United Kingdom
+£80,000 - £90,000
+1 week ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+V7
+
+London, England, United Kingdom
+1 month ago
+Platform Engineer
+Platform Engineer
+
+Ebury
+
+London, England, United Kingdom
+2 days ago
+Cloud Platform Engineer
+Cloud Platform Engineer
+
+Capital on Tap
+
+London, England, United Kingdom
+1 day ago
+DevOps Engineer
+DevOps Engineer
+
+Perk
+
+London, England, United Kingdom
+2 days ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+Attio
+
+London, England, United Kingdom
+£105,000 - £125,000
+1 week ago
+Platform Engineer
+Platform Engineer
+
+Cambridge Aerospace
+
+Cambridge, England, United Kingdom
+2 weeks ago
+Cloud Platform Engineer
+Cloud Platform Engineer
+
+Motorola Solutions
+
+Uxbridge, England, United Kingdom
+5 days ago
+Compute Platform Engineer II
+Compute Platform Engineer II
+
+GSK
+
+London, England, United Kingdom
+2 days ago
+Similar Searches
+Senior Network Design Engineer jobs
+341 open jobs
+Site Reliability Engineer jobs
+14,094 open jobs
+Unix Consultant jobs
+319 open jobs
+Platform Architect jobs
+6,602 open jobs
+Build And Release Engineer jobs
+2,631 open jobs
+Infrastructure Engineer jobs
+8,209 open jobs
+Data Management Coordinator jobs
+7,215 open jobs
+Linux Engineer jobs
+3,388 open jobs
+Senior Infrastructure Engineer jobs
+3,526 open jobs
+Lead Infrastructure Engineer jobs
+1,877 open jobs
+Software Configuration Management Engineer jobs
+2,318 open jobs
+Portal Developer jobs
+1,761 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Marex
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
