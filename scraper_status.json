@@ -1,10 +1,10 @@
 {
   "pid": 76292,
   "started_at": "2026-10-23T02:20:09+03:00",
-  "heartbeat_at": "2026-10-23T02:54:03+03:00",
+  "heartbeat_at": "2026-10-23T02:57:45+03:00",
   "phase": "reviewing",
-  "detail": "POS Programme Manager  at Datonomy Solutions",
-  "last_scrape_ok_at": "2026-10-23T02:51:07+03:00",
+  "detail": "Sp\u00e9cialiste de produit",
+  "last_scrape_ok_at": "2026-10-23T02:55:42+03:00",
   "last_error": {
     "at": "2026-10-23T02:50:08+03:00",
     "message": "cv_library_release_manager: Page.goto: Navigation to \"https://www.cv-library.co.uk/release-manager-jobs\" is interrupted by another navigation to \"about:blank\"\nCall log:\n  - navigating to \"https://www.cv-library.co.uk/release-manager-jobs\", waiting until \"load\"\n"
