@@ -13003,5 +13003,39 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Manager - IT Business Analysis",
+    "company": "Marsh",
+    "location": "Noida, Uttar Pradesh, India",
+    "url": "https://in.linkedin.com/jobs/view/manager-it-business-analysis-at-marsh-4482085624",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job title and description focus on IT Business Analysis within an agile framework, which does not align with the candidate's expertise in release management, configuration management, or technical documentation (her primary experience is in regulated industries, DevOps/CI-CD, and quality gatekeeping).",
+    "id": "4f92f97f",
+    "source": "linkedin_in_requirements_manager",
+    "added_at": "2026-10-22T04:49:01+03:00",
+    "posted_date": "2026-10-22",
+    "deadline": "2023-10-28",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2023-10-28) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Manager - IT Business Analysis",
+    "company": "Marsh",
+    "location": "Gurugram, Haryana, India",
+    "url": "https://in.linkedin.com/jobs/view/manager-it-business-analysis-at-marsh-4482074784",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is a 'Manager - IT Business Analysis' focused on Agile frameworks and business requirements gathering, which does not align with the candidate's expertise in regulated-industry release/CM/DevOps roles or technical documentation ownership.",
+    "id": "936f23ef",
+    "source": "linkedin_in_requirements_manager",
+    "added_at": "2026-10-22T04:49:01+03:00",
+    "posted_date": "2026-10-22",
+    "deadline": "2023-10-28",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Deadline (2023-10-28) passed by more than 2 days and unreviewed"
   }
 ]
