@@ -1,10 +1,10 @@
 {
   "pid": 63188,
   "started_at": "2026-10-21T20:40:05+03:00",
-  "heartbeat_at": "2026-10-22T07:47:48+03:00",
+  "heartbeat_at": "2026-10-22T08:00:44+03:00",
   "phase": "reviewing",
-  "detail": "Test Manager",
-  "last_scrape_ok_at": "2026-10-22T07:35:35+03:00",
+  "detail": "HSE Manager | Compliance",
+  "last_scrape_ok_at": "2026-10-22T07:49:15+03:00",
   "last_error": {
     "at": "2026-10-22T07:08:15+03:00",
     "message": "cv_library_quality_engineer: Page.goto: Navigation to \"https://www.cv-library.co.uk/quality-engineer-jobs\" is interrupted by another navigation to \"about:blank\"\nCall log:\n  - navigating to \"https://www.cv-library.co.uk/quality-engineer-jobs\", waiting until \"load\"\n"

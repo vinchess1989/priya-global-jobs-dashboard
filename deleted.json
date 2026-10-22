@@ -13071,5 +13071,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Director of Programme Development and Quality",
+    "company": "Niche Recruitment",
+    "location": "Auckland, Auckland, New Zealand",
+    "url": "https://nz.linkedin.com/jobs/view/director-of-programme-development-and-quality-at-niche-recruitment-4480756541",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires applicants to hold the right to work in New Zealand, which Priya does not have and for which no visa sponsorship is mentioned as available.",
+    "id": "10d931fc",
+    "source": "linkedin_nz_quality_manager",
+    "added_at": "2026-10-22T07:49:14+03:00",
+    "posted_date": "2026-10-21",
+    "deadline": "2026-11-06",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
