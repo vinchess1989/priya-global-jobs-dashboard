@@ -12986,5 +12986,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Systems Specialist  Software/Standards/Maintenance \u2013 AFHQ",
+    "company": "Amentum",
+    "location": "Sydney, New South Wales, Australia",
+    "url": "https://au.linkedin.com/jobs/view/systems-specialist-software-standards-maintenance-%E2%80%93-afhq-at-amentum-4479258527",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role requires an Active NV1 Security Clearance, which is a government security clearance that the candidate cannot obtain without prior Australian residency or citizenship, making it a hard rejection under 'No Visa Sponsorship / Existing Right to Work Required'.",
+    "id": "9294f74a",
+    "source": "linkedin_au_requirements_manager",
+    "added_at": "2026-10-22T04:23:18+03:00",
+    "posted_date": "2026-10-15",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
