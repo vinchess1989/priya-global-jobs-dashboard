@@ -1,0 +1,291 @@
+Title: Technical Project Manager
+Company: Emergys
+Location: Pune City, Maharashtra, India
+URL: https://in.linkedin.com/jobs/view/technical-project-manager-at-emergys-4482463067
+Posted: 2026-10-23
+Deadline: N/A
+Reason: The role matches Priya's extensive release management, cross-functional technical coordination, and configuration-governance background, located in India within her target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Technical Project Manager
+Emergys  Pune City, Maharashtra, India
+14 hours ago  175 applicants
+  
+
+See who Emergys has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Direct message the job poster from Emergys
+
+Dipti L
+Dipti L
+Passionate about hiring right, not just fast!! Hiring with impact
+
+Role Overview
+
+This role drives delivery across a team spanning cloud and platform infrastructure, model serving, gateway software, design and field engineering, against milestone commitments that involve both a hardware vendor and enterprise customers. You need enough technical depth to understand what a cluster upgrade, a Helm release, a gateway metering change or a model bundle rollout involves, so that plans are realistic, and blockers are recognized early. You are not expected to be hands-on in every area, but you are expected to know when an estimate is fiction.
+
+Key Responsibilities
+
+Drive projects end to end in an Agile manner: requirement gathering, backlog shaping, sprint planning, estimation, sequencing, dependency management, execution and delivery.
+Own milestone plans and gate criteria, and track progress against them with evidence rather than status assertions.
+Manage workload, capacity, dependencies, blockers, and parallel workstreams across infrastructure, platform, software, design and field teams.
+Run daily stand-ups, sprint ceremonies, status tracking, and delivery governance.
+Coordinate enterprise AI deployments across engineering, QA, infrastructure, platform, operations and support teams.
+Understand and manage the flow from engineering preparation and QA through infrastructure handover, operational validation, deployment, release, and upgrade management.
+Manage the interfaces with the hardware vendor and the customer, including the boundary where operational responsibility changes hands.
+Understand the platform and product capability well enough to plan solution work credibly and to challenge scope that does not fit.
+Track technical debt as a managed item with owners and target dates rather than background noise.
+Maintain RAID logs, dependency maps and decision records, and keep them current enough to be useful in a review.
+Track progress, quality, defects, risks and dependencies through dashboards and reports stakeholders can read without translation.
+Prepare and present weekly status reports and milestone updates to senior internal stakeholders and customers.
+Own release and upgrade planning and change governance for production platform changes, and support incident and problem management follow-through.
+Work closely with customer product managers and technical leads to understanding priorities and translating them into engineering work, managing expectations on scope and timelines, and surfacing bad news early with options attached.
+Support onboarding of new team members, set clear expectations on roles and interfaces between roles, and maintain delivery performance inputs for reviews.
+Use agentic AI tooling to automate status collation, backlog hygiene, report generation and meeting follow-up.
+
+Tools and Technologies
+
+Category
+
+Tools and technologies
+
+Agile and delivery
+
+Jira including boards, workflows and Advanced Roadmaps, Confluence, Azure DevOps or Linear, Miro for planning and mapping, story-point and capacity-based estimation
+
+Reporting and dashboards
+
+Jira dashboards and filters, Power BI or Tableau, burndown, velocity and cumulative flow analysis, executive and customer status reporting
+
+ITSM and operations
+
+Incident, problem and change management, ServiceNow or Freshservice, release and upgrade planning, change advisory process, runbook governance, on-call rota management
+
+Technical literacy at a functional level
+
+Kubernetes and RKE2 concepts, Helm-based releases and upgrade sequencing, CI/CD pipelines, cloud infrastructure and hybrid connectivity, inference gateway components covering authentication, metering, quotas and billing, observability stacks, model bundle deployment
+
+Source control and release
+
+GitHub or GitLab, branching and release strategies, environment promotion, release notes and versioning
+
+Risk and governance
+
+RAID logs, dependency mapping, RACI matrices, milestone and gate reviews, decision records, capacity planning
+
+Customer and commercial
+
+Salesforce, statement-of-work and milestone tracking, customer governance cadence, escalation management
+
+AI-assisted delivery
+
+Agentic AI tooling for status collation, backlog hygiene, report generation and meeting follow-up
+
+Minimum Requirements
+
+Strong command of Agile delivery practice, including requirement gathering, sprint planning, estimation, sequencing, and dependency management.
+Demonstrated delivery of technical infrastructure or platform projects, not application feature delivery alone.
+Working understanding of Kubernetes, cloud infrastructure, CI/CD, and enterprise deployment processes at a functional level.
+Familiarity with SRE and operations practice: release and upgrade management, incident, problem and change management, and production readiness.
+Ability to understand the responsibilities and technical blockers of different engineering disciplines and to plan around them.
+Strong dashboard, reporting, and stakeholder-management capability.
+Experience managing delivery across organizational boundaries such as vendors, partners, or customer teams.
+Excellent customer and stakeholder communication, including under escalation, strong coordination without formal authority, and the willingness to challenge a plan that does not hold up.
+
+Preferred Requirements
+
+Experience delivering AI, ML or data platform programmes.
+Experience in a managed-services or partner-delivery model with contractual milestones.
+Certifications such as PMP, PMI-ACP, CSM or SAFe.
+Exposure to Kubernetes or cloud administration at a hands-on level earlier in your career.
+Experience managing on-call and operational readiness transitions from project delivery into a steady state.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Emergys by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Technical Project Manager
+Technical Project Manager
+HTC Global Services
+Pune City, Maharashtra, India
+1 week ago
+Technical Project Manager
+Technical Project Manager
+HTC Global Services
+Pune District, Maharashtra, India
+2 weeks ago
+Technical Project Manager (C/C++)
+Technical Project Manager (C/C++)
+Siemens
+Pune District, Maharashtra, India
+1 week ago
+Technical Program Manager - Ecommerce
+Technical Program Manager - Ecommerce
+NVIDIA
+Pune City, Maharashtra, India
+1 day ago
+Technical Project Manager
+Technical Project Manager
+Flentas
+Pune Division, Maharashtra, India
+3 weeks ago
+Technical Program Manager - Engineering
+Technical Program Manager - Engineering
+Avalara APAC
+Pune Division, Maharashtra, India
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Technology Delivery Lead
+Technology Delivery Lead
+
+Accenture in India
+
+Pune Division, Maharashtra, India
+3 weeks ago
+Technical Project Manager (OpenText)
+Technical Project Manager (OpenText)
+
+TechOrbit Solutions Private Limited
+
+Pune City, Maharashtra, India
+1 week ago
+Senior Technical Program Manager - SW & HW
+Senior Technical Program Manager - SW & HW
+
+SonicWall
+
+Pune Division, Maharashtra, India
+2 weeks ago
+Program/Project Management Lead
+Program/Project Management Lead
+
+Accenture in India
+
+Pune Division, Maharashtra, India
+3 weeks ago
+Program Manager - Data Ops
+Program Manager - Data Ops
+
+Everseen
+
+Pune Division, Maharashtra, India
+1 month ago
+Lead Engineer - Project Management
+Lead Engineer - Project Management
+
+Emerson
+
+Pune Division, Maharashtra, India
+2 weeks ago
+Senior Project Manager
+Senior Project Manager
+
+Springer Nature
+
+Pune Division, Maharashtra, India
+2 weeks ago
+Project Manager
+Project Manager
+
+Legion Technologies
+
+Pune Division, Maharashtra, India
+1 week ago
+Technical Project Manager
+Technical Project Manager
+
+Qualys
+
+Pune Division, Maharashtra, India
+1 week ago
+PROJECT MANAGER - Project Management
+PROJECT MANAGER - Project Management
+
+Happiest Minds Technologies
+
+Pune District, Maharashtra, India
+3 weeks ago
+Similar Searches
+Server Trainer jobs
+461 open jobs
+Senior Assurance Associate jobs
+464 open jobs
+Senior Technical Project Manager jobs
+2,291 open jobs
+Field Quality Engineer jobs
+568 open jobs
+Project Planning Engineer jobs
+184 open jobs
+Production Technologist jobs
+49 open jobs
+Mechanical System Engineer jobs
+1,704 open jobs
+Failure Analysis Engineer jobs
+2,606 open jobs
+Technical Program Manager jobs
+1,477 open jobs
+Escalation Engineer jobs
+2,623 open jobs
+Technology Project Manager jobs
+2,574 open jobs
+Customer Service Project Manager jobs
+1,613 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Emergys
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
