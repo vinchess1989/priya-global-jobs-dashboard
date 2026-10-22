@@ -12952,5 +12952,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Apply on company site",
+    "company": "Compas Pty Ltd",
+    "location": "ACT, Australia",
+    "url": "https://au.jora.com/job/rd/9372e1687990e0f459fc07e4176c267d",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "Job requires Australian citizenship with NV2/TSPV security clearance and explicitly states no visa sponsorship is available for overseas applicants, which Priya cannot meet as she holds a Finland work permit and lacks required clearances.",
+    "id": "5946ebd6",
+    "source": "jora_au_requirements_engineer",
+    "added_at": "2026-10-22T03:44:30+03:00",
+    "posted_date": "N/A",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
