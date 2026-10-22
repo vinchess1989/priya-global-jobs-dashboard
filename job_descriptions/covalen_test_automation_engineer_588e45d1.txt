@@ -1,0 +1,287 @@
+Title: Test Automation Engineer
+Company: Covalen
+Location: Galway, County Galway, Ireland
+URL: https://ie.linkedin.com/jobs/view/test-automation-engineer-at-covalen-4477678958
+Posted: 2026-10-15
+Deadline: Open until filled
+Reason: The role matches her configuration management, release support, CI/CD pipeline integration, and quality engineering background within the target location of Ireland.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Test Automation Engineer
+Covalen  Galway, County Galway, Ireland
+1 week ago   Over 200 applicants
+  
+
+See who Covalen has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Direct message the job poster from Covalen
+
+Aline T.
+Aline T.
+People & Operations Professional | Stakeholder Management | Employee Experience | Cross-Functional Collaboration
+Location – Remote anywhere from Republic of Ireland
+
+Contract type - Permanent Fulltime
+
+Work model – Remote
+
+Working hours - (Monday to Thursday 8:30am -5:30pm and Friday 8:30am -3:15pm)
+
+
+We can only consider applicants eligible to work full-time in the Republic of Ireland.
+
+
+Candidates must be based in the Republic of Ireland
+
+Our client is a global leader in information management, where innovation, creativity, and collaboration are the key components of our corporate culture. As a member of our team, you will have the opportunity to partner with the most highly regarded companies in the world, tackle complex issues, and contribute to projects that shape the future of digital transformation
+
+You will be working within and promoting the Company Values – Be Brave, Be Wise, Be Proud and Exceed.
+
+Role Overview
+
+You will design, build and own the automated testing capability underpinning releases for a B2B SaaS platform serving enterprise clients.
+
+This is a hands-on engineering role. You will be responsible for replacing manual test execution with reliable, maintainable automation integrated into CI/CD pipelines, and for raising the overall quality engineering standard of the team.
+
+Key ResponsibilitiesAutomation design and development
+
+
+Design, build and maintain automated test frameworks covering functional, regression, API and end-to-end scenarios.
+Develop and maintain automated test suites for web applications, REST APIs and platform integrations.
+Identify existing manual test cases suitable for automation, prioritise them by risk and effort, and systematically convert them.
+Build and manage the test data, environments and fixtures needed to run suites reliably and repeatably.
+
+
+CI/CD and quality engineering
+
+
+Integrate automated test execution into CI/CD pipelines so that quality feedback is delivered on every build.
+Define and maintain quality gates, coverage targets and release criteria alongside engineering leads.
+Monitor suite health, investigate and eliminate flaky tests, and keep execution times within acceptable limits.
+Report on quality metrics — coverage, pass rates, defect escape rates — and use them to drive improvement.
+
+
+Quality assurance and collaboration
+
+
+Work with developers, DevOps and product stakeholders to define acceptance criteria and testable requirements from the outset.
+Perform exploratory and risk-based testing where automation is not appropriate, and carry out root-cause analysis on escaped defects.
+Support non-functional testing, including performance, load and security-related validation.
+Mentor colleagues in automation practice and promote quality ownership across the wider team.
+Evaluate and adopt new tooling, including AI-assisted testing approaches, where it demonstrably improves coverage or reduces effort.
+
+
+Education
+
+
+A technology, engineering or computer science related bachelor’s degree, or equivalent demonstrable experience.
+
+
+Mandatory Candidate Requirements
+
+
+4+ years’ experience in test automation within a commercial software or B2B SaaS environment.
+Strong programming ability in at least one of Python, Java, C# or JavaScript/TypeScript, with the capability to build and maintain a framework rather than only write scripts.
+Hands-on experience with modern UI automation tooling such as Playwright, Selenium or Cypress.
+Demonstrable experience automating API and integration testing (for example REST Assured, Postman/Newman, pytest or equivalent).
+Experience integrating automated tests into CI/CD pipelines, ideally Azure DevOps, and working with source control and branching workflows.
+Solid grounding in test design: risk-based prioritisation, coverage analysis, and knowing what should and should not be automated.
+Experience working in an Agile development environment.
+Native proficiency in spoken and written English, with the ability to communicate clearly with both technical and non-technical stakeholders.
+
+
+Desirable but not Mandatory
+
+
+Performance and load testing experience (JMeter, k6, Locust or similar).
+Working knowledge of Azure cloud services, containerisation and infrastructure-as-code.
+SQL and database testing experience.
+Experience with AI-assisted test generation, maintenance or triage tooling.
+Security testing awareness (for example OWASP fundamentals).
+ISTQB or equivalent certification.
+
+
+What about you?
+
+This is the most important part. The role suits an engineer who takes genuine ownership of quality, is curious about why defects occur rather than just that they did, and who wants to build something durable rather than patch what exists.
+
+You will be joining a collaborative and highly regarded team where engineering standards are taken seriously, so we are looking for people who understand what it takes to sustain that.
+
+Why Join Us?
+
+Ready to be a part of our dynamic team? Explore exciting opportunities with Covalen – where your skills, ideas, and achievements are celebrated!
+
+Covalen, we champion diversity and equality, anchoring our workplace cultures and creative minds. We recognize the collective strength found in the diverse backgrounds, skills, and experiences of our team members. Our commitment to fostering an inclusive environment transcends gender, marital status, family status, age, disability, sexual orientation, race, religion, and membership in the Travelling community.
+
+For more information, don't hesitate to reach out at: aline.telles@covalensolutions.com and your journey to becoming a valued part of Covalen starts here.
+
+Apply Now or Reach Out for More Information.
+
+#CovalenLinkedIn #Covalen
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Outsourcing and Offshoring Consulting
+  
+
+Referrals increase your chances of interviewing at Covalen by 2x
+
+See who you know
+
+Get notified about new Quality Assurance Automation Engineer jobs in Galway, County Galway, Ireland.
+
+Sign in to create job alert
+Similar jobs
+Test Automation Engineer
+Test Automation Engineer
+PM Group
+Limerick, County Limerick, Ireland
+1 day ago
+Software Development Engineer in Test
+Software Development Engineer in Test
+Genesys
+Galway, County Galway, Ireland
+5 days ago
+Software Developer – Quality & Test Automation
+Software Developer – Quality & Test Automation
+Cisco
+Galway, County Galway, Ireland
+1 week ago
+QA/Test Engineer
+QA/Test Engineer
+Mphasis
+Galway, County Galway, Ireland
+3 weeks ago
+Software Development Engineer in Test (SDET)
+Software Development Engineer in Test (SDET)
+Ministry Brands
+Galway, County Galway, Ireland
+1 month ago
+Software QA Engineer
+Software QA Engineer
+Zinkworks
+Athlone, Ireland
+6 days ago
+Show more jobs like this 
+People also viewed
+Automation Engineer
+Automation Engineer
+
+Element Six
+
+Rineanna South, County Clare, Ireland
+2 weeks ago
+Visual Inspection Automation Engineer (f/m/d)
+Visual Inspection Automation Engineer (f/m/d)
+
+TE Connectivity
+
+Galway, County Galway, Ireland
+2 weeks ago
+Software Engineer - Webex
+Software Engineer - Webex
+
+Cisco
+
+Galway, County Galway, Ireland
+2 weeks ago
+System Validation Engineer
+System Validation Engineer
+
+onsemi
+
+Limerick, County Limerick, Ireland
+2 weeks ago
+Automations and control Engineers
+Automations and control Engineers
+
+Glanua
+
+Loughrea, County Galway, Ireland
+1 week ago
+Quality Assurance Analyst- POS/PAYMENTS - Nenagh Based
+Quality Assurance Analyst- POS/PAYMENTS - Nenagh Based
+
+Expleo Group
+
+Nenagh, County Tipperary, Ireland
+1 week ago
+Automation Engineer - PLC
+Automation Engineer - PLC
+
+European Tech Recruit
+
+Limerick Metropolitan Area
+2 weeks ago
+Automation Engineer
+Automation Engineer
+
+HERO Recruitment
+
+Galway, County Galway, Ireland
+1 week ago
+Automation Engineer
+Automation Engineer
+
+CareerWise Recruitment
+
+Galway Metropolitan Area
+2 days ago
+Azure Automation Engineer
+Azure Automation Engineer
+
+Northern Trust
+
+Limerick, County Limerick, Ireland
+1 week ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Covalen
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
