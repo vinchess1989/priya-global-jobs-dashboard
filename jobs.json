@@ -192791,8 +192791,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-21T19:14:58+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-22T17:09:59+03:00"
   },
   {
     "title": "Quality Engineer",
@@ -192808,8 +192808,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-21T19:14:58+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-22T17:09:59+03:00"
   },
   {
     "title": "Quality Engineer",
@@ -192825,8 +192825,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-21T19:14:58+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-22T17:10:00+03:00"
   },
   {
     "title": "Quality Engineer",
@@ -192842,8 +192842,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-21T19:14:58+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-22T17:10:00+03:00"
   },
   {
     "title": "Quality Engineer",
@@ -192859,8 +192859,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-21T19:14:59+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-22T17:10:00+03:00"
   },
   {
     "title": "Quality Engineer",
@@ -192876,8 +192876,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-21T19:14:59+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-22T17:10:00+03:00"
   },
   {
     "title": "Quality Engineer (Early Finish Friday)",
@@ -192893,8 +192893,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-21T19:14:59+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-22T17:10:01+03:00"
   },
   {
     "title": "Quality Engineer",
@@ -192910,8 +192910,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-21T19:14:59+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-22T17:10:01+03:00"
   },
   {
     "title": "Quality Engineer - Compliance",
@@ -192927,8 +192927,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-21T19:15:10+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-22T17:10:01+03:00"
   },
   {
     "title": "Quality Engineer",
@@ -195162,16 +195162,15 @@
     "location": "Extract from page",
     "url": "https://www.totaljobs.com/job/site-manager/gkn-aerospace-job108184346",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job description is inaccessible due to an 'Access Denied' error, making it impossible to evaluate the role against the candidate's requirements.",
     "id": "0b85e8f5",
     "source": "totaljobs_quality_manager",
     "added_at": "2026-10-19T10:14:56+03:00",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-21T19:15:00+03:00"
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite"
   },
   {
     "title": "Quality Manager",
@@ -195179,16 +195178,15 @@
     "location": "Extract from page",
     "url": "https://www.totaljobs.com/job/quality-manager/saxton-recruitment-ltd-job108160442",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job description is inaccessible due to an 'Access Denied' error, making it impossible to verify the location, company, or requirements.",
     "id": "377aa8bb",
     "source": "totaljobs_quality_manager",
     "added_at": "2026-10-19T10:14:56+03:00",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-21T19:15:00+03:00"
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite"
   },
   {
     "title": "Quality Manager",
@@ -195196,33 +195194,31 @@
     "location": "Extract from page",
     "url": "https://www.totaljobs.com/job/quality-manager/saxton-recruitment-ltd-job108160438",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job description is inaccessible due to an 'Access Denied' error, making it impossible to verify the location, company, or requirements.",
     "id": "652ac8c4",
     "source": "totaljobs_quality_manager",
     "added_at": "2026-10-19T10:14:56+03:00",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-21T19:15:00+03:00"
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite"
   },
   {
     "title": "Quality Manager, UK & Ireland",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "Zoetis UK Ltd",
+    "location": "UK & Ireland",
     "url": "https://www.totaljobs.com/job/quality-manager-uk-ireland/zoetis-uk-ltd-job108160484",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "maybe",
+    "reason": "The job description text was blocked by an Access Denied error, preventing a full review, but the title 'Quality Manager' matches her regulatory and quality background.",
     "id": "cb3b349a",
     "source": "totaljobs_quality_manager",
     "added_at": "2026-10-19T10:14:56+03:00",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-21T19:15:00+03:00"
+    "eval_model": "gemini-vineeth-bits/gemini-3.5-flash-lite"
   },
   {
     "title": "Site Quality Manager",
@@ -195230,16 +195226,15 @@
     "location": "Extract from page",
     "url": "https://www.totaljobs.com/job/site-quality-manager/the-collective-network-job108161522",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job description is inaccessible due to an Access Denied error, preventing evaluation of job details and requirements.",
     "id": "641d5394",
     "source": "totaljobs_quality_manager",
     "added_at": "2026-10-19T10:14:56+03:00",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-21T19:15:00+03:00"
+    "eval_model": "gemini-vineeth-bits/gemini-3.5-flash-lite"
   },
   {
     "title": "Quality Manager",
@@ -195247,16 +195242,15 @@
     "location": "Extract from page",
     "url": "https://www.totaljobs.com/job/quality-manager/hampshire-recruitment-group-job108188292",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job description is inaccessible due to a server access denied error, making it impossible to evaluate the role.",
     "id": "d3c041c4",
     "source": "totaljobs_quality_manager",
     "added_at": "2026-10-19T10:14:56+03:00",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-21T19:15:00+03:00"
+    "eval_model": "gemini-vineeth-bits/gemini-3.5-flash-lite"
   },
   {
     "title": "Quality Manager",
