@@ -13037,5 +13037,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Deadline (2023-10-28) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "restaurant manager",
+    "company": "MCDONALD\u2019S RESTAURANT",
+    "location": "Kitimat, BC, Canada",
+    "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50552354",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires work authorization in Canada without sponsorship, which Priya does not have (she only holds a Finnish residence permit and needs employer-sponsored visa), triggering a hard rejection under 'No Visa Sponsorship / Existing Right to Work Required'.",
+    "id": "0b9485b2",
+    "source": "jobbank_ca_requirements_manager",
+    "added_at": "2026-10-22T05:46:32+03:00",
+    "posted_date": "2026-10-21",
+    "deadline": "2026-11-11",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
