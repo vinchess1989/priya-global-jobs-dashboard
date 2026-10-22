@@ -1,10 +1,10 @@
 {
   "pid": 63188,
   "started_at": "2026-10-21T20:40:05+03:00",
-  "heartbeat_at": "2026-10-22T09:19:52+03:00",
+  "heartbeat_at": "2026-10-22T09:33:55+03:00",
   "phase": "reviewing",
-  "detail": "Regulatory Affairs Product Lifecycle Management Associate",
-  "last_scrape_ok_at": "2026-10-22T09:08:47+03:00",
+  "detail": "Digital and Data Quality (Snr Specialist)",
+  "last_scrape_ok_at": "2026-10-22T09:21:36+03:00",
   "last_error": {
     "at": "2026-10-22T09:07:11+03:00",
     "message": "cv_library_quality_manager: Page.goto: Navigation to \"https://www.cv-library.co.uk/quality-manager-jobs\" is interrupted by another navigation to \"about:blank\"\nCall log:\n  - navigating to \"https://www.cv-library.co.uk/quality-manager-jobs\", waiting until \"load\"\n"
