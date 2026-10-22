@@ -1,0 +1,268 @@
+Title: Platform Engineer
+Company: Showtime Consulting
+Location: Sydney, New South Wales, Australia
+URL: https://au.linkedin.com/jobs/view/platform-engineer-at-showtime-consulting-4477359246
+Posted: 2026-10-16
+Deadline: N/A
+Reason: This platform and DevOps engineering role aligns well with her extensive background in CI/CD pipeline ownership, automation, and release management.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Platform Engineer
+Showtime Consulting  Sydney, New South Wales, Australia
+6 days ago   Be among the first 25 applicants
+  
+
+See who Showtime Consulting has hired for this role
+
+Apply 
+Save
+Company Description
+
+Showtime Consulting is a leading provider of Shielded Cloud and Digital Solutions across Australia and New Zealand. We specialise in delivering secure, enterprise-scale technology solutions across cloud, infrastructure, cybersecurity, business applications, and digital transformation programs.
+
+We partner with government and enterprise organisations to build high-performing technology teams that deliver scalable, efficient, and future-ready business solutions.
+
+The Role
+
+We are seeking an experienced Platform / DevOps Engineer to join a large-scale technology environment in Sydney.
+
+This is a hands-on engineering role focused on building and enhancing modern platform capabilities, with a strong emphasis on CI/CD, cloud infrastructure, Infrastructure as Code, Kubernetes and automation.
+
+You will work closely with development and engineering teams to streamline software delivery, build reusable platform capabilities, establish GitOps workflows, and ensure platforms remain scalable, secure and highly available.
+
+Key Responsibilities
+
+
+Design, implement and maintain CI/CD pipelines to automate software build, testing and deployment.
+Develop reusable platform capabilities and standardised delivery patterns for engineering teams.
+Create service templates, CI/CD pipeline components, Kubernetes baselines and observability packages.
+Implement Infrastructure as Code using Terraform or CloudFormation.
+Manage and support cloud infrastructure across AWS, Azure or Google Cloud.
+Build and maintain containerised workloads using Docker and Kubernetes.
+Develop and manage Helm-based deployments.
+Implement platform-level Kubernetes controls supporting isolation, resource quotas and scalability.
+Enable self-service engineering through APIs, CLIs and automated workflows.
+Implement GitOps practices using technologies such as ArgoCD.
+Monitor platform and system performance and troubleshoot production issues.
+Implement monitoring and observability using tools such as Prometheus, Grafana and ELK.
+Work with development teams to support the integration and deployment of new applications and features.
+Apply security best practices across platform engineering and deployment processes.
+Document platform configurations, processes and engineering best practices.
+Participate in on-call support for production systems.
+
+
+What You'll Need
+
+
+5–7 years’ experience within DevOps, Platform Engineering or a similar engineering role.
+Strong hands-on experience designing and managing CI/CD pipelines.
+Experience with CI/CD technologies such as Jenkins, GitLab CI or CircleCI.
+Strong experience working with Docker and Kubernetes.
+Experience implementing Infrastructure as Code using Terraform and/or CloudFormation.
+Strong understanding of cloud platforms including AWS, Azure or Google Cloud.
+Proficiency in scripting languages such as Python, Bash or Ruby.
+Experience with GitOps practices and tools such as ArgoCD.
+Experience working with Helm-based deployments.
+Strong understanding of Kubernetes platform concepts including isolation, quotas and scalability.
+Experience with monitoring and logging technologies such as Prometheus, Grafana and ELK.
+Strong understanding of DevOps automation and modern software delivery practices.
+Strong troubleshooting and problem-solving skills.
+Excellent communication and collaboration skills.
+
+
+Preferred Skills
+
+
+Experience with configuration management tools such as Ansible, Chef or Puppet.
+Experience working with microservices architectures.
+Knowledge of Agile delivery methodologies.
+Understanding of networking concepts and protocols.
+Exposure to database management and optimisation.
+Experience developing self-service capabilities for engineering teams.
+Experience building reusable platform components and standardised engineering patterns.
+Relevant cloud or DevOps certifications, such as AWS Certified DevOps Engineer or Microsoft Certified: DevOps Engineer Expert.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Information Technology & Services
+  
+
+Referrals increase your chances of interviewing at Showtime Consulting by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Site Reliability Engineer jobs
+Platform Engineer
+Similar jobs
+Platform Engineer
+Platform Engineer
+Akuna Capital
+Sydney, New South Wales, Australia
+2 weeks ago
+Platform Engineer
+Platform Engineer
+Macquarie Group
+Sydney, New South Wales, Australia
+58 minutes ago
+Senior Platform Engineer
+Senior Platform Engineer
+Blinq
+Sydney, New South Wales, Australia
+9 hours ago
+Platform Engineer
+Platform Engineer
+Silicon Quantum Computing
+Sydney, New South Wales, Australia
+1 day ago
+Cloud Engineer
+Cloud Engineer
+Macquarie Group
+Sydney, New South Wales, Australia
+3 days ago
+Site Reliability Engineer - Infrastructure
+Site Reliability Engineer - Infrastructure
+TikTok
+Sydney, New South Wales, Australia
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Site Reliability Engineer, Global E-Commerce - USDS
+Site Reliability Engineer, Global E-Commerce - USDS
+
+TikTok USDS Joint Venture
+
+Sydney, New South Wales, Australia
+2 weeks ago
+Staff Infrastructure Platform Engineer
+Staff Infrastructure Platform Engineer
+
+GRIDSIGHT
+
+Sydney, New South Wales, Australia
+1 week ago
+Senior Platform Engineer, Observability
+Senior Platform Engineer, Observability
+
+Nine
+
+North Sydney, New South Wales, Australia
+2 weeks ago
+Platform Engineer-12 month fixed term contract
+Platform Engineer-12 month fixed term contract
+
+Ticketek Entertainment Group (TEG)
+
+Sydney, New South Wales, Australia
+2 weeks ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+Kudosity
+
+Sydney, New South Wales, Australia
+2 days ago
+Systems Engineer - AI Safety and Tooling
+Systems Engineer - AI Safety and Tooling
+
+IMC Trading
+
+Sydney, New South Wales, Australia
+1 week ago
+Systems Engineer
+Systems Engineer
+
+Akuna Capital
+
+Sydney, New South Wales, Australia
+4 weeks ago
+Platform Engineer
+Platform Engineer
+
+Salient Group
+
+Sydney, New South Wales, Australia
+A$160,000 - A$250,000
+2 weeks ago
+Devops Engineer
+Devops Engineer
+
+ASX
+
+Sydney, New South Wales, Australia
+2 weeks ago
+AI Platform Engineer
+AI Platform Engineer
+
+Hays
+
+Sydney, New South Wales, Australia
+2 days ago
+Similar Searches
+Site Reliability Engineer jobs
+3,532 open jobs
+Platform Architect jobs
+1,605 open jobs
+Build And Release Engineer jobs
+578 open jobs
+Infrastructure Engineer jobs
+2,368 open jobs
+Linux Engineer jobs
+790 open jobs
+Senior Infrastructure Engineer jobs
+925 open jobs
+Virtualization Engineer jobs
+595 open jobs
+Cloud Architect jobs
+1,606 open jobs
+Pipeline Engineer jobs
+1,171 open jobs
+Contract Database Administrator jobs
+31 open jobs
+Chief Software Engineer jobs
+736 open jobs
+Senior Reliability Engineer jobs
+122 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Showtime Consulting
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

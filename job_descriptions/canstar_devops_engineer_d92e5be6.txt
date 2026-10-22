@@ -1,0 +1,280 @@
+Title: DevOps Engineer
+Company: Canstar
+Location: Brisbane, Queensland, Australia
+URL: https://au.linkedin.com/jobs/view/devops-engineer-at-canstar-4480412839
+Posted: 2026-10-20
+Deadline: N/A
+Reason: This DevOps Engineer role in Australia matches her extensive experience in CI/CD pipelines, Python/Bash automation, and cloud infrastructure management.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+Canstar  Brisbane, Queensland, Australia
+2 days ago   Be among the first 25 applicants
+  
+
+See who Canstar has hired for this role
+
+Apply 
+Save
+Overview
+
+We're looking for a Mid-Level DevOps Engineer who takes ownership of keeping our cloud infrastructure highly available, scalable, and running smoothly. Embedded within the Infrastructure Management team, you’ll work at the intersection of infrastructure reliability, pipeline automation, and developer enablement - helping our development squads move fast, deploy safely, and troubleshoot effectively.
+
+This is a hands-on role where you'll be provisioning infrastructure as code, maintaining core network systems, optimizing deployment pipelines, and contributing to a modern engineering culture. You will have the opportunity to work with cutting-edge tools, tackle complex technical challenges, and help shape how we scale our infrastructure going forward.
+
+Key Responsibilities
+
+Cloud Infrastructure & Network Operations
+
+
+Maintain, patch, and optimize multi-environment cloud infrastructure to ensure system reliability and uptime in line with agreed SLAs.
+Monitor and manage core networking infrastructure, ensuring stable routing, firewalls, and redundant cloud connections (such as Site-to-Site VPNs and Direct Connect circuits).
+Ensure infrastructure configurations adhere to operational best practices and high-availability standards.
+Actively identify and execute opportunities for cloud cost optimization and infrastructure efficiency.
+
+
+CI/CD Automation & & Infrastructure-as-Code (IaC)
+
+
+Build, maintain, and optimize robust CI/CD pipelines to support fast and reliable code compilation and deployments.
+Create standardized, repeatable pipeline blueprints and templates that make onboarding new microservices seamless for development teams.
+Author robust, repeatable infrastructure blueprints and reusable templates using Terraform or CloudFormation to accelerate microservice delivery.
+Triage, debug, and resolve deployment failures, keeping our delivery pipelines green.
+
+
+Developer Enablement & Self-Service
+
+
+Work closely with software engineering teams to embed modern DevOps practices and guardrails throughout the development lifecycle.
+Build out clear documentation, runbooks, and self-service frameworks to empower developers to safely debug and resolve their own application-level pipeline issues.
+Act as a technical bridge, sharing operations and platform knowledge across teams through day-to-day collaboration and technical support.
+
+
+Monitoring, Observability & Incident Response
+
+
+Maintain and improve system observability, metrics collection, and alerting stacks to catch infrastructure performance issues before they impact users.
+Respond to infrastructure alerts, logs, and system events, investigating anomalies and escalating priority incidents calmly and quickly.
+Support regular testing and maintenance of infrastructure Business Continuity and Disaster Recovery (DR) frameworks.
+
+
+Team & Continuous Improvement
+
+
+Collaborate across the Infrastructure Management team to deliver on shared project objectives and sprints.
+Bring an Agile mindset to your daily work - looking for ways to continuously automate repetitive manual tasks and adopt modern engineering tooling.
+
+
+Other Duties
+
+From time to time, you may also be asked to:
+
+
+Cover for other members of the Infrastructure Management team during periods of absence.
+Provide after-hours support as agreed - this may include scheduled on-call coverage, out-of-hours infrastructure releases, or priority incident resolution.
+Take on other reasonable tasks as directed that are consistent with the nature of this role.
+
+
+Required Skills & Experience
+
+
+Cloud Infrastructure Experience: 3+ years of practical experience in a DevOps, SysOps, or CloudOps environment with strong, hands-on experience managing AWS and/or GCP environments.
+Kubernetes: Demonstrated experience configuring, managing and troubleshooting Kubernetes environments.
+Automation Mindset: A track record of automating repetitive operations tasks using scripting languages such as Python or Bash.
+Education: Bachelor's degree in Computer Science, IT, or equivalent practical, hands-on industry experience.
+
+
+Skills & Knowledge
+
+
+Core Technical Stack: Strong technical proficiency with containerization and orchestration tools like Docker and Kubernetes (EKS/GKE).
+CI/CD Tools: Solid understanding of modern pipeline platforms (e.g., GitHub Actions, GitLab CI, Buildkite, or Bamboo).
+Networking Fundamentals: A solid understanding of core networking, including DNS, VPC routing, subnets, and establishing secure connections (VPN tunnels).
+Problem-Solving & Communication: Strong troubleshooting instincts with the ability to navigate unfamiliar infrastructure incidents quickly and explain technical outcomes clearly to other teams.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at Canstar by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Production Accountant jobs
+DevOps Engineer
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+WideSky
+Brisbane, Queensland, Australia
+1 day ago
+DevOps Engineer
+DevOps Engineer
+Canstar
+Brisbane City, Queensland, Australia
+2 days ago
+DevOps Software Engineer
+DevOps Software Engineer
+Gameloft Brisbane
+Brisbane, Queensland, Australia
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+Paxus
+Newstead, Queensland, Australia
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+Talenza
+Toowong, Queensland, Australia
+A$150,000 - A$165,000
+1 week ago
+Platform DevOps Engineer
+Platform DevOps Engineer
+Future Secure AI
+Brisbane, Queensland, Australia
+3 weeks ago
+Show more jobs like this 
+People also viewed
+Staff Production Engineer
+Staff Production Engineer
+
+Canva
+
+Brisbane, Queensland, Australia
+2 days ago
+Systems and Cloud Engineer
+Systems and Cloud Engineer
+
+Anglicare Southern Queensland
+
+Fortitude Valley, Queensland, Australia
+3 weeks ago
+Infrastructure Engineer
+Infrastructure Engineer
+
+Churches of Christ in Queensland
+
+Brisbane, Queensland, Australia
+1 week ago
+Software Developer
+Software Developer
+
+RWS Global
+
+Brisbane, Queensland, Australia
+2 months ago
+Referrals for Google Cloud Practitioners (EoI)
+Referrals for Google Cloud Practitioners (EoI)
+
+Accenture Australia
+
+Brisbane, Queensland, Australia
+1 month ago
+Principal Production Engineer
+Principal Production Engineer
+
+Canva
+
+Brisbane, Queensland, Australia
+2 days ago
+Implementation Engineer
+Implementation Engineer
+
+EngFlow
+
+Brisbane, Queensland, Australia
+$80,000 - $120,000
+8 months ago
+Deployment Engineer
+Deployment Engineer
+
+Megaport
+
+Brisbane, Queensland, Australia
+3 days ago
+Expression of Interest – Cyber & Information Technology Professionals
+Expression of Interest – Cyber & Information Technology Professionals
+
+KBR, Inc.
+
+Brisbane, Queensland, Australia
+2 weeks ago
+Platform Engineer - Workspace
+Platform Engineer - Workspace
+
+Griffith University
+
+Nathan, Queensland, Australia
+A$104,504.60 - A$113,219.43
+1 week ago
+Similar Searches
+Production Accountant jobs
+622 open jobs
+Finance Accounting Manager jobs
+690 open jobs
+Assistant Controller jobs
+1,939 open jobs
+Crime Analyst jobs
+109 open jobs
+Actuarial Analyst jobs
+515 open jobs
+Sustainability Manager jobs
+636 open jobs
+Strategy Director jobs
+741 open jobs
+Analytics Manager jobs
+1,653 open jobs
+Pricing Analyst jobs
+1,368 open jobs
+Cyber Security Specialist jobs
+532 open jobs
+Head of Marketing jobs
+672 open jobs
+Lead Scientist jobs
+169 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Canstar
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

@@ -195136,8 +195136,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-21T19:14:48+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-22T17:06:46+03:00"
   },
   {
     "title": "Quality Manager",
@@ -195153,8 +195153,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 2,
-    "last_error_at": "2026-10-21T19:14:59+03:00"
+    "error_attempts": 3,
+    "last_error_at": "2026-10-22T17:06:46+03:00"
   },
   {
     "title": "Site Quality Manager",
@@ -199296,16 +199296,15 @@
     "location": "Sydney, New South Wales, Australia",
     "url": "https://au.linkedin.com/jobs/view/platform-engineer-at-showtime-consulting-4477359246",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "yes",
+    "reason": "This platform and DevOps engineering role aligns well with her extensive background in CI/CD pipeline ownership, automation, and release management.",
     "id": "a7e0df61",
     "source": "linkedin_au_devops_engineer",
     "added_at": "2026-10-20T17:20:12+03:00",
-    "posted_date": "N/A",
+    "posted_date": "2026-10-16",
     "deadline": "N/A",
-    "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-21T19:14:48+03:00"
+    "description_file": "job_descriptions/showtime_consulting_platform_engineer_a7e0df61.txt",
+    "eval_model": "gemini-vineeth-bits/gemini-3.5-flash-lite"
   },
   {
     "title": "DevOps Engineer",
@@ -199313,16 +199312,15 @@
     "location": "Milton, Queensland, Australia",
     "url": "https://au.linkedin.com/jobs/view/devops-engineer-at-jacaranda-finance-4478663712",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "maybe",
+    "reason": "The role matches her DevOps and CI/CD background well, but it is an in-office position in Australia requiring visa sponsorship and relocation.",
     "id": "6e4d0fc4",
     "source": "linkedin_au_devops_engineer",
     "added_at": "2026-10-20T17:20:12+03:00",
-    "posted_date": "N/A",
+    "posted_date": "2026-10-20",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-21T19:14:49+03:00"
+    "eval_model": "gemini-vineeth-bits/gemini-3.5-flash-lite"
   },
   {
     "title": "DevOps Engineer",
@@ -199330,16 +199328,15 @@
     "location": "Brisbane, Queensland, Australia",
     "url": "https://au.linkedin.com/jobs/view/devops-engineer-at-canstar-4480412839",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "yes",
+    "reason": "This DevOps Engineer role in Australia matches her extensive experience in CI/CD pipelines, Python/Bash automation, and cloud infrastructure management.",
     "id": "d92e5be6",
     "source": "linkedin_au_devops_engineer",
     "added_at": "2026-10-20T17:20:12+03:00",
-    "posted_date": "N/A",
+    "posted_date": "2026-10-20",
     "deadline": "N/A",
-    "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-21T19:14:49+03:00"
+    "description_file": "job_descriptions/canstar_devops_engineer_d92e5be6.txt",
+    "eval_model": "gemini-vineeth-bits/gemini-3.5-flash-lite"
   },
   {
     "title": "DevOps Engineer",
@@ -199347,16 +199344,15 @@
     "location": "Brisbane City, Queensland, Australia",
     "url": "https://au.linkedin.com/jobs/view/devops-engineer-at-canstar-4478642727",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "yes",
+    "reason": "This DevOps Engineer role in Australia matches her extensive CI/CD, pipeline automation, scripting, and release management background.",
     "id": "e6beaf63",
     "source": "linkedin_au_devops_engineer",
     "added_at": "2026-10-20T17:20:12+03:00",
-    "posted_date": "N/A",
+    "posted_date": "2026-10-20",
     "deadline": "N/A",
-    "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-21T19:14:49+03:00"
+    "description_file": "job_descriptions/canstar_devops_engineer_e6beaf63.txt",
+    "eval_model": "gemini-vineeth-bits/gemini-3.5-flash-lite"
   },
   {
     "title": "Infrastructure Engineer",
@@ -199364,16 +199360,15 @@
     "location": "Perth, Western Australia, Australia",
     "url": "https://au.linkedin.com/jobs/view/infrastructure-engineer-at-vgw-4478665606",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "maybe",
+    "reason": "The role is located in Australia and involves cloud/CI-CD infrastructure work matching her DevOps background, though it leans more toward platform engineering than her specific release management or quality compliance focus.",
     "id": "8b2f15c6",
     "source": "linkedin_au_devops_engineer",
     "added_at": "2026-10-20T17:20:12+03:00",
-    "posted_date": "N/A",
+    "posted_date": "2026-10-20",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-21T19:14:49+03:00"
+    "eval_model": "gemini/gemini-3.5-flash-lite"
   },
   {
     "title": "DevOps Engineer",
@@ -199381,16 +199376,15 @@
     "location": "Melbourne, Victoria, Australia",
     "url": "https://au.linkedin.com/jobs/view/devops-engineer-at-tennis-australia-4467950688",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "maybe",
+    "reason": "The role is a strong technical match for her DevOps and CI/CD skills, but it does not explicitly mention visa sponsorship, which is required for her to work in Australia.",
     "id": "2dfbc808",
     "source": "linkedin_au_devops_engineer",
     "added_at": "2026-10-20T17:20:12+03:00",
-    "posted_date": "N/A",
-    "deadline": "N/A",
+    "posted_date": "2026-09-22",
+    "deadline": "2026-11-06",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-21T19:14:49+03:00"
+    "eval_model": "gemini/gemini-3.1-flash-lite"
   },
   {
     "title": "DevOps/SRE Engineer",
@@ -199398,16 +199392,15 @@
     "location": "Auckland, New Zealand",
     "url": "https://nz.linkedin.com/jobs/view/devops-sre-engineer-at-synechron-4477388317",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "yes",
+    "reason": "The role is a DevOps/SRE position located in Auckland, New Zealand, matching her background in CI/CD pipelines, GitHub Actions, cloud infrastructure, and Python/Bash scripting.",
     "id": "dd74d71f",
     "source": "linkedin_nz_devops_engineer",
     "added_at": "2026-10-20T17:20:33+03:00",
-    "posted_date": "N/A",
+    "posted_date": "2026-10-16",
     "deadline": "N/A",
-    "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-21T19:14:50+03:00"
+    "description_file": "job_descriptions/synechron_devops_sre_engineer_dd74d71f.txt",
+    "eval_model": "gemini-vineeth-bits/gemini-3.5-flash-lite"
   },
   {
     "title": "Cloud Platform Engineer",
@@ -199415,16 +199408,15 @@
     "location": "Auckland, Auckland, New Zealand",
     "url": "https://nz.linkedin.com/jobs/view/cloud-platform-engineer-at-consult-recruitment-4479951281",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "maybe",
+    "reason": "The role is located in New Zealand and includes cloud platform engineering and CI/CD exposure, but leans heavily towards traditional infrastructure and Microsoft 365 administration rather than dedicated release management or DevOps.",
     "id": "5047b1eb",
     "source": "linkedin_nz_devops_engineer",
     "added_at": "2026-10-20T17:20:33+03:00",
-    "posted_date": "N/A",
+    "posted_date": "2026-10-19",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-21T19:14:50+03:00"
+    "eval_model": "gemini-vineeth-bits/gemini-3.5-flash-lite"
   },
   {
     "title": "Release and Environment Manager",
@@ -199432,16 +199424,15 @@
     "location": "Wellington, Wellington, New Zealand",
     "url": "https://nz.linkedin.com/jobs/view/release-and-environment-manager-at-ministry-of-business-innovation-and-employment-4480914708",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The posting explicitly requires candidates to be New Zealand citizens or permanent residents, violating the candidate's requirement for visa sponsorship.",
     "id": "4722ec6d",
     "source": "linkedin_nz_devops_engineer",
     "added_at": "2026-10-20T17:20:33+03:00",
-    "posted_date": "N/A",
-    "deadline": "N/A",
+    "posted_date": "2026-10-19",
+    "deadline": "2026-11-01",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-21T19:14:50+03:00"
+    "eval_model": "gemini-vineeth-bits/gemini-3.5-flash-lite"
   },
   {
     "title": "Cloud Infrastructure Engineer",
@@ -199449,16 +199440,15 @@
     "location": "Auckland, New Zealand",
     "url": "https://nz.linkedin.com/jobs/view/cloud-infrastructure-engineer-at-absolute-it-4481527084",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job posting explicitly requires applicants to have the legal right to work in New Zealand, which the candidate does not currently possess.",
     "id": "697ce884",
     "source": "linkedin_nz_devops_engineer",
     "added_at": "2026-10-20T17:20:33+03:00",
-    "posted_date": "N/A",
+    "posted_date": "2026-10-20",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-21T19:14:50+03:00"
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite"
   },
   {
     "title": "Lead Software Engineer",
@@ -199482,16 +199472,15 @@
     "location": "Singapore, Singapore",
     "url": "https://sg.linkedin.com/jobs/view/devops-engineer-at-jsit-for-wst-wholesale-trade-by-singapore-business-federation-sbf-4480449857",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job posting explicitly requires that applicants must already possess valid work authorization to work in Singapore at the time of application, which the candidate does not have.",
     "id": "f08fbac0",
     "source": "linkedin_sg_devops_engineer",
     "added_at": "2026-10-20T17:20:55+03:00",
-    "posted_date": "N/A",
+    "posted_date": "2026-10-20",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-21T19:14:51+03:00"
+    "eval_model": "gemini/gemini-3.1-flash-lite"
   },
   {
     "title": "DevOps Engineer (Azure)",
@@ -199499,16 +199488,15 @@
     "location": "Singapore, Singapore",
     "url": "https://sg.linkedin.com/jobs/view/devops-engineer-azure-at-temus-4468174920",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "yes",
+    "reason": "The role is a strong match for her DevOps and CI/CD expertise, is located in a target country (Singapore), and does not contain any hard rejections.",
     "id": "3844b8e7",
     "source": "linkedin_sg_devops_engineer",
     "added_at": "2026-10-20T17:20:55+03:00",
-    "posted_date": "N/A",
+    "posted_date": "2026-10-15",
     "deadline": "N/A",
-    "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-21T19:14:51+03:00"
+    "description_file": "job_descriptions/temus_devops_engineer__azure__3844b8e7.txt",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite"
   },
   {
     "title": "Senior Engineer - Container & Kubernetes Engineering",
@@ -199516,16 +199504,15 @@
     "location": "Singapore, Singapore",
     "url": "https://sg.linkedin.com/jobs/view/senior-engineer-container-kubernetes-engineering-at-singtel-4426726701",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "maybe",
+    "reason": "The role matches her DevOps, CI/CD, and container platform background, but requires specific container platform certifications and deeper infrastructure engineering experience.",
     "id": "b25ecc2b",
     "source": "linkedin_sg_devops_engineer",
     "added_at": "2026-10-20T17:20:55+03:00",
-    "posted_date": "N/A",
+    "posted_date": "2026-10-17",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-21T19:14:51+03:00"
+    "eval_model": "gemini-vineeth-bits/gemini-3.5-flash-lite"
   },
   {
     "title": "AWS Devops Engineer",

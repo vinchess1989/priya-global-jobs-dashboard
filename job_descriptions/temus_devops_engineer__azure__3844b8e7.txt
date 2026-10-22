@@ -1,0 +1,300 @@
+Title: DevOps Engineer (Azure)
+Company: Temus
+Location: Singapore, Singapore
+URL: https://sg.linkedin.com/jobs/view/devops-engineer-azure-at-temus-4468174920
+Posted: 2026-10-15
+Deadline: N/A
+Reason: The role is a strong match for her DevOps and CI/CD expertise, is located in a target country (Singapore), and does not contain any hard rejections.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer (Azure)
+Temus  Singapore, Singapore
+1 week ago  120 applicants
+  
+
+See who Temus has hired for this role
+
+Apply 
+Save
+
+Temus is a Temasek-backed consulting firm providing digital transformation solutions for the private and public sectors. We aspire to be a strategic partner in realising the Singapore Government’s Smart Nation vision. We are headquartered in Singapore and have more than 400 employees across a wide range of disciplines in strategy, design, architecture, technology, data & AI.
+
+
+
+
+Job Overview:
+
+We are looking for an experienced DevOps Engineer (Azure) to join our Cloud Engineering team.
+
+In this role, you will design, build, automate and operate secure, scalable and highly available cloud platforms for our clients. You will work closely with architects, software engineers, QA engineers, security teams and product teams to establish modern DevOps practices, automate infrastructure and application delivery, and improve the reliability and operational efficiency of cloud environments.
+
+The ideal candidate has strong hands-on experience in cloud infrastructure, Infrastructure as Code (IaC), Kubernetes, CI/CD automation and cloud operations, with a good understanding of networking, security and software engineering practices.
+
+
+
+
+Key Responsibilities:
+
+Cloud Infrastructure & Platform Engineering:
+
+Design, implement and operate secure, scalable, highly available and resilient cloud infrastructure on AWS, Microsoft Azure and/or Google Cloud Platform (GCP).
+Design and manage containerised workloads using Docker and Kubernetes.
+Implement cloud-native architectures supporting microservices and modern application platforms.
+Work with solution and cloud architects to translate architecture designs into production-ready cloud environments.
+Support multiple environments including development, testing, staging and production.
+
+
+
+
+Infrastructure as Code & Automation:
+
+Design, develop and maintain Infrastructure as Code (IaC) using tools such as Terraform.
+Automate infrastructure provisioning, configuration and deployment processes.
+Implement configuration management and operational automation using tools such as Ansible.
+Develop automation scripts and tooling using Bash, Python and/or Go.
+Promote reusable infrastructure modules, automation standards and engineering best practices across projects.
+
+
+
+
+CI/CD & DevOps:
+
+Design, implement and maintain automated CI/CD pipelines using GitLab CI/CD, GitHub Actions, Azure DevOps or equivalent platforms.
+Automate application build, testing, security scanning and deployment processes.
+Integrate automated testing tools such as Cypress, Pact.js or equivalent frameworks into CI/CD pipelines.
+Implement appropriate branching, release and deployment strategies.
+Work with development teams to continuously improve developer experience and software delivery efficiency.
+
+
+
+
+Networking & Security:
+
+Configure and manage cloud networking components, including VPC/VNet, subnets, routing, DNS, load balancers, firewalls, security groups and private connectivity.
+Implement secure ingress and traffic management using technologies such as NGINX or cloud-native load balancers.
+Implement and manage service-to-service communication using service mesh technologies such as Istio, where applicable.
+Apply cloud security best practices including identity and access management, secrets management, encryption, network security and least-privilege access.
+Support security hardening, vulnerability remediation and compliance requirements.
+
+
+
+
+Monitoring, Logging & Reliability:
+
+Implement and maintain monitoring, logging, alerting and observability solutions using tools such as CloudWatch, Azure Monitor, Prometheus, Grafana, Splunk and/or equivalent platforms.
+Monitor application and infrastructure health, availability and performance.
+Proactively identify and resolve infrastructure and platform issues.
+Support troubleshooting, incident resolution and root cause analysis.
+Continuously improve platform reliability, availability and operational resilience.
+
+
+
+
+Performance & Cost Optimisation:
+
+Analyse infrastructure utilisation and performance metrics to identify optimisation opportunities.
+Implement cloud resource optimisation and cost-management strategies without compromising security, reliability or performance.
+Support capacity planning, scaling and performance tuning.
+
+
+
+
+Collaboration & Engineering Excellence:
+
+Collaborate closely with architects, developers, QA engineers, security teams and client stakeholders.
+Provide technical guidance and support to development teams on cloud and DevOps practices.
+Contribute to technical documentation, architecture decisions, operational procedures and engineering standards.
+Promote automation, standardisation, reusability and continuous improvement across the engineering lifecycle.
+
+
+
+
+Job Qualifications:
+
+Minimum of 3 years of hands-on experience in Cloud Engineering, DevOps, Platform Engineering, Site Reliability Engineering (SRE) or a similar role.
+Proven experience with AWS / Azure / GCP services and networking components.
+Strong expertise in containerization using Docker and orchestration with Kubernetes.
+Strong troubleshooting and problem-solving skills.
+Good communication skills and the ability to work effectively with technical teams and client stakeholders.
+Proficiency in setting up CI/CD pipelines using GitLab CI/CD, GitHub Actions, Azure DevOps or equivalent tools.
+Hands-on experience with Infrastructure as Code tools like Terraform.
+Experience with logging and monitoring tools, specifically Splunk.
+Scripting skills in Bash, Python, or Go for automation tasks.
+Understanding of microservices architecture and RESTful APIs.
+Certifications such as AWS Certified DevOps Engineer, Certified Kubernetes Administrator (CKA), or similar.
+Knowledge of Redis, MySQL, PostgreSQL, and Elasticsearch.
+Experience with QA tools integration, including Cypress and Pact.js.
+
+
+
+
+Beyond technical expertise, we are looking for someone who:
+
+Enjoys solving complex infrastructure and engineering problems.
+Has a strong automation mindset and prefers to automate rather than perform repetitive manual tasks.
+Understands that security, reliability and operational excellence are integral parts of engineering.
+Is comfortable working across infrastructure, application and security domains.
+Can work independently while collaborating effectively within multidisciplinary teams.
+Is willing to continuously learn and adopt new cloud-native technologies and engineering practices.
+
+
+
+
+Temus is an equal opportunities employer. We welcome applications from all. We do not discriminate by race, religion, belief, ethnicity, origin, disability, age, partnership status, sexual orientation, or gender identity.
+
+We see the diversity of our team as a strategic advantage, and we work actively to maintain it.
+
+By applying for this role, you have read and acknowledge the data privacy statement via this link - temus.com/job-applicant-data-protection/
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Business Consulting and Services
+  
+
+Referrals increase your chances of interviewing at Temus by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+DevOps Engineer
+SEA CONSORTIUM PRIVATE LIMITED
+Singapore, Singapore
+2 weeks ago
+Cloud Engineer
+Cloud Engineer
+Tesla Consulting Group
+Singapore
+3 months ago
+Cloud Engineer
+Cloud Engineer
+Centalion
+Singapore
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+BIOTRONIK
+Singapore, Singapore
+2 months ago
+Cloud Infra DevOps Engineer
+Cloud Infra DevOps Engineer
+Accenture Southeast Asia
+Singapore, Singapore
+1 month ago
+DevOps Engineer
+DevOps Engineer
+Keppel Data Centres
+Singapore, Singapore
+3 weeks ago
+Show more jobs like this 
+People also viewed
+DevSecOps Engineer
+DevSecOps Engineer
+
+Epergne Solutions
+
+Singapore
+3 months ago
+Platform Infrastructure Engineer, Technology Planning & Enablement Office (TPEO)
+Platform Infrastructure Engineer, Technology Planning & Enablement Office (TPEO)
+
+GovTech Singapore
+
+Singapore
+2 weeks ago
+DevOps / DevSecOps Engineer (1 year contract)
+DevOps / DevSecOps Engineer (1 year contract)
+
+Zühlke Group
+
+Singapore, Singapore
+3 weeks ago
+Cloud DevSecOps Engineer (AI Products)
+
+MEINHARDT (SINGAPORE) PTE LTD
+
+Singapore, Singapore
+1 month ago
+Data Platform Infrastructure Engineer
+Data Platform Infrastructure Engineer
+
+Singtel
+
+Singapore, Singapore
+1 week ago
+Junior Platform Engineer
+Junior Platform Engineer
+
+Trayport
+
+Singapore
+1 week ago
+Cloud Infrastructure Engineer
+Cloud Infrastructure Engineer
+
+Elliott Moss Consulting
+
+Singapore, Singapore
+7 hours ago
+Cloud Infra Engineer
+Cloud Infra Engineer
+
+Centre for Strategic Infocomm Technologies (CSIT)
+
+Singapore, Singapore
+1 week ago
+Infrastructure Engineer
+Infrastructure Engineer
+
+Thoughtworks
+
+Singapore, Singapore
+6 days ago
+DevOps Engineer
+DevOps Engineer
+
+Metaverse Cloud Solution Pte Ltd.
+
+Central Singapore Community Development Council, Singapore
+4 months ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Temus
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
