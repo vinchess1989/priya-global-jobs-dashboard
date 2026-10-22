@@ -1,10 +1,10 @@
 {
   "pid": 63188,
   "started_at": "2026-10-21T20:40:05+03:00",
-  "heartbeat_at": "2026-10-22T08:41:45+03:00",
+  "heartbeat_at": "2026-10-22T08:53:02+03:00",
   "phase": "reviewing",
-  "detail": "Restaurant Food Safety Manager",
-  "last_scrape_ok_at": "2026-10-22T08:27:04+03:00",
+  "detail": "General Manager",
+  "last_scrape_ok_at": "2026-10-22T08:43:09+03:00",
   "last_error": {
     "at": "2026-10-22T07:08:15+03:00",
     "message": "cv_library_quality_engineer: Page.goto: Navigation to \"https://www.cv-library.co.uk/quality-engineer-jobs\" is interrupted by another navigation to \"about:blank\"\nCall log:\n  - navigating to \"https://www.cv-library.co.uk/quality-engineer-jobs\", waiting until \"load\"\n"
