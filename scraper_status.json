@@ -1,12 +1,12 @@
 {
   "pid": 76292,
   "started_at": "2026-10-23T02:20:09+03:00",
-  "heartbeat_at": "2026-10-23T02:41:16+03:00",
+  "heartbeat_at": "2026-10-23T02:47:16+03:00",
   "phase": "reviewing",
-  "detail": "Application Integration Manager",
-  "last_scrape_ok_at": "2026-10-23T02:38:27+03:00",
+  "detail": "Initiative Lead",
+  "last_scrape_ok_at": "2026-10-23T02:44:21+03:00",
   "last_error": {
-    "at": "2026-10-23T02:25:55+03:00",
-    "message": "cv_library_devops_engineer: Page.goto: Navigation to \"https://www.cv-library.co.uk/devops-engineer-jobs\" is interrupted by another navigation to \"about:blank\"\nCall log:\n  - navigating to \"https://www.cv-library.co.uk/devops-engineer-jobs\", waiting until \"load\"\n"
+    "at": "2026-10-23T02:41:41+03:00",
+    "message": "cv_library_configuration_manager: Page.goto: Navigation to \"https://www.cv-library.co.uk/configuration-manager-jobs\" is interrupted by another navigation to \"about:blank\"\nCall log:\n  - navigating to \"https://www.cv-library.co.uk/configuration-manager-jobs\", waiting until \"load\"\n"
   }
 }
