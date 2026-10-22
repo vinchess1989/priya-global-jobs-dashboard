@@ -190491,37 +190491,35 @@
   },
   {
     "title": "Surveyor / Contracts Manager",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "Acorn Builders",
+    "location": "Tunbridge Wells, Kent, UK",
     "url": "https://www.reed.co.uk/jobs/surveyor-contracts-manager/57461833",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "This is a construction and property surveying role that does not align with Priya's background in software release management, DevOps, configuration management, or technical writing.",
     "id": "936be9e6",
     "source": "reed_requirements_manager",
     "added_at": "2026-10-17T01:28:45+03:00",
-    "posted_date": "N/A",
+    "posted_date": "2026-10-15",
     "deadline": "N/A",
-    "error_attempts": 2,
-    "last_error_at": "2026-10-21T19:15:28+03:00",
-    "description_file": null
+    "description_file": null,
+    "eval_model": "gemini-vineeth-bits/gemini-3.5-flash-lite"
   },
   {
     "title": "Contracts Manager",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "Candidate Source - TEAM",
+    "location": "Preston, Lancashire",
     "url": "https://www.reed.co.uk/jobs/contracts-manager/57467557",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "This is a construction and shopfitting contracts manager role requiring physical on-site management and a UK driving licence for travel, which does not match her background in software configuration, release management, and technical communication.",
     "id": "255a48f8",
     "source": "reed_requirements_manager",
     "added_at": "2026-10-17T01:28:45+03:00",
-    "posted_date": "N/A",
+    "posted_date": "16 october",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-21T19:15:39+03:00"
+    "eval_model": "gemini-vineeth-bits/gemini-3.5-flash-lite"
   },
   {
     "title": "Contracts Manager",
@@ -190588,8 +190586,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-21T19:15:28+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-22T17:22:04+03:00"
   },
   {
     "title": "Cyber Requirements & Compliance Manager",
@@ -190605,8 +190603,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-21T19:15:29+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-22T17:22:05+03:00"
   },
   {
     "title": "Private Client Tax Manager",
@@ -190622,8 +190620,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-21T19:15:29+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-22T17:22:05+03:00"
   },
   {
     "title": "SACM Service Asset and Configuration Manager",
@@ -190639,8 +190637,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-21T19:15:29+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-22T17:22:05+03:00"
   },
   {
     "title": "Delivery Manager - Data",
@@ -190656,8 +190654,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-21T19:15:29+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-22T17:22:05+03:00"
   },
   {
     "title": "Project Manager - Aerospace Manufacturing",
@@ -190673,8 +190671,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-21T19:15:29+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-22T17:22:06+03:00"
   },
   {
     "title": "Manager, AI and Data Strategy",
@@ -190690,8 +190688,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-21T19:15:30+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-22T17:22:06+03:00"
   },
   {
     "title": "Fixed Electrical Testing Technical Manager - Data Centres",
@@ -190707,8 +190705,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-21T19:15:30+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-22T17:22:06+03:00"
   },
   {
     "title": "Technical Delivery Manager- Data",
@@ -190724,8 +190722,8 @@
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-21T19:15:30+03:00"
+    "error_attempts": 2,
+    "last_error_at": "2026-10-22T17:22:06+03:00"
   },
   {
     "title": "Project Manager (Ground Engineering)",
@@ -190733,16 +190731,15 @@
     "location": "Extract from page",
     "url": "https://www.totaljobs.com/job/project-manager-ground-engineering/ernest-gordon-recruitment-job108158560",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job description is inaccessible due to an 'Access Denied' error, making it impossible to evaluate the role against the candidate's requirements.",
     "id": "e1ec60ab",
     "source": "totaljobs_requirements_manager",
     "added_at": "2026-10-17T01:29:01+03:00",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-21T19:15:30+03:00"
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite"
   },
   {
     "title": "ERP Functional Analyst",
@@ -190794,20 +190791,19 @@
   },
   {
     "title": "Business Analyst",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "GlobalData UK Ltd",
+    "location": "Birmingham, West Midlands, United Kingdom",
     "url": "https://www.cv-library.co.uk/job/225717721/business-analyst",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "maybe",
+    "reason": "The role is a Business Analyst position which overlaps with her requirements engineering and documentation skills, but it is not a direct match for her core DevOps/Release Management background and requires visa sponsorship which is not explicitly confirmed.",
     "id": "bd6a422c",
     "source": "cv_library_requirements_manager",
     "added_at": "2026-10-17T03:03:12+03:00",
-    "posted_date": "N/A",
+    "posted_date": "2026-10-13",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-21T19:15:30+03:00"
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite"
   },
   {
     "title": "Software Release Manager",
@@ -190815,16 +190811,15 @@
     "location": "Extract from page",
     "url": "https://www.cv-library.co.uk/job/225727917/software-release-manager",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job description is blocked by a security filter, making it impossible to verify the location, company, or requirements against the candidate's criteria.",
     "id": "b4e81e92",
     "source": "cv_library_requirements_manager",
     "added_at": "2026-10-17T03:03:12+03:00",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-21T19:15:31+03:00"
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite"
   },
   {
     "title": "Business Analyst",
@@ -190832,16 +190827,15 @@
     "location": "Extract from page",
     "url": "https://www.cv-library.co.uk/job/225735717/business-analyst",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job description is blocked by a security action, preventing evaluation of the role requirements and details.",
     "id": "74d8321f",
     "source": "cv_library_requirements_manager",
     "added_at": "2026-10-17T03:03:12+03:00",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-10-21T19:15:31+03:00"
+    "eval_model": "gemini-vineeth-bits/gemini-3.5-flash-lite"
   },
   {
     "title": "restaurant manager",
