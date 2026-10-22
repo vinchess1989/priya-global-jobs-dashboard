@@ -1,0 +1,280 @@
+Title: DevOps Engineer
+Company: Adform
+Location: Mumbai Metropolitan Region
+URL: https://in.linkedin.com/jobs/view/devops-engineer-at-adform-4480038980
+Posted: 2026-10-23
+Deadline: N/A
+Reason: This DevOps Engineer role in Mumbai, India matches her extensive background in CI/CD pipelines, release management, GitHub Actions, and Python automation.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+Adform  Mumbai Metropolitan Region
+9 hours ago  35 applicants
+  
+
+See who Adform has hired for this role
+
+Apply 
+Save
+About the Role and Team:
+
+Adform is a leading global advertising technology provider. As a company, we are at the forefront of the industry and, through the combination of human competence and outstanding software, aspire to outperform any other platform and deliver unparalleled returns for our clients. We balance the pursuit of extraordinary results with care for each other.
+
+Our ambition in India means that we are building a strong, high-performing DevOps Services and Platform Engineering presence to supplement our great DEV&IT organization.
+
+This team is responsible for owning, maintaining, and driving code and deployment platforms to enable our development teams to release and deploy their code efficiently and to the highest quality standards.
+
+We hope you are ready to change the game! Be ready to:
+
+
+Maintain internal GitHub Enterprise and Artifactory instances
+Manage and automate on-premises and cloud-based GitHub Actions infrastructure
+Abstract Kubernetes deployments via internal Helm charts
+Act as owners of and advisors on best CI/CD practices and approaches for the development teams
+Hands-on contributions to CI/CD pipelines of Adform products
+Collaborate with Adform Security team on code vulnerability scanning
+Provide internal tooling related to change management and deployment gating
+Introduce tools to improve overall code quality and drive best practices
+Write and maintain internal automation tooling within the team services scope
+Build agents and automations that improve team workflows, productivity, and overall efficiency
+
+
+Attitude First. Everything else will follow. We can grow together faster if you have:
+
+
+A minimum of 5 years’ experience in the DevOps field
+Working experience managing GitHub Enterprise and Artifactory instances
+Hands-on experience writing GitHub Actions workflows
+Strong understanding of CI/CD workflows and practices
+Hands-on experience with Linux and Windows operating systems
+Experience working with configuration-as-code and infrastructure-as-code systems
+Experience writing Helm charts
+Ability to use AI tools effectively for coding and investigations while critically validating outputs and avoiding blind reliance on generated results
+Ability to read and understand code in Python or Go languages
+Advanced experience in working with Docker
+
+
+Stand out by having:
+
+
+Experience working with Puppet and Terraform
+Experience maintaining code quality tooling (e.g., Snyk)
+Experience deploying and managing Kubernetes applications
+Knowledge of the agile software development cycle
+
+
+Our promise to you:
+
+
+You will have the opportunity to learn and grow daily and gain exposure to modern technologies
+Opportunities to learn and work with experts from different countries, with offices around the world
+You will work with highly professional and knowledgeable colleagues who share local and global objectives
+Informal style of leadership and communication – but with the highest expectations of performance and professionalism
+You will be given challenging and unique tasks that require a creative approach to problem-solving
+You will be surrounded by a dynamic, inspiring, and international environment that also provides security
+Opportunity to take an international business trip once a year
+Brand new office
+Premium health insurance with ₹10,00,000 coverage for you and your family
+24 paid vacation days to enjoy life outside of work
+Paid maternity (6 months) and paternity (2 weeks)
+Annual learning budget to help you grow your skills and support continuous learning
+Rewarding referral program for helping us grow
+Global perks such as birthday gifts, work anniversaries, and company events to connect with colleagues and have fun
+And much more – join us to explore the full experience
+
+
+Diversity & Inclusion @Adform:
+
+Adform is an equal opportunity employer with a global perspective. We remain committed to creating an environment that not only respects different backgrounds but celebrates them too. We believe that diversity in all its forms enhances our teams’ creativity, innovation, and effectiveness, and therefore we value different backgrounds, perspectives, and skills.
+
+We are committed to creating a work environment where Adform employees feel valued for who they are and what they can contribute, free from any type of discrimination.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Technology, Information and Internet
+  
+
+Referrals increase your chances of interviewing at Adform by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Mumbai Metropolitan Region.
+
+Sign in to create job alert
+Jobs
+Media Marketing Manager jobs
+DevOps Engineer
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+Mactores
+Mumbai, Maharashtra, India
+₹2,000,000 - ₹4,000,000
+8 months ago
+DevOps Engineer
+DevOps Engineer
+Whitefield Careers
+Mumbai Metropolitan Region
+4 months ago
+DevOps Engineer
+DevOps Engineer
+Accenture in India
+Navi Mumbai, Maharashtra, India
+3 weeks ago
+DevOps Engineer
+DevOps Engineer
+Kodo
+Mumbai Metropolitan Region
+1 day ago
+DevOps Engineer
+DevOps Engineer
+Tradelab Technologies
+Mumbai Metropolitan Region
+₹700,000 - ₹1,800,000
+10 months ago
+DevOps Engineer
+DevOps Engineer
+CleverTap
+Mumbai, Maharashtra, India
+4 months ago
+Show more jobs like this 
+People also viewed
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Newfold Digital
+
+Mumbai Metropolitan Region
+2 days ago
+DevOps Engineer
+DevOps Engineer
+
+Erekrut... Recruitment Made Easy
+
+Mumbai, Maharashtra, India
+₹1,000,000 - ₹1,500,000
+15 hours ago
+Cloud Engineer
+Cloud Engineer
+
+Priceline
+
+Mumbai, Maharashtra, India
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Mactores
+
+Mumbai, Maharashtra, India
+10 hours ago
+Platform Engineer
+Platform Engineer
+
+Waystone
+
+Mumbai, Maharashtra, India
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+IMS People Possible
+
+Mumbai, Maharashtra, India
+1 week ago
+Site Reliability Engineer III
+Site Reliability Engineer III
+
+JPMorganChase
+
+Mumbai, Maharashtra, India
+1 day ago
+GCP DevOps Engineer
+GCP DevOps Engineer
+
+OpsTree Global
+
+Mumbai Metropolitan Region
+₹2,000,000 - ₹2,500,000
+5 months ago
+Devops Engineer/ Senior Devops Engineer - Linux
+Devops Engineer/ Senior Devops Engineer - Linux
+
+WebEngage
+
+Mumbai Metropolitan Region
+2 months ago
+DevOps Engineer (React.js & AWS)
+DevOps Engineer (React.js & AWS)
+
+Victrix Inc.
+
+Mumbai Metropolitan Region
+3 months ago
+Similar Searches
+Media Marketing Manager jobs
+1,230 open jobs
+Data Processing Specialist jobs
+4,010 open jobs
+Incentive Manager jobs
+259 open jobs
+Advertising Operations Manager jobs
+27 open jobs
+Digital Account Director jobs
+61 open jobs
+Database Manager jobs
+2,772 open jobs
+Peoplesoft Developer jobs
+4,268 open jobs
+Associate System Engineer jobs
+2,377 open jobs
+Business Development Account Manager jobs
+13,616 open jobs
+Utilities Manager jobs
+361 open jobs
+Product Support Specialist jobs
+904 open jobs
+Associate Buyer jobs
+358 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

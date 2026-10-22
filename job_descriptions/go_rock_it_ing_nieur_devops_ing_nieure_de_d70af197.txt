@@ -1,0 +1,267 @@
+Title: Ingénieur DevOps/Ingénieure DevOps
+Company: GO ROCK IT
+Location: Montreal, Quebec, Canada
+URL: https://ca.linkedin.com/jobs/view/ing%C3%A9nieur-devops-ing%C3%A9nieure-devops-at-go-rock-it-4482470740
+Posted: 2026-10-23
+Deadline: N/A
+Reason: The role is a DevOps Engineer position involving CI/CD pipelines, automation, and infrastructure management in Canada, aligning with the candidate's core expertise and target country preferences.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Ingénieur DevOps/Ingénieure DevOps
+GO ROCK IT  Montreal, Quebec, Canada
+11 hours ago   Be among the first 25 applicants
+  
+
+See who GO ROCK IT has hired for this role
+
+Apply
+Save
+
+GO ROCK IT, c’est l’incontournable Agence de talents spécialisée dans l’attraction & l’acquisition de talents dans les secteurs des technologies de l’information (TI), d'une façon humaine.
+
+
+
+
+Notre processus de recrutement est entièrement transparent. Si le rôle qu’on a aujourd’hui n'est pas le bon pour toi, trouvons-en un qui le soit! Travaillons ensemble pour s’assurer que tu rejoignes une équipe qui t’aide à grandir. 💪
+
+
+
+
+On cherche actuellement un(e) Ingénieur DevOps/Ingénieure DevOps pour joindre l’équipe d’un de nos partenaires à Montréal. Ils t’offriront la possibilité de voir l'impact de ton travail sur l’évolution des projets. Sans parler du fait que tu seras entouré d'une équipe d'experts multidisciplinaire super compétente. On a pas fini d’entendre parler d’eux!
+
+
+
+
+Responsabilités:
+
+Concevoir, maintenir et faire évoluer les pipelines CI/CD pour les applications et plateformes ECM.
+Automatiser le déploiement et la configuration des infrastructures et services AWS avec Terraform / Infrastructure as Code.
+Accompagner les équipes de développement dans la conteneurisation et le déploiement d’applications sur Kubernetes/EKS ou ECS.
+Participer à la modernisation des plateformes ECM et à leur intégration avec les services cloud AWS.
+Mettre en place et améliorer les pratiques d’observabilité, monitoring, logging et alerting.
+Automatiser les opérations récurrentes afin de réduire les interventions manuelles et améliorer la fiabilité des environnements.
+Contribuer à la gestion sécurisée des secrets, identités, rôles IAM, certificats et accès applicatifs, notamment avec HashiCorp Vault.
+Participer au diagnostic et à la résolution d’incidents complexes dans des environnements de production critiques.
+Collaborer avec les développeur·euse·s afin d’intégrer les pratiques DevOps, sécurité et qualité directement dans le cycle de développement.
+Participer aux revues d’architecture et proposer des améliorations visant la résilience, la sécurité, l’automatisation et la maintenabilité des plateformes.
+
+
+
+
+Exigences :
+
+Minimum 5 à 7 ans d’expérience pertinente.
+Expérience concrète dans des environnements cloud et de production critiques.
+Forte autonomie et excellente capacité de diagnostic et de résolution de problèmes.
+Capacité à travailler autant avec les équipes de développement qu’avec les équipes d’infrastructure, d’architecture et de sécurité.
+Approche orientée automatisation plutôt que procédures manuelles.
+Capacité à remettre en question les processus existants et à proposer des solutions plus simples, fiables et industrialisées.
+Bonne compréhension des enjeux de sécurité, gouvernance, auditabilité et conformité propres aux grandes organisations.
+accompagnement des développeur·euse·s et DevOps;
+contribution aux décisions d’architecture;
+définition et amélioration des standards;
+capacité à faire évoluer les pratiques de l’équipe au-delà d'un projet individuel.
+Connaissance du domaine ECM / gestion documentaire, de FileNet, IBM Content Navigator, CMOD, Box, DocuSign ou plateformes similaires : un atout.
+
+
+
+
+Postule directement ici! 💪
+
+
+
+
+Même si tu es simplement curieux(se), fais-nous signe.
+
+
+
+
+Chez GO ROCK IT, nous valorisons l'équité, la diversité et l'inclusion. Nous sommes impatients de discuter avec toi et de découvrir comment nous pouvons t'aider à progresser dans ta carrière, dans un environnement dynamique et axé sur l’innovation où tu te sentiras respecté et valorisé.
+
+Show more 
+Seniority level
+Associate
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at GO ROCK IT by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Montreal, Quebec, Canada.
+
+Sign in to create job alert
+Jobs
+Web Integrator jobs
+Ingénieur DevOps/Ingénieure DevOps
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+Studios Wizards of the Coast
+Montreal, Quebec, Canada
+2 days ago
+Ingénieur·e DevOps
+Ingénieur·e DevOps
+Studios Wizards of the Coast
+Montreal, Quebec, Canada
+2 days ago
+Ingénieur DevOps
+Ingénieur DevOps
+Tecsys Inc.
+Montreal, Quebec, Canada
+1 week ago
+DevOps
+DevOps
+Extia
+Montreal, Quebec, Canada
+4 days ago
+DevOps
+DevOps
+OPAL-RT TECHNOLOGIES
+Montreal, Quebec, Canada
+4 weeks ago
+DevOps Engineer (Cloud Infrastructure)
+DevOps Engineer (Cloud Infrastructure)
+Tecsys Inc.
+Montreal, Quebec, Canada
+1 week ago
+Show more jobs like this 
+People also viewed
+Développeur DevOps
+Développeur DevOps
+
+MAG Energy Solutions
+
+Montreal, Quebec, Canada
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+LanceSoft, Inc.
+
+Montreal, Quebec, Canada
+10 hours ago
+DevOps Analyst
+DevOps Analyst
+
+TMX Group
+
+Montreal, Quebec, Canada
+1 week ago
+Site Reliability Engineer (Monetization)
+Site Reliability Engineer (Monetization)
+
+Xsolla
+
+Montreal, Quebec, Canada
+1 week ago
+DevOps Developer - Hybrid
+DevOps Developer - Hybrid
+
+ISAAC Instruments
+
+St-Bruno-de-Montarville, Quebec, Canada
+2 days ago
+[VO2 Canada] - Ingénieur.e Devops – Missions Ponctuelles
+[VO2 Canada] - Ingénieur.e Devops – Missions Ponctuelles
+
+VO2 GROUP
+
+Montreal, Quebec, Canada
+2 months ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+MaintainX
+
+Montreal, Quebec, Canada
+CA$88,000 - CA$195,000
+7 hours ago
+Platform Engineer
+Platform Engineer
+
+CDWare Technologies
+
+Greater Montreal Metropolitan Area
+1 month ago
+Senior DevOps
+Senior DevOps
+
+TMC Canada
+
+Montreal, Quebec, Canada
+1 day ago
+Montréal [Hybrid] - DevOps - MLOps engineer
+Montréal [Hybrid] - DevOps - MLOps engineer
+
+QUANTEAM - North America (RAINBOW PARTNERS Group)
+
+Greater Montreal Metropolitan Area
+4 weeks ago
+Similar Searches
+Web Integrator jobs
+708 open jobs
+Creative Developer jobs
+15,324 open jobs
+Functional Analyst jobs
+3,155 open jobs
+Trading Specialist jobs
+2,784 open jobs
+Agile Coach jobs
+1,717 open jobs
+Director Application jobs
+520 open jobs
+Software Architect jobs
+7,379 open jobs
+C Developer jobs
+2,666 open jobs
+Web Developer jobs
+2,982 open jobs
+Software Intern jobs
+271 open jobs
+System Network Administrator jobs
+1,851 open jobs
+SQL Developer jobs
+751 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

@@ -1,0 +1,270 @@
+Title: Développeur·euse SRE / DevOps
+Company: Trolley
+Location: Montreal, Quebec, Canada
+URL: https://ca.linkedin.com/jobs/view/d%C3%A9veloppeur%C2%B7euse-sre-devops-at-trolley-4482155448
+Posted: 2026-10-22
+Deadline: Open until filled
+Reason: The role is a strong match for her DevOps/SRE background, located in Canada, and does not trigger any hard rejections.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Développeur·euse SRE / DevOps
+Trolley  Montreal, Quebec, Canada
+1 day ago  38 applicants
+  
+
+See who Trolley has hired for this role
+
+Apply 
+Save
+À propos de Trolley
+
+Trolley est une plateforme de paiements internationaux conçue pour l’économie numérique. Notre vision est de libérer le potentiel économique d’Internet pour tous en développant un écosystème de paiements véritablement sans frontières.
+
+Grâce à notre plateforme et à notre API, nous permettons aux entreprises de payer des personnes partout dans le monde, notamment des créateurs de contenu, des travailleurs à la demande et des fournisseurs. Notre solution simplifie la gestion des paiements, la collecte des renseignements fiscaux et bancaires des bénéficiaires, ainsi que la prévention de la fraude et la gestion des risques.
+
+Des centaines d’entreprises, dont Canva, SoundCloud et Envato, font confiance à Trolley pour effectuer leurs paiements efficacement. Notre plateforme a traité des millions de transactions pour des musiciens, des artistes, des créateurs, des fabricants et des fournisseurs partout dans le monde.
+
+À propos du poste
+
+En tant que développeur·euse SRE / DevOps chez Trolley, vous jouerez un rôle clé dans la gestion, la maintenance et l’évolution de notre infrastructure infonuagique. Vous contribuerez à automatiser les processus, à améliorer l’efficacité opérationnelle et à assurer la fiabilité, la performance et l’évolutivité de nos systèmes.
+
+Vous collaborerez avec différentes équipes pour faire évoluer continuellement nos solutions d’intégration et de déploiement continus (CI/CD), faire évoluer notre infrastructure en fonction des besoins de l’entreprise et renforcer notre posture de sécurité ainsi que notre conformité réglementaire.
+
+Le profil recherché
+
+
+Au moins 4 ans d’expérience professionnelle dans un rôle DevOps ou SRE au sein d’un environnement infonuagique.
+Solide compréhension des principes fondamentaux de l’infonuagique et de la sécurité, ainsi qu’une expérience approfondie des services AWS (p. ex. ECS, Lambda, Bedrock, SNS, SQS et RDS) pour concevoir, déployer et gérer des solutions infonuagiques sécurisées et efficaces.
+Expérience dans la gestion d’applications conteneurisées avec Docker et AWS Fargate, ainsi qu’une excellente compréhension des principes de conteneurisation et d’orchestration.
+Expérience dans la mise en place et la gestion de pipelines CI/CD avec CircleCI, ainsi qu’une bonne connaissance des pratiques exemplaires en la matière.
+Expérience pratique avec Terraform pour le provisionnement et la gestion de l’infrastructure en tant que code (IaC).
+Solide compréhension des principes d’observabilité et de leur application à des systèmes à grande échelle, ainsi qu’une expérience pratique d’outils comme Datadog.
+Excellente maîtrise de Python pour automatiser des tâches et améliorer l’efficacité des processus.
+Solides capacités d’analyse et de résolution de problèmes, avec la capacité de diagnostiquer et de résoudre efficacement des problèmes techniques complexes.
+Capacité à travailler efficacement au sein d’une équipe agile et à communiquer clairement des concepts techniques.
+Volonté d’apprendre de nouvelles technologies et de s’adapter à l’évolution des pratiques SRE / DevOps.
+Atout : expérience dans le développement de flux de travail faisant appel à des agents d’intelligence artificielle, notamment avec AWS Bedrock ou des cadres de développement similaires. Cette expérience est un plus, mais n’est pas obligatoire.
+
+
+Vos responsabilités
+
+
+Assurer les opérations quotidiennes SRE / DevOps afin de maintenir des processus fluides et de résoudre rapidement les problèmes.
+Collaborer avec les équipes d’ingénierie pour maintenir et améliorer la disponibilité, la sécurité et l’évolutivité de nos systèmes.
+Développer et maintenir l’infrastructure en tant que code (IaC) à l’aide de Terraform et automatiser efficacement les processus.
+Améliorer continuellement les processus CI/CD afin d’accroître l’efficacité et de soutenir la croissance de l’entreprise.
+Effectuer des analyses des causes fondamentales des incidents et contribuer à la mise en place de solutions permettant d’éviter qu’ils se reproduisent.
+Contribuer à l’évolution des pratiques DevOps en partageant vos connaissances, en encourageant l’amélioration continue et en accompagnant vos collègues afin d’atteindre les objectifs de l’équipe et de l’entreprise.
+
+
+Notre environnement technologique
+
+
+Infonuagique et infrastructure : AWS (Fargate, Lambda, SNS, SQS), Docker, Terraform
+Développement : Node.js, TypeScript, JavaScript, React, Styled Components
+Bases de données et stockage : PostgreSQL, Redis
+
+
+Consultez notre environnement technologique en détail sur StackShare.
+
+Ce que nous offrons
+
+
+Un salaire concurrentiel et une participation au capital de l’entreprise sous forme d’options d’achat d’actions (ESOP).
+Une équipe diversifiée et collaborative qui travaille vers un objectif commun.
+Une assurance collective dès le premier jour, comprenant notamment les soins dentaires et de la vue ainsi qu’une assurance invalidité de longue durée.
+Quatre semaines de vacances payées par année, en plus des jours fériés, avec une journée de vacances supplémentaire par année de service.
+La possibilité de travailler à distance depuis l’étranger jusqu’à 30 jours par année.
+Une allocation pour un abonnement au gym.
+Des vendredis écourtés pendant l’été.
+Un MacBook Pro et des accessoires Apple fournis par l’entreprise.
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Trolley by 2x
+
+See who you know
+
+Get notified about new Developer jobs in Montreal, Quebec, Canada.
+
+Sign in to create job alert
+Jobs
+Delphi Programmer jobs
+Développeur·euse SRE / DevOps
+Similar jobs
+Platform Engineer
+Platform Engineer
+Xsolla
+Montreal, Quebec, Canada
+2 weeks ago
+Site Reliability Engineer
+Site Reliability Engineer
+MaintainX
+Montreal, Quebec, Canada
+CA$88,000 - CA$195,000
+7 hours ago
+Cloud Platform Engineer
+Cloud Platform Engineer
+GitLab
+Canada
+1 week ago
+DevOps
+DevOps
+Onepoint
+Montreal, Quebec, Canada
+6 days ago
+DevOps Developer
+DevOps Developer
+Caseware
+Canada
+1 month ago
+Infrastructure Engineer/SRE
+Infrastructure Engineer/SRE
+Cresta
+Canada
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Ingénieur DevSecOps (Infrastructure)
+Ingénieur DevSecOps (Infrastructure)
+
+Empire Vie
+
+Canada
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Modaxo
+
+Canada
+8 months ago
+DevSecOps Engineer (Infrastructure)
+DevSecOps Engineer (Infrastructure)
+
+Empire Life
+
+Canada
+2 weeks ago
+DevOps Engineer (Vac DST)
+DevOps Engineer (Vac DST)
+
+Jobgether
+
+Canada
+3 days ago
+Staff Site Reliability Engineer
+Staff Site Reliability Engineer
+
+Caseware
+
+Canada
+2 months ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Modern Campus
+
+Canada
+6 days ago
+Spécialiste DevOps (Q4B)
+Spécialiste DevOps (Q4B)
+
+TEHORA inc.
+
+Montreal, Quebec, Canada
+11 months ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+Parallel Domain
+
+Canada
+1 week ago
+DevOps & Cloud Systems - Fullstack Developer
+DevOps & Cloud Systems - Fullstack Developer
+
+BrightOrder Inc.
+
+Canada
+CA$95,000 - CA$105,000
+1 week ago
+Senior DevOps Engineer, Canada
+Senior DevOps Engineer, Canada
+
+Crypto.com
+
+Canada
+2 weeks ago
+Similar Searches
+Delphi Programmer jobs
+13,888 open jobs
+Junior Web Developer jobs
+699 open jobs
+Software Engineer jobs
+18,695 open jobs
+Developer jobs
+19,120 open jobs
+Information Technology Developer jobs
+128 open jobs
+Javascript Developer jobs
+2,746 open jobs
+Frontend Developer jobs
+1,390 open jobs
+Unity Developer jobs
+340 open jobs
+Web Developer jobs
+2,982 open jobs
+Game Programmer jobs
+272 open jobs
+Web Development Specialist jobs
+14,191 open jobs
+Junior Developer jobs
+1,030 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

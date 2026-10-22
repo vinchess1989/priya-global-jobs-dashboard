@@ -1,9 +1,9 @@
 {
-  "pid": 50032,
-  "started_at": "2026-10-22T17:26:16+03:00",
-  "heartbeat_at": "2026-10-22T17:38:47+03:00",
+  "pid": 76292,
+  "started_at": "2026-10-23T02:20:09+03:00",
+  "heartbeat_at": "2026-10-23T02:25:20+03:00",
   "phase": "reviewing",
-  "detail": "Site Reliability Engineer (Remote/ EU based) - Chinese Speakers",
-  "last_scrape_ok_at": "2026-10-22T17:33:59+03:00",
+  "detail": "Core Site Reliability Engineer",
+  "last_scrape_ok_at": "2026-10-23T02:23:03+03:00",
   "last_error": null
 }

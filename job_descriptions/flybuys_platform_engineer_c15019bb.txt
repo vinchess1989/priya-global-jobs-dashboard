@@ -1,0 +1,276 @@
+Title: Platform Engineer
+Company: Flybuys
+Location: Melbourne, Victoria, Australia
+URL: https://au.linkedin.com/jobs/view/platform-engineer-at-flybuys-4481195462
+Posted: 2026-10-23
+Deadline: Open until filled
+Reason: The role aligns with the candidate's extensive experience in DevOps, CI/CD pipeline management, and infrastructure automation, and it is located in an eligible country (Australia).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Platform Engineer
+Flybuys  Melbourne, Victoria, Australia
+18 hours ago   Be among the first 25 applicants
+  
+
+See who Flybuys has hired for this role
+
+Apply 
+Save
+About Us
+
+We’re known for being the country’s most popular rewards program, helping over 10 million Australians get more of what they value beyond the checkout. And through our extended network of partnerships with other nationally recognised brands, we make every day simpler, easier and more rewarding for our members. Plus, we’re also the winner of Canstar Blue's 2023, 2024 and 2025 Most Satisfied Customer award for Rewards Programs 🥇🏆
+
+But, we're more than the card you carry around in your wallet or the app on your phone! Our diverse team is located all over Australia, and our incredible office is located right in the heart of Melbourne CBD. Staying true to our flexible working policy and people-centric culture, we ensure all our team members are set up to work remotely across Australia. We are outcomes-focused, and everything we do is aligned with our core principles - Own, Act and Inspire.
+
+Your Team
+
+We've already built a pretty amazing team, but we're not looking for more of the same. Our day-to-day is made stronger when we surround ourselves with people who are different, like you.
+
+Your Role
+
+The Cloud Platform Engineer builds, operates and continuously improves secure, reliable and cost-effective cloud platforms that enable Flybuys teams to deliver services safely and efficiently.
+
+The role uses automation, infrastructure as code and reusable platform capabilities to improve developer experience, strengthen observability and resilience, reduce operational and security risk, and support reliable delivery across AWS environments.
+
+
+Build and improve secure, scalable and reusable AWS platform capabilities using infrastructure as code and automated delivery practices.
+Operate and enhance cloud infrastructure, container platforms, application hosting services and supporting tooling.
+Improve reliability through observability, service-level objectives, resilience patterns, disaster recovery and effective incident response.
+Identify and remediate cloud security risks, vulnerabilities and compliance gaps in partnership with security and application teams.
+Optimise cloud costs and capacity through sound architecture, lifecycle management, tagging and usage insights.
+Maintain secure CI/CD pipelines, runners and deployment workflows that support safe progression to production.
+Create internal tools, standards and reusable patterns that improve developer experience and reduce manual effort.
+Coach application teams in AWS operational excellence and support adoption of platform standards.
+Use approved AI-assisted engineering tools responsibly to improve platform delivery and operations.
+Participate in the on-call roster and contribute to incident reviews and lasting corrective actions.
+
+
+Your Experience
+
+
+Strong understanding of AWS cloud services and best practices across automation, operations, security, resilience and cost optimisation.
+Knowledge of AWS services including CloudFront, EC2, S3, ECS, EKS, RDS, SNS, SQS, Lambda and Step Functions.
+Strong understanding of infrastructure as code using AWS CloudFormation, with a focus on AWS CDK.
+Understanding of container operations and security, CI/CD, Git-based workflows, and monitoring and observability practices using Datadog.
+Able to design, build and support AWS infrastructure and platform services using AWS CDK and CloudFormation.
+Proficient in at least one programming language such as TypeScript, Python, Go or Java.
+Able to build and maintain GitLab CI pipelines, runners, cloud infrastructure pipelines, automation and release processes.
+Skilled in troubleshooting production issues and using Datadog logs, metrics, traces, dashboards and monitors to improve visibility, performance and reliability.
+Able to remediate security risks and communicate clearly across application, security and engineering teams.
+A minimum of 5 years’ experience in cloud, platform, DevOps or a similar engineering role, including strong hands-on experience managing AWS production environments.
+Experience building cloud infrastructure using AWS CDK and CloudFormation.
+Practical experience with Docker, ECS or EKS and applying operational and security best practices.
+Hands-on experience implementing and operating observability capabilities using Datadog or a comparable enterprise observability platform. Experience working in complex, cross-functional
+Agile teams and building automation, internal tools, infrastructure pipelines and release processes.
+A tertiary qualification in Information Technology, Computer Science or a related discipline, or equivalent relevant industry experience.
+AWS certification such as AWS Certified Solutions Architect – Associate or AWS Certified DevOps Engineer – Professional is desirable.
+
+
+Your Benefits!
+
+We offer our valued team members a stack of exclusive benefits! To name a few...
+
+
+Flybuysflex | work from anywhere, measured on outcomes
+Two well-being days per year!
+Volunteer leave
+Ongoing learning & development programs and opportunities
+My Coles and Wesfarmers team member discount card
+Be Well Programs – Mind/Body/Soul
+Quarterly All Team events
+Hybrid social events
+New starter kit merchandise
+
+
+Be You, With Us. Apply today!
+
+We value ways of working that work for everyone and use our different strengths to make us stronger. We work hard to make sure everyone’s voice is heard and respected equally, regardless of identity, background, position, ability or lifestyle.
+
+It is a condition of employment that successful applicants undergo a National Police Check prior to commencing.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Flybuys by 2x
+
+See who you know
+
+Get notified about new Platform Engineer jobs in Melbourne, Victoria, Australia.
+
+Sign in to create job alert
+Jobs
+Site Reliability Engineer jobs
+Platform Engineer
+Similar jobs
+Platform Engineer
+Platform Engineer
+Kaluza
+Melbourne, Victoria, Australia
+3 days ago
+Platform Engineer (AKS and Azure)
+Platform Engineer (AKS and Azure)
+Accenture Australia
+Melbourne, Victoria, Australia
+3 days ago
+Senior Platform Engineer
+Senior Platform Engineer
+Blinq
+Melbourne, Victoria, Australia
+1 month ago
+Platform Engineer
+Platform Engineer
+Leidos
+Melbourne, Victoria, Australia
+1 month ago
+Platform Engineer
+Platform Engineer
+Leidos Australia
+Melbourne, Victoria, Australia
+1 week ago
+Search Engineer
+Search Engineer
+Xero
+Melbourne, Victoria, Australia
+2 weeks ago
+Show more jobs like this 
+People also viewed
+DevOps Engineer
+DevOps Engineer
+
+APM
+
+Melbourne, Victoria, Australia
+13 hours ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+The Lottery Corporation
+
+Melbourne, Victoria, Australia
+3 weeks ago
+Principal Engineer, Infrastructure & Platforms
+Principal Engineer, Infrastructure & Platforms
+
+RMS
+
+Melbourne, Victoria, Australia
+2 weeks ago
+Cloud Engineer
+Cloud Engineer
+
+iterate
+
+Melbourne, Victoria, Australia
+A$130,000 - A$160,000
+3 days ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+Blinq
+
+Melbourne, Victoria, Australia
+3 days ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+Leidos
+
+Melbourne, Victoria, Australia
+1 month ago
+Systems Engineer, Region Services
+Systems Engineer, Region Services
+
+Amazon Web Services (AWS)
+
+Melbourne, Victoria, Australia
+8 hours ago
+Tech Lead
+Tech Lead
+
+Squiz
+
+Melbourne, Victoria, Australia
+2 weeks ago
+Senior Platform Engineer - DevSecOps
+Senior Platform Engineer - DevSecOps
+
+Rosterfy
+
+Melbourne, Victoria, Australia
+1 week ago
+Cloud & Devops Engineer (AUS)
+Cloud & Devops Engineer (AUS)
+
+X-Team
+
+Melbourne, Victoria, Australia
+2 weeks ago
+Similar Searches
+Site Reliability Engineer jobs
+3,532 open jobs
+Platform Architect jobs
+1,605 open jobs
+Build And Release Engineer jobs
+578 open jobs
+Infrastructure Engineer jobs
+2,368 open jobs
+Linux Engineer jobs
+790 open jobs
+Senior Infrastructure Engineer jobs
+925 open jobs
+Virtualization Engineer jobs
+595 open jobs
+Cloud Architect jobs
+1,606 open jobs
+Pipeline Engineer jobs
+1,171 open jobs
+Contract Database Administrator jobs
+31 open jobs
+Chief Software Engineer jobs
+736 open jobs
+Senior Reliability Engineer jobs
+122 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
