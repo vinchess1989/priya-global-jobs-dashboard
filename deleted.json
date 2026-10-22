@@ -13105,5 +13105,39 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Deadline (2026-10-05) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Medical Devices Regulatory Officer",
+    "company": "Australian Department of Health Disability & Ageing",
+    "location": "Sydney, NSW, Australia",
+    "url": "https://au.jora.com/job/Regulatory-Officer-971edfca375f036d25119f818e1a08ed",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires Australian citizenship at the time of employment, which the candidate does not hold and for which no visa sponsorship is mentioned as available.",
+    "id": "5662b1e1",
+    "source": "jora_au_eu_mdr",
+    "added_at": "2026-10-22T10:28:31+03:00",
+    "posted_date": "2026-09-30",
+    "deadline": "2026-10-22",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "MDR Analyst, Unit 42",
+    "company": "Cyberark Software",
+    "location": "Sydney NSW, Australia",
+    "url": "https://au.jora.com/job/Analyst-ed605668490a5c83a1ad4567d66140bb",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job posting explicitly states 'Is role eligible for Immigration Sponsorship? No,' which disqualifies it under the 'No Visa Sponsorship / Existing Right to Work Required' hard rejection rule.",
+    "id": "79f68616",
+    "source": "jora_au_eu_mdr",
+    "added_at": "2026-10-22T10:28:31+03:00",
+    "posted_date": "2mo ago",
+    "deadline": "N/A",
+    "eval_model": "local/qwen/qwen3-14b",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
