@@ -1,0 +1,318 @@
+Title: Staff Systems Engineer (Infrastructure Automation & Virtualization)
+Company: Cadence
+Location: Dublin, County Dublin, Ireland
+URL: https://ie.linkedin.com/jobs/view/staff-systems-engineer-infrastructure-automation-virtualization-at-cadence-4443111979
+Posted: 2026-10-15
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in CI/CD, infrastructure automation, and configuration management, and it is located in an eligible country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Staff Systems Engineer (Infrastructure Automation & Virtualization)
+Cadence  Dublin, County Dublin, Ireland
+1 week ago  80 applicants
+  
+
+See who Cadence has hired for this role
+
+Apply 
+Save
+At Cadence, we hire and develop leaders and innovators who want to make an impact on the world of technology.
+
+Cadence is a pivotal leader in electronic design, building upon more than 30 years of computational software expertise. The company applies its underlying Intelligent System Design strategy to deliver software, hardware and IP that turn design concepts into reality.
+
+Cadence customers are the world’s most innovative companies, delivering extraordinary electronic products from chips to boards to systems for the most dynamic market applications including consumer, hyperscale computing, 5G communications, automotive, aerospace industrial and health.
+
+At Cadence, we hire and develop leaders and innovators who want to make an impact on the world of technology.
+
+Job Title: Staff Systems Engineer
+
+Location: Cork or Dublin, Ireland
+
+Reports to: Sr IT Architect
+
+Job Overview
+
+We are seeking a Staff Infrastructure Automation Engineer to join our Platform Engineering team and build the software systems that power our infrastructure. This is a hands-on engineering role focused on developing automation platforms, infrastructure-as-code frameworks, developer tooling, and cloud infrastructure services at scale.
+
+You will design and build reusable automation products using Python, Terraform, and Ansible that enable self-service infrastructure provisioning, configuration management, compliance enforcement, and lifecycle automation across our hybrid cloud environments.
+
+The ideal candidate thinks like a software engineer first, applying modern development practices such as API design, testing, CI/CD, version control, code reviews, and platform architecture to infrastructure challenges. Experience with virtualization technologies such as Nutanix, KVM, and VMware is important, but the primary focus of this role is engineering automation solutions rather than day-to-day infrastructure administration. As a Staff Engineer, you will provide technical leadership, influence platform architecture, establish engineering standards, and mentor other engineers in building scalable automation systems.
+
+Job Responsibilities
+
+Automation Platform Development
+
+
+Design, develop, and maintain infrastructure automation platforms and services using Python and Infrastructure-as-Code technologies.
+Build reusable Terraform modules, Ansible frameworks, and internal developer tools that enable self-service infrastructure deployment.
+Develop API-driven automation solutions that integrate infrastructure platforms, cloud services, and enterprise systems.
+Create automation workflows that eliminate manual operational tasks and improve engineering productivity.
+
+
+Software Engineering & Platform Development
+
+
+Write high-quality, testable, maintainable Python code following modern software engineering practices.
+Design and implement REST API integrations, automation services, and infrastructure orchestration frameworks.
+Develop automated testing strategies for infrastructure code, including unit, integration, and validation testing.
+Participate in architecture reviews, code reviews, and technical design discussions.
+
+
+CI/CD & DevOps Engineering
+
+
+Build and maintain CI/CD pipelines using GitHub Actions, GitLab CI, Jenkins, or equivalent platforms.
+Implement GitOps workflows, policy-as-code, and automated compliance validation.
+Create automated release and deployment processes for infrastructure and platform services.
+Drive engineering excellence through code quality standards, automated testing, and developer experience improvements.
+
+
+Infrastructure & Virtualization Engineering
+
+
+Develop automation and orchestration capabilities for Nutanix, VMware, and KVM-based environments through APIs and Infrastructure-as-Code.
+Build scalable provisioning and lifecycle management solutions for compute, storage, and networking resources.
+Support hybrid cloud automation across AWS and Azure environments.
+Collaborate with infrastructure teams to modernize platforms through automation-first approaches.
+
+
+Technical Leadership
+
+
+Define engineering standards and best practices for infrastructure automation and platform development.
+Mentor engineers through design reviews, code reviews, and technical guidance.
+Lead complex automation initiatives and drive adoption of platform engineering principles.
+Influence long-term automation and platform strategy.
+
+
+Job Qualifications
+
+Software Engineering & Development
+
+
+5-8 years of experience in software engineering, platform engineering, infrastructure automation, or DevOps engineering roles.
+Strong Python development skills with experience building production-quality applications, automation services, APIs, or developer tools.
+Experience with software design patterns, testing frameworks, source control, and code review processes.
+Strong understanding of API integration, automation architecture, and distributed systems concepts.
+
+
+Infrastructure Automation
+
+
+Expert-level Terraform experience, including development of reusable modules, multi-environment architectures, and automation frameworks.
+Strong Ansible experience, including role development, framework design, and large-scale automation implementations.
+Experience designing Infrastructure-as-Code solutions for enterprise-scale environments.
+Strong understanding of GitOps methodologies and automation-first operational models.
+
+
+CI/CD & Developer Platforms
+
+
+Experience building CI/CD pipelines using GitHub Actions, GitLab CI, Jenkins, or similar platforms.
+Experience implementing automated testing, release automation, and deployment workflows.
+Strong Git and software development lifecycle experience.
+
+
+Infrastructure Technologies
+
+
+Experience automating at least two of the following platforms through APIs, SDKs, or Infrastructure-as-Code:
+Nutanix AHV / Prism / AOS
+VMware vSphere / ESXi
+KVM / QEMU
+Experience with AWS and/or Azure infrastructure services.
+Working knowledge of networking concepts, infrastructure architecture, and hybrid cloud environments.
+
+Leadership & Communication
+
+
+Ability to lead technical initiatives and influence engineering direction.
+Strong written and verbal communication skills.
+Experience mentoring engineers and driving engineering best practices.
+
+
+Additional Skills/Preferences
+
+
+Experience developing internal developer platforms (IDP) or self-service infrastructure portals.
+Experience with FastAPI, Flask, Django, or similar Python frameworks.
+Experience building automation services, operators, controllers, or orchestration platforms.
+Familiarity with Kubernetes, containers, and cloud-native technologies.
+Experience with observability platforms such as Prometheus, Grafana, Datadog, or OpenTelemetry.
+Experience implementing policy-as-code using Open Policy Agent (OPA), Sentinel, or similar technologies.
+
+
+Check What We Can Offer You
+
+
+Competitive salary
+25 days holiday per year
+Private Medical and Dental plans, Income Protection and Life Insurance
+Group Personal Pension Plan
+Cycle to work scheme and gym subsidy
+5 days paid time to volunteer to give back to our communities
+Employee Stock Purchase Plan
+The opportunity to work for a Great Place to Work© & Fortune 100 organization
+
+
+Cadence is committed to equal employment opportunity and employment equity throughout all levels of the organization. We strive to attract a qualified and diverse candidate pool and encourage diversity and inclusion in the workplace.
+
+We’re doing work that matters. Help us solve what others can’t.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Cadence by 2x
+
+See who you know
+
+Get notified about new Staff System Engineer jobs in Dublin, County Dublin, Ireland.
+
+Sign in to create job alert
+Similar jobs
+Staff Network Systems Engineer - Network Automation & DevOps
+Staff Network Systems Engineer - Network Automation & DevOps
+Sony Interactive Entertainment
+Dublin, County Dublin, Ireland
+2 weeks ago
+System Engineer
+System Engineer
+Software Placements
+Dublin, County Dublin, Ireland
+€90,000 - €95,000
+1 day ago
+Sr. Staff Platform Operations Engineer (with OpenStack)
+Sr. Staff Platform Operations Engineer (with OpenStack)
+Cloudera
+Greater Dublin
+6 days ago
+Staff Systems Engineer
+Staff Systems Engineer
+Inscribe AI
+Dublin, County Dublin, Ireland
+€118,000 - €145,000
+1 week ago
+Infrastructure Technical Lead
+Infrastructure Technical Lead
+Version 1
+Dublin, County Dublin, Ireland
+1 week ago
+Staff Engineer, Compute
+Staff Engineer, Compute
+Datadog
+Dublin, County Dublin, Ireland
+1 day ago
+Show more jobs like this 
+People also viewed
+Site Reliability Engineer, Dublin
+Site Reliability Engineer, Dublin
+
+Apple
+
+Dublin, County Dublin, Ireland
+5 months ago
+Systems Development Engineer II, Amazon Robotics Infrastructure Engineering
+Systems Development Engineer II, Amazon Robotics Infrastructure Engineering
+
+Amazon
+
+Dublin, County Dublin, Ireland
+1 week ago
+Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)
+Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)
+
+MongoDB
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+Principal DevOps Engineer - Decision Management Platform
+Principal DevOps Engineer - Decision Management Platform
+
+Mastercard
+
+Dublin, County Dublin, Ireland
+1 day ago
+Senior Cloud Engineer
+Senior Cloud Engineer
+
+Workday
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+Infrastructure Engineer
+Infrastructure Engineer
+
+ElevenLabs
+
+Dublin, County Dublin, Ireland
+1 week ago
+Lead Platform Engineer
+Lead Platform Engineer
+
+KKR
+
+Dublin, County Dublin, Ireland
+6 days ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+Pepper Advantage
+
+Dublin, County Dublin, Ireland
+3 weeks ago
+Systems Engineer, ESC Managed Operations
+Systems Engineer, ESC Managed Operations
+
+Amazon Web Services (AWS)
+
+Dublin, County Dublin, Ireland
+1 week ago
+Systems Development Engineer, ESC Managed Operations
+Systems Development Engineer, ESC Managed Operations
+
+Amazon Web Services (AWS)
+
+Dublin, County Dublin, Ireland
+1 week ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

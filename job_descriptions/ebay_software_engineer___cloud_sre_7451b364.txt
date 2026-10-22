@@ -1,0 +1,219 @@
+Title: Software Engineer - Cloud SRE
+Company: eBay
+Location: Dublin, County Dublin, Ireland
+URL: https://ie.linkedin.com/jobs/view/software-engineer-cloud-sre-at-ebay-4473697052
+Posted: 2026-10-08
+Deadline: Open until filled
+Reason: The role aligns with the candidate's extensive experience in CI/CD, infrastructure automation, and release management, and it is located in an eligible country (Ireland) with no explicit exclusion of visa sponsorship.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Software Engineer - Cloud SRE
+eBay  Dublin, County Dublin, Ireland
+2 weeks ago  149 applicants
+  
+
+See who eBay has hired for this role
+
+Apply 
+Save
+At eBay, we're more than a global ecommerce leader — we’re changing the way the world shops and sells. Our platform empowers millions of buyers and sellers in more than 190 markets around the world. We’re committed to pushing boundaries and leaving our mark as we reinvent the future of ecommerce for enthusiasts.
+
+Our customers are our compass, authenticity thrives, bold ideas are welcome, and everyone can bring their unique selves to work — every day. We're in this together, sustaining the future of our customers, our company, and our planet.
+
+Join a team of passionate thinkers, innovators, and dreamers — and help us connect people and build communities to create economic opportunity for all.
+
+About The Team And The Role
+
+The Cloud Infrastructure team at eBay is seeking an experienced Site Reliability Engineer (SRE) to join the team in Dublin, Ireland. You will help design, develop, deploy, and operate reliable, scalable self-service platforms that support the application lifecycle for eBay’s products and services.
+
+The role focuses on cloud-native technologies, particularly containers and Kubernetes, and involves close collaboration with internal customers, partners, and cross-functional teams. You will improve platform reliability, observability, performance, automation, and deployment processes across eBay’s cloud services.
+
+What You Will Accomplish
+
+
+Improve the reliability, scalability, efficiency, and security compliance of cloud products that support eBay’s products and services.
+Strengthen observability across cloud services through comprehensive monitoring and alerting practices.
+Respond to cloud incidents, perform root cause analysis, implement corrective actions, and maintain incident response plans to reduce recurrence.
+Analyze system performance and implement improvements that optimize resource utilization and application performance.
+Improve CI/CD processes to increase deployment velocity and reliability.
+Develop and maintain automation that streamlines operations, reduces manual work, and improves system reliability.
+Collaborate with internal customers, partners, and cross-functional teams to deliver key business outcomes.
+
+
+
+What You Will Bring
+
+
+3+ years of programming experience with Go or Python, alongside 3+ years of experience implementing large-scale, distributed, highly available, fault-tolerant systems and infrastructure in production environments.
+Strong experience with Kubernetes in an SRE or related cloud infrastructure role; experience developing with Kubernetes and/or building Kubernetes controllers is highly desirable.
+Experience with observability tools and practices, with a focus on improving system reliability and performance.
+Strong understanding of API design and RESTful principles, including experience building web services at scale.
+Experience delivering products in cross-functional teams; knowledge of Agile development methodologies and application lifecycle management or CI/CD is beneficial.
+Experience working in high-traffic, large-scale environments. Familiarity with additional programming languages or frameworks and participation in open-source standards or projects are beneficial.
+Kubernetes, lifecycle management, or related certifications are beneficial. This role is based in Dublin, Ireland.
+
+
+
+Additional Details
+
+eBay is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, sexual orientation, gender identity, veteran status, and disability, or other legally protected status. If you have a need that requires accommodation, please contact us at talent@ebay.com. We will make every effort to respond to your request for accommodation as soon as possible. View our accessibility statement to learn more about eBay's commitment to ensuring digital accessibility for people with disabilities.
+
+We use cookies to enhance your experience and may use AI tools for administrative tasks in the hiring process. To learn how we handle your personal data and use AI responsibly, please visit our Talent Privacy Notice, Privacy Center, and AI Hiring Guidelines.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Technology, Information and Internet
+  
+
+Referrals increase your chances of interviewing at eBay by 2x
+
+See who you know
+
+Get notified about new Cloud Engineer jobs in Dublin, County Dublin, Ireland.
+
+Sign in to create job alert
+Similar jobs
+Site Reliability Engineer, Dublin
+Site Reliability Engineer, Dublin
+Apple
+Dublin, County Dublin, Ireland
+5 months ago
+Site Reliability Engineer
+Site Reliability Engineer
+Apple
+Dublin, County Dublin, Ireland
+2 months ago
+Site Reliability Engineer - Cloud Infrastructure
+Site Reliability Engineer - Cloud Infrastructure
+TikTok
+Dublin, County Dublin, Ireland
+4 weeks ago
+Software Engineer - Cloud Infrastructure
+Software Engineer - Cloud Infrastructure
+eBay
+Dublin, County Dublin, Ireland
+2 days ago
+Site Reliability Engineer (SRE/ DevOps) - Engineering Productivity
+Site Reliability Engineer (SRE/ DevOps) - Engineering Productivity
+Arista Networks
+Dublin, County Dublin, Ireland
+2 months ago
+Site Reliability Engineer
+Site Reliability Engineer
+Blockdaemon
+Dublin, County Dublin, Ireland
+1 week ago
+Show more jobs like this 
+People also viewed
+Application Engineer
+Application Engineer
+
+InterSystems
+
+Dublin, County Dublin, Ireland
+1 week ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+DOCOsoft
+
+Dublin, County Dublin, Ireland
+4 weeks ago
+Senior Cloud Engineer
+Senior Cloud Engineer
+
+Sprinklr
+
+Dublin, County Dublin, Ireland
+1 week ago
+Software Engineer
+Software Engineer
+
+Penta Consulting
+
+Dublin, County Dublin, Ireland
+1 week ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+Fivetran
+
+Dublin, County Dublin, Ireland
+1 hour ago
+Senior Cloud Engineer
+Senior Cloud Engineer
+
+Luxoft
+
+Dublin, County Dublin, Ireland
+1 day ago
+Platform Engineer
+Platform Engineer
+
+Pepper Advantage
+
+Dublin, County Dublin, Ireland
+3 weeks ago
+Lead Site Reliability Engineer
+Lead Site Reliability Engineer
+
+JPMorganChase
+
+Dublin, County Dublin, Ireland
+1 week ago
+Senior Production Engineer
+Senior Production Engineer
+
+Whatnot
+
+Dublin, County Dublin, Ireland
+€131,000 - €145,000
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+Cpl
+
+Dublin, County Dublin, Ireland
+€40,000 - €60,000
+2 weeks ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

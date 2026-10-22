@@ -1,0 +1,224 @@
+Title: Site Reliability Engineer
+Company: Intuition IT Solutions
+Location: Greater Dublin
+URL: https://ie.linkedin.com/jobs/view/site-reliability-engineer-at-intuition-it-solutions-4481309597
+Posted: 2026-10-22
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's expertise in CI/CD pipelines, release management, and operational automation, and it is located in an eligible country (Ireland) without any restrictive language or citizenship requirements.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Site Reliability Engineer
+Intuition IT Solutions  Greater Dublin
+5 hours ago  26 applicants
+  
+
+See who Intuition IT Solutions has hired for this role
+
+Apply
+Save
+
+Job Title: SRE/DevOps Engineer with Production Support
+
+Location: Dublin, Ireland (Hybrid)
+
+Job Type: Permanent
+
+
+
+
+Job Description:
+
+Plan, manage, and oversee all aspects of a Production Environment
+Define strategies for Application Performance Monitoring Optimization in Prod environment
+Respond to Incidents and improvise a platform based on feedback and measure the reduction of incidents over time.
+Support the deployment of code into multiple lower environments. Supporting current processes with an emphasis on automating everything as soon as possible.
+Design, develop, and standardize the monitoring and Alerting mechanism for the supported applications.
+Take a holistic approach to problem solving, by connecting the dots during a production event through the various technology stack that makes up the platform, to optimize the mean time to recover.
+Engage in and improve the whole lifecycle of services—from inception and design, through deployment, operation and refinement.
+Analyze ITSM activities of the platform and provide feedback loop to development teams on operational gaps or resiliency concerns.
+Support services before they go live through activities such as system design consulting, capacity planning and launch reviews.
+Support the application CI/CD pipeline for promoting software into higher environments through validation and operational gating, and lead in DevOps automation and best practices.
+Maintain services once they are live by measuring and monitoring availability, latency and overall system health.
+Scale systems sustainably through mechanisms like automation and evolving systems by pushing for changes that improve reliability and velocity.
+Work with a global team spread across tech hubs in multiple geographies and time zones.
+Ability to share knowledge and explain processes and procedures to others.
+Share knowledge and mentor junior resources
+Able to perform on-call duties on a rotational basis.
+Occasional off-hours work required.
+Candidate should incline Training and should be a good trainer and ready to mentor others
+
+Required Skills
+
+Linux
+Shell Scripting
+ITIL / ITSM
+SQL - Basic / Good to have
+Application Troubleshooting
+Ansible/Chef (Basic)
+Any Monitoring tool (Preferred Splunk/Dynatrace)
+Jenkins - CI/CD
+Groovy Scripting/YAML
+Git basic/bit bucket
+
+Nice to Have
+
+Payment’s domain experience (Payment Flows, Switching, Authorization, Settlements)
+Event-Driven Architecture experience
+Exposure to distributed or cloud-native environments.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Information Services and Financial Services
+  
+
+Referrals increase your chances of interviewing at Intuition IT Solutions by 2x
+
+See who you know
+
+Get notified about new Site Reliability Engineer jobs in Greater Dublin.
+
+Sign in to create job alert
+Similar jobs
+Site Reliability Engineer - Cloud Infrastructure
+Site Reliability Engineer - Cloud Infrastructure
+TikTok
+Dublin, County Dublin, Ireland
+4 weeks ago
+Site Reliability Engineer
+Site Reliability Engineer
+ElevenLabs
+Dublin, County Dublin, Ireland
+1 week ago
+Site Reliability Engineer
+Site Reliability Engineer
+Susquehanna International Group
+Dublin, County Dublin, Ireland
+1 week ago
+Site Reliability Engineer
+Site Reliability Engineer
+Apple
+Dublin, County Dublin, Ireland
+2 months ago
+Site Reliability Engineer (SRE/ DevOps) - Engineering Productivity
+Site Reliability Engineer (SRE/ DevOps) - Engineering Productivity
+Arista Networks
+Dublin, County Dublin, Ireland
+2 months ago
+Site Reliability Engineer
+Site Reliability Engineer
+Blockdaemon
+Dublin, County Dublin, Ireland
+1 week ago
+Show more jobs like this 
+People also viewed
+Lead Site Reliability Engineer
+Lead Site Reliability Engineer
+
+Mastercard
+
+Dublin, County Dublin, Ireland
+15 hours ago
+Site Reliability Engineer (Remote/ EU based) - Chinese Speakers
+Site Reliability Engineer (Remote/ EU based) - Chinese Speakers
+
+Robert Walters
+
+Dublin, County Dublin, Ireland
+1 day ago
+Senior Production Engineer
+Senior Production Engineer
+
+Whatnot
+
+Dublin, County Dublin, Ireland
+€131,000 - €145,000
+1 week ago
+Site Reliability Engineer III
+Site Reliability Engineer III
+
+LexisNexis Risk Solutions
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+Software Engineer - Cloud SRE
+Software Engineer - Cloud SRE
+
+eBay
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+Systems Engineer, European Sovereign Cloud
+Systems Engineer, European Sovereign Cloud
+
+Amazon Web Services (AWS)
+
+Dublin, County Dublin, Ireland
+1 week ago
+Senior Site Reliability engineer
+Senior Site Reliability engineer
+
+Guidewire Software
+
+Dublin, County Dublin, Ireland
+1 day ago
+Staff Site Reliability Engineer
+Staff Site Reliability Engineer
+
+ServiceNow
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+Global Production Support Engineer
+Global Production Support Engineer
+
+Susquehanna International Group
+
+Dublin, County Dublin, Ireland
+1 week ago
+Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)
+Site Reliability Engineer (Senior or Staff), Storage Layer Services (SLS)
+
+MongoDB
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
