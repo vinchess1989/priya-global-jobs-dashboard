@@ -1,10 +1,10 @@
 {
   "pid": 76292,
   "started_at": "2026-10-23T02:20:09+03:00",
-  "heartbeat_at": "2026-10-23T03:06:35+03:00",
+  "heartbeat_at": "2026-10-23T03:11:41+03:00",
   "phase": "reviewing",
-  "detail": "Product Specialist at Sabenza IT & Recruitment",
-  "last_scrape_ok_at": "2026-10-23T03:04:14+03:00",
+  "detail": "HVAC Expert",
+  "last_scrape_ok_at": "2026-10-23T03:08:58+03:00",
   "last_error": {
     "at": "2026-10-23T03:03:05+03:00",
     "message": "cv_library_product_specialist: Page.goto: Navigation to \"https://www.cv-library.co.uk/product-specialist-jobs\" is interrupted by another navigation to \"about:blank\"\nCall log:\n  - navigating to \"https://www.cv-library.co.uk/product-specialist-jobs\", waiting until \"load\"\n"
