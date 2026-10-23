@@ -1,0 +1,245 @@
+Title: Staff / Senior Engineer – Firmware Development
+Company: Micron Technology
+Location: Singapore, Singapore
+URL: https://sg.linkedin.com/jobs/view/staff-senior-engineer-%E2%80%93-firmware-development-at-micron-technology-4481683616
+Posted: 2026-10-24
+Deadline: N/A
+Reason: The role aligns with the candidate's background in firmware, sustaining engineering, and release processes in a regulated industry, and it is located in a target country (Singapore).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Staff / Senior Engineer – Firmware Development
+Micron Technology  Singapore, Singapore
+11 hours ago   Be among the first 25 applicants
+  
+
+See who Micron Technology has hired for this role
+
+Apply 
+Save
+Our vision is to transform how the world uses information to enrich life for all.
+
+Join an inclusive team passionate about one thing: using their expertise in the relentless pursuit of innovation for customers and partners. The solutions we build help make everything from virtual reality experiences to breakthroughs in neural networks possible. We do it all while committing to integrity, sustainability, and giving back to our communities. Because doing so can fuel the very innovation we are pursuing.
+
+SUPPORT CUSTOMERS AND DEBUG FIRMWARE
+
+
+Customer engineering support: Act as the primary technical escalation point for Security Firmware on SSD products — triage, prioritize, and drive customer reported security issues to closure within committed response times
+Security feature enablement: Guide customers through the configuration, integration, and validation of SSD security features; including, but not limited to: TCG Opal/Pyrite/Ruby and Enterprise SSC, ATA and NVMe security commands, self-encrypting drive operation, secure boot and signed firmware update, sanitize and cryptographic erase, key management, and device attestation
+Debug and root cause analysis: Reproduce customer, qualification, and field failures in the lab; analyze firmware logs, traces, and bus captures; debug Security Firmware source; and deliver documented root cause and corrective action
+Firmware fixes and validation: Develop, unit test, and functionally validate targeted Security Firmware changes and customer specific configurations and builds, ensuring each change meets the security, functional, performance, and quality/reliability requirements of the technical spec matrix before release
+Vulnerability and incident response: Assess the impact of reported vulnerabilities and security findings on products already in the field, and support mitigation planning, remediation delivery, and customer disclosure
+Customer qualification and compliance support: Support customer security audits, security questionnaires, and certification activities (e.g. TCG specification compliance, FIPS 140-3, Common Criteria), and produce the application notes, integration guides, and technical documentation customers depend on
+
+
+STAKEHOLDER MANAGEMENT
+
+
+Represent Micron in direct technical engagement with customer engineering teams, translating Security Firmware behavior, constraints, and risk into terms that are clear to both engineering and non-engineering audiences
+Dedicatedly provide to management, multi-functional team members, and the firmware team consistent, detailed, and properly summarized information regarding customer issues, escalation status, and the progress of firmware fixes
+Maintain accurate issue records, root cause reports, and knowledge base content so that recurring customer questions are answered faster over time
+
+
+PEOPLE DEVELOPMENT
+
+
+Multi-functional Teamwork: Develop and maintain collaborative, open and, constructive relationships with peers, management, and partner teams across firmware development, product engineering, quality, and field applications
+Team Development: Provide technical capability that continuously improves team involvement, morale, and productivity
+Personal Development: Work to continuously improve your technical capability and communication skills
+
+
+AI UTILIZATION
+
+
+Integrates AI-assisted tools and insights into daily work to improve efficiency, quality, or effectiveness, exercising sound judgment and complying with organizational standards and requirements.
+Contributes to a culture of continuous improvement by identifying, testing, and sharing AI-enabled enhancements within one’s scope of work.
+
+
+Requirements
+
+
+Bachelor's/master's degree in computer or electrical engineering with 5+ years of relevant experience.
+Experience in a customer facing engineering role such as customer engineering support, field applications, sustaining engineering, or escalation management is strongly preferred
+Embedded Security domain knowledge and experience, including cryptography fundamentals (AES, RSA/ECC, SHA), key management, secure boot, and secure firmware update
+Familiarity with storage security standards and features such as TCG Opal and Enterprise SSC, ATA Security, NVMe security and sanitize commands, and self-encrypting drives is an advantage
+Expertise in the use of programming languages (eg. C, C++, RUST), programming tools & environments
+Experience programming in Python for test automation, log parsing, and debug tooling is an advantage
+Understanding of storage interfaces including ideally PCIe/NVMe, SATA, or SAS
+Experience with NAND flash and other non-volatile storage is an advantage
+Experience in storage industry, storage systems, or a related technology is an advantage
+Proficiency in debugging and resolving code problems for firmware applications, including the use of debuggers, firmware trace and log analysis, and protocol analyzers
+Experience with defect tracking, change control, and firmware release processes in a production or sustaining environment
+Excellent written and verbal communication skills, with the ability to manage multiple concurrent escalations under time pressure and stay effective in customer visible situations
+Ability to apply baseline digital fluency and role-appropriate AI literacy to use AI-enabled tools responsibly and effectively for research, analysis, content creation, problem-solving, operational tasks, and achieving business outcomes.
+
+
+About Micron Technology, Inc.
+
+We are an industry leader in innovative memory and storage solutions transforming how the world uses information to enrich life for all. With a relentless focus on our customers, technology leadership, and manufacturing and operational excellence, Micron delivers a rich portfolio of high-performance DRAM, NAND, and NOR memory and storage products through our Micron® and Crucial® brands. Every day, the innovations that our people create fuel the data economy, enabling advances in artificial intelligence and 5G applications that unleash opportunities — from the data center to the intelligent edge and across the client and mobile user experience.
+
+To learn more, please visit micron.com/careers
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran or disability status.
+
+To request assistance with the application process and/or for reasonable accommodations, please contact hrsupport_sg@micron.com
+
+Micron Prohibits the use of child labor and complies with all applicable laws, rules, regulations, and other international and industry labor standards.
+
+Micron does not charge candidates any recruitment fees or unlawfully collect any other payment from candidates as consideration for their employment with Micron.
+
+AI alert: Candidates are encouraged to use AI tools to enhance their resume and/or application materials. However, all information provided must be accurate and reflect the candidate's true skills and experiences. Misuse of AI to fabricate or misrepresent qualifications will result in immediate disqualification.
+
+Fraud alert: Micron advises job seekers to be cautious of unsolicited job offers and to verify the authenticity of any communication claiming to be from Micron by checking the official Micron careers website in the About Micron Technology, Inc.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Computer Hardware Manufacturing, Appliances, Electrical, and Electronics Manufacturing, and Semiconductor Manufacturing
+  
+
+Referrals increase your chances of interviewing at Micron Technology by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Staff System Firmware Engineer
+Staff System Firmware Engineer
+Rockwell Automation
+Singapore, Singapore
+2 weeks ago
+Senior / Staff Engineer - Firmware Development (SSD)
+Senior / Staff Engineer - Firmware Development (SSD)
+Micron Technology
+Singapore, Singapore
+3 days ago
+Principal / Staff Engineer – Firmware Development
+Principal / Staff Engineer – Firmware Development
+Micron Technology
+Singapore, Singapore
+1 week ago
+Staff Firmware Engineer (Communication Protocol)
+Staff Firmware Engineer (Communication Protocol)
+Rockwell Automation
+Singapore, Singapore
+2 weeks ago
+Staff Engineer, Software
+Staff Engineer, Software
+Thermo Fisher Scientific
+Singapore, Singapore
+1 week ago
+Principal/Staff Engineer – Firmware Development
+Principal/Staff Engineer – Firmware Development
+WhiteCrow Research
+Singapore, Singapore
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Staff Engineer, Firmware Development (SSD)
+Staff Engineer, Firmware Development (SSD)
+
+Micron Technology
+
+Singapore, Singapore
+2 weeks ago
+Staff Engineer, Firmware Development (SSD)
+Staff Engineer, Firmware Development (SSD)
+
+Micron Technology
+
+Singapore, Singapore
+1 week ago
+Staff Engineer, Embedded Security, Firmware Development (SSD)
+Staff Engineer, Embedded Security, Firmware Development (SSD)
+
+Micron Technology
+
+Singapore, Singapore
+2 weeks ago
+Principal / Staff Engineer, Embedded Security, Firmware Development (SSD)
+Principal / Staff Engineer, Embedded Security, Firmware Development (SSD)
+
+Micron Technology
+
+Singapore, Singapore
+2 weeks ago
+Principal Engineer - Firmware Development (SSD)
+Principal Engineer - Firmware Development (SSD)
+
+Micron Technology
+
+Singapore, Singapore
+5 days ago
+Principal Engineer, Firmware Development (SSD)
+Principal Engineer, Firmware Development (SSD)
+
+Micron Technology
+
+Singapore, Singapore
+1 week ago
+Staff Engineer, SSD NIT
+Staff Engineer, SSD NIT
+
+Micron Technology
+
+Singapore, Singapore
+1 week ago
+Senior Engineer - Firmware Development (SSD)
+Senior Engineer - Firmware Development (SSD)
+
+Micron Technology
+
+Singapore, Singapore
+3 days ago
+Senior Engineer - Firmware Development (SSD)
+Senior Engineer - Firmware Development (SSD)
+
+Micron Technology
+
+Singapore, Singapore
+3 days ago
+Senior Engineer - Firmware Development (SSD)
+Senior Engineer - Firmware Development (SSD)
+
+Micron Technology
+
+Singapore, Singapore
+3 days ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Micron Technology
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
