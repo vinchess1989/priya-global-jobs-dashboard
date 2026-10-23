@@ -13666,5 +13666,22 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": null,
     "deletion_reason": "Deadline (2026-07-26) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Technical Business Analyst",
+    "company": "New Zealand Trade and Enterprise",
+    "location": "Auckland, New Zealand",
+    "url": "https://nz.linkedin.com/jobs/view/technical-business-analyst-at-new-zealand-trade-and-enterprise-4481183880",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The posting explicitly requires applicants to be legally entitled to live and work in New Zealand, and visa sponsorship is not offered.",
+    "id": "7e5902c7",
+    "source": "linkedin_nz_requirements_engineer",
+    "added_at": "2026-10-23T03:35:35+03:00",
+    "posted_date": "2026-10-23",
+    "deadline": "2025-11-05",
+    "eval_model": "gemini-vineeth-bits/gemini-3.5-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Deadline (2025-11-05) passed by more than 2 days and unreviewed"
   }
 ]
