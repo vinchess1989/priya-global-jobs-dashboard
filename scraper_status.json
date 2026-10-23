@@ -1,12 +1,12 @@
 {
-  "pid": 76292,
-  "started_at": "2026-10-23T02:20:09+03:00",
-  "heartbeat_at": "2026-10-23T03:53:55+03:00",
-  "phase": "reviewing",
-  "detail": "Technical Delivery Manager- Data",
-  "last_scrape_ok_at": "2026-10-23T03:50:03+03:00",
+  "pid": 78072,
+  "started_at": "2026-10-23T03:55:04+03:00",
+  "heartbeat_at": "2026-10-23T04:16:12+03:00",
+  "phase": "scraped",
+  "detail": "0 new jobs",
+  "last_scrape_ok_at": "2026-10-23T04:16:12+03:00",
   "last_error": {
-    "at": "2026-10-23T03:50:03+03:00",
+    "at": "2026-10-23T04:16:11+03:00",
     "message": "jobsinmalta_broad: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://jobsinmalta.com/jobs\nCall log:\n  - navigating to \"https://jobsinmalta.com/jobs\", waiting until \"load\"\n"
   }
 }
