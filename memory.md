@@ -5,6 +5,15 @@ Created 2026-09-27 as a sibling of [../priya_jobs](../priya_jobs/memory.md) (her
 board). The site list comes from a read-only probe of ~45 boards that day (details in
 priya_jobs/memory.md, "Trial: English-speaking countries").
 
+## Time-capped runs: yield ranking + clean `--once` exit (ported from priya_jobs 2026-10-23)
+
+- Runs start 01:00 via `JobScrapersSequentialMorning` with a 120 min budget. `rank_targets()` orders targets by
+  yield from `jobs.json` (`target_stats.json`, gitignored, seeded from logs); scraping gets 60% of the budget
+  (`SCRAPE_TIME_SHARE`), the rest reviews. Full description in priya_jobs/memory.md.
+- `--once` ends with `os._exit(0)` (the stdin daemon thread crashed interpreter shutdown, 0xC0000005, and the
+  orchestrator retried until killed); the orchestrator no longer retries past `SCRAPER_DEADLINE`. A final
+  `run_finished` heartbeat is pushed, and the dashboard badge shows "Scraper idle" for it.
+
 ## Firestore locked down; Python scripts use a service account (2026-09-28)
 
 `firestore.rules` used to leave `shared_state` / `user_feedback` readable and updatable by
