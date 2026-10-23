@@ -1,0 +1,279 @@
+Title: QA Engineer
+Company: Cyberlogic
+Location: Stellenbosch, Western Cape, South Africa
+URL: https://za.linkedin.com/jobs/view/qa-engineer-at-cyberlogic-4481908256
+Posted: 2026-10-24
+Deadline: Open until filled
+Reason: The role aligns with the candidate's expertise in quality assurance, release readiness, and traceability within a professional software engineering environment in a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+QA Engineer
+Cyberlogic  Stellenbosch, Western Cape, South Africa
+14 hours ago   Be among the first 25 applicants
+  
+
+See who Cyberlogic has hired for this role
+
+Apply 
+Save
+
+Job Title
+
+QA Engineer (Mid-Senior)
+
+Location
+
+Stellenbosch (Cape Town)
+
+Who we are
+
+Scriptex is a software engineering firm delivering modular, cloud native systems that help scale ups and enterprises accelerate innovation - without compromising on reliability or quality. We build composable frameworks and platforms that offer operational maturity from day one, enabling faster delivery and scalable software solutions.
+
+Who we are looking for
+
+We are looking for a QA Engineer that will ensure that software releases meet business requirements and quality standards through effective test planning, execution and defect management. Translate complex business processes into meaningful test coverage, investigate issues, and collaborate with developers, business analysts, stakeholders and clients. Communicate the testing approach and plans, share clear test outcomes and reports, and explain risks and defects to support informed decisions. Use appropriate QA toolsets—including agentic tools—to streamline test design and execution, analyse results and support defect investigation, applying sound judgement and validating tool-generated outputs.
+
+Responsibilities
+
+Review requirements, user stories and acceptance criteria to identify gaps, ambiguities and testing needs.
+Define test approaches based on business impact, technical complexity and risk.
+Create and maintain test scenarios, test cases and test data.
+Perform functional, integration, regression, exploratory and end-to-end testing across web applications, APIs and system integrations.
+Validate data accuracy and consistency using SQL queries.
+Log clear, reproducible defects with supporting evidence, assess their severity and verify fixes.
+Coordinate user acceptance testing and support business users throughout the process.
+Maintain traceability between requirements, tests and defects.
+Report test progress, coverage, outstanding defects and release risks.
+Provide evidence-based recommendations on release readiness.
+Identify opportunities for automation and contribute to automated regression coverage.
+
+Required Experience and Qualifications
+
+At least five years of software testing experience, including responsibility for testing complex business applications.
+A relevant qualification in Information Technology, Computer Science or a related field, or equivalent practical experience.
+Strong knowledge of the software development lifecycle, testing lifecycle and Agile delivery.
+Demonstrated experience testing web applications, APIs and integrations.
+Strong SQL skills for validating and investigating data.
+Experience with API testing tools such as Postman.
+Experience with test and defect management tools such as Azure DevOps, Jira or equivalent.
+Experience working independently and coordinating testing across multiple stakeholders.
+
+Advantageous Experience
+
+ISTQB certification.
+Hands-on experience with Playwright, Cypress, Selenium or a similar automation framework.
+Familiarity with CI/CD pipelines and automated test execution.
+Experience testing role-based permissions, approval workflows, pricing calculations, billing or procurement processes.
+Exposure to performance, accessibility and security testing.
+Experience with Microsoft Azure and SQL Server.
+Using AI-enabled or agentic tools to support test planning, test case design, test data preparation, exploratory testing, automation or defect investigation.
+
+Key Competencies
+
+Strong analytical thinking and attention to detail.
+Ability to prioritise testing according to risk and business impact.
+Clear written and verbal communication.
+Confidence to challenge unclear requirements and communicate release risks.
+Ownership of testing outcomes and follow-through on defects.
+A collaborative approach to solving problems and improving quality.
+
+Success measures
+
+Critical business workflows have appropriate test coverage.
+Defects are identified early and documented clearly.
+Stakeholders have reliable information for release decisions.
+Regression testing remains effective as the platform grows.
+Testing practices and team capability improve over time.
+
+Why us?
+
+Real Systems, Real Impact: We’re not hype-driven. We build systems people rely on.
+Modern Architecture, Day One Maturity: Help define what good looks like and how best to extend what we already have.
+End-to-End Ownership: From architecture and DevOps to deployment and evolution, you’ll see your impact through every stage.
+Hybrid Setup in Stellenbosch: Collaborate in person and remotely with a nimble, value-driven team.
+
+Join Us
+
+If you're passionate about crafting scalable, resilient systems - and are energised by the prospect of architecting tomorrow’s platforms – we want to hear from you
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Cyberlogic by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+QA Engineer
+QA Engineer
+impact.com
+Cape Town, Western Cape, South Africa
+1 week ago
+QA Engineer (Manual & Automation) - Cape Town
+QA Engineer (Manual & Automation) - Cape Town
+Pinewood.AI
+Cape Town, Western Cape, South Africa
+1 week ago
+Quality Assurance Engineer
+Quality Assurance Engineer
+Shop2Shop
+Stellenbosch, Western Cape, South Africa
+1 day ago
+Quality Assurance Engineer
+Quality Assurance Engineer
+DigiOutsource
+Cape Town, Western Cape, South Africa
+13 hours ago
+Quality Engineer
+Quality Engineer
+WeconnectU
+Durbanville, Western Cape, South Africa
+3 weeks ago
+QA Engineer
+QA Engineer
+Open Box Software
+Cape Town, Western Cape, South Africa
+3 weeks ago
+Show more jobs like this 
+People also viewed
+Quality Assurance Manager
+Quality Assurance Manager
+
+M3 Human Capital Management (Pty) Ltd
+
+Grabouw, Western Cape, South Africa
+4 days ago
+QA Pharmacist Assistant - Talent Pipeline
+QA Pharmacist Assistant - Talent Pipeline
+
+Biovac
+
+Cape Town, Western Cape, South Africa
+1 month ago
+Collections Quality Analyst
+Collections Quality Analyst
+
+Ascensos
+
+Cape Town, Western Cape, South Africa
+5 months ago
+Data Engineer
+Data Engineer
+
+Shop2Shop
+
+Stellenbosch, Western Cape, South Africa
+1 week ago
+Quality Controller - Clayville
+Quality Controller - Clayville
+
+SIGNAL HILL PRODUCTS
+
+Cape Town, Western Cape, South Africa
+1 month ago
+Quality Assurance Developer
+Quality Assurance Developer
+
+QE Services IT Recruitment
+
+Bellville, Western Cape, South Africa
+2 days ago
+Java Engineer - Platform (Pipeline)
+Java Engineer - Platform (Pipeline)
+
+Electrum
+
+Cape Town, Western Cape, South Africa
+1 month ago
+Platform Engineer
+Platform Engineer
+
+QE Services IT Recruitment
+
+Cape Town, Western Cape, South Africa
+1 week ago
+Agentic AI Engineer
+Agentic AI Engineer
+
+Ozow
+
+Cape Town, Western Cape, South Africa
+2 weeks ago
+Head of Quality
+Head of Quality
+
+CubeSpace ADCS
+
+Stellenbosch, Western Cape, South Africa
+2 weeks ago
+Similar Searches
+Software Quality Assurance Engineer jobs
+80 open jobs
+Software Test Engineer jobs
+90 open jobs
+Software Tester jobs
+99 open jobs
+Software Quality Assurance Tester jobs
+80 open jobs
+Software Quality Assurance Analyst jobs
+87 open jobs
+Contract Test Engineer jobs
+30 open jobs
+Software Quality Engineer jobs
+112 open jobs
+Test Engineer jobs
+3,829 open jobs
+Junior Test Engineer jobs
+49 open jobs
+Software Automation Engineer jobs
+326 open jobs
+Engineering Officer jobs
+297 open jobs
+Automation Test Analyst jobs
+116 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Cyberlogic
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

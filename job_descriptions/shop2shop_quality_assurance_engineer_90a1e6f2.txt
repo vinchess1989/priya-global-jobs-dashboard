@@ -1,0 +1,370 @@
+Title: Quality Assurance Engineer
+Company: Shop2Shop
+Location: Stellenbosch, Western Cape, South Africa
+URL: https://za.linkedin.com/jobs/view/quality-assurance-engineer-at-shop2shop-4481310309
+Posted: 2026-10-23
+Deadline: N/A
+Reason: The role aligns with the candidate's quality assurance and testing expertise, and it is located in South Africa, which is one of the target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Quality Assurance Engineer
+Shop2Shop  Stellenbosch, Western Cape, South Africa
+1 day ago  118 applicants
+  
+
+See who Shop2Shop has hired for this role
+
+Apply
+Save
+
+Direct message the job poster from Shop2Shop
+
+Nicole Kruger
+Nicole Kruger
+Talent Acquisition Specialist | Expert in Recruitment, Onboarding, Employee Relations, and Human Resource Projects
+
+About Shop2Shop
+
+The ability to make a payment quickly and at a low cost is an underestimated bedrock of our economy in South Africa. Payments are the financial lifeline of every business and individual. We are on a mission to help entrepreneurs participate and prosper in the digital economy by solving their payment challenges. When you join Shop2Shop, you join a team of people driven by a shared purpose for why we do what we do every day. The experience of collaboration across teams will be unrivalled. The feeling of belonging to a talented team of people will make this your last career stop. You will find a stimulating and challenging smorgasbord of problems to solve with the aim of supporting entrepreneurs in South Africa.
+
+
+
+
+Purpose of role:
+
+When a payment fails, a merchant loses a sale and a customer loses trust in us. The QA Engineer exists to find those failures before our merchants do.
+
+The QA Engineer tests Shop2Shop and Tap2Pay across Android and iOS apps, web dashboards and POS devices. The role combines hands-on manual testing with test automation, including AI-assisted automation, to validate new features, existing functionality and complete payment journeys, so that every release goes out with its risks known.
+
+Reporting to the QA Team Leader, you will own the testing assigned to you, from planning through to defect follow-up and reporting. You will keep test documentation clear and current, and work closely with developers, product teams and third-party providers to resolve issues and communicate release risk.
+
+Success = Payment issues are found in testing, not by our merchants, and every release goes out with its risks known.
+
+
+
+
+You’ll thrive in this role if…
+
+You think critically, question unclear requirements and explore what could go wrong beyond the happy path.
+You enjoy both sides of testing: the judgement of exploratory work and the discipline of building automation that holds up.
+You organise your work independently, follow issues through to resolution and raise blockers early.
+You are comfortable contacting developers, device suppliers and other service providers directly.
+You communicate clearly and enjoy practical troubleshooting.
+You understand the impact a failed payment has on a merchant, and you test with that in mind.
+
+
+
+
+What You’ll Do (and what success looks like)
+
+Product and Payment Testing
+
+Perform functional, exploratory, regression and smoke testing across Shop2Shop, Tap2Pay, Android and iOS apps, and the Admin, Agent and other relevant dashboards
+Test payment and transfer journeys, onboarding, KYC, account management and transaction history
+Test failed, cancelled and interrupted flows, not only successful ones
+Test on physical POS devices for relevant features and setup tasks
+
+Success = Payment journeys work on the devices our merchants actually use, including when a transaction fails or is interrupted.
+
+
+
+
+Test Automation
+
+Create, maintain and run automated tests using Cypress, Appium or similar tools, including AI-assisted automation
+Review AI-generated tests and their results for accuracy before relying on them
+Investigate automated test failures and separate real defects from test or environment issues
+Grow automated coverage of regression and core payment journeys, in line with the automation priorities set by the QA Team Leader
+
+Success = Automated tests are trusted because someone has checked them, and manual testing time goes where judgement is needed.
+
+
+
+
+Test Planning and Documentation
+
+Turn requirements and product changes into clear scenarios, test cases and test data
+Cover roles, permissions, feature flags, boundaries and error handling
+Maintain test coverage and execution results in TestRail
+Identify gaps in requirements and existing test coverage, and raise them early
+
+Success = Anyone in the team can see what was tested, what was not, and why.
+
+
+
+
+Defect Investigation and Follow-Through
+
+Log reproducible defects in ClickUp with steps, expected and actual results, build and device details, and supporting screenshots, recordings or logs
+Work with developers and providers to investigate issues
+Retest fixes and check for related regressions
+
+Success = Developers can reproduce and fix a defect from the report alone, without having to come back with questions.
+
+
+
+
+API Checks and Team Collaboration
+
+Use Postman, browser developer tools and device logs to investigate behaviour across systems
+Coordinate test dependencies and third-party queries
+Keep testing status and blockers current, and communicate release risks to the QA Team Leader ahead of sign-off
+Contribute to team planning and to improvements in QA practice
+
+
+
+
+Success = Issues are traced to the right system, team or provider quickly, and blockers never surprise a release.
+
+
+
+
+Core Competencies
+
+Detail Orientation – Catches what others miss; drives precision in test design, defect logging and release sign-off.
+Systems Thinking – Understands how QA fits within the broader engineering and product delivery system; sees upstream and downstream dependencies.
+Influence & Collaboration – Works effectively across engineering, product and DevOps to align on quality priorities and unblock delivery.
+Curiosity & Critical Thinking – Asks ‘why’ and ‘what if’ before jumping to ‘how’; applies analytical rigour to test design and defect investigation.
+Resilience – Stays focused, calm and constructive under release pressure or production incidents.
+Communication – Translates technical quality metrics and test outcomes into clear, actionable language for both technical peers and business stakeholders.
+
+
+
+
+Skills & Knowledge
+
+Strong manual testing skills, with practical knowledge of functional, exploratory, regression, smoke and integration testing, including boundary values, negative scenarios and role-based access
+Hands-on experience creating, maintaining and running automated tests using Cypress, Appium or similar tools, including AI-assisted automation
+Ability to design test scenarios from requirements, existing behaviour and customer journeys
+Ability to assess risk, prioritise testing and distinguish a symptom from its likely cause
+A structured approach to evidence, defect reporting and retesting, with close attention to transaction amounts, statuses, permissions and data consistency
+Experience testing web applications and mobile apps across browsers, devices and app versions
+Working knowledge of HTTP, JSON and API testing using Postman or similar tools
+Ability to use browser developer tools and capture useful logs; familiarity with Android tools such as ADB is advantageous
+Familiarity with test management and defect tracking tools; the team uses TestRail and ClickUp
+Working knowledge of Git
+Ability to manage assigned work with limited supervision and communicate progress and uncertainty clearly
+
+
+
+
+Experience & Qualifications
+
+2–5 years of practical software QA experience, covering both hands-on manual testing and test automation for web and mobile applications
+Relevant IT qualification or equivalent practical experience
+ISTQB certification (advantageous)
+Experience in payments, fintech, POS devices or transaction processing (advantageous)
+Experience using AI tools to assist with test design and documentation, with careful review of the output (advantageous)
+
+
+
+
+Growth Mindset
+
+At Shop2Shop, we believe growth is part of the job, not just for the company, but for every individual. In this role, you are expected to:
+
+Embrace continuous learning and stay curious about your craft
+Seek feedback and reflect on both successes and setbacks
+Set personal development goals and take ownership of your growth
+Support others in their growth journeys through knowledge sharing and collaboration
+Stay open to change and adapt quickly in a fast-paced environment
+
+
+
+
+This role is for someone who takes pride in their craft and wants to keep raising the quality bar for the people around them.
+
+
+
+
+Other Requirements
+
+Hybrid working model with regular in-office presence in Stellenbosch based on team rhythms, collaboration needs, and business requirements
+Ability to be available for key planning sessions, stakeholder workshops, and in-person team collaboration when required
+Reliable connectivity and a suitable remote working setup for work-from-home days
+Responsible handling of customer information, test accounts and payment data, following company procedures
+
+
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at Shop2Shop by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Quality Engineer
+Quality Engineer
+WeconnectU
+Durbanville, Western Cape, South Africa
+3 weeks ago
+QA Engineer
+QA Engineer
+impact.com
+Cape Town, Western Cape, South Africa
+1 week ago
+QA Engineer
+QA Engineer
+Cyberlogic
+Stellenbosch, Western Cape, South Africa
+14 hours ago
+QA Engineer (Manual & Automation) - Cape Town
+QA Engineer (Manual & Automation) - Cape Town
+Pinewood.AI
+Cape Town, Western Cape, South Africa
+1 week ago
+Quality Assurance Engineer
+Quality Assurance Engineer
+DigiOutsource
+Cape Town, Western Cape, South Africa
+1 week ago
+QA Engineer
+QA Engineer
+Open Box Software
+Cape Town, Western Cape, South Africa
+3 weeks ago
+Show more jobs like this 
+People also viewed
+Graduate Engineer
+Graduate Engineer
+
+Thales Aerospace Communications
+
+City of Cape Town, Western Cape, South Africa
+3 weeks ago
+Quality Assurance Manager
+Quality Assurance Manager
+
+M3 Human Capital Management (Pty) Ltd
+
+Grabouw, Western Cape, South Africa
+4 days ago
+QA Systems Lead - Talent Pipeline
+QA Systems Lead - Talent Pipeline
+
+Biovac
+
+Cape Town, Western Cape, South Africa
+1 month ago
+QC Inspector - Talent Pooling
+QC Inspector - Talent Pooling
+
+Biovac
+
+Cape Town, Western Cape, South Africa
+1 week ago
+Collections Quality Analyst
+Collections Quality Analyst
+
+Ascensos
+
+Cape Town, Western Cape, South Africa
+5 months ago
+Quality Controller - Clayville
+Quality Controller - Clayville
+
+SIGNAL HILL PRODUCTS
+
+Cape Town, Western Cape, South Africa
+1 month ago
+Automation & Integration Software Engineer
+Automation & Integration Software Engineer
+
+Hewlett Packard Enterprise
+
+Cape Town, Western Cape, South Africa
+1 week ago
+Intern: Quality - Stellenbosch
+Intern: Quality - Stellenbosch
+
+The HEINEKEN Company
+
+Stellenbosch, Western Cape, South Africa
+4 days ago
+Curriculum Quality Assurance Specialist
+Curriculum Quality Assurance Specialist
+
+Red & Yellow Creative School of Business
+
+City of Cape Town, Western Cape, South Africa
+3 days ago
+Associate Director - Quality
+Associate Director - Quality
+
+Ascensos
+
+Cape Town, Western Cape, South Africa
+3 months ago
+Similar Searches
+Software Quality Assurance Engineer jobs
+80 open jobs
+Software Test Engineer jobs
+90 open jobs
+Software Tester jobs
+99 open jobs
+Software Quality Assurance Tester jobs
+80 open jobs
+Software Quality Assurance Analyst jobs
+87 open jobs
+Contract Test Engineer jobs
+30 open jobs
+Software Quality Engineer jobs
+112 open jobs
+Test Engineer jobs
+3,829 open jobs
+Junior Test Engineer jobs
+49 open jobs
+Software Automation Engineer jobs
+326 open jobs
+Engineering Officer jobs
+297 open jobs
+Automation Test Analyst jobs
+116 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Shop2Shop
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
