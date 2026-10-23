@@ -13649,5 +13649,22 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": null,
     "deletion_reason": "Deadline (2025-10-23) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Project Officer, Technical Writer",
+    "company": "Office of Sport NSW",
+    "location": "Olympic Park, NSW, Australia",
+    "url": "https://au.jora.com/job/Technical-Writer-a08c9e09a5137fec1320b4ae67f889ba",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role requires the candidate to be an Australian or New Zealand citizen, permanent resident, or hold a valid Australian working visa at the time of application, which the candidate does not currently possess.",
+    "id": "e4e4b697",
+    "source": "jora_au_technical_writer",
+    "added_at": "2026-10-23T03:14:54+03:00",
+    "posted_date": "2025-03-02",
+    "deadline": "2026-07-26",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-07-26) passed by more than 2 days and unreviewed"
   }
 ]
