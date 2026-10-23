@@ -1,0 +1,260 @@
+Title: DevOps Engineer | Live Entertainment Company
+Company: Jobgether
+Location: Ireland
+URL: https://ie.linkedin.com/jobs/view/devops-engineer-live-entertainment-company-at-jobgether-4481669357
+Posted: 2026-10-24
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in DevOps, CI/CD, and Azure infrastructure, and it is located in Ireland, which is a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer | Live Entertainment Company
+Jobgether  Ireland
+13 hours ago   Be among the first 25 applicants
+  
+
+See who Jobgether has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+This position is listed on behalf of a partner company, which manages all applications and next steps. Our partner is looking for a DevOps Engineer | Live Entertainment Company based in Ireland.
+
+Join a technology team supporting large-scale live entertainment productions and high-traffic ticketing platforms across multiple European markets. As a DevOps Engineer, you will build, secure, and operate cloud infrastructure on Microsoft Azure, enabling reliable application delivery and seamless digital experiences. You will work with Kubernetes, containerized workloads, and infrastructure as code to develop scalable, resilient, and secure platforms. Collaborating closely with platform leadership and product development teams, you will help modernize infrastructure and streamline deployment processes. Your work will span networking, automation, observability, security, and continuous delivery in a complex, business-critical environment. This is an opportunity to take ownership of essential cloud platforms while helping technology teams deliver dependable services in the fast-paced live entertainment industry.
+
+Accountabilities
+
+
+Build and maintain cloud infrastructure: Design, provision, and manage Microsoft Azure resources using Terraform, applying modular infrastructure-as-code practices and maintaining consistency across multiple environments.
+Manage Azure networking: Implement and operate secure hub-and-spoke network architectures, including virtual network peering, subnet design, IP address planning, and private connectivity between services.
+Operate Kubernetes platforms: Provision, maintain, and optimize Azure Kubernetes Service (AKS) clusters and production container workloads, including node pools, autoscaling, ingress controllers, and cluster upgrades.
+Develop CI/CD pipelines: Build and maintain automated delivery workflows using GitHub Actions and/or Azure DevOps Pipelines to build container images, execute tests, publish artifacts, and deploy infrastructure and applications.
+Implement GitOps delivery: Support reliable, repeatable application deployments to Kubernetes through GitOps workflows and appropriate configuration management practices.
+Support application delivery: Help development teams build, containerize, deploy, and troubleshoot applications, particularly PHP and Node.js/React workloads, without requiring primary ownership of application development.
+Configure routing and edge security: Manage DNS, TLS certificates, ingress, and gateway or web application firewall configurations to ensure secure and reliable application access.
+Establish monitoring and observability: Implement centralized logging, metrics, dashboards, and proactive alerting using Azure Monitor, Log Analytics, Application Insights, and related tools.
+Strengthen cloud security: Establish and maintain identity and access controls, Managed Identities, Azure RBAC, secrets management, and security policies across infrastructure and application environments.
+Improve operational reliability: Investigate incidents, troubleshoot infrastructure and deployment issues, identify operational risks, and implement improvements that enhance platform stability and performance.
+Contribute to technical architecture: Participate in architectural discussions, review technical proposals, document design decisions, maintain operational runbooks, and help establish engineering best practices.
+Enable developer productivity: Support local development environments, Dockerfiles, Docker Compose configurations, and shared debugging workflows to make application development and deployment more efficient.
+
+
+Requirements
+
+
+Professional experience: At least three years of experience in DevOps or platform engineering, including a minimum of two years supporting Microsoft Azure environments in production.
+Azure platform expertise: Strong understanding of Azure resource hierarchy, including Management Groups, Subscriptions, and Resource Groups, as well as resource naming and tagging conventions.
+Identity and access management: Hands-on experience with Microsoft Entra ID, Azure RBAC, Managed Identities, and secure access management.
+Core Azure services: Practical knowledge of Storage Accounts, Azure Key Vault, Azure Container Registry (ACR), and Log Analytics.
+Infrastructure as code: Strong Terraform skills, including modular code development, remote state management, multiple environments, and state locking.
+Scripting and operating systems: Working knowledge of Linux, Bash, PowerShell, and Git-based version control.
+Containerization: Experience building, optimizing, and troubleshooting Dockerfiles, along with managing local development environments using Docker Compose.
+Kubernetes and AKS: Production experience provisioning and operating AKS clusters, managing node pools and autoscaling, configuring ingress controllers, and performing cluster upgrades. Familiarity with Deployments, Services, ConfigMaps, Secrets, Helm charts, and troubleshooting with kubectl is essential.
+Cloud networking: Understanding of hub-and-spoke topologies, virtual network peering, subnet architecture, CIDR planning, Network Security Groups, and NAT Gateways.
+Private connectivity: Hands-on experience securing Azure platform services through Private Endpoints, Private Link, and Azure Private DNS Zones.
+Secure administrative access: Familiarity with Azure Bastion and VPN Gateway configurations, including Site-to-Site and Point-to-Site connectivity.
+CI/CD automation: Experience implementing deployment pipelines with GitHub Actions or Azure DevOps Pipelines, including container image builds, testing, artifact publishing, and Terraform execution.
+Monitoring and troubleshooting: Knowledge of Azure Monitor, Log Analytics, basic Kusto Query Language (KQL), Application Insights, and alert configuration.
+Application delivery knowledge: Familiarity with deploying PHP and Node.js/React applications is a strong advantage, particularly in containerized environments.
+English proficiency: Upper-intermediate English or higher, with the ability to communicate effectively in technical discussions and cross-functional collaboration.
+Problem-solving and ownership: A proactive, analytical approach to troubleshooting, risk identification, continuous improvement, and operational reliability.
+Collaboration and communication: Ability to work effectively with platform engineers, developers, and technical stakeholders, document solutions clearly, and contribute to architectural decisions.
+
+
+The Following Skills And Qualifications Are Considered Advantageous
+
+
+Advanced networking: Experience with Azure Firewall, User-Defined Routes, forced tunneling, Application Security Groups, and Azure DNS Private Resolver.
+Edge and traffic management: Familiarity with Azure Front Door, Application Gateway, Cloudflare services, content delivery networks, web application firewalls, Zero Trust, and the Cloudflare Terraform Provider.
+Advanced Kubernetes and GitOps: Knowledge of Argo CD, Flux, Workload Identity, OIDC federation, Azure CNI Overlay, Cilium, Kubernetes Network Policies, cert-manager, external-dns, and KEDA.
+Security and governance: Experience with Azure Policy, Microsoft Defender for Cloud, container vulnerability scanning tools such as Trivy, and infrastructure-as-code security tools such as TFLint and Checkov.
+Additional Azure services: Exposure to Azure Container Apps, App Service, Azure Functions, Azure Database for PostgreSQL or MySQL Flexible Server, Azure Managed Redis, and Service Bus.
+Cloud architecture: Familiarity with Azure Landing Zones, the Cloud Adoption Framework (CAF), Virtual WAN, and ExpressRoute.
+Relevant certifications: AZ-104, AZ-700, AZ-400, Certified Kubernetes Administrator (CKA), or HashiCorp Certified: Terraform Associate.
+
+
+Benefits
+
+
+Full-time, long-term opportunity: A stable engagement focused on building and operating essential cloud infrastructure.
+European working hours: Work within European time zones to collaborate effectively with distributed teams.
+Immediate start: An opportunity to join the team as soon as possible.
+Technical ownership: Take responsibility for production Azure platforms, Kubernetes infrastructure, networking, security, and deployment automation.
+Complex engineering challenges: Work with modern cloud technologies and high-traffic digital platforms in a demanding, business-critical environment.
+Cross-functional collaboration: Partner with platform leadership and product development teams to improve infrastructure and application delivery.
+Professional development: Expand your expertise across Azure architecture, Kubernetes, Terraform, GitOps, cloud security, and observability.
+Meaningful operational impact: Help ensure reliable digital services that support live entertainment productions and ticketing experiences across multiple countries.
+
+
+How Jobgether Works
+
+We use an AI-powered matching process to ensure your application is reviewed quickly, objectively, and fairly against the role's core requirements. Our system identifies the top-fitting candidates, and this shortlist is then shared directly with the hiring company. The final decision and next steps (interviews, assessments) are managed by their internal team.
+
+We appreciate your interest and wish you the best!
+
+Why Apply Through Jobgether?
+
+Data Privacy Notice: By submitting your application, you acknowledge that Jobgether will process your personal data to evaluate your candidacy and share relevant information with the hiring employer. This processing is based on legitimate interest and pre-contractual measures under applicable data protection laws (including GDPR). You may exercise your rights (access, rectification, erasure, objection) at any time.
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Internet Marketplace Platforms
+  
+
+Referrals increase your chances of interviewing at Jobgether by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Site Reliability Engineer
+Site Reliability Engineer
+ElevenLabs
+Dublin, County Dublin, Ireland
+1 week ago
+Cloud Ops Engineer
+Cloud Ops Engineer
+Dotmatics
+Ireland
+4 weeks ago
+Infrastructure Engineer
+Infrastructure Engineer
+ElevenLabs
+Dublin, County Dublin, Ireland
+2 weeks ago
+Senior DevOps Engineer, EMEA
+Senior DevOps Engineer, EMEA
+Keeper Security, Inc.
+Ireland
+2 weeks ago
+Senior Platform Engineer
+Senior Platform Engineer
+Attio
+Ireland
+2 weeks ago
+Platform Engineer
+Platform Engineer
+Mason Alexander
+Ireland
+3 days ago
+Show more jobs like this 
+People also viewed
+Site Reliability Engineer - Cloud Infrastructure
+Site Reliability Engineer - Cloud Infrastructure
+
+TikTok
+
+Dublin, County Dublin, Ireland
+5 hours ago
+DevOps Engineer | Hybrid | Dublin | Up to €65K
+DevOps Engineer | Hybrid | Dublin | Up to €65K
+
+Ingenio Global
+
+Dublin, County Dublin, Ireland
+1 day ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+DoiT
+
+Ireland
+3 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Insight Global
+
+Letterkenny, County Donegal, Ireland
+3 days ago
+System Engineer
+System Engineer
+
+Harvey Nash
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+Senior Production Engineer
+Senior Production Engineer
+
+Whatnot
+
+Dublin, County Dublin, Ireland
+€131,000 - €145,000
+2 weeks ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+Rent The Runway
+
+Galway, County Galway, Ireland
+6 days ago
+Cloud Infrastructure/Engineer
+Cloud Infrastructure/Engineer
+
+Mars Capital
+
+Dublin 4, County Dublin, Ireland
+1 week ago
+DevSecOps Engineer
+DevSecOps Engineer
+
+Holafly
+
+Dublin, County Dublin, Ireland
+2 days ago
+Data Platform Engineer (Mid-level)
+Data Platform Engineer (Mid-level)
+
+Jobgether
+
+Ireland
+9 hours ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

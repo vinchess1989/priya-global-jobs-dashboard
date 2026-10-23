@@ -1,0 +1,287 @@
+Title: Platform Engineer
+Company: Exalto Consulting
+Location: City of Cape Town, Western Cape, South Africa
+URL: https://za.linkedin.com/jobs/view/platform-engineer-at-exalto-consulting-4482719309
+Posted: 2026-10-23
+Deadline: N/A
+Reason: The role aligns with the candidate's expertise in CI/CD, infrastructure automation, and auditable change processes, and it is located in a target country (South Africa) with no explicit visa restrictions mentioned.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Platform Engineer
+Exalto Consulting  City of Cape Town, Western Cape, South Africa
+1 day ago  35 applicants
+  
+
+See who Exalto Consulting has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Exalto Consulting provided pay range
+
+This range is provided by Exalto Consulting. Your actual pay will be based on your skills and experience — talk with your recruiter to learn more.
+
+Base pay range
+ZAR 75,000.00/mo - ZAR 91,000.00/mo
+
+Direct message the job poster from Exalto Consulting
+
+Seth Parkin
+Seth Parkin
+Recruitment Consultant @ Exalto Consulting | Technology Recruitment
+
+Cloud Platform Engineer
+
+Claremont, Cape Town
+
+
+
+
+We’re looking for a Cloud Platform Engineer to help build, automate and maintain secure, reliable cloud infrastructure across Azure and AWS.
+
+
+
+
+Joining the Group IT Operations team, you’ll combine hands-on cloud engineering with operational support and infrastructure modernisation. You’ll work closely with development, security and infrastructure colleagues to improve how environments are deployed, monitored and maintained.
+
+
+
+
+The role
+
+
+
+
+Build and operate Azure and AWS infrastructure across compute, networking, identity, storage and platform services.
+Develop reusable Terraform modules and standardise environments to reduce configuration drift.
+Build infrastructure deployment pipelines using GitHub, including validation, compliance checks and security scanning.
+Improve availability, disaster recovery, monitoring and incident response.
+Troubleshoot infrastructure issues and manage patching, performance and cloud costs.
+Deliver migrations, upgrades and deployments, supporting development teams with production releases.
+Maintain clear documentation, runbooks and auditable change processes.
+Share knowledge and mentor colleagues in cloud engineering, infrastructure as code and automation.
+
+
+
+
+What you’ll bring
+
+
+
+
+Proven experience managing enterprise infrastructure, including servers, storage, networking and virtualisation.
+Experience modernising infrastructure and services using cloud technologies.
+Practical knowledge of Azure and/or AWS, Terraform and CI/CD pipelines.
+Strong knowledge of containerisation, scripting and Windows Server and/or Linux administration.
+Familiarity with backup, disaster recovery, business continuity and database technologies.
+A security-focused approach to infrastructure design and operations.
+Strong troubleshooting skills and the ability to explain technical issues clearly to different audiences.
+The ability to manage competing priorities and deliver projects to agreed timescales.
+
+
+
+
+Technology environment
+
+
+
+
+The wider environment includes Docker, Kubernetes, PowerShell, Python, GitHub, GitLab, ArgoCD, Octopus Deploy, Azure/AWS PaaS, New Relic, Cloudflare, HashiCorp tooling, Zerto, VMware and Dell EMC storage.
+
+
+
+
+Qualifications
+
+
+
+
+A degree in Computer Science or an equivalent field, alongside relevant cloud administration and infrastructure as code and/or containerisation accreditations.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Staffing and Recruiting
+  
+
+Referrals increase your chances of interviewing at Exalto Consulting by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Platform Engineer
+Platform Engineer
+Share
+Cape Town, Western Cape, South Africa
+1 month ago
+Senior Platform Engineer
+Senior Platform Engineer
+DeARX
+Stellenbosch, Western Cape, South Africa
+1 week ago
+Platform Engineer
+Platform Engineer
+QE Services IT Recruitment
+Cape Town, Western Cape, South Africa
+1 week ago
+Cloud Platform Engineer
+Cloud Platform Engineer
+Healix International
+Cape Town, Western Cape, South Africa
+1 day ago
+Senior Platform Engineer
+Senior Platform Engineer
+DigiOutsource
+Cape Town, Western Cape, South Africa
+2 weeks ago
+System Engineer (Platform Infrastructure)
+System Engineer (Platform Infrastructure)
+Vista
+Cape Town, Western Cape, South Africa
+4 months ago
+Show more jobs like this 
+People also viewed
+Senior AWS DevOps Engineer
+Senior AWS DevOps Engineer
+
+RELX
+
+Western Cape, South Africa
+2 months ago
+Systems & Automation Engineer - QSR
+Systems & Automation Engineer - QSR
+
+Hungry Lion
+
+Stellenbosch, Western Cape, South Africa
+1 month ago
+System Engineer
+System Engineer
+
+Diamond Key International Group
+
+City of Cape Town, Western Cape, South Africa
+1 week ago
+Systems Integration Engineer
+Systems Integration Engineer
+
+Entersekt
+
+Stellenbosch, Western Cape, South Africa
+4 days ago
+Data Engineer
+Data Engineer
+
+Capitec
+
+Stellenbosch, Western Cape, South Africa
+1 week ago
+IT Remote Project Engineer
+IT Remote Project Engineer
+
+FusionTek
+
+Cape Town, Western Cape, South Africa
+ZAR 500,000 - ZAR 800,000
+2 weeks ago
+Senior Cloud Infrastructure Engineer
+Senior Cloud Infrastructure Engineer
+
+Optimal Growth Technologies
+
+Cape Town, Western Cape, South Africa
+1 month ago
+AI-Focused DevOps Engineer
+AI-Focused DevOps Engineer
+
+Full Stack
+
+City of Cape Town, Western Cape, South Africa
+5 months ago
+Staff Engineer - CapeTown
+Staff Engineer - CapeTown
+
+Lead Forensics
+
+Cape Town, Western Cape, South Africa
+1 month ago
+Data Principal Engineer
+Data Principal Engineer
+
+takealot.com
+
+Cape Town, Western Cape, South Africa
+3 months ago
+Similar Searches
+Site Reliability Engineer jobs
+1,083 open jobs
+Infrastructure Engineer jobs
+360 open jobs
+Linux Engineer jobs
+269 open jobs
+Senior Infrastructure Engineer jobs
+155 open jobs
+Virtualization Engineer jobs
+78 open jobs
+Unix Engineer jobs
+38 open jobs
+Cloud Architect jobs
+324 open jobs
+System Development Engineer jobs
+3,642 open jobs
+Senior Reliability Engineer jobs
+28 open jobs
+Linux System Engineer jobs
+240 open jobs
+Database Engineer jobs
+270 open jobs
+Linux System Administrator jobs
+35 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

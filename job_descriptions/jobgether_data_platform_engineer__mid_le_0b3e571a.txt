@@ -1,0 +1,274 @@
+Title: Data Platform Engineer (Mid-level)
+Company: Jobgether
+Location: South Africa
+URL: https://za.linkedin.com/jobs/view/data-platform-engineer-mid-level-at-jobgether-4481670985
+Posted: 2026-10-24
+Deadline: N/A
+Reason: The role focuses on CI/CD pipeline ownership, infrastructure-as-code, and technical documentation, which aligns perfectly with the candidate's extensive experience in release management and DevOps.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Data Platform Engineer (Mid-level)
+Jobgether  South Africa
+9 hours ago   Be among the first 25 applicants
+  
+
+See who Jobgether has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+This position is listed on behalf of a partner company, which manages all applications and next steps. Our partner is looking for a Data Platform Engineer (Mid-level) based in South Africa.
+
+In this role, you will help transform an established data and machine learning platform into a scalable, self-service environment that empowers engineering teams to work independently. You will build and improve deployment pipelines, infrastructure-as-code modules, and reusable tooling that makes data services easier to launch, manage, and maintain. Working across data engineering, backend development, and infrastructure, you will contribute to reliable systems that support a global shipping and fulfillment platform. You will join an experienced Data & AI team with established engineering standards, giving you a solid foundation to make a tangible impact from your first weeks. The position offers increasing ownership, with the opportunity to lead the roadmap for shared platform tooling within your first six months. You will also work in an AI-enabled engineering culture that values technical judgment, accountability, and the ability to explain and validate the code you deliver.
+
+Accountabilities
+
+
+Improve CI/CD pipelines: Analyze existing deployment pipelines, determine the requirements of new tasks, and adapt established workflows to support reliable, repeatable software delivery.
+Develop infrastructure-as-code: Extend and maintain infrastructure modules in line with existing repository patterns, ensuring consistency, reliability, and maintainability across services.
+Apply data governance standards: Implement naming conventions, access controls, retention policies, and other governance requirements for new data services and infrastructure.
+Build self-service platform tooling: Develop and maintain a reusable template repository with preconfigured CI/CD, infrastructure-as-code, and governance standards so engineering teams can launch new pipelines with minimal manual intervention.
+Create reusable modules: Build tools and modules that simplify pipeline creation and reduce repetitive engineering work, making common platform tasks accessible through standardized workflows.
+Improve technical documentation: Write practical documentation, runbooks, and troubleshooting guides that help engineers understand and operate systems independently without relying on individual team members.
+Own data access workflows: Design and manage access-request processes for data resources, reducing bottlenecks and enabling teams to obtain the permissions they need efficiently.
+Take ownership of platform tooling: Progress toward full responsibility for the template repository and infrastructure modules, including technical direction, prioritization, maintenance, and roadmap decisions.
+Collaborate across engineering disciplines: Work with data engineers, backend engineers, and infrastructure specialists to improve platform reliability and make shared tools useful across teams.
+Use AI tools responsibly: Incorporate AI-assisted development tools into everyday workflows while validating generated code, identifying potential errors, and explaining the reasoning behind technical decisions.
+
+
+Requirements
+
+
+Deployment ownership: Demonstrated experience independently owning a deployment path end to end, including building a pipeline, troubleshooting failures, resolving production issues, and documenting the solution in a runbook.
+Professional experience: Approximately two years or more of professional experience in software, data, platform, DevOps, or infrastructure engineering.
+Technical education: A degree in Computer Science, Engineering, or a related field.
+Python and SQL: Practical working knowledge of both languages and the ability to use them regularly in professional engineering tasks.
+CI/CD and infrastructure-as-code: Experience working with deployment pipelines and infrastructure-as-code practices, with the ability to understand, adapt, and improve existing implementations.
+Code analysis and troubleshooting: Ability to navigate an unfamiliar codebase, explain how it works, identify potential failure points, and make sound technical judgments.
+Containers and cloud: Experience with Docker and familiarity with cloud computing concepts, particularly AWS. Previous experience with specific services such as SageMaker is not required.
+Cross-functional technical skills: Willingness and ability to work across data engineering, backend systems, and infrastructure rather than focusing exclusively on one area.
+AI-assisted development: Comfortable using AI coding assistants such as Copilot, Claude, or Cursor. You must be able to review generated code critically, explain why it is correct, and recognize when it is inaccurate or unsafe.
+Ownership and accountability: A proactive mindset, willingness to take responsibility for systems you modify, and honesty about failures, root causes, and lessons learned.
+Respect for established patterns: Ability to understand existing architecture and engineering conventions before deciding what should change.
+Communication and reasoning: Comfortable explaining technical decisions, defending implementation choices, and being evaluated on reasoning as well as delivery.
+Learning mindset: Motivated to develop new skills and explore unfamiliar tools. Prior experience with every technology or the specific business domain is not required.
+
+
+Benefits
+
+
+Competitive salary: Annual compensation ranging from €33,000 to €43,000, determined through an objective salary assessment process.
+Remote flexibility: Work remotely from anywhere worldwide, with company-funded trips to headquarters for team meetups.
+Meal vouchers: Meal vouchers available to remote and office-based employees.
+Mental health and fitness support: Benefits designed to support physical and mental well-being.
+Learning and development: An annual learning budget to support professional growth and technical development.
+AI tools: Access to AI-powered tools for everyday engineering work and experimentation.
+Home office allowance: A one-time allowance to help set up a comfortable and productive workspace.
+Flexible working approach: No clock-in or clock-out policy, supporting autonomy and a focus on results.
+Birthday leave: An additional day off to celebrate your birthday.
+Career Growth Program: Clear development pathways, structured goals, and ongoing feedback to support career progression.
+International team: Collaborate with colleagues in a fast-moving environment that values high-quality engineering, ownership, and continuous improvement.
+Meaningful technical responsibility: Build on an established platform and progressively take ownership of core infrastructure tooling and its roadmap.
+
+
+How Jobgether Works
+
+We use an AI-powered matching process to ensure your application is reviewed quickly, objectively, and fairly against the role's core requirements. Our system identifies the top-fitting candidates, and this shortlist is then shared directly with the hiring company. The final decision and next steps (interviews, assessments) are managed by their internal team.
+
+We appreciate your interest and wish you the best!
+
+Why Apply Through Jobgether?
+
+Data Privacy Notice: By submitting your application, you acknowledge that Jobgether will process your personal data to evaluate your candidacy and share relevant information with the hiring employer. This processing is based on legitimate interest and pre-contractual measures under applicable data protection laws (including GDPR). You may exercise your rights (access, rectification, erasure, objection) at any time.
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+
+
+Show more 
+Seniority level
+Entry level
+Employment type
+Full-time
+Industries
+Internet Marketplace Platforms
+  
+
+Referrals increase your chances of interviewing at Jobgether by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Junior Data Engineer | Remote (UTC - UTC+3)
+Junior Data Engineer | Remote (UTC - UTC+3)
+JUMO
+South Africa
+1 month ago
+Data Engineer - Research and Automation
+Data Engineer - Research and Automation
+HIREXE
+South Africa
+1 day ago
+Data & Integration Engineer (AI & Automation) - SA
+Data & Integration Engineer (AI & Automation) - SA
+T-Tech
+South Africa
+3 weeks ago
+Analytics Engineer
+Analytics Engineer
+Lyra Health
+Johannesburg, Gauteng, South Africa
+4 days ago
+Data Engineer
+Data Engineer
+Tenth Revolution Group
+City of Cape Town, Western Cape, South Africa
+1 week ago
+Data & Analytics Engineer
+Data & Analytics Engineer
+Curvion Blue
+South Africa
+$8 - $10
+3 weeks ago
+Show more jobs like this 
+People also viewed
+Site Reliability Engineer
+Site Reliability Engineer
+
+Kiberon Labs
+
+City of Cape Town, Western Cape, South Africa
+4 days ago
+Data Engineer III
+Data Engineer III
+
+RELX
+
+Johannesburg, Gauteng, South Africa
+2 months ago
+Forward Deployed Engineer (Cloud & Data)
+Forward Deployed Engineer (Cloud & Data)
+
+Badger & Bird Talent
+
+Johannesburg, Gauteng, South Africa
+ZAR 85,000 - ZAR 110,000
+2 weeks ago
+Data Engineer
+Data Engineer
+
+Pepkor Lifestyle
+
+Sandton, Gauteng, South Africa
+2 weeks ago
+Data Engineer
+Data Engineer
+
+Nedbank
+
+Johannesburg, Gauteng, South Africa
+1 week ago
+AI Integration Engineer (Remote, East London)
+AI Integration Engineer (Remote, East London)
+
+Blacksmith Agency
+
+South Africa
+2 days ago
+Intermediate Data Solutions Engineer
+Intermediate Data Solutions Engineer
+
+Entelect
+
+City of Johannesburg, Gauteng, South Africa
+1 month ago
+Automation Engineer (Remote, Knysna)
+Automation Engineer (Remote, Knysna)
+
+Blacksmith Agency
+
+South Africa
+5 days ago
+Machine Learning Engineer
+Machine Learning Engineer
+
+Ikue
+
+South Africa
+1 year ago
+Data Engineers - Western Cape (12-month contract)
+Data Engineers - Western Cape (12-month contract)
+
+DeARX
+
+Western Cape, South Africa
+1 week ago
+Similar Searches
+Site Reliability Engineer jobs
+1,083 open jobs
+Infrastructure Engineer jobs
+360 open jobs
+Linux Engineer jobs
+269 open jobs
+Senior Infrastructure Engineer jobs
+155 open jobs
+Virtualization Engineer jobs
+78 open jobs
+Unix Engineer jobs
+38 open jobs
+Cloud Architect jobs
+324 open jobs
+System Development Engineer jobs
+3,642 open jobs
+Senior Reliability Engineer jobs
+28 open jobs
+Linux System Engineer jobs
+240 open jobs
+Database Engineer jobs
+270 open jobs
+Linux System Administrator jobs
+35 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
