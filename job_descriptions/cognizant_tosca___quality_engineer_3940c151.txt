@@ -1,0 +1,258 @@
+Title: TOSCA - Quality Engineer
+Company: Cognizant
+Location: Sydney, New South Wales, Australia
+URL: https://au.linkedin.com/jobs/view/tosca-quality-engineer-at-cognizant-4477510538
+Posted: 26
+Deadline: Open until filled
+Reason: The role aligns with the candidate's background in quality engineering, requirements traceability, and CI/CD, and it is located in an eligible country (Australia).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+TOSCA - Quality Engineer
+Cognizant  Sydney, New South Wales, Australia
+1 week ago  51 applicants
+  
+
+See who Cognizant has hired for this role
+
+Apply 
+Save
+What makes Cognizant a unique place to work? The combination of rapid growth and a unique place international and innovative environment! This is creating many opportunities for people like YOU — people with an entrepreneurial spirit who want to make a difference in this world.
+
+At Cognizant, together with your colleagues from all around the world, you will collaborate on creating solutions for the world's leading companies and help them become more flexible, more innovative, and successful. Moreover, this is your chance to be part of the success story.
+
+Position Summary
+
+Senior Quality Engineer who can work on Implements, maintains, and reviews payments application functionalities of point of sale and self checkout to ensure all the end to end business flows working as expected after the new changes deployed on the POS and SCO with all the hardware combinations. Very good experience with automated testing frameworks. Need to be aware of Instore, Connex, Qwikcilver, Linkly, Pywin Auto, Playwright, Python, GitHub Copilot, Rest API
+
+Mandatory Skills
+
+
+Experience with all phases of software testing including test planning, functional testing, reporting, regression testing etc.
+Strong experience Automation testing tools like TOSCA, Playwright and Selenium.
+Good experience working on Jira
+Strong experience on creating Automation frameworks using TOSCA, Playwright and Selenium
+Good to have Automation, CI/CD tools using Azure DevOps
+Good exposure to Retail domain including Point of Sale and Infra
+Excellent written and oral communication, quick learner and should be able to work independently without much supervision
+Good exposure to payments applcations like Instore, Connex, Qwikcilver, Linkly, Pywin Auto, GitHub Copilot
+
+
+Duties And Responsibilities
+
+
+Knowledge of test planning, designing, test execution and defect management activities
+Good experience in End-to-end testing, Functional testing, Manual and Automation testing experience
+Strong knowledge in Automation tools like TOSCA, Playwright, Selenium and web service testing - REST & SOAP APIs, Postman or SOAP UI tool knowledge or any other web service testing tool for REST API
+Good to have knowledge of Point-of-sale systems, retail basic knowledge, SAP system knowledge
+Strong experience in Agile methodology and knowledge of Atlassian Platform (JIRA, Confluence), qtest, Google sheets
+Ability to work independently and interface with different project stakeholders
+Good knowledge in creating Automation frameworks using Selenium and Tosca
+Good knowledge in Automation, CI/CD tools using Azure DevOps
+Good exposure to Retail domain including Point of Sale and Payments
+Excellent written and oral communication, quick learner and should be able to work independently without much supervision.
+Understand and analyze the requirements (through review of requirement document) to identify the testable requirements
+Prioritize the requirements based on the time required; Review/create the requirement traceability matrix
+Create automation test scripts and share created test scripts with test lead for review.
+Conduct pilot automation test run to validate the test scripts.
+Test the defect and update the status, if required; Conduct root cause analysis of the defects logged; Prepare Test summary Report and share the same for review/ Review the test results/test reports submitted by the test analyst.
+Participate in the defect triages to gather evidence for defect identification on periodic basis for defect prioritization and fix.
+Script Development/Execution using Selenium with Java, Playwright with Typescript and TOSCA automation tools and provide the update with customers.
+
+
+Qualifications & Certifications (Optional)
+
+
+B.E/B.Tech
+
+
+Salary Range: $80,000 to $90,000
+
+Date of Posting: 12-Oct-26
+
+Next Steps: If you feel this opportunity suits you, or Cognizant is the type of organization you would like to join, we want to have a conversation with you! Please apply directly with us.
+
+For a complete list of open opportunities with Cognizant, visit http://www.cognizant.com/careers. Cognizant is committed to providing Equal Employment Opportunities. Successful candidates will be required to undergo a background check.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting and Business Consulting and Services
+  
+
+Referrals increase your chances of interviewing at Cognizant by 2x
+
+See who you know
+
+Get notified about new Quality Engineer jobs in Sydney, New South Wales, Australia.
+
+Sign in to create job alert
+Similar jobs
+Senior Tester (Remote/Hybrid)
+Senior Tester (Remote/Hybrid)
+Commonwealth Superannuation Corporation
+Sydney, New South Wales, Australia
+11 hours ago
+Quality Engineer
+Quality Engineer
+Macquarie Group
+Sydney, New South Wales, Australia
+1 week ago
+Quality Engineer
+Quality Engineer
+CORTO
+Sydney, New South Wales, Australia
+1 week ago
+Senior Automation Test Engineer
+Senior Automation Test Engineer
+Macquarie Group
+Sydney, New South Wales, Australia
+1 week ago
+Quality Engineer II
+Quality Engineer II
+Mitti by SafetyCulture
+Sydney, New South Wales, Australia
+2 weeks ago
+Calypso Quality Engineer
+Calypso Quality Engineer
+ASX
+Sydney, New South Wales, Australia
+10 hours ago
+Show more jobs like this 
+People also viewed
+Lead Test Engineer
+Lead Test Engineer
+
+Insignia Financial
+
+Sydney, New South Wales, Australia
+2 days ago
+Sr Functional Testing Engineer
+Sr Functional Testing Engineer
+
+Tata Consultancy Services
+
+Sydney, New South Wales, Australia
+1 week ago
+Payroll Test Analyst
+Payroll Test Analyst
+
+Downer
+
+Sydney, New South Wales, Australia
+3 weeks ago
+Lead Software Engineer
+Lead Software Engineer
+
+Virtusa
+
+Sydney, New South Wales, Australia
+8 hours ago
+Senior Software Engineer
+Senior Software Engineer
+
+Virtusa
+
+Sydney, New South Wales, Australia
+14 hours ago
+Quality Engineer (Failure Analysis & Reliability)
+Quality Engineer (Failure Analysis & Reliability)
+
+Eaton
+
+Mascot, New South Wales, Australia
+1 week ago
+Software Tester/Developer
+Software Tester/Developer
+
+Blunomy
+
+Sydney, New South Wales, Australia
+1 week ago
+Performance Test Engineer
+Performance Test Engineer
+
+Sirius.
+
+Sydney, New South Wales, Australia
+1 week ago
+Lead AI QA Automation Engineer
+Lead AI QA Automation Engineer
+
+EPAM Systems
+
+Sydney, New South Wales, Australia
+1 week ago
+261312-Developer Programmer
+261312-Developer Programmer
+
+Tech Mahindra
+
+North Sydney, New South Wales, Australia
+A$80,000 - A$100,000
+2 days ago
+Similar Searches
+Data Scientist jobs
+5,268 open jobs
+Quality Engineer jobs
+2,588 open jobs
+Java Software Engineer jobs
+760 open jobs
+Junior Developer jobs
+388 open jobs
+Junior Software Engineer jobs
+4,491 open jobs
+C Developer jobs
+847 open jobs
+Software Engineer jobs
+5,632 open jobs
+Dotnet Developer jobs
+690 open jobs
+Developer jobs
+5,939 open jobs
+Engineer jobs
+12,824 open jobs
+Scientist jobs
+515 open jobs
+Analyst jobs
+14,217 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Cognizant
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

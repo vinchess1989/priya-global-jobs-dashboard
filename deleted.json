@@ -14601,5 +14601,39 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": null,
     "deletion_reason": "Deadline (2025-10-25) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Quality Engineer",
+    "company": "Qantas",
+    "location": "Adelaide, South Australia, Australia",
+    "url": "https://au.linkedin.com/jobs/view/quality-engineer-at-qantas-4479712840",
+    "visited": "yes",
+    "matches_requirements": "maybe",
+    "reason": "The role is a strong fit for her quality engineering background, but it is an 'Associate' level position which may be junior to her 15 years of experience, and the posting does not explicitly confirm visa sponsorship availability.",
+    "id": "2fee628b",
+    "source": "linkedin_au_quality_engineer",
+    "added_at": "2026-10-24T02:26:51+03:00",
+    "posted_date": "2026-10-17",
+    "deadline": "2025-10-29",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Deadline (2025-10-29) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Senior Quality Engineer",
+    "company": "Qantas",
+    "location": "Adelaide, South Australia, Australia",
+    "url": "https://au.linkedin.com/jobs/view/senior-quality-engineer-at-qantas-4477489025",
+    "visited": "yes",
+    "matches_requirements": "maybe",
+    "reason": "The role is located in Australia (one of the target countries) and matches her quality and testing background, but it is heavily focused on mobile app and API testing (iOS/MDM) rather than her core release management, configuration management, or technical writing domain.",
+    "id": "f66023c0",
+    "source": "linkedin_au_quality_engineer",
+    "added_at": "2026-10-24T02:26:51+03:00",
+    "posted_date": "2026-10-10",
+    "deadline": "2025-10-25",
+    "eval_model": "gemini-vineeth-bits/gemini-3.5-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Deadline (2025-10-25) passed by more than 2 days and unreviewed"
   }
 ]
