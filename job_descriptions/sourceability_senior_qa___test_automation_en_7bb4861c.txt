@@ -1,0 +1,283 @@
+Title: Senior QA / Test Automation Engineer
+Company: Sourceability
+Location: Singapore, Singapore
+URL: https://sg.linkedin.com/jobs/view/senior-qa-test-automation-engineer-at-sourceability-4473098863
+Posted: 3 viikkoa sitten
+Deadline: N/A
+Reason: The role aligns with the candidate's background in quality gatekeeping, release readiness, and CI/CD integration, and it is located in Singapore, which is a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn kunnioittaa yksityisyyttäsi
+
+LinkedIn ja kolmannet osapuolet käyttävät välttämättömiä ja ei-välttämättömiä evästeitä palvelujemme tarjoamiseen, suojaamiseen, analysointiin ja parantamiseen sekä osuvien mainosten näyttämiseen sinulle (mukaan lukien ammattilais- ja työpaikkailmoitukset) LinkedInissä ja niiden ulkopuolella. Lisätietoja on evästekäytännössämme.
+
+Hyväksy ei-välttämättömien evästeiden käyttö valitsemalla Hyväksy tai estä niiden käyttö valitsemalla Hylkää. Voit päivittää valintasi milloin tahansa asetuksista.
+
+Hyväksy Hylkää
+Hyppää pääsisältöön
+LinkedIn
+Työt
+Poista teksti
+Poista teksti
+Kirjaudu sisään
+Liity nyt
+Senior QA / Test Automation Engineer
+Sourceability  Singapore, Singapore
+3 viikkoa sitten  174 Hakijoiden
+  
+
+Katso, kuka Sourceability on palkattu tähän rooliin
+
+Hae 
+Tallenna
+Arvioi sopivuuttasi tekoälyn avulla
+
+Hanki tekoälypohjaisia neuvoja tähän työhön ja muita eksklusiivisia ominaisuuksia.
+
+Olenko sopiva tähän työhön?
+Räätälöi ansioluetteloni
+Sourceability® is a global digital distributor of electronic components transforming how modern businesses bring products to market. With innovation, quality and logistics as the backbone of the company, Sourceability's cutting-edge products and services expedite the procurement process across a wide range of industries, including communications/cellular, consumer electronics, and auto manufacturing.
+
+Sourceability is building a new Global Engineering Organization (GEO) to strengthen internal software delivery, improve production ownership, and build long-term engineering capability inside the company.
+
+We are looking for a Senior QA / Test Automation Engineer to help build quality discipline and test automation capability inside GEO. This role will support business-critical software platforms by improving test coverage, regression testing, defect validation, release readiness, and automation practices across engineering teams.
+
+This role is not limited to writing automated tests. The right candidate should be able to combine hands-on manual testing, exploratory testing, test automation, defect analysis, UAT support, and risk communication. At the current stage of GEO, some systems may have limited automated coverage, incomplete documentation, and legacy behavior that must be understood carefully before changes are released.
+
+The Senior QA / Test Automation Engineer will work closely with Software Engineers, Product / Delivery Managers, Product Group Team Leads / Architects, DevOps, DBA, Infrastructure, and business stakeholders to reduce production risk and improve confidence in releases.
+
+This role is hybrid working from our Singapore office.
+
+Insight on Your Impact:
+
+In this role, you will:
+
+
+Design, develop, and maintain automated test coverage for web applications, APIs, integrations, mobile workflows, and internal business platforms.
+Execute manual, exploratory, functional, regression, integration, API, and release validation testing where automation does not yet exist or is not practical.
+Build and improve test automation frameworks, test scripts, reusable test utilities, and test data approaches.
+Define practical regression testing strategies for business-critical systems, including SourceCore, mobile applications, integrations, legacy applications, and other GEO-supported platforms.
+Partner with Product / Delivery Managers to understand acceptance criteria, business workflows, UAT expectations, and release scope.
+Partner with Product Group Team Leads / Architects and Software Engineers to understand technical design, risk areas, edge cases, and testability concerns.
+Participate in backlog refinement by identifying missing acceptance criteria, unclear requirements, test dependencies, and quality risks.
+Create and maintain test plans, test cases, test data, and validation checklists aligned with product requirements and business workflows.
+Identify, document, prioritize, and track defects clearly through agreed tools and processes, including Azure DevOps where applicable.
+Verify fixes, confirm regression impact, and help determine whether a release is ready for production.
+Integrate automated tests into CI/CD pipelines in partnership with DevOps and engineering teams.
+Analyze test failures, flaky tests, environmental issues, and data-related problems to help engineering teams distinguish product defects from test or environment problems.
+Support UAT by helping Product / Delivery Managers and business users prepare validation scenarios, review acceptance criteria, and reproduce reported issues.
+Communicate quality risks, test coverage gaps, defect trends, and release readiness concerns to engineering and product stakeholders.
+Contribute to post-release issue analysis and help convert production defects into regression coverage and process improvements.
+Mentor junior QA engineers and help establish practical QA standards, automation practices, and quality expectations across GEO.
+
+
+Your Qualifications, Your Influence:
+
+To be successful in this role, you should have:
+
+
+5+ years of experience in software quality assurance, with strong hands-on experience in both manual testing and test automation.
+Proven experience building, maintaining, or extending test automation frameworks using tools such as Playwright, Cypress, Selenium, Appium, or equivalent.
+Strong understanding of functional, regression, integration, API, exploratory, smoke, performance, and release validation testing.
+Experience testing business-critical software systems where defects can directly affect operations, users, customers, or financial processes.
+Ability to read and write code in at least one programming language such as JavaScript / TypeScript, C#, Python, or Java.
+Experience with API testing tools and approaches such as Postman, REST Assured, Playwright API testing, or similar frameworks.
+Experience integrating automated tests into CI/CD pipelines using tools such as Azure DevOps, GitHub Actions, Jenkins, GitLab CI, or similar.
+Practical understanding of SQL and ability to validate data, investigate defects, prepare test data, and confirm backend behavior.
+Experience writing clear defects, test cases, test plans, acceptance criteria feedback, and quality risk summaries.
+Ability to work with incomplete requirements, legacy behavior, and complex business workflows without losing testing discipline.
+Strong analytical and troubleshooting skills with a methodical approach to reproducing, isolating, and documenting issues.
+Clear communication skills with the ability to explain quality risks, testing limits, defect impact, and release readiness to technical and non-technical stakeholders.
+Comfortable working in distributed teams across multiple locations and time zones.
+Strong ownership mindset, attention to detail, and practical judgment under delivery pressure.
+
+
+Preferred Skills and Technical Familiarity:
+
+The following experience will be helpful in this role:
+
+
+Experience testing .NET / SQL Server-backed enterprise applications.
+Experience testing internal platforms used by sales, purchasing, warehouse, finance, operations, customer service, or other business teams.
+Experience with mobile test automation for Android or iOS using Appium, Espresso, XCUITest, or similar tools.
+Experience testing warehouse applications, barcode scanning workflows, image capture workflows, or field / operations-facing mobile applications.
+Experience with performance and load testing tools such as k6, JMeter, Gatling, or similar.
+Experience with test data management, environment validation, release smoke testing, and regression suite design.
+Familiarity with accessibility testing, security testing concepts, or basic application vulnerability validation.
+Experience in electronic components, technology distribution, supply chain, logistics, manufacturing, e-commerce, or similar B2B environments.
+Exposure to AI-assisted testing tools or practical use of automation to improve test coverage and QA productivity.
+
+
+Success in the First 90 Days:
+
+Within the first 90 days, the Senior QA / Test Automation Engineer should be able to:
+
+
+Understand assigned systems, business workflows, release process, current test coverage, and major production quality risks.
+Establish working relationships with Software Engineers, Product / Delivery Managers, Team Leads / Architects, DevOps, DBA, Infrastructure, and business stakeholders.
+Review existing QA practices, test cases, automation coverage, defect patterns, and release readiness gaps.
+Define a practical regression testing approach for at least one business-critical platform or product group.
+Create or improve automated test coverage for high-value workflows where automation will reduce release risk.
+Improve defect reporting quality, reproduction steps, acceptance criteria validation, and test evidence discipline.
+Help create clear release validation / smoke testing checklists for critical systems.
+Support at least one release or UAT cycle with structured test planning, defect tracking, and risk communication.
+Identify major test data, environment, documentation, or automation gaps and propose a practical improvement plan.
+Start converting repeated production defects or recurring manual checks into regression coverage.
+
+
+What This Role Does Not Own:
+
+This role does not own formal people management for engineers or QA staff. Engineering Managers remain responsible for hiring, performance management, compensation input, team structure, and capacity planning.
+
+This role does not independently approve production releases. Release decisions require alignment with Engineering Managers, Product / Delivery Managers, Team Leads / Architects, QA, DevOps, and relevant business stakeholders.
+
+This role does not own business prioritization or final user acceptance. Product / Delivery Managers and business stakeholders remain responsible for business priority alignment, UAT coordination, and final business acceptance.
+
+This role does not replace software engineering ownership of code quality. QA improves test coverage, validation, and release confidence, but engineers and technical leads remain responsible for building maintainable and reliable software.
+
+Benefits:
+
+
+Competitive salary
+Ongoing training and professional development opportunities
+Collaborative global work environment
+PTO
+
+
+EQUAL OPPORTUNITY EMPLOYER.
+
+It is our policy to abide by all federal, state and local laws prohibiting employment discrimination based on a person's race, color, religious creed, sex, national origin, ancestry, citizenship status, pregnancy, childbirth, physical disability, mental and/or intellectual disability, age, military status, veteran status (including protected veterans), marital status, registered domestic partner or civil union status, familial status, gender (including sex stereotyping and gender identity or expression), medical condition (including, but not limited to, cancer related or HIV/AIDS related), genetic information, sexual orientation, or any other protected status.
+Show more 
+Seniority level
+Keskijohto
+Työn tyyppi
+Kokopäiväinen
+Industries
+Puolijohteiden valmistus
+  
+
+Lähetteet lisäävät mahdollisuuksiasi haastatteluun Sourceability 2x
+
+Katso, kenet tunnet
+
+Saat ilmoituksen uusista Senior Quality Assurance Automation Engineer työpaikoista .Singapore, Singapore
+
+Kirjaudu sisään luodaksesi työpaikkahälytyksen
+Samankaltaiset työpaikat
+Senior Quality Engineer
+Senior Quality Engineer
+Astek
+Singapore, Singapore
+20 tuntia sitten
+QA Automation Engineer
+QA Automation Engineer
+Base Camp Digital
+Singapore, Singapore
+2 viikkoa sitten
+Senior QA Engineer - Remote
+Senior QA Engineer - Remote
+Kake
+Singapore
+2 viikkoa sitten
+Sr. SW Test Engineer
+Sr. SW Test Engineer
+Visa
+Singapore, Singapore
+5 tuntia sitten
+Software QA Engineer (AIR Lab)
+Software QA Engineer (AIR Lab)
+Thales
+Singapore, Singapore
+2 päivää sitten
+Web/App Test Engineer
+Web/App Test Engineer
+Binance
+Singapore
+1 viikko sitten
+Show more jobs like this 
+Muita katsottuja
+Senior QA Engineer (Rust/Java), Margin
+Senior QA Engineer (Rust/Java), Margin
+
+Binance
+
+Singapore
+1 viikko sitten
+Software Test Engineer
+Software Test Engineer
+
+Visa
+
+Singapore, Singapore
+1 päivä sitten
+Quality Assurance Engineer
+Quality Assurance Engineer
+
+Achieve Group
+
+Queenstown, Central Singapore Community Development Council, Singapore
+1 viikko sitten
+Test Automation Engineer
+Test Automation Engineer
+
+Epergne Solutions
+
+Singapore
+1 viikko sitten
+Software Engineer, Quality
+Software Engineer, Quality
+
+Airwallex
+
+Singapore, Singapore
+2 viikkoa sitten
+QA Engineer
+QA Engineer
+
+StarHub
+
+Singapore, Singapore
+1 viikko sitten
+Technical Automation QA (Playwright / TypeScript)
+Technical Automation QA (Playwright / TypeScript)
+
+Constructor Tech
+
+Singapore, Singapore
+4 kuukautta sitten
+Software Quality Assurance Engineer
+Software Quality Assurance Engineer
+
+LionsBot International
+
+Singapore, Singapore
+1 viikko sitten
+Software Tester
+Software Tester
+
+Epergne Solutions
+
+Singapore
+3 viikkoa sitten
+Software Test Engineer (AI), TikTok Search
+Software Test Engineer (AI), TikTok Search
+
+TikTok
+
+Singapore, Singapore
+2 viikkoa sitten
+LinkedIn
+© 2026
+Tietoja
+Saavutettavuus
+Käyttäjäsopimus
+Tietosuojakäytäntö
+Evästekäytännöt
+Tekijänoikeuskäytännöt
+Brändikäytäntö
+Vieraiden hallinta
+Yhteisön ohjeet
+Kieli

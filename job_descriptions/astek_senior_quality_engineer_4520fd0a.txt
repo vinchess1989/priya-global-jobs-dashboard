@@ -1,0 +1,211 @@
+Title: Senior Quality Engineer
+Company: Astek
+Location: Singapore, Singapore
+URL: https://sg.linkedin.com/jobs/view/senior-quality-engineer-at-astek-4480600546
+Posted: 20 tuntia sitten
+Deadline: N/A
+Reason: The role aligns perfectly with the candidate's expertise in quality engineering, CI/CD integration, and release assurance within a professional, English-speaking environment in Singapore.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn kunnioittaa yksityisyyttäsi
+
+LinkedIn ja kolmannet osapuolet käyttävät välttämättömiä ja ei-välttämättömiä evästeitä palvelujemme tarjoamiseen, suojaamiseen, analysointiin ja parantamiseen sekä osuvien mainosten näyttämiseen sinulle (mukaan lukien ammattilais- ja työpaikkailmoitukset) LinkedInissä ja niiden ulkopuolella. Lisätietoja on evästekäytännössämme.
+
+Hyväksy ei-välttämättömien evästeiden käyttö valitsemalla Hyväksy tai estä niiden käyttö valitsemalla Hylkää. Voit päivittää valintasi milloin tahansa asetuksista.
+
+Hyväksy Hylkää
+Hyppää pääsisältöön
+LinkedIn
+Työt
+Poista teksti
+Poista teksti
+Kirjaudu sisään
+Liity nyt
+Senior Quality Engineer
+Astek  Singapore, Singapore
+20 tuntia sitten  66 Hakijoiden
+  
+
+Katso, kuka Astek on palkattu tähän rooliin
+
+Hae
+Tallenna
+Arvioi sopivuuttasi tekoälyn avulla
+
+Hanki tekoälypohjaisia neuvoja tähän työhön ja muita eksklusiivisia ominaisuuksia.
+
+Olenko sopiva tähän työhön?
+Räätälöi ansioluetteloni
+
+Lähetä työpaikkailmoitus suoraan lähettäjältä Astek
+
+Lusi Melani
+Lusi Melani
+Senior Partner | Global Technology Recruiter | CEI Certified | Singapore Permanent Resident | Connecting Top Tech Talent with Leading Organisations
+
+ASTEK has been providing IT and Engineering solutions for some of the world’s largest industrial and services groups for more than 35 years with 10,000 passionate experts in 22 countries throughout Europe, APAC, Middle East and the Americas
+
+
+
+
+Currently, we are looking for Senior Quality Engineer which would be based in Singapore
+
+
+
+
+Responsible and responsibilities:
+
+Lead defect triage, severity assessment, root-cause analysis and verification of permanent corrective actions. Identify recurring defect patterns and drive preventive engineering improvements.
+Proficiency in and experience with tools such as Playwright, Cypress, Selenium, REST-assured, Postman/Newman, JMeter, k6 or equivalent.
+Experience validating REST APIs, messaging or streaming integrations, relational or document databases, and data-intensive workflows.
+Own the quality engineering strategy, test architecture, quality gates and assurance plan
+Build and maintain automated tests across the test pyramid, including unit-enablement standards, API and contract tests, component and integration tests, UI tests and end-to-end business-flow tests.
+Design test harnesses, simulators, stubs and representative datasets for external systems, IoT devices and distributed energy resources where physical assets or upstream systems are unavailable or unsafe to use for routine testing.
+Lead system integration testing and end-to-end validation across SP-developed components, vendor-delivered components, Azure services, enterprise integrations and operational technology interfaces.
+Define and execute non-functional tests for performance, load, scalability, soak, resilience, failover, backup and restore, recovery, security and operational observability in collaboration with DevSecOps and SRE.
+Validate market and control workflows using deterministic scenarios, including bid creation, submission outcomes, dispatch or control instruction processing, asset response, telemetry feedback, exception handling and revenue or settlement data reconciliation.
+Establish data-quality controls and tests for completeness, accuracy, timeliness, duplication, transformation and lineage across telemetry, asset, bidding and revenue data flows.
+Embed automated tests and quality gates into CI/CD pipelines, with clear failure diagnostics, test evidence, defect traceability and release criteria.
+Work closely with product owners, planners, infrastructure, cybersecurity, vendors and engineers to resolve ambiguity and ensure that quality is engineered into delivery rather than inspected only at the end.
+Create and maintain the test strategy, traceability matrix, automated regression suite, test-data approach, environment requirements, test reports, defect metrics, release-quality assessment and handover documentation.
+At least 3-5 years of relevant experience in quality engineering, software testing or test automation, including senior hands-on responsibility for complex production systems.
+Proven experience owning quality strategy and release assurance for cloud-native, distributed or integration-heavy applications.
+Strong practical experience designing and implementing automated API, integration, UI and end-to-end tests using modern test frameworks and programming or scripting languages.
+Ability to design tests for asynchronous and event-driven systems, including retries, ordering, duplicate events, eventual consistency and failure recovery.
+Strong understanding of test environments, test-data management, service virtualisation, simulators, mocks and stubs for systems with constrained external dependencies.
+Ability to review vendor test evidence critically, identify coverage gaps and require corrective action without assuming the vendor’s delivery accountability.
+Experience using AI-assisted tools to generate, review and maintain test cases, automation
+Show more 
+Seniority level
+Keskijohto
+Työn tyyppi
+Kokopäiväinen
+Industries
+Teknologia, tietopalvelut ja media
+  
+
+Lähetteet lisäävät mahdollisuuksiasi haastatteluun Astek 2x
+
+Katso, kenet tunnet
+
+Saat ilmoituksen uusista vanhempi laatuinsinööri työpaikoista .Singapore, Singapore
+
+Kirjaudu sisään luodaksesi työpaikkahälytyksen
+Samankaltaiset työpaikat
+Senior Quality Engineer
+Senior Quality Engineer
+Singapore Aero Engine Services Private Limited (SAESL)
+Singapore
+1 viikko sitten
+Senior Quality Engineer
+Senior Quality Engineer
+Collins Aerospace
+Singapore, Singapore
+19 tuntia sitten
+Quality Engineer II
+Quality Engineer II
+Jabil
+Singapore, Singapore
+1 kuukausi sitten
+Lead QA Engineer
+Lead QA Engineer
+Dyson
+Singapore, Singapore
+1 viikko sitten
+Senior Engineer, Customer Quality
+Senior Engineer, Customer Quality
+POET Technologies
+Singapore, Singapore
+2 viikkoa sitten
+Senior/Quality Engineer
+Senior/Quality Engineer
+Jabil
+Singapore, Singapore
+2 kuukautta sitten
+Show more jobs like this 
+Muita katsottuja
+Senior Supplier Quality Engineer
+Senior Supplier Quality Engineer
+
+Resmed
+
+Singapore, Singapore
+1 viikko sitten
+QA Engineer
+QA Engineer
+
+Frencken
+
+Singapore, Singapore
+2 viikkoa sitten
+Senior Quality Assurance Engineer
+Senior Quality Assurance Engineer
+
+ST Engineering
+
+Singapore, Singapore
+1 viikko sitten
+Quality Engineer
+Quality Engineer
+
+Incora
+
+Changi, East Region, Singapore
+3 viikkoa sitten
+Senior/Staff Quality Assurance Engineer or Manager (Foundry)
+Senior/Staff Quality Assurance Engineer or Manager (Foundry)
+
+Lumilens
+
+Singapore, Singapore
+1 viikko sitten
+Quality Engineer
+Quality Engineer
+
+GE Vernova
+
+Singapore, Singapore
+9 tuntia sitten
+Senior QA Engineer (12 months)
+Senior QA Engineer (12 months)
+
+West Pharmaceutical Services
+
+Jurong, West Region, Singapore
+3 kuukautta sitten
+Senior Engineer, Supplier Quality
+Senior Engineer, Supplier Quality
+
+POET Technologies
+
+Singapore, Singapore
+1 päivä sitten
+Sr. Product Quality Engineer
+Sr. Product Quality Engineer
+
+UST
+
+Singapore, Singapore
+2 päivää sitten
+Product Quality Engineer, Hardware Infrastructure
+Product Quality Engineer, Hardware Infrastructure
+
+Meta
+
+Singapore, Singapore
+1 viikko sitten
+LinkedIn
+© 2026
+Tietoja
+Saavutettavuus
+Käyttäjäsopimus
+Tietosuojakäytäntö
+Evästekäytännöt
+Tekijänoikeuskäytännöt
+Brändikäytäntö
+Vieraiden hallinta
+Yhteisön ohjeet
+Kieli
