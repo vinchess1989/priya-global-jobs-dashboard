@@ -14567,5 +14567,22 @@
     "eval_model": "local/qwen/qwen3-14b",
     "description_file": null,
     "deletion_reason": "Deadline (2026-10-22) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Ground Operation Systems and Training Manager",
+    "company": "Norse Atlantic Airways",
+    "location": "Gatwick, England, United Kingdom",
+    "url": "https://uk.linkedin.com/jobs/view/ground-operation-systems-and-training-manager-at-norse-atlantic-airways-4461375318",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role requires specific domain expertise in aviation departure control systems (Navitaire GoNow, iPort) which does not align with the candidate's background in embedded systems, automotive/medical software release management, and configuration management.",
+    "id": "ea27b7f0",
+    "source": "linkedin_uk_configuration_manager",
+    "added_at": "2026-10-24T02:16:33+03:00",
+    "posted_date": "2026-09-24",
+    "deadline": "2026-09-09",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-09-09) passed by more than 2 days and unreviewed"
   }
 ]
