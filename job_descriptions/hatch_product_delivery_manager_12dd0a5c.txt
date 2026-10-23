@@ -1,0 +1,350 @@
+Title: Product Delivery Manager
+Company: Hatch
+Location: Sydney, New South Wales, Australia
+URL: https://au.linkedin.com/jobs/view/product-delivery-manager-at-hatch-4478492447
+Posted: 2026-10-17
+Deadline: N/A
+Reason: The role aligns with her background in release management, technical documentation, and agile delivery, and it is located in an eligible country (Australia) with no mention of citizenship or clearance requirements.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Product Delivery Manager
+Hatch  Sydney, New South Wales, Australia
+1 week ago  61 applicants
+  
+
+See who Hatch has hired for this role
+
+Apply 
+Save
+This is a Product Delivery Manager role with The Customer Experience Company based in Sydney, NSW, AU
+
+== The Customer Experience Company ==
+
+Role Seniority - junior, mid level
+
+More about the Product Delivery Manager role at The Customer Experience Company
+
+About CEC
+
+The Customer Experience Company (CEC) is an Australian consultancy that designs and builds the experiences customers and staff use every day. Over more than 20 years and more than 500 client engagements, we have delivered measurable results for the organisations we work with.
+
+We believe we can deliver efficiency and a great experience together. Our approach, Experience Engineering, puts CX strategy, service design, and technology delivery in one team from day one. We shape the strategy around what can be built, and the software around what customers need.
+
+We are a small, senior, and experienced team. Strategists, designers and engineers work side by side, and we use modern AI-native engineering to ship high-quality custom software for a fraction of the usual cost and time.
+
+The role
+
+As our Product Delivery Manager, you will own the delivery of several client products at once, from signed statements of work to go-live and ongoing support. You will help decide what gets built, plan how it gets built, and see it through to release. The role combines product management, project management and delivery management in one holistic role. This is Experience Engineering applied to delivery. The team shapes product strategy around what it can realistically deliver, and the delivery plan explains the reasoning behind every priority. Decisions move faster because there are fewer handoffs. Stakeholders hear one consistent account of where the product is going, how the work is progressing and what is shipping next.
+
+You will move between these disciplines throughout the week. In a single day you might test an idea with a quick prototype, reshape the roadmap in response, and turn the result into tickets the team can pick up. If you enjoy that range and want to own the whole path from idea to release, this role was written with you in mind.
+
+CEC is growing, and our project load now needs a dedicated product delivery lead. You will be the day-to-day contact for client product owners and the person who keeps our designers and engineers focused on the right work. Each engagement gets the delivery attention it deserves, and our technical leads can focus on architecture and build.
+
+Your first six months
+
+By the end of your first six months, success looks like this:
+
+
+Two to three active client products are running to a clear plan, with predictable releases.
+Clients describe CEC as easy to work with, and they raise scope changes early and agree to them in writing.
+CEC has a consistent delivery playbook covering sprint planning, UAT, go-live readiness and hypercare.
+Leadership has accurate weekly visibility of capacity, budget burn and risk across your portfolio.
+
+
+What You Will Do
+
+Your responsibilities fall into three disciplines. You will work across all of them at once, and each set of tasks informs the others.
+
+Project management
+
+
+Turn statements of work into timelines, release plans and project plans with the technical lead, so the team and the client can rely on them.
+Keep the RAID log current, so risks, assumptions, issues and dependencies are visible and owned.
+Escalate issues as they arise and put mitigations in place before they affect delivery.
+Report on project health, giving an honest picture of progress, risk and confidence.
+Keep stakeholders engaged with regular, clear updates on both product and project progress.
+
+
+Product management
+
+
+Set the product strategy and explain it in terms the whole team understands.
+Prioritise the product roadmap, make trade-offs visible, and explain the reasons behind them.
+Resolve the points where engineering, design and delivery meet, so decisions get made, and work keeps moving.
+Advocate for users and the business, and find solutions that serve both.
+Prototype ideas with tools like Claude and Cursor so you can test assumptions quickly before the team commits to building them.
+
+
+Delivery management
+
+
+Run agile cadences, including sprint planning, stand-ups, refinement, showcases and retros, sized to each engagement and kept focused and useful.
+Help write, refine and triage development tickets so the team always has clear, ready work.
+Write release notes that explain what changed and why it matters to product users.
+Plan deployments with engineering, covering timing, dependencies and communication.
+Help produce and maintain technical documentation.
+
+
+What You Will Bring
+
+The right person for this role has worked across project, product and delivery management, and can switch between them several times a day without losing momentum. Breadth matters most, with enough depth in each area to be credible to the people you work with.
+
+Essential
+
+
+At least three years delivering digital products or custom software, ideally in a consultancy or agency.
+A track record of running several client projects in parallel through to go-live.
+Strong command of agile delivery and backlog management, and tools such as Jira and Confluence.
+Confidence with senior client stakeholders, including difficult conversations about scope and budget.
+Enough technical fluency to discuss APIs, integrations, environments and releases with engineers.
+Clear, calm communication in writing and in person.
+
+
+Desirable
+
+
+Experience in insurance, financial services or health.
+Experience delivering portals or platforms built on top of legacy core systems.
+Familiarity with AI-native development and how it changes delivery planning.
+A background in UAT coordination, service design or business analysis.
+Scrum, PMP or PRINCE2 certification.
+
+
+How You Work
+
+
+Planning and risk. You can build a realistic project plan, keep a RAID log people trust, and raise issues early with a clear proposal for how to handle them.
+Product judgement. You can set a product direction, explain your priorities and hold your position when the evidence supports it. You openly make trade-offs between user needs and business needs.
+Agile practice. You have run planning, refinement and retros, and you know how to keep them useful for the team.
+Technical fluency. You are comfortable working closely with engineers. You can write a clear development ticket, follow a technical conversation, contribute to documentation and plan a deployment with the people who will carry it out.
+Hands-on prototyping. You are keen to build rough prototypes yourself with tools like Claude and Cursor, so you can test ideas before the team commits to them.
+Clear writing. Your release notes, reports and tickets are easy for their audience to read, whether that audience is an engineer, a stakeholder or a user.
+Stakeholder communication. You can explain progress, risks and product decisions plainly to people with very different interests, and bring engineering, design and delivery to a shared decision.
+Range. You are as comfortable reworking the roadmap in the morning as you are checking a deployment plan in the afternoon, and you see how each one affects the other.
+
+
+The work we do
+
+More and more of our work is building systems of engagement. These include customer portals, broker and partner platforms, quoting and binding tools, and internal workflow apps that sit on top of existing core systems. They make legacy platforms feel modern to users while avoiding the cost and risk of replacing the core.
+
+Our clients are in insurance, health, financial services, government and consumer brands. They typically still handle much of their customer service manually or by phone, and most do not have a large in-house engineering team.
+
+Why join CEC
+
+
+Real impact. The products you deliver are used by thousands of customers, often within weeks of launch.
+A senior, close-knit team. You will work day-to-day directly with the Product and Delivery Director.
+Modern delivery. We are at the forefront of AI-native software engineering in Australia.
+Room to grow. As CEC scales, this role will shape how we deliver and help build our delivery team.
+
+
+Before we jump into the responsibilities of the role. No matter what you come in knowing, you’ll be learning new things all the time and the The Customer Experience Company team will be there to support your growth.
+
+🟢 Please consider applying even if you don't meet 100% of what’s outlined 🟢
+
+Key Responsibilities
+
+
+📈 Managing project delivery
+📣 Facilitating communication
+⚙️ Coordinating agile processes
+
+
+Key Strengths
+
+
+📅 Project management
+📊 Product management
+🚀 Delivery management
+💻 Technical fluency
+🛠️ Hands-on prototyping
+🔄 Agile practice
+
+
+Why The Customer Experience Company is partnering with Hatch on this role. Hatch exists to level the playing field for people as they discover a career that’s right for them. So when you apply you have the chance to show more than just your resume.
+
+A Final Note: This is a role with The Customer Experience Company not with Hatch.
+Show more 
+Seniority level
+Entry level
+Employment type
+Full-time
+Industries
+Internet Marketplace Platforms
+  
+
+Referrals increase your chances of interviewing at Hatch by 2x
+
+See who you know
+
+Get notified about new Product Project Manager jobs in Sydney, New South Wales, Australia.
+
+Sign in to create job alert
+Similar jobs
+Delivery Manager
+Delivery Manager
+Brighte
+Sydney, New South Wales, Australia
+1 week ago
+Data Product Delivery Manager (EL1)
+Data Product Delivery Manager (EL1)
+Australian Communications and Media Authority (ACMA)
+Sydney, New South Wales, Australia
+2 weeks ago
+AI Product & Delivery Manager
+AI Product & Delivery Manager
+APG Software
+Greater Sydney Area
+1 month ago
+Technology Project Manager
+Technology Project Manager
+The Onset
+Sydney, New South Wales, Australia
+1 week ago
+Delivery Manager
+Delivery Manager
+Infomedia
+Sydney, New South Wales, Australia
+1 week ago
+Delivery Manager
+Delivery Manager
+WNS-Vuram
+Sydney, New South Wales, Australia
+A$140,000 - A$150,000
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Project Manager
+Project Manager
+
+Haleon
+
+Greater Sydney Area
+4 days ago
+Student and Education Digital Experience Lead
+Student and Education Digital Experience Lead
+
+Macquarie University
+
+North Ryde, New South Wales, Australia
+17 hours ago
+Innovation Commercialization Project Manager
+Innovation Commercialization Project Manager
+
+PepsiCo
+
+North Sydney, New South Wales, Australia
+1 week ago
+Digital Plans Product Manager
+Digital Plans Product Manager
+
+NSW Land Registry Services
+
+Sydney, New South Wales, Australia
+4 days ago
+Senior Manager Operations Technology Delivery
+Senior Manager Operations Technology Delivery
+
+Transport for NSW
+
+Eveleigh, New South Wales, Australia
+12 hours ago
+Product Owner - Integrations & Automations
+Product Owner - Integrations & Automations
+
+The Living Company
+
+Sydney, New South Wales, Australia
+1 week ago
+Innovation and Renovation Manager
+Innovation and Renovation Manager
+
+Nestlé
+
+Concord West, New South Wales, Australia
+6 days ago
+Manager, Professional Services
+Manager, Professional Services
+
+Axon
+
+Sydney, New South Wales, Australia
+1 week ago
+Delivery Lead
+Delivery Lead
+
+Caruso
+
+Sydney, New South Wales, Australia
+3 weeks ago
+Digital Product Manager
+Digital Product Manager
+
+Sirius.
+
+North Sydney, New South Wales, Australia
+1 week ago
+Similar Searches
+Global Mobility Manager jobs
+490 open jobs
+Product Sales Manager jobs
+1,855 open jobs
+Technology Coordinator jobs
+3,926 open jobs
+Assistant Category Manager jobs
+73 open jobs
+Product Support Specialist jobs
+239 open jobs
+Director of Packaging jobs
+39 open jobs
+Web Project Manager jobs
+426 open jobs
+Product Manager jobs
+5,738 open jobs
+Technical Product Manager jobs
+692 open jobs
+Head of Brand jobs
+471 open jobs
+Digital Product Manager jobs
+612 open jobs
+Wordpress Developer jobs
+273 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

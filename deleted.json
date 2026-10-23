@@ -14584,5 +14584,22 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": null,
     "deletion_reason": "Deadline (2026-09-09) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Delivery Lead - B2B",
+    "company": "Qantas",
+    "location": "Adelaide, South Australia, Australia",
+    "url": "https://au.linkedin.com/jobs/view/delivery-lead-b2b-at-qantas-4476978654",
+    "visited": "yes",
+    "matches_requirements": "maybe",
+    "reason": "The role is a strong fit for her release management and cross-team coordination experience, but it is a generalist delivery/project management role rather than a dedicated technical release or configuration management position.",
+    "id": "59a9b410",
+    "source": "linkedin_au_release_manager",
+    "added_at": "2026-10-24T02:19:22+03:00",
+    "posted_date": "2026-10-10",
+    "deadline": "2025-10-25",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Deadline (2025-10-25) passed by more than 2 days and unreviewed"
   }
 ]
