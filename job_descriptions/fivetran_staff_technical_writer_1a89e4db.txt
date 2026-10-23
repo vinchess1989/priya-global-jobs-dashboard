@@ -1,0 +1,303 @@
+Title: Staff Technical Writer
+Company: Fivetran
+Location: Bengaluru, Karnataka, India
+URL: https://in.linkedin.com/jobs/view/staff-technical-writer-at-fivetran-4479046315
+Posted: 2026-10-16
+Deadline: N/A
+Reason: This Staff Technical Writer role is located in Bangalore, India, aligns with her technical communication background, and uses docs-as-code tools like Git, Markdown, and CI/CD workflows matching her skillset.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Staff Technical Writer
+Fivetran  Bengaluru, Karnataka, India
+1 week ago  84 applicants
+  
+
+See who Fivetran has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+From Fivetran’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to query, with no engineering or maintenance required. We’re proud that more organizations continue to leverage our technology every day to become truly data-driven.
+
+About Us
+
+Fivetran and dbt Labs are bringing together two industry-leading companies with a shared mission: helping organizations unlock the full value of their data.
+
+Together, we’re delivering the data infrastructure layer that helps organizations move, transform, and trust their data — from the moment data moves, through every transformation, to the context teams and AI systems rely on.
+
+Fivetran helps organizations automate data movement across the systems, clouds, engines, and tools they rely on. dbt Labs pioneered analytics engineering, helping teams transform data into reliable, governed insights. Together, we support thousands of organizations as they build a trusted foundation for analytics, AI, and better business decisions.
+
+As we bring our teams and technology together, we’re building on the strengths of both companies while continuing to deliver the products and experiences our customers know and trust. It’s an exciting time to join us: we’re creating a company with the scale, talent, and technology to help more organizations put their data to work with greater speed, confidence, and impact.
+
+During this transition period, you may see references to both Fivetran and dbt Labs throughout our recruiting process as we integrate our teams, systems, and career sites.
+
+About The Role
+
+We’re looking for a Staff Technical Writer to write and edit enterprise documentation that empowers our customers to use Fivetran and understand how our data warehouse, database, and data lake products work. You’ll collaborate with engineers, product managers, support engineers, and other technical writers. You join a friendly team of technical writers distributed among our international offices.
+
+This is a full-time position based out of our Bangalore office. Our hybrid work model offers a blend of remote flexibility and in-person collaboration, including two days in the office each week to connect and build as a team.
+
+Technologies You’ll Use
+
+
+Documentation-as-code tools, including Markdown, Git, GitHub, and CI/CD workflows
+Data platforms such as Snowflake, Databricks, and BigQuery
+Cloud storage services such as Amazon S3, ADLS, and GCS
+Collaboration and project management tools such as Jira and Slack
+
+
+
+What You’ll Do
+
+
+Create and maintain clear, accurate product documentation and release notes that help customers succeed.
+Review and refine customer-facing content, including error messages and UI text.
+Use a docs-as-code approach to co-author documentation with engineers, product managers, and contributors across the company.
+Improve existing documentation by ensuring technical accuracy, clarity, and consistency.
+Collaborate with a global writing team to define and evolve documentation standards, style, and terminology.
+Partner with engineers, SMEs, and cross-functional teams to deliver best-in-class technical documentation.
+Contribute to style guides, templates, and other shared resources that raise the bar for all company content.
+Act as a writing resource for other teams, helping improve content quality across the organization.
+
+
+
+Skills We’re Looking For
+
+
+Extensive expertise in data warehouse and data lake documentation: 8+ years of experience documenting data warehouses, databases, data lakes, and cloud applications for a US-centric audience.
+Deep technical knowledge: Experience with complex data lake and data warehouse technologies, cloud platforms (AWS, Azure, GCP), data pipelines (ETL/ELT), and replication techniques.
+Scripting, automation, and AI proficiency: Skilled at leveraging scripting, automation, and AI tools to streamline documentation workflows and enhance technical content delivery.
+Exceptional communication skills: Proven ability to craft clear, concise, and accurate documentation; strong technical editing abilities; impeccable grammar; and consistent application of style guides.
+Documentation leadership: Expertise in content planning, creation, and review processes, with a track record of implementing best practices that elevate documentation quality.
+Project management and organizational skills: Experience leading documentation projects, mentoring writers, managing competing priorities, and adapting to change while delivering high-quality results.
+Collaboration and customer focus: Strong history of working with engineers, writers, and globally distributed teams, translating customer needs into improved documentation that drives customer success.
+
+
+
+Bonus Skills
+
+
+Experience working at technology companies with globally distributed technical writing teams documenting enterprise-grade products or services.
+Understanding of the nuances of complex documentation lifecycles and experience working in an Agile environment.
+Experience working in a docs-as-code environment, GitHub, Markdown, CLI, and HTML.
+Understanding of cloud object storage, metadata catalogs such as AWS Glue and Unity Catalog, and open table formats such as Apache Iceberg and Delta Lake.
+Experience documenting configuration and deployment workflows for containerization and orchestration platforms such as Docker, Podman, and Kubernetes.
+
+
+
+
+
+Perks And Benefits
+
+100% employer-paid medical insurance
+Generous paid time away from work, including paid vacation or flexible/unlimited vacation depending on role and country, plus paid sick time, inclusive parental leave, paid holidays, including a year-end Global Week of Rest, and volunteer days off.
+RSU stock grants*
+Professional development and training opportunities
+Company virtual happy hours, free food, and fun team-building activities
+Monthly cell phone stipend
+Access to an innovative mental health support platform that offers personalized care and resources in areas such as: therapy, coaching, and self-guided mindfulness exercises for all covered employees and their covered dependents.
+
+
+*May vary by country and worker type - please reach out to your recruiter for more information
+
+Click here to learn more about Fivetran's Benefits by Region.
+
+We’re honored to be valued at over $5.6 billion, but more importantly, we’re proud of our core values of Get Stuck In, Do the Right Thing, and One Team, One Dream. Read about us in Forbes.
+
+Fivetran brings together high-quality talent across the globe to make data access as easy and reliable as electricity for our customers. We value and recognize that our customers benefit from having innovative teams made of people from many backgrounds, experiences, and identities. Fivetran promotes diversity, equity, inclusion & belonging through attracting, recruiting, developing, and retaining a diverse workforce, not only because it is the right thing to do, but because it helps us build a world-class company to better serve our customers, our people and our communities.
+
+To learn more about Fivetran’s culture and what it’s like to be part of the team, click here and enjoy our video.
+
+To learn more about our candidate privacy policy, you can read our statement here.
+
+We are committed to ensuring that all candidates have an equal opportunity to participate in our interview process. If you require accommodations at any stage of the process due to a disability, medical condition, or any other circumstance, please don't hesitate to submit your request by filling out this form. We will work with you to provide reasonable accommodations to facilitate your participation and ensure a fair and accessible interview experience. Your request and any information provided will be kept confidential and will not impact your candidacy. We look forward to hearing from you and accommodating your needs to the best of our ability.
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Fivetran by 2x
+
+See who you know
+
+Get notified about new Staff Technical Writer jobs in Bengaluru, Karnataka, India.
+
+Sign in to create job alert
+Similar jobs
+Technical Writer, Senior
+Technical Writer, Senior
+Qualcomm
+Bengaluru, Karnataka, India
+10 hours ago
+Technical Writer
+Technical Writer
+GE Vernova
+Bengaluru, Karnataka, India
+1 week ago
+Technical Writer
+Technical Writer
+Nokia
+Bengaluru, Karnataka, India
+3 days ago
+Technical Writer
+Technical Writer
+Deloitte
+Bengaluru, Karnataka, India
+2 months ago
+Technical Document Writer
+Technical Document Writer
+Siemens Energy
+Bengaluru, Karnataka, India
+2 weeks ago
+Technical Writer
+Technical Writer
+Quest Global
+Bengaluru, Karnataka, India
+2 months ago
+Show more jobs like this 
+People also viewed
+Senior Technical Writer
+Senior Technical Writer
+
+Verint
+
+Bengaluru, Karnataka, India
+3 weeks ago
+Senior Technical Writer
+Senior Technical Writer
+
+Okta
+
+Bengaluru, Karnataka, India
+3 days ago
+Senior Technical Writer
+Senior Technical Writer
+
+Delta Technology Hub
+
+Bengaluru, Karnataka, India
+4 weeks ago
+Senior Technical Documentation Specialist
+Senior Technical Documentation Specialist
+
+Tekion Corp
+
+Bengaluru, Karnataka, India
+2 weeks ago
+Senior Technical Writer
+Senior Technical Writer
+
+Infineon Technologies
+
+Bengaluru East, Karnataka, India
+2 weeks ago
+Senior Technical Writer
+Senior Technical Writer
+
+Guidewire Software
+
+Bengaluru, Karnataka, India
+1 day ago
+Technical Documentation Specialist
+Technical Documentation Specialist
+
+Eurofins
+
+Bengaluru, Karnataka, India
+1 week ago
+Analyst, Technical Communications
+Analyst, Technical Communications
+
+Schneider Electric
+
+Bengaluru, Karnataka, India
+3 months ago
+Analyst Technical Writer
+Analyst Technical Writer
+
+Merck Group
+
+Bengaluru, Karnataka, India
+2 weeks ago
+Senior Technical Author
+Senior Technical Author
+
+Epiroc
+
+Bengaluru, Karnataka, India
+2 weeks ago
+Similar Searches
+Principal Technical Writer jobs
+122 open jobs
+Lead Technical Writer jobs
+583 open jobs
+Senior Technical Writer jobs
+1,839 open jobs
+Senior Information Developer jobs
+176 open jobs
+Contract Technical Writer jobs
+1,281 open jobs
+Lead Technical Consultant jobs
+8,807 open jobs
+Documentation Manager jobs
+2,067 open jobs
+Document Developer jobs
+48,955 open jobs
+Documentation Engineer jobs
+2,289 open jobs
+Product Advisor jobs
+4,420 open jobs
+Technical Writer jobs
+4,402 open jobs
+Freelance Proofreader jobs
+34 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Fivetran
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
