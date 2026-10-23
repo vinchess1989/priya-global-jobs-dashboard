@@ -1,0 +1,166 @@
+Title: Azure Devops Engineer
+Company: Subhujo Technologies
+Location: Cape Town, South Africa
+URL: https://www.pnet.co.za/jobs--Azure-Devops-Engineer-Cape-Town-Subhujo-Technologies--4294500-inline.html
+Posted: 2026-10-22
+Deadline: Open until filled
+Reason: The role is a strong match for the candidate's DevOps and CI/CD expertise, is located in South Africa (a target country), and does not contain any hard rejections.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Find a job
+Post a job
+Sign up
+Tired of searching? Let’s find you the right jobs faster
+Get Started
+Find Jobs
+Azure Devops Engineer
+Subhujo Technologies
+Cape Town
+Temporary
+Full Time
+Published: 2 days ago
+EE/AA, Non EE/AA
+I'm interested
+Save
+Azure Devops Engineer
+Subhujo Technologies
+I'm interested
+Introduction
+
+Looking for an Azure DevOps Engineer
+
+Duties & Responsibilities
+5 to 10  Years of experience required
+Design, build, and maintain CI/CD pipelines using Azure DevOps and GitHub.
+Deploy, manage, and troubleshoot applications running on Kubernetes using Helm Charts.
+Support and optimize containerized workloads using Docker.
+Configure and manage Ingress Controllers and traffic routing.
+Implement monitoring, alerting, and observability solutions.
+Integrate security and code-quality controls into CI/CD pipelines.
+Collaborate with development teams to improve deployment and operational processes.
+Troubleshoot and resolve production and platform-related issues.
+Desired Experience & Qualification
+
+Required Skills
+
+Strong hands-on experience with:
+Kubernetes
+Helm
+Docker
+Azure DevOps
+GitHub
+Experience with Kubernetes networking, Ingress Controllers, and traffic management.
+Strong understanding of CI/CD best practices and release automation.
+Experience with observability and monitoring tools:
+Open Telemetry
+Click Stack
+Grafana
+Experience with DevSecOps tools:
+SonarQube
+Rapid7
+Good understanding of:
+SQL Server
+PostgreSQL
+Exposure to Azure and/or AWS cloud environments.
+Strong troubleshooting and problem-solving skills.
+
+Technical Environment
+
+Applications are in: C# .NET
+Container Platform: Docker, Kubernetes, Helm
+CI/CD: Azure DevOps, GitHub
+Monitoring & Observability: OpenTelemetry, ClickStack, Grafana
+Security: SonarQube, Rapid7
+Databases: SQL Server, PostgreSQL
+Infrastructure: Primarily On-Premises with Azure Cloud exposure
+Package & Remuneration
+
+Open
+
+I'm interested
+Subhujo Technologies
+IT & Internet • 1-10 Employees
+Company Profile
+These jobs were popular with other job seekers
+DMZ263 - Azure DevOps Engineer
+Data Monkey (PTY) LTD
+Cape Town
+just now
+Azure DevOps Engineer
+Samaha Consulting
+Cape Town
+just now
+DevOps Engineer
+Eqplus Technologies (Pty) Ltd
+Cape Town
+just now
+Senior Software Engineer / Senior .NET Developer - 12 month contract (renewable)- Cape Town (Hybrid)
+Africonology Solutions
+Cape Town
+just now
+Senior Backend Engineer (Node.js / TypeScript / MongoDB / AWS) | Remote | 6 month Contract to go per
+Datafin IT Recruitment
+Cape Town
+just now
+Lead Backend Software Engineer
+MIT Recruitment
+Cape Town
+Partially remote
+just now
+Platform Engineer
+QE Services
+Cape Town
+just now
+Principal Software Engineer
+MIT Recruitment
+Cape Town
+Partially remote
+just now
+Systems Architect
+Jean-Mari Hellig Consult
+Cape Town
+just now
+Senior Python Software Engineer
+MIT Recruitment
+Cape Town
+Partially remote
+just now
+Get hired.
+Find success.
+Get started
+Pnet
+About us
+Privacy policy
+Disclaimer
+Terms and conditions
+PAIA
+Jobseekers
+Career advice
+Blog
+Recruiters
+Post job ads
+Contact us – recruiters
+Products and Services
+Download
+App Store
+Google Play
+Pnet © 2026
+We use cookies
+
+We transmit personal data to third-party providers who help us to improve our web services. In this context, we also create and enrich usage profiles (e.g., on the basis of cookie IDs), which may also be transferred outside the Republic of South Africa and outside the EU and EEA.
+
+For this and to be able to use certain services for the purposes listed below, we require your consent. By clicking "Accept all", you agree to these (revocable at any time). This also includes your consent to the transmission of certain personal data to third countries, including the USA*, in accordance with Section 72 (1) (b) POPIA. You can change your settings or refuse data processing under "Settings or reject". You can change your selection at any time under "Privacy Statement" at the bottom of the page.
+
+Storing and/or retrieving information on a device
+Cookies, device identifiers or other information may be stored on or retrieved from your device for the processing purposes shown to you.
+Personalised ads and content, ad and content measurement, audience insights and product development
+Ads and content can be personalised based on a profile. More data can be added to better personalise ads and content. The performance of ads and content can be measured. Insights about audiences who have viewed the ads and content can be extracted. Data can be used to build or improve user experience, systems and software.
+Display third-party content (social networks, videos)
+Content from social networks and embedded content from third-party providers can be displayed.
+Settings or reject
+Accept All
+You can also exercise your right to object to data processing based on legitimate interests under “Privacy Statement”.
+Privacy Statement

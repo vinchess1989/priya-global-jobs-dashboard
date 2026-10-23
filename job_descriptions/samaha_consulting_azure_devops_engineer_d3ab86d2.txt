@@ -1,0 +1,182 @@
+Title: Azure DevOps Engineer
+Company: Samaha Consulting
+Location: Cape Town, South Africa
+URL: https://www.pnet.co.za/jobs--Azure-DevOps-Engineer-Cape-Town-Samaha-Consulting--4294271-inline.html
+Posted: 2026-10-22
+Deadline: N/A
+Reason: The role is a strong match for her DevOps and CI/CD expertise, is located in South Africa (a target country), and does not contain any hard rejections.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Find a job
+Post a job
+Sign up
+Tired of searching? Let’s find you the right jobs faster
+Get Started
+Find Jobs
+Azure DevOps Engineer
+Samaha Consulting
+Cape Town
+Fixed Term
+Full Time
+Published: 2 days ago
+EE/AA, Non EE/AA
+I'm interested
+Save
+Azure DevOps Engineer
+Samaha Consulting
+I'm interested
+Introduction
+
+Azure DevOps Engineer with 5–10 years of experience in designing, implementing, and maintaining CI/CD pipelines using Azure DevOps and GitHub. Strong hands-on expertise in Kubernetes, Helm Charts, Docker, container orchestration, Kubernetes networking, and Ingress Controllers. Experienced in monitoring and observability using OpenTelemetry, ClickStack, and Grafana, with a focus on integrating security and code-quality checks using SonarQube and Rapid7. Knowledge of Azure/AWS cloud environments, SQL Server, PostgreSQL, and C# .NET applications is required. The role involves troubleshooting production issues, optimizing deployment processes, and supporting primarily on-premises infrastructure.
+
+Duties & Responsibilities
+
+Design, develop, and maintain CI/CD pipelines using Azure DevOps and GitHub.
+
+Deploy, manage, and troubleshoot containerized applications on Kubernetes.
+
+Configure and maintain Helm Charts for application deployment and release management.
+
+Build, manage, and optimize Docker containers and containerized workloads.
+
+Configure Kubernetes networking, Ingress Controllers, traffic routing, and load balancing.
+
+Implement monitoring, alerting, and observability solutions using OpenTelemetry, ClickStack, and Grafana.
+
+Integrate security scanning and code-quality checks into CI/CD pipelines using SonarQube and Rapid7.
+
+Automate build, deployment, and release management processes following CI/CD best practices.
+
+Support and troubleshoot C# .NET applications running in containerized environments.
+
+Monitor platform performance, investigate production incidents, and resolve infrastructure and deployment issues.
+
+Collaborate with developers, QA, security, and infrastructure teams to improve deployment reliability.
+
+Support database connectivity and deployment-related issues involving SQL Server and PostgreSQL.
+
+Work with primarily on-premises infrastructure, with exposure to Azure and/or AWS cloud environments.
+
+Desired Experience & Qualification
+
+5–10 years of experience in DevOps, Azure DevOps, platform engineering, or related roles.
+
+Strong hands-on experience with Kubernetes, Helm, Docker, Azure DevOps, and GitHub.
+
+Proven experience building and maintaining CI/CD pipelines and automated release processes.
+
+Strong knowledge of Kubernetes networking, Ingress Controllers, traffic routing, and container orchestration.
+
+Experience with monitoring and observability tools such as OpenTelemetry, ClickStack, and Grafana.
+
+Hands-on experience integrating DevSecOps and code-quality tools, particularly SonarQube and Rapid7.
+
+Good understanding of SQL Server and PostgreSQL databases.
+
+Exposure to Azure and/or AWS cloud environments and on-premises infrastructure.
+
+Experience supporting or deploying C# .NET applications is advantageous.
+
+Strong production troubleshooting, incident resolution, analytical, and problem-solving skills.
+
+Ability to collaborate effectively with development, security, QA, and infrastructure teams.
+
+I'm interested
+Samaha Consulting
+IT & Internet • 1-10 Employees
+1 Job
+Company Profile
+Our Location
+Samaha Consulting
+Byron Close 1, 1685 Johannesburg, South Africa
+Open map
+Commute Time
+From:
+To:
+How:
+Car
+Public Transport
+Walk
+Cycle
+Show commute time
+- - : - -
+These jobs were popular with other job seekers
+DMZ263 - Azure DevOps Engineer
+Data Monkey (PTY) LTD
+Cape Town
+just now
+Azure Devops Engineer
+Subhujo Technologies
+Cape Town
+just now
+DevOps Engineer
+Eqplus Technologies (Pty) Ltd
+Cape Town
+just now
+Senior Software Engineer / Senior .NET Developer - 12 month contract (renewable)- Cape Town (Hybrid)
+Africonology Solutions
+Cape Town
+just now
+Solutions Architect (Enterprise architecture · Microsoft / Oracle / AWS · CRM and ERP)
+Sabenza IT Recruitment
+Cape Town
+just now
+PHP Developer
+MSP Staffing Pty Ltd
+Cape Town
+just now
+Platform Engineer
+QE Services
+Cape Town
+just now
+Lead Software Engineer
+Goldman Tech Resourcing (Pty) Ltd
+Cape Town
+just now
+Cybersecurity & Risk Specialist (Coordinator Level) (CPT Onsite)
+Datafin IT Recruitment
+Cape Town
+just now
+Senior Product Owner (Fulfillment)
+Sabenza IT Recruitment
+Cape Town
+just now
+Get hired.
+Find success.
+Get started
+Pnet
+About us
+Privacy policy
+Disclaimer
+Terms and conditions
+PAIA
+Jobseekers
+Career advice
+Blog
+Recruiters
+Post job ads
+Contact us – recruiters
+Products and Services
+Download
+App Store
+Google Play
+Pnet © 2026
+We use cookies
+
+We transmit personal data to third-party providers who help us to improve our web services. In this context, we also create and enrich usage profiles (e.g., on the basis of cookie IDs), which may also be transferred outside the Republic of South Africa and outside the EU and EEA.
+
+For this and to be able to use certain services for the purposes listed below, we require your consent. By clicking "Accept all", you agree to these (revocable at any time). This also includes your consent to the transmission of certain personal data to third countries, including the USA*, in accordance with Section 72 (1) (b) POPIA. You can change your settings or refuse data processing under "Settings or reject". You can change your selection at any time under "Privacy Statement" at the bottom of the page.
+
+Storing and/or retrieving information on a device
+Cookies, device identifiers or other information may be stored on or retrieved from your device for the processing purposes shown to you.
+Personalised ads and content, ad and content measurement, audience insights and product development
+Ads and content can be personalised based on a profile. More data can be added to better personalise ads and content. The performance of ads and content can be measured. Insights about audiences who have viewed the ads and content can be extracted. Data can be used to build or improve user experience, systems and software.
+Display third-party content (social networks, videos)
+Content from social networks and embedded content from third-party providers can be displayed.
+Settings or reject
+Accept All
+You can also exercise your right to object to data processing based on legitimate interests under “Privacy Statement”.
+Privacy Statement

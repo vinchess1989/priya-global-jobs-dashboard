@@ -1,0 +1,241 @@
+Title: Software Engineer III - DevOps
+Company: JPMorganChase
+Location: Mumbai, Maharashtra, India
+URL: https://in.linkedin.com/jobs/view/software-engineer-iii-devops-at-jpmorganchase-4483145681
+Posted: 2026-10-24
+Deadline: Open until filled
+Reason: The role is a strong match for her DevOps and CI/CD expertise, is located in India, and does not fall under any hard rejection criteria.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Software Engineer III - DevOps
+JPMorganChase  Mumbai, Maharashtra, India
+1 hour ago   Be among the first 25 applicants
+  
+
+See who JPMorganChase has hired for this role
+
+Apply 
+Save
+Job Description
+
+We have an exciting and rewarding opportunity for you to take your software engineering career to the next level.
+
+As a Software Engineer III at JPMorganChase within the Asset and Wealth Management Technology and 55ip team, you serve as a seasoned member of an agile team to design and deliver trusted market-leading technology products in a secure, stable, and scalable way. You are responsible for carrying out critical technology solutions across multiple technical areas within various business functions in support of the firm's business objectives.
+
+Job Responsibilities
+
+
+Develop automation tools / code scripts to stand-up and monitor infrastructure components and security configurations
+Implement CI and CD pipelines, thereby automating & improving stability of the release process, troubleshoot infrastructure and configuration issues across all environments.
+Provide technical support during software development. Assist development team in debugging environment specific issues
+Maintain & monitor asset inventory across all environments, Develop and maintain containerized applications using Docker
+Provision and manage infrastructure using advanced Terraform techniques, administer and optimize Linux-based environments. Ensure all-time “ON” state of production, CERT and testing environments
+Work with databases including PostgreSQL and MongoDB, and write scripts in Python and Bash for automation and operational tasks
+Assist in cost rationalization exercises, liaise with architects to gather and understand technical requirements
+Utilize development tools such as Git/BitBucket, Jira, ServiceNow, and pre-commit hooks for efficient workflow management, configure and implement AWS RDS and Aurora services using Terraform
+Monitor and troubleshoot systems using Splunk queries and monitoring tools such as Datadog, Dynatrace, or Grafana
+Leverages enterprise-authorized AI coding assist tools within the work environment to improve code quality, delivery speed, and productivity across complex deliverables (e.g., code generation/refactoring, unit test creation, documentation), while validating outputs through peer review, automated testing, and secure coding standards; contributes learnings and reusable patterns to improve broader team effectiveness.
+Applies knowledge of tools within the Software Development Life Cycle toolchain, including enterprise-authorized AI-assisted development and automation capabilities, to improve the value realized by automation.
+
+
+Required Qualifications, Capabilities, And Skills
+
+
+Formal training or certification on software engineering concepts and 3+ years applied experience .
+Expertise in administration of AWS Services like EC2, ECS, ELB, S3, Lambda, Postgres RDS/Aurora, ElastiCache, CodeDeploy, and CloudWatch.
+Experience with CI/CD best practices and implementations, with tools such as Jules, Jenkins and Spinnaker.
+Strong background in AWS services, infrastructure provisioning, and automation, with a passion for delivering high-quality solutions in a collaborative environment.
+Efficient in communicating effectively with team members and stakeholders, demonstrating strong analytical and problem-solving skills.
+Hands-on experience using enterprise-authorized AI-assisted software development tools within the work environment (e.g., for coding, test creation, troubleshooting, or documentation) with demonstrated ability to critically evaluate, validate, and refine AI-generated outputs for correctness, performance, and security.
+Understanding of responsible AI use in engineering workflows, including data sensitivity considerations, secure handling of inputs/outputs, and adherence to resiliency and security expectations; ability to guide peers on safe and effective usage within team practices.
+Ability to maintain a high level of attention to detail, accountability, and pride in delivering quality work.
+Strong communication & interpersonal skills and ability to explain protocol and processes to the team.
+Excellent diagnostic abilities, proactively identifying potential issues before they escalate.
+
+
+Preferred Qualifications, Capabilities, And Skills
+
+
+Experience working with messaging and caching frameworks such as Kafka, RabbitMQ, and Redis
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at JPMorganChase by 2x
+
+See who you know
+
+Get notified about new Software Engineer jobs in Mumbai, Maharashtra, India.
+
+Sign in to create job alert
+Jobs
+Oracle Software Engineer jobs
+Software Engineer III - DevOps
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+Reliance Intelligence
+Navi Mumbai, Maharashtra, India
+1 day ago
+DevOps Engineer
+DevOps Engineer
+Accenture in India
+Navi Mumbai, Maharashtra, India
+4 weeks ago
+DevOps Engineer – III
+DevOps Engineer – III
+Abbott
+Mumbai Metropolitan Region
+1 month ago
+DevOps / MLOps Engineer
+DevOps / MLOps Engineer
+Godrej Industries Group
+Mumbai, Maharashtra, India
+6 months ago
+DevOps Engineer
+DevOps Engineer
+Sia
+Mumbai, Maharashtra, India
+1 week ago
+Devops/ Senior Devops Engineer
+Devops/ Senior Devops Engineer
+NEC Software Solutions (India)
+Mumbai, Maharashtra, India
+4 weeks ago
+Show more jobs like this 
+People also viewed
+DevOps Engineer
+DevOps Engineer
+
+AjnaLens
+
+Thane, Maharashtra, India
+1 week ago
+Devops Engineer/ Senior Devops Engineer - Linux
+Devops Engineer/ Senior Devops Engineer - Linux
+
+WebEngage
+
+Mumbai Metropolitan Region
+2 months ago
+DevOps Engineer (Mumbai, On-site)
+DevOps Engineer (Mumbai, On-site)
+
+XenonStack Moments
+
+Mumbai, Maharashtra, India
+1 week ago
+Cloud Engineer
+Cloud Engineer
+
+Priceline
+
+Mumbai, Maharashtra, India
+2 weeks ago
+Site Reliability Engineer III
+Site Reliability Engineer III
+
+JPMorganChase
+
+Mumbai, Maharashtra, India
+2 days ago
+Senior DevSecOps Engineer
+Senior DevSecOps Engineer
+
+Ahy Consulting
+
+Kalyan Dombivli, Maharashtra, India
+1 month ago
+DevOps Engineer
+DevOps Engineer
+
+Simple Logic IT Private Limited
+
+Mumbai, Maharashtra, India
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+Tradelab Technologies
+
+Mumbai Metropolitan Region
+₹700,000 - ₹1,800,000
+10 months ago
+DevOps Engineer
+DevOps Engineer
+
+Whitefield Careers
+
+Mumbai Metropolitan Region
+4 months ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+MSCI Inc.
+
+Mumbai Metropolitan Region
+1 week ago
+Similar Searches
+Oracle Software Engineer jobs
+2,567 open jobs
+Software Engineer jobs
+59,663 open jobs
+Technology Strategist jobs
+3,543 open jobs
+Quantitative Developer jobs
+1,604 open jobs
+Application Engineer jobs
+50,848 open jobs
+Quantitative Researcher jobs
+1,535 open jobs
+Senior Software Engineer jobs
+18,207 open jobs
+Java Software Engineer jobs
+11,988 open jobs
+Senior Data Engineer jobs
+13,563 open jobs
+Associate Software Engineer jobs
+52,154 open jobs
+Information Security Officer jobs
+953 open jobs
+Software Intern jobs
+636 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+You’re signed out
+Sign in for the full experience.
+Sign in Join now

@@ -1,12 +1,9 @@
 {
-  "pid": 78072,
-  "started_at": "2026-10-23T03:55:04+03:00",
-  "heartbeat_at": "2026-10-23T04:16:12+03:00",
-  "phase": "scraped",
-  "detail": "0 new jobs",
-  "last_scrape_ok_at": "2026-10-23T04:16:12+03:00",
-  "last_error": {
-    "at": "2026-10-23T04:16:11+03:00",
-    "message": "jobsinmalta_broad: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://jobsinmalta.com/jobs\nCall log:\n  - navigating to \"https://jobsinmalta.com/jobs\", waiting until \"load\"\n"
-  }
+  "pid": 9184,
+  "started_at": "2026-10-24T01:55:09+03:00",
+  "heartbeat_at": "2026-10-24T01:58:55+03:00",
+  "phase": "reviewing",
+  "detail": "Regulatory Affairs Manager",
+  "last_scrape_ok_at": "2026-10-24T01:57:14+03:00",
+  "last_error": null
 }

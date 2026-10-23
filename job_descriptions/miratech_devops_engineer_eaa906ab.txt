@@ -1,0 +1,251 @@
+Title: Devops Engineer
+Company: Miratech
+Location: Bengaluru, Karnataka, India
+URL: https://in.linkedin.com/jobs/view/devops-engineer-at-miratech-4480647830
+Posted: 2026-10-24
+Deadline: Open until filled
+Reason: The role aligns with the candidate's extensive experience in DevOps, CI/CD pipeline automation, and infrastructure management, and it is located in India, which is one of her target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Devops Engineer
+Miratech  Bengaluru, Karnataka, India
+10 hours ago   Over 200 applicants
+  
+
+See who Miratech has hired for this role
+
+Apply
+Save
+Miratech helps visionaries change the world. We are a global IT services and consulting company that brings together enterprise and start-up innovation. Today, we support digital transformation for some of the world's largest enterprises. By partnering with both large and small players, we stay at the leading edge of technology, remain nimble even as a global leader, and create technology that helps our clients further enhance their business. We are a valuesdriven organization and our culture of Relentless Performance has enabled over 99% of Miratech's engagements to succeed by meeting or exceeding our scope, schedule, and/or budget objectives since our inception in 1989.
+
+Miratech has coverage across 5 continents and operates in 25 countries around the world. Miratech retains nearly 1000 full-time professionals, and our annual growth rate exceeds 25%
+
+Job Description
+
+We are looking for a highly skilled Platform DevOps Engineer with a strong development background to join our dynamic engineering team. In this role, you will bridge the gap between software development and IT operations, ensuring the reliability, scalability, and security of our cloud infrastructure and deployment pipelines. Since our core product is built on .NET/C#, your ability to collaborate closely with development teams and understand their ecosystem will be crucial.
+
+Responsibilities:
+
+
+Infrastructure Management: Design, provision, and maintain secure and scalable cloud infrastructure on AWS, utilizing services like EKS (Elastic Kubernetes Service) and ECS (Elastic Container Service).
+CI/CD Pipeline Automation: Build, maintain, and optimize robust CI/CD pipelines using GitLab CI and Azure DevOps to ensure smooth and automated software delivery.
+Infrastructure as Code (IaC): Utilize Terraform for provisioning and managing cloud resources and Ansible for configuration management and application deployment.
+Software Development & Automation: Write high-quality, maintainable code for automation, tooling, and system integrations using Python
+Platform Reliability: Monitor system performance, troubleshoot complex infrastructure issues, and implement proactive solutions to ensure high availability and minimal downtime.
+Cross-Functional Collaboration: Work closely with our .NET development teams to streamline the development lifecycle, optimize application architecture for the cloud, and foster a culture of DevOps best practices.
+
+
+Qualifications
+
+
+Experience: Minimum of 4 years of hands-on experience in a DevOps, Platform Engineering, or Software Engineering role.
+Development Background: Proven background in software development with strong algorithmic and problem-solving skills.
+Highly proficient in Python, with hands-on experience developing automation scripts, tools, and solutions to improve infrastructure, deployment, and operational processes.
+Cloud Platforms: Extensive experience with AWS ecosystem, with deep knowledge of container orchestration using EKS and ECS.
+CI/CD Tools: Strong hands-on experience with GitLab CI and Azure DevOps.
+Automation & IaC: Proficiency in Infrastructure as Code (IaC) using Terraform and configuration management using Ansible.
+Source Control: Advanced knowledge of Git and branching strategies.
+
+
+Nice to have:
+
+
+NET Ecosystem: Experience or background working with .NET / C# technologies. A strong understanding of the .NET software development lifecycle will give you a significant advantage, as you will be supporting a product built on this stack.
+Certifications: AWS Certified DevOps Engineer, Certified Kubernetes Administrator (CKA), or similar credentials.
+
+
+Additional Information
+
+We offer:
+
+
+Culture of Relentless Performance: join an unstoppable technology development team with a 99% project success rate and more than 30% year-over-year revenue growth.
+Competitive Pay and Benefits: enjoy a comprehensive compensation and benefits package, including health insurance, and a relocation program.
+Work From Anywhere Culture: make the most of the flexibility that comes with remote work.
+Growth Mindset: reap the benefits of a range of professional development opportunities, including certification programs, mentorship and talent investment programs, internal mobility and internship opportunities.
+Global Impact: collaborate on impactful projects for top global clients and shape the future of industries.
+Welcoming Multicultural Environment: be a part of a dynamic, global team and thrive in an inclusive and supportive work environment with open communication and regular team-building company social events.
+Social Sustainability Values: join our sustainable business practices focused on five pillars, including IT education, community empowerment, fair operating practices, environmental sustainability, and gender equality.
+Miratech is an equal opportunity employer and does not discriminate against any employee or applicant for employment on the basis of race, color, religion, sex, national origin, age, disability, veteran status, sexual orientation, gender identity, or any other protected status under applicable law.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development and IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Miratech by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Bengaluru, Karnataka, India.
+
+Sign in to create job alert
+Jobs
+Lead Application Developer jobs
+Devops Engineer
+Similar jobs
+DevOps Engineer (Permanent WFH)
+DevOps Engineer (Permanent WFH)
+Turgajo Technologies
+India
+₹700,000 - ₹1,000,000
+1 year ago
+Devops Engineer
+Devops Engineer
+MantriAI
+India
+2 weeks ago
+DevOps Engineer
+Open Metal India
+India
+1 week ago
+DevOps Engineer
+DevOps Engineer
+India's Future Investors - Money Entertainment Reality Show
+India
+4 days ago
+DevOps Engineer
+DevOps Engineer
+Flexiple
+India
+18 hours ago
+DevOps Engineer
+DevOps Engineer
+Miratech
+Bengaluru, Karnataka, India
+1 week ago
+Show more jobs like this 
+People also viewed
+DevOps
+DevOps
+
+DataHub
+
+Bengaluru, Karnataka, India
+1 month ago
+Platform Engineer
+Platform Engineer
+
+Flexiple
+
+India
+3 hours ago
+Senior Dev Ops Engineer
+Senior Dev Ops Engineer
+
+Cotiviti
+
+India
+11 months ago
+Lead Infrastructure & DevOps Engineer
+Lead Infrastructure & DevOps Engineer
+
+Natoe AI
+
+India
+2 weeks ago
+Cloud Security & DevOps Engineer
+Cloud Security & DevOps Engineer
+
+Ajaia | AI Consultancy
+
+India
+$30,000 - $35,000
+3 months ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Karat
+
+Greater Bengaluru Area
+1 week ago
+DevOps & AIOps Engineer REQ_122
+DevOps & AIOps Engineer REQ_122
+
+3Pillar
+
+India
+2 days ago
+SRE / Cloud Engineer
+SRE / Cloud Engineer
+
+MetAntz
+
+Bengaluru, Karnataka, India
+1 month ago
+DevOps Engineer
+DevOps Engineer
+
+Natus Sensory
+
+Bengaluru, Karnataka, India
+1 week ago
+Senior DevOps Engineer – Infrastructure & Platform
+Senior DevOps Engineer – Infrastructure & Platform
+
+Rocket Learning
+
+India
+1 week ago
+Similar Searches
+Lead Application Developer jobs
+7,956 open jobs
+Software Associate jobs
+589 open jobs
+Group Managing Director jobs
+258 open jobs
+Web Engineer jobs
+22,653 open jobs
+Director of Technology Operations jobs
+175 open jobs
+Public Relations Officer jobs
+1,025 open jobs
+Network Sales Engineer jobs
+674 open jobs
+Land Acquisition Manager jobs
+50 open jobs
+Lead Data Architect jobs
+650 open jobs
+Purchasing Analyst jobs
+1,363 open jobs
+Technical Sales Manager jobs
+2,776 open jobs
+Storage Administrator jobs
+1,497 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+You’re signed out
+Sign in for the full experience.
+Sign in Join now

@@ -1,0 +1,156 @@
+Title: DMZ263 - Azure DevOps Engineer
+Company: Data Monkey (PTY) LTD
+Location: Cape Town, South Africa
+URL: https://www.pnet.co.za/jobs--DMZ263-Azure-DevOps-Engineer-Cape-Town-Data-Monkey-PTY-LTD--4296165-inline.html
+Posted: 2026-10-24
+Deadline: N/A
+Reason: The role is a strong match for the candidate's DevOps, CI/CD, and configuration management expertise, and it is located in South Africa, which is one of the target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Find a job
+Post a job
+Sign up
+Tired of searching? Let’s find you the right jobs faster
+Get Started
+Find Jobs
+DMZ263 - Azure DevOps Engineer
+Data Monkey (PTY) LTD
+Cape Town
+Fixed Term
+Full Time
+Published: 9 hours ago
+EE/AA, Non EE/AA
+I'm interested
+Save
+DMZ263 - Azure DevOps Engineer
+Data Monkey (PTY) LTD
+I'm interested
+Job Summary
+
+Our client is seeking an experienced Azure DevOps Engineer to design, build and maintain reliable CI/CD pipelines and containerised application platforms. The successful candidate will work with Azure DevOps, GitHub, Docker, Kubernetes and Helm, supporting C# .NET applications in a primarily on-premises environment with Azure cloud exposure. This role requires strong expertise in deployment automation, Kubernetes networking, observability, DevSecOps and production troubleshooting, with a focus on secure, stable and efficient software delivery.
+
+Responsibilities
+Design, build and maintain automated CI/CD pipelines using Azure DevOps and GitHub to support consistent application delivery.
+Deploy, manage and troubleshoot containerised C# .NET applications on Kubernetes using Helm charts.
+Support and optimise Docker container workloads, improving deployment reliability and platform performance.
+Configure Kubernetes networking, Ingress Controllers and traffic routing to ensure effective application connectivity.
+Implement and maintain monitoring, alerting and observability solutions using OpenTelemetry, ClickStack and Grafana.
+Integrate SonarQube and Rapid7 security and code-quality controls into CI/CD pipelines and release processes.
+Automate release workflows and apply CI/CD best practices to improve deployment consistency and efficiency.
+Collaborate with development teams to enhance build, deployment and operational processes for C# .NET applications.
+Investigate and resolve production incidents, platform failures and deployment issues across containerised environments.
+Support infrastructure and application operations in primarily on-premises environments with Azure cloud exposure.
+Assist with database-related troubleshooting and application connectivity involving SQL Server and PostgreSQL.
+Maintain operational documentation and work with cross-functional teams to improve platform stability and service delivery.
+Competencies
+Strong analytical thinking and structured troubleshooting of complex infrastructure and application issues.
+Clear technical communication with development, security and operations stakeholders.
+Ownership and accountability for deployment reliability, platform stability and operational outcomes.
+Sound judgement when investigating production incidents and identifying practical solutions.
+Ability to work effectively under pressure while resolving urgent platform and deployment issues.
+Adaptability to changing technical priorities, environments and delivery requirements.
+Collaborative approach to improving development workflows and operational processes.
+High attention to detail in configuration, automation, monitoring and security controls.
+Proactive approach to continuous improvement, reliability and problem prevention.
+Technical Skills
+5 to 10 years of relevant experience in DevOps engineering, deployment automation or related technical environments is mandatory.
+Strong hands-on experience with Kubernetes administration, deployment and troubleshooting is mandatory.
+Practical experience with Helm charts and Kubernetes application deployment is mandatory.
+Strong experience with Docker and containerised workloads is mandatory.
+Proficiency in Azure DevOps and GitHub for CI/CD pipeline development and maintenance is mandatory.
+Experience with Kubernetes networking, Ingress Controllers and traffic management is mandatory.
+Strong understanding of CI/CD best practices, release automation and deployment processes is mandatory.
+Experience with observability tools including OpenTelemetry, ClickStack and Grafana is mandatory.
+Experience integrating DevSecOps and code-quality tools including SonarQube and Rapid7 is mandatory.
+Working understanding of SQL Server and PostgreSQL is mandatory.
+Exposure to Azure and/or AWS cloud environments is mandatory.
+Ability to troubleshoot production, platform and application deployment issues is mandatory.
+Experience supporting C# .NET application environments is advantageous.
+Experience working with primarily on-premises infrastructure and Azure cloud exposure is advantageous.
+Strong problem-solving capabilities and effective collaboration with development teams are mandatory.
+General Information
+I'm interested
+Data Monkey (PTY) LTD
+HR Services, Recruitment & Selection • 11-50 Employees
+1 Job
+Company Profile
+These jobs were popular with other job seekers
+Azure DevOps Engineer
+Samaha Consulting
+Cape Town
+just now
+Azure Devops Engineer
+Subhujo Technologies
+Cape Town
+just now
+Senior Software Engineer / Senior .NET Developer - 12 month contract (renewable)- Cape Town (Hybrid)
+Africonology Solutions
+Cape Town
+just now
+DevOps Engineer
+Eqplus Technologies (Pty) Ltd
+Cape Town
+just now
+PHP Developer
+MSP Staffing Pty Ltd
+Cape Town
+just now
+Platform Engineer
+QE Services
+Cape Town
+just now
+Solutions Architect (Enterprise architecture · Microsoft / Oracle / AWS · CRM and ERP)
+Sabenza IT Recruitment
+Cape Town
+just now
+PHP Developer
+MSP Staffing Pty Ltd
+Cape Town
+just now
+PHP Developer
+MSP Staffing Pty Ltd
+Cape Town
+just now
+Cybersecurity & Risk Specialist (Coordinator Level) (CPT Onsite)
+Datafin IT Recruitment
+Cape Town
+just now
+Get hired.
+Find success.
+Get started
+Pnet
+About us
+Privacy policy
+Disclaimer
+Terms and conditions
+PAIA
+Jobseekers
+Career advice
+Blog
+Recruiters
+Post job ads
+Contact us – recruiters
+Products and Services
+Download
+App Store
+Google Play
+Pnet © 2026
+We use cookies
+
+We transmit personal data to third-party providers who help us to improve our web services. In this context, we also create and enrich usage profiles (e.g., on the basis of cookie IDs), which may also be transferred outside the Republic of South Africa and outside the EU and EEA.
+
+For this and to be able to use certain services for the purposes listed below, we require your consent. By clicking "Accept all", you agree to these (revocable at any time). This also includes your consent to the transmission of certain personal data to third countries, including the USA*, in accordance with Section 72 (1) (b) POPIA. You can change your settings or refuse data processing under "Settings or reject". You can change your selection at any time under "Privacy Statement" at the bottom of the page.
+
+Storing and/or retrieving information on a device
+Cookies, device identifiers or other information may be stored on or retrieved from your device for the processing purposes shown to you.
+Personalised ads and content, ad and content measurement, audience insights and product development
+Ads and content can be personalised based on a profile. More data can be added to better personalise ads and content. The performance of ads and content can be measured. Insights about audiences who have viewed the ads and content can be extracted. Data can be used to build or improve user experience, systems and software.
+Display third-party content (social networks, videos)
+Content from social networks and embedded content from third-party providers can be displayed.
+Settings or reject
+Accept All
+You can also exercise your right to object to data processing based on legitimate interests under “Privacy Statement”.
+Privacy Statement

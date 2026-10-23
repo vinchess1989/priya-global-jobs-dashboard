@@ -1,0 +1,247 @@
+Title: Senior DevOps Engineer (Calypso/Capital Markets)
+Company: Core Experts Consulting
+Location: Greater Sydney Area
+URL: https://au.linkedin.com/jobs/view/senior-devops-engineer-calypso-capital-markets-at-core-experts-consulting-4481630250
+Posted: 2026-10-24
+Deadline: N/A
+Reason: The role aligns perfectly with the candidate's extensive background in DevOps, release management, and CI/CD pipelines within regulated environments, and it is located in an eligible country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer (Calypso/Capital Markets)
+Core Experts Consulting  Greater Sydney Area
+22 hours ago   Be among the first 25 applicants
+  
+
+See who Core Experts Consulting has hired for this role
+
+Apply
+Save
+
+Direct message the job poster from Core Experts Consulting
+
+Neeru Dahiya
+Neeru Dahiya
+Senior Talent Acquisition Professional | Specialist in niche and volume hiring | Passion for emerging technologies & Innovation
+
+About Role
+
+You will play a key role in building and operating the next-generation Calypso platform, supporting the transition from traditional infrastructure to cloud-native and automated delivery practices. The team is driving strategic initiatives including Calypso cloud migration, Aurora PostgreSQL adoption, DevOps automation uplift, GitLab SaaS migration, observability enhancement, and platform modernization.
+
+
+
+
+Key Responsibilities
+
+Design, deploy, and maintain AWS cloud infrastructure supporting the Calypso platform and its associated services.
+Develop and maintain automated CI/CD pipelines using GitLab SaaS to streamline deployments across environments.
+Implement Infrastructure as Code (IaC) using Terraform and Ansible to automate provisioning, deployments, and operational tasks.
+Support the migration of Calypso workloads from on-premise infrastructure to AWS.
+Improve platform observability through logging, monitoring, alerting, OpenTelemetry, and AWS CloudWatch.
+Support Aurora PostgreSQL migration, environment configuration, database refreshes, and deployment automation.
+Manage secrets, certificates, access controls, and security configurations in line with enterprise standards.
+Troubleshoot application, infrastructure, networking, and deployment issues, while supporting releases, change management, and incident resolution.
+Contribute to DevOps standards, reusable deployment frameworks, operational documentation, and Calypso modernization initiatives, including containerization.
+
+
+
+
+Skills & Experience
+
+Must-have:
+
+Experience of 9+ years in DevOps, Cloud Engineering, Platform Engineering, or SRE.
+Strong hands-on expertise in AWS, particularly EC2, ECS/EKS, S3, IAM, VPC, CloudWatch, Secrets Manager, and RDS/Aurora.
+Proven experience building CI/CD pipelines and automating deployments using GitLab SaaS.
+Strong knowledge of Terraform, Ansible, Linux administration, and scripting with Python or Bash.
+Experience with financial services platforms, ideally Calypso, capital markets systems, clearing, or collateral management.
+Experience supporting business-critical production environments, ideally within highly regulated organizations.
+Good understanding of release management, change control, environment management, monitoring, and incident response.
+Strong troubleshooting skills across applications, databases, infrastructure, and networking.
+Familiarity with secrets management tools such as HashiCorp Vault.
+Excellent communication and collaboration skills, with the ability to work across Engineering, QA, Operations, Security, and Architecture teams.
+
+
+
+
+Nice to have:
+
+Experience with Oracle-to-Aurora PostgreSQL migrations and database automation tools such as Liquibase.
+Experience with Kubernetes, containerization, and cloud-native deployment practices.
+Familiarity with observability tools such as OpenTelemetry, Grafana, Splunk, or ELK.
+Understanding of financial services technology, exchange infrastructure, and regulatory requirements.
+Exposure to test automation, DevOps-led quality engineering, and ITIL processes.
+Experience contributing to large-scale cloud migration and platform modernization programs.
+
+
+
+
+Technology landscape
+
+AWS | GitLab SaaS | Terraform | Ansible | Python | Bash | SQL | Linux/Unix | HashiCorp Vault | Aurora PostgreSQL | Oracle | Liquibase | CloudWatch | OpenTelemetry | Grafana | Splunk | ELK
+
+
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Core Experts Consulting by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Greater Sydney Area.
+
+Sign in to create job alert
+Jobs
+Mathematics Tutor jobs
+Senior DevOps Engineer (Calypso/Capital Markets)
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+Cloud Raptor
+Sydney, New South Wales, Australia
+A$150,000 - A$170,000
+1 week ago
+Platform Engineer
+Platform Engineer
+Akuna Capital
+Sydney, New South Wales, Australia
+2 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Australian Payments Plus
+Sydney, New South Wales, Australia
+4 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+HUB24 Limited
+Sydney, New South Wales, Australia
+6 days ago
+AWS Devops
+Luxoft Australia
+Sydney, New South Wales, Australia
+1 month ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Hatch
+Sydney, New South Wales, Australia
+1 month ago
+Show more jobs like this 
+People also viewed
+Platform Specialist_Devops
+Platform Specialist_Devops
+
+XPT Software
+
+Sydney, New South Wales, Australia
+1 week ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+FIS
+
+Millers Point, New South Wales, Australia
+1 week ago
+Senior DevOps Engineer - Operations
+Senior DevOps Engineer - Operations
+
+CoStar Group
+
+Pyrmont, New South Wales, Australia
+2 weeks ago
+DevOps Engineer / Senior Analyst (AU Citizen with Security Clearance)
+DevOps Engineer / Senior Analyst (AU Citizen with Security Clearance)
+
+Accenture Australia
+
+Sydney, New South Wales, Australia
+1 month ago
+Lead Cloud Platform Engineer
+Lead Cloud Platform Engineer
+
+Compare Club
+
+Sydney, New South Wales, Australia
+2 days ago
+DevOps Engineer
+DevOps Engineer
+
+Shift
+
+North Sydney, New South Wales, Australia
+6 days ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+Blinq
+
+Sydney, New South Wales, Australia
+1 day ago
+DevOps Engineer
+DevOps Engineer
+
+Change Recruitment
+
+North Sydney, New South Wales, Australia
+A$130,000 - A$150,000
+3 weeks ago
+Systems Engineer
+Systems Engineer
+
+Akuna Capital
+
+Sydney, New South Wales, Australia
+4 weeks ago
+Platform Specialist_Devops
+Platform Specialist_Devops
+
+XPT Software Australia
+
+Sydney, New South Wales, Australia
+6 days ago
+Similar Searches
+Mathematics Tutor jobs
+3,797 open jobs
+Account Executive jobs
+2,265 open jobs
+Engineer jobs
+12,824 open jobs
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+You’re signed out
+Sign in for the full experience.
+Sign in Join now
