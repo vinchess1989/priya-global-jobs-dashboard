@@ -1,0 +1,244 @@
+Title: Staff Engineer QA, PC Apps
+Company: Dolby Laboratories
+Location: Dublin, County Dublin, Ireland
+URL: https://ie.linkedin.com/jobs/view/staff-engineer-qa-pc-apps-at-dolby-laboratories-4397327882
+Posted: 2026-10-10
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in SQA strategy, CI/CD-driven quality gates, and technical leadership in a professional, English-speaking environment in Ireland.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Staff Engineer QA, PC Apps
+Dolby Laboratories  Dublin, County Dublin, Ireland
+2 weeks ago   Over 200 applicants
+  
+
+See who Dolby Laboratories has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Join the leader in entertainment innovation and help us design the future. At Dolby, science meets art, and high tech means more than computer code. As a member of the Dolby team, you’ll see and hear the results of your work everywhere, from movie theaters to smartphones. We continue to revolutionize how people create, deliver, and enjoy entertainment worldwide. To do that, we need the absolute best talent. We’re big enough to give you all the resources you need, and small enough so you can make a real difference and earn recognition for your work. We offer a collegial culture, challenging projects, and excellent compensation and benefits, not to mention a Flex Work approach that is truly flexible to support where, when, and how you do your best work.
+
+The role:
+
+For Dolby’s PC Applications, you will play a critical role in defining, evolving, and driving Software Quality Assurance (SQA) strategy across a portfolio of consumer-facing, client-side applications used at global scale. 
+
+As a Staff Engineer – SQA, you operate at both strategic and hands-on technical levels. You shape longterm SQA direction, design scalable test and automation frameworks, and influence engineering and product decisions across multiple teams. 
+
+This is a senior technical leadership role focused on impact, standards, and sustainability. It is not a people management position. 
+
+What we offer: 
+
+
+Work on a portfolio of consumer-facing PC applications with global reach. 
+An engineering led Software Quality Assurance culture that values ownership and longterm sustainability. 
+Modern development and validation workflows, including CI/CD driven quality gates. 
+The opportunity to shape SQA strategy, frameworks, and standards across teams. 
+A role with real technical influence and longterm organizational impact. 
+
+
+What you will do: 
+
+
+Define and evolve Software Quality Assurance (SQA) strategy, standards, and longterm direction across multiple PC applications. 
+Design, own, and evolve scalable SQA automation frameworks and validation strategies. 
+Establish quality metrics, benchmarks, and release criteria to enable predictable, highquality delivery. 
+Identify systemic quality risks and lead cross-team SQA initiatives to address them. 
+Ensure SQA practices are built into development workflows, including CI/CDbased validation and quality gates. 
+Partner with software engineering, product, and leadership to influence quality and delivery decisions. 
+Act as a technical authority and trusted advisor on SQA topics across the organization. 
+Mentor senior SQA and software engineers, raising quality awareness and technical standards across teams. 
+
+
+What You Bring
+
+Required: 
+
+
+Deep experience in Software Quality Assurance (SQA), quality engineering, or test architecture for complex, production grade software systems. 
+Strong hands-on experience with SQA automation and quality tooling, using scripting or programming languages such as Python. 
+Proven ability to design, evolve, and own SQA automation frameworks and validation strategies across multiple test levels (unit, integration, system, endtoend). 
+Strong understanding of CI/CDdriven development and SQA validation workflows, including quality gates and release readiness. 
+Ability to analyze, debug, and reason about issues in C#based client applications, even if not writing production application code daily. 
+Experience applying SQA practices to client-side, consumer-facing applications with high requirements for stability, reliability, and quality at scale. 
+Ability to operate at both hands-on technical and strategic levels, influencing SQA and delivery decisions across teams. 
+Strong technical judgment, ownership mindset, and the ability to communicate SQA risks, tradeoffs, and recommendations to senior stakeholders. 
+
+
+Nice to have: 
+
+
+Experience building SQA frameworks or tooling in Python. 
+Familiarity with Windows based client application platforms. 
+Experience debugging system level or native components (e.g. C++ dependencies). 
+Experience defining organizationwide SQA standards, metrics, or release criteria. 
+
+
+Dolby Hiring Entity:
+
+77 Sir John Rogerson's Quay, Block C
+
+Grand Canal Docklands
+
+Dublin D02 VK60Ireland
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Computers and Electronics Manufacturing
+  
+
+Referrals increase your chances of interviewing at Dolby Laboratories by 2x
+
+See who you know
+
+Get notified about new Personal Computer Engineer jobs in Dublin, County Dublin, Ireland.
+
+Sign in to create job alert
+Similar jobs
+Senior Quality Engineer
+Senior Quality Engineer
+Web Summit
+Dublin, County Dublin, Ireland
+4 weeks ago
+Head of Quality Engineering
+Head of Quality Engineering
+RWS
+Dublin, County Dublin, Ireland
+1 week ago
+Head of Testing (AI)
+Head of Testing (AI)
+Newcode.ai
+Dublin, County Dublin, Ireland
+2 months ago
+Quality Assurance Lead
+Quality Assurance Lead
+Mater Private Network
+Dublin, County Dublin, Ireland
+1 day ago
+Mobile QA Architect
+Mobile QA Architect
+Gen
+Dublin, County Dublin, Ireland
+6 days ago
+QA Program Lead - OmniPay Modernisation
+QA Program Lead - OmniPay Modernisation
+Fiserv
+Dublin, County Dublin, Ireland
+1 week ago
+Show more jobs like this 
+People also viewed
+Quality Manager
+Quality Manager
+
+Mercury
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+UI Tester
+UI Tester
+
+Fulcrum Digital Inc
+
+Dublin, County Dublin, Ireland
+3 weeks ago
+Senior Software Engineer in Test
+Senior Software Engineer in Test
+
+Nicoll Curtin
+
+Dublin, County Dublin, Ireland
+1 week ago
+Quality Engineering Manager
+Quality Engineering Manager
+
+embecta
+
+County Dublin, Ireland
+1 week ago
+Staff Solutions Architect
+Staff Solutions Architect
+
+Sony Interactive Entertainment
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+QA Engineer
+QA Engineer
+
+G MASS Consulting
+
+Dublin, County Dublin, Ireland
+4 months ago
+Technical Graduate - Software Tester - Dublin 2027
+Technical Graduate - Software Tester - Dublin 2027
+
+CGI
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+Head of Technical Services & Quality
+Head of Technical Services & Quality
+
+National Vehicle Distribution
+
+Dublin, County Dublin, Ireland
+7 hours ago
+Quality & Training Specialist - Live and Monetization - Dublin - Hebrew Speaker
+Quality & Training Specialist - Live and Monetization - Dublin - Hebrew Speaker
+
+TikTok
+
+Dublin, County Dublin, Ireland
+1 week ago
+NetOps Engineer - Test
+NetOps Engineer - Test
+
+Arista Networks
+
+Dublin, County Dublin, Ireland
+4 months ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

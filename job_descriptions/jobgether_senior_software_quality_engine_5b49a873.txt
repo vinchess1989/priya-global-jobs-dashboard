@@ -1,0 +1,251 @@
+Title: Senior Software Quality Engineer
+Company: Jobgether
+Location: Ireland
+URL: https://ie.linkedin.com/jobs/view/senior-software-quality-engineer-at-jobgether-4479978263
+Posted: 2026-10-20
+Deadline: N/A
+Reason: The role aligns with the candidate's extensive experience in quality engineering, CI/CD pipeline integration, and technical leadership, and it is located in Ireland, which is a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Software Quality Engineer
+Jobgether  Ireland
+4 days ago  29 applicants
+  
+
+See who Jobgether has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+This position is listed on behalf of a partner company, which manages all applications and next steps. Our partner is looking for a Senior Software Quality Engineer based in Ireland.
+
+The Senior Software Quality Engineer will take ownership of software quality strategy across a rapidly evolving cloud infrastructure platform, ensuring that reliability and testability are built into every stage of development. This role goes beyond writing test cases, combining hands-on automation engineering with architectural input and cross-functional leadership. The successful candidate will design scalable testing frameworks for backend services and user interfaces, integrate automated checks into CI/CD pipelines, and help engineering teams release changes with confidence. Working closely with engineering and product stakeholders, they will influence design decisions, identify risks early, and strengthen quality practices across multiple projects. The role also emphasizes practical use of AI-powered tools to improve testing workflows while maintaining strong technical judgment. It is an opportunity to make a significant impact in a remote-first, fast-moving technology environment focused on cloud infrastructure, Kubernetes, and AI workloads.
+
+Accountabilities
+
+
+Lead the design, development, and maintenance of scalable automated testing frameworks covering backend services, user interfaces, and other critical product components.
+Define and own end-to-end test strategy across services and features, ensuring testing coverage aligns with product objectives, technical risks, and reliability expectations.
+Collaborate with engineering and product teams throughout the development lifecycle to establish quality standards, improve testability, and identify potential issues before implementation.
+Participate in architecture and design reviews, providing guidance on testability, system reliability, edge cases, and failure scenarios before code is written.
+Integrate automated test suites into CI/CD pipelines using tools such as GitHub Actions, Jenkins, or equivalent platforms to deliver fast and actionable feedback on code changes.
+Conduct exploratory testing to uncover usability problems, unexpected behaviors, edge cases, and regressions that automated tests may not detect.
+Apply AI-assisted workflows to review pull requests and design documents, develop test plans, generate test cases, and improve automation efficiency while independently validating results.
+Investigate complex backend, infrastructure, and distributed-system issues through systematic debugging, root-cause analysis, and collaboration with relevant engineering teams.
+Manage quality initiatives across multiple projects in a dynamic environment, balancing shifting priorities while maintaining rigorous testing standards.
+Advocate for continuous improvement in test automation, development workflows, and quality practices to support rapid delivery without compromising product reliability.
+Contribute to testing approaches for Kubernetes-based infrastructure and tenant-isolation environments as applicable.
+Help establish and scale QA practices that support product growth, operational resilience, and dependable customer experiences.
+
+
+Requirements
+
+
+At least 7 years of professional experience in quality assurance, software testing, or test automation, including 2 or more years working at a senior or staff level.
+Strong hands-on programming skills in at least one of the following languages: Go, Python, or JavaScript, with experience building and maintaining automation frameworks and testing tools.
+Proven experience designing and owning test strategies across complex software systems, including automated testing for backend services and user interfaces.
+Strong understanding of CI/CD practices and practical experience integrating automated testing suites into pipelines using GitHub Actions, Jenkins, or comparable tools.
+Regular experience using AI-powered tools to support software quality activities, such as code and design reviews, test planning, and test automation, with the ability to critically evaluate and verify AI-generated output.
+Working knowledge of Kubernetes environments and distributed systems, or the ability to develop this expertise quickly.
+Excellent analytical, troubleshooting, and debugging skills, particularly when investigating backend services, infrastructure components, and complex system behavior.
+Strong written and verbal communication skills, with the ability to explain technical risks, influence engineering decisions, and collaborate effectively with product and engineering stakeholders.
+Demonstrated ownership, initiative, and accountability, including the ability to identify problems independently and drive solutions through to completion.
+Ability to thrive in a fast-paced startup environment, navigate ambiguity, manage competing priorities, and maintain attention to detail while working across several projects.
+
+
+Preferred Qualifications
+
+
+Experience testing Kubernetes tenant clusters, tenant-isolation architectures, or similar multi-tenant infrastructure environments.
+Previous experience establishing or leading QA practices at a startup during a period of rapid product development or organizational growth.
+Interest in cloud infrastructure, open-source technologies, and platforms supporting AI and other demanding computing workloads.
+
+
+Benefits
+
+
+Competitive compensation: A competitive salary package with equity participation.
+Health and insurance coverage: Health, dental, vision, and life insurance, with coverage for eligible dependents where available. Benefits vary by country.
+Flexible working hours: A results-oriented environment that accommodates personal commitments and supports work-life balance.
+Remote-work flexibility: A distributed working model with flexibility in where and how work is performed, subject to applicable employment arrangements.
+Meaningful technical ownership: The opportunity to shape quality strategy, influence architecture, and build testing systems that support mission-critical infrastructure.
+Growth and development: Opportunities to expand expertise in test automation, Kubernetes, distributed systems, AI infrastructure, and AI-assisted engineering workflows.
+Collaborative culture: Work alongside technical teams that value initiative, accountability, knowledge sharing, and practical problem-solving.
+Innovation and open-source exposure: Contribute to evolving infrastructure technologies and help establish quality standards for a rapidly developing technical landscape.
+High-impact environment: Play a direct role in improving product reliability and helping engineering teams deliver dependable software at scale.
+
+
+How Jobgether Works
+
+We use an AI-powered matching process to ensure your application is reviewed quickly, objectively, and fairly against the role's core requirements. Our system identifies the top-fitting candidates, and this shortlist is then shared directly with the hiring company. The final decision and next steps (interviews, assessments) are managed by their internal team.
+
+We appreciate your interest and wish you the best!
+
+Why Apply Through Jobgether?
+
+Data Privacy Notice: By submitting your application, you acknowledge that Jobgether will process your personal data to evaluate your candidacy and share relevant information with the hiring employer. This processing is based on legitimate interest and pre-contractual measures under applicable data protection laws (including GDPR). You may exercise your rights (access, rectification, erasure, objection) at any time.
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Internet Marketplace Platforms
+  
+
+Referrals increase your chances of interviewing at Jobgether by 2x
+
+See who you know
+
+Get notified about new Senior Software Quality Engineer jobs in Ireland.
+
+Sign in to create job alert
+Similar jobs
+QA Automation Engineer
+QA Automation Engineer
+Upland Software
+Ireland
+6 months ago
+Data QA Engineer
+Data QA Engineer
+Jobgether
+Ireland
+4 days ago
+Test Automation Engineer
+Test Automation Engineer
+Covalen
+Galway, County Galway, Ireland
+1 week ago
+Senior Software Engineer, Query
+Senior Software Engineer, Query
+MongoDB
+Cork, County Cork, Ireland
+2 days ago
+Software Development Engineer in Test | Luma
+Software Development Engineer in Test | Luma
+Dotmatics
+Ireland
+4 weeks ago
+Senior QA Engineer - Software Engineering
+Senior QA Engineer - Software Engineering
+Hewlett Packard Enterprise
+Aille, County Galway, Ireland
+1 month ago
+Show more jobs like this 
+People also viewed
+Software Engineer III - Test Framework
+Software Engineer III - Test Framework
+
+SiriusXM
+
+Dublin, County Dublin, Ireland
+1 week ago
+Staff Engineer QA, PC Apps
+Staff Engineer QA, PC Apps
+
+Dolby Laboratories
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+Software Engineer in Test
+Software Engineer in Test
+
+Treaty Software Ireland
+
+Limerick, County Limerick, Ireland
+14 hours ago
+Software Developer – Quality & Test Automation
+Software Developer – Quality & Test Automation
+
+Cisco
+
+Galway, County Galway, Ireland
+1 week ago
+Senior Quality Assurance Analyst – T24
+Senior Quality Assurance Analyst – T24
+
+The Citco Group Limited
+
+Cork, County Cork, Ireland
+1 week ago
+QA/Test Engineer
+QA/Test Engineer
+
+Mphasis
+
+Galway, County Galway, Ireland
+3 weeks ago
+AI Growth Ops
+AI Growth Ops
+
+Kraken
+
+Ireland
+1 week ago
+Software Test Automation Lead (MES)
+Software Test Automation Lead (MES)
+
+Cognizant Life Sciences Manufacturing
+
+Limerick, County Limerick, Ireland
+4 weeks ago
+Test Automation Engineer
+Test Automation Engineer
+
+The Irish Times
+
+Dublin, County Dublin, Ireland
+3 weeks ago
+Senior Test Automation Engineer (Python) - Cork, Ireland
+Senior Test Automation Engineer (Python) - Cork, Ireland
+
+Qualcomm
+
+Cork, County Cork, Ireland
+2 days ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
