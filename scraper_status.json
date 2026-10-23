@@ -1,9 +1,9 @@
 {
   "pid": 9184,
   "started_at": "2026-10-24T01:55:09+03:00",
-  "heartbeat_at": "2026-10-24T02:31:35+03:00",
+  "heartbeat_at": "2026-10-24T02:36:36+03:00",
   "phase": "reviewing",
-  "detail": "Senior QA Engineer (Rust/Java), Margin",
-  "last_scrape_ok_at": "2026-10-24T02:26:51+03:00",
+  "detail": "Senior Supplier Quality Manager",
+  "last_scrape_ok_at": "2026-10-24T02:33:02+03:00",
   "last_error": null
 }
