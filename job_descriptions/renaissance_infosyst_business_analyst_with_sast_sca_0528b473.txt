@@ -1,0 +1,267 @@
+Title: Business Analyst with SAST/SCA
+Company: Renaissance InfoSystems
+Location: Sydney, New South Wales, Australia
+URL: https://au.linkedin.com/jobs/view/business-analyst-with-sast-sca-at-renaissance-infosystems-4480090509
+Posted: 2026-10-23
+Deadline: N/A
+Reason: This technical business analyst role focuses on CI/CD pipelines, DevSecOps, and tool rollouts in Sydney, Australia, perfectly aligning with her release management and configuration background.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Business Analyst with SAST/SCA
+Renaissance InfoSystems  Sydney, New South Wales, Australia
+1 hour ago   Be among the first 25 applicants
+  
+
+See who Renaissance InfoSystems has hired for this role
+
+Apply
+Save
+
+Direct message the job poster from Renaissance InfoSystems
+
+Reshu Seth
+Reshu Seth
+Senior Recruitment Consultant/Team Lead at Renaissance InfoSystems Pty Ltd Hiring for Australia/New Zealand
+
+About Us: Renaissance Info Systems is a technology and digital recruitment agency, connecting contract and permanent professionals with clients across Asia-Pacific. We aim to differentiate ourselves through our level of responsiveness, and our understanding that comes from being an IT recruitment agency from the IT Industry. Our recruiters balance sophisticated and simple inter-personal techniques to assure a strong candidate network.
+
+Know More: http://www.reninfo.com.au
+
+
+
+
+Role-Business Analyst with SAST/SCA
+
+Key Responsibilities
+
+Run discovery across engineering, platform, and security stakeholders to map current-state SDLC, GitLab topology (SaaS groups/projects vs. Self-Managed instances), CI/CD pipeline patterns, and existing scanning tools (if any) across the telco's project portfolio.
+Document functional and non-functional requirements for SAST and SCA (dependency scanning) coverage — language/framework coverage, false-positive tolerance, scan performance/pipeline latency impact, and whether secrets/container scanning are in scope.
+Produce a build-vs-buy / tool-selection matrix comparing GitLab-native SAST/SCA (Free/Premium/Ultimate tiering) against third-party SAST/SCA tools, and identify where GitLab On-Prem version constraints affect feature availability versus SaaS.
+Define the vulnerability management workflow: finding → triage → issue → remediation MR → SLA tracking, and how this maps into GitLab's vulnerability management dashboard versus existing ITSM/ticketing tools.
+Write user stories/acceptance criteria for pipeline integration, exception/waiver processes, developer notification flows, and reporting/dashboards for CISO-level visibility.
+Own the RAID log, stakeholder RACI, and rollout sequencing plan (pilot teams → phased fleet-wide rollout across SaaS and On-Prem estates).
+Support change management: developer communication, training material coordination, and adoption metrics (scan coverage %, MTTR on findings, false-positive rate trend).
+Liaise directly with the SME and AI Expert roles to ensure requirements reflect real tool capability and constraints rather than assumptions.
+
+
+
+
+Experience Level
+
+Mid-to-Senior, 6–10 years total BA experience, with at least 2–3 years specifically in cybersecurity, DevSecOps, or platform engineering programmes. Telco or large regulated-enterprise experience is a strong plus given data governance and change-control overhead
+
+Required Knowledge & Skills
+
+Working understanding of SAST vs. SCA vs. DAST vs. secrets detection — what each catches and doesn't.
+Familiarity with GitLab CI/CD concepts (pipelines, merge requests, .gitlab-ci.yml) — doesn't need to write pipeline code, but must read and reason about one.
+Understanding of GitLab licensing tiers (Free/Premium/Ultimate) and how SAST/SCA feature availability differs across them.
+Vulnerability management lifecycle and common frameworks (CVSS scoring, CWE, OWASP Top 10) at working-fluency level, not expert depth.
+Experience writing requirements/user stories for tooling or platform rollouts (not just business-process BA work).
+Strong stakeholder facilitation skills — this programme spans security, engineering, and platform teams who often have competing priorities.
+Comfortable working with technical SMEs to validate feasibility rather than dictating requirements in isolation.
+
+
+
+
+
+
+
+Reshu Seth
+
+Recruitment Consultant
+
+Renaissance InfoSystem
+
+M: +61 478 487 026
+
+E: reshu@reninfo.com.au
+
+W: http://www.reninfo.com.au
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Contract
+Industries
+Information Services
+  
+
+Referrals increase your chances of interviewing at Renaissance InfoSystems by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Senior Business Analyst Contract jobs
+Business Analyst with SAST/SCA
+Similar jobs
+Business Analyst – Application Security (SAST/SCA)
+Business Analyst – Application Security (SAST/SCA)
+XPT Software
+Sydney, New South Wales, Australia
+1 day ago
+Business Analyst – Application Security DevSecOps
+Business Analyst – Application Security DevSecOps
+Ampstek
+Sydney, New South Wales, Australia
+3 weeks ago
+Application Security Engineer
+Application Security Engineer
+Hydrogen Group
+Sydney, New South Wales, Australia
+A$200,000 - A$220,000
+2 days ago
+AppSec Engineer
+AppSec Engineer
+Talenza
+Sydney, New South Wales, Australia
+A$190,000 - A$200,000
+2 weeks ago
+Application Security Engineer - CTEM, 12 Month Fixed Term Contract
+Application Security Engineer - CTEM, 12 Month Fixed Term Contract
+Rest
+Sydney, New South Wales, Australia
+3 weeks ago
+Tech Security Engineer
+Tech Security Engineer
+Universal Music Group
+Sydney, New South Wales, Australia
+7 months ago
+Show more jobs like this 
+People also viewed
+Technical Business Analyst / IT Security
+Technical Business Analyst / IT Security
+
+Woolworths Group
+
+Sydney, New South Wales, Australia
+1 month ago
+Vulnerability Management Consultant
+Vulnerability Management Consultant
+
+Green Light Worldwide
+
+Greater Sydney Area
+A$850 - A$900
+2 weeks ago
+Principal Security Engineer
+Principal Security Engineer
+
+Microsoft
+
+Sydney, New South Wales, Australia
+2 days ago
+Senior Penetration Tester
+Senior Penetration Tester
+
+Westpac Group
+
+Sydney, New South Wales, Australia
+1 week ago
+Penetration Tester
+Penetration Tester
+
+Commonwealth Bank
+
+Sydney, New South Wales, Australia
+6 days ago
+Junior Security Analyst
+Junior Security Analyst
+
+ASX
+
+Sydney, New South Wales, Australia
+2 weeks ago
+Security Architect | AI & DevSecOps
+Security Architect | AI & DevSecOps
+
+Macquarie Group
+
+Sydney, New South Wales, Australia
+2 weeks ago
+Application/Product Security Engineer Graduate (Security BP) - 2027 Start
+Application/Product Security Engineer Graduate (Security BP) - 2027 Start
+
+TikTok
+
+Sydney, New South Wales, Australia
+1 week ago
+Cyber Security Analyst
+Cyber Security Analyst
+
+Ethos BeathChapman
+
+Sydney, New South Wales, Australia
+1 week ago
+DevSecOps Engineer
+DevSecOps Engineer
+
+Transport for NSW
+
+Macquarie Park, New South Wales, Australia
+1 day ago
+Similar Searches
+Senior Business Analyst Contract jobs
+57 open jobs
+Business Analyst Intern jobs
+497 open jobs
+Business Test Analyst jobs
+738 open jobs
+Business Analyst Contract jobs
+458 open jobs
+Technical Business Analyst jobs
+1,625 open jobs
+Senior Business Analyst jobs
+3,451 open jobs
+Junior Business Analyst jobs
+1,651 open jobs
+Lead Business Analyst jobs
+707 open jobs
+Senior Technical Business Analyst jobs
+250 open jobs
+Analyst jobs
+14,217 open jobs
+Functional Business Analyst jobs
+1,094 open jobs
+Information Technology Business Analyst jobs
+86 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
