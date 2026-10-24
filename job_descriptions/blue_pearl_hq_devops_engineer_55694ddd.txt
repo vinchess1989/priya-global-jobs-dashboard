@@ -1,0 +1,529 @@
+Title: DevOps engineer
+Company: Blue Pearl HQ
+Location: Johannesburg, Gauteng, South Africa
+URL: https://za.linkedin.com/jobs/view/devops-engineer-at-blue-pearl-hq-4475798174
+Posted: 2026-10-11
+Deadline: N/A
+Reason: The role aligns perfectly with the candidate's extensive experience in DevOps, CI/CD pipeline management, and infrastructure automation, and it is located in a target country (South Africa) with no restrictive citizenship or clearance requirements mentioned.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps engineer
+Blue Pearl HQ  Johannesburg, Gauteng, South Africa
+2 weeks ago  65 applicants
+  
+
+See who Blue Pearl HQ has hired for this role
+
+Apply 
+Save
+
+This is a remote position.
+
+BluePearl is seeking a skilled and hands-on DevOps Engineer to support our technology environment on a part-time, fully remote basis.
+
+
+The successful candidate will be responsible for improving and maintaining CI/CD pipelines, cloud infrastructure, deployment processes, monitoring, automation, security, and overall system reliability. This role is suited to a DevOps professional who can work independently, troubleshoot effectively, and support development teams in delivering secure and reliable applications.
+
+
+KEY RESPONSIBILITIES
+
+DevOps & CI/CD
+
+
+
+Design, build, maintain and optimise CI/CD pipelines.
+
+Automate application build, testing and deployment processes.
+
+Manage source-code and version-control workflows using Git/GitHub/GitLab/Bitbucket.
+
+Implement automated testing and deployment practices.
+
+Troubleshoot pipeline failures and deployment issues.
+
+Improve deployment speed, reliability and consistency.
+
+
+Cloud Infrastructure
+
+
+
+Deploy, configure and maintain cloud infrastructure.
+
+Work with platforms such as AWS, Microsoft Azure or Google Cloud Platform (GCP).
+
+Manage cloud resources, environments and configurations.
+
+Support infrastructure scalability, availability and performance.
+
+Implement infrastructure monitoring and cost-conscious resource management.
+
+
+Infrastructure as Code & Automation
+
+
+
+Develop and maintain Infrastructure-as-Code solutions using tools such as:
+Terraform
+
+Ansible
+
+CloudFormation
+
+Automate repetitive infrastructure and operational tasks.
+
+Maintain configuration management and environment consistency.
+
+
+Containers & Orchestration
+
+
+
+Build and manage containerised applications using Docker.
+
+Support container orchestration platforms such as Kubernetes.
+
+Troubleshoot container, networking and deployment issues.
+
+Assist with maintaining development, staging and production environments.
+
+
+Monitoring & Reliability
+
+
+
+Implement and maintain system monitoring, logging and alerting.
+
+Monitor application and infrastructure performance.
+
+Identify and resolve availability, performance and reliability issues.
+
+Participate in incident investigation and root-cause analysis.
+
+Assist with backup, disaster recovery and business continuity processes.
+
+
+Security
+
+
+
+Apply DevSecOps principles throughout development and deployment processes.
+
+Implement secure access controls and secrets management.
+
+Support vulnerability management and patching.
+
+Ensure infrastructure and deployment processes follow security best practices.
+
+Assist with maintaining secure cloud and application environments.
+
+
+Collaboration
+
+
+
+Work closely with developers, software engineers and technical stakeholders.
+
+Support development teams with deployment and infrastructure requirements.
+
+Document infrastructure, deployment procedures and technical processes.
+
+Provide technical guidance and troubleshooting support where required.
+
+Participate in remote technical meetings and project discussions.
+
+
+
+
+Requirements
+
+REQUIRED TECHNICAL SKILLS
+
+
+The ideal candidate should have practical experience with several of the following:
+
+
+Cloud
+
+
+AWS, Azure and/or GCP
+
+Cloud networking and infrastructure
+
+IAM and access management
+
+
+CI/CD
+
+
+Jenkins
+
+GitHub Actions
+
+GitLab CI/CD
+
+Azure DevOps
+
+AWS CodePipeline / CodeBuild
+
+
+Containers
+
+
+Docker
+
+Kubernetes
+
+
+Infrastructure as Code
+
+
+Terraform
+
+Ansible
+
+CloudFormation
+
+
+Operating Systems
+
+
+Linux
+
+Windows Server
+
+
+Programming / Scripting
+
+
+Python
+
+Bash/Shell scripting
+
+PowerShell
+
+
+Version Control
+
+
+Git
+
+GitHub / GitLab / Bitbucket
+
+
+Monitoring & Logging
+
+
+Prometheus
+
+Grafana
+
+ELK / Elastic Stack
+
+CloudWatch or equivalent monitoring platforms
+
+QUALIFICATIONS & EXPERIENCE
+
+Minimum Requirements
+
+
+
+Diploma, Degree or relevant qualification in Computer Science, Information Technology, Engineering or a related field.
+
+3+ years' experience in DevOps, Cloud Engineering, Systems Engineering, Infrastructure or a related technical role.
+
+Practical experience building and maintaining CI/CD pipelines.
+
+Experience working with cloud environments.
+
+Strong Linux and scripting knowledge.
+
+Experience with Docker and/or Kubernetes.
+
+Experience with Git-based development workflows.
+
+Strong troubleshooting and problem-solving abilities.
+
+
+Advantageous
+
+
+
+AWS, Azure or GCP certification.
+
+Terraform certification.
+
+Kubernetes certification.
+
+Experience with DevSecOps.
+
+Experience with microservices and API-based architectures.
+
+Experience supporting production environments.
+
+Experience with automated testing and deployment.
+
+Experience working within Agile/Scrum environments.
+
+KEY PERFORMANCE INDICATORS (KPIs)
+
+
+Success in this role will be measured through:
+
+
+CI/CD pipeline reliability and performance.
+
+Reduction in deployment failures and downtime.
+
+Successful automation of manual processes.
+
+Infrastructure availability and stability.
+
+Effective incident resolution and root-cause analysis.
+
+Security and compliance of infrastructure environments.
+
+Deployment turnaround times.
+
+Infrastructure optimisation and cost efficiency.
+
+Quality and accuracy of technical documentation.
+
+Responsiveness to development and technical support requirements.
+
+PART-TIME WORKING MODEL
+
+
+This is a part-time, fully remote position.
+
+
+The successful candidate must:
+
+
+Have reliable internet connectivity.
+
+Have a suitable home working environment.
+
+Be available during agreed working hours.
+
+Be able to respond to priority technical incidents within agreed SLAs.
+
+Work independently with minimal supervision.
+
+Maintain clear communication with the development and technology teams.
+
+Attend scheduled virtual meetings when required.
+
+
+Working hours: To be agreed based on project and business requirements.
+
+
+IDEAL CANDIDATE PROFILE
+
+
+We are looking for someone who is:
+
+
+Hands-on and technically strong.
+
+Highly analytical and solutions-focused.
+
+Comfortable working independently.
+
+Strong in troubleshooting and problem-solving.
+
+Security-conscious.
+
+Automation-driven.
+
+Detail-oriented and organised.
+
+Comfortable working in a remote environment.
+
+Able to communicate technical information clearly to both technical and non-technical stakeholders.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Part-time
+Industries
+Computer Hardware Manufacturing
+  
+
+Referrals increase your chances of interviewing at Blue Pearl HQ by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Recruitment Resourcer jobs
+DevOps engineer
+Similar jobs
+DevOps Engineer - (AML Platform)
+DevOps Engineer - (AML Platform)
+Optimal Growth Technologies
+Johannesburg, Gauteng, South Africa
+1 month ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+VALR
+Johannesburg, Gauteng, South Africa
+1 month ago
+Cloud Engineer
+Cloud Engineer
+Nedbank
+Johannesburg, Gauteng, South Africa
+5 days ago
+Platform Engineer: Automation
+Platform Engineer: Automation
+Nedbank
+Johannesburg, Gauteng, South Africa
+1 week ago
+Platform Engineer
+Platform Engineer
+Share
+City of Johannesburg, Gauteng, South Africa
+1 month ago
+Azure DevOps Engineer
+Azure DevOps Engineer
+Zensar Technologies
+Johannesburg Metropolitan Area
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Support Engineer I, Operations
+Support Engineer I, Operations
+
+Hexagon Mining
+
+Johannesburg, Gauteng, South Africa
+2 days ago
+Senior Team Lead, DevOps
+Senior Team Lead, DevOps
+
+NTT DATA, Inc.
+
+Johannesburg, Gauteng, South Africa
+2 weeks ago
+DevOps / Cloud Infrastructure Engineer
+DevOps / Cloud Infrastructure Engineer
+
+Wariverse
+
+Johannesburg Metropolitan Area
+2 weeks ago
+Support Engineer I, Safety Systems
+Support Engineer I, Safety Systems
+
+Hexagon Mining
+
+Johannesburg, Gauteng, South Africa
+2 days ago
+IT Remote Project Engineer
+IT Remote Project Engineer
+
+FusionTek
+
+Pretoria, Gauteng, South Africa
+ZAR 500,000 - ZAR 800,000
+3 weeks ago
+IT Infrastructure Engineer/Systems Engineer
+IT Infrastructure Engineer/Systems Engineer
+
+Hello Group
+
+Centurion, Gauteng, South Africa
+3 weeks ago
+IT Remote Project Engineer
+IT Remote Project Engineer
+
+FusionTek
+
+Johannesburg, Gauteng, South Africa
+ZAR 500,000 - ZAR 800,000
+3 weeks ago
+Senior Cloud Infrastructure Engineer
+Senior Cloud Infrastructure Engineer
+
+Optimal Growth Technologies
+
+Johannesburg, Gauteng, South Africa
+1 month ago
+Forward-Deployed Engineer
+Forward-Deployed Engineer
+
+ADG
+
+Johannesburg, Gauteng, South Africa
+2 days ago
+Cross Technology Managed Services Engineer (L2)
+Cross Technology Managed Services Engineer (L2)
+
+NTT DATA, Inc.
+
+Johannesburg, Gauteng, South Africa
+3 days ago
+Similar Searches
+Recruitment Resourcer jobs
+113 open jobs
+Internal Recruiter jobs
+71 open jobs
+Principal Engineer jobs
+1,648 open jobs
+Cloud Architect jobs
+324 open jobs
+Human Resources Consultant jobs
+127 open jobs
+Django Developer jobs
+967 open jobs
+SAP Consultant jobs
+143 open jobs
+Human Resources Administrator jobs
+113 open jobs
+Human Resources Intern jobs
+19 open jobs
+Junior Developer jobs
+1,010 open jobs
+Information Technology Project Manager jobs
+119 open jobs
+System Analyst jobs
+4,271 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Blue Pearl HQ
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

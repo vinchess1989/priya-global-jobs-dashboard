@@ -1,0 +1,231 @@
+Title: DevOps / Cloud Infrastructure Engineer
+Company: Wariverse
+Location: Johannesburg Metropolitan Area
+URL: https://za.linkedin.com/jobs/view/devops-cloud-infrastructure-engineer-at-wariverse-4477662290
+Posted: 2026-10-11
+Deadline: Open until filled
+Reason: The role aligns with the candidate's extensive experience in DevOps, CI/CD pipeline ownership, and infrastructure automation, and is located in a target country (South Africa) with no stated restrictions on visa sponsorship.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps / Cloud Infrastructure Engineer
+Wariverse  Johannesburg Metropolitan Area
+2 weeks ago  89 applicants
+  
+
+See who Wariverse has hired for this role
+
+Apply 
+Save
+About The Role
+
+We run several codebases in production across different environments, and this role owns deployment, monitoring, and reliability across all of them, not a single app. This is a high-stakes, high-autonomy role for someone who thinks in failure modes before they happen.
+
+What You'll Need
+
+
+3-4+ years of DevOps/infrastructure experience with production web applications
+Personal infrastructure projects, a homelab, or open-source contributions are welcomed as proof of skill, since job titles alone don't tell us enough
+Strong grasp of CI/CD pipelines, queue workers, and zero-downtime deploys
+Experience operating more than one relational database engine in production
+Experience with cloud/PaaS hosting for modern backend stacks, and webhook/queue reliability, including idempotency, retries, and dead-letter handling
+
+
+Nice to Have
+
+
+Python, Go, or Rust for infrastructure tooling and scripting
+Observability tooling experience for a team without a dedicated SRE function
+Experience hardening webhook endpoints against replay/signature attacks
+
+
+Who We're Looking For
+
+You fix things before anyone notices they're broken.
+
+You'd rather automate your own job out of boredom than repeat a manual step twice.
+
+You're comfortable being the only infrastructure person in the building, and you build just enough process, never more than that.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Contract
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Wariverse by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Pavement Engineer jobs
+DevOps / Cloud Infrastructure Engineer
+Similar jobs
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+VALR
+Johannesburg, Gauteng, South Africa
+1 month ago
+Cloud Engineer
+Cloud Engineer
+Nedbank
+Johannesburg, Gauteng, South Africa
+5 days ago
+Cloud Engineer
+Cloud Engineer
+Kaelo
+Randburg, Gauteng, South Africa
+1 day ago
+Platform Engineer
+Platform Engineer
+Share
+City of Johannesburg, Gauteng, South Africa
+1 month ago
+Platform Engineer: Automation
+Platform Engineer: Automation
+Nedbank
+Johannesburg, Gauteng, South Africa
+1 week ago
+DevOps Engineer - (AML Platform)
+DevOps Engineer - (AML Platform)
+Optimal Growth Technologies
+Johannesburg, Gauteng, South Africa
+1 month ago
+Show more jobs like this 
+People also viewed
+DevOps engineer
+DevOps engineer
+
+Blue Pearl HQ
+
+Johannesburg, Gauteng, South Africa
+2 weeks ago
+Cross Technology Managed Services Engineer (L2)
+Cross Technology Managed Services Engineer (L2)
+
+NTT DATA, Inc.
+
+Johannesburg, Gauteng, South Africa
+3 days ago
+Forward-Deployed Engineer
+Forward-Deployed Engineer
+
+ADG
+
+Johannesburg, Gauteng, South Africa
+1 week ago
+Support Engineer I, Operations
+Support Engineer I, Operations
+
+Hexagon Mining
+
+Johannesburg, Gauteng, South Africa
+2 days ago
+Engineering Manager - Infrastructure
+Engineering Manager - Infrastructure
+
+Camunda
+
+Johannesburg, Gauteng, South Africa
+1 week ago
+Support Engineer I, Safety Systems
+Support Engineer I, Safety Systems
+
+Hexagon Mining
+
+Johannesburg, Gauteng, South Africa
+2 days ago
+ICT Engineer II
+ICT Engineer II
+
+Network Recruitment
+
+Johannesburg Metropolitan Area
+2 weeks ago
+System & Network Engineer (Level-I)
+System & Network Engineer (Level-I)
+
+Prime System Solutions
+
+Johannesburg, Gauteng, South Africa
+2 months ago
+Operations Engineer
+Operations Engineer
+
+SavvySaver
+
+Johannesburg, Gauteng, South Africa
+4 months ago
+Cloud Security Specialist
+Cloud Security Specialist
+
+SASSO CONSULTING
+
+Johannesburg, Gauteng, South Africa
+2 weeks ago
+Similar Searches
+Pavement Engineer jobs
+222 open jobs
+Citrix Engineer jobs
+36 open jobs
+Virtualization Engineer jobs
+78 open jobs
+Cisco Engineer jobs
+12 open jobs
+Senior Infrastructure Engineer jobs
+155 open jobs
+Rollout Engineer jobs
+3,678 open jobs
+Network Infrastructure Engineer jobs
+80 open jobs
+Roads Engineer jobs
+213 open jobs
+Platform Engineer jobs
+524 open jobs
+Computer Systems Engineer jobs
+3,531 open jobs
+Windows Engineer jobs
+37 open jobs
+Escalation Engineer jobs
+132 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Wariverse
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

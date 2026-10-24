@@ -1,0 +1,375 @@
+Title: Senior Platform Engineering Lead MMH261013-10
+Company: Momentum
+Location: Sandton, Gauteng, South Africa
+URL: https://za.linkedin.com/jobs/view/senior-platform-engineering-lead-mmh261013-10-at-momentum-4479508015
+Posted: 2026-10-18
+Deadline: N/A
+Reason: The role aligns perfectly with the candidate's extensive experience in platform engineering, CI/CD, and governance, and it is located in a target country (South Africa) without any restrictive citizenship or clearance requirements mentioned.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Platform Engineering Lead MMH261013-10
+Momentum  Sandton, Gauteng, South Africa
+1 week ago  59 applicants
+  
+
+See who Momentum has hired for this role
+
+Apply 
+Save
+Role Purpose
+
+The Senior Platform Engineering Lead is accountable for shaping, governing and evolving the platform capabilities
+
+that product and engineering teams consume to build, deploy, secure, observe and operate technology solutions at scale.
+
+The role translates enterprise technology strategy into platform capabilities, platform guardrails, technicalstandards and platform roadmaps. It provides technical leadership across cloud, developer experience, observability, security enablement and runtime platforms.
+
+The role owns the architecture of platform products and the platform-facing compliance envelope. It does not own business solution architecture, application architecture, domain design or detailed software engineering design. The primary objective is to enable engineering teams to deliver safely and rapidly through self-service platforms, automation, reusable capabilities and measurable guardrails.
+
+Technology Environment
+
+The Role Operates Across
+
+
+AWS cloud platforms and landing zones
+GitLab CI/CD and DevSecOps tooling
+Backstage Developer Portal
+Kubernetes and container platforms
+Infrastructure as Code platforms
+Observability platforms (Datadog, OpenTelemetry, Grafana)
+Identity and Access Management platforms
+API and Integration platforms
+Shared engineering services and platform products
+Enterprise architecture standards and technology roadmaps
+
+
+Requirements
+
+Minimum Requirements
+
+
+Bachelor's degree or equivalent in Computer Science, Information Systems, Engineering or related discipline.
+10+ years experience across software engineering, cloud engineering, platform engineering or architecture.
+3+ years experience in a senior platform architecture or platform engineering leadership role.
+Experience building and operating enterprise-scale cloud platforms.
+Experience defining platform standards and engineering guardrails.
+Experience leading cross-functional technical initiatives.
+
+
+Preferred
+
+
+Financial Services or Insurance industry experience.
+AWS certifications.
+
+
+Duties and Responsibilities
+
+Platform Strategy and Roadmap
+
+
+Define and maintain the platform capability model.
+Develop platform target architectures and roadmaps.
+Identify technology opportunities and platform improvements.
+Guide long-term platform investment decisions.
+Support enterprise modernisation initiatives.
+
+
+Outputs
+
+
+Platform strategy
+Platform roadmaps
+Platform capability maps
+Technology lifecycle plans
+Platform investment recommendations
+
+
+Developer Experience
+
+
+Improve developer productivity through platform capabilities.
+Promote self-service engineering practices.
+Lead Backstage adoption and evolution.
+Support reusable engineering templates and golden paths.
+
+
+Outputs
+
+
+Platform onboarding journeys
+Backstage catalog structures
+Self-service capabilities
+Engineering accelerators
+Golden path guidance
+
+
+Platform Guardrails
+
+Define Measurable Platform Guardrails Covering
+
+
+Security
+Operational supportability
+Deployability
+Observability
+Resilience
+Compliance
+Cost management
+
+
+Focus on automated enforcement wherever possible.
+
+Outputs
+
+
+Platform guardrails
+Policy-as-Code controls
+Compliance dashboards
+Conformance scorecards
+Platform standards
+
+
+Technical Leadership
+
+
+Provide architectural guidance to Platform Engineers.
+Facilitate technical decision-making.
+Mentor technical leads and engineers.
+Lead platform architecture communities and forums.
+Resolve cross-platform architectural concerns.
+
+
+Outputs
+
+
+Platform Architecture reviews
+Technical coaching
+Platform engineering guidance
+Community of practice leadership
+
+
+Operational Excellence
+
+
+Partner with Production Engineering and SRE teams.
+Improve platform resilience and operability.
+Ensure observability standards are implemented.
+Reduce operational toil through automation.
+
+
+Outputs
+
+
+Reliability improvements
+Operational readiness standards
+Platform telemetry standards
+Recovery and resilience designs
+
+
+Key Accountabilities
+
+The role is accountable for:
+
+
+Platform architecture strategy
+Platform product ownership models
+Platform guardrails and standards
+Platform reference architectures
+Cloud platform architectures
+Developer platform architecture
+Platform lifecycle management
+Platform engineering technical leadership
+Platform capability adoption
+Platform reliability and resilience
+
+
+The role is not accountable for business solution architecture delivery.
+
+As an applicant, please verify the legitimacy of this job advert on our company career page.-289468363
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at Momentum by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Document Developer jobs
+Senior Platform Engineering Lead MMH261013-10
+Similar jobs
+Staff Platform Engineer
+Staff Platform Engineer
+Nintex
+Johannesburg, Gauteng, South Africa
+2 days ago
+OM Bank - Senior Platform Engineer
+OM Bank - Senior Platform Engineer
+Old Mutual South Africa
+Johannesburg Metropolitan Area
+1 week ago
+Senior Platform Engineer MMH261013-9
+Senior Platform Engineer MMH261013-9
+Momentum
+Sandton, Gauteng, South Africa
+1 week ago
+Platform Engineer
+Platform Engineer
+Share
+City of Johannesburg, Gauteng, South Africa
+1 month ago
+Principal Telco Platform Engineer
+Principal Telco Platform Engineer
+Humankind Group
+Pretoria, Gauteng, South Africa
+1 day ago
+Engineering Manager - Infrastructure
+Engineering Manager - Infrastructure
+Camunda
+Johannesburg, Gauteng, South Africa
+1 week ago
+Show more jobs like this 
+People also viewed
+Senior DevOps Engineer Azure & Kubernetes (m/f) – Global SaaS Construction Software
+Senior DevOps Engineer Azure & Kubernetes (m/f) – Global SaaS Construction Software
+
+RIB Software
+
+Centurion, Gauteng, South Africa
+2 weeks ago
+Principal Solutions Architect
+Principal Solutions Architect
+
+Vitality
+
+Johannesburg, Gauteng, South Africa
+5 days ago
+Technical/Program Manager
+Technical/Program Manager
+
+Impronics Technologies
+
+Johannesburg, Gauteng, South Africa
+1 year ago
+IM Enterprise Architect Infrastructure
+IM Enterprise Architect Infrastructure
+
+Valterra Platinum
+
+Johannesburg, Gauteng, South Africa
+1 day ago
+Java Software Engineering - Competency Lead
+Java Software Engineering - Competency Lead
+
+DVT
+
+Johannesburg, Gauteng, South Africa
+1 month ago
+Senior Functional Lead - Innovation & PLM
+Senior Functional Lead - Innovation & PLM
+
+Weir Minerals
+
+Johannesburg, Gauteng, South Africa
+1 day ago
+Solutions Architect
+Solutions Architect
+
+FNB South Africa
+
+Johannesburg, Gauteng, South Africa
+2 days ago
+Forward-Deployed Engineer
+Forward-Deployed Engineer
+
+ADG
+
+Johannesburg, Gauteng, South Africa
+1 week ago
+Cloud Engineer
+Cloud Engineer
+
+Synthesis Software Technologies
+
+City of Johannesburg, Gauteng, South Africa
+1 week ago
+Senior Manager – Platform, Architecture & Modernisation Advisory
+Senior Manager – Platform, Architecture & Modernisation Advisory
+
+Deloitte
+
+Midrand, Gauteng, South Africa
+1 week ago
+Similar Searches
+Document Developer jobs
+3,925 open jobs
+Sharepoint Developer jobs
+12 open jobs
+Junior Application Developer jobs
+51 open jobs
+Mechanical Engineering Manager jobs
+261 open jobs
+Adoption Specialist jobs
+152 open jobs
+Sharepoint Specialist jobs
+3,599 open jobs
+Microsoft Specialist jobs
+3,563 open jobs
+Global Business Manager jobs
+139 open jobs
+Dynamics Developer jobs
+376 open jobs
+Sharepoint Architect jobs
+12 open jobs
+Application Developer jobs
+1,604 open jobs
+Platform Engineer jobs
+524 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Momentum
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

@@ -1,0 +1,273 @@
+Title: AI Platform Engineer, Enablement and Governance Operations
+Company: Kraken
+Location: South Africa
+URL: https://za.linkedin.com/jobs/view/ai-platform-engineer-enablement-and-governance-operations-at-kraken-4467551832
+Posted: 2026-10-11
+Deadline: Open until filled
+Reason: The role aligns with the candidate's background in platform operations, CI/CD, documentation, and regulated environments, and is located in a target country (South Africa) with no US-specific restrictions.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+AI Platform Engineer, Enablement and Governance Operations
+Kraken  South Africa
+2 weeks ago  54 applicants
+  
+
+See who Kraken has hired for this role
+
+Apply 
+Save
+Building the Future of Open Finance
+
+Payward - the parent company behind Kraken, NinjaTrader, Breakout, xStocks, Payward Services and CF Benchmarks - has spent the last 15 years building one of the most modern and globally accessible financial infrastructure platforms in the industry, built to advance an open, global financial system.
+
+The team
+
+Founded in 2011, Kraken is one of the world's longest-standing crypto platforms, trusted by over 10 million individuals and institutions across the globe. It offers spot trading, margin, futures, staking, and OTC services, with products built for both individual investors and institutional clients.
+
+Enterprise Transformation owns Kraken's internal AI platform. AI tooling is deployed at scale across the org. Tiered spend controls are live, a governed integration gateway is in production, and a system inventory is being built against real regulatory obligations. The next constraint is not access. It's capability. The frontier moves every few weeks, and most of what arrives is a protocol, API, or primitive that someone has to turn into something the rest of the company can safely use.
+
+The opportunity
+
+
+Design and build the technical layer of the AI platform, from integration surface to production runbook. Identify capability gaps between what's possible and what the organization can safely use, then close them by evaluating vendors or building internally.
+Own the governed integration gateway as an engineering surface. You'll handle connector onboarding, authentication flows including OAuth and federated identity, reliability, and vendor escalation when things break.
+Build internal tooling that extends the platform. Think agent scaffolding, reusable skills and prompt assets, evaluation harnesses for model changes, provisioning automation, and integrations between AI tooling and your systems of record.
+Configure and operate tiered spend controls across the AI estate. Set caps by role and tier, build alerting rules, manage exception queues, run monthly reconciliation against vendor commitments, and eliminate the current single author risk in cap automation.
+Implement the technical controls behind policy on data handling, retention, and model eligibility. This means identity integration, SSO and SCIM, entitlement by role and tier, and workspace configuration where retention terms differ by model class.
+Work directly with teams to unblock them. Sit with them, understand the workflow, build or configure the thing that enables them to get real leverage from the tools.
+Run technical enablement. Deep dives for tool rollouts, office hours for model releases, and authority over the engineering detail in knowledge base material.
+Administer the enterprise AI estate end to end. Model turn ups, feature enablement, deprecation, provisioning queue, vendor configurations, and seat true ups.
+
+
+What You Bring
+
+
+Enterprise SaaS administration at 1,000+ seats, ideally including an AI or LLM platform.
+Demonstrated ability to build and ship working software, not just configure vendor products. Python or a comparable language should be natural to you. Version control, CI, containers, and secrets management are everyday tools.
+Experience integrating against LLM and SaaS APIs with working familiarity of agent and tool use patterns, including MCP or equivalent tool calling architectures.
+Working knowledge of identity and access. Okta or an equivalent IdP, OAuth, SCIM, SSO, and federated machine identity are things you've worked with.
+Operational discipline. You understand intake queues, SLAs, runbooks, escalation hygiene, and the instinct to document a fix the first time you make it.
+Genuine teaching ability. You can explain a technical capability three different ways on the same day to compliance, traders, and backend engineers.
+Clear written communication for technical documentation, runbooks, and policy pages.
+Judgment about what to build. You can tell the difference between a capability the organization actually needs and a demo that will be abandoned in a month.
+
+
+Nice to haves
+
+
+Experience standing up an internal developer or AI platform, including the self service and guardrail layers.
+Exposure to FinOps or software asset management practice.
+Experience with low code or workflow automation platforms.
+Atlassian administration depth in Jira, Confluence, or JSM.
+Familiarity with regulated industry audit and evidence work in financial services.
+
+
+Unless a specific application deadline is stated in the job posting, applications are accepted on an ongoing basis.
+
+Please note, applicants are permitted to redact or remove information on their resume that identifies age, date of birth, or dates of attendance at or graduation from an educational institution.
+
+We consider qualified applicants with criminal histories for employment on our team, assessing candidates in a manner consistent with the requirements of the San Francisco Fair Chance Ordinance.
+
+Our commitment
+
+Payward is powered by people from around the world and we celebrate the diverse talents, backgrounds, contributions, and unique perspectives that everyone brings to the table. We hire based on merit, seeking out people with the right abilities, knowledge, and skills for the job. We encourage you to apply for roles where you don't fully meet the listed requirements, especially if you're passionate or knowledgeable about crypto.
+
+We may ask candidates to complete job-related skills or work-style assessments as part of our hiring process. These assessments evaluate competencies relevant to the role and are applied consistently across candidates for similar positions. Results are considered alongside experience and interviews, and are not the sole basis for any employment decision.
+
+As an equal opportunity employer, we don't tolerate discrimination or harassment of any kind, whether based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status, or any other protected characteristic as outlined by federal, state, or local laws.
+
+Stay connected
+
+Follow us on Twitter
+
+Learn on the Kraken Blog
+
+Connect on LinkedIn
+
+Candidate Privacy Notice
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at Kraken by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Oracle Database Administrator jobs
+AI Platform Engineer, Enablement and Governance Operations
+Similar jobs
+Senior AI Compute Infrastructure Engineer
+Senior AI Compute Infrastructure Engineer
+Kraken
+South Africa
+1 week ago
+Senior AI Automation & Zendesk Specialist - South Africa
+Senior AI Automation & Zendesk Specialist - South Africa
+MANUAL
+South Africa
+1 day ago
+AI Tooling Engineer
+AI Tooling Engineer
+Jobgether
+South Africa
+3 days ago
+Senior AI Engineer
+Senior AI Engineer
+Tenth Revolution Group
+South Africa
+1 week ago
+AI Integrations Engineer (Open Source · Web Search)
+AI Integrations Engineer (Open Source · Web Search)
+SearchApi
+South Africa
+4 months ago
+AI Automation Engineer (Remote, Kempton Park)
+AI Automation Engineer (Remote, Kempton Park)
+Blacksmith Agency
+South Africa
+1 week ago
+Show more jobs like this 
+People also viewed
+Generative AI Engineer (Remote, Bloemfontein)
+Generative AI Engineer (Remote, Bloemfontein)
+
+Blacksmith Agency
+
+South Africa
+3 days ago
+Generative AI Engineer (Remote, Germiston)
+Generative AI Engineer (Remote, Germiston)
+
+Blacksmith Agency
+
+South Africa
+5 hours ago
+Generative AI Engineer (Remote, Johannesburg)
+Generative AI Engineer (Remote, Johannesburg)
+
+Blacksmith Agency
+
+South Africa
+4 days ago
+LLM Engineer (Remote, Welkom)
+LLM Engineer (Remote, Welkom)
+
+Blacksmith Agency
+
+South Africa
+6 days ago
+AI Engineer (Remote, Pietermaritzburg)
+AI Engineer (Remote, Pietermaritzburg)
+
+Blacksmith Agency
+
+South Africa
+3 days ago
+LLM Engineer (Remote, Vereeniging)
+LLM Engineer (Remote, Vereeniging)
+
+Blacksmith Agency
+
+South Africa
+2 days ago
+Applied AI Engineer (Remote, Germiston)
+Applied AI Engineer (Remote, Germiston)
+
+Blacksmith Agency
+
+South Africa
+1 week ago
+Automation Engineer (Remote, Kimberley)
+Automation Engineer (Remote, Kimberley)
+
+Blacksmith Agency
+
+South Africa
+3 days ago
+Machine Learning Engineer (Remote, Cape Town)
+Machine Learning Engineer (Remote, Cape Town)
+
+Blacksmith Agency
+
+South Africa
+6 days ago
+Automation Engineer (Remote, Knysna)
+Automation Engineer (Remote, Knysna)
+
+Blacksmith Agency
+
+South Africa
+6 days ago
+Similar Searches
+Oracle Database Administrator jobs
+3,490 open jobs
+Database Administrator jobs
+3,515 open jobs
+Site Reliability Engineer jobs
+1,083 open jobs
+Infrastructure Engineer jobs
+360 open jobs
+Linux Engineer jobs
+269 open jobs
+Senior Infrastructure Engineer jobs
+155 open jobs
+Virtualization Engineer jobs
+78 open jobs
+Unix Engineer jobs
+38 open jobs
+Cloud Architect jobs
+324 open jobs
+System Development Engineer jobs
+3,642 open jobs
+Senior Reliability Engineer jobs
+28 open jobs
+Linux System Engineer jobs
+240 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Kraken
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
