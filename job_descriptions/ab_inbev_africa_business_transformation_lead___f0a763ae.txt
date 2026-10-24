@@ -1,0 +1,303 @@
+Title: Business Transformation Lead: Testing
+Company: AB InBev Africa
+Location: Sandton, Gauteng, South Africa
+URL: https://za.linkedin.com/jobs/view/business-transformation-lead-testing-at-ab-inbev-africa-4481941618
+Posted: 2026-10-24
+Deadline: N/A
+Reason: The role aligns perfectly with the candidate's expertise in quality assurance, testing governance, and Azure DevOps, and it is located in a target country (South Africa).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Business Transformation Lead: Testing
+AB InBev Africa  Sandton, Gauteng, South Africa
+1 day ago  56 applicants
+  
+
+See who AB InBev Africa has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Dreaming big is in our DNA. It’s who we are as a company. It’s our culture. It’s our heritage. And more than ever, it’s our future. A future where we’re always looking forward. Always serving up new ways to meet life’s moments. A future where we keep dreaming bigger. We look for people with passion, talent, and curiosity, and provide them with the teammates, resources and opportunities to unleash their full potential. The power we create together – when we combine your strengths with ours – is unstoppable. Are you ready to join a team that dreams as big as you do?
+
+The Key Purpose of this role is to be responsible for planning, coordinating, governing, and executing testing activities across Aurora deployments within the Africa Zone. The role serves as the primary liaison between the Global Testing Centre of Excellence and local deployment teams, driving testing quality, business participation, defect resolution, business readiness, and deployment readiness across all Africa Aurora programme deployments. The role will be reporting to the Business Transformation Manager: Tech Projects, with a dotted-line relationship to the Aurora Global Test Lead. It will also ensure that global testing standards, methodologies, and governance processes are consistently adopted while enabling effective local execution of System Integration Testing (SIT) and User Acceptance Testing (UAT).
+
+Key Roles and Responsibilities:
+
+
+Central Team Alignment & Governance
+Act as the primary testing representative between the Aurora Global Testing CoE and Africa deployment teams.
+Ensure alignment with global testing methodologies, standards, governance processes, and reporting requirements.
+Participate in testing governance forums, deployment reviews, and execution planning sessions.
+Communicate testing risks, constraints, readiness status, and resource requirements to programme stakeholders.
+Drive consistent adoption of Aurora testing standards across all deployment teams.
+SIT/UAT Execution Leadership
+Lead planning, coordination, and execution of SIT and UAT activities across Africa deployments.
+Maintain testing schedules, execution plans, and progress tracking mechanisms.
+Monitor daily testing progress and drive milestone achievement.
+Coordinate Tower Leads, Ambassadors, Business Users, and Functional Teams.
+Identify risks, dependencies, issues, and blockers.
+Facilitate defect triage and drive timely issue resolution.
+Replan testing activities when required to maintain deployment timelines.
+Testing Tools & Enablement
+Support Azure DevOps as the primary testing management platform.
+Train and guide testers on test execution, evidence management, and defect creation standards.
+Ensure testing results, execution status, and defect information are accurately maintained.
+Promote consistent tool usage and testing practices.
+Support testing dashboards, metrics, and status reporting.
+Quality Assurance & Evidence Management
+Ensure testing complies with Aurora Global quality standards and audit requirements.
+Review evidence for completeness, accuracy, and traceability.
+Ensure testing documentation supports programme governance and compliance requirements.
+Monitor adherence to testing entry and exit criteria.
+Validate business sign-off and testing approval processes.
+Local Readiness & Stakeholder Coordination
+Ensure readiness of users, Golden Data, environments, access, integrations, and testing assets before execution begins.
+Coordinate participation from business teams, control teams, deployment teams, and process owners.
+Track readiness milestones and escalate gaps that may impact testing schedules.
+Support business users throughout SIT and UAT execution cycles.
+Facilitate communication across business and IT stakeholders.
+Support readiness assessments and go-live decision-making activities.
+
+
+Key Attributes and Competencies:
+
+
+Technical Skills
+SAP S/4HANA business process understanding.
+End-to-end testing lifecycle management.
+SIT and UAT coordination.
+Azure DevOps test management.
+Defect management and issue tracking.
+Test evidence management.
+Reporting and dashboard preparation.
+Microsoft Office Suite, including Excel, PowerPoint, and Teams.
+Risk and issue management.
+Leadership Competencies
+Strong execution and delivery focus.
+Stakeholder management and influencing skills.
+Planning and coordination.
+Problem solving and decision-making.
+Communication and facilitation skills.
+Risk management capability.
+Attention to detail and quality orientation.
+Ability to work across business and technology teams.
+Ability to operate within global and regional programme structures.
+Ability to influence without direct authority.
+
+
+Key Performance Indicators (KPIs)
+
+
+SIT completion against approved plan.
+UAT completion against approved plan.
+Test execution completion rate and testing milestone achievement.
+Percentage of testing evidence accepted first time.
+Defect closure rate within agreed timelines.
+Critical defect ageing and resolution performance.
+Business sign-off completion.
+Testing readiness milestone achievement.
+Compliance with Aurora Global testing standards.
+Audit readiness and evidence quality.
+Go-live testing readiness achievement.
+
+
+Minimum Requirements:
+
+
+Bachelor’s Degree in Information Technology, Engineering, Business, Finance, or a related discipline.
+7–10 years of experience in ERP programme delivery, testing management, SAP implementations, or business transformation initiatives.
+Experience should include SAP S/4HANA implementation programmes, SIT and UAT management, multi-country deployment or transformation projects, testing governance, quality assurance, defect management, stakeholder management, and Azure DevOps or equivalent testing management platforms.
+Experience working within large-scale global transformation programmes is advantageous.
+
+
+Additional Information:
+
+
+Band: VI
+
+
+SAB (Pty) Ltd is an equal opportunity employer and all appointments will be made in line with SAB employment equity plans and talent requirements. Management reserves the right to use additional and relevant information as criteria for short-listing.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Food and Beverage Services
+  
+
+Referrals increase your chances of interviewing at AB InBev Africa by 2x
+
+See who you know
+
+Get notified about new Testing Lead jobs in Sandton, Gauteng, South Africa.
+
+Sign in to create job alert
+Similar jobs
+QA Competency Lead
+QA Competency Lead
+Sanlam
+Johannesburg, Gauteng, South Africa
+2 weeks ago
+Manager, Software Quality Assurance / Testing: ServiceNow
+Manager, Software Quality Assurance / Testing: ServiceNow
+NTT DATA, Inc.
+Johannesburg, Gauteng, South Africa
+2 weeks ago
+Process Improvement Practice Lead
+Process Improvement Practice Lead
+Nedbank
+Sandton, Gauteng, South Africa
+2 weeks ago
+Senior Manager – Agentic Enterprise Transformation
+Senior Manager – Agentic Enterprise Transformation
+Deloitte
+Midrand, Gauteng, South Africa
+4 days ago
+Lead Solution Analyst
+Lead Solution Analyst
+Absa Group
+Johannesburg, Gauteng, South Africa
+5 days ago
+Senior Tester
+Senior Tester
+Accredited Resource Consulting Services (Pty) Ltd
+Centurion, Gauteng, South Africa
+ZAR 500,000 - ZAR 800,000
+2 days ago
+Show more jobs like this 
+People also viewed
+Programme & Project Portfolio Manager
+Programme & Project Portfolio Manager
+
+BSG
+
+Johannesburg Metropolitan Area
+1 week ago
+Talent Pool: Test Analyst MMH260714-27
+Talent Pool: Test Analyst MMH260714-27
+
+Momentum
+
+Centurion, Gauteng, South Africa
+1 week ago
+Senior Manager: Operational Governance
+Senior Manager: Operational Governance
+
+Liquid Intelligent Technologies South Africa
+
+Gauteng, South Africa
+2 days ago
+Product Owner
+Product Owner
+
+Network Recruitment
+
+Johannesburg Metropolitan Area
+3 weeks ago
+Senior Project Manager
+Senior Project Manager
+
+Tech Mahindra
+
+City of Johannesburg, Gauteng, South Africa
+2 weeks ago
+AI Product & Experience Lead: P&C Technology
+AI Product & Experience Lead: P&C Technology
+
+NTT DATA, Inc.
+
+Johannesburg, Gauteng, South Africa
+1 week ago
+Principal Specialist: Strategic Portfolios
+Principal Specialist: Strategic Portfolios
+
+Discovery Limited
+
+Sandton, Gauteng, South Africa
+1 day ago
+Manager - Johannesburg | BCG Platinion
+Manager - Johannesburg | BCG Platinion
+
+BCG Platinion
+
+Johannesburg, Gauteng, South Africa
+1 day ago
+Lead Business Optimisation Engineer
+Lead Business Optimisation Engineer
+
+FlySafair
+
+City of Johannesburg, Gauteng, South Africa
+1 week ago
+Senior Manager - Management Consulting
+Senior Manager - Management Consulting
+
+Hatch
+
+Johannesburg, Gauteng, South Africa
+2 weeks ago
+Similar Searches
+Test Team Lead jobs
+181 open jobs
+Senior Policy Analyst jobs
+10 open jobs
+Software Test Lead jobs
+53 open jobs
+Software Testing Specialist jobs
+45 open jobs
+Test Coordinator jobs
+87 open jobs
+Test Architect jobs
+201 open jobs
+Automation Lead jobs
+160 open jobs
+Senior Automation Engineer jobs
+640 open jobs
+Funding Manager jobs
+245 open jobs
+Director of Technical Services jobs
+29 open jobs
+Automation Test Analyst jobs
+116 open jobs
+Peoplesoft Developer jobs
+70 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+You’re signed out
+Sign in for the full experience.
+Sign in Join now
