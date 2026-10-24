@@ -1,9 +1,9 @@
 {
   "pid": 10392,
   "started_at": "2026-10-25T02:13:41+03:00",
-  "heartbeat_at": "2026-10-25T02:37:17+03:00",
+  "heartbeat_at": "2026-10-25T02:41:04+03:00",
   "phase": "reviewing",
-  "detail": "Technicien en documentation",
-  "last_scrape_ok_at": "2026-10-25T02:35:43+03:00",
+  "detail": "QA Manager",
+  "last_scrape_ok_at": "2026-10-25T02:39:10+03:00",
   "last_error": null
 }
