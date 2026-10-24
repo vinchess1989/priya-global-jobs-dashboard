@@ -1,0 +1,276 @@
+Title: QA Engineer (Senior)
+Company: Xe.com
+Location: Bracknell, England, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/qa-engineer-senior-at-xe-com-4480301053
+Posted: 2026-10-18
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in QA, CI/CD pipeline ownership, and regulated industry compliance, and it is located in the UK.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+QA Engineer (Senior)
+Xe.com  Bracknell, England, United Kingdom
+1 week ago  78 applicants
+  
+
+See who Xe.com has hired for this role
+
+Apply 
+Save
+Description
+
+About Xe
+
+Xe is a cross-border payments platform. We help SMEs and consumers in the US, UK, Canada, Australia, and New Zealand collect, convert, hold, and send money across markets. Each year, over 300 million people use Xe for currency information and over 350,000 use us to send money overseas.
+
+Today, we're rebuilding the platform layer behind cross-border payments for corporate and consumer clients. We're small enough that your code ships fast and your decisions matter, and Euronet Worldwide (Nasdaq: EEFT) backs us so the problems stay real-scale.
+
+About This Role
+
+We're hiring a senior QA engineer who owns quality end-to-end and shapes how the team tests, from test design and automation infrastructure through to release gating and production observability. You already use AI as part of how you think, build, test, and ship.
+
+You'll catch problems before code that moves money hits production, design the test automation other engineers depend on, and lead modernization of the test estate as new capability ships. You'll work in a small team with direct access to engineering, product, and compliance, own quality strategy for your domain, lead test architecture decisions, mentor mid-level QA engineers, and partner with architects and team leads on cross-domain quality decisions.
+
+What You'll Do
+
+
+Design and own integration test harnesses and contract tests for the flows that move money, across a range of domains and the partner APIs behind them.
+Lead the design of the test automation that gates code into production, across onboarding, KYC and KYB, payment initiation, FX, settlement, and other supporting flows.
+Set the balance of manual and automated testing for your domain: write test cases, run manual tests where they are the right tool, and lead automation in Playwright and equivalent frameworks.
+Own CI/CD quality strategy for your domain (release-blocking signals, flaky-test triage, test infrastructure health), lead production incident investigation, and translate findings into automated tests and process improvements.
+Lead design reviews of test architecture, set quality direction for your domain, and mentor mid-level QA engineers.
+Use agentic coding tools and AI test tools (Copilot, Cursor, Claude Code, or equivalent; test generation, eval frameworks, or equivalent) daily, and lead the build of the test estate for new capability on the modern stack.
+
+
+What We're Looking For
+
+Must-have
+
+
+6 to 10+ years building production test automation, end-to-end.
+Strong test automation skills in JavaScript, TypeScript, Python, or C#, including test framework design, system design, and test architecture experience.
+SQL and relational database fundamentals (for test data, validation, and debugging).
+API testing (Postman, Bruno, or equivalent) and UI automation (Playwright, Cypress, or equivalent).
+Functional and non-functional testing principles (reliability and security) and disciplined defect management, with hands-on performance, load, or resilience testing (k6, JMeter, or equivalent).
+Comfortable generating test cases and running manual tests where they are the right tool, alongside building automated coverage.
+Daily use of agentic coding tools (Copilot, Cursor, Claude Code, or equivalent) and AI test tools (test generation, eval frameworks, or equivalent) across the SDLC.
+Production experience with AWS in a development or test context, and CI/CD pipeline ownership (GitHub Actions or equivalent), including building release gates.
+Payments, FX, or regulated-industry experience.
+Track record of QA technical leadership: setting test architecture, leading code reviews of test automation, and making quality decisions in your domain.
+Strong written and verbal communication.
+
+
+Nice-to-have
+
+
+Experience with contract testing for partner integrations (Pact or equivalent).
+Experience testing Windows client applications.
+Mobile app test automation.
+Experience leading modernization of test estates or quality programs.
+
+
+Perks & Benefits
+
+
+Competitive Salary & Discretionary Bonus
+23 days annual leave increasing with service (capped at 28 days)
+Paid day off for your Birthday
+4% employer pension contribution
+Discounted Euronet ESPP
+Life Cover, Income Protection & Critical Illness cover
+Healthcare
+Plumm Mental Health and Wellbeing
+Volunteering day for a charity of your choice
+
+
+We want Xe to be a great place to work and to ensure that our communities are represented across our workforce. A vital part of this is ensuring we are a truly inclusive organization that encourages diversity in all respects.
+
+Xe is an Equal Employment Opportunity employer. All qualified applicants will be considered for employment regardless of age, national origin, race, color, disability, religion, sexual orientation, gender identity or expression, or any other characteristic protected under applicable law. We are committed to providing reasonable accommodations to qualified individuals with disabilities. If you need assistance or an accommodation due to a disability, you may contact us at recruitment@xe.com.
+
+The position responsibilities outlined above are intended to define the general contents and requirements to perform this job. It is not to be taken as a complete statement of responsibilities or requirements. This job description does not restrict the Company's right to assign or reassign duties and responsibilities to this job as needed.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at Xe.com by 2x
+
+See who you know
+
+Get notified about new Senior Quality Assurance Engineer jobs in Bracknell, England, United Kingdom.
+
+Sign in to create job alert
+Jobs
+Senior Software Test Engineer jobs
+QA Engineer (Senior)
+Similar jobs
+Senior Software Test Engineer
+Senior Software Test Engineer
+Humanoid
+London, England, United Kingdom
+2 days ago
+Senior QA Engineer 1
+Senior QA Engineer 1
+Moneybox
+London Area, United Kingdom
+2 days ago
+Senior Quality Engineer
+Senior Quality Engineer
+Trayport
+London, England, United Kingdom
+1 day ago
+Senior Quality Engineer
+Senior Quality Engineer
+Monument Technology
+London Area, United Kingdom
+2 weeks ago
+Senior Quality Assurance Engineer
+Senior Quality Assurance Engineer
+Trading 212
+London, England, United Kingdom
+1 week ago
+Senior QA Engineer
+Senior QA Engineer
+Low Carbon Contracts Company
+London, England, United Kingdom
+1 day ago
+Show more jobs like this 
+People also viewed
+Quality Engineer - Front Ends (12 month FTC)
+Quality Engineer - Front Ends (12 month FTC)
+
+Trayport
+
+London, England, United Kingdom
+1 week ago
+Senior Localisation Quality Engineer
+Senior Localisation Quality Engineer
+
+Sony Interactive Entertainment
+
+London, England, United Kingdom
+2 weeks ago
+Quality Assurance Engineer
+Quality Assurance Engineer
+
+Scalian
+
+Hounslow, England, United Kingdom
+2 weeks ago
+Software Development Engineer in Test
+Software Development Engineer in Test
+
+Harmonic Security
+
+London, England, United Kingdom
+£77,000 - £90,000
+3 weeks ago
+Senior Automation QA
+Senior Automation QA
+
+Le Creuset
+
+Andover, England, United Kingdom
+2 weeks ago
+AI Quality Engineer
+AI Quality Engineer
+
+Xapien
+
+London, England, United Kingdom
+2 months ago
+Senior Quality Engineer with Java
+Senior Quality Engineer with Java
+
+Grid Dynamics
+
+London, England, United Kingdom
+1 month ago
+QA Engineer
+QA Engineer
+
+Unily
+
+Lower Eashing, England, United Kingdom
+4 days ago
+QA Engineer
+QA Engineer
+
+Gorilla - Energy Margin Intelligence
+
+London, England, United Kingdom
+2 weeks ago
+Sr. Test Analyst
+Sr. Test Analyst
+
+Cognizant
+
+London Area, United Kingdom
+2 weeks ago
+Similar Searches
+Senior Software Test Engineer jobs
+479 open jobs
+Lead Quality Assurance Engineer jobs
+823 open jobs
+Senior Software Tester jobs
+2,602 open jobs
+Senior Test Engineer jobs
+1,670 open jobs
+Senior Software Quality Engineer jobs
+262 open jobs
+Quality Assurance Engineer jobs
+3,124 open jobs
+Lead Test Engineer jobs
+1,666 open jobs
+Contract Test Engineer jobs
+393 open jobs
+Automation Test Lead jobs
+533 open jobs
+Senior Quality Engineer jobs
+1,246 open jobs
+Quality Assurance Automation Engineer jobs
+750 open jobs
+Business Objects Developer jobs
+2,633 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
