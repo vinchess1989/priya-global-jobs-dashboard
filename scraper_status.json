@@ -1,9 +1,9 @@
 {
   "pid": 10392,
   "started_at": "2026-10-25T02:13:41+03:00",
-  "heartbeat_at": "2026-10-25T02:42:59+03:00",
+  "heartbeat_at": "2026-10-25T02:45:08+03:00",
   "phase": "reviewing",
-  "detail": "Account Manager, Orthopaedics (Nova Scotia)",
-  "last_scrape_ok_at": "2026-10-25T02:41:54+03:00",
+  "detail": "DevOps Engineer",
+  "last_scrape_ok_at": "2026-10-25T02:43:50+03:00",
   "last_error": null
 }
