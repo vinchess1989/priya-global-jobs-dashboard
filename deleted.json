@@ -14635,5 +14635,22 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.5-flash-lite",
     "description_file": null,
     "deletion_reason": "Deadline (2025-10-25) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Product Development Technologist",
+    "company": "Danone",
+    "location": "Auckland, Auckland, New Zealand",
+    "url": "https://nz.linkedin.com/jobs/view/product-development-technologist-at-danone-4472162982",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role requires a specific background in food science, dairy science, or chemical engineering, which does not align with the candidate's expertise in software engineering, configuration management, and technical documentation.",
+    "id": "bb7e5d4a",
+    "source": "linkedin_nz_quality_engineer",
+    "added_at": "2026-10-24T03:02:39+03:00",
+    "posted_date": "2026-10-22",
+    "deadline": "2026-10-15",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-10-15) passed by more than 2 days and unreviewed"
   }
 ]

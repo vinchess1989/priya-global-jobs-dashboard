@@ -1,0 +1,223 @@
+Title: Intermediate QA Automation Engineer (Embedded Devices)
+Company: EROAD
+Location: Auckland, Auckland, New Zealand
+URL: https://nz.linkedin.com/jobs/view/intermediate-qa-automation-engineer-embedded-devices-at-eroad-4480006589
+Posted: 2026-10-23
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's background in embedded systems, CI/CD pipeline integration, and quality assurance, and it is located in a target country (New Zealand).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Intermediate QA Automation Engineer (Embedded Devices)
+EROAD  Auckland, Auckland, New Zealand
+1 day ago   Be among the first 25 applicants
+  
+
+See who EROAD has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+About The Company
+
+EROAD is a global fleet management technology company delivering telematics, compliance and safety solutions through an integrated hardware and software platform, and it's growing its Devices Team to keep pace with demand for its connected hardware and services. We're hiring an Intermediate Test Automation QA Engineer to help us get there.
+
+What You'll Do
+
+You'll own quality across EROAD's connected devices, from physical hardware to the cloud services behind them.
+
+
+Test physical devices such as telematics units, cameras and adapters alongside their firmware and hardware integrations
+Build and maintain automated tests spanning component, integration, contract, performance and end-to-end coverage
+Write supporting automation scripts to extend and strengthen test tooling
+Integrate automated tests into CI/CD pipelines so quality gates run with every build
+Work hands-on in Linux environments to test and troubleshoot connected devices
+Validate end-to-end workflows across hardware, mobile apps and cloud-integrated services
+Investigate and diagnose defects across the hardware-software stack
+Collaborate within a cross-functional agile team, reporting to the Chapter Lead
+
+
+What You Need
+
+We're after someone with hands-on depth across both embedded testing and modern automation practice.
+
+
+Proven test automation experience in Java, with Kotlin experience a strong complement or substitute where framework depth is clear
+Solid background in embedded systems, connected devices and hardware-software integration testing
+Strong understanding of serial communication protocols such as UART, SPI, I2C, RS-232, RS-485, USB CDC and CAN
+Comfortable working in Linux/Ubuntu environments for device testing and troubleshooting
+Experience building BDD-based test automation with Cucumber, plus JUnit and TestNG
+Practical knowledge of CI/CD tooling such as Jenkins and GitHub Actions
+Skilled in Python and Bash scripting for test automation and tooling Working understanding of Azure and/or AWS for cloud-integrated device solutions
+Exposure to AI-assisted development or testing tools to speed up automation and defect investigation
+Able to read hardware schematics or familiar with observability tools like Datadog or Grafana is a bonus
+
+
+WHY JOIN
+
+This is a chance to own quality for hardware that runs at serious scale, across a genuinely global platform
+
+
+Work on connected devices used by fleets across New Zealand, Australia and North America
+Be part of a high-growth, publicly listed technology company making a real, tangible impact
+Join a talented, collaborative and multicultural team
+Access continuous learning, EAP support and AI tooling to help you grow
+Competitive salary and benefits package
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at EROAD by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Junior QA Automation Engineer (Embedded Devices)
+Junior QA Automation Engineer (Embedded Devices)
+EROAD
+Auckland, Auckland, New Zealand
+1 day ago
+Quality Assurance Engineer
+Quality Assurance Engineer
+Air New Zealand
+Auckland, Auckland, New Zealand
+1 week ago
+QA Automation Engineer
+QA Automation Engineer
+Tribe Group
+Auckland, Auckland, New Zealand
+1 week ago
+Senior Quality Assurance Engineer
+Senior Quality Assurance Engineer
+Air New Zealand
+Auckland, Auckland, New Zealand
+1 week ago
+Test Engineer
+Test Engineer
+Vista
+Auckland, Auckland, New Zealand
+3 months ago
+QA Automation Engineer (f/m/d)
+QA Automation Engineer (f/m/d)
+Thinkproject
+Auckland, Auckland, New Zealand
+1 week ago
+Show more jobs like this 
+People also viewed
+Automation & AI Engineer
+Automation & AI Engineer
+
+Abano Healthcare Group
+
+Auckland, Auckland, New Zealand
+1 week ago
+Senior QA Analyst
+Senior QA Analyst
+
+Tata Consultancy Services
+
+Auckland, New Zealand
+3 weeks ago
+Junior/Intermediate Engineers - Product & Engineering
+Junior/Intermediate Engineers - Product & Engineering
+
+Halter
+
+Auckland, New Zealand
+5 months ago
+Quality Engineer - Technical
+Quality Engineer - Technical
+
+Aroa Biosurgery Limited
+
+Auckland, New Zealand
+1 day ago
+AI & Automation Engineer
+AI & Automation Engineer
+
+Tribe Group
+
+Auckland, Auckland, New Zealand
+1 week ago
+Senior Hardware Validation Engineer
+Senior Hardware Validation Engineer
+
+EROAD
+
+Auckland, Auckland, New Zealand
+1 month ago
+Senior Engineer I-Software (API & Interface Layer - Embedded Systems)
+Senior Engineer I-Software (API & Interface Layer - Embedded Systems)
+
+Microchip Technology Inc.
+
+Auckland, Auckland, New Zealand
+1 week ago
+TOSCA automation specialist
+TOSCA automation specialist
+
+RWA People
+
+Auckland, Auckland, New Zealand
+4 days ago
+Expressions of Interest - Contract Senior Test Automation Engineer
+Expressions of Interest - Contract Senior Test Automation Engineer
+
+ClearPoint
+
+Auckland, Auckland, New Zealand
+2 months ago
+Graduate Product Development Engineer
+Graduate Product Development Engineer
+
+Resideo
+
+Auckland, Auckland, New Zealand
+2 weeks ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
