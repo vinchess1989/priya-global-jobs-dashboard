@@ -1,0 +1,217 @@
+Title: Site Reliability Engineer III, Payments Technology
+Company: JPMorganChase
+Location: Singapore, Singapore
+URL: https://sg.linkedin.com/jobs/view/site-reliability-engineer-iii-payments-technology-at-jpmorganchase-4475036280
+Posted: 2026-10-25
+Deadline: Open until filled
+Reason: The role aligns with the candidate's extensive experience in CI/CD, release pipelines, and infrastructure automation, and it is located in a target country (Singapore) without any hard rejection criteria triggered.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Site Reliability Engineer III, Payments Technology
+JPMorganChase  Singapore, Singapore
+13 hours ago  60 applicants
+  
+
+See who JPMorganChase has hired for this role
+
+Apply 
+Save
+Job Description
+
+There's nothing more exciting than being at the center of a rapidly growing field in technology and applying your skillsets to drive innovation and modernize the world's most complex and mission-critical systems.
+
+As a Site Reliability Engineer III at JPMorgan Chase within the Payments Technology team, you will solve complex and broad business problems with simple and straightforward solutions. Through code and cloud infrastructure, you will configure, maintain, monitor, and optimize applications and their associated infrastructure to independently decompose and iteratively improve on existing solutions. You are a significant contributor to your team by sharing your knowledge of end-to-end operations, availability, reliability, and scalability of your application or platform.
+
+Job Responsibilities
+
+
+Guides and assists others in the areas of building appropriate level designs and gaining consensus from peers where appropriate
+Collaborates with other software engineers and teams to design and implement deployment approaches using automated continuous integration and continuous delivery pipelines
+Collaborates with other software engineers and teams to design, develop, test, and implement availability, reliability, scalability, and solutions in their applications
+Implements infrastructure, configuration, and network as code for the applications and platforms in your remit
+Collaborates with technical experts, key stakeholders, and team members to resolve complex problems
+Understands service level indicators and utilizes service level objectives to proactively resolve issues before they impact customers
+Supports the adoption of site reliability engineering best practices within your team
+
+
+Required Qualifications, Capabilities, And Skills
+
+
+Bachelor's Degree in Computer Science, Cybersecurity, Data Science, or related disciplines
+Formal training and/or certification in software engineering and at least 3+ years of experience
+Proficient in site reliability culture and principles and familiarity with how to implement site reliability within an application or platform
+Proficient in at least one programming language such as Python, Java/Spring Boot, and .Net
+Proficient knowledge of software applications and technical processes within a given technical discipline (e.g., Cloud, artificial intelligence, Android, etc.)
+Experience in observability such as white and black box monitoring, service level objective alerting, and telemetry collection using tools such as Grafana, Dynatrace, Prometheus, Datadog, Splunk, and others
+Experience with continuous integration and continuous delivery tools like Jenkins, GitLab, or Terraform
+Familiarity with container and container orchestration such as ECS, Kubernetes, and Docker
+Familiarity with troubleshooting common networking technologies and issues
+Ability to proactively recognize road blocks and demonstrates interest in learning technology that facilitates innovation
+
+
+ABOUT US
+
+J.P. Morgan is a global leader in financial services, providing strategic advice and products to the world's most prominent corporations, governments, wealthy individuals and institutional investors. Our first-class business in a first-class way approach to serving clients drives everything we do. We strive to build trusted, long-term partnerships to help our clients achieve their business objectives.
+
+We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. We also make reasonable accommodations for applicants' and employees' religious practices and beliefs, as well as mental health or physical disability needs. Visit our FAQs for more information about requesting an accommodation.
+
+About The Team
+
+J.P. Morgan's Commercial & Investment Bank is a global leader across banking, markets, securities services and payments. Corporations, governments and institutions throughout the world entrust us with their business in more than 100 countries. The Commercial & Investment Bank provides strategic advice, raises capital, manages risk and extends liquidity in markets around the world.
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at JPMorganChase by 2x
+
+See who you know
+
+Get notified about new Site Reliability Engineer jobs in Singapore, Singapore.
+
+Sign in to create job alert
+Similar jobs
+Senior Site Reliability Engineer (APAC)
+Senior Site Reliability Engineer (APAC)
+Reap
+Singapore, Singapore
+2 weeks ago
+Site Reliability Engineer II, Payments Technology
+Site Reliability Engineer II, Payments Technology
+JPMorganChase
+Singapore, Singapore
+2 days ago
+Lead Engineer, Site Reliability Engineering
+Lead Engineer, Site Reliability Engineering
+Mastercard
+Singapore, Singapore
+2 weeks ago
+Site Reliability Engineer (SRE)
+Site Reliability Engineer (SRE)
+Liquid Group
+Singapore, Singapore
+1 week ago
+Senior Site Reliability Engineer, Spend
+Senior Site Reliability Engineer, Spend
+Airwallex
+Singapore, Singapore
+5 days ago
+Platform Engineer - Reliability - FinTech - $140,000-$220,000 SGD + Bonus
+Platform Engineer - Reliability - FinTech - $140,000-$220,000 SGD + Bonus
+Hunter Bond
+Singapore, Singapore
+SGD 140,000 - SGD 220,000
+2 hours ago
+Show more jobs like this 
+People also viewed
+Observability Engineer
+Observability Engineer
+
+NETS
+
+Singapore, Singapore
+1 week ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+RemotePeople
+
+Singapore, Singapore
+6 days ago
+Site Reliability Engineer, Monetization Technology
+Site Reliability Engineer, Monetization Technology
+
+TikTok
+
+Singapore, Singapore
+3 weeks ago
+Senior Platform Engineer (DevOps)
+Senior Platform Engineer (DevOps)
+
+FINN
+
+Singapore
+4 days ago
+AVP, Platform SRE Engineer, SRE&Governance, Group Technology
+AVP, Platform SRE Engineer, SRE&Governance, Group Technology
+
+DBS Bank
+
+Singapore, Singapore
+1 month ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+Momcozy
+
+Singapore, Singapore
+1 week ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+Tencent
+
+Singapore, Singapore
+1 week ago
+Senior Cloud Site Reliability Engineer
+Senior Cloud Site Reliability Engineer
+
+Solace
+
+Singapore, Singapore
+1 month ago
+Staff Site Reliability Engineer - Singapore/Taiwan
+Staff Site Reliability Engineer - Singapore/Taiwan
+
+Fortinet
+
+Singapore
+2 days ago
+Tencent Cloud-Senior Site Reliability Engineer (IaaS)
+Tencent Cloud-Senior Site Reliability Engineer (IaaS)
+
+Tencent
+
+Singapore, Singapore
+1 week ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at JPMorganChase
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

@@ -1,0 +1,242 @@
+Title: DevSecOps Engineer
+Company: Kyndryl
+Location: Singapore, Singapore
+URL: https://sg.linkedin.com/jobs/view/devsecops-engineer-at-kyndryl-4481665772
+Posted: 2026-10-24
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in CI/CD, configuration management, and DevOps automation within a professional, English-speaking environment in a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevSecOps Engineer
+Kyndryl  Singapore, Singapore
+1 day ago   Be among the first 25 applicants
+  
+
+See who Kyndryl has hired for this role
+
+Apply 
+Save
+Who We Are
+
+At Kyndryl, we run and reimagine the mission-critical technology systems that drive advantage for the world’s leading businesses. We are at the heart of progress; with proven expertise and a continuous flow of AI-powered insight, enabling smarter decisions, faster innovation, and a lasting competitive edge. For our people—Kyndryls—that means doing purposeful work that powers human progress. Join us and experience a flexible, supportive environment where your well-being is prioritized and your potential can thrive.
+
+The Role
+
+Are you ready to join the team of software engineering experts at Kyndryl? We are seeking a talented Software Engineering Technical Specialist to contribute to our software engineering space and provide critical skills required for the development of cutting-edge products.
+
+The DevSecOps Engineer is responsible for designing, automating, and maintaining secure, scalable, and resilient infrastructure and deployment pipelines. The role requires expertise in cloud platforms, automation, security best practices, and modern DevOps methodologies. Engineers must work in an agile, collaborative environment, ensuring seamless integration of security into development workflows and infrastructure operations.
+
+Responsibilities
+
+
+Develop automation and processes to enable teams to deploy, manage, scale, and monitor applications in data centers and cloud environments.
+Troubleshoot and resolve system and application issues across platforms, participating in on-call escalations for critical incidents.
+Take ownership of end-to-end infrastructure and security solutions across the organization.
+Deploy and manage monitoring tools to track infrastructure performance, utilization, and health.
+Implement configuration management systems for business continuity and automate disaster recovery measures.
+Provision virtual machines, databases, application containers, and licenses for development teams.
+Configure and maintain CI/CD pipelines, incorporating streamlined change management and release processes.
+Develop scripts and automation tools to support software build, integration, and deployment across development and production environments.
+Automate the configuration management of development, quality assurance, and production workloads.
+Design, build, optimize, and monitor automation systems to identify bottlenecks and maximize service availability.
+Implement security practices that comply with industry standards to protect the organization’s data and infrastructure.
+Plan, implement, and monitor system security architecture, including threat and risk assessments.
+Perform security checks, such as vulnerability assessments and system hardening, and troubleshoot security incidents
+Apply secure configurations and best practices when implementing security controls in infrastructure and applications.
+
+
+Who You Are
+
+Experience and Skills Needed
+
+
+Degree or Diploma in Computer Science, Computer or Electronics Engineering, Information Technology, or related disciplines. Passion for automation, standardization, and best practices in infrastructure and security.
+Strong understanding of the Software Development Life Cycle (SDLC), Test- Driven Development (TDD), Continuous Integration (CI), and Continuous Delivery (CD).
+Experience working with high availability, high performance, and high-security multi-data center systems and hybrid cloud environments.
+Proficiency in at least three programming/scripting languages (Bash, PowerShell, Python, Go).
+Experience with Git and modern branching workflows.
+Experience with public cloud platforms (AWS, Azure, Google Cloud).
+Experience with automated provisioning tools (Ansible, Terraform, Puppet, Vagrant).
+Hands-on experience with virtualization technologies (KVM, VMware, Hyper- V).
+Strong understanding of container technologies (Docker, Kubernetes).
+Knowledge of Cloud Native Computing Foundation (CNCF) tools (Prometheus, Helm, ArgoCD, Istio, Gatekeeper, Crossplane).
+Experience with infrastructure monitoring and observability tools.
+Strong ability to troubleshoot complex issues across system resources and application stacks.
+Experience with CI/CD pipelines and DevOps tools (GitLab, Jenkins, BitBucket, ArgoCD).
+Experience with disaster recovery planning, system backup, and restore processes.
+Knowledge of RPM-based software packaging and deployment.
+
+
+Being You
+
+The “Kyn” in Kyndryl means kinship, which represents the strong bonds we have with each other, our customers and our communities. We focus on ensuring all Kyndryls feel included and we welcome people of all cultures, backgrounds, and experiences. Even if you don’t meet every requirement, we encourage you to apply. We believe in growth, and we’re excited to see what you can bring. At Kyndryl, employee feedback has told us that our number one driver of employee engagement is belonging. That sense of belonging — being a valued, respected, trusted member of the team — is fundamental to our culture and fueling great experiences for our customers. This dedication to welcoming everyone into our company means that Kyndryl gives you the ability to thrive and contribute to our culture of empathy and shared success. That’s The Kyndryl Way.
+
+What You Can Expect
+
+Your career with us isn’t just a job—it’s an adventure with purpose. We offer a dynamic, hybrid-friendly culture that supports your well-being and empowers you to grow. Our Be Well programs are thoughtfully designed to support your financial, mental, physical, and social health—because we know that when you feel your best, you do your best.
+
+From your very first day, you’ll dive into impactful work that powers the systems our customers rely on every day. You won’t just contribute—you’ll make a difference, tackling meaningful projects that sharpen your skills and fuel your growth.
+
+We’re here to champion your journey. With powerful tools to chart your career path, personalized development goals aligned with your ambitions, and continuous feedback to keep you inspired and on track, you’ll have everything you need to thrive and evolve. You’ll develop in-demand skills to grow your career and achieve your ambitions with access to cutting-edge learning opportunities—from certifications with Microsoft, Google, and Amazon to coaching and hands-on experiences. And through it all, you’ll be part of a culture that values empathy, restless learning, and a devotion to shared success.
+
+We want you to thrive here—and we’re committed to helping you do just that. Ready to make an impact? Join us and help shape what’s next.
+
+Get Referred!
+
+If you know someone that works at Kyndryl, when asked ‘How Did You Hear About Us’ during the application process, select ‘Employee Referral’ and enter your contact's Kyndryl email address.
+Show more 
+Seniority level
+Entry level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Kyndryl by 2x
+
+See who you know
+
+Get notified about new Engineer jobs in Singapore, Singapore.
+
+Sign in to create job alert
+Similar jobs
+DevSecOps Engineer
+DevSecOps Engineer
+Capgemini Engineering
+Singapore
+1 month ago
+DevSecOps Engineer
+DevSecOps Engineer
+Capgemini
+Singapore, Singapore
+3 weeks ago
+DevSecOps Engineer
+DevSecOps Engineer
+Capgemini
+Singapore
+1 month ago
+DevSecOps Engineer - A26273
+DevSecOps Engineer - A26273
+Activate Interactive
+Singapore, Singapore
+1 month ago
+DevSecOps Engineer - A26395
+DevSecOps Engineer - A26395
+Activate Interactive
+Singapore, Singapore
+1 week ago
+DevSecOps Engineer
+DevSecOps Engineer
+Singtel
+Singapore, Singapore
+3 days ago
+Show more jobs like this 
+People also viewed
+AWS Security Engineer
+AWS Security Engineer
+
+Vinova
+
+Singapore, Singapore
+2 weeks ago
+Security Engineer (AppSec - Secure SDLC) - Information Security
+Security Engineer (AppSec - Secure SDLC) - Information Security
+
+Shopee
+
+Singapore, Singapore
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+Capgemini Engineering
+
+Singapore
+1 month ago
+Security Engineer, Product Security - Global Security Organization
+Security Engineer, Product Security - Global Security Organization
+
+TikTok
+
+Singapore, Singapore
+2 weeks ago
+Security Engineer
+Security Engineer
+
+Manus AI
+
+Singapore, Singapore
+3 weeks ago
+Senior Cloud Engineer
+Senior Cloud Engineer
+
+Singtel
+
+Singapore, Singapore
+1 week ago
+Cloud DevSecOps Engineer (Terraform, CloudFormation, cloud services on AWS)
+Cloud DevSecOps Engineer (Terraform, CloudFormation, cloud services on AWS)
+
+NCS Group
+
+Singapore, Singapore
+4 months ago
+DevSecOps Engineer
+DevSecOps Engineer
+
+Hey Rocket
+
+Changi, East Region, Singapore
+1 day ago
+Security Engineer
+Security Engineer
+
+Pelago by Singapore Airlines
+
+Singapore, Singapore
+2 weeks ago
+Senior Engineer, Public Cloud & DevSecOps Engineering
+Senior Engineer, Public Cloud & DevSecOps Engineering
+
+Michael Page
+
+Singapore, Singapore
+2 days ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Kyndryl
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

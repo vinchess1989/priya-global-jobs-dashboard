@@ -1,0 +1,276 @@
+Title: Senior DevOps Engineer, Video Intelligence
+Company: NCS Group
+Location: Singapore, Singapore
+URL: https://sg.linkedin.com/jobs/view/senior-devops-engineer-video-intelligence-at-ncs-group-4472693679
+Posted: 2026-10-04
+Deadline: Open until filled
+Reason: The role is a strong match for her DevOps/CI-CD and infrastructure automation expertise, is located in a target country (Singapore), and does not violate any hard rejection criteria.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer, Video Intelligence
+NCS Group  Singapore, Singapore
+3 weeks ago   Be among the first 25 applicants
+  
+
+See who NCS Group has hired for this role
+
+Apply
+Save
+NCS is a leading AI Tech Services company. With a 15,000-strong team across the Asia Pacific, NCS scales its platforms and capabilities to provide clients with greater agility and AI expertise across a range of Industries. Embracing a strong ecosystem of global partners, NCS transforms technology services delivery combining AI with digital resilience to drive real business impact. NCS is a subsidiary of the Singtel Group.
+
+Job Description
+
+We’re looking for a Senior DevOps Engineer to own the security, reliability, and delivery of our Azure platform and Kubernetes workloads. You’ll be the hands-on technical engineer for secure-by-default infrastructure—automating everything-as-code, and partnering with product teams to do deployment and enabling fast shipping of codes without trading off security or resilience.
+
+Responsibilities
+
+Platform engineering (Azure):
+
+
+Build and evolve Azure Landing Zones, Management Group hierarchy, subscription vending, and policy-as-code guardrails using Azure Policy or equivalent tools.
+
+
+Kubernetes (AKS)
+
+
+Design & operate private AKS clusters (Azure CNI/Calico etc), implement Pod Security Standards, network policies (Calico/Cilium), workload identity (Entra OIDC/Workload Identity), and secure ingress/egress.
+
+
+CI/CD & Supply Chain
+
+
+Standardize pipelines in GitHub Actions / Azure DevOps; enforce SBOM, image scanning, cosign signing/verification, provenance (SLSA-aligned) and immutable deploys (GitOps with Argo CD/Flux).
+
+
+Identity & Secrets
+
+
+Implement Entra ID RBAC & PIM, Managed Identities, Key Vault / Secrets Store CSI, and secret rotation practices.
+
+
+Observability & IR
+
+
+Establish Azure Monitor / Log Analytics baselines, tracing, SLOs, and actionable alerts; integrate with Microsoft Sentinel; lead incident response and postmortems.
+
+
+Cloud Security Posture
+
+
+Drive Defender for Cloud coverage, vulnerability management (containers, hosts, code), and automated remediation.
+
+
+Networking & Data Protection
+
+
+Hub-and-spoke or vWAN, Private Link/Endpoints, Private DNS, Firewall/NAT Gateway egress control; encryption at rest & in transit, KMS integrations.
+
+
+Resilience & DR
+
+
+Backups (RSV/Velero), multi-region patterns, chaos exercises, capacity planning; codify DR runbooks and perform tests.
+
+
+FinOps & Compliance
+
+
+Implement tagging/budgets, right-sizing, Reservations/Savings Plans; map controls to CIS/NIST/ISO and produce audit evidence from pipelines.
+
+
+Coaching & Enablement
+
+
+Pair with product teams, review designs/PRs, write reference modules/templates, and uplift platform literacy across the org.
+
+
+Security Hardening
+
+
+Enable hardening for respective components, including but not limited to OS hardening, Application Hardening, Azure Services hardening.
+
+
+Qualifications
+
+
+7+ years in DevOps/SRE/Platform Engineering with 3+ years on Azure and 2+ years operating Kubernetes in production.
+Proven delivery of Azure Landing Zones or equivalent enterprise Azure foundations, expressed as Terraform or Bicep modules.
+Strong with GitHub Actions/Azure DevOps, artifacts, environments, approvals, reusable workflows.
+Hands-on with container runtime security & policy: OPA/Gatekeeper or Kyverno, Pod Security restricted, read-only root FS, capability drops, seccomp/AppArmor.
+Network security in K8s: NetworkPolicy default-deny, ingress controllers (Nginx/AGIC), egress control, TLS everywhere, mTLS preferred.
+Image lifecycle: private registries (ACR), pull-through caches, cosign signing & admission verification, Nessus scanning.
+Observability: Azure Monitor/Logs, DCRs, dashboards, SLOs, alert routing to ITSM; experience integrating with Sentinel or enterprise SIEM.
+Infra & config as code at scale; linting/testing/policy gates; change automation and drift detection (GitOps).
+Solid Linux fundamentals, networking, PKI, and incident response.
+
+
+Additional Information
+
+We are driven by our AEIOU beliefs—Adventure, Excellence, Integrity, Ownership, and Unity—and we seek individuals who embody these values in both their professional and personal lives. We are committed to our Impact: Valuing our clients, Growing our people, and Creating our future.
+
+Together, we make the extraordinary happen.
+
+Learn more about us at ncs.co and visit our LinkedIn career site.
+
+Scam Alert
+
+We are aware of fraudulent job offers and impersonations of NCS recruiters. Phishing emails using convincing-looking but fake addresses are also commonly used to trick you into thinking that they come from official NCS sources.
+
+Please note that all official communications from NCS Group will only be sent from verified corporate email addresses. Always check that the sender’s email address ends with the genuine NCS domain, @ncs.com.sg and beware of extra letters, symbols or misspellings. When in doubt, verify the sender’s identity by contacting us at reachus@ncs.com.sg.
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Industries
+Software Development and IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at NCS Group by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Singapore, Singapore.
+
+Sign in to create job alert
+Similar jobs
+Senior Platform Engineer
+Senior Platform Engineer
+Razer
+Singapore
+2 days ago
+Senior Platform Engineer (DevOps)
+Senior Platform Engineer (DevOps)
+FINN
+Singapore
+4 days ago
+Senior DevOps Engineer, Video Intelligence
+Senior DevOps Engineer, Video Intelligence
+NCS Group
+Singapore, Singapore
+2 months ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+SearchApi
+Singapore
+3 months ago
+Cloud Senior DevOps Engineer
+Cloud Senior DevOps Engineer
+Bitdeer (NASDAQ: BTDR)
+Singapore
+1 week ago
+Senior Cloud Infrastructure Automation Solutions Architect
+Senior Cloud Infrastructure Automation Solutions Architect
+NVIDIA
+Singapore, Singapore
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Senior Platform Engineer
+Senior Platform Engineer
+
+dtcpay
+
+Singapore, Singapore
+3 weeks ago
+Senior Infrastructure Engineer (AI Lab)
+Senior Infrastructure Engineer (AI Lab)
+
+Workato
+
+Singapore
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+Native
+
+Singapore, Singapore
+1 week ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+
+SHIELD
+
+Singapore, Singapore
+2 weeks ago
+Platform Engineer (Cloud & DevSecOps)
+Platform Engineer (Cloud & DevSecOps)
+
+National University of Singapore
+
+Singapore, Singapore
+1 day ago
+DevOps Engineer
+DevOps Engineer
+
+stakefish
+
+Singapore
+$130,000 - $180,000
+2 weeks ago
+AI Engineer, Dev Ops
+AI Engineer, Dev Ops
+
+Nanyang Technological University Singapore
+
+Singapore, Singapore
+3 months ago
+Site Reliability Engineer – Kubernetes/Linux Platform (Remote – APAC)
+Site Reliability Engineer – Kubernetes/Linux Platform (Remote – APAC)
+
+Saturn Cloud
+
+Singapore
+1 month ago
+Senior Kubernetes Platform Engineer
+Senior Kubernetes Platform Engineer
+
+Firmus Technologies
+
+Singapore
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+StarHub
+
+Singapore, Singapore
+2 weeks ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at NCS Group
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
