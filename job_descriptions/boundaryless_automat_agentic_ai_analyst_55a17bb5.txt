@@ -1,0 +1,276 @@
+Title: Agentic AI Analyst
+Company: Boundaryless Automation
+Location: Pune Division, Maharashtra, India
+URL: https://in.linkedin.com/jobs/view/agentic-ai-analyst-at-boundaryless-automation-4444752984
+Posted: 3 kuukautta sitten
+Deadline: N/A
+Reason: The role aligns with the candidate's expertise in requirements engineering, audit-ready documentation, and quality gatekeeping within a technical/automation context, and it is located in India, one of her target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn kunnioittaa yksityisyyttäsi
+
+LinkedIn ja kolmannet osapuolet käyttävät välttämättömiä ja ei-välttämättömiä evästeitä palvelujemme tarjoamiseen, suojaamiseen, analysointiin ja parantamiseen sekä osuvien mainosten näyttämiseen sinulle (mukaan lukien ammattilais- ja työpaikkailmoitukset) LinkedInissä ja niiden ulkopuolella. Lisätietoja on evästekäytännössämme.
+
+Hyväksy ei-välttämättömien evästeiden käyttö valitsemalla Hyväksy tai estä niiden käyttö valitsemalla Hylkää. Voit päivittää valintasi milloin tahansa asetuksista.
+
+Hyväksy Hylkää
+Hyppää pääsisältöön
+LinkedIn
+Työt
+Poista teksti
+Poista teksti
+Kirjaudu sisään
+Liity nyt
+Agentic AI Analyst
+Boundaryless Automation  Pune Division, Maharashtra, India
+3 kuukautta sitten   Yli 200 hakijaa
+  
+
+Katso, kuka Boundaryless Automation on palkattu tähän rooliin
+
+Hae 
+Tallenna
+Arvioi sopivuuttasi tekoälyn avulla
+
+Hanki tekoälypohjaisia neuvoja tähän työhön ja muita eksklusiivisia ominaisuuksia.
+
+Olenko sopiva tähän työhön?
+Räätälöi ansioluetteloni
+Role Description
+
+
+The Agentic Analyst will support delivery of enterprise agentic automation solutions, working across business, data, and technology stakeholders.
+Translate business objectives, policies, and operating constraints into clear, implementable requirements for Python-based orchestration and agent workflows.
+Lead discovery workshops to identify use cases, triggers, decision points, exceptions, and human-in-the-loop approvals required for safe execution.
+Define workflow specifications: routing logic, decision tables, data contracts, prompts/structured outputs, guardrails, and acceptance criteria.
+Work closely with Agentic Developers to ensure intent is preserved in implementation and outcomes are explainable, secure, and audit-ready.
+Drive UAT planning and execution; validate results, manage defect triage, and produce audit-ready documentation.
+Participate across discovery → build → rollout → continuous improvement to improve agent performance and reduce operational risk.
+
+
+Location
+
+
+Pune, India (work arrangement depends on project needs; on-site/hybrid collaboration may be required).
+
+
+Experience Requirements & Qualifications
+
+Core Skills & Experience
+
+
+Minimum 3 years as a Business Analyst / Technical Analyst / Product Analyst in automation, workflow, integration, platform delivery, or digital transformation programs.
+Strong requirements engineering skills: workshops, user stories, process maps, acceptance criteria, traceability, and stakeholder alignment.
+Understanding of agentic automation concepts: tool-based execution, decisioning, exception handling, approvals, and safe boundaries.
+Ability to define human-in-the-loop controls (approval triggers, approver roles, evidence capture, and escalation paths).
+Strong stakeholder management: ability to work with business users, operations, developers, architects, and security teams.
+Strong documentation standards and ability to produce clear, implementation-ready specifications.
+
+
+Python / Orchestration Understanding (Good-to-Have)
+
+
+Exposure to Python-based orchestration or workflow execution patterns (even if not coding daily).
+Ability to define orchestration requirements for multi-step execution flows and dependencies; APIs and system actions (inputs/outputs, retries, timeouts, failure paths); run logging, traceability, and operational SLAs.
+Ability to collaborate effectively with developers building orchestration code and reusable platform components.
+
+
+Data & Integration Knowledge (Good-to-Have)
+
+
+Understanding of APIs (REST), JSON payloads, and common authentication methods (API keys, OAuth2, JWT).
+Basic SQL literacy or ability to validate outputs via reports/dashboards is beneficial.
+Familiarity with data quality checks, reconciliation, and exception reporting is a plus.
+
+
+Others (Good-to-Have)
+
+
+Experience working with LLM-enabled solutions (prompt patterns, structured JSON outputs, tool calling concepts, grounding/RAG basics).
+Exposure to governance, compliance, or enterprise risk practices (audit evidence, operational controls).
+Agile/Scrum delivery experience (backlog management, sprint ceremonies, release planning).
+Knowledge of monitoring and alerting expectations for production workflows.
+n8n exposure (or similar orchestration tools) is a plus.
+
+
+Main Tasks and Responsibilities
+
+
+Conduct discovery workshops to identify high-value enterprise agentic use cases aligned to Boundaryless’s platform and delivery standards.
+Document end-to-end process flows including triggers, decision points, integrations, exceptions, and manual interventions.
+Produce artefacts such as: user stories, acceptance criteria, decision tables, data contracts, error handling requirements, and UAT test cases.
+Define agentic guardrails: what the agent can/cannot do, approval checkpoints, escalation paths, and logging/audit requirements.
+Specify LLM interaction requirements where applicable (inputs, outputs, structured response formats, safety constraints, evaluation criteria).
+Support developers during build by clarifying requirements and validating intermediate outputs against business intent.
+Lead UAT execution, coordinate defect triage, and manage sign-off readiness.
+Create operational documentation and audit-ready evidence: runbooks, expected outcomes, exception handling playbooks, and control evidence.
+
+
+Your Application
+
+If you feel you fit this profile, please apply via careers@boundaryless.com.
+
+Please send your CV as well as an overview of automation/agentic projects you have delivered (include your role in discovery, requirements, UAT, and governance; exposure to Python-based orchestration and/or n8n is a plus).
+
+Boundaryless is an equal opportunity employer. Our own team is a living example of this, with 9 nationalities and more than 50% female employees.
+Show more 
+Seniority level
+Keskijohto
+Työn tyyppi
+Kokopäiväinen
+Industries
+IT-palvelut ja -konsultointi
+  
+
+Lähetteet lisäävät mahdollisuuksiasi haastatteluun Boundaryless Automation 2x
+
+Katso, kenet tunnet
+
+Saat ilmoituksen uusista Analyytikko työpaikoista .Pune Division, Maharashtra, India
+
+Kirjaudu sisään luodaksesi työpaikkahälytyksen
+Samankaltaiset työpaikat
+LLM Operations Engineer
+LLM Operations Engineer
+Accenture in India
+Pune Division, Maharashtra, India
+2 viikkoa sitten
+GenAI Developer
+GenAI Developer
+Citi
+Pune Division, Maharashtra, India
+3 päivää sitten
+Unit Manager - AI Unit
+Unit Manager - AI Unit
+Bajaj Finserv
+Pune Division, Maharashtra, India
+6 päivää sitten
+AI Infrastructure Architect
+AI Infrastructure Architect
+Accenture in India
+Pune Division, Maharashtra, India
+8 tuntia sitten
+AI Automation Specialist_2881
+AI Automation Specialist_2881
+Allianz Technology
+Pune Division, Maharashtra, India
+3 viikkoa sitten
+Agentic AI Engineer (ITSM & Enterprise Automation)
+Agentic AI Engineer (ITSM & Enterprise Automation)
+Convera
+Pune Division, Maharashtra, India
+2 päivää sitten
+Show more jobs like this 
+Muita katsottuja
+AI / ML Engineer
+AI / ML Engineer
+
+Accenture in India
+
+Pune Division, Maharashtra, India
+8 tuntia sitten
+AI / ML Engineer
+AI / ML Engineer
+
+Accenture in India
+
+Pune Division, Maharashtra, India
+4 viikkoa sitten
+AI / ML Engineer
+AI / ML Engineer
+
+Accenture in India
+
+Pune Division, Maharashtra, India
+8 tuntia sitten
+LLM Model Developer
+LLM Model Developer
+
+Accenture in India
+
+Pune Division, Maharashtra, India
+4 viikkoa sitten
+Large Language Model Architect
+Large Language Model Architect
+
+Accenture in India
+
+Pune Division, Maharashtra, India
+4 viikkoa sitten
+AI / ML Engineer
+AI / ML Engineer
+
+Accenture in India
+
+Pune Division, Maharashtra, India
+4 viikkoa sitten
+Large Language Model Architect
+Large Language Model Architect
+
+Accenture in India
+
+Pune Division, Maharashtra, India
+4 viikkoa sitten
+LLM Operations Engineer
+LLM Operations Engineer
+
+Accenture in India
+
+Pune Division, Maharashtra, India
+4 viikkoa sitten
+Agentic AI Engineer (ITSM & Enterprise Automation)
+Agentic AI Engineer (ITSM & Enterprise Automation)
+
+Convera
+
+Pune Division, Maharashtra, India
+3 päivää sitten
+Technical Consultant-AI Integration
+Technical Consultant-AI Integration
+
+IBM
+
+Pune Division, Maharashtra, India
+2 päivää sitten
+Samankaltaisia hakuja
+Tietoanalyytikko Työpaikkoja
+63 429 avointa työpaikkaa
+Liiketoiminnan analyytikko Työpaikkoja
+13 729 avointa työpaikkaa
+Tieteilijä Työpaikkoja
+2 584 avointa työpaikkaa
+Hallintoanalyytikko Työpaikkoja
+8 066 avointa työpaikkaa
+Talousanalyytikko Työpaikkoja
+7 100 avointa työpaikkaa
+nuorempi analyytikko Työpaikkoja
+7 130 avointa työpaikkaa
+vanhempi tietoanalyytikko Työpaikkoja
+4 883 avointa työpaikkaa
+Business intelligence -analyytikko Työpaikkoja
+5 276 avointa työpaikkaa
+Vanhempi liiketoiminta-analyytikko Työpaikkoja
+6 993 avointa työpaikkaa
+BI-kehittäjä Työpaikkoja
+3 500 avointa työpaikkaa
+Sijoitusanalyytikko Työpaikkoja
+1 542 avointa työpaikkaa
+Pääomajohdannaisanalyytikko Työpaikkoja
+189 avointa työpaikkaa
+Näytä lisää 
+Lisää hakuja 
+LinkedIn
+© 2026
+Tietoja
+Saavutettavuus
+Käyttäjäsopimus
+Tietosuojakäytäntö
+Evästekäytännöt
+Tekijänoikeuskäytännöt
+Brändikäytäntö
+Vieraiden hallinta
+Yhteisön ohjeet
+Kieli
