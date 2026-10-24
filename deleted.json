@@ -14652,5 +14652,22 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": null,
     "deletion_reason": "Deadline (2026-10-15) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Systems Solution Specialist",
+    "company": "mutherboard.com",
+    "location": "City of Johannesburg, Gauteng, South Africa",
+    "url": "https://za.linkedin.com/jobs/view/systems-solution-specialist-at-mutherboard-com-4470824237",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job posting explicitly restricts applications to South African citizens and permanent residents only, and the candidate requires visa sponsorship.",
+    "id": "b161471d",
+    "source": "linkedin_za_configuration_manager",
+    "added_at": "2026-10-24T03:05:49+03:00",
+    "posted_date": "2026-10-03",
+    "deadline": "2026-10-12",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-10-12) passed by more than 2 days and unreviewed"
   }
 ]

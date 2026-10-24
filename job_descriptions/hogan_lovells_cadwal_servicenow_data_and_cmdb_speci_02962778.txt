@@ -1,0 +1,281 @@
+Title: ServiceNow Data and CMDB Specialist
+Company: Hogan Lovells Cadwalader
+Location: Johannesburg, Gauteng, South Africa
+URL: https://za.linkedin.com/jobs/view/servicenow-data-and-cmdb-specialist-at-hogan-lovells-cadwalader-4470088836
+Posted: 2026-10-18
+Deadline: N/A
+Reason: The role is a strong match for her configuration management and data governance expertise, and it is located in South Africa, which is one of her target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+ServiceNow Data and CMDB Specialist
+Hogan Lovells Cadwalader  Johannesburg, Gauteng, South Africa
+6 days ago  60 applicants
+  
+
+See who Hogan Lovells Cadwalader has hired for this role
+
+Apply 
+Save
+Keen to become part of a truly global, collaborative team of professionals? Your journey begins here.
+
+Role Overview
+
+The ServiceNow Data and CMDB Specialist is responsible for the governance, quality and ongoing development of data held within the ServiceNow platform, with particular responsibility for the Configuration Management Database (CMDB), service data, and reporting and insight delivered through or sourced from ServiceNow.
+
+The role makes sure Configuration Items (CIs), their relationships and supporting service data are accurate, complete and kept up to date. This provides a reliable source of information for service management processes, operational decision-making, risk management, automation and the introduction of new services and technologies.
+
+The role also oversees the quality of data supplied to ServiceNow by other systems. Working with source system owners and integration teams, the role holder establishes clear ownership, agreed data standards and appropriate controls. They do not own the source systems but are responsible for identifying and coordinating the resolution of issues that affect the quality of data used within ServiceNow.
+
+ServiceNow is an enterprise-wide platform supporting Business Teams and functions across the firm, including Information Technology, M&BD, Finance, People, Knowledge, the Office of the General Counsel, Operations and Communications. It operates across one production and four sub-production instances and includes a broad range of ServiceNow products, custom scoped applications and enterprise integrations. The Service Portal is available to all users across the firm.
+
+The right candidate brings practical ServiceNow CMDB and reporting experience, strong analytical skills and the ability to build effective working relationships. They are comfortable managing their own workload, investigating complex data issues and making recommendations based on the available evidence.
+
+Key Responsibilities
+
+Specific duties or responsibilities may be reviewed from time to time to reflect changes in personnel and management structure, staff location or services. All members of the firm participate in our Responsible Business program. 
+
+
+Own the governance, quality and ongoing maturity of the ServiceNow CMDB, making sure CI data and relationships are accurate, complete, current and fit for purpose, and maintain the CMDB data model, CI classes, attributes, relationships and lifecycle standards in line with ServiceNow best practice and the Common Service Data Model (CSDM). 
+Own the service mapping data model, governance and quality standards, working with service owners and Platform Engineering to make sure business applications, application services, technical services and supporting infrastructure are recorded and related at the appropriate level. 
+Work with service, application, infrastructure and data owners to agree ownership, data requirements and responsibilities for maintaining configuration and service data, and maintain appropriate controls for creating, updating, reconciling, retiring and deleting CIs. 
+Monitor CMDB health through regular data-quality reviews covering completeness, correctness, compliance, duplication, stale records and missing or inaccurate relationships, investigate root causes and work with the relevant owners to agree and track corrective action.
+Establish governance standards for data supplied to ServiceNow by other systems, including authoritative sources, ownership, definitions, quality expectations and frequency of updates, and maintain a clear record of the main data sources, owners, integration dependencies and agreed controls. 
+Work with source-system owners and integration teams to understand how data moves between systems, monitor and reconcile data received through inbound feeds and integrations, and coordinate corrective action where issues are found. 
+Consider data-governance requirements when new integrations, services and automation are being designed, and work with the Principal ServiceNow Developer, ServiceNow Solutions Developer and Senior ServiceNow Platform Specialist to make sure integrations, discovery sources, imports and automated feeds update ServiceNow data correctly. 
+Define and validate CMDB and data requirements for platform changes and integrations, and support the effective use of ServiceNow Discovery, Service Mapping and other tools used to populate and maintain the CMDB. 
+Work with asset owners to maintain appropriate alignment between configuration and asset data, without taking ownership of the underlying asset-management processes. 
+Represent CMDB, data-governance and reporting considerations in relevant project, design and change discussions, and promote the effective use of CMDB and service data across Incident, Problem, Change, Asset and other relevant ServiceNow processes. 
+Own the standards and governance for ServiceNow reporting, and develop shared, cross-platform and management reports, dashboards and performance measures, working with stakeholders and the ServiceNow Engagement and Enablement Lead to translate requirements into agreed measures. 
+Agree definitions and calculation methods for key performance indicators and operational measures, validate reporting against the underlying data before it is released or materially changed, and analyse platform and service-management data to identify trends, risks and opportunities for improvement. 
+Review existing reports and dashboards to remove or consolidate content that is duplicated or no longer needed and support the controlled use of ServiceNow data by reporting and analytics platforms such as Power BI or Microsoft Fabric, keeping definitions, ownership and quality controls consistent when data is shared or extracted. 
+Support the data quality and governance foundations needed for approved ServiceNow AI capabilities such as Now Assist, making sure CMDB and service data are accurate and well-structured enough to be used reliably by AI-driven search, insight and automation. 
+Maintain documentation covering the CMDB data model, data sources, ownership, governance standards, reporting definitions, controls and operating procedures, and help users make effective use of ServiceNow data, reports and dashboards. 
+Keep up to date with relevant ServiceNow capabilities and industry practices relating to CMDB, CSDM, service mapping, data governance and reporting, act in accordance with the firm's information security, data protection and records-management policies, and report any potential or actual security risks or events. 
+Help build a supportive workplace where colleagues can do their best work and take part in the firm's Responsible Business program.
+
+
+Skills & Experience
+
+Experience 
+
+
+Typically, at least five years' relevant ServiceNow experience, including practical experience in CMDB, configuration management and platform data. 
+Strong working knowledge of ServiceNow CMDB, including CI classes, relationships, lifecycle management, data quality and governance. 
+Good understanding of CSDM and how service, application and infrastructure data should be structured and related within ServiceNow. 
+Experience of ServiceNow Discovery, Service Mapping, Identification and Reconciliation Engine principles, imports and integration data sources. 
+Hands-on experience maintaining or improving a CMDB within a medium-to-large organisation, including work with CI classes, relationships, data sources, reconciliation, data-quality controls and remediation. 
+Practical experience creating ServiceNow reports and dashboards, turning business requirements into meaningful measures, and checking that reports, dashboards and performance measures are accurate. 
+Good understanding of data models, data relationships, data ownership, authoritative sources and data-quality management. 
+Experience of Power BI, Microsoft Fabric, SQL or another reporting and analytics tool. 
+Good understanding of IT service management and how reliable configuration and service data supports Incident, Problem, Change, Asset and Service Level Management. 
+Experience considering how data quality and governance underpin ServiceNow AI capabilities such as Now Assist is desirable, including an understanding of the data foundations that AI-driven search, insight and automation depend on. 
+Strong analytical and problem-solving skills, with the ability to investigate complex data issues and recommend practical solutions. 
+Experience governing data exchanged between multiple systems. 
+Experience working with technical and non-technical data owners to resolve data-quality issues and improve accountability.
+
+
+Qualifications 
+
+
+Relevant practical ServiceNow CMDB, data-governance and reporting experience is more important than holding every listed qualification. 
+ServiceNow Certified System Administrator certification or equivalent practical platform experience would be beneficial. 
+ServiceNow training or certification relating to CMDB, CSDM, Discovery, Service Mapping, Performance Analytics or reporting would be beneficial.
+
+
+Skills 
+
+
+Clear written and verbal communication skills, with the ability to explain data, CMDB and reporting concepts to technical and non-technical audiences. 
+Builds positive and collaborative relationships across the firm and adapts their communication to suit the audience. 
+Takes ownership, follows through on agreed actions and uses evidence and sound judgement when making decisions or recommendations. 
+Acts with integrity when managing data, presenting results and raising risks or areas of non-compliance. 
+Responds positively to change and looks for practical ways to improve the quality and value of ServiceNow data and reporting. 
+Shares knowledge and helps colleagues make effective use of ServiceNow data and reporting, contributing to a supportive workplace where people can perform at their best.
+
+
+Equal Opportunities Statement
+
+It is the policy of Hogan Lovells Cadwalader to provide equal opportunities for all employees in relation to recruitment, training and promotion. Decisions in these areas will be made only by reference to the requirements of the job and shall not be influenced by any consideration of racial or ethnic origin, religion, sex, gender and gender identity, age, sexual orientation, marital and civil partnership status, pregnancy or disability. Our goal is to embed flexibility across our business by giving everyone the opportunity to work in an agile way, whether as a regular pattern or on an ad hoc basis, and we will be happy to discuss this further.
+
+All vacancies are open to direct applicants. Recruitment agencies; please be advised that we have a preferred supplier list in place for all roles.
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Industries
+Law Practice and Legal Services
+  
+
+Referrals increase your chances of interviewing at Hogan Lovells Cadwalader by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Service Now TSM Developer
+Service Now TSM Developer
+Ovations Talent Sourcing
+Centurion, Gauteng, South Africa
+2 months ago
+ServiceNow Platform Engineer
+ServiceNow Platform Engineer
+Klipboard
+Johannesburg, Gauteng, South Africa
+2 weeks ago
+ServiceNow Solution Architect
+ServiceNow Solution Architect
+Zensar Technologies
+Gauteng, South Africa
+4 days ago
+ServiceNow Business Analyst: ITSM
+ServiceNow Business Analyst: ITSM
+NTT DATA, Inc.
+Johannesburg, Gauteng, South Africa
+2 weeks ago
+ITS Asset Administrator
+ITS Asset Administrator
+KPMG South Africa
+Johannesburg, Gauteng, South Africa
+2 weeks ago
+Senior Reference and Master Data Specialist
+Senior Reference and Master Data Specialist
+Datacentrix
+City of Tshwane, Gauteng, South Africa
+3 weeks ago
+Show more jobs like this 
+People also viewed
+Data Centre Coordinator
+Data Centre Coordinator
+
+Teraco – A Digital Realty Company
+
+Gauteng, South Africa
+2 weeks ago
+Data Acquisition Expert - EDC (Homebased UK/South Africa)
+Data Acquisition Expert - EDC (Homebased UK/South Africa)
+
+IQVIA
+
+Centurion, Gauteng, South Africa
+1 week ago
+MASTER DATA ANALYST
+MASTER DATA ANALYST
+
+AB InBev Africa
+
+Sandton, Gauteng, South Africa
+10 hours ago
+DATA VISUALISATION DEVELOPER
+DATA VISUALISATION DEVELOPER
+
+Smollan
+
+Gauteng, South Africa
+1 week ago
+Data Acquisition Specialist - External Data (Remote/Homebased)
+Data Acquisition Specialist - External Data (Remote/Homebased)
+
+IQVIA
+
+Centurion, Gauteng, South Africa
+2 months ago
+ServiceNow SecOps / IRM Architecture Lead
+ServiceNow SecOps / IRM Architecture Lead
+
+KPMG South Africa
+
+Johannesburg, Gauteng, South Africa
+1 week ago
+MIS Systems Data Administrator - Festive
+MIS Systems Data Administrator - Festive
+
+Trending Talent Solutions
+
+Johannesburg Metropolitan Area
+13 hours ago
+Data Engineer
+Data Engineer
+
+Blue Pearl HQ
+
+Johannesburg, Gauteng, South Africa
+1 day ago
+Data Scientist
+Data Scientist
+
+TechnoServe
+
+Johannesburg, Gauteng, South Africa
+11 months ago
+Senior ICT Support
+Senior ICT Support
+
+Emeris
+
+Pretoria, Gauteng, South Africa
+4 days ago
+Similar Searches
+Master Data Analyst jobs
+445 open jobs
+Market Data Specialist jobs
+412 open jobs
+Master Data Manager jobs
+274 open jobs
+Lead System Analyst jobs
+255 open jobs
+Data Mining Specialist jobs
+335 open jobs
+Senior Data Specialist jobs
+524 open jobs
+Data Management Specialist jobs
+571 open jobs
+Physical Scientist jobs
+16 open jobs
+Market Data Analyst jobs
+220 open jobs
+Data Consultant jobs
+624 open jobs
+Data Officer jobs
+427 open jobs
+Data Steward jobs
+320 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
