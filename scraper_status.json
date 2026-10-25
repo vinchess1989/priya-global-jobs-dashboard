@@ -1,9 +1,9 @@
 {
   "pid": 24320,
   "started_at": "2026-10-26T01:12:40+02:00",
-  "heartbeat_at": "2026-10-26T01:32:06+02:00",
+  "heartbeat_at": "2026-10-26T01:38:46+02:00",
   "phase": "reviewing",
-  "detail": "Analyst Lead, Managed Service",
-  "last_scrape_ok_at": "2026-10-26T01:28:29+02:00",
+  "detail": "Quality Engineer",
+  "last_scrape_ok_at": "2026-10-26T01:33:05+02:00",
   "last_error": null
 }
