@@ -1,9 +1,9 @@
 {
   "pid": 10392,
   "started_at": "2026-10-25T02:13:41+03:00",
-  "heartbeat_at": "2026-10-25T03:10:33+03:00",
+  "heartbeat_at": "2026-10-25T03:15:05+03:00",
   "phase": "reviewing",
-  "detail": "Document Controller",
-  "last_scrape_ok_at": "2026-10-25T03:06:44+03:00",
+  "detail": "MDR Vigilance Specialist",
+  "last_scrape_ok_at": "2026-10-25T03:13:02+03:00",
   "last_error": null
 }
