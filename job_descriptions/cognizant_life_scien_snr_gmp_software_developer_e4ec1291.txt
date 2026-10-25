@@ -1,0 +1,226 @@
+Title: Snr GMP Software Developer
+Company: Cognizant Life Sciences Manufacturing
+Location: Limerick, County Limerick, Ireland
+URL: https://ie.linkedin.com/jobs/view/snr-gmp-software-developer-at-cognizant-life-sciences-manufacturing-4475002166
+Posted: 2026-10-05
+Deadline: N/A
+Reason: This senior DevOps/configuration management role in a regulated life sciences environment matches her background in CI/CD pipelines, release management, and compliance across target location Ireland.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Snr GMP Software Developer
+Cognizant Life Sciences Manufacturing  Limerick, County Limerick, Ireland
+3 weeks ago   Be among the first 25 applicants
+  
+
+See who Cognizant Life Sciences Manufacturing has hired for this role
+
+Apply
+Save
+
+Direct message the job poster from Cognizant Life Sciences Manufacturing
+
+Orla Crowley
+Orla Crowley
+Senior Talent Acquisition Specialist @ Cognizant | HR, Recruitment
+
+Role Overview
+
+We are looking for someone with a strong software engineering background who understands the full development lifecycle — from design and coding through testing, release, and operations — and who can translate that understanding into a DevOps strategy and CI/CD approach that integrates smoothly with how our development teams actually build software.
+
+We are looking for a talented and driven DevOps Lead to define and own our DevOps strategy — the engineering practices, toolchain, and delivery infrastructure that determine how software is built, tested, and released across the organisation. A key initial focus for this role is our Manufacturing Execution System (MES) programme, where you will bridge development, operations, and quality in a regulated manufacturing environment, but the role's remit extends beyond any single platform. Prior exposure to MES platforms such as Syncade is a plus, but not a prerequisite.
+
+Key Responsibilities
+
+Design, implement, and maintain CI/CD pipelines that reflect a solid understanding of the software development lifecycle (SDLC), ensuring builds, tests, and deployments integrate smoothly with how engineering teams design, code, and release software — including for MES deployments across development, test, and production environments
+Develop, own, and continuously evolve our DevOps strategy — defining the target toolchain, automation approach, and ways of working that align development and operations across the organisation, with the MES programme as an initial priority area.
+Work with MES Vendors to define requirements and shape development to align to the DevOps strategy
+.
+Own the DevOps toolchain — source control, build automation, release management, environment provisioning, monitoring, and observability.
+Define and enforce branching strategies, code review processes, and release management standards appropriate to a regulated manufacturing environment.
+Work closely with vendors, system integrators, and internal teams to understand platform architecture and translate this into maintainable infrastructure-as-code and deployment automation.
+Lead environment management across the software estate — including MES ensuring environments are correctly configured, version-controlled, and fit for purpose across all lifecycle stages.
+Implement and maintain monitoring, alerting, and logging solutions to provide operational visibility of MES platform health and performance.
+Drive shift-left quality practices — working with the testing team to embed automated testing into pipelines and ensuring quality gates are robust.
+Support computer system validation (CSV) activities, maintaining audit trails, deployment records, and change control documentation in compliance with GxP requirements.
+Manage infrastructure provisioning supporting workloads, ensuring security, resilience, and scalability.
+Identify and resolve bottlenecks in the delivery pipeline, continuously improving deployment frequency, lead time, and recovery metrics (DORA).
+Act as a technical authority and escalation point for infrastructure and deployment issues across the MES programme.
+
+Essential Requirements
+
+Software development background — hands-on experience as a software engineer or developer, with a solid grasp of the software development lifecycle (SDLC), coding practices, and application architecture, and the ability to use that experience to shape how DevOps and CI/CD integrate with development teams' ways of working.
+Proven experience in a DevOps Lead or Senior DevOps Engineer role on complex enterprise software programmes.
+Strong hands-on experience with CI/CD tooling — Azure DevOps, Jenkins, GitHub Actions, or equivalent.
+Solid understanding of infrastructure-as-code (Terraform, Ansible) and configuration management practices.
+Experience managing environments for large-scale enterprise applications, including environment promotion strategies and configuration management.
+Proficiency in scripting languages (PowerShell, Bash, Python, or similar) for automation and tooling.
+Demonstrated experience defining or evolving a DevOps strategy or roadmap — toolchain selection, automation approach, and ways of working — grounded in a strong understanding of the software delivery lifecycle, release management, and change control in enterprise settings.
+Experience working in regulated industries (pharmaceutical, life sciences, or similar) with awareness of compliance and validation requirements.
+Excellent problem-solving skills with the ability to diagnose and resolve complex infrastructure and deployment issues under pressure.
+
+Desirable Requirements
+
+Direct experience deploying, maintaining, or supporting off-the-shelf MES platforms— including configuration, and upgrade activities.
+Familiarity with GxP computer system validation (CSV), GAMP 5 lifecycle, and associated documentation requirements (IQ, OQ, PQ).
+Knowledge of containerisation technologies (Docker, Kubernetes) and their applicability within regulated manufacturing environments.
+Understanding of MES integration patterns — ERP (SAP), LIMS, historian, and shop-floor device connectivity.
+Experience with security hardening, vulnerability management, and operational security in manufacturing environments.
+
+
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Automation Machinery Manufacturing, Pharmaceutical Manufacturing, and Medical Equipment Manufacturing
+  
+
+Referrals increase your chances of interviewing at Cognizant Life Sciences Manufacturing by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Labware LIMS Developer
+Labware LIMS Developer
+Regeneron
+Limerick, County Limerick, Ireland
+1 week ago
+Senior Software Engineer
+Senior Software Engineer
+BD
+Limerick, County Limerick, Ireland
+2 weeks ago
+Sr Software Engineer - Framework
+Sr Software Engineer - Framework
+Medtronic
+Galway, County Galway, Ireland
+1 month ago
+Senior Software Engineer (Device Managers)
+Senior Software Engineer (Device Managers)
+Medtronic
+Galway, County Galway, Ireland
+1 month ago
+Senior Software Development Engineer
+Senior Software Development Engineer
+Collins McNicholas Recruitment & HR Services Group
+Ireland
+1 week ago
+Senior Backend Engineer
+Senior Backend Engineer
+Isla Health | B Corp™
+Ireland
+€80,000 - €105,000
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Senior Software Engineer
+Senior Software Engineer
+
+The Flex
+
+Ireland
+1 month ago
+Senior Software Engineer
+Senior Software Engineer
+
+nineDots.io
+
+Ireland
+3 weeks ago
+Principal Software Engineer
+Principal Software Engineer
+
+nineDots.io
+
+Ireland
+3 weeks ago
+Principal Software Engineer
+Principal Software Engineer
+
+Nicoll Curtin
+
+Galway Metropolitan Area
+2 weeks ago
+Senior POMS Engineer
+Senior POMS Engineer
+
+NNIT
+
+Galway, County Galway, Ireland
+2 weeks ago
+Software Engineering Technical Leader - Applications
+Software Engineering Technical Leader - Applications
+
+Cisco
+
+Galway Metropolitan Area
+1 week ago
+Software Engineer
+Software Engineer
+
+ACI Worldwide
+
+Limerick, County Limerick, Ireland
+2 days ago
+Senior Software Cloud Engineer - Patient Care Systems - Atlas
+Senior Software Cloud Engineer - Patient Care Systems - Atlas
+
+Medtronic
+
+Galway, County Galway, Ireland
+3 months ago
+Principal Software Engineer (Device Managers)
+Principal Software Engineer (Device Managers)
+
+Medtronic
+
+Galway, County Galway, Ireland
+1 month ago
+Software Engineer II -Framework
+Software Engineer II -Framework
+
+Medtronic
+
+Galway, County Galway, Ireland
+4 days ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Cognizant Life Sciences Manufacturing
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

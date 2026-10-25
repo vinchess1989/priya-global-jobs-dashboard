@@ -1,0 +1,240 @@
+Title: Manager, AI Ops SRE Platform Engineer
+Company: Pfizer
+Location: Dublin, County Dublin, Ireland
+URL: https://ie.linkedin.com/jobs/view/manager-ai-ops-sre-platform-engineer-at-pfizer-4480393902
+Posted: 2026-10-19
+Deadline: N/A
+Reason: The role aligns perfectly with the candidate's extensive experience in SRE, CI/CD, configuration management, and safety-critical/regulated environments, and it is located in an eligible country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Manager, AI Ops SRE Platform Engineer
+Pfizer  Dublin, County Dublin, Ireland
+1 week ago  53 applicants
+  
+
+See who Pfizer has hired for this role
+
+Apply 
+Save
+Role Summary
+
+The CISO Infrastructure & Cloud Services organization delivers excellence in the pursuit of breakthroughs that change patients' lives through industry-leading infrastructure operations performance. We ensure optimal performance of global application hosting and network services that power Pfizer's business processes. We strive to revolutionize service dependability by applying advanced analytics to drive predictive detection, identifying potential issues with our services and intervening before they disrupt our business. We place data at the heart of what we do and apply a relentless focus on continuous improvement to enable Pfizer's business processes and patient outcomes.
+
+We are seeking an AI Ops SRE Platform Engineer to build and own the platform behind our AI-driven operations and to act as technical coordinator for a small AI Operations pod within Hosting SRE Operations, based in Greece. This role leads the design and delivery of our agent-assisted incident pipeline - from intake classification and enrichment, through read-only investigation, to guarded remediation approved by a human. The successful candidate combines hands-on engineering of AI agents and automation with strong operations judgement, and will convert classic infrastructure operations across Server, Storage, Data Protection, Database, Middleware and HCI into reliable, measurable AI-driven operations.
+
+Role Responsibilities
+
+
+Accountable for the technical direction and coordination of the Greece AI Ops pod, aligning the team's work by influence rather than line authority, and acting as the senior technical decision-maker and escalation point when incidents or design choices exceed the pod's normal thresholds.
+Own the end-to-end design and delivery of the Agentic Ticket pipeline, from intake (classification, enrichment, prioritisation, routing) through cross-system investigation and root-cause drafting, accountable for its reliability, safety and readiness for production use.
+Own the capability contract that governs the agent runbooks, the integration allow-list, and read-versus-change scope per system, defined jointly with Platform and Cloud Engineering on a default-deny basis, exercising judgment over what the agent may safely be permitted to do.
+Set the standards for how connectors and remediation playbooks are built across the operational toolchain (e.g. ServiceNow, Dynatrace, Aria, AIQUM, Rubrik) with execution through SSM and Ansible, ensuring every automated action carries rollback and audit and meets the pod's safety bar.
+Hold the pipeline to explicit accuracy and reliability targets, validated against our own estate rather than vendor benchmarks, and judge when performance is trustworthy enough to move an action from human-approved to automatic.
+Embed SRE and automation-first ways of working across the pod, and hold accountability for continuous improvement and measurable toil reduction across the Hosting domains.
+
+
+Qualifications
+
+
+Bachelor's degree in a technical field or equivalent practical experience.
+4 years+ in infrastructure operations, SRE or platform engineering, including a technical leadership or lead-engineer role.
+Demonstrated delivery of production AI-agent or automation systems (for example Amazon Bedrock AgentCore, LangGraph or equivalent), including tool and connector integration via MCP or similar.
+Strong programming and automation skills (Python plus one or more of Bash, PowerShell), CI/CD and coding best practices, and IaC / configuration management (Ansible, Terraform).
+Working knowledge of at least two Hosting domains (Server/OS, Storage, Data Protection, Database, Middleware or HCI) sufficient to judge remediation safety.
+Strong data literacy and structured evaluation skills to interpret metrics and validate agent outputs.
+Familiarity with ServiceNow ITOM / Now Assist, Dynatrace and observability tooling is a plus.
+Demonstrated experience in an agile work environment possessing qualities such as a collaborative mindset, adaptability to change, and a proactive problem-solving approach.
+Demonstrated hands-on experience across infrastructure engineering, automation, and AI/AIOps platforms, with the ability to design and integrate solutions for monitoring, incident management, automated remediation, configuration management, and service reliability.
+
+
+Non-Standard Work Schedule, Travel Or Environment Requirements
+
+
+Periodic international and domestic travel required (less than 10%)
+
+
+Please apply by sending your CV in English.
+
+Work Location Assignment: Hybrid
+
+This role is posted in multiple locations. If you are applying for the role in an secondary job posting location where pay transparency regulations apply, your Talent Advisor will share the local pay information with you during the first interview.
+
+Purpose
+
+Breakthroughs that change patients' lives... At Pfizer we are a patient centric company, guided by our four values: courage, joy, equity and excellence. Our breakthrough culture lends itself to our dedication to transforming millions of lives.
+
+Digital Transformation Strategy
+
+One bold way we are achieving our purpose is through our company wide digital transformation strategy. We are leading the way in adopting new data, modelling and automated solutions to further digitize and accelerate drug discovery and development with the aim of enhancing health outcomes and the patient experience.
+
+Flexibility
+
+We aim to create a trusting, flexible workplace culture which encourages employees to achieve work life harmony, attracts talent and enables everyone to be their best working self. Let’s start the conversation!
+
+Equal Employment Opportunity
+
+We believe that a diverse and inclusive workforce is crucial to building a successful business. As an employer, Pfizer is committed to celebrating this, in all its forms – allowing for us to be as diverse as the patients and communities we serve. Together, we continue to build a culture that encourages, supports and empowers our employees.
+
+Disability Inclusion
+
+Our mission is unleashing the power of all our people and we are proud to be a disability inclusive employer, ensuring equal employment opportunities for all candidates. We encourage you to put your best self forward with the knowledge and trust that we will make any reasonable adjustments to support your application and future career. Your journey with Pfizer starts here!
+
+Pfizer endeavors to make www.pfizer.com/careers accessible to all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process and/or interviewing, please email disabilityrecruitment@pfizer.com. This is to be used solely for accommodation requests with respect to the accessibility of our website, online application process and/or interviewing. Requests for any other reason will not be returned.
+
+To learn more about acceptable and prohibited uses of AI during the recruitment process, please review our candidate AI-use guidelines available on Pfizer Careers.
+
+Information & Business Tech
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Pharmaceutical Manufacturing
+  
+
+Referrals increase your chances of interviewing at Pfizer by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Site Reliability Engineer, Dublin
+Site Reliability Engineer, Dublin
+Apple
+Dublin, County Dublin, Ireland
+5 months ago
+Site Reliability Engineer
+Site Reliability Engineer
+ElevenLabs
+Dublin, County Dublin, Ireland
+1 week ago
+Site Reliability Engineer
+Site Reliability Engineer
+Apple
+Dublin, County Dublin, Ireland
+2 months ago
+Lead Site Reliability Engineer
+Lead Site Reliability Engineer
+JPMorganChase
+Dublin, County Dublin, Ireland
+1 week ago
+Staff Software Engineer, AI Reliability Engineering
+Staff Software Engineer, AI Reliability Engineering
+Anthropic
+Dublin, County Dublin, Ireland
+6 days ago
+Senior Software Engineer- SRE
+Senior Software Engineer- SRE
+Salesforce
+Dublin, County Dublin, Ireland
+5 days ago
+Show more jobs like this 
+People also viewed
+Forward Deployed Engineering Manager
+Forward Deployed Engineering Manager
+
+Accenture UK & Ireland
+
+Dublin, County Dublin, Ireland
+1 week ago
+Lead Site Reliability Engineer
+Lead Site Reliability Engineer
+
+Mastercard
+
+Dublin, County Dublin, Ireland
+4 days ago
+Site Reliability Engineer III
+Site Reliability Engineer III
+
+RELX
+
+Dublin, County Dublin, Ireland
+3 weeks ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+F5
+
+Dublin, County Dublin, Ireland
+1 week ago
+Senior Platform Engineer - Data License Plus
+Senior Platform Engineer - Data License Plus
+
+Bloomberg
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+Site Reliability Engineer - Foundation Team
+Site Reliability Engineer - Foundation Team
+
+Global-e
+
+Dublin, County Dublin, Ireland
+6 months ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+Pepper Advantage
+
+Dublin, County Dublin, Ireland
+2 days ago
+Staff Software Engineer, Infrastructure
+Staff Software Engineer, Infrastructure
+
+Toast
+
+Dublin, County Dublin, Ireland
+1 day ago
+Senior Manager, Platform Engineering
+Senior Manager, Platform Engineering
+
+Prove
+
+Dublin, County Dublin, Ireland
+2 days ago
+AI DevOps Engineer
+AI DevOps Engineer
+
+The Citco Group Limited
+
+Dublin, County Dublin, Ireland
+4 months ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Pfizer
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

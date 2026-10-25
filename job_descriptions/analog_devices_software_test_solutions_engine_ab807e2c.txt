@@ -1,0 +1,243 @@
+Title: Software Test Solutions Engineer
+Company: Analog Devices
+Location: Limerick, County Limerick, Ireland
+URL: https://ie.linkedin.com/jobs/view/software-test-solutions-engineer-at-analog-devices-4469332822
+Posted: 2026-10-19
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's expertise in CI/CD, test automation infrastructure, and release management within a technical engineering environment, and it is located in Ireland.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Software Test Solutions Engineer
+Analog Devices  Limerick, County Limerick, Ireland
+1 week ago  79 applicants
+  
+
+See who Analog Devices has hired for this role
+
+Apply 
+Save
+About Analog Devices
+
+Analog Devices, Inc. (NASDAQ: ADI) is a global semiconductor leader that bridges the physical and digital worlds to enable breakthroughs at the Intelligent Edge. ADI combines analog, digital, AI, and software technologies into solutions that combat climate change, reliably connect humans and the world, and help drive advancements in automation and robotics, mobility, healthcare, energy and data centers. With revenue of more than $11 billion in FY25, ADI ensures today's innovators stay Ahead of What's Possible. Learn more at www.analog.com and on LinkedIn and X.
+
+Analog Devices Inc. is looking for a Software Test Solutions Engineer to lead test automation solutions and manage stakeholder relationships within their QSS Test Operations group. The role focuses on integrating and supporting test automation infrastructure and continuous integration systems.
+
+Responsibilities:
+
+
+Gather and define stakeholder Test Automation requirements
+Define project plans for implementing and installing Test Solution application for new and legacy projects
+Identify how to integrate into existing CICD systems or recommend implementation of the QSS standard CICD pipeline to support Test Automation
+Coordinate with other infrastructure teams to design and configure virtual systems for build and test environments
+Troubleshoot issues and solve problems with Test Automation infrastructure, build systems as needed
+Assist with configuring and setting up common relational database environments
+Support training teams on the use of QSS Test Solution frameworks
+Assist with integration of Test Solution applications.
+Administering Linux operating systems
+Support integration of CI test pipelines
+Install and support code coverage tools to capture quality of test automation coverage
+May also include assisting with development of test automation infrastructure
+Serve as a champion for advancing Test Automation best practices and new methodologies within the organization
+
+
+Minimum Qualifications/skills:
+
+
+3 to 5 years of relative experience within software tests with at least 1 of those years in a Project Management related role
+A University master’s degree in computer engineering, Telecommunications Engineering, Electronic Engineering or a related field is required. Candidates with a bachelor’s degree in engineering and equivalent professional experience in the sector will also be considered
+Operations Project Management background
+Background in managing test automation environments
+Experience in software development and testing of code
+Strong expertise in DevOps Agile CI/CD implementation
+Experience with building infrastructure and tools such as GCOV/GCC, Coverity, Git/Bitbucket, Artifactory, Jira, Visual Studios, etc.
+Experience with relational databases, such as SQL or PostgreSQL
+Experience with developing and deploying Github actions
+Experience with maintaining various scripting languages to build software from scratch, test, and deploy it for a specific use case
+Experience with container technologies like Docker
+Experience with Linux and cross-platform development
+Experience with Python and bash scripting
+Experience with C, C++ and Shell Scripting
+Excellent analytical skills
+
+
+Preferred Qualifications:
+
+
+7+ Years of DevOps experience in managing test infrastructure and with 2 of the years in Project Management
+Project Management skills
+Exposure to embedded software product development with test background
+Experience with Agile methodology
+Experience with C#, Python and Java
+Experience with non-relational databases such as MongoDB
+Experience with time series databases, such as InfluxDB
+Experience with visualization tooling, such as Grafana
+Maintenance of Docker/Container clusters
+Knowledge of hybrid cloud environments
+Knowledge of OpenShift and CloudSmith highly desirable
+
+
+For positions requiring access to technical data, Analog Devices, Inc. may have to obtain export licensing approval from the U.S. Department of Commerce - Bureau of Industry and Security and/or the U.S. Department of State - Directorate of Defense Trade Controls. As such, applicants for this position – except US Citizens, US Permanent Residents, and protected individuals as defined by 8 U.S.C. 1324b(a)(3) – may have to go through an export licensing review process.
+
+Analog Devices is an equal opportunity employer. We foster a culture where everyone has an opportunity to succeed regardless of their race, color, religion, age, ancestry, national origin, social or ethnic origin, sex, sexual orientation, gender, gender identity, gender expression, marital status, pregnancy, parental status, disability, medical condition, genetic information, military or veteran status, union membership, and political affiliation, or any other legally protected group.
+
+Job Req Type: Experienced
+
+Required Travel: Yes, 10% of the time
+
+Shift Type: 1st Shift/Days
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Semiconductor Manufacturing
+  
+
+Referrals increase your chances of interviewing at Analog Devices by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+QA/Test Engineer
+QA/Test Engineer
+Mphasis
+Galway, County Galway, Ireland
+3 weeks ago
+Software Development Engineer in Test
+Software Development Engineer in Test
+Genesys
+Galway, County Galway, Ireland
+1 week ago
+Software Development Engineer in Test (SDET)
+Software Development Engineer in Test (SDET)
+Ministry Brands
+Galway, County Galway, Ireland
+1 month ago
+Senior QA Engineer - Software Engineering
+Senior QA Engineer - Software Engineering
+Hewlett Packard Enterprise
+Aille, County Galway, Ireland
+1 month ago
+SAP Quality Assurance Tester
+SAP Quality Assurance Tester
+Verizon
+Limerick, County Limerick, Ireland
+1 week ago
+Test Validation Engineer
+Test Validation Engineer
+Oxford Global Resources
+Ireland
+2 days ago
+Show more jobs like this 
+People also viewed
+AI Growth Ops
+AI Growth Ops
+
+Kraken
+
+Ireland
+1 week ago
+Software Engineer
+Software Engineer
+
+Fidelity Investments
+
+Galway, County Galway, Ireland
+1 week ago
+Solutions Engineer - Dublin / US Remote
+Solutions Engineer - Dublin / US Remote
+
+&Open
+
+Ireland
+1 month ago
+Solutions Engineer
+Solutions Engineer
+
+AMAX
+
+Limerick, County Limerick, Ireland
+6 days ago
+Senior Validation Engineer
+Senior Validation Engineer
+
+Johnson & Johnson
+
+Limerick, County Limerick, Ireland
+4 days ago
+QA Validation Engineer
+QA Validation Engineer
+
+CAI
+
+Limerick, County Limerick, Ireland
+1 week ago
+Solutions Engineer
+Solutions Engineer
+
+AMAX
+
+Galway, County Galway, Ireland
+6 days ago
+Forward Deployed Engineer - EMEA
+Forward Deployed Engineer - EMEA
+
+GitLab
+
+Ireland
+2 weeks ago
+Software Development Engineer
+Software Development Engineer
+
+Twilio
+
+Ireland
+2 days ago
+Software Engineer
+Software Engineer
+
+Genesys
+
+Ireland
+6 days ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Analog Devices
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
