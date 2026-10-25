@@ -1,9 +1,9 @@
 {
   "pid": 24320,
   "started_at": "2026-10-26T01:12:40+02:00",
-  "heartbeat_at": "2026-10-26T01:27:51+02:00",
+  "heartbeat_at": "2026-10-26T01:32:06+02:00",
   "phase": "reviewing",
-  "detail": "MEP Quality Manager",
-  "last_scrape_ok_at": "2026-10-26T01:26:22+02:00",
+  "detail": "Analyst Lead, Managed Service",
+  "last_scrape_ok_at": "2026-10-26T01:28:29+02:00",
   "last_error": null
 }

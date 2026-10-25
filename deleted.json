@@ -15672,5 +15672,22 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": null,
     "deletion_reason": "Deadline (2026-10-24) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Agile Delivery Manager",
+    "company": "Qantas",
+    "location": "Adelaide, South Australia, Australia",
+    "url": "https://au.linkedin.com/jobs/view/agile-delivery-manager-at-qantas-4478735832",
+    "visited": "yes",
+    "matches_requirements": "maybe",
+    "reason": "The role focuses on agile delivery and release management which aligns with her background, but it is a leadership/management position that may lean more toward project management than her core technical release/configuration management expertise.",
+    "id": "df24e03a",
+    "source": "linkedin_au_release_manager",
+    "added_at": "2026-10-26T01:28:28+02:00",
+    "posted_date": "2026-10-19",
+    "deadline": "2025-10-28",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Deadline (2025-10-28) passed by more than 2 days and unreviewed"
   }
 ]
