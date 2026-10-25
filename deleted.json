@@ -15570,5 +15570,22 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": null,
     "deletion_reason": "Deadline (2026-10-22) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Regulatory Affairs Specialist",
+    "company": "Cpl Life Sciences",
+    "location": "Gloucestershire, UK",
+    "url": "https://www.reed.co.uk/jobs/regulatory-affairs-specialist/57484377",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job posting explicitly states 'No Sponsorship offered', which violates the candidate's requirement for visa sponsorship in the UK.",
+    "id": "e8bf5ba2",
+    "source": "reed_eu_mdr",
+    "added_at": "2026-10-25T03:17:57+03:00",
+    "posted_date": "2026-10-23",
+    "deadline": "N/A",
+    "eval_model": "gemini-vineeth-bits/gemini-3.5-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
