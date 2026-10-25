@@ -1,0 +1,248 @@
+Title: 12 months Contract - Technical Scrum Master & DevOps Practitioner (Through an External Agency Payroll Provider)
+Company: Julius Baer
+Location: Singapore, Singapore
+URL: https://sg.linkedin.com/jobs/view/12-months-contract-technical-scrum-master-devops-practitioner-through-an-external-agency-payroll-provider-at-julius-baer-4475175024
+Posted: 2026-10-12
+Deadline: N/A
+Reason: The role aligns perfectly with the candidate's extensive experience in DevOps, release management, and configuration management, and it is located in a target country (Singapore).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+12 months Contract - Technical Scrum Master & DevOps Practitioner (Through an External Agency Payroll Provider)
+Julius Baer  Singapore, Singapore
+2 weeks ago  33 applicants
+  
+
+See who Julius Baer has hired for this role
+
+Apply 
+Save
+At Julius Baer, we celebrate and value the individual qualities you bring, enabling you to be impactful, to be entrepreneurial, to be empowered, and to create value beyond wealth. Let’s shape the future of wealth management together.
+
+At Julius Baer, we celebrate and value the individual qualities the candidates bring, enabling them to be impactful, to be entrepreneurial, to be empowered, and to create value beyond wealth.
+
+We are seeking an experienced Technical Scrum Master & DevOps Practitioner to join our Agile team in the GPS domain. In this dual-role capacity, you will be responsible for facilitating and coaching cross-functional teams in adopting and implementing SAFe principles, while also driving robust DevOps practices to enable continuous integration, automated testing, and reliable release pipelines.
+
+YOUR CHALLENGE
+
+Key Responsibilities
+
+
+Facilitate Agile & SAFe Execution: Coach Scrum teams in the GPS domain to effectively adopt SAFe principles and Agile practices, including Sprint and PI planning, daily stand-ups, reviews, retrospectives, and backlog refinement.
+Enable High-Performing Teams: Empower teams to self-organise, prioritise work, and continuously improve through Agile tools (e.g., Jira, Confluence), process optimisation, automation, and waste reduction.
+Remove Impediments & Drive Delivery: Proactively identify and resolve blockers impacting team velocity, escalating critical issues to leadership when needed.
+Stakeholder Collaboration & Alignment: Partner with Product Owners, development teams, Test Management, and wider stakeholders to align on ART initiatives, track progress, and ensure transparency.
+Scale Agility Across Organisations: Collaborate with fellow Scrum Masters, POs, and leaders to promote agile maturity, consistency, and a culture of innovation and collaboration.
+Drive our automation effort by proposing and developing scripts.
+Manage configuration, packaging and deployments of application components based on software and documentation delivered by developers.
+Drive the onboarding of our application to common platforms (e.g. Observability Testing Framework, CI/CD platform).
+Be a driver for standardization and automation within the GPS domain and foster the engineering culture within your team.
+As part of a highly collaborative team, contribute to the future Software Solutions strategy.
+
+
+Regulatory Responsibilities &/OR Risk Management
+
+
+Demonstration of appropriate values and behaviours including but not limited to standards on honesty and integrity, due care and diligence, fair dealing (treating customers fairly), management of conflicts of interest, competence and continuous development, adequate risk management, and compliance with applicable laws and regulations
+
+
+YOUR PROFILE
+
+Professional and Technical
+
+
+10+ years of experience as a Scrum Master or equivalent role
+Excellent communication, facilitation, and coaching skills
+Ability to work with diverse stakeholders, including technical and non-technical teams
+Bachelor's degree in Computer Science, Business Administration, or related field
+Certification in SAFe, such as SAFe Agilist (SA) or SAFe Practitioner (SP)
+Familiarity with DevOps practices and continuous integration/continuous deployment (CI/CD) pipelines
+Understanding of the technology stack required to maintain a successful and well-working environment, including:
+Familiarity with relevant technologies and systems used in the GPS ART
+Ability to communicate technical concepts to non-technical stakeholders
+Experiences of successfully delivering Software projects
+Linux administration background: software packages, text processing, filesystem management, maintaining environments, logfile investigations
+Scripting skills: Unix/Linux commands, bash, Python
+Hands-on CI/CD experience with tools such as Jenkins, GitLab, Octopus, Maven, or similar
+Cloud experience: Kubernetes, Azure Application Platform (e.g. AKS), distributed architectures
+Broad understanding of the Trading flow, with a good understanding of products provided by the GPS ART, including knowledge of market data, trading platforms, and risk management systems
+
+
+Preferred Qualifications
+
+
+Familiarity with using Web APIs (REST, GraphQL, Websocket)
+Experience with configuration of middleware such as Kafka and Websphere MQ
+User-level knowledge of observability tools (Grafana, ElasticSearch, OpenTelemetry)
+Development background (ideally Java)
+Knowledge of cloud-based technologies, such as Azure
+
+
+Personal and Social
+
+
+Excellent command of verbal and written communication skills
+Able to work autonomously in a global team setup to take on initiative with a positive attitude
+Solution orientated and able to work in an agile setup
+Strong interpersonal and collaboration skills, with the ability to work effectively with cross-functional teams and stakeholders
+Ability to work in a fast-paced environment, with a focus on delivering high-quality results under tight deadlines
+Highly motivated team player
+
+
+We are looking forward to receiving your full job application through our online application tool. Further interesting job opportunities can be found on our Career site.
+
+Is this not quite what you are looking for? Set up a job alert by creating a candidate account here.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Banking
+  
+
+Referrals increase your chances of interviewing at Julius Baer by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+DevOps Engineer – 12 months contract
+DevOps Engineer – 12 months contract
+Ethos BeathChapman
+Singapore
+2 days ago
+Platform Engineer, ITD (1 year contract)
+Platform Engineer, ITD (1 year contract)
+Singapore Economic Development Board (EDB)
+Singapore, Singapore
+2 weeks ago
+SRE Engineer – 12 months contract
+SRE Engineer – 12 months contract
+Ethos BeathChapman
+Singapore
+2 days ago
+Azure Cloud Engineer (DevOps/Terraform)(Fixed-Term Contract)
+Azure Cloud Engineer (DevOps/Terraform)(Fixed-Term Contract)
+Dymon Asia Capital
+Singapore
+2 weeks ago
+Cloud Engineer (Contract)
+Cloud Engineer (Contract)
+Dymon Asia Capital
+Singapore
+2 days ago
+Operations Support Engineer (Associate/Senior, Contract - Renewable), Technology Consulting
+Operations Support Engineer (Associate/Senior, Contract - Renewable), Technology Consulting
+EY
+Singapore, Singapore
+1 week ago
+Show more jobs like this 
+People also viewed
+DevOps Engineer, APAC region
+DevOps Engineer, APAC region
+
+Twelve Data
+
+Singapore, Singapore
+2 months ago
+Software Engineer (DevOps), TIC
+Software Engineer (DevOps), TIC
+
+GovTech Singapore
+
+Singapore, Singapore
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Capgemini
+
+Singapore, Singapore
+2 months ago
+Software Engineer - App Security & SRE (Perm/ Contract)
+Software Engineer - App Security & SRE (Perm/ Contract)
+
+Monetary Authority of Singapore (MAS)
+
+Singapore, Singapore
+2 weeks ago
+Platform Operations Engineer
+Platform Operations Engineer
+
+Assurity Trusted Solutions Pte Ltd
+
+Singapore, Singapore
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+Mav3rik
+
+Singapore
+5 months ago
+DevOps Engineer
+DevOps Engineer
+
+Capgemini
+
+Singapore
+6 months ago
+DevOps Engineer
+DevOps Engineer
+
+Ascendion
+
+Singapore, Singapore
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+stakefish
+
+Singapore
+$130,000 - $180,000
+3 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Keppel Data Centres
+
+Singapore, Singapore
+3 days ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
