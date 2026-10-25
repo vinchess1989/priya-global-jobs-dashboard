@@ -15689,5 +15689,39 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": null,
     "deletion_reason": "Deadline (2025-10-28) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Senior Quality Engineer",
+    "company": "Qantas",
+    "location": "Adelaide, South Australia, Australia",
+    "url": "https://au.linkedin.com/jobs/view/senior-quality-engineer-at-qantas-4482787862",
+    "visited": "yes",
+    "matches_requirements": "maybe",
+    "reason": "The role is a strong fit for her quality engineering and CI/CD skills, but it requires visa sponsorship for Australia, which is not explicitly confirmed as available in the posting.",
+    "id": "1ccb7bd0",
+    "source": "linkedin_au_quality_engineer",
+    "added_at": "2026-10-26T01:40:58+02:00",
+    "posted_date": "2026-10-24",
+    "deadline": "2025-11-05",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Deadline (2025-11-05) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Project Officer, Technical Writer",
+    "company": "Office of Sport",
+    "location": "Sydney, New South Wales, Australia",
+    "url": "https://au.linkedin.com/jobs/view/project-officer-technical-writer-at-office-of-sport-4481402639",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires the candidate to already hold Australian citizenship, permanent residency, or a valid Australian working visa, and she currently only holds a residence permit for Finland.",
+    "id": "d54a76c9",
+    "source": "linkedin_au_documentation_specialist",
+    "added_at": "2026-10-26T01:45:47+02:00",
+    "posted_date": "2026-10-26",
+    "deadline": "2026-07-26",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-07-26) passed by more than 2 days and unreviewed"
   }
 ]
