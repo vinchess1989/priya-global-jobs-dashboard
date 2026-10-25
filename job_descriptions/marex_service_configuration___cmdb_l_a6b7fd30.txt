@@ -1,0 +1,331 @@
+Title: Service Configuration & CMDB Lead
+Company: Marex
+Location: London, England, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/service-configuration-cmdb-lead-at-marex-4469186026
+Posted: 2026-09-26
+Deadline: Open until filled
+Reason: The role is a strong match for her configuration management and CMDB expertise, is located in the UK, and does not have any hard-rejection criteria.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Service Configuration & CMDB Lead
+Marex  London, England, United Kingdom
+1 month ago  28 applicants
+  
+
+See who Marex has hired for this role
+
+Apply 
+Save
+About Marex
+
+Marex Group plc (NASDAQ: MRX) is a diversified global financial services platform providing essential liquidity, market access and infrastructure services to clients across energy, commodities and financial markets. The group provides comprehensive breadth and depth of coverage across four core services: clearing, agency and execution, market making, and hedging and investment solutions. It has a leading franchise in many major metals, energy and agricultural products, with access to 60 exchanges. The group provides access to the world’s major commodity markets, covering a broad range of clients that include some of the largest commodity producers, consumers and traders, banks, hedge funds and asset managers. With more than 40 offices worldwide, the group has over 3,000 employees across Europe, Asia and the Americas.
+
+For more information visit https://www.marex.com/
+
+Vacancy Numbers: VN3136
+
+Department Description
+
+Marex has unique access across markets with significant share globally both on and off exchange. The depth of knowledge amongst its teams and divisions provides its customers with clear advantage, and its technology-led service provides access to all major exchanges, order-flow management via screen, voice and DMA, plus award-winning data, insights, and analytics.
+
+This role sits within the Technology department reporting to the Global IT Service Manager. Technology is central to the success of our organisation. The 290+ strong global Technology Department and delivers differentiation, scalability and security for the business. Technology provides digital tools, software services and infrastructure globally to all business groups. Software development and application support teams work in agile ‘streams’ aligned to specific business areas. Our other teams work enterprise-wide to provide critical services including our global service desk, network and system infrastructure, IT operations, design, enterprise architecture and information security.
+
+Role Summary
+
+As the Service Configuration & CMDB Lead at Marex, you will be responsible for the governance, accuracy and continuous improvement of the firm’s Configuration Management Database (CMDB), configuration data and associated discovery tooling.
+
+Reporting to the Global IT Service Manager, you will act as the subject-matter expert for Configuration Management across Technology, setting standards, improving controls and ensuring the CMDB provides reliable information to support operational, service management, risk and audit activities.
+
+You will own key discovery and scanning tools, including Lansweeper and Atlassian Assets Discovery, identify data-quality issues across multiple sources, and work with accountable system owners to resolve discrepancies at source. You will also provide regular reporting on CMDB health, discovery coverage, risks, remediation and improvement opportunities.
+
+This is a hands-on role requiring strong stakeholder management, analytical capability and a good level of technical understanding, with scripting, APIs and automation experience highly desirable.
+
+Responsibilities
+
+Role specific:
+
+
+Own the Configuration Management framework, standards, processes and procedures.
+Administer and continually improve the CMDB within the Atlassian ecosystem.
+Own and support integrations into Atlassian Assets / Data Manager, including discovery tools, source systems, APIs and scheduled data feeds.
+Work with technical and application owners to build and maintain integrations, ensuring data is correctly mapped, transformed and reconciled.
+Monitor discovery and integration health, investigate failures and data-quality issues, and coordinate remediation with source-system owners.
+Define and maintain data-mapping, reconciliation and data-quality standards across configuration data sources.
+Maintain CI classes, attributes, lifecycle states, ownership and relationships.
+Identify and resolve discrepancies between the CMDB, discovery platforms and authoritative source systems, addressing root causes at source.
+Support service mapping and maintain accurate relationships between infrastructure, applications, services and business capabilities.
+Ensure Configuration Management integrates effectively with Change, Incident, Problem, Asset and Service Management processes.
+Produce regular reporting on CMDB health, discovery coverage, data quality, exceptions, remediation and key risks.
+Highlight recurring issues, control gaps and opportunities for improvement.
+Drive continuous improvement through automation, scripting, API integrations and reduced manual data maintenance.
+Maintain clear technical, process and integration documentation.
+Support audit, risk and regulatory requirements relating to configuration and asset data.
+
+
+All staff:
+
+
+Ensuring compliance with the company’s regulatory requirements under the FCA, NFA, AMF, AFM, MAS.
+Adhere to the operational risk framework for your role ensuring that all regulatory or company determined parameters are complied with.
+Role model for demonstrating highest level standards of integrity and conduct and reflecting Company Values.
+At all times complying with the FCA’s Code of Conduct
+To ensure that you are fully aware of and adhere to internal policies that relate to you, your role or any other activities for which you have any level of responsibility
+To report any breaches of policy to Compliance and/ or your supervisor as required
+To escalate risk events immediately
+To provide input to risk management processes, as required.
+
+
+Competencies, Skills, Experience & Qualifications:
+
+Skills and Experience:
+
+Essential:
+
+
+Strong experience in Configuration Management, CMDB management, IT Asset Management or IT Service Management.
+Hands-on experience administering and governing a CMDB in a complex technology environment.
+Experience with automated discovery, asset inventory or scanning technologies.
+Strong understanding of CI lifecycle management, relationships, data ownership and Configuration Management controls.
+Experience reconciling data across multiple systems and identifying root causes of data-quality issues.
+Proven ability to work with technical and data owners to drive remediation and improve data quality.
+Experience producing meaningful operational reporting, dashboards and KPIs.
+Strong analytical, problem-solving and stakeholder-management skills.
+Ability to influence teams and challenge poor data quality or process adherence constructively.
+Experience driving process and tooling improvements.
+Strong written and verbal communication skills.
+ITIL Foundation certification or equivalent practical ITSM experience.
+
+
+Desirable:
+
+
+Experience with Atlassian Jira Service Management / Assets / Data Manager.
+Experience with Lansweeper and Atlassian Assets Discovery.
+Knowledge of PowerShell, Python, SQL or similar scripting/query languages.
+Experience working with REST APIs, system integrations and data transformation.
+Experience with service mapping and automated discovery.
+Experience in financial services or another regulated environment.
+
+
+Competencies:
+
+
+Strong attention to detail and data accuracy.
+Analytical and technically curious.
+Proactive and improvement focused.
+Confident working with technical and non-technical stakeholders.
+Comfortable challenging data quality and driving corrective action.
+Collaborative, adaptable and able to work in a fast-paced environment.
+
+
+Conduct Rules, You must:
+
+
+Act with integrity
+Act with due skill, care and diligence
+Be open and cooperative with the FCA, the PRA and other regulators
+Pay due regard to the interests of customers and treat them fairly
+Observe proper standard of market conduct
+Act to deliver good outcomes for retail customers
+
+
+Company Values
+
+Be collaborative - by working together across the organisation, we foster teamwork, can better respond to challenges and successfully deliver for our clients
+
+Act with integrity - we pride ourselves on our honesty and high ethical standards. We apply these values when working with all our clients, colleagues and other stakeholders
+
+Be adaptable and entrepreneurial - we embrace change as markets evolve to constantly increase our efficiency and create innovative solutions for our clients. We are interested in the world around us and inquisitive about understanding the challenges and opportunities our clients face.
+
+Be respectful – how we treat each other, and our clients says everything about who we are. We always act respectfully and treat people fairly in everything we do.
+
+Nurture talent – we aim to grow our own talent and make Marex the place ambitious, hardworking and talented people choose to build their career. This means giving and taking stretch opportunities, taking risks, and committing to career development and support – for ourselves, and our teams.
+
+Marex is fully committed to being an inclusive employer and providing an inclusive and accessible recruitment process for all. We will provide reasonable adjustments to remove any disadvantage to you being considered for this role. We value the differences that a diverse workforce brings to the company. We welcome applications from candidates returning to the workforce. Also, Marex is committed to avoiding circumstances in which the appearance or possibility of conflicts of interest may exist within the hiring process.
+
+If you would like to receive any information in a different way or would like us to do anything differently to help you, please include it in your application.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at Marex by 2x
+
+See who you know
+
+Get notified about new Service Specialist jobs in London, England, United Kingdom.
+
+Sign in to create job alert
+Similar jobs
+Senior Lead, ServiceNow ITOM
+Senior Lead, ServiceNow ITOM
+Take-Two Interactive
+London, England, United Kingdom
+1 week ago
+CMDB & Environments Manager
+CMDB & Environments Manager
+M Group
+Stevenage, England, United Kingdom
+1 hour ago
+Management Systems Technical Lead
+Management Systems Technical Lead
+Serco
+Greater London, England, United Kingdom
+1 week ago
+Configuration and Catalogue Analyst
+Configuration and Catalogue Analyst
+Financial Ombudsman Service
+London, England, United Kingdom
+1 week ago
+Technical Lead
+Technical Lead
+OneAdvanced
+London, England, United Kingdom
+1 week ago
+service performance lead
+service performance lead
+Starbucks EMEA
+London, England, United Kingdom
+1 month ago
+Show more jobs like this 
+People also viewed
+Problem & Service Delivery Manager
+Problem & Service Delivery Manager
+
+Academia the Technology Group
+
+London, England, United Kingdom
+£45,000 - £50,000
+4 days ago
+Information Technology Service Delivery Manager
+Information Technology Service Delivery Manager
+
+HCLTech
+
+Greater London, England, United Kingdom
+1 week ago
+Configuration Process Lead
+Configuration Process Lead
+
+Amentum
+
+London, England, United Kingdom
+1 week ago
+Service Operations Analyst
+Service Operations Analyst
+
+National Physical Laboratory (NPL)
+
+Teddington, England, United Kingdom
+1 week ago
+Incident Manager
+Incident Manager
+
+Akkodis
+
+Stevenage, England, United Kingdom
+£55,000 - £65,000
+6 days ago
+Service Design & Transition Lead
+Service Design & Transition Lead
+
+Currys plc
+
+London, England, United Kingdom
+3 days ago
+IT Service Delivery SME
+IT Service Delivery SME
+
+Mobile Broadband Network Ltd (MBNL)
+
+Reading, England, United Kingdom
+6 days ago
+Observability Manager
+Observability Manager
+
+Merlin Entertainments
+
+London, England, United Kingdom
+1 month ago
+ITSM Reporting Specialist
+ITSM Reporting Specialist
+
+Danaher
+
+Amersham, England, United Kingdom
+2 weeks ago
+ITIL Processes Senior Expert
+ITIL Processes Senior Expert
+
+Indra Group UK & Ireland
+
+Redhill, England, United Kingdom
+2 days ago
+Similar Searches
+Director of Pastoral Care jobs
+87 open jobs
+Senior Fund Administrator jobs
+2,189 open jobs
+Transmission Controller jobs
+17 open jobs
+Senior Cost Engineer jobs
+1,723 open jobs
+Head Basketball Coach jobs
+18 open jobs
+Family Service Specialist jobs
+6,769 open jobs
+Interim Sales Manager jobs
+14 open jobs
+Customer Account Specialist jobs
+6,206 open jobs
+Deputy Managing Director jobs
+386 open jobs
+Financial Services Consultant jobs
+2,726 open jobs
+Program Controller jobs
+1,088 open jobs
+Global Mobility Manager jobs
+1,730 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Marex
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
