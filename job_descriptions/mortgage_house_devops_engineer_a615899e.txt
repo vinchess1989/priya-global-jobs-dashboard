@@ -1,0 +1,286 @@
+Title: DevOps Engineer
+Company: Mortgage House
+Location: North Sydney, New South Wales, Australia
+URL: https://au.linkedin.com/jobs/view/devops-engineer-at-mortgage-house-4482690854
+Posted: 2026-10-26
+Deadline: N/A
+Reason: The role is a strong match for her DevOps, CI/CD, and release management experience in a regulated environment, and it is located in an eligible country (Australia).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+Mortgage House  North Sydney, New South Wales, Australia
+1 hour ago   Be among the first 25 applicants
+  
+
+See who Mortgage House has hired for this role
+
+Apply
+Save
+
+Direct message the job poster from Mortgage House
+
+Ken Sayer
+Ken Sayer
+Helping Australians achieve home ownership since 1986
+
+DevOps Engineer – Mortgage House Capital Pty Ltd
+
+Position: DevOps Engineer – Bidirectional Platform
+
+Employer: Mortgage House Australia
+
+Employment Type: Full-Time
+
+Location: Sydney, NSW
+
+
+
+
+About Mortgage House
+
+Mortgage House Capital Pty Ltd is the administrative company within the Mortgage
+
+House Group for a number of mortgage origination companies. Mortgage House is an
+
+independent privately owned award winning ﬁnance group since 1986.
+
+experience of providing exceptional levels of service to our valued customers. We have
+
+a service philosophy that enables a broad range of customers to have access to quality
+
+home loan and ﬁnancial products. We are a performance driven organisation
+
+transforming the way, we work to serve our customers and embrace people who are just
+
+as dedicated and passionate about their career. Mortgage House is an active
+
+participant in the Securitisation (RMBS) market.
+
+
+
+
+About the Role
+
+The DevOps Engineer – Bidirectional Platform is accountable for the development, deployment, security and ongoing improvement of our cloud-based infrastructure and lending platforms. The DevOps Engineer will be responsible for implementing, automating, maintaining and monitoring cloud infrastructure and deployment processes, primarily within Microsoft Azure.
+
+
+
+
+Working closely with our Development, Architecture, Security and Operations teams, the successful candidate will ensure that our technology platforms are secure, reliable, scalable and efficiently deployed. This role offers an opportunity to work with modern cloud technologies, infrastructure automation and CI/CD practices in a dynamic financial services environment.
+
+All work is performed within a governed, audit-ready, automation-ﬁrst operating model aligned to APRA CPS 234, ISO 27001, and SOC 2 control expectations.
+
+
+
+
+Key Responsibilities
+
+Implement, configure and maintain secure cloud infrastructure and platform services using Microsoft Azure across development, testing, staging and production environments.
+Develop and maintain Infrastructure as Code (IaC) solutions using Terraform to automate infrastructure provisioning, configuration and management.
+Design, implement and maintain secure Continuous Integration and Continuous Deployment (CI/CD) pipelines using GitHub Actions, Docker and related DevOps technologies.
+Support the deployment and management of Azure services, including Azure App Service, Azure Container Registry and Azure Key Vault, ensuring reliability, scalability and security.
+Manage infrastructure configurations, identify technical risks and configuration inconsistencies, and recommend improvements to platform performance and operational efficiency.
+Support multi-tenant platform provisioning and configuration for lending institutions and associated brands, maintaining appropriate access controls, security boundaries and system consistency.
+Implement and maintain security controls for cloud infrastructure and deployment processes, including secrets management, vulnerability scanning, access permissions and secure software delivery.
+Coordinate software releases, undertake environment validation and production-readiness assessments, and implement appropriate deployment, rollback and change-management procedures.
+Configure and maintain system monitoring, logging and alerting using Azure Monitor and related tools, investigating incidents and implementing corrective actions to improve system reliability.
+Support backup, recovery and disaster-recovery processes, including recovery testing, operational documentation and business continuity requirements.
+Collaborate with software developers, infrastructure engineers, architects and cybersecurity teams to resolve technical issues and improve infrastructure automation and deployment processes.
+Maintain technical documentation, monitor emerging DevOps technologies and recommend improvements to cloud infrastructure, system security and operational practices.
+
+Skills and Qualifications
+
+Essential Requirements
+
+Bachelor's degree in Information Technology, Computer Science, Software Engineering or a related discipline, or equivalent relevant experience.
+At least 1 year demonstrated experience in a DevOps Engineer, Cloud Engineer, Systems Engineer or similar technical role.
+Strong experience with Microsoft Azure cloud infrastructure and platform services.
+Practical experience with Terraform and Infrastructure as Code.
+Experience developing and maintaining CI/CD pipelines using GitHub Actions or similar tools.
+Working knowledge of Docker, containerisation and cloud application deployment.
+Understanding of cloud security principles, identity and access management, and secure deployment practices.
+Experience with infrastructure monitoring, troubleshooting and incident management.
+Strong analytical, problem-solving and communication skills.
+Ability to work collaboratively across technical teams and manage competing operational priorities.
+
+Highly Regarded
+
+Experience with Azure Key Vault, Azure Container Registry and Azure Monitor.
+Knowledge of OIDC federation, automated security scanning and vulnerability management tools such as Checkov, Trivy and SonarCloud.
+Familiarity with software supply-chain security, SBOM generation and Cosign signing.
+Experience supporting multi-tenant applications or enterprise cloud platforms.
+Knowledge of disaster recovery, backup management and high-availability systems.
+Previous experience working in banking, mortgage lending, fintech or other regulated financial services environments.
+Relevant Microsoft Azure, Terraform or DevOps certifications.
+
+What We Offer
+
+An opportunity to work with an established Australian mortgage lending organisation.
+Exposure to modern cloud infrastructure, automation and DevOps technologies.
+A collaborative and professional technology team.
+Opportunities for professional development and technical advancement.
+Competitive remuneration commensurate with skills and experience in the range $75-85,000.
+The opportunity to contribute to innovative financial technology platforms and business-critical systems.
+
+How to Apply
+
+If you are a technically skilled and proactive DevOps Engineer with a passion for cloud infrastructure, automation and secure software delivery, we encourage you to apply.
+
+Please submit your resume and a cover letter outlining your relevant qualifications, technical expertise and professional experience.
+
+
+
+Show more 
+Seniority level
+Entry level
+Employment type
+Full-time
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at Mortgage House by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+CORTO
+Sydney, New South Wales, Australia
+1 week ago
+DevOps Engineer
+DevOps Engineer
+CMSN Group Pty Ltd
+Greater Sydney Area
+3 months ago
+*AWS DevOps Engineer*
+*AWS DevOps Engineer*
+Accenture Australia
+Sydney, New South Wales, Australia
+1 month ago
+DevOps Engineer
+DevOps Engineer
+Shift
+North Sydney, New South Wales, Australia
+1 week ago
+Devops Engineer
+Devops Engineer
+ASX
+Sydney, New South Wales, Australia
+2 weeks ago
+Systems Engineer/Dev Ops/Administrator
+Systems Engineer/Dev Ops/Administrator
+Tyroola.com.au
+Millers Point, New South Wales, Australia
+2 months ago
+Show more jobs like this 
+People also viewed
+DevSecOps Engineer
+DevSecOps Engineer
+
+HUB24 Limited
+
+Sydney, New South Wales, Australia
+2 weeks ago
+Platform Engineer
+Platform Engineer
+
+Silicon Quantum Computing
+
+Sydney, New South Wales, Australia
+4 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+CORTO
+
+Sydney, New South Wales, Australia
+1 week ago
+Site Reliability Engineer (Australia, Remote)
+Site Reliability Engineer (Australia, Remote)
+
+Axon
+
+Sydney, New South Wales, Australia
+2 weeks ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+Cover Genius
+
+Sydney, New South Wales, Australia
+3 days ago
+Platform Specialist_Devops
+Platform Specialist_Devops
+
+XPT Software Australia
+
+Sydney, New South Wales, Australia
+1 week ago
+Data & AI Platform Engineer
+Data & AI Platform Engineer
+
+Sharon AI, Inc
+
+Sydney, New South Wales, Australia
+2 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Atain
+
+Sydney, New South Wales, Australia
+1 month ago
+Platform Engineer
+Platform Engineer
+
+Macquarie Group
+
+Sydney, New South Wales, Australia
+3 days ago
+Systems Engineer
+Systems Engineer
+
+Akuna Capital
+
+Sydney, New South Wales, Australia
+1 month ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

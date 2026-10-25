@@ -1,0 +1,259 @@
+Title: Sr DevOps Engineer
+Company: Xe.com
+Location: Bracknell, England, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/sr-devops-engineer-at-xe-com-4483502691
+Posted: 2026-10-26
+Deadline: Open until filled
+Reason: The role is a strong match for the candidate's extensive DevOps, CI/CD, and configuration management experience, and it is located in the UK, which is a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Sr DevOps Engineer
+Xe.com  Bracknell, England, United Kingdom
+1 hour ago   Be among the first 25 applicants
+  
+
+See who Xe.com has hired for this role
+
+Apply 
+Save
+Description
+
+At Xe, we live currencies. We provide a comprehensive range of currency services and products, including our Currency Converter, Market Analysis, Currency Data API and quick, easy, secure Money Transfers for individuals and businesses. We leverage technology to deliver these services through our website, mobile app and by phone. Last year, we helped over 300 million people access information about the currencies that matter to them and over 225,000 people used us to send money overseas.
+
+About This Role
+
+We are currently looking for a Senior DevOps Engineer to join our growing team who will be responsible for building and transforming our technology estate. Working closely with Development and Security you will create functional systems that will improve the experience of millions of customers. Your challenges include building and deploying products, improving ways to monitor and identify production issues, and implementing integrations that meet customer needs. You will be providing experience, guidance, and support to multiple development teams within the UK and across the globe. So if you have a solid background in building modern systems we’d like to meet you.
+
+OUR PRINCIPLES
+
+
+AMBITION - We dream big, try things out and always ask “why not?” and “what if?” We’re ambitious in our thinking and our delivery
+RESPONSIBILITY - We get involved, bring our perspective, and are always open to new ideas. We take personal responsibility
+COMMUNITY - We value a sense of belonging, trusting each other and encouraging authenticity. We contribute to our community
+
+
+Roles & Responsibilities
+
+
+Build, deploy, and run applications in production that are hosted in AWS, VMware, Kubernetes
+Collaborate with development and IT Operations teams to support a continuous
+
+
+delivery model
+
+
+Immediately start to transform and grow our existing platforms and services
+Create systems to enable a self-service development environment
+Demonstrate a high performing 'DevOps' culture
+Deliver zero-downtime deployments and build highly available systems
+
+
+Position Requirements
+
+
+Strong experience with implementing software delivery pipelines.
+Configuration management and IaC. Terraform, Ansible, Puppet, or similar.
+Experience with monitoring systems, Prometheus, ELK, Grafana, Icinga2, APM
+DevOps - Kubernetes, Github, Artifactory, ElasticSearch, Docker, AWS ECS/EKS
+Hosting services - AWS, VMware, etc.
+Understanding of Linux, Windows servers, and networking.
+Excellent communications skills.
+Desirable: experience running large scale web applications and APIs in production
+
+
+Perks & Benefits
+
+
+Competitive Salary & Discretionary Bonus
+23 days annual leave increasing with each year of service (capped at 28 days)
+Paid day off for your Birthday
+4% employer pension contribution
+Discounted Euronet Employee Share Purchase Plan (ESPP)
+Life Cover, Income Protections Scheme & Critical Illness cover
+Healthcare
+Plumm Mental Health and Wellbeing
+Volunteering day for a charity of your choice
+
+
+We want Xe to be a great place to work and to ensure that our communities are represented across our workforce. A vital part of this is ensuring we are a truly inclusive organization that encourages diversity in all respects.
+
+At Xe we are committed to making our recruitment practices barrier-free and as accessible as possible for everyone. This includes making adjustments or changes for disabled people, neurodiverse people or people with long-term health conditions. If you would like us to do anything differently during the application, interview or assessment process, including providing information in an alternative format, please contact us on recruitment@xe.com
+
+The position responsibilities outlined above are intended to define the general contents and requirements to perform this job. It is not to be taken as a complete statement of responsibilities or requirements. This job description does not restrict the Company’s right to assign or reassign duties and responsibilities to this job as needed.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at Xe.com by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Senior DevOps Engineer
+Senior DevOps Engineer
+Rebellion
+Oxford, England, United Kingdom
+6 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Catapult
+London, England, United Kingdom
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Xelix
+London, England, United Kingdom
+2 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Lorum
+London, England, United Kingdom
+3 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Trust In SODA
+London Area, United Kingdom
+£90,000 - £100,000
+4 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Global Relay
+London Area, United Kingdom
+4 days ago
+Show more jobs like this 
+People also viewed
+Senior Platform Engineer
+Senior Platform Engineer
+
+Rainmaker
+
+London Area, United Kingdom
+3 weeks ago
+Principal Cloud DevOps Engineer
+Principal Cloud DevOps Engineer
+
+Entrust
+
+London, England, United Kingdom
+1 month ago
+Lead DevOps Engineer - AWS, Kubernetes, Terraform
+Lead DevOps Engineer - AWS, Kubernetes, Terraform
+
+JPMorganChase
+
+Greater London, England, United Kingdom
+1 week ago
+Senior Cloud Infrastructure Engineer (cloud sandboxes)
+Senior Cloud Infrastructure Engineer (cloud sandboxes)
+
+LocalStack
+
+London, England, United Kingdom
+€42,000 - €90,000
+1 month ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Selby Jennings
+
+London, England, United Kingdom
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Applied Data Science Partners
+
+London Area, United Kingdom
+4 days ago
+Senior DevOps Engineer - Global
+Senior DevOps Engineer - Global
+
+Orix Digi
+
+Harrow, England, United Kingdom
+3 months ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Oliver Bernard
+
+London Area, United Kingdom
+£100,000 - £125,000
+3 weeks ago
+Senior AWS DevOps Engineer
+Senior AWS DevOps Engineer
+
+Netcompany
+
+London, England, United Kingdom
+3 days ago
+DevOps Engineer - AWS & Terraform
+DevOps Engineer - AWS & Terraform
+
+Global Payments Inc.
+
+London, England, United Kingdom
+2 weeks ago
+Similar Searches
+Localization Engineer jobs
+30 open jobs
+Business Development Account Executive jobs
+9,836 open jobs
+Front Office Developer jobs
+21,662 open jobs
+Creative Recruiter jobs
+538 open jobs
+Assistant Software Engineer jobs
+110 open jobs
+Graduate Advisor jobs
+194 open jobs
+Structurer jobs
+251 open jobs
+Head of Internal Control jobs
+1,586 open jobs
+Head of Customer Experience jobs
+2,868 open jobs
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

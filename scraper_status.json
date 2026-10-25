@@ -1,9 +1,9 @@
 {
-  "pid": 10392,
-  "started_at": "2026-10-25T02:13:41+03:00",
-  "heartbeat_at": "2026-10-25T03:26:21+03:00",
-  "phase": "run_finished",
-  "detail": "145 lower-yield targets and 0 jobs left for the next run",
-  "last_scrape_ok_at": "2026-10-25T03:26:12+03:00",
+  "pid": 24320,
+  "started_at": "2026-10-26T01:12:40+02:00",
+  "heartbeat_at": "2026-10-26T01:23:03+02:00",
+  "phase": "reviewing",
+  "detail": "Senior Product Regulatory Compliance Consultant",
+  "last_scrape_ok_at": "2026-10-26T01:20:05+02:00",
   "last_error": null
 }
