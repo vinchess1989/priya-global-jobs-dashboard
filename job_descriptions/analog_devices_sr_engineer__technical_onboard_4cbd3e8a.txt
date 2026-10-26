@@ -1,0 +1,247 @@
+Title: Sr Engineer, Technical Onboarding
+Company: Analog Devices
+Location: Limerick, County Limerick, Ireland
+URL: https://ie.linkedin.com/jobs/view/sr-engineer-technical-onboarding-at-analog-devices-4443622284
+Posted: 2026-10-24
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive background in DevOps, CI/CD, and test infrastructure management, and it is located in Ireland, which is a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Sr Engineer, Technical Onboarding
+Analog Devices  Limerick, County Limerick, Ireland
+3 days ago  31 applicants
+  
+
+See who Analog Devices has hired for this role
+
+Apply 
+Save
+About Analog Devices
+
+Analog Devices, Inc. (NASDAQ: ADI ) is a global semiconductor leader that bridges the physical and digital worlds to enable breakthroughs at the Intelligent Edge. ADI combines analog, digital, and software technologies into solutions that help drive advancements in digitized factories, mobility, and digital healthcare, combat climate change, and reliably connect humans and the world. With revenue of more than $9 billion in FY24 and approximately 24,000 people globally, ADI ensures today's innovators stay Ahead of What's Possible™. Learn more at www.analog.com and on LinkedIn and Twitter (X).
+
+Analog Devices Inc. is looking for a Senior Technical Onboarding Engineer to lead test automation solutions and manage stakeholder relationships within their QSS Test Operations group. The role focuses on integrating and supporting test automation infrastructure and continuous integration systems.
+
+Responsibilities:
+
+
+Gather and define stakeholder Test Automation requirements
+Define project plans for implementing and installing Test Solution application for new and legacy projects
+Identify how to integrate into existing CICD systems or recommend implementation of the QSS standard CICD pipeline to support Test Automation
+Coordinate with other infrastructure teams to design and configure virtual systems for build and test environments
+Troubleshoot issues and solve problems with Test Automation infrastructure, build systems as needed
+Assist with configuring and setting up common relational database environments
+Support training teams on the use of QSS Test Solution frameworks
+Assist with integration of Test Solution applications.
+Administering Linux operating systems
+Support integration of CI test pipelines
+Install and support code coverage tools to capture quality of test automation coverage
+May also include assisting with development of test automation infrastructure
+Serve as a champion for advancing Test Automation best practices and new methodologies within the organization
+
+
+Minimum Qualifications/skills:
+
+
+3 to 5 years of relative experience within software tests with at least 1 of those years in a Project Management related role
+A University master’s degree in computer engineering, Telecommunications Engineering, Electronic Engineering or a related field is required. Candidates with a bachelor’s degree in engineering and equivalent professional experience in the sector will also be considered
+Operations Project Management background
+Background in managing test automation environments
+Experience in software development and testing of code
+Strong expertise in DevOps Agile CI/CD implementation
+Experience with building infrastructure and tools such as GCOV/GCC, Coverity, Git/Bitbucket, Artifactory, Jira, Visual Studios, etc.
+Experience with relational databases, such as SQL or PostgreSQL
+Experience with developing and deploying Github actions
+Experience with maintaining various scripting languages to build software from scratch, test, and deploy it for a specific use case
+Experience with container technologies like Docker
+Experience with Linux and cross-platform development
+Experience with Python and bash scripting
+Experience with C, C++ and Shell Scripting
+Excellent analytical skills
+
+
+Preferred Qualifications:
+
+
+7+ Years of DevOps experience in managing test infrastructure and with 2 of the years in Project Management
+Project Management skills
+Exposure to embedded software product development with test background
+Experience with Agile methodology
+Experience with C#, Python and Java
+Experience with non-relational databases such as MongoDB
+Experience with time series databases, such as InfluxDB
+Experience with visualization tooling, such as Grafana
+Maintenance of Docker/Container clusters
+Knowledge of hybrid cloud environments
+Knowledge of OpenShift and CloudSmith highly desirable
+
+
+For positions requiring access to technical data, Analog Devices, Inc. may have to obtain export licensing approval from the U.S. Department of Commerce - Bureau of Industry and Security and/or the U.S. Department of State - Directorate of Defense Trade Controls. As such, applicants for this position – except US Citizens, US Permanent Residents, and protected individuals as defined by 8 U.S.C. 1324b(a)(3) – may have to go through an export licensing review process.
+
+Analog Devices is an equal opportunity employer. We foster a culture where everyone has an opportunity to succeed regardless of their race, color, religion, age, ancestry, national origin, social or ethnic origin, sex, sexual orientation, gender, gender identity, gender expression, marital status, pregnancy, parental status, disability, medical condition, genetic information, military or veteran status, union membership, and political affiliation, or any other legally protected group.
+
+Job Req Type: Experienced
+
+Required Travel: Yes, 10% of the time
+
+Shift Type: 1st Shift/Days
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Semiconductor Manufacturing
+  
+
+Referrals increase your chances of interviewing at Analog Devices by 2x
+
+See who you know
+
+Get notified about new Senior Technical Engineer jobs in Limerick, County Limerick, Ireland.
+
+Sign in to create job alert
+Similar jobs
+Technical Solutions Engineer
+Technical Solutions Engineer
+Protex AI
+Limerick, County Limerick, Ireland
+5 months ago
+Solutions Engineer - Dublin / US Remote
+Solutions Engineer - Dublin / US Remote
+&Open
+Ireland
+1 month ago
+Client Enablement Senior Analyst
+Client Enablement Senior Analyst
+Fund Recs
+Ireland
+5 days ago
+Forward Deployed Engineer
+Forward Deployed Engineer
+FDE Times
+Limerick Metropolitan Area
+6 days ago
+Customer Solutions Engineer, EMEA
+Customer Solutions Engineer, EMEA
+Abnormal AI
+Ireland
+2 weeks ago
+Developer Success Engineer
+Developer Success Engineer
+LiveKit
+Ireland
+€168,000 - €213,000
+1 week ago
+Show more jobs like this 
+People also viewed
+Senior Curriculum Eng/Technologist
+Senior Curriculum Eng/Technologist
+
+MongoDB
+
+Ireland
+2 days ago
+Implementation Consultant
+Implementation Consultant
+
+ProcessUnity
+
+Ireland
+2 weeks ago
+Internal Context Engineer
+Internal Context Engineer
+
+n8n
+
+Ireland
+1 week ago
+Tech Training Specialist (Assoc - Sr.)
+Tech Training Specialist (Assoc - Sr.)
+
+Regeneron
+
+Limerick, County Limerick, Ireland
+2 weeks ago
+Technical Project Manager
+Technical Project Manager
+
+Archer Recruitment
+
+Limerick, County Limerick, Ireland
+€60,000 - €80,000
+1 week ago
+Enterprise Application Support Engineer
+Enterprise Application Support Engineer
+
+Datavant Ireland
+
+Galway, County Galway, Ireland
+1 week ago
+Senior Technical Account Manager (EMEA)
+Senior Technical Account Manager (EMEA)
+
+Docker, Inc
+
+Ireland
+1 week ago
+Senior Qual Support Engineer
+Senior Qual Support Engineer
+
+Analog Devices
+
+Limerick, County Limerick, Ireland
+2 days ago
+Applications Engineer
+Applications Engineer
+
+onsemi
+
+Limerick, County Limerick, Ireland
+1 week ago
+Senior Commissioning & Qualification Engineer
+Senior Commissioning & Qualification Engineer
+
+CAI
+
+Limerick, County Limerick, Ireland
+4 hours ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
