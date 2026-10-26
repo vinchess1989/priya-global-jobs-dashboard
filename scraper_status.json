@@ -1,9 +1,9 @@
 {
   "pid": 38492,
   "started_at": "2026-10-27T01:12:47+02:00",
-  "heartbeat_at": "2026-10-27T01:48:32+02:00",
+  "heartbeat_at": "2026-10-27T01:51:15+02:00",
   "phase": "reviewing",
-  "detail": "File Release Officer",
-  "last_scrape_ok_at": "2026-10-27T01:45:47+02:00",
+  "detail": "PV Analyst(SJ-IQ)",
+  "last_scrape_ok_at": "2026-10-27T01:49:37+02:00",
   "last_error": null
 }
