@@ -1,0 +1,279 @@
+Title: Technical Business Analyst
+Company: MetLife Australia
+Location: Sydney, New South Wales, Australia
+URL: https://au.linkedin.com/jobs/view/technical-business-analyst-at-metlife-australia-4471270227
+Posted: 2026-10-20
+Deadline: N/A
+Reason: The role aligns with her experience in requirements traceability, documentation, and quality gatekeeping within a regulated environment, and it is located in an eligible country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Technical Business Analyst
+MetLife Australia  Sydney, New South Wales, Australia
+6 days ago   Over 200 applicants
+  
+
+See who MetLife Australia has hired for this role
+
+Apply 
+Save
+
+The Technical Business Analyst is 12-month contract responsible for connecting business, data and technology teams to support the delivery of data platforms, data products and reporting solutions across MetLife Australia’s Data & Analytics function.
+
+Guided by our purpose, always with you, building a more confident future, and our New Frontier strategy focused on stronger growth, attractive returns and all-weather performance, this role will contribute to advancing MetLife Australia’s Data Foundations and enabling us to become a more digital, AI-enabled and data-driven insurer.
+
+You will translate stakeholder needs into clear and testable requirements, manage delivery backlogs and maintain strong traceability from business needs through to delivered outcomes. Working closely with architecture, engineering, testing, product and business teams, you will support reliable data flows, data quality, reporting, user acceptance testing and change readiness in a regulated financial services environment.
+
+This role is based in Sydney and offers flexible working arrangements, with an expectation of working in the office at least two days per week and as required based on business needs. It reports to the Enterprise Data Architect and has no direct reports.
+
+
+
+
+Key Responsibilities
+
+Partner with business product owners, Data & Analytics leaders, architects, engineers, testing teams and business stakeholders to understand business needs, delivery priorities, data impacts and success measures.
+Lead and support requirements elicitation for strategic data, analytics, reporting and platform initiatives that advance MetLife Australia’s Data Foundations and broader digital objectives.
+Translate business and technical needs into clear user stories, use cases, functional and non-functional requirements, process maps, data mapping artefacts, acceptance criteria and definitions of ready and done.
+Facilitate workshops, interviews and documentation reviews to identify stated and unstated requirements, business processes, data impacts, reporting needs, dependencies and acceptance criteria.
+Manage and prioritise delivery backlogs, maintaining traceability between business outcomes, requirements, user stories, testing evidence and delivered functionality.
+Assess the impact of changes on data and reporting products, considering downstream dependencies, data quality, metadata, lineage and access requirements.
+Partner with engineering, architecture, quality assurance and business stakeholders to define user acceptance testing requirements and support UAT planning, execution, defect resolution, retesting and acceptance.
+Maintain accurate, current and version-controlled requirements, process, technical and data product documentation across agreed systems and repositories.
+Support production data flows, reporting products and platform processes by triaging business queries, clarifying requirements, raising defects and coordinating resolution across internal teams, vendors and technology partners.
+Support production readiness by ensuring operational documentation, support procedures, known issues, service impacts and business communications are prepared before implementation.
+Identify and escalate delivery risks, data risks, control gaps, defects, dependencies and unresolved decisions, providing clear options and recommended next steps.
+Contribute to data governance, data quality, metadata, privacy, information security and risk initiatives, ensuring delivery artefacts support auditability, traceability and regulatory compliance.
+Use approved AI and automation tools, including Microsoft Copilot where appropriate, to improve the efficiency and quality of requirements analysis, documentation, meeting summaries, process mapping and knowledge management.
+Identify opportunities to reduce manual effort and strengthen delivery quality through automation, reusable artefacts, templates and improved ways of working.
+Model responsible AI use by maintaining transparency, appropriate data handling, human oversight and alignment with organisational AI, data and security policies.
+
+
+
+
+Required Qualifications
+
+Bachelor’s degree or equivalent practical experience in Business Analysis, Information Systems, Data, Technology, Computer Science, Commerce, Finance or a related discipline.
+Proven experience as a Technical Business Analyst, ideally supporting data, analytics, reporting, technology platforms or financial services technology.
+Strong understanding of data, reporting, analytics and business intelligence concepts.
+Experience eliciting, documenting and managing business, functional, non-functional and data requirements across Agile and waterfall delivery environments.
+Demonstrated ability to produce high-quality user stories, acceptance criteria, process maps, data mapping artefacts, requirements traceability matrices and delivery documentation.
+Strong SQL knowledge and data analysis capability to support requirements validation, issue investigation and the delivery of data and reporting products.
+Strong understanding of data modelling concepts, including dimensional modelling, star schemas, source data, curated datasets and reporting products.
+Experience supporting data platforms, data warehouses, reporting, analytics or dashboard delivery.
+Experience supporting UAT planning and execution, including test scenarios, test data requirements, defect triage, retesting and acceptance evidence.
+Demonstrated ability to collaborate with business stakeholders, product owners, data engineers, architects, testers and operational teams to manage scope, dependencies, risks, issues and delivery trade-offs.
+Strong stakeholder engagement, workshop facilitation, written communication and expectation management skills.
+Strong analytical thinking, problem-solving and attention to detail, with the ability to work through ambiguity and uncover unstated requirements.
+Proficiency in using digital and AI-enabled productivity tools to support analysis, documentation, collaboration and workplace efficiency, with a commitment to responsible and ethical use.
+
+
+
+
+Preferred Qualifications
+
+Relevant certification or professional training in business analysis, Agile delivery, product ownership, data analysis, project delivery or a related discipline.
+Experience working with Snowflake, Tableau, Azure DevOps or comparable data, reporting and delivery tools.
+Experience supporting business impact assessments, change communications, training documentation, operational handovers and post-implementation reviews.
+Understanding of data governance, privacy, information security, data risk and auditability requirements in a regulated environment.
+Experience in life insurance, banking, wealth, superannuation or broader financial services.
+Experience working with external delivery vendors, platform partners or implementation partners.
+
+
+
+
+Benefits We Offer
+
+When you join MetLife Australia, you are joining a company that demonstrates holistic care and wellbeing for employees with benefits and programs that address physical, mental, social and financial health. We offer life insurance benefits, generous paid parental leave, market leading menopause and fertility leave, car leasing and more. As well as Employee Assistance Program (EAP), access to 360Health medical support, volunteer leave and study assistance.
+
+
+
+
+About MetLife
+
+Recognised on Fortune magazine's list of the "World's Most Admired Companies", Fortune World’s 25 Best Workplaces™, as well as the Diversity Council of Australia Inclusive Employer Award, MetLife, through its subsidiaries and affiliates, is one of the world’s leading financial services companies; providing insurance, annuities, employee benefits and asset management to individual and institutional customers. With operations in more than 40 markets, we hold leading positions in the United States, Latin America, Asia, Europe, and the Middle East.
+
+As part of our New Frontier strategy, MetLife is building an AI-enabled, people-centered future. We’re looking for people who bring curiosity, adaptability, and a growth mindset as we use AI to enhance how we serve customers, support communities, and evolve the way work gets done. At MetLife, AI is a responsible partner that supports human judgment, creativity, and continuous improvement while helping us build trust, inclusion, and long-term value.
+
+Our purpose is simple - to help our colleagues, customers, communities, and the world at large create a more confident future. United by purpose and guided by our core values - Win Together, Do the Right Thing, Deliver Impact Over Activity, and Think Ahead - we’re inspired to transform the next century in financial services. At MetLife, it’s #AllTogetherPossible . Join us!
+
+Show more 
+Seniority level
+Entry level
+Employment type
+Full-time
+Industries
+Insurance
+  
+
+Referrals increase your chances of interviewing at MetLife Australia by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Technical Business Analyst
+Technical Business Analyst
+Macquarie Group
+Sydney, New South Wales, Australia
+1 day ago
+Technical Business Analyst
+Technical Business Analyst
+Transport for NSW
+Parramatta, New South Wales, Australia
+1 week ago
+Technical Business Analyst
+Technical Business Analyst
+Transport for NSW
+Burwood, New South Wales, Australia
+4 days ago
+Technical Business Analyst
+Technical Business Analyst
+Embrava
+Sydney, New South Wales, Australia
+A$85,000 - A$110,000
+4 days ago
+Business Analyst - Agile, Scrum
+Business Analyst - Agile, Scrum
+Infosys
+Greater Sydney Area
+3 weeks ago
+Business Analyst
+Business Analyst
+Smartgroup
+Sydney, New South Wales, Australia
+1 week ago
+Show more jobs like this 
+People also viewed
+Banking Business Analyst
+Banking Business Analyst
+
+Tech Mahindra
+
+Greater Sydney Area
+3 days ago
+Business Analyst
+Business Analyst
+
+TAL Australia
+
+Sydney, New South Wales, Australia
+2 hours ago
+Business Analyst
+Business Analyst
+
+Hatch
+
+Sydney, New South Wales, Australia
+2 weeks ago
+Business Analyst
+Business Analyst
+
+Fujitsu
+
+Sydney, New South Wales, Australia
+1 month ago
+Technical Business Analyst - Compliance
+Technical Business Analyst - Compliance
+
+Susquehanna International Group
+
+Sydney, New South Wales, Australia
+2 weeks ago
+Business Analyst
+Business Analyst
+
+DBiz.ai
+
+Sydney, New South Wales, Australia
+1 week ago
+Senior Business Systems Analyst
+Senior Business Systems Analyst
+
+Medibank
+
+Sydney, New South Wales, Australia
+1 week ago
+Business Analyst - Agentic Engineering
+Business Analyst - Agentic Engineering
+
+Nimbly
+
+Sydney, New South Wales, Australia
+2 weeks ago
+Senior Tech BA
+Senior Tech BA
+
+ASX
+
+Sydney, New South Wales, Australia
+6 days ago
+Technical Business Analyst / IT Security
+Technical Business Analyst / IT Security
+
+Woolworths Group
+
+Sydney, New South Wales, Australia
+1 month ago
+Similar Searches
+Senior Technical Business Analyst jobs
+250 open jobs
+Configuration Engineer jobs
+4,566 open jobs
+Business Analyst jobs
+3,468 open jobs
+Quality Assurance Test Analyst jobs
+197 open jobs
+Senior Data Consultant jobs
+1,005 open jobs
+Information Technology Business Analyst jobs
+86 open jobs
+Digital Engineer jobs
+4,974 open jobs
+Product Consultant jobs
+1,875 open jobs
+Junior System Administrator jobs
+536 open jobs
+Technical Analyst jobs
+6,416 open jobs
+Software Team Lead jobs
+2,338 open jobs
+Solutions Analyst jobs
+2,092 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at MetLife Australia
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
