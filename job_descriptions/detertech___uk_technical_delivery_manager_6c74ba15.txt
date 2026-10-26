@@ -1,0 +1,312 @@
+Title: Technical Delivery Manager
+Company: DeterTech | UK
+Location: Telford, England, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/technical-delivery-manager-at-detertech-uk-4483521236
+Posted: 2026-10-06
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in release management, CI/CD, and cross-team coordination within a technical environment, and it is based in the UK.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Technical Delivery Manager
+DeterTech | UK  Telford, England, United Kingdom
+3 weeks ago   Be among the first 25 applicants
+  
+
+See who DeterTech | UK has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+DeterTech | UK provided pay range
+
+This range is provided by DeterTech | UK. Your actual pay will be based on your skills and experience — talk with your recruiter to learn more.
+
+Base pay range
+£65,000.00/yr - £75,000.00/yr
+
+Department: IT
+
+Location: UK
+
+Compensation: £65,000 - £75,000 / year
+
+
+
+Description
+
+DeterTech's purpose is giving greater peace of mind to people and communities, every day - and for our customers, that promise depends on our software and platform ecosystems running reliably and predictably. The Technical Delivery Manager is responsible for coordinating the end-to-end delivery of technology initiatives across our core Alarm Receiving Centre (ARC) software, customer portal (DTCommand), native mobile applications (iOS & Android), and dedicated Crime Intelligence and operational reporting solutions.
+
+Stepping into a dedicated technical delivery role within our ARC development team, you will take over from an outgoing contractor to establish structured delivery coordination and release governance. Working in close partnership with the Head of Product and the Lead developer, you will manage the technical delivery and release cycle of our ARC and DTCommand customer portal, turning product roadmap items and customer enhancements into predictable development tasks and dependable releases.
+
+Our core ARC software and DTCommand customer portal are developed in-house on an AWS cloud stack using modern PHP/Laravel backends and custom REST APIs—serving simultaneously as our primary customer-facing product and our central internal operational engine. By taking full ownership of day-to-day delivery tracking, sprint planning, dependency management, and blocker removal, you will free the ARC Team Lead to focus on core system architecture, code reviews, and deep technical direction. Crucially, you will act as the direct counterpart to the Salesforce & MuleSoft Technical Delivery Manager, aligning releases, interface contracts, and shared test environments across our interconnected business systems (Salesforce, MuleSoft, Finance and Manufacturing).
+
+This is a remote role, although we value regular face-to-face collaboration. We would ideally like someone who can attend our Telford office around once a week if based locally, or a couple of office visits per month for those based further afield.
+
+
+Key Responsibilities
+
+1. Agile delivery management, sprint execution and workflow coordination
+
+
+Coordinate end-to-end technical delivery across cloud applications, our ARC platform, customer portal, customer mobile applications, and specialized Crime Intelligence and reporting platforms.
+Track full SDLC execution—from discovery and technical scoping through to UAT, release, and operational BAU handover.
+Maintain regular team delivery meetings across backlog refinement, sprint planning, daily stand-ups, retrospectives, and release planning.
+Implement clear, lightweight Agile ways of working using modern tooling (Linear for sprint/issue management and ProdPad for roadmap alignment), keeping backlogs tidy, estimates realistic, and sprint delivery dependable.
+Track workload, sprint commitments, and delivery dependencies across our team of Full Stack Developers and specialist developers (DevOps, IoT, Mobile, and Reporting).
+Manage delivery dependencies and risks using clear, pragmatic RAID (Risks, Assumptions, Issues, Dependencies) and responsibility matrices (RACI).
+Coordinate structured defect triage routines post-release to ensure bug fixes are resolved promptly without disrupting planned sprint commitments.
+
+2. Cross-system counterpart collaboration and stakeholder alignment
+
+
+Act as a clear, grounded technical bridge between developers and non-technical stakeholders, ensuring delivered solutions match business expectations.
+Partner hand-in-hand with the Head of Product on the continuous delivery of DTCommand, translating product roadmaps, commercial priorities, and feature requests into realistic technical delivery milestones.
+Work with business unit leads and operational stakeholders to track delivery schedules and align release timings.
+Provide transparent reporting on delivery progress, pace, risks, and milestone completion.
+Work hand-in-hand with your direct counterpart, the Salesforce & MuleSoft Technical Delivery Manager, to schedule joint releases, manage shared API dependencies, and coordinate end-to-end test environments.
+Maintain regular alignment with the Group IT Director to ensure delivery schedules support overarching IT plans and business timelines.
+Partner with operational and business stakeholders
+
+3. Technical release governance, AWS infrastructure and quality oversight
+
+
+Coordinate release management practices, working alongside engineering teams to support CI/CD pipelines, automated testing, and environment provisioning.
+Ensure adherence to cybersecurity standards, regulatory compliance (GDPR, ISO, alarm industry standards), and data protection rules across release workflows.
+Coordinate delivery for specialist software workstreams:
+
+
+DTCommand & Portal Delivery: Coordinating regular releases for authenticated client portals, user administration tools, and customer dashboards.
+Reporting & Crime Intelligence: Tracking the delivery and continuous improvement of operational reporting engines, analytics dashboards, and automated threat intelligence data feeds.
+MuleSoft Integration Layer: Aligning custom ARC APIs with MuleSoft data pipelines connecting Salesforce, Finance and Manufacturing business systems.
+IoT & Alarm Signalling: Scheduling software updates that interface with alarm signalling hardware, sensors, and protocols (SIA, IP).
+Mobile App Delivery: Managing release schedules and deployment pipelines for native apps across the Apple App Store and Google Play Store.
+Collaborate with the DevOps Laravel Engineer and external AWS partners to plan infrastructure-as-code and CI/CD pipeline milestones.
+Ensure pre-release performance and queue testing gates are scheduled to prevent image-loading bottlenecks or monitoring delays during high-volume event spikes.
+Coordinate with third-party Out-of-Hours (OOH) support providers to keep operational runbooks and escalation paths up to date for overnight triage.
+
+4. Delivery improvement and process facilitation
+
+
+Continuously refine delivery workflows, actively working to remove bottlenecks, reduce cycle times, and minimise delivery friction.
+Facilitate Agile delivery practices across the team to maintain realistic expectations and clear sprint transparency.
+Facilitate blameless post-release reviews following deployment issues to identify root causes and avoid recurrence.
+Maintain an organised, predictable delivery environment where developers can focus on writing quality code without administrative distraction.
+
+
+Skills, Knowledge & Expertise
+
+
+Proven technical delivery management or technical project coordination experience, managing complex software delivery and cloud applications.
+Sufficiently technical to understand modern web stacks, cloud environments, and REST APIs, enabling you to challenge estimates and discuss technical blockers intelligently with developers.
+Practical experience establishing delivery cadence, backlog hygiene, and realistic sprint commitments.
+Strong risk, blocker, and dependency tracking experience using RAID and RACI frameworks.
+Clear, transparent communication skills, with a track record of translating technical blockers and delivery timelines into grounded updates for operational stakeholders.
+Demonstrated experience working closely with Product Managers/Product Owners to coordinate the delivery of customer-facing web platforms and SaaS/portal products.
+Experience tracking software delivery within a custom PHP/Laravel, modern JavaScript, or cloud application environment.
+Hands-on expertise driving sprint execution and backlog prioritisation using appropriate tools (such as Linear, Jira).
+Experience coordinating delivery across projects that connect bespoke web applications to enterprise platforms (such as Salesforce or ERP/finance systems).
+Familiarity with modern deployment pipelines (CI/CD), version control (Git), and containerised cloud architectures (AWS).
+
+Desirable
+
+
+Agile delivery certifications (e.g., Scrum Master CSM/PSM, AgilePM) or delivery management credentials.
+Experience coordinating the development and delivery of business intelligence, data reporting software solutions.
+Exposure to mobile application release schedules (Apple App Store / Google Play Store) or NativePHP.
+Experience working in high-availability, real-time, or safety-critical software environments (e.g., IoT, telematics, Alarm Receiving Centres, or security operations).
+Familiarity with cloud infrastructure, messaging protocols, and databases (such as AWS EC2, ECS, Lambda, RDS, or MQTT).
+Experience coordinating releases that integrate with ERP or manufacturing platforms or finance systems.
+
+We are committed to creating an inclusive recruitment process. If you require any reasonable adjustments at any stage of the recruitment process, please let us know and we will be happy to support you.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Security Systems Services
+  
+
+Referrals increase your chances of interviewing at DeterTech | UK by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Technical Project Engineer jobs
+Technical Delivery Manager
+Similar jobs
+Project Technical Delivery Manager
+Project Technical Delivery Manager
+NVIDIA
+United Kingdom
+4 days ago
+Engineering Manager
+Engineering Manager
+SearchApi
+United Kingdom
+4 months ago
+Project Manager
+Project Manager
+TwinStream
+United Kingdom
+£75,000 - £90,000
+3 weeks ago
+Delivery Manager
+Delivery Manager
+Inara
+United Kingdom
+£70,000 - £75,000
+5 days ago
+Senior Technical Programme Manager
+Senior Technical Programme Manager
+Tracsis
+United Kingdom
+5 hours ago
+Senior Delivery Manager
+Senior Delivery Manager
+Cytora
+United Kingdom
+3 weeks ago
+Show more jobs like this 
+People also viewed
+Program Manager
+Program Manager
+
+Kinaxis
+
+United Kingdom
+1 day ago
+Agile Delivery Lead
+Agile Delivery Lead
+
+Giacom
+
+United Kingdom
+4 days ago
+Senior Program Manager, Enterprise Technology and AI
+Senior Program Manager, Enterprise Technology and AI
+
+GitLab
+
+United Kingdom
+3 days ago
+Senior Project Manager
+Senior Project Manager
+
+GTT
+
+United Kingdom
+5 days ago
+Delivery Manager
+Delivery Manager
+
+Lumenalta
+
+United Kingdom
+12 hours ago
+Sr. Project Manager, Platform Professional Services (Remote, GBR)
+Sr. Project Manager, Platform Professional Services (Remote, GBR)
+
+CrowdStrike
+
+United Kingdom
+1 week ago
+Engineering Manager
+Engineering Manager
+
+Runtime
+
+United Kingdom
+£115,000 - £150,000
+1 week ago
+Senior Technical Program Manager, Data Centers Delivery
+Senior Technical Program Manager, Data Centers Delivery
+
+Iron Mountain
+
+England, United Kingdom
+1 month ago
+Technical Program Manager, AI- International
+Technical Program Manager, AI- International
+
+7sg, Inc.
+
+United Kingdom
+1 month ago
+Customer Program Manager
+Customer Program Manager
+
+Philips
+
+United Kingdom
+2 weeks ago
+Similar Searches
+Technical Project Engineer jobs
+2,834 open jobs
+Senior Technical Project Manager jobs
+2,810 open jobs
+Project Planning Engineer jobs
+625 open jobs
+Production Technologist jobs
+87 open jobs
+Mechanical System Engineer jobs
+4,192 open jobs
+Failure Analysis Engineer jobs
+2,046 open jobs
+Technical Program Manager jobs
+1,108 open jobs
+Escalation Engineer jobs
+2,836 open jobs
+Technology Project Manager jobs
+2,496 open jobs
+Customer Service Project Manager jobs
+3,376 open jobs
+Security Risk Manager jobs
+741 open jobs
+Networking Manager jobs
+10,651 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

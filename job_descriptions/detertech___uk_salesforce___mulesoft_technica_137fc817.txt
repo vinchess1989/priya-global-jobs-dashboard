@@ -1,0 +1,335 @@
+Title: Salesforce & MuleSoft Technical Delivery Manager
+Company: DeterTech | UK
+Location: Telford, England, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/salesforce-mulesoft-technical-delivery-manager-at-detertech-uk-4483518300
+Posted: 2026-10-06
+Deadline: Open until filled
+Reason: This technical delivery management role strongly aligns with her configuration management, release management, and Salesforce platform background, located in the UK with visa sponsorship assumed since none is restricted.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Salesforce & MuleSoft Technical Delivery Manager
+DeterTech | UK  Telford, England, United Kingdom
+3 weeks ago   Be among the first 25 applicants
+  
+
+See who DeterTech | UK has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+DeterTech | UK provided pay range
+
+This range is provided by DeterTech | UK. Your actual pay will be based on your skills and experience — talk with your recruiter to learn more.
+
+Base pay range
+£75,000.00/yr - £85,000.00/yr
+
+Department: IT
+
+Location: UK
+
+Compensation: £75,000 - £85,000 / year
+
+
+
+Description
+
+DeterTech's purpose is giving greater peace of mind to people and communities, every day – and that depends on Salesforce and integration changes landing smoothly and reliably. This role owns the technical delivery plan for the Salesforce & MuleSoft team and coordinates the team to execute it, turning priorities into realistic plans, and plans into delivered work.
+
+Working closely with the Salesforce & MuleSoft Manager and the Salesforce Technical Lead, you'll bring the structure, coordination and technical credibility needed to keep a growing team delivering predictably and safely. You will act as the direct counterpart to the ARC Technical Delivery Manager, orchestrating cross-system releases, API dependencies, and environment synchronisation between our in-house Alarm Receiving Centre (ARC/DTCommand) software ecosystem and our core business systems (Salesforce Sales Cloud, Marketing Cloud Next, Service Cloud, Field Service, MuleSoft, Finance and Manufacturing systems).
+
+This is a remote role, although we value regular face-to-face collaboration. We would ideally like someone who can attend our Telford office around once a week if based locally, or a couple of office visits per month for those based further afield.
+
+Key Responsibilities
+
+1. Delivery planning and coordination
+
+
+• Create and maintain realistic technical delivery plans, dependencies and milestones across Salesforce and integration workstreams.
+
+• Coordinate resource and workload across technical specialists, including administrators, analysts and integration specialists.
+
+• Facilitate delivery ceremonies (planning, stand-ups, reviews, sprint retrospectives, and backlog refinement) appropriate to the team's ways of working.
+
+• Implement lean, modern Agile execution frameworks (e.g., Jira, Azure DevOps, Linear), driving sprint cadence, backlog hygiene, estimation accuracy, and predictable sprint delivery.
+
+• Work closely with the Salesforce Lead and Solution Analyst to ensure user stories have clear acceptance criteria and are properly prepared before entering active sprints.
+
+
+2. Risk and dependency management
+
+
+• Own RAID (risks, assumptions, issues, dependencies) and responsibility matrices (RACI) tracking for Salesforce/MuleSoft delivery.
+
+• Proactively identify and resolve blockers, escalating early and clearly where needed.
+
+• Work hand-in-hand with the ARC Technical Delivery Manager to manage shared release dependencies, keeping ARC platform updates, mobile app releases, MuleSoft APIs, and Salesforce changes aligned.
+
+• Report delivery status clearly and honestly to the Salesforce & MuleSoft Manager and wider stakeholders.
+
+• Keep capacity and delivery plans aligned by working closely with the Salesforce & MuleSoft Manager.
+
+• Provide clear, open progress updates to commercial and operational teams, including Sales, Customer Success, Field Operations, and Finance.
+
+
+3. Technical oversight of delivery
+
+
+• Maintain enough technical understanding of Salesforce development/release lifecycles and integration delivery to challenge estimates and facilitate technical decisions, rather than purely project-managing.
+
+• Work with the Salesforce Technical Lead and Integration Lead to sequence work sensibly across the team.
+
+• Support sound release management and deployment governance.
+
+• Oversee deployment pipelines, environment branching, and sandboxes using modern Salesforce release tools (such as Copado / Copado AI) to ensure releases are smooth, traceable, and repeatable.
+
+• Partner closely with the QA / Test Analyst to establish structured testing checkpoints (unit, regression, integration, and user acceptance) to catch defects early and protect live business systems.
+
+• Ensure every release follows company change control, data protection (GDPR), and information security standards.
+
+
+4. Practical delivery improvements
+
+
+• Regularly review how the team delivers, finding practical ways to remove bottlenecks, cut down deployment delays, and reduce bugs after release.
+
+• Lead post-release reviews after deployment issues to identify root causes and stop the same problems happening again.
+
+• Encourage a collaborative, supportive team environment where technical quality is valued and delivery expectations are realistic.
+
+
+5. Stakeholder communication
+
+
+• Report delivery status clearly and honestly to the Salesforce & MuleSoft Manager and wider stakeholders.
+
+• Keep capacity and delivery plans aligned by working closely with the Salesforce & MuleSoft Manager.
+
+
+Skills, Knowledge & Expertise
+
+• Proven technical delivery management experience, ideally across Salesforce or integration programmes.
+
+• Able to create and maintain realistic technical delivery plans, dependencies and milestones.
+
+• Strong understanding of Salesforce development/release lifecycles and integration delivery.
+
+• Experience coordinating resource and workload across technical specialists.
+
+• Risk, dependency, blocker and RAID/RACI management experience.
+
+• Sufficiently technical to challenge estimates, understand dependencies and facilitate technical decisions rather than purely project-manage.
+
+• Experience coordinating delivery across projects that connect Salesforce (Sales, Service, or Field Service) through middleware (MuleSoft) to back-office systems.
+
+• Practical understanding of modern release tools, version control (Git), and deployment pipelines (such as Copado, Copado AI, or Azure DevOps).
+
+• Hands-on experience running Agile/Scrum meetings and managing team backlogs.
+
+
+Desirable
+
+
+• Experience with MuleSoft or a similar integration platform's delivery lifecycle.
+
+• Agile/Scrum delivery experience or recognised project/delivery credentials (e.g. Scrum Master CSM/PSM, AgilePM).
+
+• Experience guiding testing scope and collaborating closely with a QA / Test Analyst within a delivery lifecycle.
+
+• Experience working in technology, security, field operations, or IoT environments.
+
+We are committed to creating an inclusive recruitment process. If you require any reasonable adjustments at any stage of the recruitment process, please let us know and we will be happy to support you.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Security Systems Services
+  
+
+Referrals increase your chances of interviewing at DeterTech | UK by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Technical Project Engineer jobs
+Salesforce & MuleSoft Technical Delivery Manager
+Similar jobs
+Salesforce Engineering Manager (UK)
+Salesforce Engineering Manager (UK)
+Flosum
+United Kingdom
+1 month ago
+Director of Software Engineering (UK)
+Director of Software Engineering (UK)
+Flosum
+United Kingdom
+5 months ago
+Head of Salesforce
+Head of Salesforce
+TECHOHANA
+United Kingdom
+£75,000 - £90,000
+3 weeks ago
+Technical Delivery Manager
+Technical Delivery Manager
+DeterTech | UK
+Telford, England, United Kingdom
+£65,000 - £75,000
+3 weeks ago
+Enterprise Systems Manager
+Enterprise Systems Manager
+Prescient
+United Kingdom
+3 weeks ago
+Senior Software Delivery Manager
+Senior Software Delivery Manager
+PureGym
+United Kingdom
+1 week ago
+Show more jobs like this 
+People also viewed
+Technical Delivery Associate Director - Public Sector
+Technical Delivery Associate Director - Public Sector
+
+PRIMA Partners Global
+
+England, United Kingdom
+3 weeks ago
+Senior Delivery Manager
+Senior Delivery Manager
+
+Cytora
+
+United Kingdom
+3 weeks ago
+Engineering Manager
+Engineering Manager
+
+Kooth Digital Health
+
+United Kingdom
+£10,000 - £110,000
+3 weeks ago
+Manager, Software Engineering (UK Remote)
+Manager, Software Engineering (UK Remote)
+
+Turnitin
+
+Birmingham, England, United Kingdom
+1 week ago
+Head of Technology
+Head of Technology
+
+Go10 Limited
+
+United Kingdom
+2 weeks ago
+Senior Director Corporate Applications
+Senior Director Corporate Applications
+
+IRIS Software Group
+
+England, United Kingdom
+1 month ago
+Sr Technical Product Manager-UK
+Sr Technical Product Manager-UK
+
+Certinia
+
+United Kingdom
+1 week ago
+Manager, Engineering - Identity
+Manager, Engineering - Identity
+
+Camunda
+
+United Kingdom
+2 weeks ago
+Business Systems & Operations Lead
+Business Systems & Operations Lead
+
+Sandvik
+
+Halesowen, England, United Kingdom
+11 hours ago
+Project Manager
+Project Manager
+
+TwinStream
+
+United Kingdom
+£75,000 - £90,000
+3 weeks ago
+Similar Searches
+Technical Project Engineer jobs
+2,834 open jobs
+Senior Technical Project Manager jobs
+2,810 open jobs
+Project Planning Engineer jobs
+625 open jobs
+Production Technologist jobs
+87 open jobs
+Mechanical System Engineer jobs
+4,192 open jobs
+Failure Analysis Engineer jobs
+2,046 open jobs
+Technical Program Manager jobs
+1,108 open jobs
+Escalation Engineer jobs
+2,836 open jobs
+Technology Project Manager jobs
+2,496 open jobs
+Customer Service Project Manager jobs
+3,376 open jobs
+Security Risk Manager jobs
+741 open jobs
+Networking Manager jobs
+10,651 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
