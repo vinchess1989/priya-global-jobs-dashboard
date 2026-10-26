@@ -1,0 +1,297 @@
+Title: Software Quality Assurance Analyst
+Company: Pedros
+Location: Durban, KwaZulu-Natal, South Africa
+URL: https://za.linkedin.com/jobs/view/software-quality-assurance-analyst-at-pedros-4483513428
+Posted: 2026-10-20
+Deadline: Open until filled
+Reason: This role matches her background in software quality assurance, release readiness, and requirements traceability within one of her target countries (South Africa).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Software Quality Assurance Analyst
+Pedros  Durban, KwaZulu-Natal, South Africa
+1 week ago   Be among the first 25 applicants
+  
+
+See who Pedros has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+The Software Quality Assurance Analyst is Pedros’ internal software-quality specialist, responsible for establishing and executing structured, independent quality assurance and testing practices across the Group’s technology and digital transformation projects. The role ensures that software applications, integrations, workflows, reports and digital solutions meet approved business requirements, operate reliably across interconnected systems and are sufficiently stable for implementation.
+
+Reporting to the Group Project Manager, the role works closely with project managers, business analysts, developers, vendors and business stakeholders to identify quality risks, develop test strategies, execute testing, manage defects and support User Acceptance Testing. It supports web and mobile applications, internally developed systems, vendor solutions, Microsoft Power Platform applications, POS integrations, transactional platforms, reporting solutions and operational systems across Pedros and its associated brands.
+
+The role establishes consistent QA standards, templates, quality gates and reporting, giving project teams and decision-makers clear visibility of test coverage, open defects, quality risks and release readiness before systems are implemented.
+
+Responsibilities
+
+Test Execution, Integration & Transactional Testing
+
+
+Execute manual functional, system, integration, end-to-end, regression, smoke, sanity, usability and compatibility testing across relevant browsers, devices, operating systems and user roles
+Test integrations between internal systems, vendor platforms, APIs, POS systems, payment services, databases, Microsoft 365 services and reporting platforms
+Validate successful and unsuccessful transaction paths (error handling, retries, timeouts, cancellations, duplicates), data synchronisation and reconciliation outputs, with particular focus on financial, voucher, payment and loyalty flows.
+Record test results with supporting evidence and perform exploratory testing to identify issues not covered by predefined test cases.
+
+
+Quality Assurance Strategy, Planning & Standards
+
+
+Develop and maintain test strategies, test plans and schedules, defining scope, test types, environments, dependencies, risks and entry and exit criteria for each testing cycle
+Apply risk-based testing principles to prioritise high-impact business processes, financial transactions, security controls, integrations and customer-facing functionality
+Estimate testing effort and provide realistic input into project plans, sprint plans and release schedules.
+
+
+Requirements Review & Test Design
+
+
+Review requirements, user stories, process maps, business rules and acceptance criteria to confirm they are clear, complete, consistent and testable
+Identify gaps, ambiguities, edge cases, control weaknesses and quality risks before development is completed, working with the Business Analyst and Project Manager to resolve them
+Design and maintain test scenarios, test cases, scripts, checklists and test-data requirements covering positive, negative, boundary, exception and end-to-end scenarios.
+Link test cases to the relevant requirements, user stories or acceptance criteria to maintain traceability.
+
+
+Defect Management
+
+
+Log defects with clear reproduction steps, expected and actual results, evidence, environment details and business impact
+Classify defects according to agreed severity and priority definitions
+Facilitate defect-triage sessions with developers, business analysts, project managers, vendors and business representatives.
+Track defects through investigation, resolution, retesting and closure, identifying whether defects originate within an application or at an integration boundary.
+
+
+UAT Support & Release Readiness
+
+
+Work with the Business Analyst, Project Manager and business stakeholders to prepare the UAT approach and business-focused UAT scenarios
+Confirm UAT environment, user access and test data readiness, and brief business testers on the UAT process and defect-logging requirements
+Support users during execution and help distinguish defects from requirement changes, training needs, configuration issues or enhancement requests.
+Track UAT progress, defects, decisions and sign-offs, and provide evidence-based release-readiness recommendations, ensuring outstanding defects and accepted risks are communicated before business approval.
+
+
+Regression Testing
+
+
+Develop and maintain regression packs for business-critical applications and recurring release cycles
+Identify existing functionality that may be affected by new development, configuration changes or defect corrections
+Execute regression testing before significant releases and after material changes, and track regression coverage and gaps across releases.
+Recommend suitable candidates for test automation based on frequency, stability, risk and repeatability.
+
+
+Qualifications
+
+Requirements :
+
+
+Diploma or degree in Information Technology, Computer Science, Information Systems, Software Engineering or a related discipline
+ISTQB Foundation certification.
+
+
+Experience
+
+
+5–10 years’ experience in software quality assurance, software testing, test analysis or a comparable role
+Preparing test strategies, test plans, test cases, test scripts and regression packs
+Testing web applications, mobile applications, enterprise systems or transactional platforms
+Performing functional, system, integration, end-to-end and regression testing
+Managing defects through the complete defect lifecycle
+Working directly with developers, business analysts, project managers, business users and external vendors in Agile, Waterfall or hybrid environments
+Producing clear testing reports and presenting quality risks to stakeholders.
+
+
+Advantageous
+
+
+Experience within QSR, retail, hospitality, franchising or multi-site operations
+Testing POS, voucher, loyalty, payment, ordering or other high-volume transactional systems
+Testing APIs and integrated systems
+Microsoft Power Platform, including Power Apps, Power Automate, SharePoint and Dataverse
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Restaurants
+  
+
+Referrals increase your chances of interviewing at Pedros by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Software Quality Assurance Tester jobs
+Software Quality Assurance Analyst
+Similar jobs
+Senior Test Analyst
+Senior Test Analyst
+iX
+Durban, KwaZulu-Natal, South Africa
+4 days ago
+QA Engineer
+QA Engineer
+HID
+Durban, KwaZulu-Natal, South Africa
+1 week ago
+Junior Support Analyst
+Junior Support Analyst
+BETSoftware
+Durban, KwaZulu-Natal, South Africa
+1 week ago
+Quality Assurance - Quality Controller
+Quality Assurance - Quality Controller
+Coca-Cola Beverages Africa
+Durban, KwaZulu-Natal, South Africa
+4 days ago
+Senior Systems Test & Validation Engineer (12 month FTC)
+Senior Systems Test & Validation Engineer (12 month FTC)
+HID
+Durban, KwaZulu-Natal, South Africa
+1 week ago
+Quality Engineer
+Quality Engineer
+Johnson Outdoors
+La Mercy, KwaZulu-Natal, South Africa
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Specialist: Combined Assurance
+Specialist: Combined Assurance
+
+Transnet SOC Ltd
+
+Tongaat, KwaZulu-Natal, South Africa
+1 week ago
+Operations Engineer
+Operations Engineer
+
+The Shoprite Group of Companies
+
+Durban, KwaZulu-Natal, South Africa
+5 days ago
+Technical Assistant
+Technical Assistant
+
+Sun Chemical
+
+Durban, KwaZulu-Natal, South Africa
+2 weeks ago
+Software License Management Specialist
+Software License Management Specialist
+
+AECOM
+
+Durban, KwaZulu-Natal, South Africa
+4 days ago
+Intermediate Developer
+Intermediate Developer
+
+iX
+
+Durban, KwaZulu-Natal, South Africa
+1 month ago
+Data Acquisition Specialist - External Data (Remote/Homebased)
+Data Acquisition Specialist - External Data (Remote/Homebased)
+
+IQVIA
+
+Durban, KwaZulu-Natal, South Africa
+2 months ago
+Application Developer
+Application Developer
+
+IFS International Facilities Services
+
+Umhlanga, KwaZulu-Natal, South Africa
+3 days ago
+ITSM Integrator
+ITSM Integrator
+
+Mr Price Group
+
+Durban, KwaZulu-Natal, South Africa
+4 days ago
+Assessor: Assessment, Ref No. WCMD 60/2026
+Assessor: Assessment, Ref No. WCMD 60/2026
+
+Western Cape Government
+
+Chatsworth, KwaZulu-Natal, South Africa
+1 week ago
+Technical Assistant
+Technical Assistant
+
+Sun Chemical
+
+Sobonakhona, KwaZulu-Natal, South Africa
+1 month ago
+Similar Searches
+Software Quality Assurance Tester jobs
+80 open jobs
+Software Quality Assurance Engineer jobs
+80 open jobs
+Software Test Analyst jobs
+124 open jobs
+Senior Software Tester jobs
+272 open jobs
+Software Quality Analyst jobs
+141 open jobs
+Automation Test Analyst jobs
+116 open jobs
+Quality Assurance Test Analyst jobs
+105 open jobs
+Software Tester jobs
+99 open jobs
+Software Quality Engineer jobs
+112 open jobs
+Software Test Engineer jobs
+90 open jobs
+Senior Software Quality Engineer jobs
+25 open jobs
+Quality Assurance Engineer jobs
+186 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Pedros
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
