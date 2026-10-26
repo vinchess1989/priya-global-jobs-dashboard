@@ -1,9 +1,9 @@
 {
   "pid": 24320,
   "started_at": "2026-10-26T01:12:40+02:00",
-  "heartbeat_at": "2026-10-26T02:23:15+02:00",
+  "heartbeat_at": "2026-10-26T02:28:01+02:00",
   "phase": "reviewing",
-  "detail": "Registered Nurse | Ward 4 | Medical",
-  "last_scrape_ok_at": "2026-10-26T02:20:50+02:00",
+  "detail": "Business Analyst",
+  "last_scrape_ok_at": "2026-10-26T02:24:39+02:00",
   "last_error": null
 }
