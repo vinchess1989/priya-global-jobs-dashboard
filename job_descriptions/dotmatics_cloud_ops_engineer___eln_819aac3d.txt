@@ -1,0 +1,286 @@
+Title: Cloud Ops Engineer | ELN
+Company: Dotmatics
+Location: Ireland
+URL: https://ie.linkedin.com/jobs/view/cloud-ops-engineer-eln-at-dotmatics-4481444957
+Posted: 2026-10-27
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive background in DevOps, CI/CD, and infrastructure automation, and it is located in a target country (Ireland) with no US-based restrictions.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Cloud Ops Engineer | ELN
+Dotmatics  Ireland
+9 hours ago  46 applicants
+  
+
+See who Dotmatics has hired for this role
+
+Apply 
+Save
+
+Direct message the job poster from Dotmatics
+
+Neil Miller
+Neil Miller
+Senior Recruiter at Dotmatics 🧬 | We’re hiring - DM’s open! 💪 | Global talent partner based in Edinburgh 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Bringing quality…
+
+Our Why At Dotmatics
+
+
+
+
+At Dotmatics, a Siemens company, we believe science, data, and decision-making must be deeply intertwined for innovation to thrive. Our Portfolio includes Luma, LumaLab Connect, ELN Platform, Graphpad Prism, Geneious, SnapGene, Protein Metrics, OMIQ, FCS Express, LabArchives, NQuery, EasyPanel, SoftGenetics and Virscidian.
+
+
+
+
+We have a vision for a new Lab of the Future that will change the future of scientific research.
+
+
+
+
+We have created the world’s most comprehensive digital science platform – best-of-breed software applications already used by more than 2 million scientists, together in a single ecosystem united by a powerful, flexible enterprise data platform. This is not flat data buried away in digital graveyards. This is dynamic, multi-dimensional decision-making.
+
+Scientific enterprises need a new level of effectiveness to achieve tomorrow’s breakthroughs. Illness will not wait. The biosphere will not wait. We are tireless in our vision, because the time for innovation is now.
+
+
+
+
+Shaping the Future of Science At Dotmatics
+
+
+
+
+Our global team of more than 800 colleagues are dedicated to supporting our customers in over 180 countries. Together, with our scientific community of users, we accelerate scientific innovation in order to make the world a healthier, cleaner, and safer place to live.
+
+You’ll join a collaborative, global team pushing the boundaries of scientific innovation.
+
+
+
+
+Your ideas and efforts will have a tangible impact, accelerating scientific progress and discovery. We offer a dynamic, remote-friendly environment that fosters high integrity and collaboration, empowering you to excel. Dotmatics is a company built by scientists, for scientists. Combined, we are now the world’s largest cloud-based scientific research R&D platform. We need your help to keep growing and pioneering the future.
+
+
+
+
+**We are Science Driven. We are Customer Centric. We are Better Together**
+
+
+
+
+What do we need:
+
+
+
+
+As a Cloud Ops Engineer on our ELN Platform Cloud Operations team, you will help build, operate and improve robust, scalable and secure AWS-based infrastructure that enables engineering teams to build, deploy and operate their services effectively. You’ll work closely with engineering, security and DevOps teams to improve platform reliability, automation and operational efficiency.
+
+
+
+
+In this role you'll get to:
+
+
+
+
+Build and Maintain Cloud Infrastructure: Help develop and maintain highly available, secure and scalable AWS-based infrastructure supporting multiple products and services.
+Drive Automation: Develop and improve infrastructure-as-code (IaC), automation and self-service tooling to improve developer productivity and operational efficiency.
+Collaborate Cross-Functionally: Work closely with engineering, security and DevOps teams to implement cloud and infrastructure best practices.
+Enhance Platform Reliability: Contribute to observability, monitoring and incident response practices to maintain reliable and resilient services.
+Support Cloud Security: Apply security best practices to infrastructure and operational processes, helping to protect sensitive data and maintain compliance.
+Share Knowledge: Contribute to engineering best practices, participate in peer code reviews and share knowledge with colleagues.
+
+
+
+
+We're looking for people who have:
+
+
+
+
+Around 4+ years of experience working with cloud infrastructure and production services, ideally with hands-on experience in AWS. You’ll be comfortable working in a DevOps-focused environment, troubleshooting infrastructure and operational issues, and automating repetitive tasks. You’ll also be able to communicate effectively with both technical and non-technical colleagues and work collaboratively within a wider engineering team.
+
+
+
+
+The key skills we are looking for:
+
+
+
+
+Hands-on experience operating production workloads in AWS, using DevOps best practices
+Strong scripting and automation skills using Python (required) or a related language such as PowerShell or Bash
+Experience working with Linux and/or Windows environments
+Experience automating operational workloads and infrastructure on AWS
+Experience with at least one configuration management tool, such as Ansible, Chef, Puppet or similar
+Good Python scripting skills, with some experience in at least one of the following: .NET, Ruby, Java or PowerShell
+Good understanding of CI/CD concepts, tools and pipeline design
+Experience working in Agile and DevOps environments
+Experience supporting distributed and highly available applications or services on AWS
+Solid Linux administration skills and working knowledge of Windows systems
+Good understanding of networking fundamentals, including DNS, load balancing and firewalls
+Experience with or understanding of serverless architectures, such as AWS Lambda and API Gateway
+Experience participating in peer code reviews and following software engineering best practices
+
+
+
+
+Dotmatics is an equal opportunity employer. We are a welcoming place for everyone, and we do our best to make sure all people feel supported and connected at work.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Dotmatics by 2x
+
+See who you know
+
+Get notified about new Cloud Engineer jobs in Ireland.
+
+Sign in to create job alert
+Similar jobs
+Site Reliability Engineer
+Site Reliability Engineer
+ElevenLabs
+Dublin, County Dublin, Ireland
+1 week ago
+Infrastructure Engineer
+Infrastructure Engineer
+ElevenLabs
+Dublin, County Dublin, Ireland
+2 weeks ago
+Platform Engineer
+Platform Engineer
+Mason Alexander
+Ireland
+6 days ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+SearchApi
+Ireland
+3 months ago
+Senior Platform Engineer
+Senior Platform Engineer
+Attio
+Ireland
+2 weeks ago
+Senior DevOps Engineer, EMEA
+Senior DevOps Engineer, EMEA
+Keeper Security, Inc.
+Ireland
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Site Reliability Engineer
+Site Reliability Engineer
+
+F5
+
+Dublin, County Dublin, Ireland
+1 week ago
+Staff Platform Engineer - EU
+Staff Platform Engineer - EU
+
+Ashby
+
+Greater Dublin
+€154,000 - €250,000
+2 weeks ago
+System Engineer, Managed Operations, ESC Managed Operations
+System Engineer, Managed Operations, ESC Managed Operations
+
+Amazon Web Services (AWS)
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+Senior Cloud Engineer
+Senior Cloud Engineer
+
+Optum
+
+Dublin, County Dublin, Ireland
+3 days ago
+Cloud Infrastructure/Engineer
+Cloud Infrastructure/Engineer
+
+Mars Capital
+
+Dublin 4, County Dublin, Ireland
+1 week ago
+Senior IT Generalist
+Senior IT Generalist
+
+RemoExperts
+
+Ireland
+€63,360 - €126,720
+1 week ago
+Senior Cloud Engineer,
+Senior Cloud Engineer,
+
+Optum
+
+Dublin, County Dublin, Ireland
+3 days ago
+Site Reliability Engineer (SRE/ DevOps) - Engineering Productivity
+Site Reliability Engineer (SRE/ DevOps) - Engineering Productivity
+
+Arista Networks
+
+Dublin, County Dublin, Ireland
+2 months ago
+DevOps Engineer
+DevOps Engineer
+
+Insight Global
+
+Letterkenny, County Donegal, Ireland
+6 days ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+DoiT
+
+Ireland
+2 days ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
