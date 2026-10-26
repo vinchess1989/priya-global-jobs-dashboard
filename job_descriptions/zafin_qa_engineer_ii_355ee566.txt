@@ -1,0 +1,297 @@
+Title: QA Engineer II
+Company: Zafin
+Location: Toronto, Ontario, Canada
+URL: https://ca.linkedin.com/jobs/view/qa-engineer-ii-at-zafin-4480567115
+Posted: 2026-10-20
+Deadline: Open until filled
+Reason: The role aligns with the candidate's background in quality engineering and release readiness within a regulated environment, and it is located in a target country (Canada).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+QA Engineer II
+Zafin  Toronto, Ontario, Canada
+1 week ago   Over 200 applicants
+  
+
+See who Zafin has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Zafin is an AI platform company helping regulated institutions modernize how critical work is designed, governed, and delivered. Our technology enables organizations to move faster while maintaining the governance, accountability, and control required in highly regulated environments.
+
+Our portfolio includes Zafin AIOS, an agent orchestration platform for governed AI work; the Zafin Banking Platform, which helps banks modernize product, pricing, offers, billing, loyalty, and relationship management; and Zafin IO, an integration platform that connects data, systems, and workflows across complex enterprise environments.
+
+Headquartered in Toronto, Canada, Zafin partners with leading financial institutions across North America, Europe, the Middle East, Africa, and Asia-Pacific. As AI transforms the future of financial services, we're building the platforms that help regulated organizations adopt AI responsibly and at scale.
+
+About the Role
+
+We are looking for a QA Engineer II to join our Banking Platform organization. In this role, you will help ensure the quality, reliability, and readiness of Zafin's banking product as it is developed, tested, and released to customers.
+
+You will be responsible for planning and executing testing across customer implementation workstreams, validating business requirements, identifying defects, and supporting release readiness. This role requires strong functional testing skills, good backend and data validation experience, and the ability to work independently in a fast-paced banking technology environment. Familiarity or hands-on experience with AI tools is a plus, as the product is evolving toward AI-enabled capabilities.
+
+What will you do?
+
+
+Review business requirements, functional specifications, and customer configuration details to define effective test scenarios and test cases.
+Perform functional, regression, integration, backend, API, and end-to-end testing for SaaS banking product implementations.
+Validate backend data processing, file-based workflows, system integrations, APIs, batch jobs, and customer-specific configurations.
+Prepare and manage test data required for test execution.
+Execute test cases, document results, capture test evidence, and clearly report testing progress.
+Identify, document, track, and retest defects using tools such as Jira or similar platforms.
+Work with Product and Engineering stakeholders to clarify requirements, resolve defects, and support release readiness.
+Support UAT and validation activities by providing test evidence, defect updates, and scenario clarification when required.
+Design, develop, and maintain automated test suites that validate product functionality, reliability, and quality.
+Embed automated testing throughout the software development lifecycle, integrating automated regression and validation tests into product CI/CD pipeline(s) providing continuous quality feedback.
+Identify opportunities to improve test coverage, automation, test execution efficiency, and overall product quality.
+Identify repeatable test scenarios that can be considered for automation.
+Contribute to QA process improvement, test coverage enhancement, and overall product quality.
+Test coverage is clear, complete, and aligned to product requirements.
+Test automation frameworks reduce manual effort and speed up release cycles.
+Defects are well documented, properly tracked, and resolved early in the development cycle.
+Testing status, risks, and release readiness are communicated clearly.
+QA is seen as a trusted, embedded partner within the Banking Platform engineering team.
+
+
+What do you need to succeed?
+
+Must have: 
+
+
+Bachelor's degree in Computer Science, Engineering, Information Systems, or a related field, or equivalent experience.
+3+ years of experience in software quality assurance; experience in banking, fintech, financial services, or enterprise SaaS environments preferred.
+Familiarity or hands-on experience with AI tools or AI-assisted testing, with interest in building toward AI-enabled QA workflows.
+Strong understanding of the Software Testing Life Cycle, defect lifecycle, test planning, test case design, and regression testing.
+Hands-on experience with functional testing, backend testing, integration testing, and end-to-end testing.
+Good SQL skills for data validation, backend verification, and issue investigation.
+Experience testing APIs using tools such as Postman.
+Experience working with Jira, Confluence, test management tools, or similar platforms.
+Ability to understand business requirements and convert them into clear, effective test scenarios.
+Strong analytical, problem-solving, documentation, and communication skills.
+Ability to work independently, manage priorities, and support multiple concurrent initiatives.
+
+
+Nice to Have
+
+
+Experience testing banking platforms, financial products, pricing, billing, deposits, lending, payments, or transaction workflows.
+Hands-on experience with automation testing tools such as Selenium, Cypress, TestNG, Cucumber, Rest Assured, or similar frameworks.
+Experience with performance testing tools such as JMeter.
+Understanding of Kafka, ETL, batch processing, data pipelines, or message-based integrations.
+Basic knowledge of cloud platforms, Kubernetes, CI/CD pipelines, Git, or DevOps practices.
+
+
+Additional Job Details
+
+
+Expected Salary Range: CAD $85K -100K; we hire into multiple career levels for this role based on a candidate's experience, skills and demonstrated capabilities.
+At Zafin, we invest in our people. Our comprehensive rewards program is designed to support your health, financial well-being, and work-life balance, including:
+Fully company-paid health benefits
+Annual bonus opportunities
+Generous vacation and holidays
+RRSP matching
+Employer-paid insurance coverage
+Wellness resources
+Extensive paramedical benefits, and more
+Vacancy Status: Open position(s) to be filled
+Mode of Work: Hybrid
+Use of AI: Zafin may use Artificial Intelligence (AI) and/or other forms of automated technology to screen and/or assess applicants for this position. Zafin will not utilize AI for conducting interviews and/or making hiring decisions.
+
+What's in it for you
+
+Joining our team means being part of a culture that values diversity, teamwork, and high-quality work. We offer competitive salaries, annual bonus potential, generous paid time off, paid volunteering days, wellness benefits, and robust opportunities for professional growth and career advancement. Want to learn more about what you can look forward to during your career with us? Visit our careers site and our openings: zafin.com/careers
+
+Zafin welcomes and encourages applications from people with disabilities. Accommodations are available on request for candidates taking part in all aspects of the selection process.
+
+Zafin is committed to protecting the privacy and security of the personal information collected from all applicants throughout the recruitment process. The methods by which Zafin contains uses, stores, handles, retains, or discloses applicant information can be accessed by reviewing Zafin's privacy policy at https://zafin.com/privacy-notice/. By submitting a job application, you confirm that you agree to the processing of your personal data by Zafin described in the candidate privacy notice.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Zafin by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Associate Quality Assurance Engineer jobs
+QA Engineer II
+Similar jobs
+QA Engineer (AI & Manual Testing)
+QA Engineer (AI & Manual Testing)
+Pillway
+Brampton, Ontario, Canada
+2 months ago
+Quality Assurance Engineer
+Quality Assurance Engineer
+Paymentus
+Richmond Hill, Ontario, Canada
+CA$70,000 - CA$100,000
+2 weeks ago
+QA Engineer
+QA Engineer
+Luxoft
+Toronto, Ontario, Canada
+2 weeks ago
+QA Automation Engineer
+QA Automation Engineer
+OTT Financial Group
+Toronto, Ontario, Canada
+3 months ago
+QA Engineer
+QA Engineer
+BrainRidge Consulting
+Toronto, Ontario, Canada
+2 weeks ago
+Quality Engineer
+Quality Engineer
+StackAdapt
+Toronto, Ontario, Canada
+1 week ago
+Show more jobs like this 
+People also viewed
+Software Engineer in Test II
+Software Engineer in Test II
+
+Okta
+
+Toronto, Ontario, Canada
+2 weeks ago
+Quality Assurance Analyst, Investly
+Quality Assurance Analyst, Investly
+
+Fidelity Canada
+
+Toronto, Ontario, Canada
+2 weeks ago
+Software Quality Analyst II
+Software Quality Analyst II
+
+Bentley Systems
+
+Burlington, Ontario, Canada
+4 days ago
+Quality Engineer I-2
+Quality Engineer I-2
+
+TD
+
+Toronto, Ontario, Canada
+4 days ago
+Quality Engineering, Specialist
+Quality Engineering, Specialist
+
+Interac Corp.
+
+Toronto, Ontario, Canada
+4 days ago
+Quality Engineer
+Quality Engineer
+
+Tata Consultancy Services
+
+Mississauga, Ontario, Canada
+CA$100,000 - CA$130,000
+6 days ago
+Quality Engineer
+Quality Engineer
+
+TechDoQuest
+
+Toronto, Ontario, Canada
+1 week ago
+Test Engineer - SDET
+Test Engineer - SDET
+
+Wipro
+
+Toronto, Ontario, Canada
+4 days ago
+Software Engineer – Quality Assurance
+Software Engineer – Quality Assurance
+
+Texas Instruments
+
+Toronto, Ontario, Canada
+CA$85,000 - CA$90,000
+10 hours ago
+Automation Engineer
+Automation Engineer
+
+Jonas Software
+
+Toronto, Ontario, Canada
+1 week ago
+Similar Searches
+Associate Quality Assurance Engineer jobs
+214 open jobs
+Software Quality Assurance Engineer jobs
+441 open jobs
+Senior Quality Assurance Engineer jobs
+226 open jobs
+Quality Assurance Automation Engineer jobs
+402 open jobs
+Quality Assurance Test Engineer jobs
+432 open jobs
+Software Test Engineer jobs
+522 open jobs
+Software Tester jobs
+457 open jobs
+Software Quality Assurance Intern jobs
+161 open jobs
+Software Quality Assurance Tester jobs
+514 open jobs
+Test Automation Specialist jobs
+560 open jobs
+Senior Software Quality Assurance Engineer jobs
+124 open jobs
+Software Quality Assurance Analyst jobs
+660 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
