@@ -1,0 +1,260 @@
+Title: QA Team Lead
+Company: SoftCo
+Location: Dublin, County Dublin, Ireland
+URL: https://ie.linkedin.com/jobs/view/qa-team-lead-at-softco-4475557956
+Posted: 2026-10-06
+Deadline: N/A
+Reason: The role aligns perfectly with the candidate's expertise in quality gatekeeping, release readiness, and CI/CD, and it is located in Ireland, which is a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+QA Team Lead
+SoftCo  Dublin, County Dublin, Ireland
+3 weeks ago  152 applicants
+  
+
+See who SoftCo has hired for this role
+
+Apply 
+Save
+About Us
+
+SoftCo is an AI-native Procure-to-Pay (P2P) and Accounts Payable (AP) automation company built for complex organisations. In a market full of rigid templates and “plug-and-play” promises, our approach is different. We tailor automation around the organisation, not the organisation around the software.
+
+For over 35 years, we’ve helped ﬁnance teams move from reactive, manual processes to controlled, scalable and strategic P2P operations. Our AI-native platform strengthens accuracy, visibility and insight, but it’s our delivery expertise that ensures it works in the real world.
+
+Our Success At a Glance
+
+
+1M+ users worldwide
+Trusted by organisations including Volkswagen, Patagonia, Primark, Logitech and all 80 departments of the Finnish Government
+Global reach with offices in the US, Finland, UK, Kosovo and Ireland
+A reputation for owning where precision engineering meets long-term partnership
+
+
+Your role
+
+We are looking for an experienced QA Team Lead who can step into a live product environment, lead a small distributed team from day one, shape our Quality Engineering (QE) strategy and drive quality across our established SaaS platform and emerging AI capabilities.
+
+Working as part of the Engineering leadership team, you will be responsible for defining and evolving our quality strategy, ensuring quality considerations are embedded throughout the software development lifecycle. You will bring a quality-focused perspective to planning, delivery, and technical decision-making.
+
+This is a hands-on leadership role. You will support and develop the QA team, establish consistent quality practices, improve testing effectiveness and automation, and provide clear visibility of quality risks across the organisation.
+
+Your responsibilities
+
+
+Lead, coach, and develop a distributed team of Quality Automation Engineers, creating a high-performing culture focused on quality, collaboration, and continuous improvement.
+Set priorities, manage performance, provide regular feedback, and support individual development and career growth.
+Own and evolve the QE strategy across new and existing products, integrations, enhancements, and emerging AI capabilities.
+Define and track quality metrics to measure testing effectiveness, product quality, and release confidence.
+Drive a quality-first culture across Engineering by promoting best practices in testing and automation.
+Define and implement quality-focused processes across Product and Engineering that ensure requirements, acceptance criteria, and testability are reviewed and validated early in the development lifecycle.
+Establish quality gates and release readiness criteria that support predictable, high-quality product delivery.
+Assess current test coverage and drive initiatives to expand coverage across critical business and customer workflows.
+Balance automated, exploratory, and manual testing approaches to maximise effectiveness and quality outcomes.
+Evaluate and adopt AI-assisted testing capabilities where they provide measurable value, ensuring appropriate validation and oversight of results.
+Help define how quality is assessed for AI functionality as SoftCo continues to expand its AI offerings.
+Use customer feedback, production incidents, and defect trends to identify quality gaps and drive improvements.
+
+
+What success looks like
+
+You will quickly build an understanding of the team, the product and current delivery commitments. You will establish a clear view of the most important quality risks, take ownership of the QE strategy and make practical improvements to our processes. You will lead initiatives to define how AI-driven functionality is evaluated and identify opportunities to responsibly adopt AI within testing practices.
+
+Working at SoftCo
+
+You will join a collaborative Product and Engineering organisation working on software that customers rely on for essential finance processes. Our structure gives you real ownership and direct exposure to senior leadership, with progression based on capability rather than hierarchy.
+
+Your profile
+
+
+Experience leading, managing and developing a QA team within a SaaS environment, including coaching engineers and managing performance.
+Experience defining and implementing quality strategies that improve product quality and delivery outcomes.
+Strong understanding of manual, automated, API, integration and end-to-end testing, with hands-on test automation experience using tools including Microsoft Playwright, Rest-Assured, JUnit5, Allure Reporting and Maven.
+Experience working with CI/CD platforms, including Azure DevOps, and in cloud-based environments, preferably AWS.
+Experience testing business-critical software where reliability, accuracy, auditability, and customer-specific workflows are essential.
+Experience working across distributed teams, building cross-functional relationships and influencing Product and Engineering colleagues through clear communication, evidence and collaboration.
+A genuine interest in how AI is changing software delivery and testing and exposure to testing AI-enabled functionality, agentic workflows, or systems that incorporate LLM-based capabilities.
+Experience with finance software, accounts payable, procurement processes, or ERP integrations would be advantageous.
+
+
+What We Offer
+
+
+Competitive remuneration and performance-based bonus
+Company-paid health insurance, pension and life assurance
+Hybrid Working Model (3 days per week in office following onboarding period)
+On-site gym with company-funded fitness classes (Dublin office)
+Long service incentive awards and employee referral programme
+Structured learning and development investment
+
+
+Our structure gives you real ownership and direct exposure to senior leadership. Progression is based on capability, not hierarchy.
+
+Our culture
+
+Our culture is built on the values that shape how we work together and how we deliver for our customers.
+
+Initiative, accountability, and collaboration are central to how we operate. Our teams work across disciplines and locations to solve complex problems and deliver meaningful outcomes.
+
+We encourage clear thinking, ownership and continuous learning. Expertise is respected and people are trusted to take responsibility for the work they lead.
+
+Different perspectives strengthen our teams and improve the systems we build. We are committed to creating an inclusive environment where everyone can contribute and grow.
+
+SoftCo is proud to be an equal opportunities employer and welcomes applications from all backgrounds. Learn more at softco.com/about-us.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at SoftCo by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Quality Assurance Lead
+Quality Assurance Lead
+Realtime Recruitment
+Dublin, County Dublin, Ireland
+€70,000 - €80,000
+3 days ago
+Quality Assurance Lead
+Quality Assurance Lead
+Mater Private Network
+Dublin, County Dublin, Ireland
+4 days ago
+Quality Assurance Lead
+Quality Assurance Lead
+nineDots.io
+Dublin, County Dublin, Ireland
+3 days ago
+QA Automation Engineer Team Lead, Charles River Development , AVP
+QA Automation Engineer Team Lead, Charles River Development , AVP
+Charles River Development
+Dublin, County Dublin, Ireland
+4 months ago
+Mobile QA Architect
+Mobile QA Architect
+Gen
+Dublin, County Dublin, Ireland
+1 week ago
+Quality Manager
+Quality Manager
+Mercury
+Dublin, County Dublin, Ireland
+2 weeks ago
+Show more jobs like this 
+People also viewed
+SAP Public Cloud Test Manager
+SAP Public Cloud Test Manager
+
+HCLTech
+
+Dublin, County Dublin, Ireland
+4 days ago
+Quality Manager
+Quality Manager
+
+Design Build Search
+
+Maynooth, County Kildare, Ireland
+€100,000 - €120,000
+3 weeks ago
+CSA Quality Lead - Carlow - 145330
+CSA Quality Lead - Carlow - 145330
+
+Jones Engineering
+
+Carlow, County Carlow, Ireland
+1 month ago
+Engineering Quality & Excellence Manager
+Engineering Quality & Excellence Manager
+
+AMCS Group
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+Quality Manager
+Quality Manager
+
+Global Professional Consultants
+
+Greater Dublin
+4 days ago
+Head of Quality Engineering
+Head of Quality Engineering
+
+RWS
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+Quality Assurance Validation Manager - 12 Months FTC
+Quality Assurance Validation Manager - 12 Months FTC
+
+DHL Supply Chain
+
+Dublin, County Dublin, Ireland
+3 months ago
+Quality Assurance Manager, Postgraduate, (SEO Grade, 24 Month FTC)
+Quality Assurance Manager, Postgraduate, (SEO Grade, 24 Month FTC)
+
+Medical Council
+
+Dublin, County Dublin, Ireland
+3 days ago
+Quality Manager & Responsible Person (RP)
+Quality Manager & Responsible Person (RP)
+
+Life Science Recruitment
+
+Dublin, County Dublin, Ireland
+3 days ago
+Quality Manager - Transport Industry
+Quality Manager - Transport Industry
+
+Driving Force Ireland (info@drivingforce.ie)
+
+Ashbourne, County Meath, Ireland
+€60,000 - €70,000
+2 weeks ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at SoftCo
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
