@@ -1,9 +1,9 @@
 {
   "pid": 38492,
   "started_at": "2026-10-27T01:12:47+02:00",
-  "heartbeat_at": "2026-10-27T02:25:51+02:00",
-  "phase": "reviewing",
-  "detail": "Technical Administrator",
-  "last_scrape_ok_at": "2026-10-27T02:24:45+02:00",
+  "heartbeat_at": "2026-10-27T02:26:09+02:00",
+  "phase": "scraped",
+  "detail": "0 new jobs",
+  "last_scrape_ok_at": "2026-10-27T02:26:09+02:00",
   "last_error": null
 }
