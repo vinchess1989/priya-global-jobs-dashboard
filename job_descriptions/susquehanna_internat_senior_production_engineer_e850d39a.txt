@@ -1,0 +1,238 @@
+Title: Senior Production Engineer
+Company: Susquehanna International Group
+Location: Hong Kong, Hong Kong SAR
+URL: https://hk.linkedin.com/jobs/view/senior-production-engineer-at-susquehanna-international-group-4481409871
+Posted: 2026-10-27
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's expertise in CI/CD, release management, automation, and production support, and it is located in a target country (Hong Kong).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Production Engineer
+Susquehanna International Group  Hong Kong, Hong Kong SAR
+17 hours ago   Be among the first 25 applicants
+  
+
+See who Susquehanna International Group has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Overview
+
+As a Senior Production Engineer, you will help build and operate the technology supporting Susquehanna’s APAC Broker Dealer business. You will work closely with developers, BA/QA colleagues and production support to improve system reliability, automate testing and operational processes, and deliver safe, repeatable releases.
+
+This is a hands-on engineering role within a small, business-facing team. We are looking for someone who can identify gaps, design practical solutions and take ownership of delivering them. You will combine strong programming and troubleshooting skills with an understanding of how systems behave across the development, testing and production lifecycle.
+
+Your Work Will Focus On
+
+
+Improving the resilience, recoverability and operational readiness of our trading systems.
+Building automation for regression testing, deployment, monitoring and daily operations.
+Improving release quality and developer productivity.
+Supporting production systems and resolving recurring issues through engineering improvements.
+
+
+In This Role, You Will
+
+
+Design, build and maintain CI/CD pipelines across development, testing and production environments, incorporating automated checks, controlled deployments and rollback capabilities.
+Establish and develop an automated integration and regression testing framework. Work with BA/QA colleagues to turn priority business scenarios into repeatable automated tests, and with developers to make applications easier to test.
+Build tooling for test data preparation, environment setup, workflow simulation and validation of messages and processing outcomes across integrated systems.
+Develop dashboards and actionable alerts covering application health, client and platform connectivity, message flows, processing failures and data quality.
+Automate deployment, configuration validation, pre-market checks and other recurring operational tasks.
+Investigate production incidents and testing issues, identify root causes and implement improvements that prevent recurrence.
+Improve recovery procedures, including restart, replay and reconciliation controls to ensure processing remains complete and accurate following interruptions.
+Manage application environments and configuration, working with Infrastructure and IT Security teams to support consistent and reliable operation.
+Work closely with developers, BA/QA, business users and external vendors to resolve integration issues and prepare systems for production release.
+Develop expertise in the front-to-back Broker Dealer application stack, including external connectivity, order and RFQ routing, order management, market and reference data, middle office and post-trade processing.
+Write and maintain operational runbooks, troubleshooting guides, technical documentation and recovery procedures.
+Share production support responsibilities with the team and use operational experience to guide automation and reliability improvements.
+
+
+What We're Looking For
+
+
+At least ten years of relevant experience in production engineering, DevOps, SRE or software engineering with substantial responsibility for production systems.
+Strong Python programming skills and demonstrated experience building maintainable automation tools, with appropriate testing, error handling and documentation.
+Hands-on experience designing and maintaining CI/CD pipelines, deployment automation and environment configuration.
+Experience building automated integration or regression testing solutions, including test data management and validation of system behaviour.
+Strong troubleshooting skills across applications, operating systems, networks and messaging interfaces.
+Experience designing monitoring dashboards and alerts, and using logs and metrics to diagnose problems.
+Experience supporting production systems, managing incidents and implementing improvements to reliability and recovery.
+Confidence working across Linux and Windows environments.
+Strong communication skills and the ability to work effectively with technical colleagues, business users and external vendors.
+A proactive approach to identifying gaps, taking ownership and delivering practical solutions with minimal supervision.
+A careful approach to data accuracy, release quality and operational controls.
+A degree in a technical discipline or equivalent practical experience.
+
+
+Useful Additional Experience
+
+
+Financial markets technology, particularly institutional Sales & Trading, RFQ workflows, order management or post-trade processing.
+FIX connectivity, message validation, replay or reconciliation tooling.
+Tools such as GitHub/GitLab, Docker, Kubernetes, Airflow, Kafka, MongoDB, Grafana, Nagios or Elasticsearch.
+Additional programming or scripting languages, such as C#, PowerShell or Bash.
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at Susquehanna International Group by 2x
+
+See who you know
+
+Get notified about new Senior Production Engineer jobs in Hong Kong, Hong Kong SAR.
+
+Sign in to create job alert
+Similar jobs
+Production Engineer
+Production Engineer
+Anchorpoint
+Hong Kong SAR
+1 week ago
+Market Data Production Management & Reliability Engineering
+Market Data Production Management & Reliability Engineering
+Morgan Stanley
+Hong Kong, Hong Kong SAR
+3 weeks ago
+Production Support Engineer / SRE
+Production Support Engineer / SRE
+TEKsystems
+Hong Kong SAR
+1 week ago
+Production Support Engineer
+Production Support Engineer
+Millennium
+Hong Kong, Hong Kong SAR
+1 week ago
+Backend Production Support Engineer
+Backend Production Support Engineer
+Crypto.com
+Hong Kong SAR
+4 days ago
+Senior Site Reliability Engineer (APAC)
+Senior Site Reliability Engineer (APAC)
+Reap
+Hong Kong, Hong Kong SAR
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Engineer
+Engineer
+
+Black & Veatch
+
+Kwun Tong District, Hong Kong SAR
+6 days ago
+Production Technician/Engineer
+Production Technician/Engineer
+
+AP Infosense
+
+Hong Kong, Hong Kong SAR
+4 days ago
+Senior AI Infrastructure O&M Engineer
+Senior AI Infrastructure O&M Engineer
+
+China Mobile International Limited
+
+Hong Kong, Hong Kong SAR
+2 weeks ago
+Project Engineer (Preschool & Fashion Brands)
+Project Engineer (Preschool & Fashion Brands)
+
+Hasbro
+
+Kwun Tong District, Hong Kong SAR
+1 week ago
+Senior Load Balancer Engineer - ETS
+Senior Load Balancer Engineer - ETS
+
+Morgan Stanley
+
+Hong Kong, Hong Kong SAR
+2 days ago
+Senior Technical Support Engineer
+Senior Technical Support Engineer
+
+TiDB, powered by PingCAP
+
+Hong Kong, Hong Kong SAR
+2 weeks ago
+Broadcast Engineer, APAC
+Broadcast Engineer, APAC
+
+Bloomberg
+
+Hong Kong SAR
+3 days ago
+Senior Systems Engineer
+Senior Systems Engineer
+
+CSC
+
+Hong Kong SAR
+1 week ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+dtcpay
+
+Hong Kong, Hong Kong SAR
+1 day ago
+Trading Systems Production Support Specialist, Assistant Vice President
+Trading Systems Production Support Specialist, Assistant Vice President
+
+State Street
+
+Hong Kong, Hong Kong SAR
+2 weeks ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Susquehanna International Group
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
