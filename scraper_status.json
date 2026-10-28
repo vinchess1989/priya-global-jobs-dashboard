@@ -1,9 +1,9 @@
 {
   "pid": 21300,
   "started_at": "2026-10-29T01:14:09+02:00",
-  "heartbeat_at": "2026-10-29T01:29:30+02:00",
+  "heartbeat_at": "2026-10-29T01:31:36+02:00",
   "phase": "reviewing",
-  "detail": "Platform Engineer",
-  "last_scrape_ok_at": "2026-10-29T01:28:09+02:00",
+  "detail": "JIRA Admin",
+  "last_scrape_ok_at": "2026-10-29T01:30:21+02:00",
   "last_error": null
 }
