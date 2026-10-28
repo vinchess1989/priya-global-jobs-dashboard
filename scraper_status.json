@@ -1,9 +1,9 @@
 {
   "pid": 21300,
   "started_at": "2026-10-29T01:14:09+02:00",
-  "heartbeat_at": "2026-10-29T01:27:09+02:00",
+  "heartbeat_at": "2026-10-29T01:29:30+02:00",
   "phase": "reviewing",
-  "detail": "Container Engineer",
-  "last_scrape_ok_at": "2026-10-29T01:25:42+02:00",
+  "detail": "Platform Engineer",
+  "last_scrape_ok_at": "2026-10-29T01:28:09+02:00",
   "last_error": null
 }

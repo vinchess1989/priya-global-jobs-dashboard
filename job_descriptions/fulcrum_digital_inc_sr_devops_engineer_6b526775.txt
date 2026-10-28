@@ -1,0 +1,272 @@
+Title: Sr Devops Engineer
+Company: Fulcrum Digital Inc
+Location: Dublin, County Dublin, Ireland
+URL: https://ie.linkedin.com/jobs/view/sr-devops-engineer-at-fulcrum-digital-inc-4482526208
+Posted: 2026-10-29
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive background in DevOps, CI/CD, and release management, and it is located in an eligible country (Ireland) without any stated restrictions on visa sponsorship.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Sr Devops Engineer
+Fulcrum Digital Inc  Dublin, County Dublin, Ireland
+8 hours ago  31 applicants
+  
+
+See who Fulcrum Digital Inc has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Sr Devops
+
+Permanent
+
+Dublin/Hybrid
+
+Who are we
+
+Fulcrum Digital is an agile and next-generation digital accelerating company providing digital transformation and technology services right from ideation to implementation. These services have applicability across a variety of industries, including banking & financial services, insurance, retail, higher education, food, healthcare, and manufacturing.
+
+Requirements
+
+As part of the Business Operations team, you will:
+
+Independently execute key elements of projects/processes within the Site Reliability Engineering area by applying in-depth knowledge of their discipline and area best practices to effectively resolve problems and roadblocks as they occur.
+Assist in evaluating operational requirements and developing technical solutions within existing frameworks.
+Support automation and scripting efforts to improve operational workflows and incident response processes.
+Troubleshoot and resolve routine and some complex system issues, escalating when necessary to maintain system health.
+Contribute to documentation, knowledge sharing, and best practices to enhance team operational procedures.
+Collaborate with development teams and stakeholders to ensure reliability solutions align with technical and business needs.
+Participate in reviews and quality assurance activities to uphold system stability standards.
+May contribute to solution development for new products/services and/or manage smaller project/initiatives as an experienced individual contributor with specialized knowledge within the Site Reliability Engineering area.
+
+
+
+
+
+
+
+Role qualifications:
+
+The ideal candidate will apply the following skills independently in routine and moderately complex situations, requiring occasional guidance typically only in unfamiliar or highly complex scenarios. They will demonstrate growing consistency and reliability in applying the skills.
+
+
+
+
+Observability - Ability to use scripting and tooling to implement observability solutions, enabling the collection, analysis, and visualization of metrics, logs, and traces to support incident detection, diagnosis, and continuous service improvement.
+Programming and Scripting - Ability to write and maintain code and scripts to automate tasks, build operational tools, and support monitoring, deployment, and incident response using languages such as Python, Go, Bash, or similar.
+Systems and Network Administration - Ability to configure, operate, and troubleshoot Linux/Unix systems and network components, applying knowledge of networking concepts, protocols, security, and system reliability.
+Cloud Computing and Infrastructure - Ability to design, deploy, and manage applications and infrastructure on cloud platforms (e.g., AWS, Azure, GCP), ensuring scalability, security, availability, and operational efficiency.
+Reliability and Scalability - Ability to design and operate systems for high availability, fault tolerance, and disaster recovery, while ensuring systems can scale to meet current and future demand
+DevOps Practices - Ability to apply DevOps principles and practices, including CI/CD pipelines, containerization, and orchestration, to enable faster, more reliable software delivery and operations.
+Troubleshooting - Capability to systematically identify, diagnose, and resolve technical issues across systems, applications, and networks, using analytical methods and tools to restore functionality, minimize disruption, and ensure stable operations.
+Capacity Planning and Performance Optimization - Ability to monitor resource utilization, forecast future capacity needs, and optimize system performance to support growth, scalability, and efficient infrastructure usage.
+IT Service Management - Ability to apply IT service management principles to incident, problem, and change management, ensuring reliable service delivery, effective incident response, and continuous service improvement aligned to business needs.
+Proactive Monitoring and Improvement (SRE Applications) - The ability to use application reliability signals to anticipate issues, identify risks, and drive preventative improvements that enhance application performance and availability.
+
+
+
+
+Who are we
+
+Fulcrum Digital is an agile and next-generation digital accelerating company providing digital transformation and technology services right from ideation to implementation. These services have applicability across a variety of industries, including banking & financial services, insurance, retail, higher education, food, healthcare, and manufacturing.
+
+Requirements
+
+As part of the Business Operations team, you will:
+
+Independently execute key elements of projects/processes within the Site Reliability Engineering area by applying in-depth knowledge of their discipline and area best practices to effectively resolve problems and roadblocks as they occur.
+Assist in evaluating operational requirements and developing technical solutions within existing frameworks.
+Support automation and scripting efforts to improve operational workflows and incident response processes.
+Troubleshoot and resolve routine and some complex system issues, escalating when necessary to maintain system health.
+Contribute to documentation, knowledge sharing, and best practices to enhance team operational procedures.
+Collaborate with development teams and stakeholders to ensure reliability solutions align with technical and business needs.
+Participate in reviews and quality assurance activities to uphold system stability standards.
+May contribute to solution development for new products/services and/or manage smaller project/initiatives as an experienced individual contributor with specialized knowledge within the Site Reliability Engineering area.
+
+
+
+
+
+
+
+Role qualifications:
+
+The ideal candidate will apply the following skills independently in routine and moderately complex situations, requiring occasional guidance typically only in unfamiliar or highly complex scenarios. They will demonstrate growing consistency and reliability in applying the skills.
+
+
+
+
+Observability - Ability to use scripting and tooling to implement observability solutions, enabling the collection, analysis, and visualization of metrics, logs, and traces to support incident detection, diagnosis, and continuous service improvement.
+Programming and Scripting - Ability to write and maintain code and scripts to automate tasks, build operational tools, and support monitoring, deployment, and incident response using languages such as Python, Go, Bash, or similar.
+Systems and Network Administration - Ability to configure, operate, and troubleshoot Linux/Unix systems and network components, applying knowledge of networking concepts, protocols, security, and system reliability.
+Cloud Computing and Infrastructure - Ability to design, deploy, and manage applications and infrastructure on cloud platforms (e.g., AWS, Azure, GCP), ensuring scalability, security, availability, and operational efficiency.
+Reliability and Scalability - Ability to design and operate systems for high availability, fault tolerance, and disaster recovery, while ensuring systems can scale to meet current and future demand
+DevOps Practices - Ability to apply DevOps principles and practices, including CI/CD pipelines, containerization, and orchestration, to enable faster, more reliable software delivery and operations.
+Troubleshooting - Capability to systematically identify, diagnose, and resolve technical issues across systems, applications, and networks, using analytical methods and tools to restore functionality, minimize disruption, and ensure stable operations.
+Capacity Planning and Performance Optimization - Ability to monitor resource utilization, forecast future capacity needs, and optimize system performance to support growth, scalability, and efficient infrastructure usage.
+IT Service Management - Ability to apply IT service management principles to incident, problem, and change management, ensuring reliable service delivery, effective incident response, and continuous service improvement aligned to business needs.
+Proactive Monitoring and Improvement (SRE Applications) - The ability to use application reliability signals to anticipate issues, identify risks, and drive preventative improvements that enhance application performance and availability.
+
+
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Fulcrum Digital Inc by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Dublin, County Dublin, Ireland.
+
+Sign in to create job alert
+Similar jobs
+Senior DevOps Engineer
+Senior DevOps Engineer
+Newcode.ai
+Dublin, County Dublin, Ireland
+5 months ago
+Senior Devops Engineer
+Senior Devops Engineer
+Fruition Group Ireland
+Dublin, County Dublin, Ireland
+€85,000 - €95,000
+1 day ago
+Senior Cloud Engineer
+Senior Cloud Engineer
+Luxoft
+Dublin, County Dublin, Ireland
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+MCS Group | Your Specialist Recruitment Consultancy
+Dublin, County Dublin, Ireland
+€80,000 - €90,000
+12 hours ago
+Principal DevOps Engineer - Decision Management Platform
+Principal DevOps Engineer - Decision Management Platform
+Mastercard
+Dublin, County Dublin, Ireland
+1 week ago
+OmniPay Dev Ops Engineer
+OmniPay Dev Ops Engineer
+Fiserv
+Dublin, County Dublin, Ireland
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Senior Cloud Engineer
+Senior Cloud Engineer
+
+Optum
+
+Dublin, County Dublin, Ireland
+5 days ago
+AI Platform DevOps Engineer
+AI Platform DevOps Engineer
+
+The Clorox Company
+
+Dublin, County Dublin, Ireland
+8 hours ago
+Senior Azure DevOps Engineer
+Senior Azure DevOps Engineer
+
+Thomson Keene
+
+South Dublin, Ireland
+2 days ago
+Senior Cloud Engineer,
+Senior Cloud Engineer,
+
+Optum
+
+Dublin, County Dublin, Ireland
+5 days ago
+AWS DevOps Engineer – Dublin/Remote (2 days onsite pw)
+AWS DevOps Engineer – Dublin/Remote (2 days onsite pw)
+
+IT Search
+
+Dublin, County Dublin, Ireland
+1 week ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+Blockdaemon
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Intuition IT Solutions
+
+Greater Dublin
+8 hours ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+
+Toast
+
+Dublin, County Dublin, Ireland
+4 days ago
+Senior Cloud Platform Engineer
+Senior Cloud Platform Engineer
+
+Munich Re Automation Solutions
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+System Engineer
+System Engineer
+
+Harvey Nash
+
+Dublin, County Dublin, Ireland
+3 weeks ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+You’re signed out
+Sign in for the full experience.
+Sign in Join now
