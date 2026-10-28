@@ -1,0 +1,176 @@
+Title: Dev Ops Infrastructure Technician
+Company: Goldrush Group
+Location: Honeydew, South Africa
+URL: https://www.pnet.co.za/jobs--Dev-Ops-Infrastructure-Technician-Honeydew-Goldrush-Group--4285225-inline.html
+Posted: 2026-10-28
+Deadline: N/A
+Reason: The role aligns perfectly with the candidate's expertise in DevOps, release management, and compliance/change control within a regulated environment, and it is located in South Africa, which is a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Find a job
+Post a job
+Sign up
+Tired of searching? Let’s find you the right jobs faster
+Get Started
+Find Jobs
+Dev Ops Infrastructure Technician
+Goldrush Group
+Honeydew
+Permanent
+Full Time
+Published: 1 day ago
+EE/AA
+I'm interested
+Save
+Dev Ops Infrastructure Technician
+Goldrush Group
+I'm interested
+Introduction
+
+The DevOps & Infrastructure Technician will be responsible for managing, monitoring, securing and maintaining the server infrastructure supporting GameOnStudios’  WRG/RGS environment and associated game services.
+The successful candidate will ensure that production services operate reliably, that software releases are deployed through controlled processes, and that effective monitoring, backup, recovery and security controls are maintained.
+The role will work closely with the CTO, software developers, database administrator, compliance representatives and external hosting or platform providers to support existing operations and the introduction of new games and integrations.
+
+Duties & Responsibilities
+
+1. Server and infrastructure management
+
+Administer and maintain the servers, operating systems, application-hosting services and infrastructure within GameOnStudios’ operational control. Manage service configurations, scheduled tasks, storage, network connectivity, domain records and security certificates.
+Maintain appropriate separation between development, testing, certification and production environments. Coordinate infrastructure changes and maintenance with hosting providers where services are externally managed.
+
+2. Monitoring, availability and incident response
+
+Implement and maintain monitoring for server health, application availability, API response times, database connectivity, storage capacity and critical background processes.
+Configure actionable alerts and investigate service interruptions, application failures and performance degradation. Monitor operational indicators such as failed game launches, integration errors and unresolved transaction processing, escalating application or financial-data issues to the appropriate owners.
+Take ownership of incident coordination, provide timely updates, document root causes and track corrective actions.
+
+3. Software deployment and automation
+
+Develop and maintain continuous integration and deployment pipelines for approved game services, APIs and supporting applications.
+Automate repeatable deployment and administration tasks using version-controlled scripts and configuration. Ensure releases are tested, authorised, traceable and accompanied by appropriate rollback or recovery procedures.
+Coordinate deployments with developers and the database administrator, taking account of active game sessions, in-progress transactions and database compatibility. Perform post-deployment checks before confirming a release as successful.
+
+4. Infrastructure security and access management
+
+Maintain secure server configurations, access controls, firewall rules and remote administration methods. Implement individual user accounts, least-privilege access and multifactor authentication where supported.
+Manage service credentials, API secrets and certificate renewals through approved secure processes. Coordinate vulnerability remediation, operating-system updates and dependency patching through change control.
+Review privileged access periodically and ensure access is removed promptly when no longer required.
+
+5. Backups, disaster recovery and business continuity
+
+Implement and monitor backups for relevant databases, application configurations, infrastructure configurations and operational records.
+Maintain protected backup copies separate from the primary production environment and conduct scheduled restoration tests. A successful backup job alone must not be treated as proof of recoverability.
+Develop and maintain recovery procedures with the CTO, database administrator and service providers. Test recovery against agreed targets for restoration time and acceptable data loss, including checks that recovered services and transaction records remain consistent.
+
+6. Database operational support and transaction integrity
+
+Work with the database administrator to monitor database availability, storage utilisation, connectivity, backup status and replication health where applicable.
+Assist with infrastructure-related database performance investigations and coordinate approved maintenance or schema releases.
+Support the investigation of interrupted or delayed transaction processing using logs and approved diagnostic tools. Any transaction replay, reconciliation or data correction must follow an authorised, documented procedure with the appropriate application and database owners.
+
+7. Compliance support and change control
+
+Maintain infrastructure inventories, configuration baselines, deployment records, access records and operational evidence required by the company’s approved compliance processes.
+Support internal audits, security assessments and testing-laboratory requests relevant to infrastructure operations. Ensure production changes follow the applicable approval process and preserve the traceability of deployed software and configuration.
+Escalate any proposed change that may affect an approved or certified system configuration before implementation.
+
+8. Documentation, provider coordination and capacity planning
+
+Maintain current infrastructure diagrams, operating procedures, troubleshooting guides, recovery instructions and escalation contacts.
+Coordinate technical incidents and maintenance with hosting companies, platform suppliers and other service providers. Track capacity, resource utilisation and infrastructure costs, and recommend improvements as game content, integrations and usage increase.
+Provide regular operational reporting to the CTO, highlighting incidents, risks, upcoming maintenance and outstanding corrective actions.
+Desired Experience & Qualification
+Production operations: Approximately three to five years of relevant experience in DevOps, infrastructure engineering or systems administration, including direct responsibility for live production services.
+Server administration: Strong practical experience administering application servers. For a Windows-based deployment, this should include Windows Server, IIS, Windows services and troubleshooting hosted .NET applications. Linux administration should be required where it forms part of the deployed environment.
+Deployment and automation: Experience with Git, automated build and deployment pipelines, and scripting using PowerShell, Bash or Python.
+Networking and security: Practical knowledge of TCP/IP, DNS, HTTPS/TLS certificates, firewalls, VPNs, access controls and secure remote administration.
+Database operations: Experience supporting relational database environments, interpreting database-related errors and coordinating backup, restoration and maintenance activities with a database administrator.
+Monitoring and recovery: Demonstrable experience configuring alerts, investigating production incidents, analysing logs and testing backup restoration and recovery procedures.
+
+ 
+
+A relevant qualification in information technology, computer science or a related field is desirable. Equivalent practical experience should also be considered.
+I'm interested
+Goldrush Group
+Financial Services • 1-10 Employees
+Company Profile
+These jobs were popular with other job seekers
+System Analyst - Infrastructure & DevOps
+Subhujo Technologies
+City of Johannesburg Metropolitan Municipality
+just now
+DevOps
+MSP Staffing Pty Ltd
+Cape Town Or Gauteng
+just now
+Devops Engineers
+Network Contracting Solutions
+Johannesburg West
+just now
+DevOps
+MSP Staffing Pty Ltd
+Cape Town Or Gauteng
+just now
+System Analyst – Infrastructure & DevOps
+Watershed Consulting
+johannesburg
+just now
+Platform / Cloud Engineer
+MSP Staffing Pty Ltd
+Johannesburg
+just now
+Front End Slot Game Developer
+Goldrush Group
+Honeydew
+just now
+INTERMEDIATE DEVOPS ENGINEER
+Imqs
+Hybrid preferably - Stellenbosch
+just now
+AI Engineer (Agentic Systems & Automation)
+Place Talent Recruitment (Pty) Ltd
+Tshwane (Pretoria)
+just now
+Platform / Cloud Engineer
+MSP Staffing Pty Ltd
+Johannesburg
+just now
+Get hired.
+Find success.
+Get started
+Pnet
+About us
+Privacy policy
+Disclaimer
+Terms and conditions
+PAIA
+Jobseekers
+Career advice
+Blog
+Recruiters
+Post job ads
+Contact us – recruiters
+Products and Services
+Download
+App Store
+Google Play
+Pnet © 2026
+We use cookies
+
+We transmit personal data to third-party providers who help us to improve our web services. In this context, we also create and enrich usage profiles (e.g., on the basis of cookie IDs), which may also be transferred outside the Republic of South Africa and outside the EU and EEA.
+
+For this and to be able to use certain services for the purposes listed below, we require your consent. By clicking "Accept all", you agree to these (revocable at any time). This also includes your consent to the transmission of certain personal data to third countries, including the USA*, in accordance with Section 72 (1) (b) POPIA. You can change your settings or refuse data processing under "Settings or reject". You can change your selection at any time under "Privacy Statement" at the bottom of the page.
+
+Storing and/or retrieving information on a device
+Cookies, device identifiers or other information may be stored on or retrieved from your device for the processing purposes shown to you.
+Personalised ads and content, ad and content measurement, audience insights and product development
+Ads and content can be personalised based on a profile. More data can be added to better personalise ads and content. The performance of ads and content can be measured. Insights about audiences who have viewed the ads and content can be extracted. Data can be used to build or improve user experience, systems and software.
+Display third-party content (social networks, videos)
+Content from social networks and embedded content from third-party providers can be displayed.
+Settings or reject
+Accept All
+You can also exercise your right to object to data processing based on legitimate interests under “Privacy Statement”.
+Privacy Statement

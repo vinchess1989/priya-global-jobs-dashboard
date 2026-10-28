@@ -1,0 +1,274 @@
+Title: Platform DevOps Engineer
+Company: Future Secure AI
+Location: Sydney, New South Wales, Australia
+URL: https://au.linkedin.com/jobs/view/platform-devops-engineer-at-future-secure-ai-4432095253
+Posted: 2026-10-15
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in DevOps, CI/CD pipeline ownership, and infrastructure automation, and it is located in an eligible country (Australia).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Platform DevOps Engineer
+Future Secure AI  Sydney, New South Wales, Australia
+2 weeks ago   Be among the first 25 applicants
+  
+
+See who Future Secure AI has hired for this role
+
+Apply
+Save
+
+About the Company
+
+ 
+
+At Future Secure AI, we're building something genuinely new — and we're looking for people bold enough to build it with us. We work at the frontier of AI, tackling big, real-world problems for global enterprises across multiple industries, armed with state-of-the-art technology and a culture that prizes courage, rigor, and relentless curiosity. Our BRAVER values aren't just words on a wall — they describe the kind of people we are and the standard we hold ourselves to every day. Our leadership team is entrepreneurial, experienced, and accessible, with an open-door policy that means you'll never be just a number here. We invest seriously in your growth because we know our success depends on yours. If you're ready to work alongside some of the brightest minds in the industry, push into uncharted territory, and do work that genuinely matters, Future Secure AI is the place for you.
+
+About Us 
+
+At Future Secure AI, we're building something genuinely new — and we're looking for people bold enough to build it with us. We work at the frontier of AI, tackling big, real-world problems for global enterprises across multiple industries, armed with state-of-the-art technology and a culture that prizes courage, rigor, and relentless curiosity. Our BRAVER values aren't just words on a wall — they describe the kind of people we are and the standard we hold ourselves to every day. Our leadership team is entrepreneurial, experienced, and accessible, with an open-door policy that means you'll never be just a number here. We invest seriously in your growth because we know our success depends on yours. If you're ready to work alongside some of the brightest minds in the industry, push into uncharted territory, and do work that genuinely matters, Future Secure AI is the place for you.
+
+About the role
+
+We are looking for a Platform DevOps Engineer to help design, build, and operate the platforms that power AI Co‑Workers. This is a hands‑on role for an engineer who enjoys owning reliability end‑to‑end and working closely with product, AI, and engineering teams.
+
+What will you be doing
+
+Design, build, and operate reliable production infrastructure supporting AI Co‑Workers
+Own Kubernetes‑based platforms used to deploy and run AI workloads
+Build and maintain infrastructure as code via GitOps methodology using Terraform/Terragrunt
+Maintain reusable GitHub Actions CI/CD workflows for Docker image builds, Terraform plan/apply gates, and cross-repo deploys
+Implement and maintain Helm‑based deployment workflows leveraging GitOps tools and technologies (ArgoCD)
+Define, measure, and improve system reliability using SLIs, SLOs, and SLAs
+Participate in on‑call rotation, incident response, root cause analysis, and post‑mortems
+Reduce operational toil through automation and engineering improvements
+Build and improve observability across monitoring, logging, and alerting
+Partner closely with engineers to ensure systems are resilient, scalable, and secure
+Operate across build, deploy, and operate phases of the software lifecycle
+Troubleshoot and remediate issues across a highly variable, multi-layer technology stack
+Contribute to product feature enhancements through the design and implementation of architectural improvements of the technology stack, which must satisfy requirements for resiliency, security and compatibility across multiple cloud providers
+
+Must have criteria
+
+Hands‑on Kubernetes experience designing, building, or operating workloads on EKS, AKS, GKE, or self‑managed Kubernetes
+Hands‑on Terraform/Terragrunt experience for infrastructure provisioning and automation
+Hands‑on Helm experience for Kubernetes application deployment
+Professional experience using at least two programming or scripting languages such as Python, Go, Java, Bash, PowerShell, or Ruby
+Direct Platform/DevOps Engineer experience or equivalent
+
+Should have criteria
+
+Experience working within a defined SDLC, including CI/CD, release processes, and end‑to‑end delivery from design to operations
+Hands‑on experience with at least one major cloud provider such as AWS, Azure, or Google Cloud
+Experience with ArgoCD or GitOps‑style deployment approaches
+Five or more years of relevant professional experience
+DevOps or DevSecOps experience, including CI/CD ownership, infrastructure automation, and security considerations
+
+Preferable criteria
+
+Relevant certifications such as CKA, CKAD, cloud certifications (AWS, Azure and/or GCP), DevOps, DevSecOps, or programming credentials
+
+Why Join Us?
+
+A high-performance culture
+State-of-the-art technology
+Experience world-class leadership
+Scale of impact and purpose
+A competitive salary and a huge growth trajectory
+Work with the best in the industry
+Flexible work environment
+Diversity and creativity
+
+
+Disclaimer: We do not wish to be contacted by recruitment agencies. Our hiring process is managed in-house and the best way for candidates to express interest is by applying with your resume through our company website.
+
+Future Secure AI Privacy Policy
+
+At Future Secure AI, we are committed to protecting your privacy and adhering to the principles of the General Data Protection Regulation (GDPR) and the Australian Privacy Principles (APPs) under the Privacy Act 1988 (Cth). Our Privacy Policy outlines how we collect, use, share, and protect your personal data when you visit our website at www.futuresecure.ai (the "Website") and use our services. 
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Future Secure AI by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Sydney, New South Wales, Australia.
+
+Sign in to create job alert
+Jobs
+Director Data Management jobs
+Platform DevOps Engineer
+Similar jobs
+Senior Engineer – DevOps & Platform Engineering
+Senior Engineer – DevOps & Platform Engineering
+ASX
+Sydney, New South Wales, Australia
+1 week ago
+Platform Engineer
+Platform Engineer
+Macquarie Group
+Sydney, New South Wales, Australia
+6 days ago
+DevOps Engineer
+DevOps Engineer
+Macquarie Group
+Sydney, New South Wales, Australia
+1 week ago
+Systems/DevOps Engineer
+Systems/DevOps Engineer
+Deloitte
+Sydney, New South Wales, Australia
+5 hours ago
+Senior Platform Engineer
+Senior Platform Engineer
+Commonwealth Bank
+Eveleigh, New South Wales, Australia
+1 day ago
+Platform Engineer
+Platform Engineer
+Akuna Capital
+Sydney, New South Wales, Australia
+3 weeks ago
+Show more jobs like this 
+People also viewed
+Senior Platform Engineer
+Senior Platform Engineer
+
+DroneShield
+
+Sydney, New South Wales, Australia
+1 week ago
+Platform Specialist_Devops
+Platform Specialist_Devops
+
+XPT Software
+
+Sydney, New South Wales, Australia
+1 week ago
+Platform Engineer
+Platform Engineer
+
+Michael Page
+
+Sydney, New South Wales, Australia
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Hatch
+
+Sydney, New South Wales, Australia
+1 month ago
+DevSecOps Engineer
+DevSecOps Engineer
+
+Transport for NSW
+
+Macquarie Park, New South Wales, Australia
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+HUB24 Limited
+
+Sydney, New South Wales, Australia
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+Wipro
+
+Greater Sydney Area
+1 day ago
+Senior Engineer – DevOps (eRIC)
+Senior Engineer – DevOps (eRIC)
+
+eHealth NSW
+
+Chatswood, New South Wales, Australia
+A$153,559 - A$182,954
+1 week ago
+Platform Specialist_Devops
+Platform Specialist_Devops
+
+XPT Software Australia
+
+Sydney, New South Wales, Australia
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+Shift
+
+North Sydney, New South Wales, Australia
+1 week ago
+Similar Searches
+Director Data Management jobs
+187 open jobs
+Technical Business Analyst jobs
+1,625 open jobs
+PHP Developer jobs
+282 open jobs
+Delivery Manager jobs
+6,760 open jobs
+Senior Software Engineer jobs
+1,571 open jobs
+Business Data Analyst jobs
+2,289 open jobs
+Frontend Developer jobs
+484 open jobs
+Account Executive jobs
+2,265 open jobs
+Principal Engineer jobs
+4,454 open jobs
+Senior Data Engineer jobs
+1,798 open jobs
+Data Architect jobs
+1,731 open jobs
+Marketing Manager jobs
+3,259 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
