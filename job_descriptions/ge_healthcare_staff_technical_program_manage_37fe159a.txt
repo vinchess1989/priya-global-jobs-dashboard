@@ -1,0 +1,298 @@
+Title: Staff Technical Program Manager – LPI
+Company: GE HealthCare
+Location: Bengaluru, Karnataka, India
+URL: https://in.linkedin.com/jobs/view/staff-technical-program-manager-%E2%80%93-lpi-at-ge-healthcare-4484031291
+Posted: 2026-10-28
+Deadline: N/A
+Reason: The role perfectly aligns with her experience in release management, cross-functional coordination, and regulated medical-device software (ISO 13485/MDR context), and it is located in India, one of her target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Staff Technical Program Manager – LPI
+GE HealthCare  Bengaluru, Karnataka, India
+1 day ago  44 applicants
+  
+
+See who GE HealthCare has hired for this role
+
+Apply 
+Save
+Job Description Summary
+
+The Staff Technical Program Manager will execution of the Cardiovascular Ultrasound (CVUS) Digital Viewer program across on-premises, cloud and hybrid product environments. The role will convert product and technology roadmaps into integrated program plans and drive delivery across Software Engineering, Architecture, Systems, V&V, Cybersecurity, Quality, Regulatory, Service and other cross-functional teams.
+
+This role requires strong technical program leadership, understanding of software product development and the ability to work with globally distributed stakeholders. The Staff TPM will drive cross-functional alignment, manage dependencies and risks, establish release governance, and ensure Digital Viewer releases are delivered with the required scope, quality, cybersecurity, regulatory readiness and execution predictability.
+
+GE Healthcare is a leading global medical technology and digital solutions innovator. Our mission is to improve lives in the moments that matter. Unlock your ambition, turn ideas into world-changing realities, and join an organization where every voice makes a difference, and every difference builds a healthier world.
+
+Job Description
+
+Job Summary
+
+
+The Staff Technical Program Manager will execution of the Cardiovascular Ultrasound (CVUS) Digital Viewer program across on-premises, cloud and hybrid product environments. The role will convert product and technology roadmaps into integrated program plans and drive delivery across Software Engineering, Architecture, Systems, V&V, Cybersecurity, Quality, Regulatory, Service and other cross-functional teams.
+This role requires strong technical program leadership, understanding of software product development and the ability to work with globally distributed stakeholders. The Staff TPM will drive cross-functional alignment, manage dependencies and risks, establish release governance, and ensure Digital Viewer releases are delivered with the required scope, quality, cybersecurity, regulatory readiness and execution predictability.
+
+
+Roles and Responsibilities
+
+
+Lead program execution for CVUS Digital Viewer releases from planning and architecture alignment through development, integration, verification, release, deployment readiness and Installed Base transition.
+Create and own integrated multi-generational program and release plans aligned with the Digital Viewer product and technology roadmap.
+Partner with Product Management, Software Architects and Engineering leadership to align product scope, architecture evolution, program sequencing and release outcomes.
+Coordinate execution across Software Engineering, Systems Engineering, V&V, Automation, Cybersecurity, Quality, Regulatory, Service, DevOps and other contributing teams.
+Drive execution across on-premises, cloud and hybrid deliverables, including key dependencies related to deployment, data integration, interoperability and platform services.
+Establish program operating mechanisms covering milestones, scope, dependencies, risks, defects, quality, cybersecurity, release readiness and leadership decisions.
+Identify and resolve cross-team roadblocks and interdependencies; escalate issues with clear impact, options, ownership and recommended actions.
+Manage program risks, scope changes, technical dependencies and non-standard events throughout the product lifecycle.
+Drive end-to-end release readiness with Engineering, Systems and V&V teams, ensuring required quality evidence and stakeholder deliverables are complete.
+Partner with Quality and Regulatory teams to ensure program execution supports applicable medical-device software lifecycle and design-control requirements.
+Maintain transparent stakeholder communication and progress reporting for engineering, product and senior leadership.
+Drive metrics and data-based program management, including automated dashboards for execution, defects, quality, risk and release readiness.
+Drive operational efficiency through workflow automation and appropriate use of digital and AI-enabled tools for program planning, reporting and execution.
+Promote common program-management practices, Agile execution, continuous improvement and lessons learned across the CVUS Digital organisation.
+
+
+Required Qualifications
+
+
+Bachelor’s or Master’s degree in Engineering with 10+ years of relevant work experience and hands-on exposure to the software development lifecycle.
+6+ years of technical program or project-management experience leading multiple teams within or across organisations.
+Demonstrated experience leading complex software product releases involving globally distributed, cross-functional engineering teams.
+Strong understanding of Agile product development and experience with frameworks such as SAFe, Scrum and Kanban.
+Experience applying program-management methods to manage scope, schedule, risks, dependencies, resources, quality and release commitments.
+Ability to understand software architecture and technical dependencies sufficiently to drive technical program decisions and escalation.
+Strong leadership and influencing skills with demonstrated ability to organise teams around shared outcomes without direct authority.
+Excellent written and verbal communication, including program reviews and communication with senior leadership.
+Strong analytical and problem-solving skills with ability to convert complex program data into decisions and actionable plans.
+
+
+Desired Qualifications
+
+
+Experience delivering healthcare, medical-device or other regulated digital software products.
+Experience in driving Agile programs under medical device QMS environments.
+Knowledge of quality, regulatory, cybersecurity and software lifecycle practices applicable to medical-device software.
+Experience with CI/CD, DevOps/DevSecOps, software release governance and automated system testing environments.
+Experience building program dashboards and automating workflows across engineering data sources; Power BI experience is desirable.
+Understanding of Generative AI and AI-enabled productivity tools such as GitHub Copilot, with an ability to identify practical program-management use cases.
+PMP, PMI-ACP, SAFe, ScrumMaster or related project/program-management certification.
+Demonstrated customer focus, ability to manage competing priorities and commitment to continuous improvement and change leadership.
+
+
+Common Engineering Expectations
+
+
+Cloud-native and hybrid cloud/on-premises product development using AWS services.
+Containers, Kubernetes, CI/CD, Infrastructure as Code and production observability.
+Secure engineering, identity and access management, encryption, secrets management and DevSecOps.
+Performance, scalability, availability, reliability, fault tolerance and disaster recovery.
+Automated unit, integration, API, system, performance and reliability testing.
+Strong design, coding, debugging, root-cause analysis and technical documentation practices.
+Integration challenges of third party and second party SaaS solutions.
+Working with AI-DLC and software development acceleration.
+
+
+Healthcare and Medical Device Context
+
+
+Experience in regulated healthcare or medical-device development is required for the Verification Lead and strongly preferred for senior architecture, automation and program roles.
+Strong knowledge on SDLC, PRD process, Risks, FMEAs.
+Awareness of patient-data privacy, cybersecurity and secure handling of clinical information.
+Knowledge of healthcare interoperability standards such as DICOM, HL7 and FHIR.
+Experience with real-time clinical data, device connectivity, patient monitoring or high-availability clinical applications is advantageous.
+
+
+Inclusion and Diversity
+
+GE HealthCare is an Equal Opportunity Employer where inclusion Employment decisions are made without regard to race, color, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, protected veteran status or other characteristics protected by law.
+
+We expect all employees to live and breathe our behaviors: to act with humility and build trust; lead with transparency; deliver with focus, and drive ownership – always with unyielding integrity.
+
+Our total rewards are designed to unlock your ambition by giving you the boost and flexibility you need to turn your ideas into world-changing realities. Our salary and benefits are everything you’d expect from an organization with global strength and scale, and you’ll be surrounded by career opportunities in a culture that fosters care, collaboration and support.
+
+Additional Information
+
+Relocation Assistance Provided: No
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Hospitals and Health Care
+  
+
+Referrals increase your chances of interviewing at GE HealthCare by 2x
+
+See who you know
+
+Get notified about new Technical Program Manager jobs in Bengaluru, Karnataka, India.
+
+Sign in to create job alert
+Jobs
+Senior Technical Program Manager jobs
+Staff Technical Program Manager – LPI
+Similar jobs
+Senior Technical Program Manager
+Senior Technical Program Manager
+NVIDIA
+Bengaluru, Karnataka, India
+5 days ago
+Program Manager, Staff
+Program Manager, Staff
+Qualcomm
+Bengaluru, Karnataka, India
+2 weeks ago
+Manager, Senior Technical Program Manager
+Manager, Senior Technical Program Manager
+Google
+Bengaluru, Karnataka, India
+2 weeks ago
+Principal Technical Program Manager
+Principal Technical Program Manager
+GitLab
+Bengaluru, Karnataka, India
+6 days ago
+Principal, Technical Program Manager
+Principal, Technical Program Manager
+Walmart Global Tech India
+Bengaluru, Karnataka, India
+1 day ago
+Technical Program Manager - Product Operations
+Technical Program Manager - Product Operations
+Apple
+Bengaluru, Karnataka, India
+3 months ago
+Show more jobs like this 
+People also viewed
+Technical Program Manager
+Technical Program Manager
+
+Origin
+
+Bengaluru, Karnataka, India
+1 month ago
+Technical Program Manager
+Technical Program Manager
+
+Razorpay
+
+Greater Bengaluru Area
+5 days ago
+Sr Principal Program Manager
+Sr Principal Program Manager
+
+Cadence
+
+Bengaluru, Karnataka, India
+2 weeks ago
+Technical Program Manager, Program Lead
+Technical Program Manager, Program Lead
+
+Lam Research
+
+Bengaluru, Karnataka, India
+1 week ago
+Technical Program Manager Lead
+Technical Program Manager Lead
+
+Lam Research
+
+Bengaluru, Karnataka, India
+6 days ago
+Senior Staff Technical Program Manager
+Senior Staff Technical Program Manager
+
+JioStar
+
+Greater Bengaluru Area
+1 week ago
+Program Manager - CPU Team
+Program Manager - CPU Team
+
+AMD
+
+Bengaluru, Karnataka, India
+1 week ago
+Staff Technical Program Manager
+Staff Technical Program Manager
+
+Fivetran
+
+Bengaluru, Karnataka, India
+1 week ago
+Technical Program Manager
+Technical Program Manager
+
+GitLab
+
+Bengaluru, Karnataka, India
+3 weeks ago
+Staff Technical Program Manager
+Staff Technical Program Manager
+
+Ethos
+
+Bengaluru, Karnataka, India
+1 week ago
+Similar Searches
+Senior Technical Program Manager jobs
+944 open jobs
+Principal Program Manager jobs
+3,330 open jobs
+Senior Manager Program Management jobs
+352 open jobs
+Program Manager jobs
+9,542 open jobs
+Engineering Program Manager jobs
+1,753 open jobs
+Staff Program Manager jobs
+453 open jobs
+Infrastructure Program Manager jobs
+79 open jobs
+Senior Program Manager jobs
+1,726 open jobs
+Associate Professor of Chemistry jobs
+29 open jobs
+Director Program Management jobs
+4,333 open jobs
+Lead Program Manager jobs
+971 open jobs
+Environmental Protection Specialist jobs
+48 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+You’re signed out
+Sign in for the full experience.
+Sign in Join now

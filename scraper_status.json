@@ -1,9 +1,9 @@
 {
   "pid": 21300,
   "started_at": "2026-10-29T01:14:09+02:00",
-  "heartbeat_at": "2026-10-29T01:22:06+02:00",
+  "heartbeat_at": "2026-10-29T01:24:21+02:00",
   "phase": "reviewing",
-  "detail": "Compliance Documentation Specialist",
-  "last_scrape_ok_at": "2026-10-29T01:20:50+02:00",
+  "detail": "DevOps Team Lead",
+  "last_scrape_ok_at": "2026-10-29T01:22:47+02:00",
   "last_error": null
 }

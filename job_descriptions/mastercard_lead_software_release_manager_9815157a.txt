@@ -1,0 +1,377 @@
+Title: Lead Software Release Manager
+Company: Mastercard
+Location: Pune Division, Maharashtra, India
+URL: https://in.linkedin.com/jobs/view/lead-software-release-manager-at-mastercard-4482223192
+Posted: 2026-10-28
+Deadline: N/A
+Reason: The role is a perfect match for her extensive experience in release management, CI/CD, and cross-functional coordination within a regulated environment, and it is located in India, one of her target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Lead Software Release Manager
+Mastercard  Pune Division, Maharashtra, India
+1 day ago  64 applicants
+  
+
+See who Mastercard has hired for this role
+
+Apply 
+Save
+Our Purpose
+
+Mastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.
+
+Title And Summary
+
+Lead Software Release Manager
+
+Overview
+
+We are seeking an experienced Software Release Manager to lead end-to-end release planning, scheduling, and orchestration across a portfolio of 7-8 interconnected software products and platforms. This role is responsible for establishing and maintaining an integrated release calendar that balances product roadmaps, engineering capacity, testing environment availability, customer commitments, regulatory requirements, and cross-program dependencies.
+
+The ideal candidate thrives in complex enterprise environments where multiple teams, systems, and stakeholders must coordinate to successfully deliver high-quality software releases. This individual will serve as the central point of coordination for release readiness, dependency management, environment planning, and deployment execution.
+
+Key Responsibilities
+
+Release Planning & Scheduling
+
+
+Own the enterprise release calendar across 7-8 products and platforms.
+Develop and maintain integrated release schedules accounting for:
+Development milestones
+Integration testing windows
+Pre-production validation
+Performance and scalability testing
+Production deployment windows
+Customer onboarding and certification timelines
+Coordinate release trains and major program increments across multiple teams.
+Balance competing priorities while optimizing release frequency and stability.
+
+
+
+Dependency Management
+
+
+Identify, document, track, and proactively manage:
+Product-to-product dependencies
+Program-to-program dependencies
+Infrastructure dependencies
+Vendor and external partner dependencies
+Customer readiness dependencies
+Facilitate dependency review forums and drive cross-functional alignment.
+Resolve schedule conflicts and escalation issues impacting release delivery.
+
+
+
+Environment & Capacity Management
+
+
+Govern utilization of critical testing and deployment environments, including:
+Integration environments
+System testing environments
+UAT environments
+Performance testing environments
+Pre-production environments
+Production environments
+Coordinate environment reservations and conflict resolution across multiple teams.
+Ensure environment readiness, availability, and release sequencing.
+
+
+
+Release Readiness & Governance
+
+
+Establish release entry and exit criteria.
+Conduct release readiness reviews and go/no-go assessments.
+Verify completion of:
+Functional testing
+Integration testing
+Regression testing
+Performance testing
+Security validation
+Operational readiness activities
+Ensure change management and release governance processes are followed.
+
+
+
+Stakeholder Coordination
+
+
+Partner closely with:
+Engineering teams
+Product Managers
+Program Managers
+Quality Engineering teams
+Site Reliability Engineering teams
+Infrastructure teams
+Customer delivery teams
+Operations and Support organizations
+Communicate release plans, risks, constraints, and status to both technical and executive audiences.
+Drive alignment across globally distributed teams.
+
+
+
+Risk & Issue Management
+
+
+Identify schedule, environment, resource, and operational risks early.
+Develop mitigation and contingency plans.
+Lead release war rooms for major deployments.
+Track and drive resolution of release blockers and critical dependencies.
+
+
+
+Metrics & Continuous Improvement
+
+
+Define and monitor release management KPIs, including:
+Release predictability
+On-time delivery
+Deployment success rate
+Environment utilization
+Defect leakage
+Change failure rate
+Continuously improve release planning processes, tooling, and governance.
+
+
+
+All About You
+
+
+Bachelor’s degree in computer science, Information Technology, Engineering, or related discipline.
+8+ years of experience in software delivery, technical program management, release management, or engineering operations.
+5+ years managing enterprise-scale software releases.
+Experience coordinating releases across multiple products and engineering teams simultaneously.
+Strong understanding of:
+SDLC
+Agile and Scrum methodologies
+DevOps practices
+CI/CD pipelines
+Change and release management processes
+Demonstrated experience managing complex dependency chains and cross-functional delivery programs.
+Strong project planning, organization, and risk-management skills.
+Excellent executive communication and stakeholder-management capabilities.
+
+
+
+Preferred Qualifications
+
+
+Experience in large-scale distributed systems or payment-processing platforms.
+Experience coordinating releases across globally distributed teams.
+Working knowledge of tools such as:
+Jira
+Azure DevOps
+GitHub Actions
+Jenkins
+XL Release / Digital.ai Release
+Splunk
+Confluence
+PMP, PMI-ACP, SAFe, ITIL, or DevOps certifications.
+Experience supporting highly regulated or mission-critical production environments.
+
+
+
+Success Measures
+
+A Successful Software Release Manager Will
+
+
+Maintain a synchronized release schedule across 7-8 products with minimal conflicts.
+Improve release predictability and on-time delivery.
+Reduce environment contention and resource bottlenecks.
+Ensure all customer, platform, program, and infrastructure dependencies are proactively managed.
+Deliver production releases with high deployment success rates and low operational impact.
+Provide leadership visibility into release health, risks, and readiness.
+
+
+
+Corporate Security Responsibility
+
+All activities involving access to Mastercard assets, information, and networks comes with an inherent risk to the organization and, therefore, it is expected that every person working for, or on behalf of, Mastercard is responsible for information security and must:
+
+
+Abide by Mastercard’s security policies and practices;
+Ensure the confidentiality and integrity of the information being accessed;
+Report any suspected information security violation or breach, and
+Complete all periodic mandatory security trainings in accordance with Mastercard’s guidelines.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Financial Services, IT Services and IT Consulting, and Technology, Information and Internet
+  
+
+Referrals increase your chances of interviewing at Mastercard by 2x
+
+See who you know
+
+Get notified about new Software Release Manager jobs in Pune Division, Maharashtra, India.
+
+Sign in to create job alert
+Jobs
+Change And Release Manager jobs
+Lead Software Release Manager
+Similar jobs
+Release Manager
+Release Manager
+ParentPay Group
+Pune Division, Maharashtra, India
+6 days ago
+Release Manager
+Release Manager
+ParentPay Group - India
+Pune Division, Maharashtra, India
+1 month ago
+IT Test & Release Manager
+IT Test & Release Manager
+BOBST
+Pune Division, Maharashtra, India
+1 month ago
+Workday Release Manager
+Workday Release Manager
+Agilysis
+Pune City, Maharashtra, India
+2 days ago
+Release and Program Manager
+Release and Program Manager
+PTC
+Pune Division, Maharashtra, India
+1 week ago
+Senior Technical Program Manager
+Senior Technical Program Manager
+Mastercard
+Pune Division, Maharashtra, India
+2 days ago
+Show more jobs like this 
+People also viewed
+Delivery Manager
+Delivery Manager
+
+Anchanto
+
+Pune Division, Maharashtra, India
+2 weeks ago
+Senior Program Manager, ServiceNow Platform
+Senior Program Manager, ServiceNow Platform
+
+Northern Trust
+
+Pune Division, Maharashtra, India
+1 week ago
+Senior Project Manager
+Senior Project Manager
+
+Springer Nature
+
+Pune Division, Maharashtra, India
+9 hours ago
+HIL Test Engineer
+HIL Test Engineer
+
+MAN TRUCK & BUS INDIA PVT. LTD
+
+Pune District, Maharashtra, India
+2 days ago
+IT Delivery Manager - Java/.NET
+IT Delivery Manager - Java/.NET
+
+EPAM Systems
+
+Pune Division, Maharashtra, India
+1 month ago
+Sr Principal, DevOps & DevSecOps Engineering
+Sr Principal, DevOps & DevSecOps Engineering
+
+Northern Trust
+
+Pune Division, Maharashtra, India
+1 week ago
+Delivery Manager - Engineering
+Delivery Manager - Engineering
+
+Principal Financial Group
+
+Pune Division, Maharashtra, India
+5 days ago
+Sr Mgr Software Engineering
+Sr Mgr Software Engineering
+
+ACI Worldwide
+
+Pune Division, Maharashtra, India
+3 days ago
+Lead QA – Release & Automation
+Lead QA – Release & Automation
+
+Williams-Sonoma, Inc.
+
+Pune City, Maharashtra, India
+2 days ago
+Sr. Software Manager (software installation and deployment technologies)
+Sr. Software Manager (software installation and deployment technologies)
+
+Aspen Technology
+
+Pune Division, Maharashtra, India
+2 weeks ago
+Similar Searches
+Change And Release Manager jobs
+184 open jobs
+Release Manager jobs
+5,638 open jobs
+Software Configuration Manager jobs
+7,612 open jobs
+Deployment Manager jobs
+4,865 open jobs
+Principal Design Engineer jobs
+535 open jobs
+Software Integration Engineer jobs
+1,423 open jobs
+Senior Automation Engineer jobs
+10,328 open jobs
+SAP Security Consultant jobs
+993 open jobs
+Release Engineer jobs
+3,467 open jobs
+Build And Release Engineer jobs
+3,712 open jobs
+Sap Solutions Architect jobs
+2,214 open jobs
+Software Automation Engineer jobs
+9,089 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+You’re signed out
+Sign in for the full experience.
+Sign in Join now

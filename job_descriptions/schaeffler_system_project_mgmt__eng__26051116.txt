@@ -1,0 +1,362 @@
+Title: System Project Mgmt. Eng.
+Company: Schaeffler
+Location: Bengaluru, Karnataka, India
+URL: https://in.linkedin.com/jobs/view/system-project-mgmt-eng-at-schaeffler-4446354711
+Posted: 2026-10-24
+Deadline: N/A
+Reason: The role is a strong match for her background in ASPICE, configuration management, and release management within the automotive industry, and it is located in India, which is a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+System Project Mgmt. Eng.
+Schaeffler  Bengaluru, Karnataka, India
+5 days ago   Over 200 applicants
+  
+
+See who Schaeffler has hired for this role
+
+Apply 
+Save
+Schaeffler is a dynamic global technology company and its success has been a result of its entrepreneurial spirit and long history of private ownership. Does that sound interesting to you? As a partner to all of the major automobile manufacturers, as well as key players in the aerospace and industrial sectors, we offer you many development opportunities.
+
+General Information:
+
+The Technical Project Manager is responsible for the complete required engineering deliverables from Requirements to final test including project effort estimation and overall time planning of big projects. He / she leads functional Technical Project Managers of all disciplines and coordinates the technical activities. He / she has to take care of issues which cannot be solved within one discipline team. Approves the technical solution of the product and drives the Product Release.
+
+He/she is the main technical interface to the customer and supports the project manager by coordinating all disciplines and finding the best balance between system functionality and project costs.
+
+Your Key Responsibilities:
+
+Preliminary note:
+
+
+The following lists many TPM responsibilities and much work content. It is clearly understood that the underlying work amount often cannot (and should not) be handled by one single person. Hence, work content may also be delegated to others within a system project, e.g. a Subsystem-TPM. However, the overall responsibility remains with the TPM.
+Furthermore some responsibilities listed here are shared with dedicated roles within the system development project team (e.g. the requirements engineer or the test manager).
+On the contrary, for reduced scope projects (e.g. a ""SW-only"" variant of an existing product) the work scope of the TPM role may be limited. Then roles may be combined, fulfilled by one person.
+Also, depending on the Project type, specific BU PLC being followed or Project Size/Complexity (requiring multiple TPMs), not all responsibilities and tasks may apply to the assigned/single TPMs.
+
+
+Tasks:
+
+
+Is responsible for time-wise and content-wise Release Planning.
+Drives the aggregation of the technical status/maturity/deviations of a system configuration incl. dedicated risks towards a System Release.
+Consolidates (w/ the tech. project team) the recommendation for releasing / not releasing towards the Engineering Release Manager (ERM).
+TPM is authorized to reject the technical system release (i.e. in case of exceeded deviations of the product functional quality).
+Is responsible for all system engineering work products according the engineering processes.
+Leads the technical communication with the customer.
+Is the main Technical Interface to the Customer (system only as STPL).
+Ensure implementation of platform solutions.
+Defines and monitors the responsibility/work split with the customer (Testing, Calibration, ...).
+Ensures the proper Test Environments, equipment and/or specifications is available from the Customer.
+Leads problem resolution as representative of the engineering within his project.
+Is part of the CCB (change control board).
+The TPM has to work according PLC and ensures PLC compliance within the engineering.
+Uses the standardized processes, methods and tools within his/her scope of responsibility.
+Ensure ASPICE compliance within the engineering.
+Leads and/or co-ordinates all technical activities performed by engineering disciplines.
+Supports the resource planning and role assignment.
+Provide constructive feedback for team members.
+Contributes to the build up and maintenance of a supportive culture by using the 3C's globally: Communication, Collaboration, Cooperation.
+Contributes to the promotion of a learning organization (reflection loops).
+Manage and moderate conflicts.
+Supports the PM in the overall R&D effort monitoring.
+Ensures the technical team works cost consciously towards meeting the R&D budget, including preventing unnecessary costs
+Assures that customer induced cost increases are properly identified and addressed to the PM within Change Management
+Supports, w/ the technical team, to achieve the TMC (Total Manufacturing Cost) target of the project
+Ensures that the definition / selection of the design choices is aligned with the BOM. He/she approves the committed BOM from Engineering (where applicable at quote and during change mgt.)
+Supports Cost-Reduction-Project (CRP) / DTC Activities
+Supports Quote Activities by technical solution assessment, milestone review, and effort estimations..
+Responsible for requirements analysis.
+Leading technical reviews with Customer.
+Support planning of overall project timing.
+Support overall R&D budget estimate (inputs from the sub-disciplines).
+Support concept development.
+Responsible for technical description.
+Ensure reuse of available technical content.
+In alignment with the PM, establish the engineering teams' overall setup and work structure (meeting structure, information / knowledge exchange, documentation, archiving, etc.).
+Is Responsible for consistency of all technical work products and activities.
+Plans, agrees, schedules, monitors and prioritizes system engineering work packages and deliverables.
+Owner of system detailed schedule, including the sub-system milestones.
+Ensures Assignment and Tracking of Change Requests with the internal Subsystem-TPM's.
+Assures the availability of agreed system documentations (FMEA, ISO26262, ...).
+Monitors the technical documents defined in the configuration items list. Actively manages configuration items assigned to STP.
+Define release proposal to the release responsible authorities.
+Decide the overall technical solution of the product.
+Steer technical project team
+Assign the work packages to the project team members (delegation and direction)
+Strong coloration with line managers for team assignments
+Respects the confidentiality of information he/she has access to inside the company
+Follows the instructions and requirements of management personnel inside the company.
+Respects Internal Regulations and company's procedures.
+Respects information security and data protection regulations.
+Knows company quality policy and the impact of his activities in achieving quality targets.
+Live the Schaeffler's Values and actively promote them in the organization.
+Collaborate with others, volunteer for additional tasks, support the inclusion of (new) colleagues, help others accomplish their work.
+Follow the defined rules for safety, health, security, fire and environmental protection.
+Apply the regulations and standards for legal compliance, technical compliance, internal controls and risk management.
+Ensure confidentiality of information and apply the Data Protection requirements.
+Follow the rules and regulations expressed in the Quality Management System.
+
+
+Your Qualifications:
+
+
+Expert level in Stakeholder Management
+Expert level in Project Management Methods & Tools
+Expert level in Change and Problem Resolution Management
+Expert level in Configuration Management/Work Product Tailoring
+Expert level in Risk and Opportunity Management
+Expert level in Escalation Management
+Expert level in Review and Release Management
+Work Package Approach
+Project Planning and Effort Estimation
+Launch Management
+Supplier Management
+Drive acquisition
+Expert level in SCH Processes and Rules
+Expert level in System Development Process
+Intellectual Property
+Product Industrialization
+Legal Aspects of Product Development
+Design for Environment (DfE)
+Design for Circularity (DfC)
+Design and Product Validation (DV/PV)
+Structured Problem Solving and Methods
+Agile Fundamentals
+Process Improvement
+ASPICE Fundamentals
+Quality Assurance (ASPICE) Workproduct Quality
+Quality Auditing
+Lessons Learned
+Field Return Analysis
+Advanced level in Applied Leadership
+Time Management
+System Architecture
+System Integration
+Software Development Process
+Electronic Development
+Test Vehicle Handling, Usage and Confidentiality
+Vehicle Diagnosis (OBD and AECD)
+System Test and System Integration Test Methods
+Requirements Engineering
+Vehicle Architectures
+Functional Safety
+Product Cyber Security and Privacy - System Aspects
+Design for Six Sigma (DfSS)
+Design for Reliability (DfR)
+Failure Mode Effect Analysis
+Design for Manufacturing (DfM)
+Expert level in Customer Relationship Management
+Expert level in Communication (job specific aspects)
+Fluent in English
+Additional language native to the country
+Engineering degree or equivalent
+
+
+Your Qualifications:
+
+
+At least min. 8 years of experience in automotive field or relevant experience
+One out of three:
+experience with multiple PL`s
+experience with a Platform/D1 product development
+experience in leading technical discussions with customer
+Mandatory to have D2 project experience (Effort estimation and Requirement engineering)
+At least finished one project from Gate 30-90 successfully and managing min. 1 Class M or multiple Class S projects in parallel.
+Complete Product Development process
+2- 4 years of functional leadership experience
+Worked in an international team for minimum 2 years
+
+
+As a global company with employees around the world, it is important to us that we treat each other with respect and value all ideas and perspectives. By appreciating our differences, we inspire creativity and drive innovation. In this way, we contribute to sustainable value creation for our stakeholders and society as a whole. Together, we advance how the world moves.
+
+Exciting assignments and outstanding development opportunities await you because we impact the future with innovation. We look forward to your application.
+
+www.schaeffler.com/careers
+
+Your Contact
+
+Vitesco Technologies India Pvt. Ltd.
+
+Hemanth Hurudi
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Manufacturing
+  
+
+Referrals increase your chances of interviewing at Schaeffler by 2x
+
+See who you know
+
+Get notified about new System Project Engineer jobs in Bengaluru, Karnataka, India.
+
+Sign in to create job alert
+Jobs
+Test Director jobs
+System Project Mgmt. Eng.
+Similar jobs
+System Project Mgmt. Eng.
+System Project Mgmt. Eng.
+Schaeffler
+Bengaluru, Karnataka, India
+4 days ago
+Project Management
+Project Management
+Yokogawa
+Bengaluru, Karnataka, India
+1 year ago
+Engineering Project Manager
+Engineering Project Manager
+Apple
+Bengaluru, Karnataka, India
+1 month ago
+iPhone System Engineering Program Manager
+iPhone System Engineering Program Manager
+Apple
+Bengaluru, Karnataka, India
+1 week ago
+Bangalore Career Fair - 22nd & 23rd Nov 26 - System Completion Engineer
+Bangalore Career Fair - 22nd & 23rd Nov 26 - System Completion Engineer
+ExxonMobil India Careers
+Bengaluru, Karnataka, India
+2 weeks ago
+Project Engineering Manager
+Project Engineering Manager
+Alstom
+Bengaluru, Karnataka, India
+4 months ago
+Show more jobs like this 
+People also viewed
+Project Manager
+Project Manager
+
+SYSTRA
+
+Bengaluru, Karnataka, India
+3 weeks ago
+ABB Talent Pool - Project Manager / Associate Project Manager / Senior Project Manager
+ABB Talent Pool - Project Manager / Associate Project Manager / Senior Project Manager
+
+ABB
+
+Bengaluru East, Karnataka, India
+5 hours ago
+Project Engineer, India
+Project Engineer, India
+
+Evertz
+
+Bengaluru, Karnataka, India
+3 months ago
+Expert, DGM Project Management
+Expert, DGM Project Management
+
+Schneider Electric
+
+Bengaluru, Karnataka, India
+4 months ago
+Project Manager
+Project Manager
+
+Bellatrix Aerospace
+
+Bengaluru, Karnataka, India
+4 weeks ago
+Project Manager II
+Project Manager II
+
+UST
+
+Bengaluru, Karnataka, India
+1 week ago
+Sr Engineer- Systems
+Sr Engineer- Systems
+
+Wabtec Corporation
+
+Bengaluru, Karnataka, India
+2 months ago
+Project Manager
+Project Manager
+
+Siemens
+
+Bengaluru, Karnataka, India
+1 week ago
+Technical Program Manager - Product Operations
+Technical Program Manager - Product Operations
+
+Apple
+
+Bengaluru, Karnataka, India
+1 month ago
+Technical Program Manager - Product Operations
+Technical Program Manager - Product Operations
+
+Apple
+
+Bengaluru, Karnataka, India
+3 months ago
+Similar Searches
+Test Director jobs
+118 open jobs
+Electrical Control Engineer jobs
+2,226 open jobs
+Facilities Engineer jobs
+2,875 open jobs
+Process Engineering Intern jobs
+324 open jobs
+Scada Engineer jobs
+3,026 open jobs
+System Integration Engineer jobs
+46,060 open jobs
+Optical Engineer jobs
+1,580 open jobs
+Contract Analyst jobs
+2,659 open jobs
+Procurement Engineer jobs
+2,478 open jobs
+Electrical System Engineer jobs
+1,070 open jobs
+Materials Engineer jobs
+1,143 open jobs
+Senior Staff Engineer jobs
+9,005 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+You’re signed out
+Sign in for the full experience.
+Sign in Join now
