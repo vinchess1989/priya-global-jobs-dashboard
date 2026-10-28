@@ -1,0 +1,287 @@
+Title: Senior Platform Engineer (Software Consultant) - Customer Tribe
+Company: ASB Bank
+Location: Auckland, New Zealand
+URL: https://nz.linkedin.com/jobs/view/senior-platform-engineer-software-consultant-customer-tribe-at-asb-bank-4482241627
+Posted: 2026-10-28
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in platform engineering, CI/CD, and infrastructure automation within a regulated environment, and it is located in a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Platform Engineer (Software Consultant) - Customer Tribe
+ASB Bank  Auckland, New Zealand
+1 day ago   Be among the first 25 applicants
+  
+
+See who ASB Bank has hired for this role
+
+Apply 
+Save
+Senior Platform Engineer (Software Consultant)
+
+Modern banking relies on technology that is secure, reliable and always available. Behind every customer interaction is a complex ecosystem of platforms, services and infrastructure that must operate seamlessly at scale.
+
+As a Senior Platform Engineer, you'll play a critical role in strengthening the reliability, security and operational resilience of some of ASB's most important customer-facing platforms. You'll combine deep infrastructure expertise with modern engineering practices to help build a more resilient, automated and scalable technology environment that supports millions of customer interactions every year.
+
+You'll join ASB's Customer Tribe at an exciting time as we continue to evolve our platform capabilities, centralise Site Reliability Engineering (SRE) expertise, and invest in modern engineering practices that improve reliability, reduce operational risk and enable faster delivery.
+
+About The Team
+
+Customer Tribe is responsible for many of the digital platforms and services that support how customers interact with ASB every day. From the technology foundations that power customer experiences through to the platforms that enable secure and reliable banking services, the Tribe plays a critical role in delivering great outcomes for customers while maintaining operational resilience at scale.
+
+You'll join the SIS Squad, a platform engineering and Site Reliability Engineering team responsible for infrastructure, server platforms and operational excellence across the Tribe. The squad is focused on building stronger platform capability, improving reliability, reducing operational risk and enabling engineering teams to deliver services more efficiently through automation and modern engineering practices.
+
+Unlike many engineering roles, this position isn't tied to a single application or product area. You'll work across multiple squads and services, helping uplift platform reliability, infrastructure capability, automation and operational excellence across a broad range of critical customer systems.
+
+About The Role
+
+This is a senior technical role that combines platform engineering, infrastructure operations and Site Reliability Engineering.
+
+You'll work across a predominantly on-premises environment with growing cloud adoption, helping teams manage and improve critical Windows and Linux platforms while driving greater automation, observability and operational excellence.
+
+Initially, you'll partner closely with existing platform and reliability engineers to understand the current environment, support platform operations, vulnerability management and patching activities, and identify opportunities for improvement. Over time, you'll help shape the future state by reducing manual effort, improving operational processes, strengthening reliability practices and introducing automation that allows teams to operate more efficiently.
+
+This role offers a unique balance of hands-on engineering and strategic thinking. You'll be expected to roll up your sleeves when needed while also stepping back to identify broader opportunities, influence direction and drive meaningful platform improvements across the Tribe.
+
+Success in this role means improving reliability today while helping design a better operating model for tomorrow.
+
+Key Responsibilities
+
+
+Maintain and optimise critical Windows and Linux server environments
+Drive vulnerability remediation and platform security improvements
+Improve patching processes through automation and engineering-led solutions
+Support reliable, secure and highly available services across Customer Tribe
+Design and implement operational tooling, monitoring and alerting solutions
+Build and maintain CI/CD pipelines supporting platform and infrastructure delivery
+Improve observability through dashboards, metrics, logging and alerting
+Identify operational risks and implement preventative controls
+Participate in incident response, problem management and post-incident reviews
+Develop automation that improves platform management, security and operational efficiency
+Partner with engineering teams to promote Site Reliability Engineering principles and practices
+Create and maintain technical documentation, runbooks and operational procedures
+Influence platform strategy and recommend improvements that enhance reliability and reduce operational effort
+Collaborate across squads to solve complex platform and infrastructure challenges
+Participate in on-call support when required
+
+
+About You
+
+You're an experienced platform, infrastructure or Site Reliability Engineer who enjoys solving complex technical problems and improving the way technology operates.
+
+You're equally comfortable supporting critical production systems, automating repetitive work, engineering more resilient solutions or helping teams adopt better operational practices. You enjoy understanding how things work beneath the surface and are motivated by finding smarter, more scalable ways to solve problems.
+
+You'll bring strong technical depth, a pragmatic approach to problem solving and the ability to balance operational excellence with longer-term strategic thinking. Most importantly, you'll enjoy working collaboratively and influencing positive change across a complex technology environment.
+
+Key Skills & Experience
+
+Must Have
+
+
+10+ years' experience in infrastructure engineering, platform engineering, Site Reliability Engineering or related disciplines
+Strong Windows and Linux server administration experience
+Proven experience supporting and operating enterprise-scale infrastructure environments
+Expertise in PowerShell and Python scripting
+Experience developing automation solutions across infrastructure and operational processes
+Strong vulnerability management and patching experience
+Experience supporting production systems within complex enterprise environments
+Azure cloud experience and exposure to hybrid infrastructure environments
+Strong experience building and maintaining CI/CD pipelines
+Experience with Git-based source control and modern DevOps practices
+Strong monitoring, observability and operational support experience
+Experience driving reliability, operational improvement or SRE-focused initiatives
+Strong problem-solving skills with the ability to influence technical direction and platform improvement
+Excellent communication skills with the ability to engage both technical and non-technical stakeholders
+
+
+Highly Desirable
+
+
+AKS (Azure Kubernetes Service) experience
+Experience working in Site Reliability Engineering or Platform Engineering teams
+Experience with Ansible or similar automation and orchestration tools
+Experience with observability platforms and monitoring tooling
+Exposure to API gateway technologies such as Kong
+Experience supporting enterprise application hosting platforms
+Experience improving patching and vulnerability management processes through automation
+Certificate management and enterprise networking experience
+Experience working within large-scale or highly regulated environments
+Azure Administrator Certification (AZ-104) or equivalent
+
+
+Working for ASB
+
+At ASB, we want our people to thrive both professionally and personally. We'll support you with:
+
+
+Hybrid and flexible ways of working
+Opportunities to learn, grow and advance your career
+Access to internal mobility and development pathways
+Banking benefits and employee banking offers
+Health insurance and wellbeing initiatives
+Parental leave and flexible leave options
+Access to learning platforms, mentoring and technical development
+A diverse and inclusive culture where different perspectives are valued
+The opportunity to work on technology that impacts customers across New Zealand
+
+
+This is an opportunity to join a growing Site Reliability Engineering capability and help shape the future of platform reliability within one of New Zealand's leading banks. You'll work on critical systems, influence engineering practices across the Tribe, and help create more resilient, secure and automated platforms that support great customer experiences.
+
+If you're passionate about platform engineering, automation, operational excellence and building reliable systems at scale, we'd love to hear from you.
+
+Apply Now
+
+Apply online today. We welcome applications from people of all backgrounds and experiences and encourage you to apply even if you don't meet every requirement listed above. Your unique skills and perspective could be exactly what we're looking for.
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Industries
+Banking, Financial Services, and Investment Banking
+  
+
+Referrals increase your chances of interviewing at ASB Bank by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Lead Engineer - Relocate to New Zealand
+Lead Engineer - Relocate to New Zealand
+Halter
+Auckland, New Zealand
+2 months ago
+Forward Deployed Engineer
+Forward Deployed Engineer
+Accenture New Zealand
+Auckland, Auckland, New Zealand
+1 month ago
+Technical Consultant (Lead Engineer)
+Technical Consultant (Lead Engineer)
+ASB Bank
+Auckland, New Zealand
+6 days ago
+Platform Engineer
+Platform Engineer
+Kordia
+Auckland, New Zealand
+1 week ago
+Lead Engineer
+Lead Engineer
+Westpac New Zealand
+Auckland, New Zealand
+6 days ago
+Solutions Consultant
+Solutions Consultant
+One New Zealand
+Auckland, Auckland, New Zealand
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Technical Lead
+Technical Lead
+
+EROAD
+
+Auckland, Auckland, New Zealand
+1 month ago
+Senior Solution Architect - Customer and Product
+Senior Solution Architect - Customer and Product
+
+Chorus NZ Limited
+
+Auckland, New Zealand
+2 weeks ago
+Tech Lead
+Tech Lead
+
+Pushpay
+
+Auckland, Auckland, New Zealand
+2 days ago
+Senior Engineer / Technical Lead - Key Customers
+Senior Engineer / Technical Lead - Key Customers
+
+Securecom
+
+Auckland, New Zealand
+4 weeks ago
+Engineering Team Lead, NZ
+Engineering Team Lead, NZ
+
+Partly
+
+Auckland, Auckland, New Zealand
+6 days ago
+Senior Software Engineer
+Senior Software Engineer
+
+nDeva
+
+Auckland, New Zealand
+2 weeks ago
+Solution Architect
+Solution Architect
+
+Datacom
+
+Auckland, Auckland, New Zealand
+2 weeks ago
+Solutions Consultant
+Solutions Consultant
+
+Xero
+
+Auckland, Auckland, New Zealand
+2 weeks ago
+AWS Technical Consultant (TAM), Enterprise Support NZ
+AWS Technical Consultant (TAM), Enterprise Support NZ
+
+Amazon Web Services (AWS)
+
+Auckland, Auckland, New Zealand
+6 days ago
+Infrastructure Engineer
+Infrastructure Engineer
+
+Letterboxd
+
+Auckland, Auckland, New Zealand
+3 weeks ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

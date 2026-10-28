@@ -1,0 +1,212 @@
+Title: Senior DevOps Engineer - NZ
+Company: SecuritEase
+Location: Lower Hutt, Wellington, New Zealand
+URL: https://nz.linkedin.com/jobs/view/senior-devops-engineer-nz-at-securitease-4483804695
+Posted: 2026-10-28
+Deadline: Open until filled
+Reason: The role aligns with the candidate's extensive experience in DevOps, CI/CD, and infrastructure automation, and it is located in a target country (New Zealand) without any explicit exclusion of visa sponsorship.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer - NZ
+SecuritEase  Lower Hutt, Wellington, New Zealand
+1 day ago   Be among the first 25 applicants
+  
+
+See who SecuritEase has hired for this role
+
+Apply 
+Save
+We’re searching for a Senior DevOps Engineer to help scale and automate our cloud infrastructure, software delivery pipelines, and deployment processes across modern cloud-based environments.
+
+What You’ll Do
+
+
+Build and operate production Kubernetes across customer and internal environments. You will stand up new environments where we need them, and own what is already live — including on-call.
+Develop, scale, and maintain robust Infrastructure as Code (IaC) pipelines, primarily leveraging Terraform to orchestrate cloud resources.
+Automate and secure cloud infrastructure in Azure, AWS, or both.
+Manage and optimize advanced Helm deployments and containerized workloads.
+Implement and manage observability and alerting using the Prometheus/Grafana stack (Loki, Alloy, Tempo) to monitor platform performance and reliability.
+Support database orchestration and optimization strategies (such as PITR for PostgreSQL or managing Apache Pinot and Cassandra) across environments.
+Work closely with engineering teams to streamline software delivery and ensure seamless CI/CD processes.
+Troubleshoot complex operational issues, mitigate infrastructure vulnerabilities, and enforce strict cloud security profiles.
+Innovate and automate to generate business value.
+Support and mentor junior DevOps team members.
+
+
+What You’ll Bring
+
+
+Minimum 5+ years’ experience in complex product environments
+Strong experience in DevOps, Cloud Engineering, or Platform Engineering.
+A long history of Linux administration and engineering experience.
+Proven track record of provisioning cloud infrastructure.
+Hands-on experience building, administering, and maintaining Kubernetes clusters.
+Deep experience with either AWS or Azure infrastructure, core cloud services, and secure networking.
+Strong scripting capability in Bash, Python, or PowerShell.
+The ability to read and comprehend segments of application code, such as Node.js or Java.
+A solid understanding of cloud security, governance, and operational best practices (e.g., identity federation, workload identities).
+Come prepared to show automation you have shipped in a live product environment — what you changed, and how it helped the team scale effectively: own and run more environments without growing headcount at the same rate.
+
+
+Nice To Have
+
+
+Certified Kubernetes Administrator (CKA) or equivalent CNCF certification.
+Experience in fintech or regulated environments.
+Advanced Database Administration experience, including performance optimization, handling CDC artifacts, or deduplication strategies.
+Experience with GitLab CI/CD.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development and IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at SecuritEase by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Platform Engineer
+Platform Engineer
+Share
+Wellington, Wellington, New Zealand
+1 month ago
+DevOps Lead
+DevOps Lead
+Socialite Recruitment Ltd.
+Wellington, New Zealand
+3 weeks ago
+Senior Engineer - Azure Cloud & DevOps
+Senior Engineer - Azure Cloud & DevOps
+LAB3
+Wellington, Wellington, New Zealand
+1 day ago
+Site Reliability Engineer
+Site Reliability Engineer
+Future Secure AI
+Wellington, Wellington, New Zealand
+2 weeks ago
+Intermediate Infrastructure Engineer
+Intermediate Infrastructure Engineer
+centrapay
+Wellington, Wellington, New Zealand
+NZ$90,000 - NZ$125,000
+1 month ago
+Senior Developer
+Senior Developer
+Bank of New Zealand
+Wellington, Wellington, New Zealand
+1 week ago
+Show more jobs like this 
+People also viewed
+Senior Software Engineer
+Senior Software Engineer
+
+Crimson Global Academy
+
+Wellington, Wellington, New Zealand
+2 weeks ago
+Senior Engineer Network Operations
+Senior Engineer Network Operations
+
+Tiaki Wai
+
+Wellington, Wellington, New Zealand
+1 day ago
+Engineering Manager - Multiple Roles (NZ)
+Engineering Manager - Multiple Roles (NZ)
+
+Xero
+
+Wellington, Wellington, New Zealand
+1 week ago
+AI Engineer Cloud Platforms
+AI Engineer Cloud Platforms
+
+Deloitte
+
+Wellington, Wellington, New Zealand
+13 hours ago
+Senior Engineer I-Test
+Senior Engineer I-Test
+
+Microchip Technology Inc.
+
+Wellington, Wellington, New Zealand
+1 week ago
+Senior Technical Consultant
+Senior Technical Consultant
+
+DXC Technology
+
+Wellington, Wellington, New Zealand
+1 week ago
+Reliability Engineer
+Reliability Engineer
+
+Veolia | Australia & New Zealand
+
+Wellington, Wellington, New Zealand
+1 month ago
+Senior Infrastructure & Network Engineers
+Senior Infrastructure & Network Engineers
+
+Randstad New Zealand
+
+Wellington, Wellington, New Zealand
+1 week ago
+Onsite Technical Site Lead
+Onsite Technical Site Lead
+
+MSD Australia & New Zealand
+
+Upper Hutt, Wellington, New Zealand
+3 weeks ago
+Forward Deployed Engineer, Frontier Engineering
+Forward Deployed Engineer, Frontier Engineering
+
+Snowflake
+
+Wellington, Wellington, New Zealand
+5 days ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
