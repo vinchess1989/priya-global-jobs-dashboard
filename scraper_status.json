@@ -1,9 +1,9 @@
 {
   "pid": 21300,
   "started_at": "2026-10-29T01:14:09+02:00",
-  "heartbeat_at": "2026-10-29T01:40:16+02:00",
+  "heartbeat_at": "2026-10-29T01:43:00+02:00",
   "phase": "reviewing",
-  "detail": "Incident, Problem and Change Manager",
-  "last_scrape_ok_at": "2026-10-29T01:39:01+02:00",
+  "detail": "Quality assurance manager - cannabis",
+  "last_scrape_ok_at": "2026-10-29T01:41:35+02:00",
   "last_error": null
 }
