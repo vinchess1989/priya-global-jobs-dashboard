@@ -1,0 +1,227 @@
+Title: Software Developer – Quality & Test Automation
+Company: Cisco
+Location: Galway, County Galway, Ireland
+URL: https://ie.linkedin.com/jobs/view/software-developer-%E2%80%93-quality-test-automation-at-cisco-4479094987
+Posted: 2026-10-15
+Deadline: N/A
+Reason: The role aligns with the candidate's background in test automation, CI/CD, and quality engineering within an embedded/device-focused environment, and it is located in an eligible country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Software Developer – Quality & Test Automation
+Cisco  Galway, County Galway, Ireland
+2 weeks ago  110 applicants
+  
+
+See who Cisco has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Meet the Team
+
+As a global technology leader, Cisco has been transforming how people connect, communicate, and collaborate for decades. Our innovation in networking, security, and cloud-based solutions enables organizations to drive digital transformation and achieve their business goals. The Collaboration Employee Experience organization creates workspace solutions that connect people, places, and experiences.
+
+Located in Galway, Ireland, you will be part of our engineering team, working closely with colleagues both locally and as part of a wider international team spanning Oslo and the United States. You will work closely with Cisco’s Devices organization — a team of 300+ passionate engineers across hardware, software, mechanics, audio, media processing, and artificial intelligence — from concept to product. Together we strive to create best-in-class video conferencing experiences by bringing diverse engineering disciplines under one mission.
+
+Your Impact
+
+You are a software developer with a quality and automation mindset. You enjoy taking ownership of test strategy, building automation that others can rely on, and helping the team move from ad-hoc verification to a systematic, scalable quality practice. You thrive as part of a team and contribute to our culture of shared learning, yet you are equally comfortable taking ownership and figuring things out independently when needed.
+
+You Will
+
+
+Build and maintain automated tests and test infrastructure in Python (and related languages as needed), covering unit, integration, and device-level scenarios
+Help design and take our quality and testing approach to the next level — from test strategy and coverage through CI integration, reporting, and debug workflows
+Work across the software stack, from Linux-level behaviour on our devices through to application and meeting-platform integration, to identify gaps and close them with automation
+Set up metrics, dashboards, and alarms that make product quality and test health visible and actionable
+Improve developer workflows by building tooling — including AI-assisted test generation, triage, and operational support where it adds real value
+Build software with quality and attention to detail, and help the team focus on continuous improvement — whether related to code quality or internal processes
+
+
+Minimum Qualifications
+
+
+Degree in computer science or equivalent
+6 years+ of professional software or test automation engineering experience
+Experience in Python, C++, including writing clean code, testing, and debugging
+Experience writing unit and integration tests, and building or extending automated test suites
+Experience working with Linux and Networking
+
+
+Preferred Qualifications
+
+
+Familiarity with core DevOps tools such as Git, Linux/Unix environments, CI/CD pipelines, and basic containerization (Docker)
+Experience testing or automating against embedded, Android, or device platforms
+Familiarity with building or integrating APIs
+Interest or experience in using AI tools (for example AI agents, MCP, or LLMs) to automate development, test, and operational workflows
+Strong problem-solving, debugging, and analytical skills
+Excellent collaboration and communication skills, with the ability to influence quality practices across a team
+
+
+Why Cisco?
+
+At Cisco, we’re revolutionizing how data and infrastructure connect and protect organizations in the AI era – and beyond. We’ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint.
+
+Fueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you’ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere.
+
+We are Cisco, and our power starts with you.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Cisco by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Software Development Engineer in Test
+Software Development Engineer in Test
+Genesys
+Galway, County Galway, Ireland
+1 week ago
+Test Automation Engineer
+Test Automation Engineer
+Covalen
+Galway, County Galway, Ireland
+2 weeks ago
+Software Development Engineer in Test (SDET)
+Software Development Engineer in Test (SDET)
+Ministry Brands
+Galway, County Galway, Ireland
+1 month ago
+Software QA Engineer
+Software QA Engineer
+Zinkworks
+Athlone, Ireland
+1 week ago
+Test Automation Engineer
+Test Automation Engineer
+PM Group
+Limerick, County Limerick, Ireland
+1 week ago
+IRL QA Engineer
+IRL QA Engineer
+Comtrade 360
+Galway, County Galway, Ireland
+2 weeks ago
+Show more jobs like this 
+People also viewed
+QA Validation Engineer
+QA Validation Engineer
+
+CAI
+
+Limerick, County Limerick, Ireland
+1 week ago
+Software Engineer - Webex
+Software Engineer - Webex
+
+Cisco
+
+Galway, County Galway, Ireland
+2 weeks ago
+Graduate Software Engineer
+Graduate Software Engineer
+
+Cisco
+
+Galway, County Galway, Ireland
+1 week ago
+Software Engineer - App Development
+Software Engineer - App Development
+
+Cisco
+
+Galway, County Galway, Ireland
+2 days ago
+Software Engineer - App Development
+Software Engineer - App Development
+
+Cisco
+
+Galway, County Galway, Ireland
+2 days ago
+Software Engineer - App Development
+Software Engineer - App Development
+
+Cisco
+
+Galway, County Galway, Ireland
+1 week ago
+Software Engineer - App Development
+Software Engineer - App Development
+
+Cisco
+
+Galway, County Galway, Ireland
+1 week ago
+Software Development Engineer – UI
+Software Development Engineer – UI
+
+Genesys
+
+Galway, County Galway, Ireland
+2 weeks ago
+Software Engineer
+Software Engineer
+
+Genesys
+
+Aille, County Galway, Ireland
+1 week ago
+Software Engineer (Shared Components)
+Software Engineer (Shared Components)
+
+Cisco
+
+Galway, County Galway, Ireland
+3 days ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

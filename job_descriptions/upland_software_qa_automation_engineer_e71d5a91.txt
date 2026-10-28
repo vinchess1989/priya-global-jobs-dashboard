@@ -1,0 +1,235 @@
+Title: QA Automation Engineer
+Company: Upland Software
+Location: Ireland
+URL: https://ie.linkedin.com/jobs/view/qa-automation-engineer-at-upland-software-4404126153
+Posted: 2026-05-02
+Deadline: N/A
+Reason: The role aligns with the candidate's extensive experience in CI/CD, quality gatekeeping, and automation, and it is located in Ireland, which is a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+QA Automation Engineer
+Upland Software  Ireland
+6 months ago   Over 200 applicants
+  
+
+See who Upland Software has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+At Upland Software, you’ll find smart, creative teams who love working together to deliver value for our customers, and a global culture of growth and possibility. Our operating model has always supported remote work—and as we keep growing and evolving our workplace, that won’t change. We’re passionate. We’re proactive. We take pride in our work, and we love a good challenge. Sound like you?
+
+Opportunity Summary
+
+InterFAX is a secure, scalable cloud fax platform used by enterprises and regulated industries worldwide. We provide reliable document delivery via APIs and web interfaces, integrating with complex customer environments across regions. As we grow our automation footprint, we’re looking for a QA Automation Engineer to elevate quality at speed across API, UI, and integration layers.
+
+Primary Responsibilities
+
+
+Own end-to-end test automation across SOAP and REST APIs and web UI, with an emphasis on maintainability, speed, and reliability.
+Design and implement robust test suites using Playwright (for both UI and API automation) and SoapUI (or ReadyAPI) for SOAP services—covering functional, regression, and smoke tests.
+Integrate automated tests into CI/CD pipelines (e.g., GitHub Actions/Azure DevOps/Jenkins) to enable gated builds, parallel execution, test artifacts, and quality gates.
+Leverage AI tools (e.g., code assistants, intelligent test generation, flaky test diagnosis) to accelerate test design, triage failures, and improve test stability.
+Triages and resolves automation failures quickly: debug network calls, flakiness, environment drifts, data setup issues, and concurrency/race conditions.
+Establish quality signals and dashboards (e.g., pass/fail trends, flake rate, coverage by feature, API latency thresholds) and communicate risks clearly to engineering and product.
+Champion best practices for test design patterns (page objects, fixtures, API clients), mocking/contract testing, test data management, and environment reliability.
+Collaborate tightly with developers, QA, DevOps, and Support to ensure seamless releases and rapid feedback loops.
+Contribute to standards and reusable frameworks for the CLA Business Unit to scale automation across products
+
+
+Requirements
+
+
+Strong hands‑on experience testing SOAP and REST APIs (request/response validation, schema/assertions, auth flows, error handling, idempotency).
+Experience with SoapUI including properties, data-driven tests, assertions, environment management, and CI execution.
+Proficiency with Playwright for UI and API automation, including:
+TypeScript or JavaScript test authoring
+Fixtures, selectors, network mocking, traces/videos
+Parallelization, tagging, retries, and flake control
+Proven ability to leverage AI tools (e.g., copilots, test code generators, log analyzers) to enhance testing efficiency and stability.
+Solid understanding of CI/CD and integrating automated tests (e.g., GitHub Actions, Azure DevOps, GitLab, Jenkins): artifacts, reports, secrets, environment gates.
+Strong troubleshooting skills for automation failures (timeouts, async waits, flaky selectors, network instability, test data conflicts) and improving test stability at scale.
+Source control proficiency (Git) and collaborative workflows (PRs, code reviews, branching, tagging).
+Clear communication with the ability to translate technical findings into actionable risks for stakeholders.
+
+Desired Skills
+
+
+Experience with secure document delivery, telephony/faxing, or SIP/T.38/G.711 concepts.
+Familiarity with contract testing (e.g., Pact), API schema validation (OpenAPI/WSDL), and mock servers.
+Performance and reliability testing for APIs (e.g., k6, JMeter) and observability (e.g., Grafana, Datadog, Azure Monitor).
+Test data management strategies and environment orchestration (containers, Docker Compose).
+Experience with Azure or AWS services and secrets/key management.
+Experience building shareable internal testing libraries or CLI tools.
+
+
+Qualifications
+
+
+5–8+ years in software QA/automation with a focus on API and UI test frameworks.
+Demonstrable ownership of CI-integrated automation at product scale.
+Bachelor’s degree in CS/Engineering or equivalent practical experience.
+
+
+Upland Software (Nasdaq: UPLD) is the intelligence layer that unifies and contextualizes enterprise knowledge, content, and data, turning isolated information into actionable outcomes for every human and agent. More than 1,100 enterprise customers rely on Upland's deep domain expertise to unlock the full value of their AI and agent-driven operating models, driving measurable outcomes across customer experience, employee productivity, and regulatory compliance. For more information, visit www.uplandsoftware.com.
+
+Upland Software is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex,
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Upland Software by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Test Automation Engineer
+Test Automation Engineer
+Covalen
+Galway, County Galway, Ireland
+2 weeks ago
+Test Automation Engineer
+Test Automation Engineer
+The Irish Times
+Dublin, County Dublin, Ireland
+3 weeks ago
+Test Automation Engineer
+Test Automation Engineer
+PM Group
+Limerick, County Limerick, Ireland
+1 week ago
+Software Development Engineer in Test
+Software Development Engineer in Test
+Genesys
+Galway, County Galway, Ireland
+1 week ago
+Software Developer – Quality & Test Automation
+Software Developer – Quality & Test Automation
+Cisco
+Galway, County Galway, Ireland
+2 weeks ago
+Software QA Engineer
+Software QA Engineer
+Zinkworks
+Athlone, Ireland
+1 week ago
+Show more jobs like this 
+People also viewed
+Staff Test Automation Engineer (Python) - Cork, Ireland
+Staff Test Automation Engineer (Python) - Cork, Ireland
+
+Qualcomm
+
+Cork, County Cork, Ireland
+5 days ago
+Senior Software Engineer in Test
+Senior Software Engineer in Test
+
+Nicoll Curtin
+
+Dublin, County Dublin, Ireland
+1 week ago
+Software Test Solutions Engineer
+Software Test Solutions Engineer
+
+Analog Devices
+
+Limerick, County Limerick, Ireland
+1 week ago
+FOXBORO TESTER (485)
+FOXBORO TESTER (485)
+
+Réalta Technologies
+
+Cork, County Cork, Ireland
+1 month ago
+Technical Graduate - Software Tester - Dublin 2027
+Technical Graduate - Software Tester - Dublin 2027
+
+CGI
+
+Dublin, County Dublin, Ireland
+3 weeks ago
+Automation Test Lead (2 Years Fixed Term Contract)
+Automation Test Lead (2 Years Fixed Term Contract)
+
+An Post
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+2027 Early Career Software Development in Test
+2027 Early Career Software Development in Test
+
+Anduril Industries
+
+Dublin, County Dublin, Ireland
+1 week ago
+Sr. Software Developer
+Sr. Software Developer
+
+OpenText
+
+Ireland
+1 day ago
+Systems Resilience Engineer - Hybrid Cloud Storage
+Systems Resilience Engineer - Hybrid Cloud Storage
+
+Qumulo
+
+Cork, County Cork, Ireland
+2 months ago
+QA Lead
+QA Lead
+
+Fiserv
+
+Nenagh, County Tipperary, Ireland
+2 weeks ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
