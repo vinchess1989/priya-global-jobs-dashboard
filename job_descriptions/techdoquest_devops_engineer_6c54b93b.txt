@@ -1,0 +1,258 @@
+Title: DevOps Engineer
+Company: TechDoQuest
+Location: Calgary, Alberta, Canada
+URL: https://ca.linkedin.com/jobs/view/devops-engineer-at-techdoquest-4482562206
+Posted: 2026-10-29
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in DevOps, CI/CD pipeline ownership, and release management, and it is located in Canada, which is a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+TechDoQuest  Calgary, Alberta, Canada
+2 hours ago   Be among the first 25 applicants
+  
+
+See who TechDoQuest has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Direct message the job poster from TechDoQuest
+
+Dharmita Kaithwas
+Dharmita Kaithwas
+Senior Manager @ TechDoQuest | Recruitment Strategies, Client Services
+
+Role Overview.
+
+A hands-on DevOps Engineer to support application modernization, Kubernetes adoption, and CI/CD automation. The role will focus on migrating applications from Pivotal Cloud Foundry (PCF) to Kubernetes, standardizing Helm charts, enabling isolated deployment environments, and improving platform observability. The engineer will collaborate with development and infrastructure teams to deliver reliable, repeatable application releases.
+
+Key Responsibilities
+
+Plan and execute application migrations from PCF to Kubernetes, including application readiness assessments, configuration changes, deployment validation, and rollback planning.
+Consolidate and standardize Helm charts to simplify deployment management and improve reuse across applications.
+Implement environment segregation for development, staging, and production through appropriate namespaces, configurations, and access controls.
+Enable review applications using dynamic Kubernetes namespaces, including automated provisioning and cleanup.
+Implement shim components and seamless deployment pipelines to support application transitions and release continuity.
+Build, maintain, and optimize CI/CD pipelines, incorporating automated builds, testing, deployment validation, and rollback capabilities.
+Guide development teams in adopting CI/CD practices and tools on the cloud and Kubernetes platform.
+Implement monitoring, reports, dashboards, and alerting using Dynatrace, Prometheus, and Grafana.
+Troubleshoot application deployment, pipeline, container, and Kubernetes platform issues.
+Maintain deployment documentation, operational runbooks, and knowledge-transfer materials.
+
+Required Skills and Qualifications
+
+The candidate must have 10-15 years of experience.
+Strong hands-on experience in DevOps engineering, release automation, and cloud-native application delivery.
+Demonstrated experience migrating applications from PCF to Kubernetes.
+Proficiency with Kubernetes, containerization, Helm, and YAML-based configuration.
+Experience managing Kubernetes workloads, services, ingress, namespaces, configuration, secrets, and resource limits.
+Strong experience building and troubleshooting Git-based CI/CD workflows.
+Experience implementing environment-specific deployments and temporary review environments.
+Hands-on experience with Dynatrace, Prometheus, and Grafana for application and platform observability.
+Proficiency in Linux administration and scripting, such as Bash or Python.
+Understanding of cloud networking, role-based access control, secrets management, and secure deployment practices.
+Strong troubleshooting, documentation, and cross-functional communication skills.
+
+Preferred Qualifications
+
+Experience with infrastructure as code and GitOps-based deployment practices.
+Experience supporting microservices and enterprise-scale cloud platforms.
+Familiarity with progressive deployment approaches, such as blue-green or canary releases.
+Relevant Kubernetes or cloud certifications.
+
+Core Skills: Kubernetes | PCF Migration | Helm | CI/CD | Containerization | Linux | Scripting | Dynatrace | Prometheus | Grafana.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Contract
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at TechDoQuest by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Social Coordinator jobs
+DevOps Engineer
+Similar jobs
+Senior DevOps Engineer
+Senior DevOps Engineer
+SOVRA
+Calgary, Alberta, Canada
+1 month ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Haventree Bank
+Calgary, Alberta, Canada
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+TELUS Digital
+Calgary, Alberta, Canada
+CA$96,000 - CA$120,000
+1 week ago
+Senior Cloud Engineer
+Senior Cloud Engineer
+Dexter Talent
+Calgary, Alberta, Canada
+CA$110,000 - CA$135,000
+1 week ago
+Site Reliability Engineer
+Site Reliability Engineer
+Tech Mahindra
+Calgary, Alberta, Canada
+2 weeks ago
+Senior Cloud DevOps Specialist
+Senior Cloud DevOps Specialist
+Pandell, an ESG Company
+Calgary, Alberta, Canada
+5 days ago
+Show more jobs like this 
+People also viewed
+Cloud Security Analyst
+Cloud Security Analyst
+
+ATB Financial
+
+Calgary, Alberta, Canada
+11 hours ago
+Software Engineer II, Backend (Online Storage)
+Software Engineer II, Backend (Online Storage)
+
+Affirm
+
+Calgary, Alberta, Canada
+2 weeks ago
+Security Engineer
+Security Engineer
+
+Kinaxis
+
+Calgary, Alberta, Canada
+1 week ago
+Data Engineer - Canada Region
+Data Engineer - Canada Region
+
+Slalom
+
+Calgary, Alberta, Canada
+1 week ago
+IBM Maximo (MAS ) Technical Specialist
+IBM Maximo (MAS ) Technical Specialist
+
+Accenture
+
+Calgary, Alberta, Canada
+1 day ago
+Data Engineer
+Data Engineer
+
+ShyftLabs
+
+Calgary, Alberta, Canada
+7 months ago
+Data Center Technician
+Data Center Technician
+
+Groq
+
+Calgary, Alberta, Canada
+2 weeks ago
+Java AWS Developer|| CALGARY, CN (Onsite)
+Java AWS Developer|| CALGARY, CN (Onsite)
+
+Verito Solutions Inc
+
+Calgary, Alberta, Canada
+3 hours ago
+Senior Cloud Security Engineer, Information Security
+Senior Cloud Security Engineer, Information Security
+
+Peoples Group
+
+Calgary, Alberta, Canada
+1 day ago
+Staff Software Developer - Cloud Platform – Control Plane
+Staff Software Developer - Cloud Platform – Control Plane
+
+IBM
+
+Calgary, Alberta, Canada
+CA$180,200 - CA$229,200
+1 week ago
+Similar Searches
+Social Coordinator jobs
+3,536 open jobs
+Recruiter jobs
+9,159 open jobs
+Project Management Intern jobs
+4,612 open jobs
+Solutions Architect jobs
+5,649 open jobs
+Solutions Engineer jobs
+3,942 open jobs
+Search Engine Optimization Analyst jobs
+44 open jobs
+Senior Software Engineer jobs
+5,247 open jobs
+Business Analyst jobs
+6,346 open jobs
+Architect jobs
+6,526 open jobs
+System Administrator jobs
+2,169 open jobs
+Compensation Specialist jobs
+708 open jobs
+Scrum Master jobs
+6,928 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at TechDoQuest
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

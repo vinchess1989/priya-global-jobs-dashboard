@@ -1,0 +1,340 @@
+Title: DevOps Engineer
+Company: TMC Canada
+Location: Montreal, Quebec, Canada
+URL: https://ca.linkedin.com/jobs/view/devops-engineer-at-tmc-canada-4482539579
+Posted: 2026-10-29
+Deadline: N/A
+Reason: The role is a DevOps Engineer position in Canada matching her core Python, Linux, CI/CD, and release-automation background.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+TMC Canada  Montreal, Quebec, Canada
+5 hours ago   Be among the first 25 applicants
+  
+
+See who TMC Canada has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+About the Role
+
+
+
+
+What will you be doing?
+
+Perform engineering and operational activities supporting data security services, including service delivery, task automation, DevOps activities, and participation in an on-call rota.
+Onboard new DevOps tools and maintain existing platforms to address business requirements and ensure effective integration with the Firm’s technology ecosystem.
+Collaborate with the Data Discovery Squad and broader Technology stakeholders to enhance services through automation, scripting, and effective observability solutions.
+Participate in design and code reviews across the Data Discovery Squad and relevant stakeholder groups.
+Contribute actively to the team’s Agile operating model, ceremonies, and delivery practices.
+Facilitate knowledge sharing across global Data Protection squads and chapters through clear documentation, presentations, and internal communications.
+
+The position also provides opportunities to:
+
+Broaden technical expertise through challenging engineering initiatives and the application of emerging technologies, including cloud data governance, with access to specialists across the Firm.
+Develop a deeper understanding of the financial services industry through engagement with business stakeholders and participation in relevant industry activities and events.
+Contribute within an open and inclusive environment in which informed perspectives and meaningful contributions are encouraged.
+
+What we’re looking for
+
+Must have:
+
+Scripting: Python, Linux Shell
+DevOps: Git, Jenkins Pipeline, Test Automation
+Orchestration: Docker, Kubernetes
+OS: Linux (in-depth), Windows
+Networking: network configuration and debugging
+Cloud: Azure Dev/DevOps, Public Cloud management
+Security Practices: Knowledge of critical cyber security controls
+AI Software Development Lifecycle (AI SDLC): Working knowledge of the secure and governed use of artificial intelligence across requirements, design, development, testing, deployment, monitoring, and continuous improvement, including appropriate human oversight.
+Willing to work in on-call rotation
+
+Would be nice:
+
+Cloud: M365, AWS, etc.
+Orchestration: Ansible, Terraform, Cloudify, other IaC
+SRE: Flux, Grafana, Splunk
+Agile: Jira
+Products: BigID, Securiti
+
+Professional Skills
+
+Demonstrated experience working effectively within Agile delivery teams.
+Proven experience integrating products into enterprise environments, including the deployment and integration of open-source products and tools using DevOps methodologies.
+Working knowledge of IT Service Management principles and ITIL practices.
+Ability to acquire and apply knowledge of proprietary technologies within a complex, regulated environment.
+A self-directed approach, supported by demonstrable experience in the technical and application support of enterprise systems.
+Excellent written and verbal communication skills, together with a professional and collaborative working style.
+A strong automation and orchestration mindset, with a focus on reducing manual processes and enabling product squads to devote greater capacity to engineering activities.
+
+Attributes
+
+A strong professional interest in automation, DevOps, and site reliability engineering.
+Comfort working within delivery models that use frequent, incremental code testing and deployment.
+A practical, hands-on approach to implementing DevOps processes from requirements analysis and test design through automation and results analysis.
+Accountability for the quality and timeliness of assigned deliverables.
+The ability to communicate material issues, risks, and progress updates accurately, clearly, and in a timely manner.
+
+
+
+
+__________________________________________
+
+À propos du rôle
+
+l.
+
+Que ferez-vous?
+
+Réaliser des activités d’ingénierie et d’exploitation à l’appui des services de sécurité des données, notamment la prestation de services, l’automatisation de tâches, les activités DevOps et la participation à une rotation d’astreinte.
+Intégrer de nouveaux outils DevOps et maintenir les plateformes existantes afin de répondre aux besoins d’affaires et d’assurer une intégration efficace à l’écosystème technologique de la Firme.
+Collaborer avec le Data Discovery Squad et les autres parties prenantes technologiques afin d’améliorer les services grâce à l’automatisation, au scripting et à des solutions d’observabilité efficaces.
+Participer aux revues de conception et de code au sein du Data Discovery Squad et des groupes de parties prenantes concernés.
+Contribuer activement au modèle opérationnel Agile de l’équipe, à ses cérémonies et à ses pratiques de livraison.
+Faciliter le partage des connaissances entre les équipes (squads) et les communautés de pratique (chapters) mondiales de la protection des données, au moyen de documentation, de présentations et de communications internes claires.
+
+Le poste offre également l’occasion de :
+
+Élargir votre expertise technique grâce à des initiatives d’ingénierie stimulantes et à l’application de technologies émergentes, notamment la gouvernance des données dans le nuage, avec accès à des spécialistes de toute la Firme.
+Approfondir votre compréhension du secteur des services financiers en collaborant avec les parties prenantes d’affaires et en participant à des activités et événements de l’industrie.
+Contribuer dans un environnement ouvert et inclusif où les points de vue éclairés et les contributions significatives sont encouragés.
+
+Ce que nous recherchons
+
+Exigences essentielles :
+
+Scripting : Python, Linux Shell
+DevOps : Git, Jenkins Pipeline, automatisation des tests
+Orchestration : Docker, Kubernetes
+Systèmes d’exploitation : Linux (connaissance approfondie), Windows
+Réseautique : configuration et débogage de réseaux
+Nuage : Azure Dev/DevOps, gestion du nuage public
+Pratiques de sécurité : connaissance des contrôles de cybersécurité critiques
+Cycle de vie du développement logiciel avec IA (AI SDLC) : connaissance pratique de l’utilisation sécuritaire et encadrée de l’intelligence artificielle aux étapes des exigences, de la conception, du développement, des tests, du déploiement, de la surveillance et de l’amélioration continue, y compris une supervision humaine appropriée.
+Disposition à participer à une rotation d’astreinte
+
+Atouts :
+
+Nuage : M365, AWS, etc.
+Orchestration : Ansible, Terraform, Cloudify, autres outils d’infrastructure as code (IaC)
+SRE : Flux, Grafana, Splunk
+Agile : Jira
+Produits : BigID, Securiti
+
+Compétences professionnelles
+
+Expérience démontrée de travail efficace au sein d’équipes de livraison Agile.
+Expérience avérée de l’intégration de produits dans des environnements d’entreprise, y compris le déploiement et l’intégration de produits et d’outils open source selon des méthodologies DevOps.
+Connaissance pratique des principes de gestion des services TI et des pratiques ITIL.
+Capacité d’acquérir et d’appliquer des connaissances sur des technologies propriétaires dans un environnement complexe et réglementé.
+Une approche autonome, appuyée par une expérience démontrable du soutien technique et applicatif de systèmes d’entreprise.
+Excellentes habiletés de communication écrite et verbale, ainsi qu’un style de travail professionnel et collaboratif.
+Une forte mentalité d’automatisation et d’orchestration, axée sur la réduction des processus manuels et sur la possibilité, pour les équipes produit, de consacrer plus de capacité aux activités d’ingénierie.
+
+Qualités recherchées
+
+Un vif intérêt professionnel pour l’automatisation, le DevOps et l’ingénierie de la fiabilité des sites (SRE).
+Aisance à travailler dans des modèles de livraison fondés sur des tests et des déploiements de code fréquents et progressifs.
+Une approche pratique et concrète de la mise en œuvre des processus DevOps, de l’analyse des exigences et de la conception des tests jusqu’à l’automatisation et à l’analyse des résultats.
+Responsabilité à l’égard de la qualité et du respect des échéanciers des livrables assignés.
+Capacité à communiquer de façon exacte, claire et rapide les enjeux importants, les risques et l’avancement des travaux.
+
+
+
+
+
+
+
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at TMC Canada by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Manufacturing Process Engineer jobs
+DevOps Engineer
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+Aylo
+Montreal, Quebec, Canada
+1 day ago
+DevOps Engineer
+DevOps Engineer
+INVOKE
+Montreal, Quebec, Canada
+1 day ago
+DevOps Engineer
+DevOps Engineer
+Studios Wizards of the Coast
+Montreal, Quebec, Canada
+1 week ago
+Platform Engineer
+Platform Engineer
+Xsolla
+Montreal, Quebec, Canada
+1 day ago
+DevOps Engineer
+DevOps Engineer
+EMERES INC.
+Montreal, Quebec, Canada
+3 weeks ago
+DevOps Engineer (Cloud Infrastructure)
+DevOps Engineer (Cloud Infrastructure)
+Tecsys Inc.
+Montreal, Quebec, Canada
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Cloud Platform Engineer
+Cloud Platform Engineer
+
+Baseten
+
+Montreal, Quebec, Canada
+$165,000 - $330,000
+3 months ago
+Ingénieur DevOps/Ingénieure DevOps
+Ingénieur DevOps/Ingénieure DevOps
+
+GO ROCK IT
+
+Montreal, Quebec, Canada
+6 days ago
+DevOps
+DevOps
+
+Wepoint
+
+Montreal, Quebec, Canada
+1 week ago
+Analyste DevOps
+Analyste DevOps
+
+TMX Group
+
+Montreal, Quebec, Canada
+2 weeks ago
+Site Reliability Engineer / Full Stack Engineer
+Site Reliability Engineer / Full Stack Engineer
+
+Lockheed Martin
+
+Montreal, Quebec, Canada
+2 months ago
+Platform Engineer - fintech - Montreal - $220,000+ bonus!
+Platform Engineer - fintech - Montreal - $220,000+ bonus!
+
+Hunter Bond
+
+Montreal, Quebec, Canada
+5 days ago
+Platform Engineer
+Platform Engineer
+
+CDWare Technologies
+
+Greater Montreal Metropolitan Area
+1 month ago
+Infrastructure Engineer
+Infrastructure Engineer
+
+People Culture Talent
+
+Montreal, Quebec, Canada
+1 month ago
+DevOps Principal·e / Principal DevOps
+DevOps Principal·e / Principal DevOps
+
+Cloud Imperium Games Montreal
+
+Montreal, Quebec, Canada
+2 weeks ago
+DevOps Developer - Hybrid
+DevOps Developer - Hybrid
+
+ISAAC Instruments
+
+St-Bruno-de-Montarville, Quebec, Canada
+1 week ago
+Similar Searches
+Manufacturing Process Engineer jobs
+1,258 open jobs
+Test Engineer jobs
+16,092 open jobs
+Staff Engineer jobs
+6,433 open jobs
+Automation Developer jobs
+910 open jobs
+Manufacturing Engineer jobs
+1,501 open jobs
+Lead Software Engineer jobs
+4,225 open jobs
+Principal System Engineer jobs
+158 open jobs
+Mechanical Engineer jobs
+2,289 open jobs
+Quality Assurance Automation Engineer jobs
+402 open jobs
+Software Engineering Manager jobs
+3,105 open jobs
+Simulation Engineer jobs
+1,245 open jobs
+Java Software Engineer jobs
+2,724 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at TMC Canada
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

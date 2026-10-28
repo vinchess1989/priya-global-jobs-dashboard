@@ -1,0 +1,262 @@
+Title: Sr. DevOps Engineer
+Company: Sphera
+Location: Derby, England, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/sr-devops-engineer-at-sphera-4481480260
+Posted: 2026-10-27
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in DevOps, CI/CD pipeline management, and infrastructure automation, and it is located in the UK, which is a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Sr. DevOps Engineer
+Sphera  Derby, England, United Kingdom
+2 days ago  49 applicants
+  
+
+See who Sphera has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Sphera is a leading global provider of enterprise software and services that enables companies to manage and optimize their environmental, health, safety and sustainability. Our mission is to create a safer, more sustainable and productive world.
+
+Sphera is a portfolio company of Blackstone, a U.S.-based alternative asset investment company that focuses on private equity, technology and innovation, and more. Blackstone businesses succeed through strong partnerships, a personalized approach and a commitment to exceptional performance with uncompromising integrity. Sphera and Blackstone are leaders in the Environmental, Social and Governance (ESG) space.
+
+We are guided by our core values of Customer Centricity, Accountability, Bias to Action, Innovation, and Collaboration. These values help us recruit the right talent to join our rapidly expanding team of around the globe. It is important to us that each and every Spherion is not only eager to challenge themselves and knows how to get work done but is an awesome addition to our company culture.
+
+Job Description
+
+You’ll be part of a global team supporting multiple SaaS environments that help make the world a safer place. We use Azure as our core, but host on multiple platforms due to specific needs and our rapid pace of development and acquisition. The environment is rapidly changing from IaaS to PaaS to server less. So, you’ll need to both apply your current skillsets and learn new things on a daily basis to push the business forward. While you’ll ultimately need a diversity of expert level skills to succeed, having deep understanding and experience in just a couple of areas (cloud infrastructure, scripting, automation, etc) may just get you in the door to a great career.
+
+Responsibilities
+
+
+Support application infrastructure to ensure platform is optimized for performance and reliability.
+Build and maintain supporting infrastructure for cloud environments and applications.
+Use wide range of Azure resources to implement scalable, reliable, and cost-efficient services.
+Work side by side with your engineers, guiding critical projects, using your subject matter expertise to solve complex problems.
+Perform and automate system administration services including installation, configuration, maintenance, and disaster recovery.
+Identify system level issues related to OS configuration and virtual hardware bottlenecks.
+Automation, auditing and other tooling for security, compliance, and resource usage - Monitor and improve processes for all deployments.
+Take ownership of operational excellence to establish and maintain business focused KPI's. Use these metrics not only as a basis for positive transformation, but also as a visible representation of your team's success.
+
+
+Essential Skills
+
+
+Strong problem-solving skills
+Ability to communicate effectively with multiple disciplines
+Solid foundation in either IT or Software Engineering
+Experience creating pipelines (CI/CD) and automating SaaS solutions in Azure.
+Strong automation skills both with scripting languages and Terraform, ARM, etc
+Ability to build and optimize cloud-based networks (VNets, App Gateways, etc)
+Familiarity and experience with integrating multiple third-party tools like SonarCloud.
+Ability to build environments from the ground up (windows, linux, SQL, Redis, WebApps, etc)
+Experience with containerization
+
+
+Preferred Skills
+
+
+Kubernetes or other orchestration tools
+Azure API management or similar
+NewRelic scripted monitors
+Experience with security tools (including CheckPoint) and best practices
+Hadoop, Kafka, Presto (or similar BI/Big Data tech)
+
+
+Sphera is proud to be an Equal Opportunity Employer. We celebrate diversity and are committed to creating an inclusive environment for all colleagues.
+
+This job description is intended to convey information essential to understanding the scope of the job and the general nature and level of work performed by job holders within this job. This job description is not intended to be an exhaustive list of qualifications, skills, efforts, duties, responsibilities or working conditions associated with the position.
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Sphera by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Assistant Design Engineer jobs
+Sr. DevOps Engineer
+Similar jobs
+Senior DevOps Engineer
+Senior DevOps Engineer
+Nearform
+United Kingdom
+2 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Arbor Education
+United Kingdom
+£70,000 - £80,000
+1 week ago
+Senior DevOps Engineer (AWS Platform)
+Senior DevOps Engineer (AWS Platform)
+Enigmatic Smile Limited
+United Kingdom
+5 months ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+OAG
+United Kingdom
+2 weeks ago
+Senior DevOps & Infrastructure Engineer
+Senior DevOps & Infrastructure Engineer
+Cenosco
+United Kingdom
+3 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+ieso
+United Kingdom
+£70,000 - £80,000
+1 month ago
+Show more jobs like this 
+People also viewed
+Senior Site Reliability Engineer | SRE (Remote, EU/CET)
+Senior Site Reliability Engineer | SRE (Remote, EU/CET)
+
+Maze
+
+United Kingdom
+2 weeks ago
+Senior Site Reliability Engineer - (EMEA-Remote)
+Senior Site Reliability Engineer - (EMEA-Remote)
+
+ClickHouse
+
+United Kingdom
+1 month ago
+DevOps Engineer (100% remote)
+DevOps Engineer (100% remote)
+
+Tether.io
+
+United Kingdom
+1 week ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+Laravel
+
+United Kingdom
+4 weeks ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+Runware
+
+United Kingdom
+3 months ago
+DevOps Engineer
+DevOps Engineer
+
+Coltech
+
+United Kingdom
+1 week ago
+Principal DevOps Engineer
+Principal DevOps Engineer
+
+Intermedia Intelligent Communications
+
+United Kingdom
+5 days ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+DoiT
+
+United Kingdom
+5 days ago
+Senior Cloud Infrastructure and DevOps Solutions Architect
+Senior Cloud Infrastructure and DevOps Solutions Architect
+
+NVIDIA
+
+United Kingdom
+2 weeks ago
+DevSecOps Engineer
+DevSecOps Engineer
+
+FlatPlan
+
+United Kingdom
+1 day ago
+Similar Searches
+Assistant Design Engineer jobs
+3,839 open jobs
+Compliance Engineer jobs
+2,703 open jobs
+Credit Collections Analyst jobs
+2,451 open jobs
+Senior Corporate Counsel jobs
+1,125 open jobs
+Cobol Programmer jobs
+241 open jobs
+Toxicologist jobs
+626 open jobs
+Associate Developer jobs
+668 open jobs
+Scientific Programmer jobs
+3,057 open jobs
+Component Engineer jobs
+2,546 open jobs
+Performance Director jobs
+2,915 open jobs
+Director of Product Operations jobs
+448 open jobs
+Senior Strategy Manager jobs
+1,893 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Sphera
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
