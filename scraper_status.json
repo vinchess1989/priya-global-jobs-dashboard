@@ -1,9 +1,9 @@
 {
   "pid": 21300,
   "started_at": "2026-10-29T01:14:09+02:00",
-  "heartbeat_at": "2026-10-29T01:35:40+02:00",
+  "heartbeat_at": "2026-10-29T01:37:50+02:00",
   "phase": "reviewing",
-  "detail": "Quality Assurance for Integrated Batch Release",
-  "last_scrape_ok_at": "2026-10-29T01:34:16+02:00",
+  "detail": "Apply on company site",
+  "last_scrape_ok_at": "2026-10-29T01:36:33+02:00",
   "last_error": null
 }

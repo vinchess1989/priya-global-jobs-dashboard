@@ -1,0 +1,94 @@
+Title: DevOps Engineer
+Company: TMGM
+Location: Sydney, NSW, Australia
+URL: https://au.jora.com/job/DevOps-Engineer-d27636799d7cd14b12d6a3e29e705870
+Posted: 18h ago
+Deadline: N/A
+Reason: The role aligns perfectly with the candidate's extensive experience in DevOps, CI/CD pipeline ownership, and configuration management, and it is located in an eligible country (Australia) with no mention of visa restrictions.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Search
+Sign in
+What
+Where
+Search jobs
+DevOps Engineer
+TMGM
+–
+Sydney NSW
+Hybrid
+18h ago, from Workable ATS
+Apply on company site
+
+About TMGM
+
+TMGM is a global financial services provider at the forefront of online trading and investment solutions. We are proud to be the Official Regional Online Forex and Trading Partner of Chelsea FC in the Asia-Pacific region.
+
+With a strong global presence and offices across four major Australian cities—Sydney, Melbourne, Adelaide, and Canberra—TMGM continues to expand its operations and deliver high-quality services to clients worldwide.
+
+About the role
+
+We are seeking an experienced DevOps Engineer to join our Trading Solutions Team in Sydney. The successful candidate will be responsible for designing, developing and maintaining cloud-based infrastructure, CI/CD pipelines and automated deployment solutions supporting our FX and CFD trading operations.
+
+Working closely with software engineering and trading technology teams, this role will focus on automating software delivery, managing cloud environments, monitoring system performance, and ensuring the security, availability, stability and reliability of our production trading environments.
+
+Responsibility
+
+Collaborate with software engineering, quantitative development and trading technology teams to design, build, integrate and deploy cloud-based applications supporting the company's FX and CFD trading operations, coordinating workflows between teams and automating hand-offs to improve delivery efficiency and system availability, stability and reliability.
+Design, build and continuously improve the company's continuous integration and continuous delivery (CI/CD) pipelines, automating the build, testing, deployment and upgrade of trading software and platforms and ensuring compatibility with existing infrastructure and operational requirements.
+Configure, document and deploy cloud operating environments by developing and maintaining infrastructure-as-code, automated provisioning and configuration management tooling, with an emphasis on efficiency, consistency, scalability and security.
+Develop and maintain monitoring, logging, alerting and observability solutions for critical trading infrastructure and applications, collecting and analysing operational metrics such as system performance, availability, network connectivity and latency to identify and resolve technical issues affecting production trading environments.
+Implement and automate security controls across the delivery pipeline and cloud environments, such as access management, secrets management, vulnerability scanning and automated security patching, and identify and remediate vulnerabilities throughout the software lifecycle in accordance with the company's governance processes, security policies and industry best practice.
+Provide technical support to software engineering teams in designing, testing and debugging software solutions, including diagnosing and correcting build, integration, configuration and environment-related defects within established testing and release standards.
+Safeguard the stability, performance and security of the trading environment and critical trading infrastructure by identifying and mitigating risks across the software delivery lifecycle, investigating production incidents and anomalies, conducting root cause analysis and implementing corrective and preventive measures.
+Maintain technical documentation, environment configuration records, deployment runbooks and operational procedures, and recommend improvements to DevOps tooling, cloud services and platform upgrades to support system deployments, maintenance and infrastructure improvements.
+
+Requirements
+
+Bachelor's degree or higher in Information Technology, Computer Science, Engineering (with a major in computing) or a related discipline.
+At least 2 years of relevant experience in DevOps engineering or a similar role, including CI/CD, cloud automation and system deployment.
+Strong knowledge of cloud platforms, operating systems, network infrastructure and system security.
+Experience in infrastructure automation, Infrastructure as Code (IaC), configuration management, CI/CD pipelines, system monitoring and troubleshooting.
+Knowledge of cloud security practices, access management, vulnerability management and automated security controls.
+Strong analytical, problem-solving and communication skills.
+Experience in financial services or trading technology environments will be highly regarded.
+
+Benefits
+
+Competitive salary and performance-based bonuses.
+Opportunities for career growth and development within a global company.
+Collaborative and inclusive work environment with exposure to cross-region operations.
+Health and wellness benefits.
+Flexible working arrangements.
+Apply on company site
+Be careful - Don’t provide your bank or credit card details when applying for jobs. Don't transfer any money or complete suspicious online surveys. If you see something suspicious, report this job ad.
+Email to yourself or a friend
+Email job
+Discover Jora
+Browse jobs
+Browse salaries
+Find recruiter
+About
+FAQ
+Blog
+Reviews
+Browse Jobs in Australia
+Jobs in Sydney
+Jobs in Melbourne
+Jobs in Hobart
+Jobs in Brisbane
+Jobs in Perth
+Jobs in Darwin
+Jobs in Adelaide
+Connect with us
+TikTok
+Facebook
+Linkedin
+Get Jora app
+Contact us
+Privacy
+Terms & Conditions
+©2026 Job Seeker Pty Ltd

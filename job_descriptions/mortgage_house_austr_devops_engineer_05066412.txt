@@ -1,0 +1,143 @@
+Title: DevOps Engineer
+Company: Mortgage House Australia
+Location: Sydney, NSW, Australia
+URL: https://au.jora.com/job/DevOps-Engineer-2ff2306b3a0d756f3f610233ff35d435
+Posted: 2026-10-28
+Deadline: N/A
+Reason: The role aligns with the candidate's expertise in DevOps, CI/CD, and regulated environments, and it is located in Australia, which is a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Search
+Sign in
+What
+Where
+Search jobs
+DevOps Engineer
+Mortgage House
+–
+North Sydney NSW
+4.3 from 7 reviews at SEEK
+$75,000 - $85,000 a year
+Full time
+1d ago, from seek.com.au
+Apply on company site
+
+DevOps Engineer – Mortgage House Capital Pty Ltd
+
+Position: DevOps Engineer – Bidirectional Platform  Employer: Mortgage House Australia  Employment Type: Full-Time  Location: Sydney, NSW
+
+About Mortgage House
+
+Mortgage House Capital Pty Ltd is the administrative company within the Mortgage
+
+House Group for a number of mortgage origination companies. Mortgage House is an
+
+independent privately owned award winning ﬁnance group since 1986.
+
+experience of providing exceptional levels of service to our valued customers.  We have
+
+a service philosophy that enables a broad range of customers to have access to quality
+
+home loan and ﬁnancial products.  We are a performance driven organisation
+
+transforming the way, we work to serve our customers and embrace people who are just
+
+as dedicated and passionate about their career. Mortgage House is an active
+
+participant in the Securitisation (RMBS) market.
+
+About the Role
+
+The DevOps Engineer – Bidirectional Platform is accountable for the development, deployment, security and ongoing improvement of our cloud-based infrastructure and lending platforms. The DevOps Engineer will be responsible for implementing, automating, maintaining and monitoring cloud infrastructure and deployment processes, primarily within Microsoft Azure.
+
+Working closely with our Development, Architecture, Security and Operations teams, the successful candidate will ensure that our technology platforms are secure, reliable, scalable and efficiently deployed. This role offers an opportunity to work with modern cloud technologies, infrastructure automation and CI/CD practices in a dynamic financial services environment.
+
+All work is performed within a governed, audit-ready, automation-ﬁrst operating model aligned to APRA CPS 234, ISO 27001, and SOC 2 control expectations.
+
+Key Responsibilities
+
+Implement, configure and maintain secure cloud infrastructure and platform services using Microsoft Azure across development, testing, staging and production environments.
+Develop and maintain Infrastructure as Code (IaC) solutions using Terraform to automate infrastructure provisioning, configuration and management.
+Design, implement and maintain secure Continuous Integration and Continuous Deployment (CI/CD) pipelines using GitHub Actions, Docker and related DevOps technologies.
+Support the deployment and management of Azure services, including Azure App Service, Azure Container Registry and Azure Key Vault, ensuring reliability, scalability and security.
+Manage infrastructure configurations, identify technical risks and configuration inconsistencies, and recommend improvements to platform performance and operational efficiency.
+Support multi-tenant platform provisioning and configuration for lending institutions and associated brands, maintaining appropriate access controls, security boundaries and system consistency.
+Implement and maintain security controls for cloud infrastructure and deployment processes, including secrets management, vulnerability scanning, access permissions and secure software delivery.
+Coordinate software releases, undertake environment validation and production-readiness assessments, and implement appropriate deployment, rollback and change-management procedures.
+Configure and maintain system monitoring, logging and alerting using Azure Monitor and related tools, investigating incidents and implementing corrective actions to improve system reliability.
+Support backup, recovery and disaster-recovery processes, including recovery testing, operational documentation and business continuity requirements.
+Collaborate with software developers, infrastructure engineers, architects and cybersecurity teams to resolve technical issues and improve infrastructure automation and deployment processes.
+Maintain technical documentation, monitor emerging DevOps technologies and recommend improvements to cloud infrastructure, system security and operational practices.
+
+Skills and Qualifications
+
+Essential Requirements
+
+Bachelor's degree in Information Technology, Computer Science, Software Engineering or a related discipline, or equivalent relevant experience.
+At least 1 year demonstrated experience in a DevOps Engineer, Cloud Engineer, Systems Engineer or similar technical role.
+Strong experience with Microsoft Azure cloud infrastructure and platform services.
+Practical experience with Terraform and Infrastructure as Code.
+Experience developing and maintaining CI/CD pipelines using GitHub Actions or similar tools.
+Working knowledge of Docker, containerisation and cloud application deployment.
+Understanding of cloud security principles, identity and access management, and secure deployment practices.
+Experience with infrastructure monitoring, troubleshooting and incident management.
+Strong analytical, problem-solving and communication skills.
+Ability to work collaboratively across technical teams and manage competing operational priorities.
+
+Highly Regarded
+
+Experience with Azure Key Vault, Azure Container Registry and Azure Monitor.
+Knowledge of OIDC federation, automated security scanning and vulnerability management tools such as Checkov, Trivy and SonarCloud.
+Familiarity with software supply-chain security, SBOM generation and Cosign signing.
+Experience supporting multi-tenant applications or enterprise cloud platforms.
+Knowledge of disaster recovery, backup management and high-availability systems.
+Previous experience working in banking, mortgage lending, fintech or other regulated financial services environments.
+Relevant Microsoft Azure, Terraform or DevOps certifications.
+
+What We Offer
+
+An opportunity to work with an established Australian mortgage lending organisation.
+Exposure to modern cloud infrastructure, automation and DevOps technologies.
+A collaborative and professional technology team.
+Opportunities for professional development and technical advancement.
+Competitive remuneration commensurate with skills and experience in the range $75-85,000.
+The opportunity to contribute to innovative financial technology platforms and business-critical systems.
+
+How to Apply
+
+If you are a technically skilled and proactive DevOps Engineer with a passion for cloud infrastructure, automation and secure software delivery, we encourage you to apply.
+
+Please submit your resume and a cover letter outlining your relevant qualifications, technical expertise and professional experience.
+
+Apply on company site
+Be careful - Don’t provide your bank or credit card details when applying for jobs. Don't transfer any money or complete suspicious online surveys. If you see something suspicious, report this job ad.
+Email to yourself or a friend
+Email job
+Discover Jora
+Browse jobs
+Browse salaries
+Find recruiter
+About
+FAQ
+Blog
+Reviews
+Browse Jobs in Australia
+Jobs in Sydney
+Jobs in Melbourne
+Jobs in Hobart
+Jobs in Brisbane
+Jobs in Perth
+Jobs in Darwin
+Jobs in Adelaide
+Connect with us
+TikTok
+Facebook
+Linkedin
+Get Jora app
+Contact us
+Privacy
+Terms & Conditions
+©2026 Job Seeker Pty Ltd
