@@ -1,0 +1,246 @@
+Title: Senior DevOps Engineer
+Company: Singtel
+Location: Singapore, Singapore
+URL: https://sg.linkedin.com/jobs/view/senior-devops-engineer-at-singtel-4484436049
+Posted: 2026-10-29
+Deadline: Open until filled
+Reason: The role is a strong match for the candidate's extensive experience in DevOps, CI/CD pipeline ownership, and configuration management, and it is located in a target country (Singapore).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer
+Singtel  Singapore, Singapore
+16 hours ago   Be among the first 25 applicants
+  
+
+See who Singtel has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+About The Role
+
+We are seeking an experienced Senior DevOps Engineer to join our Enterprise Platforms Engineering team. The role is responsible for designing, building and delivering software development infrastructure that supports internal tools and platform development. Working closely with engineering and technology teams, the Senior DevOps Engineer will enable reliable and automated application and infrastructure deployment while ensuring alignment with organisational IT, security, architecture and engineering standards.
+
+The successful candidate will bring strong technical expertise, effective communication skills and the ability to collaborate with teams with different levels of technical experience. They will contribute to the adoption of DevOps best practices, cloud architecture strategies and engineering standards while supporting the continued evolution of cloud and automation capabilities.
+
+Key Responsibilities
+
+
+Architect, implement and automate CI/CD pipelines across development, staging and production environments.
+Develop and maintain DevOps engineering standards and best practices.
+Identify opportunities to improve deployment consistency, reliability and automation.
+Design and implement Infrastructure as Code (IaC) solutions and automated application deployments.
+Develop tools and scripts to automate deployment and operational processes.
+Guide project teams toward solutions aligned with agreed architecture, security, engineering principles and standards.
+Provide technical guidance to teams on application and infrastructure automation.
+Mentor engineers and facilitate knowledge sharing across teams.
+Integrate appropriate security controls and testing into DevOps processes.
+Drive continuous improvements in application design, development and delivery.
+Improve system reliability and recovery through monitoring, alerting, automation and self-healing capabilities.
+Promote an automation-first engineering approach.
+Apply agile practices to support consistent and transparent delivery.
+Manage and maintain DevOps pipelines and collaborate with development teams on integrated delivery pipelines.
+Lead technology evaluations and implementations to address gaps in software build, testing, deployment and scalability capabilities.
+Develop and implement governance processes and tools to support compliance with applicable technology standards and policies.
+
+
+Requirements
+
+
+Relevant experience in Information Technology, including significant hands-on experience with DevOps engineering for complex systems.
+Demonstrated experience designing, implementing and operating CI/CD and infrastructure automation solutions.
+Strong hands-on experience with Linux operating systems such as Ubuntu.
+Strong practical experience with Kubernetes and containerised environments.
+Experience with at least one major public cloud platform, such as AWS, Microsoft Azure or Google Cloud Platform.
+Strong understanding of networking concepts, including VPCs, subnets, VPNs, DNS, load balancing and network protocols.
+Hands-on experience implementing Infrastructure as Code using Terraform or comparable technologies.
+Experience with containerisation and orchestration technologies such as Docker, Kubernetes and Helm.
+Experience building and maintaining CI/CD solutions using technologies such as GitHub Actions, Jenkins or comparable tools.
+Experience with configuration-management technologies such as Ansible, Chef, Puppet or comparable tools.
+Strong troubleshooting and debugging skills in complex distributed computing environments.
+Proficiency with Git and experience using collaboration and work-management platforms such as Jira and Confluence.
+Experience working with APIs, command-line interfaces and SDKs.
+Experience with API gateway technologies such as NGINX, Apigee or comparable platforms.
+Strong scripting capability using technologies such as Shell and Python.
+Experience with logging, monitoring and tracing platforms such as Azure Monitor, Amazon CloudWatch, Zabbix, Elasticsearch/Kibana, Prometheus/Grafana, New Relic, Datadog or Dynatrace.
+Understanding of SQL and NoSQL database technologies, such as MongoDB, DynamoDB, MySQL and PostgreSQL.
+
+
+Preferred Skills
+
+Experience with one or more of the following would be advantageous:
+
+
+Event-streaming technologies such as Kafka.
+Service-mesh technologies such as Istio or Envoy.
+REST APIs and GraphQL.
+Microservices architecture.
+Secrets-management technologies such as Vault.
+Service-discovery and distributed-coordination technologies such as Consul, ZooKeeper or etcd.
+Relevant professional certifications, such as RHCE/RHCSA or Kubernetes certifications.
+
+
+Are you ready to say hello to BIG Possibilities?
+
+Join Singtel to shape what's next and accelerate your career through meaningful work, continuous learning, and real impact.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Telecommunications
+  
+
+Referrals increase your chances of interviewing at Singtel by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Singapore, Singapore.
+
+Sign in to create job alert
+Similar jobs
+Senior Devops Engineer
+Senior Devops Engineer
+Grab
+Singapore, Singapore
+23 hours ago
+DevOps Engineer
+DevOps Engineer
+Accenture Southeast Asia
+Singapore, Singapore
+1 month ago
+Platform Engineer (Cloud & DevSecOps)
+Platform Engineer (Cloud & DevSecOps)
+National University of Singapore
+Singapore, Singapore
+2 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+StarHub
+Singapore, Singapore
+2 weeks ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+Apple
+Singapore, Singapore
+2 months ago
+DevOps & Kubernetes Engineer
+DevOps & Kubernetes Engineer
+Accenture Southeast Asia
+Singapore, Singapore
+1 month ago
+Show more jobs like this 
+People also viewed
+DevOps Engineer, APAC region
+DevOps Engineer, APAC region
+
+Twelve Data
+
+Singapore, Singapore
+2 months ago
+Senior Site Reliability (DevOps) Engineer (INPD)
+Senior Site Reliability (DevOps) Engineer (INPD)
+
+Rakuten Asia Pte Ltd
+
+Singapore
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Capgemini
+
+Singapore, Singapore
+2 months ago
+Platform Engineer
+Platform Engineer
+
+Vitol
+
+Singapore, Singapore
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Kyndryl
+
+Singapore, Singapore
+1 week ago
+Senior DevOps Engineer (Trading Platform)
+Senior DevOps Engineer (Trading Platform)
+
+Crypto.com
+
+Singapore
+2 weeks ago
+Platform / DevOps Engineer
+Platform / DevOps Engineer
+
+Selby Jennings
+
+Singapore, Singapore
+4 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Vanguard Software
+
+Singapore, Singapore
+4 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Encora Inc.
+
+Singapore
+3 months ago
+Devops/Devsecops Engineer
+Devops/Devsecops Engineer
+
+RAPSYS TECHNOLOGIES PTE LTD
+
+Singapore, Singapore
+6 days ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

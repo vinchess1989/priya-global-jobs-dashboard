@@ -1,0 +1,265 @@
+Title: Senior DevOps Engineer
+Company: Network International
+Location: Johannesburg, Gauteng, South Africa
+URL: https://za.linkedin.com/jobs/view/senior-devops-engineer-at-network-international-4484042816
+Posted: 2026-10-28
+Deadline: Open until filled
+Reason: The role aligns with the candidate's extensive experience in DevOps, CI/CD, and release management within a regulated financial environment, and it is located in a target country (South Africa).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer
+Network International  Johannesburg, Gauteng, South Africa
+1 day ago   Be among the first 25 applicants
+  
+
+See who Network International has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+About Us
+
+JOB DESCRIPTION
+
+Network International is the largest Financial Technology company in Middle East and Africa. Payments is our core business where we provide services in more than 50 countries – UAE, Jordan, South Africa, Egypt are some of our key markets. Apart from payments, we provide services on Data and Insights, Lending, Insurance, Risk Solutions, etc. Our core customers are businesses at every scale and segment, though recently we are growing in direct to consumer card segment as well.
+
+Our EVP's
+
+At Network International, we always stay ahead. . In the fast-paced world of financial services, we thrive on innovation, agility, and purposeful collaboration. We invest first in our people, empowering you to make bold decisions, learn fast, and grow your expertise alongside industry leaders. Here, solving complex problems means more than using cutting-edge technology; it’s about creating meaningful value for our customers, together. We foster a culture where trust, accountability, and achievement go hand in hand—because success isn’t just a goal; it’s how we work, every day, as one team.
+
+Job Description
+
+We're looking for a Senior AWS DevOps Engineer to design, build, and operate the cloud infrastructure powering our high availability payment processing platform. You'll own reliability, automation, and security across a complex, regulated production environment handling live financial transactions. This is a hands-on senior role combining deep AWS expertise with a strong automation-first, infrastructure-as-code mindset.
+
+Responsibilities
+
+Develop and maintain procedures to comply with security policies and IT best practices
+
+
+Develop and maintain documentation of systems configurations and procedures
+Monitor systems via applications, log files, Elk/OpenSearch and sanity checks
+Actively work on building and migrating PayFast to Kubernetes.
+Maintain our configuration and build management systems
+Database maintenance and implementations
+Serve as an escalation point to resolve problems in Servers and users’ environment
+Work closely with technical team members (cultural fit)
+Must be able to troubleshoot complex issues quickly and effectively
+Research and evaluation of new technologies for our environment
+CI, Testing and release management
+Firewall Administration
+Security and incident response
+Patch management
+Agile working methods, agile planning, time management and planning/prioritisation skills
+
+
+Requirements
+
+
+Certification (Bachelors / RHCE / ISO 27001/PCI) is a plus but not required
+High level of proficiency in Linux based OS
+Cloud Infrastructure (AWS) Associated Certified is a must have
+Containers (Docker + Kubernetes)
+Pipelines (Jenkins/Gitlab Ci)
+Proficiency in a scripting language and application language: Bash, Python, PHP, Perl, Java , Go
+Proven IaC experience in one of: SaltStack, Chef, Ansible, Puppet, Teraform
+Web Servers (Apache, Nginx, fpm, node)
+Load Balancers Experience
+Knowledge of Database technologies: AWS RDS (especially Maria and MySQL)
+NoSql DBs,pub/sub and Key/Value stores: Redis/mongo
+Replication technologies
+Experience in Networking: OSI, (AWS TGW and basic on prem OSI model)
+Queues – Rabbit, MQ
+
+
+Network International is an equal opportunity employer. We welcome and encourage applications from candidates of all backgrounds, nationalities, and experience levels. We are committed to creating an inclusive workplace where innovation, diversity, and performance thrive.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Network International by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Johannesburg, Gauteng, South Africa.
+
+Sign in to create job alert
+Jobs
+Windows Server Engineer jobs
+Senior DevOps Engineer
+Similar jobs
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+VALR
+Johannesburg, Gauteng, South Africa
+1 month ago
+Senior DevOps Engineer Azure & Kubernetes (m/f) – Global SaaS Construction Software
+Senior DevOps Engineer Azure & Kubernetes (m/f) – Global SaaS Construction Software
+RIB Software
+Centurion, Gauteng, South Africa
+7 hours ago
+Senior DevSecOps Engineer
+Senior DevSecOps Engineer
+Betway Global
+Johannesburg, Gauteng, South Africa
+1 week ago
+Senior DevOps Engineer / Technical Lead
+Senior DevOps Engineer / Technical Lead
+Sanlam
+Sandton, Gauteng, South Africa
+1 day ago
+Senior DevSecOps Engineer
+Senior DevSecOps Engineer
+Betway Global
+Pretoria, Gauteng, South Africa
+1 week ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+Camunda
+Johannesburg, Gauteng, South Africa
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Data Platform Engineer
+Data Platform Engineer
+
+Zensar Technologies
+
+Johannesburg Metropolitan Area
+3 weeks ago
+DevOps engineer
+DevOps engineer
+
+Blue Pearl HQ
+
+Johannesburg, Gauteng, South Africa
+2 weeks ago
+Senior DevOps Azure
+Senior DevOps Azure
+
+Amarico
+
+Johannesburg Metropolitan Area
+1 week ago
+Junior DevOps Engineer
+Junior DevOps Engineer
+
+Network International
+
+Johannesburg, Gauteng, South Africa
+1 day ago
+Intermediate AWS Platform / Integration engineer
+Intermediate AWS Platform / Integration engineer
+
+DeARX
+
+Sandton, Gauteng, South Africa
+2 weeks ago
+Kafka Specialist at Datonomy Solutions
+Kafka Specialist at Datonomy Solutions
+
+Datonomy Solutions
+
+Emfuleni, Gauteng, South Africa
+2 weeks ago
+Engineering Manager - Infrastructure
+Engineering Manager - Infrastructure
+
+Camunda
+
+Johannesburg, Gauteng, South Africa
+1 week ago
+Forward-Deployed Engineer
+Forward-Deployed Engineer
+
+ADG
+
+Johannesburg, Gauteng, South Africa
+1 week ago
+Lead Azure Cloud & DevOps Engineer
+Lead Azure Cloud & DevOps Engineer
+
+Amarico
+
+Johannesburg Metropolitan Area
+1 day ago
+Senior Infrastructure Consultant
+Senior Infrastructure Consultant
+
+Technimove
+
+Johannesburg, Gauteng, South Africa
+1 week ago
+Similar Searches
+Windows Server Engineer jobs
+47 open jobs
+Change And Release Manager jobs
+11 open jobs
+Head of Business Analysis jobs
+80 open jobs
+Network Security Specialist jobs
+61 open jobs
+Senior Software Quality Engineer jobs
+25 open jobs
+Group Internal Auditor jobs
+131 open jobs
+Treasury Accountant jobs
+400 open jobs
+International Project Manager jobs
+159 open jobs
+Senior Oracle Database Administrator jobs
+17 open jobs
+Internal Audit Supervisor jobs
+82 open jobs
+Card Manager jobs
+319 open jobs
+Network Operations Engineer jobs
+62 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

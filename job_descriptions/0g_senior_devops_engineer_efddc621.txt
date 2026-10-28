@@ -1,0 +1,323 @@
+Title: Senior DevOps Engineer
+Company: 0G
+Location: Singapore, Singapore
+URL: https://sg.linkedin.com/jobs/view/senior-devops-engineer-at-0g-4484412479
+Posted: 2026-10-29
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in DevOps, CI/CD pipeline ownership, and infrastructure management, and it is located in a target country (Singapore) with no mention of visa restrictions.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer
+0G  Singapore, Singapore
+18 hours ago  50 applicants
+  
+
+See who 0G has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+About The Role
+
+0G is hiring its first dedicated DevOps engineer to own our cloud platform end to end: infrastructure, deployments, networking, security hygiene and cost. Today that work is spread across several developers.
+
+Our platform runs on five providers: Google Cloud, Alibaba Cloud, AWS, Cloudflare and Vercel. It includes:
+
+
+Validator, seed, RPC, and archive nodes for our mainnet and testnet
+Confidential-computing (TEE) workloads, GPU machines and storage nodes
+Kubernetes clusters and managed databases
+A global RPC load balancer at the edge, and our web apps
+
+
+All together, that is more than 200 virtual machines. You will be the person who knows what runs where, why it runs there, and what it costs.
+
+What you'll own
+
+You own the platform, from the network edge to the bill.
+
+
+Cloud operations: provisioning, upgrades, capacity and the full resource lifecycle on Google Cloud, Alibaba Cloud and AWS. That includes rightsizing and releasing what nobody uses.
+Kubernetes: run, upgrade and scale our clusters. Keep them on supported versions and design node pools, autoscaling and Spot capacity.
+Blockchain node fleet: operate validator, sentry, seed, RPC and archive nodes, including peering topology, snapshots, sync and client upgrades.
+Networking and edge: VPC design, load balancers, DNS, Cloudflare Workers, Tunnels and WAF, and keeping internet egress deliberate and cheap.
+Infrastructure as code and CI/CD: every environment defined in Terraform or Pulumi. You design and run CI/CD on Jenkins or an equivalent such as GitHub Actions or GitLab CI, covering builds, tests, security scans and releases from commit to production, with no manual steps.
+Observability and on-call: metrics, logs, alerts and dashboards, including control of metric cardinality. You also run incident response and write the postmortems.
+Security and access: least-privilege IAM across every provider, secrets management, and no databases or admin ports open to the internet.
+Cost management: billing exports, budgets and alerts, tagging, a monthly cost review and commitment planning.
+Developer enablement: templates, preview environments, documentation and support for the engineers who ship on the platform.
+
+
+Our stack
+
+Kubernetes: GKE, EKS, Helm, Ingress and Gateway API, autoscaling, RBAC, network policies
+
+Networking: TCP/IP, subnets and CIDR, routing, NAT, L4 and L7 load balancers, DNS, TLS, firewalls, VPC peering
+
+Google Cloud: Compute Engine, GKE, Cloud SQL, Cloud Run, IAM, Cloud Monitoring, billing export to BigQuery
+
+Infrastructure as code: Terraform, Pulumi
+
+CI/CD and containers: Jenkins or an equivalent (GitHub Actions, GitLab CI), Argo CD, Docker and BuildKit, container registries
+
+Observability: Prometheus, Grafana, Cloud Monitoring, CloudWatch, Alibaba CloudMonitor
+
+Linux: Systems administration, systemd, disks and filesystems, performance debugging
+
+Alibaba Cloud: ECS, VPC, NLB and ALB, ESSD disks, RDS, PolarDB, SAE, Cloud Firewall
+
+AWS: EC2, EKS, RDS, ALB and NLB, Route 53, S3, Organizations
+
+Cloudflare: DNS, Workers, Tunnels, WAF and rate limiting, Zero Trust
+
+Databases (operations): PostgreSQL, MySQL, MongoDB, managed Kafka
+
+Blockchain nodes: CometBFT-based chains, reth and other EVM clients, P2P networking
+
+Vercel: Projects, builds, ISR, team access
+
+Confidential computing: Intel TDX virtual machines on Google Cloud and Alibaba Cloud
+
+Must-haves
+
+
+We want 5+ years in DevOps, SRE or platform roles, including 3+ years running production Kubernetes and owning CI/CD pipelines.
+
+
+Kubernetes, in depth
+
+
+Upgrading control planes and node pools with no downtime, and keeping clusters on supported versions.
+Scheduling: requests and limits, affinity, taints and tolerations, priority, and eviction under node pressure.
+Autoscaling with the HPA, cluster autoscaler or Karpenter, plus Spot or preemptible node pools for non-critical work.
+Networking inside the cluster: CNI, Services, Ingress or Gateway API, network policies, and DNS within the cluster.
+Security: RBAC, Pod Security, workload identity, and secrets that never sit in plain environment variables.
+Stateful workloads: StatefulSets, persistent volumes and CSI drivers, and backup and restore.
+Packaging and delivery with Helm or Kustomize, ideally through GitOps with Argo CD or Flux.
+Debugging a failing pod, node or rollout from events, logs and metrics.
+
+
+CI/CD, in depth
+
+
+Pipeline design: you have built and run production CI/CD on Jenkins or an equivalent (GitHub Actions, GitLab CI, CircleCI, Tekton). Pipelines are defined as code in a Jenkinsfile or workflow YAML, with shared libraries and reusable templates.
+CI platform operations: running Jenkins controllers with ephemeral agents on Kubernetes, or self-hosted runners. That includes plugin and version upgrades, credential handling, and scaling build capacity.
+Build pipelines: multi-service and monorepo builds with caching and parallel stages, and versioned artifacts. Container images built with Docker, BuildKit or Kaniko, including multi-architecture images, image scanning, SBOMs and signing.
+Deployment pipelines: promotion from dev to staging to production with approvals and quality gates, plus blue-green, canary and fast rollback. GitOps with Argo CD or Flux, and database migrations as part of a release.
+Infrastructure pipelines: Terraform or Pulumi plan and apply from CI, with policy checks and drift detection.
+Pipeline security: short-lived credentials through OIDC federation or a secrets vault instead of long-lived keys, least-privilege deploy roles, and protected branches.
+Release engineering for our chain: building and publishing node binaries and images, and coordinating rolling upgrades across validator and RPC fleets.
+Delivery health: you track build time, build cost, flaky tests and DORA metrics (deployment frequency, lead time, change failure rate, time to restore), and you cut wasted builds with ignore rules and caching.
+
+
+Networking fundamentals
+
+
+TCP/IP, subnetting and CIDR, routing, NAT, and the difference between L4 and L7 load balancing.
+DNS, TLS and certificates, firewalls and security groups.
+Private connectivity: VPC design, peering, private endpoints, and keeping internal traffic off public IPs.
+Troubleshooting with dig, curl, mtr and tcpdump, and understanding what internet egress costs.
+
+
+Also Required
+
+
+Production experience on at least two of Google Cloud, AWS and Alibaba Cloud, and willingness to learn the third quickly.
+Terraform or Pulumi in production, plus scripting in Bash and in Python or Go.
+A track record of cutting a cloud bill with data, through rightsizing, cleanup or commitments.
+A security-first habit with production credentials, and clear written communication.
+
+
+Nice to have
+
+
+Running blockchain nodes in production, such as CometBFT validators and sentries, EVM archive or RPC nodes, and snapshot pipelines.
+Cloudflare Workers, Tunnels and Zero Trust at scale.
+Alibaba Cloud on the international site, including its billing and support model.
+Confidential computing (Intel TDX) and GPU workloads.
+CKA or CKS certification, a FinOps certification, or experience moving a team between CI systems, such as Jenkins to GitHub Actions.
+Go or Rust, enough to read and patch the services you operate.
+
+
+What we offer
+
+
+Purpose: The opportunity to contribute to making AI a public good
+Growth: A self-directed environment where you can take initiative to shape your role and career
+Compensation: Market-competitive compensation including, for most roles, exposure to pre-launch tokens
+
+
+In addition, 0G Labs is committed to the health and well being of all of our team members. To that end, we provide reimbursements towards a holistic set of experiences and courses:
+
+
+Core self: Transcendental Meditation
+Mind: Landmark Education
+Emotion: Art of Communication
+Presence: Speech Coach
+Body: Fitness, gym and exercise memberships/classes
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Technology, Information and Internet
+  
+
+Referrals increase your chances of interviewing at 0G by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Singapore, Singapore.
+
+Sign in to create job alert
+Similar jobs
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+SearchApi
+Singapore
+4 months ago
+DevOps Engineer
+DevOps Engineer
+stakefish
+Singapore
+$130,000 - $180,000
+3 weeks ago
+DevOps Engineer
+DevOps Engineer
+Openhill Global
+Singapore, Singapore
+2 months ago
+DevOps Engineer
+DevOps Engineer
+HashWhale
+Singapore
+12 months ago
+(f2pool) DevOps Engineer
+(f2pool) DevOps Engineer
+stakefish
+Singapore
+$130,000 - $180,000
+3 weeks ago
+Senior Devops Engineer
+Senior Devops Engineer
+Grab
+Singapore, Singapore
+23 hours ago
+Show more jobs like this 
+People also viewed
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+Albert Bow
+
+Singapore, Singapore
+SGD 250,000 - SGD 300,000
+1 day ago
+Senior Site Reliability Engineer (APAC)
+Senior Site Reliability Engineer (APAC)
+
+Reap
+
+Singapore, Singapore
+3 weeks ago
+Senior Cloud Engineer
+Senior Cloud Engineer
+
+EC1 Partners
+
+Singapore, Singapore
+2 days ago
+DevOps Engineer
+DevOps Engineer
+
+Native
+
+Singapore, Singapore
+2 weeks ago
+Senior Cloud Engineer
+Senior Cloud Engineer
+
+Bond Financial Group
+
+Singapore, Singapore
+2 weeks ago
+Senior / Lead Site Reliability Engineer | SRE | DevOps
+Senior / Lead Site Reliability Engineer | SRE | DevOps
+
+Reolink
+
+Singapore
+2 weeks ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+Momcozy
+
+Singapore, Singapore
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Zenika Singapore
+
+Singapore, Singapore
+1 week ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+RemotePeople
+
+Singapore, Singapore
+1 week ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+Trulyyy
+
+Singapore, Singapore
+1 day ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

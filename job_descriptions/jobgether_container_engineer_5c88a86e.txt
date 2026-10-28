@@ -1,0 +1,284 @@
+Title: Container Engineer
+Company: Jobgether
+Location: South Africa
+URL: https://za.linkedin.com/jobs/view/container-engineer-at-jobgether-4483634525
+Posted: 2026-10-28
+Deadline: Open until filled
+Reason: The role aligns with her extensive background in CI/CD, release management, and infrastructure automation, and it is based in South Africa, which is a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Container Engineer
+Jobgether  South Africa
+1 day ago   Be among the first 25 applicants
+  
+
+See who Jobgether has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Container Engineer based in South Africa.
+
+Join a globally distributed engineering team building and operating a high-performance container platform that powers modern, cloud-native applications at scale. In this role, you will help ensure the reliability, security, observability, and cost efficiency of multi-tenant Kubernetes infrastructure across multiple regions. You will combine software engineering, platform architecture, and Site Reliability Engineering (SRE) practices to build robust automation and improve operational resilience. Working closely with infrastructure specialists and product engineers, you will make reliable deployment practices easier to adopt and maintain. The position offers the opportunity to influence core platform architecture, solve complex infrastructure challenges, and improve the experience of engineering teams worldwide. It is an excellent fit for an experienced engineer who enjoys autonomy, open-source technologies, and building scalable systems in a fast-moving, asynchronous environment.
+
+Accountabilities
+
+
+Platform reliability and operations: Define and maintain service-level indicators (SLIs), service-level objectives (SLOs), and error budgets for the container platform. Develop policies that connect reliability targets to platform changes and deployment decisions.
+Operational readiness and observability: Lead Operational Readiness Reviews (ORRs) for new capabilities and significant changes. Establish meaningful uptime metrics and improve visibility through comprehensive metrics, logs, and distributed traces across platform components.
+Incident management and continuous improvement: Participate in the team's on-call rotation, respond to platform incidents, and drive issues through resolution and follow-up. Facilitate blameless postmortems, identify recurring failure patterns, and implement lasting improvements that reduce detection and recovery times.
+Platform software engineering: Build, maintain, and deploy production-grade automation, controllers, operators, internal tools, and platform APIs. Develop custom solutions when existing tools do not adequately address the underlying technical challenges.
+Deployment automation and release management: Design and improve platform CI/CD pipelines, rollout mechanisms, and release processes that enable safe, efficient, and predictable deployments.
+Security and operational automation: Implement security automation covering intrusion detection, automated remediation, and patch management. Identify repetitive operational tasks and eliminate toil through reliable automation.
+Testing and quality assurance: Develop and maintain automated testing suites and pipelines that validate platform releases before they reach production workloads.
+Architecture and ecosystem development: Evaluate and evolve the container technology stack, including orchestration, runtimes, networking, workload isolation, and observability tools. Conduct failure-mode analysis, map dependencies, and design resilient architectures for multi-tenant environments.
+Infrastructure efficiency: Improve platform architecture to optimize infrastructure costs while maintaining appropriate standards for security, reliability, and performance across tenants.
+Engineering enablement: Help product teams adopt sustainable operational practices, including effective alerting, escalation procedures, runbook coverage, and reduced notification noise.
+
+
+Requirements
+
+
+Professional experience: At least five years of experience in platform engineering, Kubernetes or container platform operations, Site Reliability Engineering (SRE), or production infrastructure, including operating production systems at scale and participating in on-call rotations.
+Deep technical expertise: Strong expertise in at least one of the following areas, ideally with experience across two:
+Container tooling and ecosystem: In-depth knowledge of Kubernetes, containerd, OCI/CRI standards, and the broader Cloud Native Computing Foundation (CNCF) ecosystem. Familiarity with technologies such as Argo CD, Argo Rollouts, Cilium, eBPF, Gateway API, Karpenter, KEDA, gVisor, or Kata Containers is valuable.
+Software engineering: Ability to write production-quality code in Go or a comparable systems programming language, build controllers and operators, and design platform APIs and custom automation solutions.
+Operational excellence and SRE: Strong understanding of SLOs, error budgets, operational KPIs, incident response, blameless postmortems, and strategies for reducing mean time to detect (MTTD) and mean time to recover (MTTR).
+Multi-tenant infrastructure: Experience with large-scale, multi-tenant systems and an understanding of workload isolation mechanisms, including namespaces, role-based access control (RBAC), network policies, resource quotas, virtual clusters, and stronger isolation models such as VM-based runtimes.
+Cloud infrastructure: Confident working with AWS environments, including multiple accounts, IAM, and VPC networking.
+Infrastructure as code: Experience with infrastructure-as-code tools, preferably Pulumi, with Terraform or AWS CDK also suitable.
+Kubernetes proficiency: Practical experience deploying, operating, troubleshooting, and improving Kubernetes-based infrastructure.
+Automation mindset: A proactive approach to scripting and automating repetitive work to improve efficiency, reliability, and consistency.
+Communication and collaboration: Ability to explain complex technical concepts clearly to both infrastructure experts and product engineers, collaborate across disciplines, and work effectively in asynchronous, globally distributed teams.
+Adaptability and ownership: Comfort navigating ambiguity, making informed technical trade-offs, working independently, and continuously improving systems as requirements evolve.
+
+Nice To Have
+
+
+Experience building and operating a multi-tenant Kubernetes platform used by internal engineering teams.
+Familiarity with policy enforcement tools such as Kyverno or OPA/Gatekeeper.
+Experience with infrastructure cost attribution and optimization tools such as OpenCost or Kubecost.
+Knowledge of managed database platforms or PostgreSQL.
+Experience with observability technologies such as OpenTelemetry, Prometheus, VictoriaMetrics, and Grafana.
+A strong interest in open-source software and the cloud-native ecosystem.
+
+
+Benefits
+
+
+Fully remote work: Work from anywhere, with no requirement to attend a central office.
+Co-working allowance: Access to a WeWork membership or co-working budget to support a productive working environment.
+Employee equity: Participation in an employee stock ownership plan (ESOP), allowing team members to share in the company's long-term growth.
+Technology allowance: A dedicated budget for equipment and tools, including laptops, monitors, headphones, and other work essentials.
+Health insurance: Health insurance coverage fully funded for employees, with 80% coverage for eligible dependents, subject to applicable arrangements.
+Annual company off-sites: Join colleagues from around the world for an annual gathering focused on collaboration, connection, and team building.
+Flexible working arrangements: An asynchronous work culture that emphasizes trust, autonomy, and flexibility in managing your schedule.
+Professional development: An annual learning allowance for courses, books, conferences, and other activities that support career growth.
+International collaboration: Work with a globally distributed team spanning dozens of countries and languages.
+Open-source innovation: Contribute to modern cloud-native infrastructure and help build tools that support the wider developer community.
+
+
+How Jobgether Works
+
+We use an AI-powered matching process to ensure your application is reviewed quickly, objectively, and fairly against the role's core requirements. Our system identifies the top-fitting candidates, and this shortlist is then shared directly with the hiring company. The final decision and next steps (interviews, assessments) are managed by their internal team.
+
+We appreciate your interest and wish you the best!
+
+Why Apply Through Jobgether?
+
+Data Privacy Notice: By submitting your application, you acknowledge that Jobgether will process your personal data to evaluate your candidacy and share relevant information with the hiring employer. This processing is based on legitimate interest and pre-contractual measures under applicable data protection laws (including GDPR). You may exercise your rights (access, rectification, erasure, objection) at any time.
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Internet Marketplace Platforms
+  
+
+Referrals increase your chances of interviewing at Jobgether by 2x
+
+See who you know
+
+Get notified about new Engineer jobs in South Africa.
+
+Sign in to create job alert
+Jobs
+Software Engineer jobs
+Container Engineer
+Similar jobs
+Site Reliability Engineer
+Site Reliability Engineer
+Kiberon Labs
+City of Cape Town, Western Cape, South Africa
+1 day ago
+Platform Engineer
+Platform Engineer
+Share
+Cape Town, Western Cape, South Africa
+1 month ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+SearchApi
+South Africa
+4 months ago
+Platform Engineer
+Platform Engineer
+Share
+City of Johannesburg, Gauteng, South Africa
+1 month ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+Morningstar
+South Africa
+1 day ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+LexisNexis
+South Africa
+2 months ago
+Show more jobs like this 
+People also viewed
+Application Engineer Refrigeration
+Application Engineer Refrigeration
+
+Copeland
+
+South Africa
+2 weeks ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+OfferZen
+
+City of Cape Town, Western Cape, South Africa
+2 weeks ago
+Junior DevOps Engineer
+Junior DevOps Engineer
+
+Network International
+
+Cape Town, Western Cape, South Africa
+1 day ago
+Senior Infrastructure Consultant
+Senior Infrastructure Consultant
+
+Technimove
+
+Johannesburg, Gauteng, South Africa
+1 week ago
+Product Engineer
+Product Engineer
+
+The Flex
+
+South Africa
+1 month ago
+Engineering Manager - Infrastructure
+Engineering Manager - Infrastructure
+
+Camunda
+
+Johannesburg, Gauteng, South Africa
+1 week ago
+Packaging Pipeline: Packaging Engineer
+Packaging Pipeline: Packaging Engineer
+
+AB InBev Africa
+
+Matatiele, Eastern Cape, South Africa
+2 weeks ago
+Channel Systems Engineer
+Channel Systems Engineer
+
+Palo Alto Networks
+
+Sandton, Gauteng, South Africa
+1 week ago
+Analytics Engineer
+Analytics Engineer
+
+Uberall
+
+South Africa
+3 days ago
+Automation Engineer (Remote, Cape Town)
+Automation Engineer (Remote, Cape Town)
+
+Blacksmith Agency
+
+South Africa
+1 day ago
+Similar Searches
+Software Engineer jobs
+4,254 open jobs
+Engineer jobs
+4,853 open jobs
+Site Civil Engineer jobs
+312 open jobs
+Data Engineer jobs
+1,296 open jobs
+Java Software Engineer jobs
+1,208 open jobs
+Civil Engineer jobs
+413 open jobs
+Developer jobs
+6,419 open jobs
+Senior Data Engineer jobs
+836 open jobs
+Senior Software Engineer jobs
+1,727 open jobs
+Full Stack Engineer jobs
+162 open jobs
+Graduate Civil Engineer jobs
+180 open jobs
+Site Reliability Engineer jobs
+1,083 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

@@ -1,0 +1,269 @@
+Title: DevOps Engineer
+Company: AXS Pte Ltd
+Location: Singapore, Singapore
+URL: https://sg.linkedin.com/jobs/view/devops-engineer-at-axs-pte-ltd-4482281032
+Posted: 2026-10-29
+Deadline: N/A
+Reason: The role aligns with the candidate's extensive experience in DevOps, CI/CD pipeline management, and automation, and it is located in a target country (Singapore) with no explicit visa restrictions mentioned.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+AXS Pte Ltd  Singapore, Singapore
+20 hours ago  60 applicants
+  
+
+See who AXS Pte Ltd has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+We are seeking a skilled DevOps Engineer to design, implement, and maintain scalable infrastructure and deployment pipelines in the cloud. The ideal candidate has strong hands-on experience with Infrastructure as Code (IaC), Ansible, Terraform, and AWS, and is passionate about automation, reliability, and operational excellence.
+
+
+
+
+You will work closely with engineering, security, and operations teams to build resilient, automated cloud environments that support fast and reliable software delivery.
+
+
+
+
+Responsibilities:
+
+CI/CD and Automation
+
+Design, implement, and maintain CI/CD pipelines to automate build, test, and deployment processes.
+Integrate automated testing and deployment into development workflows.
+Improve software delivery speed and reliability through automation.
+
+
+
+
+Infrastructure as Code
+
+Develop and maintain Infrastructure as Code (IaC) using tools such as Terraform, CloudFormation, or Ansible.
+Automate provisioning and management of cloud infrastructure.
+
+
+
+
+Cloud Infrastructure Management
+
+Deploy and manage infrastructure on cloud platforms.
+Ensure infrastructure scalability, availability, and reliability.
+
+
+
+
+Containerization and Orchestration
+
+Build and manage containerized applications using Docker.
+Deploy and manage applications using Kubernetes or other container orchestration platforms.
+
+
+
+
+Monitoring and Logging
+
+Implement monitoring, logging, and alerting solutions to maintain system health.
+Analyze system performance and identify areas for improvement.
+
+
+
+
+Collaboration and Development Support
+
+Work closely with development teams to streamline deployment workflows.
+Support developers in troubleshooting infrastructure and deployment issues.
+
+
+
+
+Security and Compliance
+
+Implement security best practices across infrastructure and CI/CD pipelines.
+Manage access control, secrets management, and vulnerability scanning.
+
+
+
+
+Continuous Improvement
+
+Identify opportunities to automate operational tasks.
+Evaluate and adopt new DevOps tools and practices to improve system efficiency.
+
+
+
+
+Job Requirements:
+
+Bachelor's degree in Computer Science, Software Engineering, or a related field.
+Minimum 3 years of experience working with DevOps tools and cloud environments, with exposure to GitOps practices, Infrastructure as Code, and containerized applications.
+Proficiency in infrastructure as code (IaC) tools such as Terraform, Ansible, or CloudFormation for automating infrastructure provisioning
+Knowledge of Docker and containerization
+Exposure to Kubernetes concepts or container orchestration
+Familiarity with cloud platforms such as AWS, Azure, or GCP
+Understanding of Linux systems and shell scripting
+Knowledge of Git and version control workflows, familiar with Gitlab
+Familiarity with automation and DevOps practices
+Show more 
+Seniority level
+Associate
+Employment type
+Full-time
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at AXS Pte Ltd by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Singapore, Singapore.
+
+Sign in to create job alert
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+BIT Official
+Singapore, Singapore
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+Capgemini
+Singapore, Singapore
+2 months ago
+DevOps Engineer
+DevOps Engineer
+Capgemini
+Singapore
+6 months ago
+DevOps Engineer
+DevOps Engineer
+Capgemini Engineering
+Singapore
+1 month ago
+DevOps & Kubernetes Engineer
+DevOps & Kubernetes Engineer
+Accenture Southeast Asia
+Singapore, Singapore
+1 month ago
+DevOps Engineer
+DevOps Engineer
+Merquri
+Singapore, Singapore
+1 week ago
+Show more jobs like this 
+People also viewed
+DevOps Engineer
+DevOps Engineer
+
+Manus AI
+
+Singapore, Singapore
+3 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Accenture Southeast Asia
+
+Singapore, Singapore
+1 month ago
+App DevOps
+App DevOps
+
+StarHub
+
+Singapore, Singapore
+1 week ago
+DevSecOps Engineer
+DevSecOps Engineer
+
+Cognizant
+
+Singapore, Singapore
+2 weeks ago
+Cloud Engineer
+Cloud Engineer
+
+VeSync
+
+Singapore, Singapore
+2 weeks ago
+DevOps Engineer, APAC region
+DevOps Engineer, APAC region
+
+Twelve Data
+
+Singapore, Singapore
+2 months ago
+AWS DevOps Engineer
+AWS DevOps Engineer
+
+Epergne Solutions
+
+Singapore
+2 days ago
+Platform Engineer
+Platform Engineer
+
+Vitol
+
+Singapore, Singapore
+2 weeks ago
+Site Reliability Engineer (Cloud) - Infrastructure Engineering
+Site Reliability Engineer (Cloud) - Infrastructure Engineering
+
+ByteDance
+
+Singapore, Singapore
+3 weeks ago
+CRM DevOps Engineer
+CRM DevOps Engineer
+
+StarHub
+
+Singapore, Singapore
+1 day ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

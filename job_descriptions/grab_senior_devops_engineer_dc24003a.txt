@@ -1,0 +1,272 @@
+Title: Senior Devops Engineer
+Company: Grab
+Location: Singapore, Singapore
+URL: https://sg.linkedin.com/jobs/view/senior-devops-engineer-at-grab-4483810702
+Posted: 2026-10-29
+Deadline: Open until filled
+Reason: The role is a strong match for her DevOps and configuration management background in a technical, non-feature-development capacity, and it is located in Singapore, which is one of her target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Devops Engineer
+Grab  Singapore, Singapore
+23 hours ago  28 applicants
+  
+
+See who Grab has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Company Description
+
+About Grab and Our Workplace
+
+Grab is Southeast Asia's leading superapp. From getting your favourite meals delivered to helping you manage your finances and getting around town hassle-free, we've got your back with everything. In Grab, purpose gives us joy and habits build excellence, while harnessing the power of Technology and AI to deliver the mission of driving Southeast Asia forward by economically empowering everyone, with heart, hunger, honour, and humility.
+
+Job Description
+
+About the Team:
+
+The Robotics Technology team is a core part of Grab's long-term vision to build urban embodied AI. Our engineers take full ownership of the product lifecycle: designing and manufacturing hardware in-house, developing control and machine-learning systems, and rigorously testing in real-world conditions and production fleet operations. This is a fast-moving, multidisciplinary environment where software, hardware and data science experts collaborate closely to solve practical challenges at scale. We are executing an ambitious growth plan to expand our robotics fleet across cities over the coming years, and we are focused on delivering highly productive, safe and efficient robot delivery services that help address current delivery labor shortages.
+
+Based in Singapore and China, our team offers opportunities to work on cutting-edge autonomy, deploy solutions in complex urban environments, and directly influence the future of last-mile logistics. If you're excited by tangible impact, large-scale systems and cross-functional engineering, you'll find meaningful challenges and rapid career growth here.
+
+Get To Know The Role
+
+We are looking for a DevOps Engineer to own the engineering environments our robotics team builds on — cloud, developer workstations, and the robots themselves. Our software runs on ARM64 computers on a moving vehicle, is developed and run on Ubuntu, macOS and Windows, and is built and operated from two engineering sites with different network and cloud constraints. Your job is to make those environments consistent, reproducible and fast, so that an engineer at either site gets the same toolchain, the same build and the same behaviour on the robot. This is a broad, high-leverage role with a large surface area and a lot of latitude: you will set the standards, build the automation behind them, and take real ownership of a platform that is growing quickly alongside the fleet.
+
+The day-to-day activities
+
+
+Own and evolve developer environment tooling across Ubuntu, macOS and Windows — reproducible, declarative and version-controlled setups rather than wiki instructions.
+Build and maintain CI/CD pipelines for cloud services, backend systems and cross-compiled embedded/robot software, including ARM64 targets.
+Own container image and artifact strategy: registries, base images, caching, provenance and promotion between environments.
+Manage the on-robot software environment: OS images, system packages, dependency pinning, and safe rollout and rollback of host-level changes.
+Build and operate cloud environments and Infrastructure as Code across regions, including networking, identity and access management.
+Standardize and unify toolchains and environments across our engineering sites, while respecting the constraints that genuinely differ between regions.
+Evaluate, specify and support developer and compute hardware — workstations, GPUs, test rigs and onboard compute — and own the lifecycle around it.
+Automate what is currently manual: provisioning, onboarding, credential rotation, environment refreshes and routine operational tasks.
+Improve build and test speed, and treat engineer wait time as a first-class metric.
+Write and maintain runbooks and internal documentation, and coach engineers so that platform knowledge is shared rather than concentrated.
+
+
+Qualifications
+
+Technical must-haves
+
+
+Deep Linux (Ubuntu) systems knowledge: packaging, systemd, networking, storage, and troubleshooting from kernel to userspace.
+Practical experience managing macOS and Windows developer environments alongside Linux.
+Configuration management and reproducible environments (Ansible, Nix, Chef/Puppet, devcontainers or equivalent).
+Strong CI/CD engineering with GitLab CI, Jenkins, GitHub Actions or similar, including cross-compilation and multi-architecture builds.
+Docker and Kubernetes in production, plus artifact and registry management (Artifactory, Harbor or equivalent).
+Cloud engineering on Alibaba Cloud (Aliyun) and/or AWS with Terraform as the primary IaC tool.
+Strong scripting and automation skills in Python and Bash; Go is a plus.
+Solid networking and security fundamentals: VPNs and overlay networks, DNS, TLS/PKI, IAM and secret management.
+Experience supporting build systems for compiled software (CMake, Bazel, colcon or similar).
+Comfortable being on-call and supporting engineers and field sites across time zones.
+
+
+Soft Skills Must-haves
+
+
+Strong ownership and bias for action; picks up the unglamorous work that unblocks everyone else.
+Service mindset: treats internal engineers as customers and measures success by their productivity.
+Excellent prioritization across a wide surface area — knows what to automate, what to defer and what to decline.
+Clear communicator and documenter who builds systems other people can operate.
+Collaborative across software, hardware, ML and operations teams.
+Comfortable working across two sites and cultures, and able to standardize without steamrolling legitimate local needs.
+
+
+Nice-to-haves
+
+
+Experience with ROS/ROS2 build and packaging (colcon, bloom, .deb pipelines, apt repositories).
+Embedded or edge fleet management: OTA update systems, device provisioning and remote access (balena, Mender, KubeEdge or equivalent).
+Experience with ARM64 and NVIDIA Jetson or comparable edge compute platforms.
+Endpoint management and compliance tooling (Jamf, Intune or equivalent) in an engineering context.
+Experience with hardware-in-the-loop rigs and lab infrastructure.
+Experience operating infrastructure across multiple regions, including cross-border network and compliance constraints.
+Experience working across APAC sites or with distributed, cross-border teams.
+
+
+If you like owning the whole toolchain — from the laptop an engineer opens in the morning to the image running on a robot that afternoon — and you want the mandate to make it coherent, we'd love to hear from you. Please apply with your resume and a brief note describing a developer environment or build system you standardized: what was inconsistent before, what you changed, and what it saved.
+
+Additional Information
+
+Life at Grab
+
+We care about your well-being at Grab, here are some of the global benefits we offer:
+
+
+We have your back with Term Life Insurance and comprehensive Medical Insurance.
+With GrabFlex, create a benefits package that suits your needs and aspirations.
+Celebrate moments that matter in life with loved ones through Parental and Birthday leave, and give back to your communities through Love-all-Serve-all (LASA) volunteering leave
+We have a confidential Grabber Assistance Programme to guide and uplift you and your loved ones through life's challenges
+Balancing personal commitments and life's demands are made easier with our FlexWork arrangements such as differentiated hours
+
+
+What We Stand For At Grab
+
+We are committed to building an inclusive and equitable workplace that provides equal opportunity for Grabbers to grow and perform at their best. We consider all candidates fairly and equally regardless of nationality, ethnicity, race, religion, age, gender, family commitments, physical and mental impairments or disabilities, and other attributes that make them unique.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Grab by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Singapore, Singapore.
+
+Sign in to create job alert
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+Accenture Southeast Asia
+Singapore, Singapore
+1 month ago
+DevOps & Kubernetes Engineer
+DevOps & Kubernetes Engineer
+Accenture Southeast Asia
+Singapore, Singapore
+1 month ago
+DevOps Engineer
+DevOps Engineer
+Tribe
+Singapore
+1 month ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+StarHub
+Singapore, Singapore
+2 weeks ago
+Platform Engineer (Cloud & DevSecOps)
+Platform Engineer (Cloud & DevSecOps)
+National University of Singapore
+Singapore, Singapore
+2 days ago
+DevSecOps Engineer
+DevSecOps Engineer
+Thales
+Singapore, Singapore
+1 week ago
+Show more jobs like this 
+People also viewed
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Singtel
+
+Singapore, Singapore
+16 hours ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+Razer
+
+Singapore
+6 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Liquid Group
+
+Singapore, Singapore
+1 week ago
+Senior Engineer, Software Engineering (DevOps)
+Senior Engineer, Software Engineering (DevOps)
+
+ASM
+
+Singapore
+6 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Vanguard Software
+
+Singapore, Singapore
+4 weeks ago
+Devops/Devsecops Engineer
+Devops/Devsecops Engineer
+
+RAPSYS TECHNOLOGIES PTE LTD
+
+Singapore, Singapore
+6 days ago
+Platform / DevOps Engineer
+Platform / DevOps Engineer
+
+Selby Jennings
+
+Singapore, Singapore
+4 weeks ago
+DevSecOps Engineer
+DevSecOps Engineer
+
+Cognizant
+
+Singapore, Singapore
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Encora Inc.
+
+Singapore
+3 months ago
+DevOps Engineer
+DevOps Engineer
+
+Ascendion
+
+Singapore, Singapore
+2 weeks ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
