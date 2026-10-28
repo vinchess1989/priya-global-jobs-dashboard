@@ -1,9 +1,9 @@
 {
   "pid": 21300,
   "started_at": "2026-10-29T01:14:09+02:00",
-  "heartbeat_at": "2026-10-29T01:43:00+02:00",
+  "heartbeat_at": "2026-10-29T01:46:07+02:00",
   "phase": "reviewing",
-  "detail": "Quality assurance manager - cannabis",
-  "last_scrape_ok_at": "2026-10-29T01:41:35+02:00",
+  "detail": "Quality Engineer",
+  "last_scrape_ok_at": "2026-10-29T01:44:40+02:00",
   "last_error": null
 }

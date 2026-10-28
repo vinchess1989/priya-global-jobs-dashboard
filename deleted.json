@@ -16879,5 +16879,22 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": null,
     "deletion_reason": "Deadline (2025-11-11) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Quality Engineer",
+    "company": "Eaton",
+    "location": "Titchfield, England, United Kingdom",
+    "url": "https://uk.linkedin.com/jobs/view/quality-engineer-at-eaton-4477095433",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job involves contact with US ITAR-controlled technology, which typically requires US citizenship or permanent residency, effectively acting as a barrier to non-citizen applicants requiring visa sponsorship.",
+    "id": "e7769f26",
+    "source": "linkedin_uk_quality_engineer",
+    "added_at": "2026-10-29T01:44:05+02:00",
+    "posted_date": "2026-10-22",
+    "deadline": "Open until filled",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
