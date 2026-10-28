@@ -1,0 +1,244 @@
+Title: Software Quality Engineer (Managed Service)
+Company: AvePoint
+Location: Singapore
+URL: https://sg.linkedin.com/jobs/view/software-quality-engineer-managed-service-at-avepoint-4402722781
+Posted: 2026-10-08
+Deadline: N/A
+Reason: The role aligns with the candidate's expertise in quality engineering, CI/CD integration, and test automation, and is located in a target country (Singapore) without explicit visa restrictions.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Software Quality Engineer (Managed Service)
+AvePoint  Singapore
+3 weeks ago   Over 200 applicants
+  
+
+See who AvePoint has hired for this role
+
+Apply 
+Save
+RESPONSIBILITY
+
+The Quality Engineer is responsible for ensuring software reliability, test automation, and continuous quality improvement across the software development lifecycle. The role requires strong analytical skills, test automation expertise, and collaboration with product and development teams to implement robust testing strategies. Engineers must work in an agile, DevOps-driven environment, ensuring fast feedback loops, risk-based testing, and high software quality.
+
+
+Collaborate with Product Owners and Business Analysts to define clear and actionable user story acceptance criteria.
+Work with Software Engineers to ensure automated test coverage and prevent bugs and defects in production.
+Analyze and decompose complex software systems to design holistic, risk-based test strategies.
+Develop and maintain test automation frameworks using industry-standard tools.
+Design, implement, and execute comprehensive test suites covering functional, regression, exploratory, and performance testing.
+Take a risk-based approach to test automation, prioritizing critical functionality for maximum impact.
+Perform time-boxed exploratory testing to uncover edge cases and usability issues.
+Maintain a stable regression test suite integrated into QA nightly builds.
+Continuously refine smoke tests in the Development CI environment for early issue detection.
+Lead system integration testing with other system owners to validate cross-system interactions.
+Oversee User Acceptance Testing (UAT), coordinating with stakeholders to ensure business requirements are met.
+Manage the defect lifecycle, test artifacts, and test repositories to ensure clear tracking and reporting.
+Drive continuous improvement in agile testing practices, tools, and methodologies.
+Take on a secondary role as an Application Performance Engineer or Application Security Engineer to expand testing coverage beyond functional aspects.
+
+
+Experience And Skills Needed
+
+Core Testing Expertise:
+
+
+Strong knowledge of test automation strategies and risk-based testing.
+Experience designing and executing test cases, test plans, and test suites.
+Hands-on experience with manual and automated testing for web, mobile, and API services.
+Familiarity with cross-browser, cross-platform, and responsive UI testing.
+
+
+Test Automation & CI/CD Integration
+
+
+Experience with test automation frameworks such as Selenium, Playwright, Robot Framework, Cypress, SikuliX, or EggPlant.
+Knowledge of test scripting and automation programming using Python, Java, JavaScript, or C#.
+Experience integrating test automation into CI/CD pipelines (GitHub Actions, GitLab CI, Jenkins, Bamboo).
+Ability to design maintainable, scalable, and reusable test automation suites.
+
+
+Agile & DevOps Testing Practices
+
+
+Strong understanding of agile testing methodologies, including TDD, BDD, and exploratory testing.
+Experience working in agile development environments (Scrum, Kanban, XP).
+Familiarity with shift-left testing approaches, ensuring early defect detection.
+Experience with containerized testing in Docker/Kubernetes environments.
+
+
+Security & Performance Testing (Added Advantage)
+
+
+Experience with performance testing tools (JMeter, Gatling, k6, Locust).
+Knowledge of application security testing (OWASP ZAP, Burp Suite, SAST, DAST).
+Experience conducting API security testing using authentication protocols (OAuth, JWT).
+
+
+Test Management & Certifications
+
+
+Experience managing defect tracking and test repositories using tools such as JIRA, TestRail, Micro Focus ALM (QC/Sprinter).
+Certified Software Testing Professional (CSTP) and/or Certified Software Quality Analyst (CSQA) is an advantage.
+Degree or Diploma in Computer Science, Computer or Electronics Engineering, Information Technology, or related disciplines.
+
+
+Any personal data you share with us during the application process will be processed strictly in compliance with applicable data protection laws and our Privacy Notice.
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Data Security Software Products
+  
+
+Referrals increase your chances of interviewing at AvePoint by 2x
+
+See who you know
+
+Get notified about new Software Quality Engineer jobs in Singapore.
+
+Sign in to create job alert
+Similar jobs
+Software Quality Engineer
+Software Quality Engineer
+Apple
+Singapore, Singapore
+5 months ago
+Software Quality Assurance Engineer
+Software Quality Assurance Engineer
+LionsBot International
+Singapore, Singapore
+2 weeks ago
+Software Test Engineer (AI), TikTok
+Software Test Engineer (AI), TikTok
+TikTok
+Singapore, Singapore
+1 week ago
+[Early Career] Quality Engineer, Security Server Applications
+[Early Career] Quality Engineer, Security Server Applications
+Apple
+Singapore, Singapore
+2 months ago
+Software QA Engineer
+Software QA Engineer
+IMDA
+Singapore
+1 week ago
+Software Engineer, Quality
+Software Engineer, Quality
+Airwallex
+Singapore, Singapore
+3 weeks ago
+Show more jobs like this 
+People also viewed
+Test Engineer
+Test Engineer
+
+Bossjob
+
+Central Singapore Community Development Council, Singapore
+1 month ago
+Software Quality Assurance / Testing Engineer
+Software Quality Assurance / Testing Engineer
+
+NTT DATA, Inc.
+
+Singapore, Singapore
+1 day ago
+Software QA Engineer (AIR Lab)
+Software QA Engineer (AIR Lab)
+
+Thales
+
+Singapore, Singapore
+1 week ago
+Software QA Engineer, Eggplant Connectivity
+Software QA Engineer, Eggplant Connectivity
+
+Keysight Technologies
+
+Singapore, Singapore
+1 month ago
+Application Testing Engineer
+Application Testing Engineer
+
+HokuApps
+
+Singapore
+1 week ago
+System Quality Engineer
+System Quality Engineer
+
+Venti
+
+Singapore, Singapore
+7 months ago
+Quality Control Lead
+Quality Control Lead
+
+Vinova
+
+Singapore, Singapore
+5 days ago
+UAT Test Analyst (Bank | Up to 5.5k)
+UAT Test Analyst (Bank | Up to 5.5k)
+
+Adecco
+
+Singapore, Singapore
+SGD 4,000 - SGD 5,500
+1 week ago
+Tester
+Tester
+
+Tata Consultancy Services
+
+Singapore, Singapore
+1 month ago
+Software Testing Engineer, C3
+Software Testing Engineer, C3
+
+NCS Group
+
+Singapore, Singapore
+2 months ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
