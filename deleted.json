@@ -16896,5 +16896,22 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Project Support Officer",
+    "company": "Port of Melbourne",
+    "location": "Melbourne, Victoria, Australia",
+    "url": "https://au.linkedin.com/jobs/view/project-support-officer-at-port-of-melbourne-4484006850",
+    "visited": "yes",
+    "matches_requirements": "maybe",
+    "reason": "The role aligns with her experience in documentation and project coordination, but it is labeled as entry-level and does not explicitly mention visa sponsorship, which is required for her to work in Australia.",
+    "id": "2af87ab6",
+    "source": "linkedin_au_documentation_specialist",
+    "added_at": "2026-10-29T01:52:26+02:00",
+    "posted_date": "2026-10-28",
+    "deadline": "2026-10-16",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-10-16) passed by more than 2 days and unreviewed"
   }
 ]

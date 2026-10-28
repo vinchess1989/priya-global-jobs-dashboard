@@ -1,9 +1,9 @@
 {
   "pid": 21300,
   "started_at": "2026-10-29T01:14:09+02:00",
-  "heartbeat_at": "2026-10-29T01:51:32+02:00",
+  "heartbeat_at": "2026-10-29T01:53:50+02:00",
   "phase": "reviewing",
-  "detail": "Technical Delivery Lead",
-  "last_scrape_ok_at": "2026-10-29T01:50:13+02:00",
+  "detail": "Project Support Officer",
+  "last_scrape_ok_at": "2026-10-29T01:52:27+02:00",
   "last_error": null
 }
