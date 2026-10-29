@@ -16947,5 +16947,22 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": null,
     "deletion_reason": "Deadline (2026-10-23) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Assistant Manager, Cloud Infrastructure",
+    "company": "West Kowloon Cultural District Authority",
+    "location": "Hong Kong SAR",
+    "url": "https://hk.linkedin.com/jobs/view/assistant-manager-cloud-infrastructure-at-west-kowloon-cultural-district-authority-4459784314",
+    "visited": "yes",
+    "matches_requirements": "maybe",
+    "reason": "The role aligns with her infrastructure and vendor management experience, but it lists 'good command of written and spoken English and Chinese' as a requirement, which may imply a mandatory language proficiency.",
+    "id": "76456177",
+    "source": "linkedin_hk_devops_engineer",
+    "added_at": "2026-10-29T02:13:35+02:00",
+    "posted_date": "2026-10-15",
+    "deadline": "2026-09-14",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-09-14) passed by more than 2 days and unreviewed"
   }
 ]

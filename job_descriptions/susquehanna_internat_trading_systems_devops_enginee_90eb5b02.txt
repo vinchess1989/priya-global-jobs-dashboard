@@ -1,0 +1,263 @@
+Title: Trading Systems Devops Engineer
+Company: Susquehanna International Group
+Location: Hong Kong, Hong Kong SAR
+URL: https://hk.linkedin.com/jobs/view/trading-systems-devops-engineer-at-susquehanna-international-group-4481880545
+Posted: 2026-10-28
+Deadline: N/A
+Reason: The role aligns perfectly with the candidate's extensive experience in DevOps, CI/CD pipeline management, and release automation within a high-stakes, regulated environment.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Trading Systems Devops Engineer
+Susquehanna International Group  Hong Kong, Hong Kong SAR
+1 day ago   Be among the first 25 applicants
+  
+
+See who Susquehanna International Group has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Overview
+
+Join Susquehanna’s trading technology team to support, deploy and automate the highly distributed, on-premises Service Fabric/Kubernetes microservices platform powering our trading systems across Asia Pacific. Working within the trading systems development team, you’ll collaborate daily with developers and traders, improving application deployment, monitoring and operational reliability through Octopus Deploy, GitLab pipelines, Ansible, Python and PowerShell.
+
+What You’ll Do
+
+
+Become a subject matter expert in our in-house trading systems and the highly distributed microservices platform and architecture they run on
+Collaborate closely with trading system developers on design, releases, and operational readiness, so new features run reliably in production
+Scope and build out new sites end-to-end, covering hardware, network, cluster deployment, and monitoring
+Support, deploy, and troubleshoot microservices across our on-premises Service Fabric/Kubernetes environment
+Troubleshoot service-to-service communication (gRPC) and multicast data feeds across the platform
+Automate deployments using Octopus Deploy, GitLab pipelines, and Ansible
+Automate configuration and routine operational tasks using Python and PowerShell scripting
+Support, build, and improve our monitoring and observability (metrics, logs, dashboards, and alerting) using tools such as Grafana, Prometheus, and ELK, so we get early warning of issues in our trading environment
+Act as the link between traders, in-house technology teams, and external parties (exchanges, vendors), keeping information on system issues and changes flowing
+Find ways to improve the stability, resilience, and reliability of our platform and trading environment through better use of technology
+Develop automated system tests to validate releases before they go live
+Keep technical and user documentation up to date for the systems you support
+
+
+What We're Looking For
+
+
+A degree in Computer Science or a related technical field
+At least 3 years of commercial experience in financial services or a similarly demanding production environment, ideally in trading or trading technology
+Experience supporting highly distributed, microservices-based systems in production
+Strong communication skills with technical and non-technical colleagues and external parties
+The ability to handle tight deadlines and shifting priorities in a trading-room environment
+
+
+Technical Skills
+
+
+Strong Windows administration skills, including supporting and deploying applications on Windows servers
+Hands-on experience with Service Fabric and/or Kubernetes, running microservices platforms in on-premises or hybrid environments
+Experience automating deployments with Octopus Deploy, GitLab pipelines, and Ansible (CI/CD)
+Solid understanding of highly distributed and microservices architectures, ideally including Microsoft Orleans, enough to trace and troubleshoot issues across services
+Working knowledge of gRPC and Protobuf for service-to-service communication
+Understanding of multicast data feeds, and the ability to debug them and related protocols such as TCP/UDP
+Scripting and automation experience in Python and PowerShell. You don't need to be an expert in both, but you do need prior scripting or programming experience and the ability to learn
+Experience supporting monitoring and observability tooling, including Prometheus, the ELK stack (Elasticsearch, Logstash, Kibana), and building and using dashboards in Grafana
+Experience with InfluxDB for storing and querying time-series monitoring data
+Experience with Azure Service Fabric for hosting and managing microservices
+Experience with Kafka for streaming and messaging
+Familiarity with MongoDB, enough to investigate system issues (advanced knowledge isn't required).
+
+
+Nice to have
+
+
+An understanding of financial markets and instruments, across equities and derivatives (not essential)
+C# development skills (not essential, but highly regarded)
+Experience with containerisation using Docker
+Experience with analytical data stores such as ClickHouse
+Experience supporting a trading environment and working directly with developers and end-users.
+
+
+What’s In It For You
+
+
+Our flat hierarchy enables you to drive meaningful impact, by leveraging your expertise and taking ownership
+Private healthcare and gym allowances, plus wellness initiatives
+Additional leave entitlements including marriage leave
+Fully stocked kitchen, with daily breakfast and lunch
+Regular social, sporting and community events including annual poker tournament
+Matched donations and corporate discounts.
+
+
+About Susquehanna
+
+Susquehanna is a global quantitative trading firm powered by scientific rigor, curiosity, and innovation. Our culture is intellectually driven and highly collaborative, bringing together researchers, engineers, and traders to design and deploy impactful strategies in our systematic trading environment. To meet the unique challenges of global markets, Susquehanna applies machine learning and advanced quantitative research to vast datasets in order to uncover actionable insights and build effective strategies. By uniting deep market expertise with cutting-edge technology, we excel in solving complex problems and pushing boundaries together.
+
+What We Do
+
+Susquehanna’s deep integration of trading, technology and quant research makes us experts in trading essentially all listed financial products and asset classes, with a focus on derivatives. We handle millions of trading transactions around the world every day as both a market maker and market taker. Our efforts provide liquidity and ensure competitive prices for buyers and sellers. While our presence in the market is broad, our trading desks are highly specialized to allow for a deep understanding of the unique drivers of each asset class.
+
+Equal Opportunity Statement
+
+We encourage applications from candidates from all backgrounds, and we welcome requests for reasonable adjustments during the recruitment process to ensure that you can best demonstrate your abilities.
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at Susquehanna International Group by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Hong Kong, Hong Kong SAR.
+
+Sign in to create job alert
+Similar jobs
+Platform / Site Reliability Engineer
+Platform / Site Reliability Engineer
+Millennium
+Hong Kong, Hong Kong SAR
+1 week ago
+Trading Platform Engineer, Systematic Technology
+Trading Platform Engineer, Systematic Technology
+Balyasny Asset Management L.P.
+Hong Kong, Hong Kong SAR
+2 weeks ago
+Trading SRE / Production Support Engineer | Equities Trading | Global Hedge Fund | Python | Linux / Unix | Trading Systems | Equities | SRE | Production Support | Front Office Technology
+Trading SRE / Production Support Engineer | Equities Trading | Global Hedge Fund | Python | Linux / Unix | Trading Systems | Equities | SRE | Production Support | Front Office Technology
+Mondrian Alpha
+Hong Kong, Hong Kong SAR
+1 week ago
+Market Access Devops Support - Global Market Activities
+Market Access Devops Support - Global Market Activities
+Societe Generale
+Hong Kong, Hong Kong SAR
+1 week ago
+Site Reliable Engineer (SRE) for Equity Trading Platform
+Site Reliable Engineer (SRE) for Equity Trading Platform
+Jefferies
+Hong Kong SAR
+2 days ago
+DevOps Engineer
+DevOps Engineer
+Itarle
+Hong Kong, Hong Kong SAR
+3 weeks ago
+Show more jobs like this 
+People also viewed
+Market Data Production Management & Reliability Engineering
+Market Data Production Management & Reliability Engineering
+
+Morgan Stanley
+
+Hong Kong, Hong Kong SAR
+3 weeks ago
+Production Engineer
+Production Engineer
+
+Anchorpoint
+
+Hong Kong SAR
+1 week ago
+Senior Trading Support Engineer
+Senior Trading Support Engineer
+
+Eclipse Trading
+
+Hong Kong, Hong Kong SAR
+1 year ago
+Platform Engineer
+Platform Engineer
+
+Options Technology
+
+Hong Kong SAR
+2 months ago
+Senior Site Reliability Engineer (APAC)
+Senior Site Reliability Engineer (APAC)
+
+Reap
+
+Hong Kong, Hong Kong SAR
+3 weeks ago
+Site Reliability Engineer - APAC
+Site Reliability Engineer - APAC
+
+Tyk
+
+Hong Kong, Hong Kong SAR
+2 months ago
+Python Developer
+Python Developer
+
+Tribus
+
+Hong Kong, Hong Kong SAR
+HK$1,500,000 - HK$3,500,000
+6 days ago
+DevOps and Site Reliability Engineer
+DevOps and Site Reliability Engineer
+
+Wizpresso 濃說
+
+Hong Kong, Hong Kong SAR
+3 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+The Lane Crawford Joyce Group
+
+Hong Kong, Hong Kong SAR
+1 week ago
+SRE/ DevOps Lead- Financial Services
+SRE/ DevOps Lead- Financial Services
+
+Captar Partners
+
+Hong Kong SAR
+3 weeks ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Susquehanna International Group
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

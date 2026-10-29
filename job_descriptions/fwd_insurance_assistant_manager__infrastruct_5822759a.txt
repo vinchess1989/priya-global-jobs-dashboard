@@ -1,0 +1,227 @@
+Title: Assistant Manager, Infrastructure Architecture & Delivery
+Company: FWD Insurance
+Location: Quarry Bay, Hong Kong SAR
+URL: https://hk.linkedin.com/jobs/view/assistant-manager-infrastructure-architecture-delivery-at-fwd-insurance-4482444333
+Posted: 2026-10-23
+Deadline: N/A
+Reason: The role aligns with the candidate's expertise in infrastructure, CI/CD, configuration management, and documentation within a regulated environment, and it is located in a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Assistant Manager, Infrastructure Architecture & Delivery
+FWD Insurance  Quarry Bay, Hong Kong SAR
+6 days ago   Be among the first 25 applicants
+  
+
+See who FWD Insurance has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+
+About FWD Group
+
+FWD Group (1828.HK) is a pan-Asian life and health insurance business that serves approximately 40 million customers across 10 markets, including BRI Life in Indonesia. FWD’s customer-led and tech-enabled approach aims to deliver innovative propositions, easy-to-understand products and a simpler insurance experience. Established in 2013, the company operates in some of the fastest-growing insurance markets in the world with a vision of changing the way people feel about insurance. FWD Group is listed on the main board of the Hong Kong Stock Exchange under the stock code 1828. For more information, please visit www.fwd.com
+
+ 
+
+For more information about FWD Hong Kong, please visit www.fwd.com.hk/
+
+ 
+
+Summary
+
+This role is responsible for delivering, operating, and improving enterprise infrastructure and cloud platforms. It covers Azure monitoring and observability, cloud connectivity, hybrid identity, platform support, and automation. The role works with Enterprise Architecture, IT Security & Assurance, Application, IT Operations, managed-service providers, and vendors to deliver secure, reliable, scalable, and supportable services.
+
+The Job
+
+
+Manage assigned infrastructure work from requirement analysis and design through implementation, testing, production handover, and review.
+Deliver Azure infrastructure, connectivity, monitoring, identity, and platform requirements for business and application projects.
+Operate and improve Azure Managed Grafana, Azure Monitor, Log Analytics, Application Insights, dashboards, alerts, reports, and monitoring integrations.
+Manage Azure connectivity components, including VNets, subnets, route tables, Private Endpoints, Private DNS Zones, and firewall dependencies.
+Support Azure PaaS services, Microsoft Power Platform, Microsoft Fabric, hybrid identity, and certificate lifecycle management.
+Provide L2/L3 support, investigate incidents, perform root-cause analysis, and coordinate resolution with internal teams, Microsoft, service providers, and vendors.
+Prepare implementation plans, change requests, risk assessments, test procedures, rollback plans, SOPs, runbooks, diagrams, and handover documents.
+Use Infrastructure as Code, scripting, Git-based configuration management, reusable templates, and automation to improve consistency, control, and efficiency.
+Manage vendor deliverables, technical proposals, quotations, service quality, risks, dependencies, and progress reporting.
+Support service governance, security reviews, production-readiness checks, operational acceptance, and continuous improvement.
+
+
+The Person
+
+
+At least five years of hands-on experience in infrastructure or cloud engineering, preferably in a regulated enterprise environment.
+Strong knowledge of Microsoft Azure infrastructure, networking, identity, role-based access control, and PaaS services.
+Practical experience with Azure Managed Grafana, Azure Monitor, Log Analytics, Application Insights, KQL, dashboards, alerts, and diagnostic settings.
+Experience with Active Directory, ADFS, Web Application Proxy, SAML, OAuth, application registrations, service principals, and certificate-based authentication.
+Experience with automation and Infrastructure as Code using tools such as Terraform, ARM templates, Azure CLI, PowerShell, Python, and Git.
+Strong troubleshooting, analytical, documentation, communication, and vendor-management skills.
+Working knowledge of Microsoft Power Platform and Microsoft Fabric infrastructure dependencies is an advantage.
+ 
+
+We offer 5-day work, 20-22 days annual leaves, excellent learning & development opportunities and an attractive package to the right candidate.
+
+Information collected will be treated in strict confidence and used solely for recruitment purpose. The company will retain all applications no longer than 24 months of which will be destroyed thereafter. When there are vacancies in any of our subsidiaries, holding companies, associated or affiliated companies of, or companies controlled by, or under common control with the Company during that period, we may transfer your application to them for consideration of employment. We are an equal opportunity employer. We do not discriminate on the basis of race, gender, disability or family status in employment process.
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Insurance and Financial Services
+  
+
+Referrals increase your chances of interviewing at FWD Insurance by 2x
+
+See who you know
+
+Get notified about new Infrastructure Project Manager jobs in Quarry Bay, Hong Kong SAR.
+
+Sign in to create job alert
+Similar jobs
+Senior Technical Manager, Solution Architecture
+Senior Technical Manager, Solution Architecture
+The Hong Kong Jockey Club
+Sha Tin District, Hong Kong SAR
+2 weeks ago
+Assistant Manager, Cloud Infrastructure
+Assistant Manager, Cloud Infrastructure
+West Kowloon Cultural District Authority
+Hong Kong SAR
+2 weeks ago
+Manager – AI & Digital Solutions (Ref: 2600010L)
+Manager – AI & Digital Solutions (Ref: 2600010L)
+MTR Corporation Limited 香港鐵路有限公司
+Hong Kong SAR
+5 hours ago
+ASPAC Regional Cloud Architect - Manager / Assistant Manager (MJ008250)
+ASPAC Regional Cloud Architect - Manager / Assistant Manager (MJ008250)
+KPMG China
+Hong Kong SAR
+1 month ago
+Assistant Manager – AI & Digital Solutions (Ref: 2600010M)
+Assistant Manager – AI & Digital Solutions (Ref: 2600010M)
+MTR Corporation Limited 香港鐵路有限公司
+Hong Kong SAR
+5 hours ago
+Cloud Infrastructure Lead - Global Investment Bank - Hong Kong
+Cloud Infrastructure Lead - Global Investment Bank - Hong Kong
+NLS Executive Search
+Hong Kong, Hong Kong SAR
+1 day ago
+Show more jobs like this 
+People also viewed
+Assistant Manager, Enterprise AI Engineering
+Assistant Manager, Enterprise AI Engineering
+
+Chow Tai Fook Jewellery Group
+
+New Territories, Hong Kong SAR
+1 day ago
+Senior Solution Lead – Subsidiaries (Cathay Subsidiary Services)
+Senior Solution Lead – Subsidiaries (Cathay Subsidiary Services)
+
+Cathay Pacific
+
+Hong Kong, Hong Kong SAR
+1 day ago
+AI Infrastructure Manager
+AI Infrastructure Manager
+
+China Mobile International Limited
+
+Hong Kong, Hong Kong SAR
+2 weeks ago
+Assistant Manager, Data & Analytics
+Assistant Manager, Data & Analytics
+
+HAECO
+
+Hong Kong SAR
+1 week ago
+Senior Systems Manager - Assistant Vice President - Workplace Technology - IT
+Senior Systems Manager - Assistant Vice President - Workplace Technology - IT
+
+Hong Kong Exchanges and Clearing Limited (HKEX)
+
+Hong Kong, Hong Kong SAR
+2 days ago
+Senior Architect
+Senior Architect
+
+Infosys
+
+Hong Kong, Hong Kong SAR
+5 months ago
+Hong Kong Data Center - Assistant Operations Manager (Director)
+Hong Kong Data Center - Assistant Operations Manager (Director)
+
+Morgan Stanley
+
+Hong Kong, Hong Kong SAR
+6 days ago
+Engineering Manager - Asian Timezones
+Engineering Manager - Asian Timezones
+
+hermeneutic Investments
+
+Hong Kong, Hong Kong SAR
+2 months ago
+Agent Hub Tech Lead
+
+奇瑞全球創新(香港)有限公司
+
+Sha Tin District, Hong Kong SAR
+4 weeks ago
+Enterprise Architect
+Enterprise Architect
+
+AIA Hong Kong and Macau
+
+Hong Kong, Hong Kong SAR
+2 weeks ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at FWD Insurance
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

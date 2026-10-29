@@ -1,0 +1,230 @@
+Title: Manager, Platform Engineering
+Company: Bupa Hong Kong
+Location: Hong Kong, Hong Kong SAR
+URL: https://hk.linkedin.com/jobs/view/manager-platform-engineering-at-bupa-hong-kong-4483279816
+Posted: 2026-10-28
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in CI/CD, Azure DevOps, and infrastructure automation, and it is located in a target country (Hong Kong) with no US restrictions.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Manager, Platform Engineering
+Bupa Hong Kong  Hong Kong, Hong Kong SAR
+1 day ago   Be among the first 25 applicants
+  
+
+See who Bupa Hong Kong has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Job Purpose
+
+The Manager, Platform Engineering (Azure Cloud) is responsible for designing, implementing, automating, and supporting cloud infrastructure on Microsoft Azure. The role focuses on establishing and maintaining secure, scalable, and governing Azure platforms through Azure Landing Zones, Infrastructure as Code (Terraform), Azure DevOps automation, Kubernetes platforms, and enterprise Azure services. The position plays a key role in enabling application teams through reliable, automated, and secure cloud services while ensuring alignment with enterprise architecture, governance, security, and operational standards.
+
+Responsibilities
+
+
+Design, implement, and maintain Azure Landing Zones aligned with governance, security, and compliance requirements.
+Manage Azure subscriptions, policies, RBAC, networking, and resource standards.
+Develop and maintain Infrastructure as Code (IaC) solutions using Terraform.
+Create reusable Terraform modules and automate infrastructure provisioning.
+Build and manage CI/CD pipelines using Azure DevOps.
+Deploy, manage, and troubleshoot workloads running on Azure Kubernetes Service (AKS).
+Manage Kubernetes resources including networking, storage, scaling, and security configurations.
+Utilize Helm Charts for application deployment and lifecycle management.
+Implement, support, and optimize Azure services including Application Gateway, API Management (APIM), Storage Accounts, Key Vault, Logic Apps, App Services, and Identity Management.
+Monitor platform health, availability, security, performance, and operational effectiveness.
+Produce technical documentation, operational procedures, and architecture diagrams.
+Support platform incident resolution, root cause analysis, and continuous improvement initiatives.
+Collaborate with application, security, and infrastructure teams to deliver cloud solutions aligned with business needs.
+
+
+Requirements
+
+
+Bachelor's degree in engineering
+Minimum 10+ years IT experience with at least 5+ years of hands-on experience with Microsoft Azure cloud platforms.
+Strong experience with Terraform and Infrastructure as Code practices.
+Strong experience with Azure DevOps pipelines and repository management.
+Solid understanding of Azure networking, security, governance, and identity management.
+Hands-on experience with Azure Kubernetes Service (AKS) and Kubernetes administration.
+Experience supporting Azure Application Gateway, API Management (APIM), Storage Accounts, Key Vault, Logic Apps, and App Services.
+Working knowledge of scripting languages such as PowerShell and Bash.
+Strong analytical, troubleshooting, and problem-solving skills.
+Experience with Helm Charts preferred.
+Azure certifications such as AZ-104, AZ-305, and/or AZ-400 preferred.
+Experience with GitOps tools such as ArgoCD or Flux preferred.
+Knowledge of cloud security best practices, operational excellence, and cost optimization principles.
+Ability to work independently and collaboratively within cross-functional teams.
+Strong written and verbal communication skills.
+
+
+Benefits
+
+Bupa offers 5 days' work per week and comprehensive remuneration packages including base salary, study assistance plan, company pension plan, life and medical benefit, dental benefit, annual leave, examination leave, etc.
+
+Bupa is an equal opportunity employer and welcomes applications from qualified candidates. Information provided will be treated in strict confidence and only be used for consideration of application with Bupa.
+
+Personal data collected will be used for recruitment purposes only. Bupa will be in touch for any opportunities that matches your profile. All personal data of unsuccessful application will be destroyed 24 months from the date of receiving the application. Full version of Data Privacy Notice available upon request.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Insurance
+  
+
+Referrals increase your chances of interviewing at Bupa Hong Kong by 2x
+
+See who you know
+
+Get notified about new Engineering Manager jobs in Hong Kong, Hong Kong SAR.
+
+Sign in to create job alert
+Similar jobs
+Senior Technical Manager, Solution Architecture
+Senior Technical Manager, Solution Architecture
+The Hong Kong Jockey Club
+Sha Tin District, Hong Kong SAR
+2 weeks ago
+Engineering Manager - Asian Timezones
+Engineering Manager - Asian Timezones
+hermeneutic Investments
+Hong Kong, Hong Kong SAR
+2 months ago
+Senior Consultant / Manager / Senior Manager – Deloitte AI Institute - Hong Kong(106965)
+Senior Consultant / Manager / Senior Manager – Deloitte AI Institute - Hong Kong(106965)
+Deloitte
+Hong Kong SAR
+1 week ago
+Engineering Manager
+Engineering Manager
+SearchApi
+Hong Kong, Hong Kong SAR
+4 months ago
+Director / Senior Director, Platform Software Engineering
+Director / Senior Director, Platform Software Engineering
+Nex
+Hong Kong, Hong Kong SAR
+2 weeks ago
+Engineering Manager (AI Platform & LLMOps) - Regional Hub - J13271
+Engineering Manager (AI Platform & LLMOps) - Regional Hub - J13271
+Pinpoint Asia
+Hong Kong, Hong Kong SAR
+HK$75,000 - HK$110,000
+2 weeks ago
+Show more jobs like this 
+People also viewed
+General Manager, Solution Architecture & Engineering
+General Manager, Solution Architecture & Engineering
+
+Hongkong Land Limited
+
+Hong Kong, Hong Kong SAR
+2 weeks ago
+Senior Systems Manager - Assistant Vice President - Workplace Technology - IT
+Senior Systems Manager - Assistant Vice President - Workplace Technology - IT
+
+Hong Kong Exchanges and Clearing Limited (HKEX)
+
+Hong Kong, Hong Kong SAR
+2 days ago
+Cloud Infrastructure Lead - Global Investment Bank - Hong Kong
+Cloud Infrastructure Lead - Global Investment Bank - Hong Kong
+
+NLS Executive Search
+
+Hong Kong, Hong Kong SAR
+1 day ago
+Platform / Site Reliability Engineer
+Platform / Site Reliability Engineer
+
+Millennium
+
+Hong Kong, Hong Kong SAR
+1 week ago
+Executive Manager, Club-wide Data Office (Platform & Solutions)
+Executive Manager, Club-wide Data Office (Platform & Solutions)
+
+The Hong Kong Jockey Club
+
+Hong Kong SAR
+1 week ago
+(Senior) Application Development Manager
+(Senior) Application Development Manager
+
+Bank of China (Hong Kong)
+
+Hong Kong, Hong Kong SAR
+2 weeks ago
+Senior Data & API Platform Lead
+Senior Data & API Platform Lead
+
+AXA Hong Kong and Macau
+
+Hong Kong, Hong Kong SAR
+4 months ago
+DevOps / SRE Lead
+DevOps / SRE Lead
+
+RedotPay
+
+Hong Kong, Hong Kong SAR
+2 weeks ago
+Technical Lead, DevOps & Platform - Start Up
+Technical Lead, DevOps & Platform - Start Up
+
+ES Corporate Functions
+
+Hong Kong, Hong Kong SAR
+1 day ago
+Data Systems Team Lead
+Data Systems Team Lead
+
+Eclipse Trading
+
+Hong Kong, Hong Kong SAR
+4 months ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Bupa Hong Kong
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

@@ -1,0 +1,262 @@
+Title: Senior Platform Security Engineer – Cybersecurity
+Company: Mox Bank
+Location: Hong Kong, Hong Kong SAR
+URL: https://hk.linkedin.com/jobs/view/senior-platform-security-engineer-%E2%80%93-cybersecurity-at-mox-bank-4432735547
+Posted: 2026-10-08
+Deadline: 2026-12-31
+Reason: The role aligns with the candidate's extensive experience in CI/CD, DevSecOps, and infrastructure automation, and it is located in a target country (Hong Kong) with no explicit exclusion of visa sponsorship.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Platform Security Engineer – Cybersecurity
+Mox Bank  Hong Kong, Hong Kong SAR
+3 weeks ago  56 applicants
+  
+
+See who Mox Bank has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Application Deadline: 31 December 2026
+
+Department: Technology-CDSIO
+
+Location: Hong Kong (SAR)
+
+
+
+Description
+
+About Mox
+Mox is built by and for the ones who aspire to live life to the fullest – we call them Generation Mox! The name Mox reflects the endless opportunities we can create, - Mobile eXperience; Money eXperience; Money X (multiplier), eXponential growth, eXploration… it’s all up for us to define together.
+
+Why Mox
+Everything at Mox – from our products, features, to rewards – is designed based on customer research, tailor made for your needs. We care about what customers care about, especially in data security and privacy. Data ethics is core to everyone here at Mox. Mox rewards you with an array of banking and lifestyle benefits. Who says banking can’t be fun?
+
+Who are we looking for?
+
+We are seeking a highly skilled Senior Security Platform Engineer to join our growing Cybersecurity team at Mox Bank.
+
+In this role, you will act as a key architect and a lead within our Architecture, Cloud & Identity Foundations pillar. You will build the "Security Platform"—a suite of automated services, APIs, and guardrails that allow our engineering squads to build and deploy at speed, securely. You will sit at the intersection of DevSecOps, Identity (IAM/PAM), and Cloud Security.
+
+You will provide technical leadership to the DevSecOps squad, have an Agile mindset with a keen interest in DevOps engineering across a range of technologies, while showcasing solid communication and a team-player.
+
+Who you are:
+
+
+We seek a hands-on security engineer with demonstrated expertise in platform-scale problem solving. You possess an "automation-first" mindset and view manual security interventions as an opportunity for engineering improvement. You are comfortable writing production-grade code, architecting Zero-Trust identity models, and evangelizing security best practices to software development teams. You thrive on solving complex problems at scale and are passionate about building frictionless security into our infrastructure.
+
+In this role, you will have experience in:
+
+· AWS Cloud technologies and architecture patterns
+· Solid understanding of continuous deployment and delivery (CI/CD) tools
+· Experience with Source Control and SDLC tools and well versed with Python scripting.
+· Experience in zero-trust architecture and Identity Security.
+
+
+
+Responsibilities
+
+
+Security Platform Architecture: Design, build, and maintain our enterprise-wide security-as-code platform. Develop and maintain "Golden Modules" (Infrastructure-as-Code) that empower developers to provision cloud resources that are secure by default.
+DevSecOps & Pipeline Integration: Architect security hooks within our CI/CD pipelines. Automate static and dynamic analysis (SAST/DAST) and secret scanning to ensure rapid, actionable feedback loops for development squads.
+IAM & PAM Governance: Architect and implement modern identity patterns. Shift the organisation from static credentials to dynamic, ephemeral, and Just-in-Time (JIT) access models for both human and machine identities (Workload Identity).
+Cloud Infrastructure Security: Lead the deployment and optimization of Cloud Security Posture Management (CSPM) and Container Security solutions to detect and automatically remediate configuration drift across our multi-cloud environment.
+Security Advocacy & Developer Experience: Act as a strategic bridge between Cybersecurity and Engineering. You will troubleshoot deployment bottlenecks, reduce false-positive fatigue, and lead the charge in fostering a "security-by-design" culture.
+To be successful in the role, you will have:
+
+
+10+ years of experience in Software Engineering, Infrastructure Engineering, or Cybersecurity, with at least 4 years focused specifically on Cloud Security or DevSecOps.
+Expert-level AWS cloud architecture and fully automated CI/CD pipeline design, including core services (EC2, RDS, S3, IAM, KMS, API Gateway, Lambda)
+Deep technical understanding of OIDC, SAML, OAuth2, and modern Privileged Access Management (PAM) architectures.
+Extensive Infrastructure-as-Code proficiency (Terraform, CloudFormation) with demonstrated experience in modular 'Golden Module' development and drift detection.
+Production-grade software engineering skills in Python, Go, or Java for security tooling and API development
+Strong experience securing containerized workloads and orchestrators (Kubernetes, Docker, Service Mesh). Configuring, upgrading, monitoring K8S clusters, and ability to debug issues with K8S workloads.
+Experience with Cloud Security Tools like CloudTrail, CloudWatch, Guardduty, Security Hub, AWS Config.
+Have a good mix of both Windows and Linux Server Administration experience.
+Strong leadership, mentoring and senior stakeholder engagement skills.
+A true DevOps passion for automation and innovation and problem solving
+A passion for developing fit for purpose solution designs.
+A passion for coaching and developing technology teams.
+
+
+
+
+Requirements
+
+Previous experience in Cybersecurity engineering, Cloud security.
+Bachelor’s degree in computer science, Software Engineering, Cybersecurity or a related technical field, or equivalent practical experience.
+Professional certifications such as CKS (Certified Kubernetes Security Specialist), AWS/Azure Security Specialty, AWS Solution Architect or CISSP.
+You can distill complex security architecture (like IAM policy propagation or IaC drift) into clear, actionable guidance for non-security peers.
+You are a self-starter comfortable operating in an agile, high-growth environment where priorities can evolve rapidly.
+Experience with Vulnerability Management tooling or general experience in Vulnerability Management and patching.
+Experience with SIEM solutions
+Experience with Privileged Access Management (PAM) solutions
+Experience with Container Intrusion detection tools
+Experience in all is not mandatory but any exposure to the areas these tools deal with is extremely preferable.
+
+
+
+All personal data provided by applicants will be used for recruitment and other employment-related purposes only. Personal data of unsuccessful applicants will be erased within 24 months of rejection of the applicant’s application.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Banking
+  
+
+Referrals increase your chances of interviewing at Mox Bank by 2x
+
+See who you know
+
+Get notified about new Platform Engineer jobs in Hong Kong, Hong Kong SAR.
+
+Sign in to create job alert
+Similar jobs
+Senior/Staff Engineer, Security Platform Development
+Senior/Staff Engineer, Security Platform Development
+OKX
+Hong Kong, Hong Kong SAR
+1 week ago
+Staff Engineer, Security Platform Development
+Staff Engineer, Security Platform Development
+OKX
+Hong Kong, Hong Kong SAR
+1 week ago
+Application Security Engineer - ADR
+Application Security Engineer - ADR
+State Street
+Hong Kong, Hong Kong SAR
+1 week ago
+Senior Application Security Architect
+Senior Application Security Architect
+Binance
+Hong Kong SAR
+1 week ago
+Security Engineer / Manager
+Security Engineer / Manager
+Bowtie Life Insurance Company
+Wan Chai District, Hong Kong SAR
+1 month ago
+Senior Security Engineer
+Senior Security Engineer
+World Wide Technology
+Hong Kong, Hong Kong SAR
+1 week ago
+Show more jobs like this 
+People also viewed
+DevSecOps / Cloud Security Manager | HKD 65K - HKD 80K / mth | Inhouse + Perm
+DevSecOps / Cloud Security Manager | HKD 65K - HKD 80K / mth | Inhouse + Perm
+
+Venturenix
+
+Hong Kong, Hong Kong SAR
+1 week ago
+Cyber Security Specialist
+Cyber Security Specialist
+
+Standard Chartered
+
+Quarry Bay, Hong Kong SAR
+11 months ago
+Senior Specialist - Cyber Security & Compliance - Information Technology Services (106887)
+Senior Specialist - Cyber Security & Compliance - Information Technology Services (106887)
+
+Deloitte
+
+Hong Kong SAR
+2 weeks ago
+Senior Network and Security Analyst / Lead
+Senior Network and Security Analyst / Lead
+
+Lalamove
+
+Hong Kong, Hong Kong SAR
+1 week ago
+Penetration Testing Engineer
+Penetration Testing Engineer
+
+China Mobile Hong Kong
+
+Hong Kong, Hong Kong SAR
+3 weeks ago
+Analyst, IT Security Engineering, IT
+Analyst, IT Security Engineering, IT
+
+CITIC Securities International
+
+Hong Kong, Hong Kong SAR
+5 days ago
+Senior Security Consultant
+Senior Security Consultant
+
+FUJIFILM BI Hong Kong
+
+Hong Kong, Hong Kong SAR
+1 week ago
+Application Security Specialist (40-55K)
+Application Security Specialist (40-55K)
+
+Hays
+
+Kowloon, Hong Kong SAR
+2 days ago
+Senior Consultant, Cyber Security (Ref: DTD/10983)
+Senior Consultant, Cyber Security (Ref: DTD/10983)
+
+HKPC - Hong Kong Productivity Council
+
+Hong Kong, Hong Kong SAR
+2 weeks ago
+Assistant Vice President (AVP), Information Security Governance
+Assistant Vice President (AVP), Information Security Governance
+
+Hong Kong Exchanges and Clearing Limited (HKEX)
+
+Hong Kong, Hong Kong SAR
+1 month ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Mox Bank
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
