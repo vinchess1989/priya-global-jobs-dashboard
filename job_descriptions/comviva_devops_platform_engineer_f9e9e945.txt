@@ -1,0 +1,275 @@
+Title: DevOps Platform Engineer
+Company: Comviva
+Location: Hyderabad, Telangana, India
+URL: https://in.linkedin.com/jobs/view/devops-platform-engineer-at-comviva-4474143413
+Posted: 2026-10-02
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in DevOps, CI/CD pipeline ownership, and automation, and it is located in India, which is one of her target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Platform Engineer
+Comviva  Hyderabad, Telangana, India
+4 weeks ago   Over 200 applicants
+  
+
+See who Comviva has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Key Responsibilities
+
+
+Design, implement, and maintain robust and automated CI/CD pipelines leveraging AWS DevOps services and other tools like Jenkins, GitLab CI/CD, or GitHub Actions.
+Automate build, test, and deployment processes for applications, ensuring rapid and reliable releases to environments.
+Integrate security scanning (SAST/DAST), vulnerability management, and compliance checks into the CI/CD pipeline (DevSecOps).
+
+
+Infrastructure As Code (IaC)
+
+
+Develop and maintain Infrastructure as Code (IaC) using Terraform for provisioning and managing resources.
+Automate repetitive operational tasks and infrastructure configurations through scripting.
+
+
+Containerization & Orchestration
+
+
+Hands-on experience with Docker and Kubernetes for containerizing, deploying, and managing applications.
+Knowledge of Helm charts for managing Kubernetes applications.
+
+
+Monitoring, Logging & Alerting
+
+
+Implement and manage comprehensive monitoring and logging solutions using AWS monitoring tools, Prometheus, Grafana, or other relevant tools to ensure application and infrastructure health.
+Configure alerts and dashboards to proactively identify and resolve performance bottlenecks and system issues.
+
+
+Scripting & Automation
+
+
+Proficiency in scripting languages such as Python, Bash, or PowerShell for automating tasks, developing custom tools, and interacting with APIs.
+
+
+Collaboration & Mentorship
+
+
+Collaborate effectively with development, QA, and operations teams to streamline workflows and promote DevOps principles across the organization.
+Provide technical guidance and mentorship to junior engineers on DevOps practices and cloud technologies.
+Champion a culture of continuous improvement, knowledge sharing, and automation.
+
+
+Troubleshooting & Problem Solving
+
+
+Strong analytical and problem-solving skills to diagnose and resolve complex technical issues in production and non-production environments.
+
+
+Required Skills & Qualifications
+
+
+Bachelor's degree in Computer Science, Information Technology, or a related field.
+6-8 years of proven hands-on experience as a DevOps Engineer, with significant experience on AWS, Azure platform.
+Demonstrable experience with DevOps services (Code Repositories, Build Pipelines, Deployment Pipelines, Artifact Registry, Container Registry).
+Strong experience with Infrastructure as Code (IaC) using Terraform.
+Proficiency in containerization technologies (Docker) and container orchestration (Kubernetes).
+Hands-on experience with CI/CD tools (e.g., Jenkins, GitLab CI/CD, GitHub Actions).
+Experience with monitoring and logging tools relevant to AWS / Azure/GCP, Prometheus, Grafana, ELK).
+Strong scripting skills (Python, Bash).
+Experience with version control systems (Git).
+Understanding of networking concepts within a cloud environment (VCNs, Load Balancers, VPNs).
+Excellent communication, collaboration, and interpersonal skills.
+Ability to work independently and as part of a cross-functional team.
+AWS certifications are highly preferred.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Comviva by 2x
+
+See who you know
+
+Get notified about new Platform Engineer jobs in Hyderabad, Telangana, India.
+
+Sign in to create job alert
+Jobs
+Site Reliability Engineer jobs
+DevOps Platform Engineer
+Similar jobs
+DevOps Engineer - Marcom
+DevOps Engineer - Marcom
+Apple
+Hyderabad, Telangana, India
+1 month ago
+DevOps Engineer, Retail Engineering
+DevOps Engineer, Retail Engineering
+Apple
+Hyderabad, Telangana, India
+1 month ago
+DevOps Engineer
+DevOps Engineer
+Accenture in India
+Hyderabad, Telangana, India
+1 month ago
+Dev Ops Engineer
+Dev Ops Engineer
+Dr Reddy's Foundation
+Hyderabad, Telangana, India
+3 days ago
+DevOps Engineer
+DevOps Engineer
+Ascendion
+Hyderabad, Telangana, India
+13 hours ago
+Platform Engineer
+Platform Engineer
+Backbase
+Hyderabad, Telangana, India
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Staff DevOps Engineer
+Staff DevOps Engineer
+
+Teradata
+
+Hyderabad, Telangana, India
+3 days ago
+Infrastructure Automation Engineer - Ads
+Infrastructure Automation Engineer - Ads
+
+Apple
+
+Hyderabad, Telangana, India
+2 months ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+Apple
+
+Hyderabad, Telangana, India
+5 months ago
+Sr. DevOps Engineer
+Sr. DevOps Engineer
+
+Apple
+
+Hyderabad, Telangana, India
+1 month ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+Apple
+
+Hyderabad, Telangana, India
+5 months ago
+DevOps Architect
+DevOps Architect
+
+Accenture in India
+
+Hyderabad, Telangana, India
+1 month ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+Apple
+
+Hyderabad, Telangana, India
+4 weeks ago
+DevOps Architect
+DevOps Architect
+
+Accenture in India
+
+Hyderabad, Telangana, India
+1 month ago
+Custom Software Engineer
+Custom Software Engineer
+
+Accenture in India
+
+Hyderabad, Telangana, India
+3 weeks ago
+Custom Software Engineer
+Custom Software Engineer
+
+Accenture in India
+
+Hyderabad, Telangana, India
+3 weeks ago
+Similar Searches
+Site Reliability Engineer jobs
+25,766 open jobs
+Unix Consultant jobs
+623 open jobs
+Platform Architect jobs
+11,170 open jobs
+Build And Release Engineer jobs
+3,712 open jobs
+Infrastructure Engineer jobs
+6,499 open jobs
+Data Management Coordinator jobs
+2,864 open jobs
+Linux Engineer jobs
+4,338 open jobs
+Senior Infrastructure Engineer jobs
+2,434 open jobs
+Lead Infrastructure Engineer jobs
+1,352 open jobs
+Software Configuration Management Engineer jobs
+2,961 open jobs
+Portal Developer jobs
+6,717 open jobs
+Virtualization Engineer jobs
+2,053 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Comviva
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

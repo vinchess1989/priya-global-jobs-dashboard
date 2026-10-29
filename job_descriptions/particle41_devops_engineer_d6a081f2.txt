@@ -1,0 +1,290 @@
+Title: DevOps Engineer
+Company: Particle41
+Location: Pune/Pimpri-Chinchwad Area
+URL: https://in.linkedin.com/jobs/view/devops-engineer-at-particle41-4403814389
+Posted: 2026-05-03
+Deadline: Open until filled
+Reason: The role aligns with the candidate's DevOps and CI/CD expertise, is located in India (a target country), and does not violate any hard rejection criteria.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+Particle41  Pune/Pimpri-Chinchwad Area
+6 months ago   Over 200 applicants
+  
+
+See who Particle41 has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+
+As a DevOps Engineer at Particle41, you will play a crucial role in enhancing our software development and IT operations processes. The ideal candidate will have a strong background in both software development and IT operations, with a focus on automating and streamlining processes to achieve efficient and reliable software delivery for our customers. You will work closely with the development and operations teams of our customers to build, deploy, and maintain critical systems, ensuring the reliability and scalability of the customers' infrastructure.
+
+In This Role, You Will:
+
+Collaboration and Communication:
+
+
+Work closely with software developers, system administrators, and other stakeholders to understand the requirements and objectives of projects.
+Collaborate on the design, implementation, and maintenance of continuous integration and delivery pipelines.
+Create and maintain comprehensive documentation for systems, processes, and configurations.
+
+
+Automation and Tooling:
+
+
+Design, implement, and manage automation processes for software build, deployment, and configuration.
+Evaluate, select, and implement tools and technologies to enhance the efficiency of the development and deployment processes.
+
+
+Infrastructure Management:
+
+
+Manage and maintain cloud-based infrastructure (AWS, Azure, GCP, and other cloud providers) to ensure scalability, reliability, and security.
+Implement infrastructure as code (IaC) using tools such as Terraform, Pulumi, and others.
+Establish and maintain CI/CD pipelines to automate the software delivery process, including build, test, and deployment phases.
+
+
+Monitoring and Performance:
+
+
+Develop and implement monitoring solutions to ensure the health and performance of systems and applications.
+Proactively identify and address issues related to system performance, reliability, and scalability.
+
+
+Security and Compliance:
+
+
+Implement and maintain security best practices in infrastructure and application deployment. This would include vulnerability assessments, code scanning and access controls.
+Ensure compliance with regulatory requirements and company security policies.
+
+
+Troubleshooting and Support:
+
+
+Provide support for development and operations teams, addressing issues related to build failures, deployment problems, and system outages.
+Participate in on-call rotation to respond to and resolve critical incidents.
+
+
+Skills and Experience We Value:
+
+
+Bachelor's Degree in Computer Science, Information Technology, or a related field, or equivalent work experience.
+Proven experience as a DevOps Engineer or similar role.
+Strong proficiency in scripting languages such as Python, Bash, or Ruby.
+Experience with configuration management tools such as Ansible, Puppet, or Chef.
+In-depth knowledge of containerization technologies, such as Docker and Kubernetes.
+Hands-on experience with version control systems, preferably Git.
+Solid understanding of continuous integration and continuous deployment (CI/CD) concepts and tools.
+Strong problem-solving and troubleshooting skills.
+Excellent communication and collaboration abilities.
+Certified (Current or Expired) in at least one of the following: AWS Solutions Architect Associate, AWS Developer Associate, AWS SysOps Administrator Associate, AWS Solutions Architect Professional, AWS DevOps Engineer Professional, Azure Administrator Associate, Azure Security Engineer Associate, Azure Network Engineer Associate, Azure Developer Associate, Azure Solutions Architect Expert, Azure DevOps Engineer Expert, GCP Cloud Engineer Associate, GCP Cloud Architect Professional, GCP Cloud Developer Professional, GCP Cloud DevOps Engineer Professional, GCP Cloud Security Engineer Professional, GCP Cloud Network Engineer Professional, Certified Kubernetes Application Developer, Certified Kubernetes Administrator, Certified Kubernetes Security Specialist
+
+
+About Particle41
+
+Our core values of Empowering, Leadership, Innovation, Teamwork, and Excellence drive everything we do to achieve the ultimate outcomes for our clients. Empowering Leadership for Innovation in Teamwork with Excellence ( ELITE )
+
+
+E - Empowering: Enabling individuals to reach their full potential.
+L - Leadership: Taking initiative and guiding each other toward success.
+I - Innovation: Embracing creativity and new ideas to stay ahead.
+T - Teamwork: Collaborating with empathy to achieve common goals.
+E - Excellence: Striving for the highest quality in everything we do.
+
+
+We seek team members who embody these values and are committed to contributing to our mission. Particle41 welcomes individuals from all backgrounds who are committed to our mission and values. We provide equal employment opportunities to all employees and applicants, ensuring that hiring and employment decisions are based on merit and qualifications without discrimination based on race, color, religion, caste, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state, local, or international laws. This policy applies to all aspects of employment and hiring.
+
+We appreciate your interest and encourage applicants from these regions to apply. If you need any assistance during the application or interview process, please feel free to reach out to us at careers@Particle41.com
+Show more 
+Seniority level
+Entry level
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Particle41 by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Pune/Pimpri-Chinchwad Area.
+
+Sign in to create job alert
+Jobs
+Principal Quality Engineer jobs
+DevOps Engineer
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+Outmarket AI
+India
+3 months ago
+DevOps Engineer
+DevOps Engineer
+GoQuant
+India
+4 months ago
+DevOps Engineer
+DevOps Engineer
+Flexiple
+India
+16 hours ago
+DevOps Engineer
+DevOps Engineer
+TriluxTech
+India
+1 week ago
+Devops Engineer
+Devops Engineer
+MantriAI
+India
+3 weeks ago
+Site Reliability Engineer
+Site Reliability Engineer
+Sophos
+India
+1 day ago
+Show more jobs like this 
+People also viewed
+Platform Engineer II
+Platform Engineer II
+
+Precisely
+
+India
+3 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Data Eminence
+
+India
+2 days ago
+DevOps Specialist
+DevOps Specialist
+
+Crewlia
+
+India
+1 week ago
+Cloud Engineer III
+Cloud Engineer III
+
+Rackspace Technology
+
+India
+1 week ago
+AI-Native Platform Engineer - DevOps, Security & Compliance | Zenara Health
+AI-Native Platform Engineer - DevOps, Security & Compliance | Zenara Health
+
+Zenara Health
+
+India
+1 week ago
+DevOps & AIOps Engineer REQ_122
+DevOps & AIOps Engineer REQ_122
+
+3Pillar
+
+India
+1 week ago
+Senior DevOps Engineer – Infrastructure & Platform
+Senior DevOps Engineer – Infrastructure & Platform
+
+Rocket Learning
+
+India
+1 week ago
+Azure DevOps Engineer - Remote - India
+Azure DevOps Engineer - Remote - India
+
+FullStack
+
+India
+5 days ago
+Site Reliability Engineer - India
+Site Reliability Engineer - India
+
+Zimperium
+
+India
+5 months ago
+DevOps Analyst
+DevOps Analyst
+
+Crewlia
+
+India
+1 week ago
+Similar Searches
+Principal Quality Engineer jobs
+583 open jobs
+Senior Software Architect jobs
+10,429 open jobs
+Desktop Engineer jobs
+3,256 open jobs
+Unity Developer jobs
+851 open jobs
+Senior Technical Recruiter jobs
+1,079 open jobs
+Presales Solutions Architect jobs
+1,421 open jobs
+Infrastructure Engineer jobs
+6,499 open jobs
+Corporate Recruiter jobs
+1,087 open jobs
+Site Engineer jobs
+3,587 open jobs
+Site Reliability Engineer jobs
+25,766 open jobs
+Full Stack Engineer jobs
+4,505 open jobs
+Technical Recruiter jobs
+1,276 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Particle41
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

@@ -1,0 +1,242 @@
+Title: DevOps Engineer
+Company: algoleap
+Location: Hyderabad, Telangana, India
+URL: https://in.linkedin.com/jobs/view/devops-engineer-at-algoleap-4471443761
+Posted: 2026-10-16
+Deadline: Open until filled
+Reason: The role is a strong match for her DevOps and release management expertise, is located in India (a target country), and does not involve feature development.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+algoleap  Hyderabad, Telangana, India
+2 weeks ago   Over 200 applicants
+  
+
+See who algoleap has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Owns delivery automation for every migration workstream. Builds the CI/CD pipelines, infrastructure as code and release processes that let the team ship the web application, APIs, functions and database changes to Azure safely and repeatedly.
+
+Key Responsibilities
+
+‒ Build and maintain multi-stage YAML pipelines in Azure DevOps covering build, test, security scanning and deployment.
+
+‒ Author and maintain infrastructure as code (Terraform) for all environments.
+
+‒ Manage configuration and secrets through Key Vault and pipeline variable groups.
+
+‒ Define branching strategy, pull request policies and quality gates; wire automated test suites into the pipelines.
+
+‒ Run release management: deployment slots, blue-green deployment, approvals and rollback.
+
+‒ Automate database deployments (DACPAC or migration-based) alongside application releases.
+
+Required Skills And Experience
+
+‒ Deep Azure DevOps experience: Repos, Pipelines, Boards, Artifacts and YAML pipeline authoring.
+
+‒ Infrastructure as code with Bicep or Terraform in production.
+
+‒ Strong Git workflow knowledge and build experience for .NET applications.
+
+‒ Scripting with PowerShell or Bash for automation.
+
+‒ Deploying to Azure App Service, Functions and Azure SQL from pipelines.
+
+‒ Secrets management, service connections and pipeline security best practices.
+
+Preferred Qualifications
+
+‒ AZ-400 certification.
+
+‒ Container experience (Docker, Azure Container Apps or AKS).
+
+‒ Code quality and security tooling such as SonarQube or dependency scanning.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at algoleap by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Hyderabad, Telangana, India.
+
+Sign in to create job alert
+Jobs
+Exchange Administrator jobs
+DevOps Engineer
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+Ascendion
+Hyderabad, Telangana, India
+13 hours ago
+DevOps Engineer
+DevOps Engineer
+vidaXL
+Hyderabad, Telangana, India
+1 week ago
+DevOps Engineer
+DevOps Engineer
+[x]cube LABS
+Hyderabad, Telangana, India
+₹1,100,000 - ₹1,400,000
+1 year ago
+DevOps Engineer
+DevOps Engineer
+OSI Digital
+Hyderabad, Telangana, India
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+Copart
+Greater Hyderabad Area
+1 day ago
+DevOps Engineer - Marcom
+DevOps Engineer - Marcom
+Apple
+Hyderabad, Telangana, India
+1 month ago
+Show more jobs like this 
+People also viewed
+DevOps Engineer - Remote Work | REF#284465
+DevOps Engineer - Remote Work | REF#284465
+
+BairesDev
+
+Hyderabad, Telangana, India
+1 year ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+Ivanti
+
+Hyderabad, Telangana, India
+3 days ago
+DevOps Engineer
+DevOps Engineer
+
+Delta Technology and Management Services Pvt. Ltd.
+
+Hyderabad, Telangana, India
+₹1,000,000 - ₹2,100,000
+1 month ago
+DevOps Engineer
+DevOps Engineer
+
+Zoetis
+
+Hyderabad, Telangana, India
+4 weeks ago
+Devops Engineer
+Devops Engineer
+
+TRC Companies, Inc.
+
+Hyderabad, Telangana, India
+3 weeks ago
+Azure Devops Engineer
+Azure Devops Engineer
+
+Aggne
+
+Hyderabad, Telangana, India
+3 months ago
+AWS + Terraform DevOps
+AWS + Terraform DevOps
+
+Infosys
+
+Hyderabad, Telangana, India
+1 week ago
+AWS DevOps Engineer
+AWS DevOps Engineer
+
+Triveni IT
+
+Hyderabad, Telangana, India
+1 week ago
+AWS DevOps Engineer
+AWS DevOps Engineer
+
+Exreed
+
+Greater Hyderabad Area
+4 weeks ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+Apple
+
+Hyderabad, Telangana, India
+5 months ago
+Similar Searches
+Exchange Administrator jobs
+1,283 open jobs
+Chief Architect jobs
+955 open jobs
+Senior Infrastructure Engineer jobs
+2,434 open jobs
+Lead Recruiter jobs
+895 open jobs
+Graduate Engineering Trainee jobs
+96 open jobs
+Linux Engineer jobs
+4,338 open jobs
+Director of Software Engineering jobs
+580 open jobs
+Materials Planner jobs
+135 open jobs
+Associate Analyst jobs
+9,793 open jobs
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at algoleap
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

@@ -1,0 +1,356 @@
+Title: Senior DevOps Engineer
+Company: Sonata Software
+Location: Pune Division, Maharashtra, India
+URL: https://in.linkedin.com/jobs/view/senior-devops-engineer-at-sonata-software-4476331270
+Posted: 2026-10-09
+Deadline: Open until filled
+Reason: The role is a strong match for her DevOps and CI/CD expertise, is located in India (a target country), and does not involve feature-development software engineering.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer
+Sonata Software  Pune Division, Maharashtra, India
+3 weeks ago   Over 200 applicants
+  
+
+See who Sonata Software has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Job Description
+
+Job Title- Senior DevOps Engineer
+
+Location- Pune | Hybrid
+
+Experience- 6–8 Years
+
+Primary Skills- Linux Programming, AWS, Terraform/OpenTofu, Cloud Migration, DevOps/SRE
+
+Focus Area- AI-Driven Infrastructure Modernization
+
+About The Role
+
+We are hiring a Senior Cloud Platform / DevOps / SRE Engineer to help migrate, modernize, operate, and improve infrastructure across a portfolio of businesses. This role will focus first on AWS, with future expansion into Azure and GCP.
+
+The ideal candidate has experience moving legacy infrastructure from colo, hosted, data center, or existing cloud environments into AWS. This includes both colo-to-cloud and cloud-to-cloud migrations. Early work may include lift-and-shift migrations; over time, this role will help standardize, automate, secure, observe, and modernize those environments.
+
+This is also a production reliability role, requiring support for production uptime, incident response, escalation processes, and reliable infrastructure and deployment practices.
+
+This is an AI-first infrastructure role. The ideal candidate should use AI tools to accelerate infrastructure analysis, Terraform/OpenTofu development, migration planning, CI/CD improvement, troubleshooting, documentation, automation, and operational remediation.
+
+Roles And Responsibilities
+
+Cloud Migration & Modernization
+
+
+Lead and support migrations from colo, hosted, legacy, and existing cloud environments into AWS.
+Assess current-state infrastructure, document dependencies, identify risks, and create migration, cutover, rollback, and validation plans.
+Map source environments including networking, IAM, storage, databases, DNS, certificates, security controls, observability, and deployment workflows into appropriate AWS target architectures.
+Support both colo-to-cloud and cloud-to-cloud migrations.
+Help determine whether applications should be lift-and-shifted, containerized, re-platformed, or more deeply modernized.
+
+
+Cloud Infrastructure & Platform Engineering
+
+
+Build, maintain, and standardize cloud infrastructure using Terraform or OpenTofu.
+Operate and improve multi-account AWS environments using AWS Organizations and related governance patterns.
+Help establish a centralized cloud operating model across AWS, with a path toward Azure and GCP.
+Design and support cloud networking, IAM, security, logging, monitoring, backups, disaster recovery, and high-availability solutions.
+Define best practices for infrastructure automation, CI/CD, observability, reliability, security, and cloud operations.
+
+
+Infrastructure as Code & Automation
+
+
+Develop reusable and standardized infrastructure using Terraform/OpenTofu modules.
+Manage remote state, environments, plan/apply workflows, secrets handling, policy checks, and CI/CD integration.
+Build automation and self-healing workflows to automatically resolve common production failures where possible.
+Implement policy-as-code, security-as-code, and compliance automation where required.
+
+
+CI/CD & Deployment
+
+
+Build and improve CI/CD pipelines for application and infrastructure deployments.
+Automate infrastructure provisioning, application deployments, testing, and release processes.
+Work with platforms such as GitHub Actions, GitLab CI, Azure DevOps, Jenkins, Argo CD, CircleCI, or similar technologies.
+Partner with engineering teams to containerize legacy applications using Docker and deploy them on ECS, EKS, Kubernetes, or similar platforms.
+
+
+Observability & Reliability
+
+
+Implement monitoring, logging, tracing, alerting, dashboards, and service health indicators.
+Ensure infrastructure and application issues are detected quickly and resolved effectively.
+Support production uptime through incident response, escalation, on-call processes, runbooks, and post-incident improvements.
+Implement automated remediation, auto-scaling, event-driven operations, and runbook automation.
+Troubleshoot issues across infrastructure, networking, application, and cloud layers.
+
+
+AI-First Infrastructure
+
+
+Leverage AI tools to accelerate infrastructure analysis, Terraform/OpenTofu development, migration planning, CI/CD improvement, troubleshooting, documentation, incident response, and operational automation.
+Identify opportunities to use AI to improve infrastructure engineering productivity and operational efficiency.
+
+
+Qualifications & Required Skills
+
+
+7+ years of experience in DevOps, SRE, Cloud Infrastructure, Platform Engineering, Systems Engineering, or similar roles.
+Strong hands-on experience operating production workloads in AWS.
+Experience migrating infrastructure from colo, data center, hosted, legacy, or existing cloud environments into AWS.
+Experience with cloud-to-cloud migrations, including service mapping, data migration, networking, identity/access, DNS, cutover, rollback, and validation.
+Strong production experience with Terraform or OpenTofu, including modules, remote state, environments, plan/apply workflows, secrets handling, policy checks, and CI/CD integration.
+Strong understanding of Linux systems and scripting/programming.
+Experience with AWS networking, including VPCs, subnets, routing, VPNs, load balancers, DNS, certificates, NAT gateways, and security groups.
+Experience with AWS Organizations, IAM, centralized logging, cloud governance, and multi-account patterns.
+Experience building and maintaining CI/CD pipelines for application and infrastructure delivery.
+Experience with monitoring, logging, alerting, dashboards, metrics, traces, and service health indicators.
+Experience supporting production uptime, incident response, on-call or escalation workflows, runbooks, and post-incident improvements.
+Strong troubleshooting skills across infrastructure, networking, application, and cloud layers.
+Demonstrated use of AI tools in infrastructure, DevOps, SRE, or software delivery workflows.
+Strong communication skills and ability to work across multiple engineering teams and business units.
+
+
+Mandatory Skills
+
+
+Linux Programming / Scripting
+AWS
+Terraform / OpenTofu
+Cloud Migration
+DevOps / SRE
+Production AWS infrastructure management
+AWS networking — VPC, subnets, routing, VPN, load balancers, DNS, NAT, security groups
+AWS IAM and AWS Organizations
+Infrastructure as Code
+CI/CD
+Monitoring, logging, alerting, and observability
+Production support and incident management
+Cloud-to-cloud and/or data center-to-cloud migration experience
+Strong troubleshooting and problem-solving skills
+AI-assisted development / AI tools for infrastructure and DevOps workflows
+
+
+Good To Have Skills
+
+
+Experience with Azure and/or GCP in addition to AWS.
+Direct experience migrating workloads from Azure to AWS or GCP to AWS.
+Experience with Azure Bicep, AWS CDK/CloudFormation, Pulumi, or other IaC technologies.
+Experience with AWS Control Tower, IAM Identity Center, CloudTrail, Config, GuardDuty, Security Hub, or similar governance and security services.
+Experience with Azure management groups, subscriptions, policies, identity, networking, and governance.
+Experience with GCP organizations, folders, projects, IAM, networking, and organization policies.
+Experience with Docker, ECS, EKS, Kubernetes, and Helm.
+Experience containerizing legacy applications and transitioning them to automated deployment models.
+Experience with GitHub Actions, GitLab CI, Azure DevOps, Jenkins, Argo CD, or CircleCI.
+Experience with Datadog, New Relic, Grafana, Prometheus, CloudWatch, OpenTelemetry, ELK/OpenSearch, or Splunk.
+Experience with automated remediation, self-healing infrastructure, auto-scaling, event-driven operations, and runbook automation.
+Experience with policy-as-code, security-as-code, backup, disaster recovery, high availability, and compliance automation.
+Strong application architecture knowledge to assess whether workloads should be lift-and-shifted, containerized, re-platformed, or deeply modernized.
+
+
+About Sonata Software
+
+Sonata Software is an AI-first modernization engineering company that helps enterprises transform legacy systems into intelligent, scalable business platforms. Powered by its Platformation™ framework and Harmoni.AI platform, Sonata delivers AI-led modernization across cloud, data, AI, Dynamics, test automation, and managed services.
+
+Headquartered in Bengaluru, India, Sonata has more than $1.2 billion in revenue and 6,400+ AI engineers supporting global delivery across regions including the US, UK, India, Malaysia, Mexico, Australia, DACH, and the Nordics.
+
+With deep partnerships across Microsoft, AWS, Salesforce, and Snowflake, Sonata helps Fortune 500 enterprises accelerate innovation, improve efficiency, and drive sustainable growth.
+
+For more information, please visit www.sonata-software.com .
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Sonata Software by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Pune Division, Maharashtra, India.
+
+Sign in to create job alert
+Jobs
+Senior Database Consultant jobs
+Senior DevOps Engineer
+Similar jobs
+Senior DevOps Engineer - E-commerce
+Senior DevOps Engineer - E-commerce
+NVIDIA
+Pune City, Maharashtra, India
+2 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Accelirate Inc.
+Pune Division, Maharashtra, India
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Accelirate Inc.
+Pune City, Maharashtra, India
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Easebuzz
+Pune Division, Maharashtra, India
+12 months ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Assent
+Pune/Pimpri-Chinchwad Area
+3 weeks ago
+Senior Devops Engineer
+Senior Devops Engineer
+FNZ
+Pune/Pimpri-Chinchwad Area
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Sr DevOps Engineer
+Sr DevOps Engineer
+
+ACI Worldwide
+
+Pune Division, Maharashtra, India
+1 week ago
+Staff DevOps Engineer
+Staff DevOps Engineer
+
+HMH
+
+Pune Division, Maharashtra, India
+1 week ago
+Senior DevOps Engineer/Platform Engineer
+Senior DevOps Engineer/Platform Engineer
+
+Team Geek Solutions
+
+Pune Division, Maharashtra, India
+₹1,600,000 - ₹2,000,000
+1 month ago
+Staff DevOps Engineer
+Staff DevOps Engineer
+
+HMH
+
+Pune District, Maharashtra, India
+1 week ago
+DevOps Architect
+DevOps Architect
+
+Accenture in India
+
+Pune Division, Maharashtra, India
+1 month ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+BreachLock, Inc.
+
+Pune Division, Maharashtra, India
+5 months ago
+DevOps Engineer (EDP Analytics Portal)
+DevOps Engineer (EDP Analytics Portal)
+
+Barclays
+
+Pune Division, Maharashtra, India
+2 months ago
+Infrastructure Cloud and DevOps Engineer
+Infrastructure Cloud and DevOps Engineer
+
+Barclays
+
+Pune Division, Maharashtra, India
+5 hours ago
+DevOps Engineer
+DevOps Engineer
+
+R Systems
+
+Pune City, Maharashtra, India
+4 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Mizuho
+
+Pune City, Maharashtra, India
+1 week ago
+Similar Searches
+Senior Database Consultant jobs
+245 open jobs
+Resident Medical Officer jobs
+11 open jobs
+Support Escalation Engineer jobs
+1,728 open jobs
+Campus Coordinator jobs
+827 open jobs
+Senior Manager Sap jobs
+119 open jobs
+Dynamics Developer jobs
+3,533 open jobs
+Lead Business System Analyst jobs
+3,176 open jobs
+Supply Chain Management Analyst jobs
+55 open jobs
+SAP Team Lead jobs
+4,162 open jobs
+Unix Manager jobs
+194 open jobs
+Programming Manager jobs
+514 open jobs
+Senior Compliance Associate jobs
+669 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Sonata Software
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

@@ -1,0 +1,289 @@
+Title: Senior Azure DevOps Engineer
+Company: Sonatype
+Location: Hyderabad, Telangana, India
+URL: https://in.linkedin.com/jobs/view/senior-azure-devops-engineer-at-sonatype-4462378090
+Posted: 2026-10-23
+Deadline: Open until filled
+Reason: The role is a strong match for her DevOps and release management expertise, located in India, and does not trigger any hard rejections.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Azure DevOps Engineer
+Sonatype  Hyderabad, Telangana, India
+1 week ago   Be among the first 25 applicants
+  
+
+See who Sonatype has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Sonatype is the software supply chain security company. We provide the world’s best end-to-end software supply chain security solution, combining the only proactive protection against malicious open source, the only enterprise grade SBOM management and the leading open source dependency management platform. This empowers enterprises to create and maintain secure, quality, and innovative software at scale.
+
+As founders of Nexus Repository and stewards of Maven Central, the world’s largest repository of Java open-source software, we are software pioneers and our open source expertise is unmatched. We empower innovation with an unparalleled commitment to build faster, safer software and harness AI and data intelligence to mitigate risk, maximize efficiencies, and drive powerful software development.
+
+More than 2,000 organizations, including 70% of the Fortune 100 and 15 million software developers, rely on Sonatype to optimize their software supply chains.
+
+At Sonatype, we empower developers with best-in-class tools to build secure, high-quality software at scale. Our mission is to create a world where software is always secure and developers can innovate without fear. Trusted by thousands of organizations, including Fortune 500 companies, we are pioneers in software supply chain management, open-source security, and DevSecOps.
+
+We are looking for a Azure DevOps Engineer to help us shape the future of secure software development. If you love solving complex problems, working with cloud-native platforms, and mentoring engineering teams, we would love to hear from you.
+
+As a Azure DevOps Engineer, you will play a critical role in designing, automating, and scaling Sonatype's engineering platform and delivery systems on Azure. You will lead infrastructure and CI/CD modernization, improve reliability and security, and guide teams on platform engineering and DevOps best practices.
+
+Key Responsibilities
+
+
+6+ years design, implement, and evolve Azure-based infrastructure using Infrastructure as Code with Terraform, Bicep, or ARM templates.
+Build and maintain scalable CI/CD pipelines using Azure DevOps Pipelines for application, infrastructure, and platform workloads.
+Administer and optimize Azure DevOps services including Azure Repos, Pipelines, Artifacts, Boards, and service connections.
+Partner with engineering teams to improve build, release, and deployment workflows across microservices and cloud-native applications.
+Implement robust observability across systems using Azure Monitor, Log Analytics, Application Insights, and related monitoring tooling.
+Strengthen platform security by integrating secrets management, policy enforcement, vulnerability scanning, and least-privilege access controls.
+Manage and optimize containerized environments using Kubernetes, Helm, and Azure Kubernetes Service (AKS).
+Drive reliability engineering practices including incident response, root cause analysis, SLO thinking, and automated remediation where appropriate.
+Standardize reusable templates, modules, and platform patterns that improve developer productivity and consistency.
+Mentor engineers and provide technical leadership on Azure architecture, deployment automation, release governance, and DevSecOps practices.
+
+
+What We Are Looking For
+
+
+6+ years strong experience in DevOps, platform engineering, or site reliability engineering roles supporting modern software delivery.
+Deep hands-on expertise with Microsoft Azure, including compute, networking, identity, storage, monitoring, and security services.
+Strong experience with Azure DevOps and CI/CD pipeline design for multiple application stacks and deployment patterns.
+Experience with Infrastructure as Code using Terraform, Bicep, ARM, or equivalent automation frameworks.
+Proficiency with containers and orchestration platforms such as Docker and Kubernetes, preferably with AKS experience.
+Experience with scripting and automation using Python, Bash, PowerShell, or similar languages.
+Solid understanding of source control workflows, package management, artifact promotion, and release strategies.
+Experience implementing observability, logging, alerting, and operational dashboards for production systems.
+Strong understanding of cloud security, IAM, secrets management, compliance controls, and secure software delivery practices.
+Excellent collaboration and communication skills, with the ability to influence technical direction across teams.
+
+
+Nice to Have
+
+
+Experience with GitHub, SonarQube, Nexus Repository, or software supply chain security tooling.
+Familiarity with multi-cloud environments and migration patterns from AWS or on-premises platforms to Azure.
+Exposure to policy-as-code, platform engineering, developer portals, or internal developer platform concepts.
+Experience supporting regulated or enterprise-scale environments with strong governance requirements.
+
+
+Why This Role Matters
+
+This role helps create the engineering foundation that enables teams to ship securely, reliably, and quickly. You will influence how Sonatype scales its platform capabilities, improves developer experience, and advances its DevSecOps maturity on Azure.
+
+You will work at the intersection of infrastructure, automation, security, and developer enablement, making a direct impact on product velocity and operational excellence.
+
+Things that we are proud of
+
+
+2025 AI Compliance Solution of the Year - AI Breakthrough Awards
+2025 DEVIES Award to our SBOM Manager new product for its innovation and impact in developer technology
+2024 Industry Leader in Forrester-Wave for Software Composition Analysis (2024 Q4 report)
+2023 Fast Company Best Places for Innovators
+2023 Gartner's Magic Quadrant
+2023 Software Report's Top 100 Software Companies
+2023 BuiltIn Best Places to Work
+2022 Frost & Sullivan Technology Innovation Leader Award
+2022 PeerSpot Silver Peer Award in Software Composition Analysis
+2022 Tech Ascension Best DevOps Security Solution Award
+2022 NVCT Cyber Company of the Year
+Company Wellness Week - We shut down company operations for a week to enable all employees to pursue personal growth and enjoy a much-needed and deserved rest.
+Paid Volunteer Time Off (VTO)
+Expansion of Sonatype’s India Innovation Hub in Hyderabad, reflecting our continued growth, commitment to innovation, and investment in talent to advance AI-driven software security globally
+
+
+At Sonatype, we value diversity and inclusivity. We offer perks such as parental leave, diversity and inclusion working groups, and flexible working practices to allow our employees to show up as their whole selves. We are an equal-opportunity employer, and we do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. If you have a disability or special need that requires accommodation, please do not hesitate to let us know.
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+Show more 
+Seniority level
+Associate
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Sonatype by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Hyderabad, Telangana, India.
+
+Sign in to create job alert
+Jobs
+Government Sales Manager jobs
+Senior Azure DevOps Engineer
+Similar jobs
+Azure DevOps Engineer
+Azure DevOps Engineer
+Arcadis
+Balanagar, Telangana, India
+1 week ago
+DevOps Engineer
+DevOps Engineer
+Accenture in India
+Hyderabad, Telangana, India
+1 month ago
+DevOps Engineer
+DevOps Engineer
+Clean Harbors
+Hyderabad, Telangana, India
+1 week ago
+DevOps Engineer
+DevOps Engineer
+algoleap
+Hyderabad, Telangana, India
+2 weeks ago
+DevOps - Senior Engineer
+DevOps - Senior Engineer
+TJX India
+Greater Hyderabad Area
+3 months ago
+Azure DevOps Engineer
+Azure DevOps Engineer
+Blumetra Solutions
+Hyderabad, Telangana, India
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Lead DevOps Engineer
+Lead DevOps Engineer
+
+C4 Technical Services
+
+Hyderabad, Telangana, India
+4 days ago
+Azure DevOps Engineer - Kubernetes
+Azure DevOps Engineer - Kubernetes
+
+Infosys
+
+Hyderabad, Telangana, India
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Zoetis
+
+Hyderabad, Telangana, India
+4 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+HighRadius
+
+Hyderabad, Telangana, India
+3 months ago
+Azure DevOps Infrastructure Engineering – Technical Lead
+Azure DevOps Infrastructure Engineering – Technical Lead
+
+Bilvantis Technologies
+
+Hyderabad, Telangana, India
+4 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Scoutit
+
+Hyderabad, Telangana, India
+13 hours ago
+Developer Experience Engineer
+Developer Experience Engineer
+
+AssetMark Global Wealth
+
+Hyderabad, Telangana, India
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Teradata
+
+Hyderabad, Telangana, India
+1 week ago
+Lead Azure DevOps Engineer
+Lead Azure DevOps Engineer
+
+Ekfrazo Technologies Private Limited
+
+Hyderabad, Telangana, India
+2 days ago
+Staff DevOps Engineer
+Staff DevOps Engineer
+
+GE Vernova
+
+Greater Hyderabad Area
+1 day ago
+Similar Searches
+Government Sales Manager jobs
+28 open jobs
+Senior Application Support Engineer jobs
+1,468 open jobs
+Writing Instructor jobs
+25 open jobs
+Build And Release Engineer jobs
+3,712 open jobs
+Junior Sales Manager jobs
+1,385 open jobs
+Channel Development Manager jobs
+11,368 open jobs
+Employee Relations Manager jobs
+740 open jobs
+Marketing Designer jobs
+4,425 open jobs
+Vice President Product Marketing jobs
+226 open jobs
+Linux Engineer jobs
+4,338 open jobs
+Channel Account Manager jobs
+7,751 open jobs
+Talent Management Specialist jobs
+1,415 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Sonatype
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

@@ -1,0 +1,322 @@
+Title: DevOps Engineer
+Company: Mizuho
+Location: Pune City, Maharashtra, India
+URL: https://in.linkedin.com/jobs/view/devops-engineer-at-mizuho-4480224982
+Posted: 2026-10-23
+Deadline: N/A
+Reason: The role aligns perfectly with the candidate's extensive experience in CI/CD, release management, and DevOps, and it is located in India, which is one of her target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+Mizuho  Pune City, Maharashtra, India
+1 week ago   Over 200 applicants
+  
+
+See who Mizuho has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Direct message the job poster from Mizuho
+
+Amit Mishra
+Amit Mishra
+Executive Director-Human Resources
+
+Why Mizuho
+
+
+
+
+At Mizuho, we provide the stability of an international industry leader with the career trajectory of a growing business. Our steady, strategic growth gives our people at all levels rewarding degrees of responsibility and richer work experience than a boutique firm or an established giant could offer alone.
+
+
+
+
+It’s the local expertise of our employees that makes our global network so powerful. By collaborating with colleagues and clients who share the same ambition and drive, you can amplify your sphere of influence and base of knowledge as part of one of the largest banks in the world.
+
+
+
+
+Role Overview:
+
+
+
+
+We are seeking a DevOps Engineer with 5-12 years of experience in building and managing CI/CD pipelines, container platforms, cloud infrastructure, and deployment automation. The role requires strong hands-on experience with Jenkins, GitLab, Git, Docker, Kubernetes, Helm, OpenShift, and Azure to support enterprise application delivery, platform reliability, operational excellence, and cloud-native transformation initiatives.
+
+
+
+
+Key Responsibilities:
+
+
+
+
+Design, implement, and maintain CI/CD pipelines using Jenkins and GitLab CI/CD.
+Manage Git repositories, branching strategies, merge requests, release workflows, and deployment automation.
+Build, deploy, and support containerized applications using Docker.
+Administer, monitor, and troubleshoot Kubernetes and OpenShift platforms across non-production and production environments.
+Create, maintain, and optimize Helm charts for repeatable and controlled application deployments.
+Deploy and manage Azure cloud resources with focus on availability, scalability, security, and performance.
+Troubleshoot deployment and platform issues, perform Root Cause Analysis (RCA), automate recurring tasks, and collaborate with development, QA, security, and infrastructure teams.
+
+
+
+
+Required Skills:
+
+
+
+
+5-10 years of experience in DevOps, Platform Engineering, Cloud Engineering, or Infrastructure Automation.
+Strong hands-on experience with Jenkins, GitLab CI/CD, Git, Docker, Kubernetes, Helm, and OpenShift.
+Experience with Microsoft Azure services and cloud-native application architectures.
+Strong understanding of CI/CD, release management, deployment automation, and Infrastructure as Code principles.
+Experience with Linux/Unix administration and troubleshooting.
+Hands-on scripting experience using Shell Scripting (Bash) and PowerShell.
+Strong troubleshooting, analytical, communication, stakeholder management, and Agile/Scrum collaboration skills.
+
+
+
+
+Good to Have:
+
+
+
+
+Experience with Terraform, Ansible, Azure DevOps, or GitHub Actions.
+Experience and understanding of Airflow, Databricks, & Snowflake.
+Exposure to monitoring and observability tools such as Splunk, Grafana, Prometheus, Dynatrace, ELK, or AppDynamics.
+Knowledge of DevSecOps, container security, and vulnerability management; Azure, Kubernetes, OpenShift, or DevOps certifications are an advantage.
+
+
+
+
+
+
+
+Company Overview:
+
+
+
+
+Mizuho Pune is an integral part of Mizuho Financial Group, one of the world’s leading financial institutions with a strong global presence across the Americas, EMEA, and Asia. Based in India, Mizuho Pune supports Mizuho’s international businesses by delivering high-quality, scalable, and resilient services across multiple functions.
+
+
+
+
+Mizuho Pune plays a critical role in driving operational excellence, standardization, and innovation for Mizuho Americas. By combining deep domain expertise with strong process, technology, and analytical capabilities, it partners closely with regional and global teams to support corporate and investment banking, capital markets, and corporate services functions, while adhering to the highest standards of risk management, regulatory compliance, and control.
+
+
+
+
+Mizuho Pune offers competitive compensation and benefits package aligned with industry standards and local market practices.
+
+
+
+
+Mizuho Pune is an equal opportunity employer and is committed to fostering an inclusive and diverse workplace.
+
+
+
+
+Employment is subject to applicable background verification checks in accordance with Indian laws and company policies.
+
+
+
+
+https://www.mizuhogroup.com/asia-pacific/mizuho-global-services/careers
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Financial Services and Investment Banking
+  
+
+Referrals increase your chances of interviewing at Mizuho by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Pune City, Maharashtra, India.
+
+Sign in to create job alert
+Jobs
+Vice President Corporate Banking jobs
+DevOps Engineer
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+Armstrong Dematic
+Pune District, Maharashtra, India
+1 week ago
+DevOps Engineer - II
+DevOps Engineer - II
+Keywords Studios
+Pune Division, Maharashtra, India
+2 days ago
+DevOps Engineer
+DevOps Engineer
+Comviva
+Pune Division, Maharashtra, India
+4 weeks ago
+DevOps Engineer
+DevOps Engineer
+Particle41
+Pune/Pimpri-Chinchwad Area
+6 months ago
+DevOps Engineer
+DevOps Engineer
+ACI Worldwide
+Pune Division, Maharashtra, India
+2 weeks ago
+DevOps SE I
+DevOps SE I
+Helpshift
+Pune District, Maharashtra, India
+1 day ago
+Show more jobs like this 
+People also viewed
+AWS Cloud Engineer
+AWS Cloud Engineer
+
+ACS International India Pvt. Ltd. (ACSII)
+
+Pune Division, Maharashtra, India
+7 months ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+CrelioHealth
+
+Pune Division, Maharashtra, India
+3 weeks ago
+Senior DevOps Engineer - E-commerce
+Senior DevOps Engineer - E-commerce
+
+NVIDIA
+
+Pune City, Maharashtra, India
+2 weeks ago
+Devops Engineer / Site Reliability Engineer
+Devops Engineer / Site Reliability Engineer
+
+VMC Soft Technologies, Inc
+
+Pune/Pimpri-Chinchwad Area
+3 months ago
+DevOps Engineer
+DevOps Engineer
+
+Agivant Technologies
+
+Pune Division, Maharashtra, India
+2 days ago
+Devops Engineer
+Devops Engineer
+
+Citi
+
+Pune Division, Maharashtra, India
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+Comscore, Inc.
+
+Pune Division, Maharashtra, India
+2 days ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+Qualys
+
+Pune Division, Maharashtra, India
+2 weeks ago
+DevOps Engineer - Netwrix DevOps Group
+DevOps Engineer - Netwrix DevOps Group
+
+Netwrix Corporation
+
+Pune Division, Maharashtra, India
+2 days ago
+DevOps Engineer
+DevOps Engineer
+
+Aumni
+
+Pune Division, Maharashtra, India
+3 months ago
+Similar Searches
+Vice President Corporate Banking jobs
+75 open jobs
+Assistant Vice President Internal Audit jobs
+410 open jobs
+Assistant Vice President Compliance jobs
+826 open jobs
+Financial Credit Analyst jobs
+2,785 open jobs
+Executive Director Finance jobs
+198 open jobs
+Debt Capital Market jobs
+2,410 open jobs
+Investment Banking Summer Analyst jobs
+94 open jobs
+Tax Coordinator jobs
+379 open jobs
+Credit Trader jobs
+94 open jobs
+Investment Banking Analyst jobs
+1,674 open jobs
+Assistant Revenue Manager jobs
+93 open jobs
+Derivatives Analyst jobs
+2,440 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Mizuho
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

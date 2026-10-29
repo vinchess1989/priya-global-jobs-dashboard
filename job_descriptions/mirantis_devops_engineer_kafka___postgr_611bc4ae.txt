@@ -1,0 +1,292 @@
+Title: DevOps Engineer Kafka & PostgreSQL
+Company: Mirantis
+Location: Delhi, Delhi, India
+URL: https://in.linkedin.com/jobs/view/devops-engineer-kafka-postgresql-at-mirantis-4483102456
+Posted: 2026-10-24
+Deadline: Open until filled
+Reason: The role is a strong match for her DevOps, CI/CD, and release engineering background, and it is located in India, which is one of her target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer Kafka & PostgreSQL
+Mirantis  Delhi, Delhi, India
+6 days ago  34 applicants
+  
+
+See who Mirantis has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+About Mirantis
+
+Mirantis is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovation with deep expertise in Kubernetes orchestration, Mirantis empowers platform engineering teams to deliver composable, production-ready developer platforms across any environment—on-premises, in the cloud, at the edge, or in sovereign data centers. As enterprises navigate the growing complexity of AI-driven workloads, Mirantis delivers the automation, GPU orchestration, and policy-driven control needed to manage infrastructure with confidence and agility. Committed to open standards and freedom from lock-in, Mirantis ensures that customers retain full control of their infrastructure strategy.
+
+Job Description
+
+Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open-source innovation with deep expertise in Kubernetes orchestration, Mirantis empowers platform engineering teams to deliver composable, production-ready developer platforms across any environment — on-premises, in the cloud, at the edge, or in sovereign data centers.
+
+As enterprises navigate the growing complexity of AI-driven workloads, Mirantis delivers the automation, GPU orchestration, and policy-driven control needed to manage infrastructure with confidence and agility. Committed to open standards and freedom from lock-in, Mirantis ensures that customers retain full control of their infrastructure strategy.
+
+Job Description
+
+We are looking for an experienced DevOps Engineer to own the deployment, release, and reliability backbone of the k0rdent-ai platform — our multi-tenant control plane for enterprise GPU infrastructure. The platform’s core services — identity (Keycloak), API gateway (Kong), workflow engine (Temporal), a suite of Go APIs, and the PostgreSQL databases behind them — run on every control-plane and regional cluster we operate, and must be upgraded safely, observed continuously, and recovered quickly.
+
+You will run this platform across both cloud Kubernetes (AWS) and bare-metal clusters in our data centers, delivering it through Helm charts and k0rdent ServiceTemplates and MultiClusterServices. Beyond day-to-day operations, a substantial focus of this role is engineering the foundations that stateful services depend on: snapshot-capable storage (CSI drivers, StorageClasses, volume snapshots), CloudNativePG backups and point-in-time recovery, and the CI/CD and bare-metal end-to-end pipelines that validate every change before it reaches customers.
+
+Because this platform holds the record of every tenant, user, and cluster action, this role also owns its operational readiness — runbooks, restore drills, and the upgrade and rollback paths that keep a failed release from turning into data loss.
+
+Main Responsibilities
+
+
+Multi-Environment Kubernetes Operations: Deploy, upgrade, and operate k0s / k0rdent-managed Kubernetes clusters on AWS and on bare-metal hardware, across a global control plane and multiple regions — cluster lifecycle, node maintenance, capacity planning, and version upgrades.
+Helm & Service Delivery: Author and maintain Helm charts and k0rdent ServiceTemplates and MultiClusterServices for core services (Keycloak, Kong, Temporal, CloudNativePG, and in-house Go APIs), including dependency ordering, health gating, versioning, and zero-downtime upgrade paths.
+Storage & Snapshot Engineering: Design and run Kubernetes storage for each environment — AWS EBS CSI in the cloud; OpenEBS LocalPV, Longhorn, or Ceph on bare metal — including StorageClasses, reclaim policies, the CSI snapshot controller, and VolumeSnapshotClasses, so stateful services can be snapshotted and restored reliably.
+Database Backup & Recovery: Operate CloudNativePG backup and recovery end to end — scheduled volume snapshots, continuous WAL archiving to object storage, point-in-time recovery, and replica clusters — with defined RPO/RTO targets and regular restore drills.
+CI/CD & End-to-End Testing: Build and maintain GitHub Actions pipelines for linting, chart unit tests, artifact packaging and publishing to OCI registries, and on-demand bare-metal end-to-end environments; keep them fast, reliable, and easy to debug.
+GitOps & Infrastructure as Code: Maintain a strictly declarative infrastructure-as-code (IaC) culture using Terraform and Argo CD (or Flux), keeping every environment — from developer labs to production — reproducible and reviewable through code.
+Observability & Incident Response: Build monitoring and alerting (Prometheus, Grafana, OpenTelemetry) for service health, database replication and backup status, and capacity; join the on-call rotation, lead troubleshooting, and drive post-incident improvements.
+Security & Air-Gapped Delivery: Manage TLS and certificate lifecycle (cert-manager), secrets, network policies, and least-privilege RBAC, and support private-registry and air-gapped installations for sovereign customers.
+
+
+Qualifications
+
+Qualifications
+
+Must Have
+
+
+Platform Experience: 8+ years in DevOps, SRE, or platform engineering, including 3+ years operating production Kubernetes for business-critical services.
+Kubernetes Depth: Strong grasp of Kubernetes primitives — workloads and StatefulSets, operators and CRDs, persistent volumes and CSI storage, RBAC, and network policies — with hands-on experience upgrading and troubleshooting clusters in production.
+Helm & Release Engineering: Hands-on authoring of non-trivial Helm charts — templating, values design, chart dependencies, and testing with helm-unittest or chart-testing. Experience with k0rdent, Cluster API, or a multi-cluster delivery tool (Argo CD ApplicationSets, Fleet, Sveltos) is preferred, but what matters is depth with Helm, not the specific delivery tool.
+Kubernetes Storage: Practical experience with CSI drivers, StorageClasses, and volume snapshots — AWS EBS CSI preferred, but equivalent experience with Longhorn, Ceph (Rook), OpenEBS, or another cloud CSI driver is acceptable. What matters is understanding how storage behaves when pods, nodes, and clusters fail.
+PostgreSQL on Kubernetes: Hands-on experience running PostgreSQL through a Kubernetes operator — CloudNativePG (CNPG) preferred, but Zalando’s postgres-operator, Crunchy PGO, or a comparable operator is acceptable — including backups, restores, and point-in-time recovery.
+Cloud Infrastructure: Production experience in AWS (EC2, EBS, VPC, IAM, S3; EKS a plus); equivalent GCP or Azure experience also counts.
+CI/CD & Automation: Designing and maintaining GitHub Actions (or GitLab CI) pipelines, with solid scripting in Bash plus Python or Go (Golang).
+Collaboration: Clear written and spoken English and comfort working across time zones, with regular overlap with US and European teams.
+
+
+Nice to Have
+
+
+Experience with bare-metal provisioning (Metal3, Ironic, PXE) and GPU or AI infrastructure.
+Familiarity with Kong Gateway or the Kubernetes Gateway API, and Keycloak / OIDC identity integration.
+Experience operating Temporal or other workflow engines in production.
+Experience delivering software into air-gapped or sovereign environments using private registries and mirrored artifacts.
+Experience designing cross-region disaster recovery for stateful services, including RPO/RTO trade-off decisions.
+Certifications such as CKA / CKS or AWS Certified DevOps Engineer – Professional — a plus.
+Contributions to open-source infrastructure projects (Helm charts, Kubernetes operators, CNCF projects) — a huge plus.
+
+
+Education And Experience
+
+Bachelor’s degree in Computer Science & Engineering (or a related field), or 8+ years of equivalent related experience.
+
+Additional Information
+
+We offer:
+
+
+Operate some of the most advanced AI infrastructure environments in production today.
+Work with the latest NVIDIA GPU technologies, Kubernetes platforms, and high-performance networking environments.
+Help define operational standards and reliability practices for next-generation AI infrastructure services.
+Influence the adoption of AI-powered operational capabilities through k0rdent AI.
+Work alongside highly skilled engineers solving complex infrastructure and platform challenges at scale.
+Join a growing organisation investing heavily in AI infrastructure, platform services, and operational innovation.
+
+
+It is understood that Mirantis, Inc. may use automated decision-making technology (ADMT) for specific employment-related decisions. Opting out of ADMT use is requested for decisions about evaluation and review connected with the specific employment decision for the position applied for. You also have the right to appeal any decisions made by ADMT by sending your request to isamoylova@mirantis.com
+
+By submitting your resume, you consent to the processing and storage of your personal data in accordance with applicable data protection laws, for the purposes of considering your application for current and future job opportunities.
+
+We are a Leader for Container Management in G2 (#2 after AWS)!
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development and IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Mirantis by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Delhi, Delhi, India.
+
+Sign in to create job alert
+Jobs
+Business Process Architect jobs
+DevOps Engineer Kafka & PostgreSQL
+Similar jobs
+Senior DevOps Engineer, Backend
+Senior DevOps Engineer, Backend
+Snapfix
+India
+1 month ago
+Senior Engineer
+Senior Engineer
+Mindteck
+India
+2 days ago
+DevOps Engineer
+DevOps Engineer
+AgileEngine
+India
+1 day ago
+DevOps Engineer ID98058
+DevOps Engineer ID98058
+AgileEngine
+New Delhi, Delhi, India
+1 day ago
+DevOps Engineer
+DevOps Engineer
+Atain
+Gurugram, Haryana, India
+1 week ago
+Site Reliability Engineer - APAC
+Site Reliability Engineer - APAC
+Tyk
+India
+2 months ago
+Show more jobs like this 
+People also viewed
+Senior DevOps Engineer - Security
+Senior DevOps Engineer - Security
+
+Zoom
+
+India
+5 hours ago
+Data Platform Engineer
+Data Platform Engineer
+
+Paxos
+
+India
+1 week ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+Sophos
+
+India
+1 day ago
+DevOps Engineer
+DevOps Engineer
+
+Peer Consulting Resources Inc.
+
+India
+2 days ago
+DevOps Engineer
+DevOps Engineer
+
+Outmarket AI
+
+India
+3 months ago
+Software Engineer
+Software Engineer
+
+Atlassian
+
+India
+2 weeks ago
+Cloud Engineer III
+Cloud Engineer III
+
+Rackspace Technology
+
+India
+1 week ago
+Senior DevOps Engineer – Infrastructure & Platform
+Senior DevOps Engineer – Infrastructure & Platform
+
+Rocket Learning
+
+India
+1 week ago
+Platform Engineer
+Platform Engineer
+
+beON consult
+
+India
+1 year ago
+Lead DevOps Engineer
+Lead DevOps Engineer
+
+Thermo Fisher Scientific
+
+India
+1 week ago
+Similar Searches
+Business Process Architect jobs
+3,296 open jobs
+Email Marketing Specialist jobs
+1,636 open jobs
+Vice President Product Marketing jobs
+226 open jobs
+Scala Developer jobs
+6,916 open jobs
+Senior Database Administrator jobs
+1,254 open jobs
+Country Sales Manager jobs
+5,610 open jobs
+Senior Solutions Engineer jobs
+2,518 open jobs
+Network Support Engineer jobs
+2,247 open jobs
+Sales Development Specialist jobs
+4,965 open jobs
+Principal Program Manager jobs
+3,330 open jobs
+Principal Architect jobs
+3,980 open jobs
+Senior Sales Engineer jobs
+8,214 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Mirantis
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
