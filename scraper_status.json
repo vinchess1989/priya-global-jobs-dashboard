@@ -1,9 +1,9 @@
 {
   "pid": 31628,
   "started_at": "2026-10-30T01:13:26+02:00",
-  "heartbeat_at": "2026-10-30T01:57:22+02:00",
+  "heartbeat_at": "2026-10-30T01:59:18+02:00",
   "phase": "reviewing",
-  "detail": "Release Manager",
-  "last_scrape_ok_at": "2026-10-30T01:55:59+02:00",
+  "detail": "Forward Deployed Engineer-Hong Kong",
+  "last_scrape_ok_at": "2026-10-30T01:58:12+02:00",
   "last_error": null
 }
