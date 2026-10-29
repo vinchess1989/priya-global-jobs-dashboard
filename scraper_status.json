@@ -1,9 +1,9 @@
 {
   "pid": 21300,
   "started_at": "2026-10-29T01:14:09+02:00",
-  "heartbeat_at": "2026-10-29T02:21:59+02:00",
+  "heartbeat_at": "2026-10-29T02:23:47+02:00",
   "phase": "reviewing",
-  "detail": "Project Engineer",
-  "last_scrape_ok_at": "2026-10-29T02:20:38+02:00",
+  "detail": "Clerk of Works",
+  "last_scrape_ok_at": "2026-10-29T02:22:37+02:00",
   "last_error": null
 }
