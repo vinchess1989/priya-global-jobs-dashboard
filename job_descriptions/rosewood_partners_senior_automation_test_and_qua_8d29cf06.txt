@@ -1,0 +1,275 @@
+Title: Senior Automation Test and Quality Engineer | HealthTech
+Company: Rosewood Partners
+Location: Greater Melbourne Area
+URL: https://au.linkedin.com/jobs/view/senior-automation-test-and-quality-engineer-healthtech-at-rosewood-partners-4476499428
+Posted: 2026-10-16
+Deadline: Open until filled
+Reason: The role is a strong match for her background in quality engineering and regulatory compliance (ISO 13485) within the healthcare sector, and it is located in an eligible country (Australia).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Automation Test and Quality Engineer | HealthTech
+Rosewood Partners  Greater Melbourne Area
+2 weeks ago  136 applicants
+  
+
+See who Rosewood Partners has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Rosewood Partners provided pay range
+
+This range is provided by Rosewood Partners. Your actual pay will be based on your skills and experience — talk with your recruiter to learn more.
+
+Base pay range
+A$110,000.00/yr - A$145,000.00/yr
+
+Direct message the job poster from Rosewood Partners
+
+John van Noorden
+John van Noorden
+Managing Partner @ Rosewood Partners | Recruiting Engineers & Developers for Physical + Digital Products | Tech, Product & Engineering
+
+We are partnering with a scaling and well-funded healthcare technology company to find a Senior Automation Test and Quality Engineer to shape quality across the entire product lifecycle. This is a role for an automation-first craftsperson, who views test code with the same rigor as production code, and who thrives in highly regulated environments.
+
+
+
+
+About the role
+
+As a Senior Automation Test and Quality Engineer, you will be embedded directly into a cross-functional delivery squad alongside four product engineers. Quality in this team is not an end-of-the-line checkpoint; you will be an equal partner shaping the product from the first moment of discovery. You will act as part craftsperson, part trusted advisor, and part evidence steward, helping the team build the right features, proving they work, and producing the rigorous objective evidence required to bring medical software safely to clinicians and patients.
+
+
+
+
+The team will rely on you to:
+
+Bring a critical failure-mode lens to sprint planning and co-author comprehensive acceptance criteria for new features utilizing a BDD/Gherkin workflow.
+Design, write, and maintain clean, reliable end-to-end and component automated tests using Cypress and TypeScript against a React frontend and REST APIs.
+Perform pragmatic manual and exploratory testing, particularly when hardware-in-the-loop (HWIL) constraints prevent automation.
+Author and execute rigorous verification protocols to produce defensible regulatory evidence of conformance.
+Act as the team's Evidence Steward, accountable for the collation and quality of audit trails required for FDA and international compliance, utilizing Jira and Xray.
+Partner closely with engineers to triage defects, determine root causes, and solve issues collaboratively rather than throwing them over the wall.
+Ensure code quality is enforced through CI integration (producing JUnit reports) and pre-commit hooks (Husky, ESLint).
+
+
+
+
+Ideally you have:
+
+5+ years of experience in software quality engineering, with a heavy focus on test automation.
+Demonstrable experience working embedded within an Agile delivery squad as a peer to software engineers.
+Strong programming proficiency in TypeScript and extensive experience using Cypress for E2E and component testing.
+Experience with Behavior-Driven Development (BDD) using Cucumber/Gherkin.
+Experience operating in highly regulated environments (such as medical devices, aviation, or finance) and familiarity with standards like IEC 62304 and ISO 13485.
+A graduate degree in Software Engineering, Computer Science, or an equivalent technical field.
+
+
+
+
+Bonus points if you also have:
+
+Direct experience with US FDA medical device regulations including 21 CFR Part 820 and Part 11.
+Deep experience managing tests and traceability matrices within Jira and Xray.
+Working knowledge of CI test reporting (JUnit) and pre-commit quality tooling.
+
+
+
+
+What's next
+
+We will be reviewing applications over the coming weeks, and contacting shortlisted candidates for a phone screen before interviewing with the client.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Medical Equipment Manufacturing, Health and Human Services, and Software Development
+  
+
+Referrals increase your chances of interviewing at Rosewood Partners by 2x
+
+See who you know
+
+Get notified about new Senior Quality Engineer jobs in Greater Melbourne Area.
+
+Sign in to create job alert
+Jobs
+Supplier Quality Engineer jobs
+Senior Automation Test and Quality Engineer | HealthTech
+Similar jobs
+QA Engineer
+QA Engineer
+Heidi
+Melbourne, Victoria, Australia
+6 days ago
+Tester
+Tester
+InfoMedix
+Melbourne, Victoria, Australia
+A$75,000 - A$85,000
+2 weeks ago
+Quality Analyst -Automation
+Quality Analyst -Automation
+Medibank
+Melbourne, Victoria, Australia
+2 weeks ago
+Quality Assurance Engineer
+Quality Assurance Engineer
+Rauland Australia and New Zealand
+Melbourne, Victoria, Australia
+1 month ago
+Test Automation Engineer
+Test Automation Engineer
+The ItsMy Group
+Chadstone, Victoria, Australia
+3 weeks ago
+Senior Quality Engineer – AI & Test Automation
+Senior Quality Engineer – AI & Test Automation
+CloudMarc
+Melbourne, Victoria, Australia
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Software Tester
+Software Tester
+
+DBiz.ai
+
+Melbourne, Victoria, Australia
+2 weeks ago
+Design Quality Engineer
+Design Quality Engineer
+
+Heidi
+
+Melbourne, Victoria, Australia
+2 weeks ago
+Melbourne - Junior Automation Engineer
+Melbourne - Junior Automation Engineer
+
+Planit
+
+Melbourne, Victoria, Australia
+1 week ago
+QA Engineer
+QA Engineer
+
+Insignia Financial
+
+Docklands, Victoria, Australia
+1 day ago
+Automation Tester
+Automation Tester
+
+EY
+
+Melbourne, Victoria, Australia
+1 week ago
+Lead Software Engineer
+Lead Software Engineer
+
+Virtusa
+
+Melbourne, Victoria, Australia
+1 week ago
+Senior Performance Test Engineer
+Senior Performance Test Engineer
+
+SS&C Technologies
+
+Melbourne, Victoria, Australia
+2 weeks ago
+Test Engineer
+Test Engineer
+
+GoSourcing
+
+Melbourne, Victoria, Australia
+2 weeks ago
+AWS Integration Test Engineer
+AWS Integration Test Engineer
+
+Hays
+
+Melbourne, Victoria, Australia
+A$80 - A$90
+16 hours ago
+Test Lead
+Test Lead
+
+RACV
+
+Greater Melbourne Area
+2 weeks ago
+Similar Searches
+Supplier Quality Engineer jobs
+135 open jobs
+Quality Engineer jobs
+2,588 open jobs
+Quality Engineering Manager jobs
+560 open jobs
+Product Quality Engineer jobs
+167 open jobs
+Technical Project Engineer jobs
+779 open jobs
+Quality System Engineer jobs
+160 open jobs
+Software Quality Engineer jobs
+154 open jobs
+Senior Test Engineer jobs
+312 open jobs
+Principal Civil Engineer jobs
+829 open jobs
+Principal Development Engineer jobs
+707 open jobs
+Quality Control Engineer jobs
+540 open jobs
+Failure Analysis Engineer jobs
+234 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Rosewood Partners
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
