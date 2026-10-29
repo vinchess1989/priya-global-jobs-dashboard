@@ -1,0 +1,337 @@
+Title: Release Train Engineer
+Company: Optimal Growth Technologies
+Location: Western Cape, South Africa
+URL: https://za.linkedin.com/jobs/view/release-train-engineer-at-optimal-growth-technologies-4482260988
+Posted: 2026-10-29
+Deadline: N/A
+Reason: The role aligns with the candidate's extensive experience in release management, cross-team coordination, and Agile/DevOps processes, and it is located in a target country (South Africa) with no stated restrictions on sponsorship.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Release Train Engineer
+Optimal Growth Technologies  Western Cape, South Africa
+20 hours ago   Be among the first 25 applicants
+  
+
+See who Optimal Growth Technologies has hired for this role
+
+Apply
+Save
+
+Direct message the job poster from Optimal Growth Technologies
+
+Tania Lowings
+Tania Lowings
+Recruitment Manager | Tania.L@optigrowtech.com | careers@optigrowtech.com
+
+
+
+Release Train Engineer – Merchant Delivery
+
+Contract duration: 12 months
+
+Location: Cape Town
+
+Role purpose:
+
+The Business Payments Agile Release Train (ART) delivers digital payment solutions and value-added business services that enable merchants and businesses to accept payments across multiple channels. These solutions may include smartphone applications across Android and iOS, international payment and remittance capabilities, and business tools that support merchants and agents.
+
+The role translates agreed product priorities into an integrated delivery plan, with clear milestones, dependencies, resource requirements and release commitments. It manages execution from discovery and planning through development, integration, testing, market readiness, launch and post-launch stabilisation.
+
+Working within the Scaled Agile Framework (SAFe), the Release Train Engineer (RTE) is responsible for facilitating ART processes and supporting effective execution across multiple teams. This includes managing impediments, escalating risks where necessary, enabling value delivery and driving continuous improvement within the ART and across its teams.
+
+The RTE will also support the Lean-Agile transformation to the target operating model by coaching leaders, teams and Scrum Masters and fostering an agile mindset.
+
+Success in this role means delivering reliable, scalable payment and merchant capabilities at pace, with the technical, operational and market readiness required to support adoption and business value.
+
+Key Accountabilities and Decision Ownership
+
+1. Servant Leadership
+
+Build a collaborative delivery environment across Product, Technology, Design, Operations, market teams and vendors.
+Support teams in identifying problems and making informed decisions.
+Create an environment of mutual influence, trust and open communication.
+Understand and empathise with others while encouraging individual and team development.
+Coach individuals and teams through effective questioning rather than relying on authority.
+Apply systems thinking and consider the broader impact of delivery decisions.
+Support teams in meeting their commitments and achieving agreed outcomes.
+Encourage collaboration between teams, Product Management and System Architects.
+Maintain a strong customer focus throughout delivery.
+Support teams in resolving impediments and escalate issues requiring leadership intervention.
+
+2. Align Strategy with Execution
+
+Drive delivery of the strategic product roadmap.
+Collaborate with Lean Portfolio Management, Product Management and System Architects to ensure alignment with strategic outcomes.
+Understand and operate within Lean budgets, ensuring adherence to agreed financial guardrails.
+Make dependencies, risks and trade-offs visible, securing decisions when scope, timelines, capacity or costs conflict.
+Manage delivery within agreed tolerances and escalate changes requiring product, budget or governance approval.
+
+3. Improve Flow
+
+Manage and optimise the flow of value through the ART by continuously evaluating delivery practices associated with DevSecOps and Release on Demand.
+Provide input on resource requirements to address critical bottlenecks.
+Identify and manage risks, remove impediments and ensure mitigation plans are implemented.
+Improve delivery flow while accommodating software releases, hardware lead times, certification requirements and market rollout considerations.
+
+4. Prepare and Facilitate PI Planning
+
+Facilitate PI Planning readiness by supporting the Continuous Exploration process.
+Support economic decision-making through feature and capability estimation and, where necessary, the consolidation of estimates into Epics.
+Prepare for and facilitate PI Planning events.
+Consolidate team-level PI Objectives into overall Program PI Objectives.
+Coordinate resource planning and recruitment requirements associated with the ART, including third-party resources.
+
+5. Guide Program Execution
+
+Track feature delivery against agreed objectives, milestones and commitments.
+Manage risks, dependencies and cross-team delivery challenges.
+Escalate and track impediments through to resolution.
+Facilitate ART synchronisation events, System Demos and Inspect and Adapt workshops.
+Ensure effective vendor management and alignment with delivery commitments.
+Provide delivery analysis and progress updates to support informed decision-making and continuous improvement.
+Coordinate pilots, phased deployments, go-live decisions and post-launch stabilisation.
+Provide concise executive updates covering progress, forecast dates, risks, recovery actions and decisions required.
+
+6. Encourage Innovation
+
+Establish delivery pathways for experiments, proofs of concept and pilots alongside committed roadmap activities.
+Support the Lean User Experience (UX) innovation cycle.
+Encourage regular innovation and exploration cycles to improve return on investment and customer satisfaction in line with SAFe principles.
+
+7. Drive Continuous Improvement
+
+Drive continuous improvement through Inspect and Adapt workshops, assessing the ART's agility and identifying opportunities to improve.
+Foster Communities of Practice and encourage engineering excellence and Built-In Quality practices.
+Work with the Value Management Office to improve program execution and operational excellence.
+Incorporate lessons from incidents, customer feedback and market launches into future planning and delivery practices.
+
+Core Competencies, Knowledge and Experience
+
+Essential Qualifications and Experience
+
+Degree in a STEM-related field or equivalent practical experience.
+Proven track record of successful product delivery, working across business and IT functions.
+Strong understanding of digital payment capabilities, payment technologies and payment platforms.
+Excellent problem analysis and resolution skills, with the ability to operate effectively in reactive and proactive environments.
+Ability to understand end-to-end solutions, system architecture at a high level and relevant system use cases within the ART.
+Ability to present and explain systems and software solutions, identifying opportunities for optimisation.
+Relevant certified Scrum Master qualification, such as SAFe Scrum Master or equivalent.
+Three to five years' experience as a Delivery Manager and/or Release Train Engineer.
+At least five years' Agile experience, including engagement with international suppliers and/or markets.
+Experience delivering mobile applications, platform integrations and third-party technology solutions.
+Experience coordinating multiple delivery teams, external vendors and stakeholders across markets.
+Experience within mobile payments, digital payments or financial payment services.
+
+Desirable Qualifications and Experience
+
+SAFe 6.0 Certified Release Train Engineer.
+ITIL Service Management qualification or relevant experience.
+Working knowledge of Jira and Confluence.
+Experience designing and implementing Agile or DevOps processes using SAFe or other frameworks.
+Experience delivering SoftPOS, POS devices or other solutions combining hardware and software.
+Experience with merchant platforms, business management tools, ERP systems or inventory integrations.
+Experience managing vendor delivery, contractual milestones and acceptance processes.
+
+Skills and Competencies
+
+Strong understanding of the software development lifecycle, particularly within complex, data-driven initiatives and Agile methodologies such as Scrum and SAFe.
+Experience leading Agile feature teams to deliver new products, capabilities and continuous improvements.
+Strong analytical skills, including the ability to interpret data and resolve complex problems.
+Design thinking and a structured approach to problem-solving.
+Vendor management experience, particularly in managing scope, resources, timelines and delivery commitments.
+Strong business and customer focus, with an appreciation for customer-led design and user experience principles.
+Ability to work proactively in a demanding, fast-paced product development environment.
+Excellent communication, influencing and negotiation skills, with tact and diplomacy.
+Ability to understand and explain complex technical concepts to business stakeholders.
+Strong numerical, analytical, written and verbal communication skills in English.
+Experience working within multinational teams and supporting customers across multiple countries would be advantageous.
+
+
+
+
+Show more 
+Seniority level
+Entry level
+Employment type
+Contract
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Optimal Growth Technologies by 2x
+
+See who you know
+
+Get notified about new Release Engineer jobs in Western Cape, South Africa.
+
+Sign in to create job alert
+Jobs
+Agile Coach jobs
+Release Train Engineer
+Similar jobs
+Scrum Master
+Scrum Master
+RELX
+Western Cape, South Africa
+3 months ago
+Scrum Master
+Scrum Master
+LexisNexis
+Western Cape, South Africa
+3 weeks ago
+Digital Product Scrum Master
+Digital Product Scrum Master
+Apex Group Ltd
+Cape Town, Western Cape, South Africa
+2 weeks ago
+Release Coordinator MMH261023-7
+Release Coordinator MMH261023-7
+Momentum
+Bellville, Western Cape, South Africa
+1 day ago
+Platform Engineer
+Platform Engineer
+Share
+Cape Town, Western Cape, South Africa
+1 month ago
+Software Delivery Lead
+Software Delivery Lead
+BETSoftware
+Cape Town, Western Cape, South Africa
+1 week ago
+Show more jobs like this 
+People also viewed
+Tech Lead
+Tech Lead
+
+Sanlam
+
+Cape Town, Western Cape, South Africa
+4 days ago
+Application Packager – Workspace
+Application Packager – Workspace
+
+Ultima
+
+City of Cape Town, Western Cape, South Africa
+2 weeks ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+DeARX
+
+Stellenbosch, Western Cape, South Africa
+2 weeks ago
+QA Engineer (Manual & Automation) - Cape Town
+QA Engineer (Manual & Automation) - Cape Town
+
+Pinewood.AI
+
+Cape Town, Western Cape, South Africa
+1 week ago
+Skills Trainer - Cape Town
+Skills Trainer - Cape Town
+
+Pedros
+
+Cape Town, Western Cape, South Africa
+1 week ago
+Specialist: DevOps Infrastructure
+Specialist: DevOps Infrastructure
+
+Vodacom
+
+Bellville, Western Cape, South Africa
+6 days ago
+Project Manager (Hardware & Embedded Systems)
+Project Manager (Hardware & Embedded Systems)
+
+Sportable
+
+City of Cape Town, Western Cape, South Africa
+2 days ago
+Project Manager - Cape Town
+Project Manager - Cape Town
+
+Pinewood.AI
+
+Cape Town, Western Cape, South Africa
+2 days ago
+Software Engineering Team Lead - Cloud
+Software Engineering Team Lead - Cloud
+
+Electrum
+
+Cape Town, Western Cape, South Africa
+1 month ago
+Engagement Manager , Professional Services Delivery Team, South Africa
+Engagement Manager , Professional Services Delivery Team, South Africa
+
+Amazon Web Services (AWS)
+
+Cape Town, Western Cape, South Africa
+2 weeks ago
+Similar Searches
+Agile Coach jobs
+217 open jobs
+Release Manager jobs
+378 open jobs
+Scrum Master jobs
+865 open jobs
+Change And Release Manager jobs
+11 open jobs
+Project Manager Scrum Master jobs
+195 open jobs
+Software Integrator jobs
+13 open jobs
+Prototype Engineer jobs
+323 open jobs
+Delivery Manager jobs
+1,425 open jobs
+Unix Engineer jobs
+38 open jobs
+Site Reliability Engineer jobs
+1,083 open jobs
+Program Project Management jobs
+578 open jobs
+Configuration Manager jobs
+34 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Optimal Growth Technologies
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
