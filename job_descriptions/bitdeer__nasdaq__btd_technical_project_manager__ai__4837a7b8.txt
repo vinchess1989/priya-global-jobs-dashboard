@@ -1,0 +1,221 @@
+Title: Technical Project Manager -AI Platform
+Company: Bitdeer (NASDAQ: BTDR)
+Location: Singapore, Singapore
+URL: https://sg.linkedin.com/jobs/view/technical-project-manager-ai-platform-at-bitdeer-nasdaq-btdr-4470851939
+Posted: 2026-10-23
+Deadline: Open until filled
+Reason: The role aligns perfectly with her background in release coordination, cross-team dependency management, and technical project oversight in a complex software environment.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Technical Project Manager -AI Platform
+Bitdeer (NASDAQ: BTDR)  Singapore, Singapore
+1 week ago  92 applicants
+  
+
+See who Bitdeer (NASDAQ: BTDR) has hired for this role
+
+Apply 
+Save
+About Bitdeer
+
+Bitdeer is a world-leading technology company for Bitcoin mining and AI cloud.
+
+Bitdeer is committed to providing comprehensive Bitcoin mining solutions for its customers. Apart from designing industry-leading ASIC chips and manufacturing mining rigs, the Group handles complex processes involved in computing across the value chain. This includes equipment procurement, transport logistics, datacenter design and construction, equipment management, and network and facility operations. Bitdeer also offers advanced cloud capabilities to customers with a high demand for artificial intelligence.
+
+Headquartered in Singapore, Bitdeer operates globally with a diversified 3 GW energy portfolio, and deploys Bitcoin mining and HPC datacenters in the United States, Bhutan, Norway, Canada, Malaysia, and Ethiopia.
+
+About The Role
+
+We are seeking a Technical Project Manager to drive the day-to-day delivery rhythm of Bitdeer's AI platform, working with the engineering team leaders and system architects to turn the platform-wide roadmap into a concrete, trackable execution plan. The AI platform spans multiple product lines and workstreams — Model-as-a-Service (MaaS), Managed Kubernetes, and the shared infrastructure, security, and billing services beneath them — and needs a dedicated owner for delivery across all of them. This role defines milestones alongside the architects, keeping epics and tickets current and correctly linked, surfacing blockers before they slip a release, and turning raw engineering status into clear, decision-ready updates for stakeholders. The person who thrives here is equally comfortable in the details of a sprint board and in a roadmap conversation with an architect, stays organized without prompting, communicates plainly across technical and non-technical audiences, and treats a stale ticket or missed dependency as something to chase down, not ignore.
+
+What You Will Be Responsible For
+
+
+Delivery Timeline Planning: Partner with the engineering team leaders and system architects to translate the platform roadmap across both product lines — MaaS (new model onboarding, inference API features, fine-tuning pipelines) and Managed Kubernetes (cluster provisioning, console, infrastructure-as-code) — into phased delivery timelines. Break architectural milestones into sprint-sized increments across the platform engineering teams. Continuously reforecast dates as scope or dependencies shift, and flag schedule risk to leadership before it becomes a missed deadline.
+Jira Ticket and Backlog Hygiene: Own the health of the Jira workspace for the AI platform build-out, ensuring epics, stories, and tasks are correctly scoped, estimated, linked, and assigned across frontend, QA, release engineering, security, integrations, performance, and documentation. Audit boards regularly for stale, duplicate, or orphaned tickets, and enforce consistent labeling and workflow states so reported status reflects real progress rather than board drift.
+Cross-Workstream Dependency Tracking: Map dependencies between the workstreams across MaaS, Managed Kubernetes, and shared platform components, such as a model integration blocked on a security review, a console release blocked on performance sign-off, or a billing or identity change that both product lines depend on, and maintain a live dependency register. Proactively chase owners for at-risk handoffs, escalate blockers a single team cannot resolve alone, and coordinate sequencing so parallel workstreams converge on the same release date.
+Progress Reporting and Stakeholder Communication: Produce regular, accurate status reports and dashboards that translate raw Jira and engineering data into a clear picture of what shipped, what is at risk, and what decisions are needed. Run or support standups, sprint reviews, and milestone check-ins, ensuring the team leaders, architects, and broader stakeholders always have an honest, current view of AI platform delivery progress.
+Process and Tooling Improvement: Identify recurring friction in how the team plans, tracks, and reports work, such as inconsistent ticket templates, unclear definitions of done, or duplicated status meetings, and introduce lightweight process fixes. Continuously tune Jira workflows, automation rules, and reporting templates so tracking overhead stays low as the team and backlog grow.
+Release Coordination: Support release engineering and QA in planning go/no-go checkpoints for AI platform releases across MaaS and Managed Kubernetes, confirming that security, performance, and documentation sign-offs are complete before a release proceeds. Track post-release follow-up items and ensure they are captured as tickets rather than lost in chat threads.
+
+
+How You Will Stand Out
+
+
+Bring 4+ years of experience as a technical project manager or program manager in software or infrastructure engineering organizations, including at least 1-2 years supporting AI/ML, cloud, or developer-platform teams.
+Demonstrate hands-on fluency with Jira, or an equivalent tool such as Linear or Asana, for backlog grooming, sprint planning, dependency linking, and custom dashboards, plus Confluence or similar for documentation.
+Have a working understanding of software delivery concepts relevant to a multi-product AI platform spanning model serving and Kubernetes-based infrastructure, including API release cycles, CI/CD pipelines, QA gates, and basic security or compliance review checkpoints, enough to plan around them without needing to be an engineer.
+Show a track record of coordinating delivery across five or more distinct functional teams, such as frontend, integrations, QA, security, and release engineering, on a single shared timeline, including experience resolving cross-team blockers.
+Be comfortable communicating both in technical detail with engineers and architects and in plain, decision-ready language with non-technical stakeholders such as sales or leadership.
+Bring familiarity with Agile or Kanban delivery frameworks and experience running standups, sprint reviews, and retrospectives for engineering teams of 8-15 people.
+
+
+What You Will Experience Working With Us
+
+
+A culture that values authenticity and diversity of thoughts and backgrounds;
+An inclusive and respectable environment with open workspaces and exciting start-up spirit;
+Fast-growing company with the chance to network with industrial pioneers and enthusiasts;
+Ability to contribute directly and make an impact on the future of the digital asset industry;
+Involvement in new projects, developing processes/systems;
+Personal accountability, autonomy, fast growth, and learning opportunities;
+Attractive welfare benefits and developmental opportunities such as training and mentoring.
+
+
+Bitdeer is committed to providing equal employment opportunities in accordance with country, state, and local laws. Bitdeer does not discriminate against employees or applicants based on conditions such as race, colour, gender identity and/or expression, sexual orientation, marital and/or parental status, religion, political opinion, nationality, ethnic background or social origin, social status, disability, age, indigenous status, and union.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Bitdeer (NASDAQ: BTDR) by 2x
+
+See who you know
+
+Get notified about new Technical Project Manager jobs in Singapore, Singapore.
+
+Sign in to create job alert
+Similar jobs
+Data & AI - Technical Project Manager
+Data & AI - Technical Project Manager
+CFGI
+Singapore
+2 weeks ago
+Technical Project Manager
+Technical Project Manager
+General Robotics
+Singapore
+2 weeks ago
+Project Manager, MLOps
+Project Manager, MLOps
+Hyundai Motor Group Innovation Center Singapore (HMGICS)
+Singapore, Singapore
+1 week ago
+AI Cloud Project Manager
+AI Cloud Project Manager
+Bitdeer (NASDAQ: BTDR)
+Singapore, Singapore
+2 weeks ago
+Deployment Lead (DL), FDE - Singapore
+Deployment Lead (DL), FDE - Singapore
+OpenAI
+Singapore
+1 week ago
+Senior Manager, AI Technical Program Manager
+Senior Manager, AI Technical Program Manager
+SATS Ltd.
+Singapore, Singapore
+3 weeks ago
+Show more jobs like this 
+People also viewed
+Delivery Tech Lead - A26416
+Delivery Tech Lead - A26416
+
+Activate Interactive
+
+Singapore, Singapore
+18 hours ago
+Technical Delivery Manager (AI Security)
+Technical Delivery Manager (AI Security)
+
+Aleph (Formerly Red Alpha Cyber)
+
+Singapore, Singapore
+1 week ago
+Lead Technical Program Manager, Markets Technology
+Lead Technical Program Manager, Markets Technology
+
+JPMorganChase
+
+Singapore, Singapore
+1 week ago
+Senior Program Manager, Architecture Review Board
+Senior Program Manager, Architecture Review Board
+
+NVIDIA
+
+Singapore, Singapore
+2 weeks ago
+First VP, AI/ GenAI Program Manager, Enterprise AI, Innovation Group
+First VP, AI/ GenAI Program Manager, Enterprise AI, Innovation Group
+
+UOB
+
+Singapore, Singapore
+1 week ago
+Assistant Senior Manager/Senior Manager (IT - Student Experience)
+Assistant Senior Manager/Senior Manager (IT - Student Experience)
+
+National University of Singapore
+
+Singapore, Singapore
+1 day ago
+Manager, Technical Delivery APAC - NVIS
+Manager, Technical Delivery APAC - NVIS
+
+NVIDIA
+
+Singapore, Singapore
+4 days ago
+Applied AI Transformation Manager - APAC
+Applied AI Transformation Manager - APAC
+
+Cognition
+
+Singapore
+12 hours ago
+Data & AI Programme Manager (VP)
+Data & AI Programme Manager (VP)
+
+OCBC
+
+Singapore, Singapore
+6 days ago
+Regional Delivery Manager (AI Factory Delivery)
+Regional Delivery Manager (AI Factory Delivery)
+
+Sharon AI, Inc
+
+Singapore, Singapore
+1 day ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Bitdeer (NASDAQ: BTDR)
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

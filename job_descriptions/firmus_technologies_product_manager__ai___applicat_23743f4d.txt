@@ -1,0 +1,266 @@
+Title: Product Manager, AI & Applications
+Company: Firmus Technologies
+Location: Singapore
+URL: https://sg.linkedin.com/jobs/view/product-manager-ai-applications-at-firmus-technologies-4464199210
+Posted: 2026-09-30
+Deadline: N/A
+Reason: The role is a strong match for her release management, product-definition, and cross-functional coordination experience, and it is located in a target country (Singapore) with no US-based restrictions.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Product Manager, AI & Applications
+Firmus Technologies  Singapore
+1 month ago  133 applicants
+  
+
+See who Firmus Technologies has hired for this role
+
+Apply 
+Save
+Firmus Technologies
+
+Firmus Technologies is a global leader pioneering the development and operation of efficient AI infrastructure across Asia Pacific.
+
+Founded in Australia in 2019, our mission is to create the most efficient AI infrastructure by combining cutting-edge technology with a steadfast commitment to sustainability.
+
+At Firmus, we are unique in our approach. We design, build, and operate a new class of digital infrastructure – the AI Factory. Through our model-to-grid technology approach, we have pushed the boundaries of multi-generational liquid cooling systems, energy management, AI software orchestration, and construction. For our customers, this approach allows us to make every watt count and deliver low-cost AI tokens globally.
+
+Firmus AI Cloud
+
+Our large-scale GPU cloud platform, Firmus AI Cloud, is purpose-built to deliver energy-efficient AI compute at scale to customers.
+
+It empowers developers, enterprises, educational institutions, and government users to train and deploy AI models with unmatched efficiency and cost savings. With an ever-growing suite of services and applications, we are committed to delivering a cloud experience that is market-leading, proprietary, and built to scale.
+
+Why Firmus?
+
+As an NVIDIA Cloud and Engineering partner in Asia Pacific, you will gain skills, experience, and exposure across the AI industry and be part of shaping what this industry looks like for decades to come.
+
+We are founder-led, not a big corporate. Decisions happen fast, our leaders are accessible, and there's minimum bureaucracy between you and the work. Ownership comes early. Whatever your role, you will have a direct line to outcomes, helping shape how the business grows as we scale nationally across a long-term, large-scale roadmap.
+
+Work alongside founders and experts in AI infrastructure, energy systems and next-generation compute.
+
+What we build here has impact beyond the business. Our AI Factories are designed to operate as assets to the energy grid to actively strengthen the communities and regions they operate in rather than drawing from them.
+
+Considering applying? You don't need a perfect background to join our team. If you're driven and curious, there's a path for you. We back our people to grow into new domains and take on challenges beyond their previous experience.
+
+Role Summary
+
+Firmus designs, builds and operates AI factory to achieve the mission of being the most energy efficiency AI infrastructure. The Senior AI Product Manager will serve as the product-definition, delivery-planning, and release-execution lead for the AI & Applications team. The role reportsto the Head of AI & Applications to convert strategic priorities into an executable, sprint-based product roadmap, with clear feature scope, ownership, dependencies, milestones, release criteria, and measurable outcomes.
+
+The role is responsible for creating a disciplined operating rhythm across the team’s product portfolio: model-to-grid benchmarking, benchmark libraries and SDKs, GPU workload orchestration and custom job scheduling, training and inference recipes, model optimization, inference-serving capabilities, agentic applications, and AI-factory operational workflows. It will ensure that complex technical work is connected to a coherent product narrative and released in deliberate, validated increments.
+
+The successful candidate will give the Head of AI & Applications a clear and current view of what the team is building, why it matters, what is planned for each sprint and release, where cross-team dependencies exist, which decisions are required, and whether delivery remains on track. The role will proactively identify risks, unblock execution, maintain release readiness, and escalate material issues early with practical options and recommendations.
+
+Key Responsibilities
+
+
+Report directly to the Head of AI & Applications to translate strategic priorities into a prioritized product portfolio, quarterly roadmap, release plan, and sprint-level delivery plan.
+Establish and maintain a single source of truth for product scope, roadmap priorities, feature status, release commitments, dependencies, risks, decisions, and delivery health across the AI & Applications team.
+Lead product-definition activities for new capabilities by developing problem statements, user and customer value propositions, feature briefs, product requirements, acceptance criteria, non-functional requirements, and success measures.
+Ensure every roadmap initiative has a clear product narrative explaining the intended user outcome and the technical capability being delivered, including its relationship to models, data, benchmarking, optimization, infrastructure, scheduling, inference or agentic applications.
+Break strategic initiatives into sequenced epics, features, stories, technical milestones, validation activities, and production-release increments that can be delivered through sprint-based execution.
+Own roadmap refinement and sprint-readiness processes, ensuring work entering a sprint has sufficient definition, an accountable owner, realistic estimates, known dependencies, acceptance criteria, and agreed delivery priorities.
+Coordinate planning across AI engineers, application engineers, inference and optimization engineers, DevOps and scheduler engineers, Platform, Infrastructure, Cybersecurity, and other stakeholders.
+Identify, document, manage, and drive resolution of dependencies between teams, systems, vendors, environments, hardware availability, datasets, model availability, security reviews, infrastructure readiness, and release approvals.
+Maintain an integrated release plan across all relevant workstreams, including feature development, platform changes, benchmark execution, model or recipe validation, security controls, observability, documentation, support readiness, and communications.
+Define and operate release gates for development completion, code review, automated and manual testing, benchmark validation, performance regression testing, security review, operational readiness, documentation, rollback planning, and production approval.
+Run a regular product-delivery operating cadence, including backlog refinement, sprint planning, sprint reviews, roadmap reviews, release-readiness reviews, dependency forums, risk reviews, and leadership updates.
+Track sprint progress and release health against agreed commitments; identify schedule, scope, quality, capacity, and dependency risks early; and propose recovery actions, sequencing changes, or trade-off decisions.
+Provide concise and decision-oriented reporting to the Head of AI & Applications, including roadmap progress, sprint delivery, release forecast, key milestones, dependencies, blockers, risks, decisions needed, and recommended next actions.
+Ensure planned releases are validated against the intended outcomes, including product functionality, developer or user experience, benchmark performance, operational reliability, security posture, and adoption metrics.
+Lead post-release reviews to confirm delivered value, identify defects or operational gaps, capture lessons learned, and feed prioritized improvements into the subsequent sprint and roadmap cycle.
+Coordinate the technical product roadmap across key capability areas, including:
+Model-to-grid benchmark libraries, finger print engine, simulation, performance measurement, and optimization workflows.
+Kubernetes-based workload orchestration, custom job-scheduler features, queues, quotas, fairness, placement, multi-tenancy, and GPU utilization.
+Training, fine-tuning, and inference recipes, including model configurations, distributed execution, quantization, compilation, batching, parallelism, and performance validation.
+Inference services, serving APIs, throughput and latency optimization, cost efficiency, reliability, observability, and operational readiness.
+Agentic applications, RAG, telemetry integration, diagnosis and recommendation workflows, tool use, approval flows, and safe operational automation.
+
+Skills & Experience
+
+
+5+ years of experience in product management, technical program management, delivery management, release management, solutions architecture, engineering management, or a comparable technical leadership role.
+Proven experience working directly with an engineering or product leader to establish delivery discipline, roadmap transparency, release predictability, and cross-functional accountability.
+Demonstrated ownership of complex, multi-team technical product roadmaps with interdependent software, platform, infrastructure, operational, and security workstreams.
+Strong experience with agile product delivery, including backlog management, epic decomposition, sprint planning, story refinement, estimation, sprint reviews, retrospectives, velocity tracking, and release planning.
+Practical experience building and managing integrated delivery plans, dependency maps, release calendars, RAID logs, decision logs, and executive-level status reporting.
+Strong technical understanding of AI/ML platforms and applications, including training, fine-tuning, inference, model serving, benchmarking, performance optimization, data pipelines, RAG, and agentic workflows.
+Familiarity with GPU-accelerated infrastructure, Kubernetes, Slurm or comparable workload schedulers, distributed training, multi-tenant resource management, and AI inference systems.
+Understanding of product and engineering success measures such as feature adoption, user satisfaction, release quality, defect rates, throughput, latency, GPU utilization, benchmark reproducibility, cost efficiency, and operational reliability.
+Experience creating product requirements, technical specifications, acceptance criteria, release checklists, validation plans, release notes, and customer or internal documentation.
+Strong analytical ability, including the capacity to turn incomplete information, technical constraints, delivery data, and stakeholder feedback into practical prioritization and execution decisions.
+Excellent written, verbal, and stakeholder-management skills, including the ability to communicate technical progress, risks, dependencies, and decision options clearly to senior leadership.
+
+
+Location & Reporting
+
+
+Location: Singapore
+Reports to: Head of AI & Applications
+
+
+Employment Basis
+
+Permanent full-time
+
+Diversity
+
+At Firmus, we are committed to building a diverse and inclusive workplace. We encourage applications from candidates of all backgrounds who are passionate about creating a more sustainable future through innovative engineering solutions.
+
+Join us in our mission to revolutionise the AI industry through sustainable practices and cutting-edge engineering. Apply now to be part of shaping the future of sustainable AI infrastructure.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Technology, Information and Internet
+  
+
+Referrals increase your chances of interviewing at Firmus Technologies by 2x
+
+See who you know
+
+Get notified about new Product Manager jobs in Singapore.
+
+Sign in to create job alert
+Similar jobs
+Product Manager (AI Studio)
+Product Manager (AI Studio)
+Singtel
+Singapore, Singapore
+2 days ago
+Product Manager, Gen AI
+Product Manager, Gen AI
+IMDA
+Singapore
+1 day ago
+AI Product Manager
+AI Product Manager
+Simular
+Singapore, Singapore
+3 months ago
+Product Manager - AI Transformation, People Systems
+Product Manager - AI Transformation, People Systems
+Sea
+Singapore, Singapore
+1 week ago
+AI Product Manager
+AI Product Manager
+Garena
+Singapore
+2 weeks ago
+Product Manager, AI Programme
+Product Manager, AI Programme
+GovTech Singapore
+Singapore
+1 week ago
+Show more jobs like this 
+People also viewed
+Staff Product Manager — AI-Enabled Shipping Digital Solutions
+Staff Product Manager — AI-Enabled Shipping Digital Solutions
+
+bp
+
+Singapore, Singapore
+1 week ago
+AI Product Manager
+AI Product Manager
+
+Binance
+
+Singapore
+3 weeks ago
+Manager/Senior Mgr Data & AI Product Mgr, Data Exploration & Partnerships
+Manager/Senior Mgr Data & AI Product Mgr, Data Exploration & Partnerships
+
+Singapore Tourism Board
+
+Singapore, Singapore
+1 week ago
+Product Manager (Platforms)
+Product Manager (Platforms)
+
+Monetary Authority of Singapore (MAS)
+
+Singapore, Singapore
+2 weeks ago
+AI Technical Product Manager
+AI Technical Product Manager
+
+Vocalbeats.AI Pte Ltd
+
+Singapore, Singapore
+1 week ago
+Product Manager, Platform
+Product Manager, Platform
+
+HUD
+
+Singapore, Singapore
+$100,000 - $225,000
+1 month ago
+Technical Product Manager (AI Systems)
+Technical Product Manager (AI Systems)
+
+Cygnify
+
+Singapore
+22 hours ago
+Product Manager, AI Agent, TikTok Platform Safety
+Product Manager, AI Agent, TikTok Platform Safety
+
+TikTok
+
+Singapore, Singapore
+1 week ago
+Senior Product Manager - Intelligence
+Senior Product Manager - Intelligence
+
+OSOME
+
+Singapore, Singapore
+3 days ago
+Technical Product Manager
+Technical Product Manager
+
+ActAI
+
+Singapore
+19 hours ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Firmus Technologies
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
