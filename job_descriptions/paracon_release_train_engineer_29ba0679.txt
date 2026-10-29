@@ -1,0 +1,392 @@
+Title: Release Train Engineer
+Company: Paracon
+Location: City of Cape Town, Western Cape, South Africa
+URL: https://za.linkedin.com/jobs/view/release-train-engineer-at-paracon-4482298943
+Posted: 2026-10-29
+Deadline: N/A
+Reason: The role aligns with the candidate's extensive experience in release management, Agile/SAFe coordination, and cross-team delivery, and it is located in a target country (South Africa).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Release Train Engineer
+Paracon  City of Cape Town, Western Cape, South Africa
+12 hours ago   Be among the first 25 applicants
+  
+
+See who Paracon has hired for this role
+
+Apply
+Save
+
+Direct message the job poster from Paracon
+
+Ntombegugu Mjali
+Ntombegugu Mjali
+Recruitment Consultant @ Paracon | ND in Marketing Management
+
+Role Overview
+
+We are seeking an experienced Release Train Engineer (RTE) to coordinate and drive the delivery of digital payment solutions and merchant-focused technology services within a complex Agile environment.
+
+The role focuses on enabling the delivery of mobile payment applications, merchant tools, enterprise services and integrated digital financial solutions across Android and iOS platforms. These capabilities support payment acceptance, international payments, remittance services and business operations through connected technology ecosystems.
+
+The successful candidate will bridge product strategy and delivery execution, ensuring that multiple Agile teams work towards common objectives and deliver measurable business value. This includes facilitating Scaled Agile Framework (SAFe) practices, coordinating dependencies, managing risks, resolving delivery obstacles and improving delivery performance.
+
+The RTE will work closely with Product Management, Architecture, Engineering, Operations, Design, market stakeholders and external delivery partners to maintain alignment between customer needs, technical quality and business priorities.
+
+
+
+
+Key Responsibilities
+
+1. Agile Leadership and Team Enablement
+
+Create an environment that encourages collaboration, transparency, trust and shared accountability across delivery teams and stakeholders.
+Coach teams and leaders in servant leadership principles, enabling teams to take ownership of challenges and develop effective solutions.
+Encourage collaboration between Product Management, System Architects, engineering teams and other business stakeholders.
+Apply systems thinking to address organisational and delivery challenges.
+Reinforce team commitments, support team development and promote constructive engagement.
+Identify and remove delivery impediments, escalating issues that require management intervention.
+Keep customer needs and business value central to delivery decisions.
+
+
+
+
+2. Strategic Alignment and Delivery Governance
+
+Translate the product roadmap and strategic priorities into achievable delivery plans.
+Work with Lean Portfolio Management, Product Management and Architecture to maintain alignment between business objectives and technology execution.
+Apply Lean Budgeting principles and operate within established governance requirements.
+Identify and manage cross-team dependencies, competing priorities, resource limitations and delivery trade-offs.
+Monitor delivery against agreed scope, timelines, costs and governance expectations.
+Escalate significant changes that require product, financial or executive approval.
+
+
+
+
+3. Delivery Flow and Operational Effectiveness
+
+Improve the movement of value from planning through development, release and deployment.
+Encourage the adoption of DevSecOps practices and Release-on-Demand capabilities.
+Identify delivery constraints and implement measures to improve throughput and predictability.
+Contribute to resource planning and allocation across the Agile Release Train (ART).
+Oversee the identification, assessment and mitigation of delivery risks.
+Coordinate delivery considerations relating to release schedules, certification activities, hardware lead times and market deployments.
+
+
+
+
+4. Program Increment Planning
+
+Coordinate readiness activities for Program Increment (PI) Planning, supported by effective Continuous Exploration practices.
+Facilitate feature and capability estimation to support realistic delivery commitments.
+Plan and facilitate PI Planning sessions, ensuring alignment across participating teams.
+Consolidate individual Team PI Objectives into overall Program PI Objectives.
+Coordinate resource requirements across the ART, including external suppliers, contractors and delivery partners.
+Support value-based prioritisation and economically informed planning decisions.
+
+
+
+
+5. Program Execution and Release Coordination
+
+Track the progress of features and capabilities across multiple Agile teams.
+Maintain visibility of dependencies, delivery forecasts, risks and potential delays.
+Facilitate the resolution and escalation of blockers and cross-team impediments.
+Organise and facilitate ART Syncs, System Demos and Inspect & Adapt workshops.
+Coordinate delivery activities involving vendors, partners and other external stakeholders.
+Produce delivery reports and analysis to support effective planning and decision-making.
+Oversee the coordination of pilots, phased rollouts, production releases and post-implementation stabilisation.
+Provide management-level reporting on delivery progress, key risks, forecasts and corrective action plans.
+
+
+
+
+6. Innovation and Experimentation
+
+Enable structured experimentation through proofs of concept, pilots and other innovation initiatives.
+Support the application of Lean User Experience (UX) practices.
+Encourage the development and adoption of new capabilities aligned with customer requirements and business objectives.
+Promote learning and experimentation while maintaining focus on agreed roadmap commitments.
+
+
+
+
+7. Continuous Improvement and Delivery Excellence
+
+Lead Inspect & Adapt sessions and facilitate ongoing improvements across the ART.
+Evaluate Agile maturity and identify opportunities to strengthen delivery practices.
+Encourage Communities of Practice and the application of Built-In Quality principles.
+Collaborate with the Value Management Office to enhance execution effectiveness and operational performance.
+Incorporate lessons from production incidents, customer feedback and market deployments into future planning and delivery cycles.
+
+
+
+
+Minimum Requirements
+
+
+
+
+Qualifications and Experience
+
+A degree in STEM, Computer Science, Engineering, Information Systems or equivalent practical experience.
+Certified Scrum Master qualification, such as SAFe Scrum Master or an equivalent certification.
+Three to five years of experience as a Release Train Engineer, Delivery Manager or in a comparable delivery leadership position.
+At least five years of experience working in Agile environments.
+Demonstrated experience delivering complex technology products across business and IT functions.
+Experience coordinating international suppliers, external vendors and geographically distributed teams.
+A sound understanding of mobile payment solutions and financial services ecosystems.
+Experience delivering mobile applications, platform integrations and third-party technology solutions.
+Proven ability to coordinate multiple Agile teams and external delivery partners.
+Strong understanding of end-to-end solution delivery within a SAFe environment.
+Excellent analytical, problem-solving and decision-making capabilities.
+Strong stakeholder engagement, communication and relationship management skills.
+A genuine interest in digital payments and advancing financial inclusion.
+
+
+
+
+Advantageous Qualifications and Experience
+
+SAFe 6.0 Release Train Engineer (RTE) Certification.
+ITIL Foundation certification or relevant service management experience.
+Advanced working knowledge of Jira and Confluence.
+Experience implementing or improving Agile, DevOps or SAFe delivery frameworks.
+Exposure to SoftPOS solutions, Point-of-Sale (POS) platforms and merchant payment ecosystems.
+Experience with ERP and inventory management integrations.
+Experience managing vendors, supplier relationships and contractual delivery commitments.
+
+
+
+
+Core Skills and Competencies
+
+Agile Delivery and Leadership
+
+Strong understanding of Agile methodologies, particularly SAFe and Scrum.
+Ability to coordinate and lead multiple Agile teams in complex enterprise environments.
+Experience facilitating large-scale planning, synchronisation and delivery events.
+Ability to promote alignment, accountability and predictable delivery across teams.
+
+Technical and Commercial Understanding
+
+Sound knowledge of the software development lifecycle (SDLC).
+Understanding of payment technologies, digital commerce and integrated technology solutions.
+Ability to explain complex technical concepts clearly to non-technical stakeholders.
+Experience operating in customer-focused, data-driven delivery environments.
+Ability to balance technical quality, operational readiness and business priorities.
+
+Analytical Thinking and Problem-Solving
+
+Strong analytical and numerical capabilities.
+Ability to investigate root causes and implement lasting corrective measures.
+Confidence in managing uncertainty, competing priorities and complex dependencies.
+Ability to assess delivery risks and make informed recommendations.
+
+Stakeholder and Vendor Engagement
+
+Excellent communication, influencing, facilitation and negotiation skills.
+Proven experience coordinating third-party vendors and delivery partners.
+Ability to establish productive working relationships across business and technology teams.
+Strong conflict-resolution and stakeholder-alignment capabilities.
+
+Personal Attributes
+
+Demonstrates accountability and a results-driven approach.
+Takes initiative and works proactively with minimal supervision.
+Builds effective partnerships and contributes positively to team outcomes.
+Applies a servant leadership approach to team enablement.
+Challenges existing practices constructively and supports positive change.
+Remains adaptable and resilient in a fast-moving delivery environment.
+Applies critical thinking and design-thinking principles to complex challenges.
+Demonstrates a commitment to continuous learning and professional development.
+
+
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Contract
+Industries
+Staffing and Recruiting
+  
+
+Referrals increase your chances of interviewing at Paracon by 2x
+
+See who you know
+
+Get notified about new Release Engineer jobs in City of Cape Town, Western Cape, South Africa.
+
+Sign in to create job alert
+Jobs
+Agile Coach jobs
+Release Train Engineer
+Similar jobs
+Release Train Engineer
+Release Train Engineer
+Optimal Growth Technologies
+Western Cape, South Africa
+20 hours ago
+Scrum Master
+Scrum Master
+RELX
+Western Cape, South Africa
+3 months ago
+Scrum Master
+Scrum Master
+LexisNexis
+Western Cape, South Africa
+3 weeks ago
+Digital Product Scrum Master
+Digital Product Scrum Master
+Apex Group Ltd
+Cape Town, Western Cape, South Africa
+2 weeks ago
+Release Coordinator MMH261023-7
+Release Coordinator MMH261023-7
+Momentum
+Bellville, Western Cape, South Africa
+1 day ago
+Platform Engineer
+Platform Engineer
+Share
+Cape Town, Western Cape, South Africa
+1 month ago
+Show more jobs like this 
+People also viewed
+Site Reliability Engineer
+Site Reliability Engineer
+
+OfferZen
+
+City of Cape Town, Western Cape, South Africa
+2 weeks ago
+Tech Lead
+Tech Lead
+
+Sanlam
+
+Cape Town, Western Cape, South Africa
+4 days ago
+Application Packager – Workspace
+Application Packager – Workspace
+
+Ultima
+
+City of Cape Town, Western Cape, South Africa
+2 weeks ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+DeARX
+
+Stellenbosch, Western Cape, South Africa
+2 weeks ago
+QA Engineer (Manual & Automation) - Cape Town
+QA Engineer (Manual & Automation) - Cape Town
+
+Pinewood.AI
+
+Cape Town, Western Cape, South Africa
+1 week ago
+Skills Trainer - Cape Town
+Skills Trainer - Cape Town
+
+Pedros
+
+Cape Town, Western Cape, South Africa
+1 week ago
+Specialist: DevOps Infrastructure
+Specialist: DevOps Infrastructure
+
+Vodacom
+
+Bellville, Western Cape, South Africa
+6 days ago
+Project Manager (Hardware & Embedded Systems)
+Project Manager (Hardware & Embedded Systems)
+
+Sportable
+
+City of Cape Town, Western Cape, South Africa
+2 days ago
+Project Manager - Cape Town
+Project Manager - Cape Town
+
+Pinewood.AI
+
+Cape Town, Western Cape, South Africa
+2 days ago
+Software Engineering Team Lead - Cloud
+Software Engineering Team Lead - Cloud
+
+Electrum
+
+Cape Town, Western Cape, South Africa
+1 month ago
+Similar Searches
+Agile Coach jobs
+217 open jobs
+Release Manager jobs
+378 open jobs
+Scrum Master jobs
+865 open jobs
+Change And Release Manager jobs
+11 open jobs
+Project Manager Scrum Master jobs
+195 open jobs
+Software Integrator jobs
+13 open jobs
+Prototype Engineer jobs
+323 open jobs
+Delivery Manager jobs
+1,425 open jobs
+Unix Engineer jobs
+38 open jobs
+Site Reliability Engineer jobs
+1,083 open jobs
+Program Project Management jobs
+578 open jobs
+Configuration Manager jobs
+34 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Paracon
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
