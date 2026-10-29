@@ -1,9 +1,9 @@
 {
   "pid": 31628,
   "started_at": "2026-10-30T01:13:26+02:00",
-  "heartbeat_at": "2026-10-30T01:52:43+02:00",
+  "heartbeat_at": "2026-10-30T01:54:26+02:00",
   "phase": "reviewing",
-  "detail": "Nursery Quality Manager",
-  "last_scrape_ok_at": "2026-10-30T01:51:46+02:00",
+  "detail": "CRM Technical Lead",
+  "last_scrape_ok_at": "2026-10-30T01:53:20+02:00",
   "last_error": null
 }

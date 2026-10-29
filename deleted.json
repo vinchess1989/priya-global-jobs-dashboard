@@ -17491,5 +17491,39 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": null,
     "deletion_reason": "Deadline (2026-10-28) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Digital Services - Managed Operating Environment Specialist - Power Platform",
+    "company": "Sydney Water",
+    "location": "Harris Park, New South Wales, Australia",
+    "url": "https://au.linkedin.com/jobs/view/digital-services-managed-operating-environment-specialist-power-platform-at-sydney-water-4473999234",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job posting explicitly requires applicants to be Australian Citizens or Permanent Residents, which the candidate does not meet.",
+    "id": "c5082637",
+    "source": "linkedin_au_configuration_manager",
+    "added_at": "2026-10-30T01:53:19+02:00",
+    "posted_date": "2026-10-02",
+    "deadline": "2026-10-19",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-10-19) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "CRM Technical Lead",
+    "company": "UNSW",
+    "location": "Sydney, New South Wales, Australia",
+    "url": "https://au.linkedin.com/jobs/view/crm-technical-lead-at-unsw-4481829969",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job explicitly states that sponsorship is not available and requires valid Australian working rights, which the candidate does not currently hold.",
+    "id": "f78d1a4a",
+    "source": "linkedin_au_configuration_manager",
+    "added_at": "2026-10-30T01:53:19+02:00",
+    "posted_date": "2026-10-28",
+    "deadline": "2025-11-08",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Deadline (2025-11-08) passed by more than 2 days and unreviewed"
   }
 ]
