@@ -1,0 +1,363 @@
+Title: AI Business Analyst – Applied & Agentic AI Systems
+Company: Roche
+Location: Hyderabad, Telangana, India
+URL: https://in.linkedin.com/jobs/view/ai-business-analyst-%E2%80%93-applied-agentic-ai-systems-at-roche-4484454236
+Posted: 2026-10-29
+Deadline: N/A
+Reason: The role aligns perfectly with the candidate's expertise in requirements engineering, GxP/regulatory compliance, and configuration management within a highly regulated industry.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+AI Business Analyst – Applied & Agentic AI Systems
+Roche  Hyderabad, Telangana, India
+1 day ago  84 applicants
+  
+
+See who Roche has hired for this role
+
+Apply 
+Save
+At Roche you can show up as yourself, embraced for the unique qualities you bring. Our culture encourages personal expression, open dialogue, and genuine connections, where you are valued, accepted and respected for who you are, allowing you to thrive both personally and professionally. This is how we aim to prevent, stop and cure diseases and ensure everyone has access to healthcare today and for generations to come. Join Roche, where every voice matters.
+
+The Position
+
+About The Role
+At Roche Digital Technology (RDT), we are advancing the boundaries of Applied AI. As part of our strategic initiatives, we enable high-value AI solutions (with a strong focus on Generative AI and agentic systems) through fit-for-purpose platforms, services, and applications. The Applied AI Engineering Team is tasked with building innovative AI applications, GenAI agents, and agentic foundations.
+
+In the 2026 tech landscape, the lines between traditional disciplines have blurred. We operate in small agile teams (typically ~9 members) powered by advanced coding agents (like Claude Code) to develop and ship solutions faster than ever before (Agentic SDLC).
+
+To support our rapid-turnaround, high-velocity engineering teams, we are seeking a highly skilled, deeply experienced IT Business Analyst. Operating in a highly regulated pharmaceutical and clinical environment (GxP), you will serve as the strategic interface between complex business priorities, regulatory compliance frameworks, and cutting-edge engineering realities. You are not a traditional analyst who merely documents requests; you are a passionate, technically literate individual contributor equipped with advanced AI skills (including prompt engineering & modern agentic workflows) and the business acumen to collaborate closely with product leaders. Furthermore, you possess strong Product Owner (PO) skills and are fully prepared to confidently act as a Proxy PO for the squad if necessary—managing the product backlog, defining sprint goals, and steering delivery timelines to align with Roche’s strategic objectives.
+
+Core Tech Stack & Scope
+
+This role requires a deep understanding of three core domains: AI systems, the life sciences and pharmaceutical business context, and the complexities of operating within a highly regulated environment.
+
+The IT Business Analyst serves as the strategic bridge between complex business requirements and cutting-edge technical execution. You will take ownership of the end-to-end requirements lifecycle for AI initiatives, ensuring that all architectural designs and engineering deliverables are scalable, high-performing, and strictly compliant with global regulatory standards. By aligning technical roadmaps with strategic priorities, you will drive the delivery of robust AI solutions that provide measurable business value and maintain the highest levels of data integrity and quality assurance.
+
+Key Responsibilities
+
+Agile Requirements & Product Owner Support (60% Focus):
+
+
+Manage the full AI project lifecycle from opportunity identification through deployment and value realization
+Translate business goals into prioritized product backlogs, Epics, and User Stories with clear acceptance criteria
+Define MVP/MMR strategies to iteratively deliver business value while managing project risks
+Act as a Proxy PO when necessary, making critical decisions on prioritization and sprint goals
+
+
+LLM Prompt Engineering & Solution Prototyping:
+
+
+Design and optimize LLM prompts to ensure accurate, secure, and relevant model outputs
+Prototype agentic workflows and evaluate model responses using Python scripting and SQL data exploration
+Develop specifications for dynamic Generative UI components and RAG pipeline context mappings
+
+
+Requirements Engineering & Business Process Analysis:
+
+
+Lead requirements workshops and JAD sessions to elicit business and functional specifications
+Author standard-compliant artifacts including URS, FRS, and "as-is/to-be" process maps
+Conduct gap analyses and re-engineering assessments to optimize and automate manual workflows
+
+
+GxP Compliance, Computerized System Validation (CSV) & Software Assurance (CSA):
+
+
+Guide compliance-by-design strategies for AI deployments following GAMP 5, 21 CFR Part 11, and Annex 11
+Guide risk-based CSA/CSV activities, authoring risk assessments (FMEA), trace matrices, and validation reports
+Enforce strict data integrity controls (ALCOA+) and system classifications to preserve validated states
+
+
+AI Governance, Risk Management & Observability Specifications:
+
+
+Ensure governance guardrails, escalation triggers, and observability requirements for agentic AI systems are applied
+Assess AI-specific risks (drift, leakage, tool misuse) and formulate TCO/ROI business cases
+
+
+Change Control, ITSM & Configuration Management:
+
+
+Manage formal Change Requests (RFC) and present impact analyses to CAB/ECAB boards
+Maintain system configuration documentation and audit-readiness for internal and regulatory inspections
+
+
+Audit Readiness & Operational Support:
+
+
+Act as IT SME during audits, presenting validation evidence and requirements engineering practices
+Author SOPs, manuals, and training materials to support business readiness and operational transitions
+
+
+
+Practical Skills Required
+Experience:
+
+
+8+ years of IT Business Analysis experience supporting enterprise-scale software solutions, system integrations, and business processes
+5+ years of experience in highly regulated environments, with a strong preference for the pharmaceutical, biotechnology, medical devices, or clinical healthcare sectors
+3+ years of proven experience in Agile/Scrum product delivery, with demonstrated success managing product backlogs, writing detailed User Stories, and supporting agile ceremonies
+Hands-on AI/LLM Project Experience: Experience working directly on Generative AI or machine learning projects, supporting data preparation, prompt development, or AI application testing
+Proven track record of delivering computerized system validation or software assurance under industry-standard quality guidelines and electronic records regulations
+Demonstrated experience working with cross-functional, globally distributed engineering squads (including developers, architects, QA, and validation teams)
+Agentic Workflow / aSDLC Experience: Proven experience leveraging AI productivity tools and writing/coding assistants (e.g., Claude Code, ChatGPT, Codex, GitHub Copilot) daily to accelerate elicitation, business process mapping, and requirements generation within an agentic software development lifecycle
+
+
+
+Skills
+Must-have:
+
+
+Advanced Requirements Lifecycle Mastery: Expert-level proficiency in elicitation, specification, modeling, verification, and traceability
+LLM Prompt Engineering & AI Prototyping: Proficient in designing, evaluating, and refining prompts for large language models. Ability to construct robust system prompts and templates that control model outputs and behavior
+Technical & Data Literacy (Analysis & Logical Assessment): Advanced ability to analyze complex data structures, logically assess AI model outputs, and trace data lineage. Strong technical aptitude to interpret technical specifications and evaluate system behaviors, with a focus on data-driven decision-making rather than hands-on coding or scripting
+Regulatory & Quality Expertise: Deep theoretical and practical knowledge of industry-standard regulatory and quality protocols, software validation and quality assurance standards, and global guidelines for electronic records and digital signatures
+Process Modeling & Visualization: Advanced skills in process mapping, business workflow design, and data flow diagramming using tools like Microsoft Visio, Lucidchart, or BPMN engines
+Business Case & Financial Analysis: Experience conducting financial analyses, cost-benefit modeling, and calculating the total cost of ownership for enterprise platforms
+Stakeholder Management & Facilitation: Outstanding active listening, communication, and negotiation skills, with the ability to build consensus across conflicting viewpoints, push back on unrealistic business requests, and translate between "business speak" and "tech speak."
+
+
+Should-have
+
+
+Agile Product Ownership Capability: Strong product thinking and backlog management capabilities using JIRA and Confluence. Ability to confidently step in as a Proxy PO when necessary to define MVPs, prioritize backlogs, and drive sprint goals
+AI/ML and Agentic Architecture Familiarity: Broad understanding of LLM architectures, RAG/GraphRAG concepts, multi-agent frameworks, and vector/graph databases to effectively analyze requirements for advanced AI projects
+IT Service Management (ITSM): Solid understanding of ITIL-based change management, incident management, and CMDB architectures
+Testing and QA Partnership: Experience partnering with QA to review test plans, coordinate User Acceptance Testing (UAT), and verify test coverage using Requirements Traceability Matrices
+Agentic SDLC: Strong drive to apply agentic Software Development Lifecycle practices and tools
+
+
+Could-have:
+
+
+Professional Certifications: International Institute of Business Analysis (IIBA) credentials such as CBAP (Certified Business Analysis Professional) or CCBA; Project Management Institute (PMI-PBA) or Scrum Alliance (CSPO/PO) certifications
+Multicloud Awareness: Basic familiarity with cloud service models (AWS/Azure) and cloud-native application deployments
+
+
+Capabilities:
+
+
+Problem-Solving Skills: Dissect complex, ambiguous, and abstract business challenges into manageable, structured, and verifiable functional requirements
+Ownership & Decisiveness: High-ownership mindset with the confidence to make tough priority decisions, remove development roadblocks, and step in to lead product direction as a Proxy PO when necessary
+Consulting & Trust: Ability to serve as a strategic, trusted advisor to senior business stakeholders, QA leads, and engineering teams, translating seamlessly between clinical business speak and technical developer speak
+Ethics & Empathy: Deep commitment to patient safety, product quality, data security, and ethical AI deployment, backed by a strong user-centric design approach
+
+
+
+Qualifications
+The successful candidate should:
+
+
+Have a strong understanding of both AI applications and traditional software development life cycle (SDLC) methodologies
+Be passionate about AI, staying up-to-date with emerging digital trends, software architectures, prompt engineering, and validation practices
+Be team-oriented, proactive, and collaborative, with a proven ability to thrive in a high-velocity, fluid, and multidisciplinary agile environment where roles are fluid
+Be detail-oriented, highly organized, and an exceptional problem-solver who takes initiative in identifying and solving problems
+Be willing to learn and expand their skill set in an environment where roles are fluid and multidisciplinary
+Be able to communicate in English at the level of: C1+
+
+
+Located in Hyderabad, India, with working hours structured to capture the "golden hours" of overlap with Central European Time (typically running through the IST evening).
+
+Why Join Us?
+
+
+Innovative Environment: Collaborate with a highly advanced, autonomous squad pioneering agentic AI and GenAI systems in healthcare
+Growth Opportunities: Bridge the gap between innovative technologies and critical, life-saving regulatory standards, expanding your skills into Product Ownership and Prompt Engineering
+Collaborative Culture: Be a part of a diverse and inclusive team that values technical excellence, strategic thinking, and creative leadership
+
+
+Shift: CET time zone
+
+#Hyderabad2026
+
+Who we are
+
+A healthier future drives us to innovate. Together, more than 100’000 employees across the globe are dedicated to advance science, ensuring everyone has access to healthcare today and for generations to come. Our efforts result in more than 26 million people treated with our medicines and over 30 billion tests conducted using our Diagnostics products. We empower each other to explore new possibilities, foster creativity, and keep our ambitions high, so we can deliver life-changing healthcare solutions that make a global impact.
+
+Let’s build a healthier future, together.
+
+Roche is an Equal Opportunity Employer.
+Show more 
+Seniority level
+Associate
+Employment type
+Full-time
+Industries
+Pharmaceutical Manufacturing, Biotechnology Research, and Medical Equipment Manufacturing
+  
+
+Referrals increase your chances of interviewing at Roche by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Business Analyst jobs
+AI Business Analyst – Applied & Agentic AI Systems
+Similar jobs
+Position: Business System Analyst with AI Tools Platform Projects  Location Hyderabad / Remote (India)
+Position: Business System Analyst with AI Tools Platform Projects  Location Hyderabad / Remote (India)
+Synergy Technologies
+Hyderabad, Telangana, India
+2 weeks ago
+Specialist, Business Analyst – AI Content Creation (Content Creation & Storage)
+Specialist, Business Analyst – AI Content Creation (Content Creation & Storage)
+MSD
+Hyderabad, Telangana, India
+1 week ago
+TE-1520 -AI-First Business Analyst / Product Owner
+TE-1520 -AI-First Business Analyst / Product Owner
+Softobiz
+Hyderabad, Telangana, India
+2 weeks ago
+Business Analyst - AI Content Engine
+Business Analyst - AI Content Engine
+Novartis India
+Greater Hyderabad Area
+1 week ago
+Senior Business Analyst
+Senior Business Analyst
+Roboyo
+Hyderabad, Telangana, India
+1 week ago
+Business Analyst – Manufacturing AI Solutions
+Business Analyst – Manufacturing AI Solutions
+Letitbex AI
+Hyderabad, Telangana, India
+3 weeks ago
+Show more jobs like this 
+People also viewed
+Data & Automations Analyst
+Data & Automations Analyst
+
+SiliconPath Law
+
+Hyderabad, Telangana, India
+1 day ago
+AI Technology Consultant
+AI Technology Consultant
+
+Crowe Capabilities Center – India
+
+Greater Hyderabad Area
+1 week ago
+Technical Product Owner
+Technical Product Owner
+
+ModMed India
+
+Hyderabad, Telangana, India
+2 weeks ago
+AI Strategist
+AI Strategist
+
+Google
+
+Hyderabad, Telangana, India
+1 week ago
+Technology Consultant
+Technology Consultant
+
+Microsoft
+
+Hyderabad, Telangana, India
+2 weeks ago
+Workplace-Agentic AI Architect
+Workplace-Agentic AI Architect
+
+PepsiCo
+
+Hyderabad, Telangana, India
+2 weeks ago
+AI Reimagination Engineer
+AI Reimagination Engineer
+
+Micron Technology
+
+Hyderabad, Telangana, India
+2 weeks ago
+Regulatory AI & Automation Specialist
+Regulatory AI & Automation Specialist
+
+Roche
+
+Hyderabad, Telangana, India
+2 weeks ago
+Agentic AI Engineer
+Agentic AI Engineer
+
+Accel4 Inc
+
+Hyderabad, Telangana, India
+3 weeks ago
+Digital Product Manager (AI)
+Digital Product Manager (AI)
+
+Amgen
+
+Hyderabad, Telangana, India
+3 weeks ago
+Similar Searches
+Business Analyst jobs
+13,729 open jobs
+Senior Business Analyst Contract jobs
+142 open jobs
+Business Analyst Intern jobs
+1,843 open jobs
+Business Test Analyst jobs
+2,637 open jobs
+Business Analyst Contract jobs
+569 open jobs
+Technical Business Analyst jobs
+4,666 open jobs
+Senior Business Analyst jobs
+6,993 open jobs
+Junior Business Analyst jobs
+5,908 open jobs
+Lead Business Analyst jobs
+1,850 open jobs
+Senior Technical Business Analyst jobs
+322 open jobs
+Analyst jobs
+55,566 open jobs
+Functional Business Analyst jobs
+3,818 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
