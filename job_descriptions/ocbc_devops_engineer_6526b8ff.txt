@@ -1,0 +1,259 @@
+Title: DevOps Engineer
+Company: OCBC
+Location: Singapore, Singapore
+URL: https://sg.linkedin.com/jobs/view/devops-engineer-at-ocbc-4484932867
+Posted: 2026-10-30
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in CI/CD pipeline engineering, automation, and configuration management within a large-scale enterprise environment.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+OCBC  Singapore, Singapore
+12 hours ago   Be among the first 25 applicants
+  
+
+See who OCBC has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Who We Are
+
+As Singapore’s longest established bank, we have been dedicated to enabling individuals and businesses to achieve their aspirations since 1932. How? By taking the time to truly understand people. From there, we provide support, services, solutions, and career paths that meet their individual needs and desires.
+
+Today, we’re on a journey of transformation. Leveraging technology and creativity to become a future-ready learning organisation. But for all that change, our strategic ambition is consistently clear and bold, which is to be Asia’s leading financial services partner for a sustainable future.
+
+We invite you to build the bank of the future. Innovate the way we deliver financial services. Work in friendly, supportive teams. Build lasting value in your community. Help people grow their assets, business, and investments. Take your learning as far as you can. Or simply enjoy a vibrant, future-ready career.
+
+Your Opportunity Starts Here.
+
+Job Summary
+
+We are seeking a highly skilled , innovative and hands-on DevOps Engineer with strong expertise in CI/CD pipeline development, automation and software engineering practices. The ideal candidate will be responsible for designing, developing and maintaining enterprise-scale CI/CD pipelines using Jenkins and Groovy while leveraging Python scripting and AI-driven capabilities to improve delivery efficiency, developer experience, security and operational excellence.
+
+This role requires a hands-on engineer who can build reusable pipeline frameworks, integrate DevSecOps controls, automate manual processes and explore emerging AI technologies to continuously enhance the organization's software delivery lifecycle.
+
+Roles And Responsibilities
+
+
+CI/CD Pipeline Engineering
+Design, develop and maintain enterprise-scale CI/CD pipelines using Jenkins , Groovy , Python , Shell scripting and REST APIs.
+Develop reusable and standardized pipeline libraries, shared components and automation frameworks.
+Create and maintain pipeline-as-code solutions to support application build, test, security scanning, release and deployment processes.
+Continuously improve pipeline performance, scalability, reliability and developer experience.
+Software Development & Automation:
+Create automated workflows to eliminate manual tasks and improve engineering productivity.
+Apply software engineering best practices including code reviews, testing, version control and documentation.
+Develop dashboards, reporting solutions, and self-service automation capabilities for development teams.
+Integrate security tools into CI/CD pipelines and implement automated quality gates and security controls throughout the software delivery lifecycle.
+AI-Driven Engineering & Innovation:
+Identify opportunities to leverage AI and Generative AI technologies to improve DevOps processes and developer productivity.
+Design and implement AI-assisted solutions for:
+Pipeline optimization
+Intelligent troubleshooting
+Auto code remediation
+Deployment validation
+Root cause analysis
+Evaluate emerging AI technologies and incorporate them into the DevOps toolchain where appropriate.
+Drive continuous improvement by introducing AI capabilities across CI/CD and automation platforms.
+Leverage AI-powered code analysis and remediation within CI/CD workflows to proactively detect quality and security issues, recommend code fixes and enhance developer efficiency, code quality and delivery speed.
+Infrastructure as Code (IaC) & Configuration Management:
+Design and implement IaC solutions using Ansible, Terraform and other automation frameworks for Database and Infra provisioning.
+Automate infrastructure provisioning, server configuration, middleware deployment and operational processes.
+Integrate infrastructure automation into CI/CD pipelines.
+Documentation & Knowledge Sharing:
+Maintain technical documentation for CI/CD frameworks, automation solutions, infrastructure code, and operational procedures.
+Define and promote engineering standards and best practices across the DevOps ecosystem.
+Conduct workshops and knowledge-sharing sessions on DevOps, CI/CD, Ansible, Infrastructure as Code, and AI-driven engineering practices.
+
+Technical Skills
+
+
+Strong expertise in Jenkins, Groovy, Python, Shell Scripting, Git/Bitbucket, REST APIs and CI/CD Pipeline Development including the development of reusable Jenkins Shared Libraries and Pipeline Frameworks.
+Hands-on experience with Infrastructure as Code (IaC), Ansible, configuration management, environment provisioning, automated application deployments and integrating infrastructure automation into CI/CD pipelines.
+Sound knowledge of DevSecOps practices, including integration of SAST, SCA and IAST controls within CI/CD pipelines and experience with tools such as Engineering tools , Collaboration tools and DevSecOps tool set.
+Minimal Experience in leveraging GenAI and AI-assisted development tools to improve software delivery, pipeline efficiency, automation, code quality, security remediation and developer productivity.
+Strong understanding of SDLC, DevOps principles, application lifecycle management, automation frameworks and enterprise-scale software delivery practices.
+
+
+Requirements
+
+
+Bachelor’s or Master’s degree in Computer Science, Engineering, or related field.
+
+
+Experience
+
+
+Minimum 10 years of hands-on experience in DevOps engineering and tool administration.
+
+
+Who We Are
+
+As Singapore's longest established bank, we have been dedicated to enabling individuals and businesses to achieve their aspirations since 1932. How? By taking the time to truly understand people. From there, we provide support, services, solutions, and career paths that meet their individual needs and desires.
+
+Today, we're on a journey of transformation. Leveraging technology and creativity to become a future-ready learning organisation.
+
+But for all that change, our strategic ambition is consistently clear and bold, which is to be Asia's leading financial services partner for a sustainable future.
+
+We invite you to build the bank of the future. Innovate the way we deliver financial services. Work in friendly, supportive teams. Build lasting value in your community. Help people grow their assets, business, and investments. Take your learning as far as you can. Or simply enjoy a vibrant, future-ready career. Your Opportunity Starts Here.
+
+What We Offer
+
+Competitive base salary. A suite of holistic, flexible benefits to suit every lifestyle. Community initiatives. Industry-leading learning and professional development opportunities. Your wellbeing, growth and aspirations are every bit as cared for as the needs of our customers.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Banking
+  
+
+Referrals increase your chances of interviewing at OCBC by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Singapore, Singapore.
+
+Sign in to create job alert
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+BIT Official
+Singapore, Singapore
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+Capgemini
+Singapore, Singapore
+2 months ago
+DevOps Engineer
+DevOps Engineer
+Capgemini Engineering
+Singapore
+1 month ago
+DevOps & Kubernetes Engineer
+DevOps & Kubernetes Engineer
+Accenture Southeast Asia
+Singapore, Singapore
+1 month ago
+DevOps Engineer
+DevOps Engineer
+Merquri
+Singapore, Singapore
+1 week ago
+DevOps Engineer
+DevOps Engineer
+Hytech
+Singapore
+2 weeks ago
+Show more jobs like this 
+People also viewed
+App DevOps
+App DevOps
+
+StarHub
+
+Singapore, Singapore
+1 week ago
+DevSecOps Engineer
+DevSecOps Engineer
+
+Cognizant
+
+Singapore, Singapore
+2 weeks ago
+Cloud Engineer
+Cloud Engineer
+
+VeSync
+
+Singapore, Singapore
+2 weeks ago
+DevOps Engineer, APAC region
+DevOps Engineer, APAC region
+
+Twelve Data
+
+Singapore, Singapore
+2 months ago
+AWS DevOps Engineer
+AWS DevOps Engineer
+
+Epergne Solutions
+
+Singapore
+3 days ago
+Platform Engineer
+Platform Engineer
+
+Vitol
+
+Singapore, Singapore
+2 weeks ago
+Site Reliability Engineer (Cloud) - Infrastructure Engineering
+Site Reliability Engineer (Cloud) - Infrastructure Engineering
+
+ByteDance
+
+Singapore, Singapore
+4 weeks ago
+CRM DevOps Engineer
+CRM DevOps Engineer
+
+StarHub
+
+Singapore, Singapore
+2 days ago
+DevOps Engineer
+DevOps Engineer
+
+JSIT for WST (Wholesale Trade) by Singapore Business Federation (SBF)
+
+Singapore, Singapore
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+Mav3rik
+
+Singapore
+5 months ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+You’re signed out
+Sign in for the full experience.
+Sign in Join now

@@ -1,9 +1,9 @@
 {
   "pid": 31628,
   "started_at": "2026-10-30T01:13:26+02:00",
-  "heartbeat_at": "2026-10-30T01:15:12+02:00",
+  "heartbeat_at": "2026-10-30T01:20:27+02:00",
   "phase": "reviewing",
-  "detail": "Senior Azure DevOps Engineer",
-  "last_scrape_ok_at": "2026-10-30T01:14:09+02:00",
+  "detail": "DevOps Engineer",
+  "last_scrape_ok_at": "2026-10-30T01:19:31+02:00",
   "last_error": null
 }
