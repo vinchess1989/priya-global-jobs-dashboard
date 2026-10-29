@@ -1,9 +1,9 @@
 {
   "pid": 31628,
   "started_at": "2026-10-30T01:13:26+02:00",
-  "heartbeat_at": "2026-10-30T01:35:29+02:00",
+  "heartbeat_at": "2026-10-30T01:37:50+02:00",
   "phase": "reviewing",
-  "detail": "QA Engineer",
-  "last_scrape_ok_at": "2026-10-30T01:34:29+02:00",
+  "detail": "Technical Writer",
+  "last_scrape_ok_at": "2026-10-30T01:36:28+02:00",
   "last_error": null
 }
