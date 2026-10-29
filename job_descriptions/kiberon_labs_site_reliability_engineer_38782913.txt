@@ -1,0 +1,302 @@
+Title: Site Reliability Engineer
+Company: Kiberon Labs
+Location: City of Cape Town, Western Cape, South Africa
+URL: https://za.linkedin.com/jobs/view/site-reliability-engineer-at-kiberon-labs-4481873252
+Posted: 2026-10-28
+Deadline: Open until filled
+Reason: The role aligns with the candidate's extensive experience in CI/CD, configuration management, and infrastructure automation, and it is located in a target country (South Africa) with no mention of visa restrictions.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Site Reliability Engineer
+Kiberon Labs  City of Cape Town, Western Cape, South Africa
+2 days ago  34 applicants
+  
+
+See who Kiberon Labs has hired for this role
+
+Apply 
+Save
+Full-time
+
+
+Remote
+Within two time zones of GMT+1
+
+
+About Kiberon Labs
+
+Kiberon Labs is a specialized AI and DevSecOps consultancy. We help clients design, secure, migrate, and operate systems that need to perform reliably in production.
+
+Our work includes solution architecture, process migration, security hardening, Kubernetes operations, and forward-deployed engineering. We work directly with client teams to solve practical infrastructure problems and leave them with systems they can confidently own.
+
+We are a small technical team. That means less distance between an idea, a decision, and the system running in production.
+
+The role
+
+We are hiring one full-time Site Reliability Engineer to design, operate, and improve reliable full-stack systems running at scale on Kubernetes.
+
+You will work directly with the founder, software engineers, and external client teams. Your job is to make production systems more observable, resilient, secure, and easier to operate.
+
+This is a hands-on role. You will investigate failures, automate repetitive operations, improve infrastructure, and help teams adopt practical SRE methods.
+
+We are not assigning a rigid seniority label to this position. We care about your ability to operate complex production systems and take responsibility for technical outcomes.
+
+What you will do
+
+
+Design and operate scalable Kubernetes infrastructure.
+Improve the reliability and availability of client applications and services.
+Build and maintain monitoring, logging, tracing, and alerting systems.
+Investigate production incidents across application and infrastructure layers.
+Improve incident response procedures and contribute to post-incident reviews.
+Automate operational tasks using code, scripts, and infrastructure-as-code tooling.
+Identify reliability risks before they become production failures.
+Improve deployment pipelines, configuration management, and release safety.
+Diagnose problems across networking, storage, compute, security, and application runtimes.
+Help engineering teams define practical service objectives and reliability measures.
+Document technical decisions and transfer operational knowledge to client teams.
+Contribute to internal technical systems and product development when opportunities arise.
+
+
+What we are looking for
+
+
+Strong hands-on experience operating Kubernetes in production.
+Experience supporting large-scale, full-stack production systems.
+Strong AWS infrastructure and operations knowledge.
+Experience with observability, monitoring, alerting, and production diagnostics.
+Experience responding to incidents and troubleshooting distributed systems.
+Strong Linux system administration and performance investigation skills.
+Working knowledge of networking, storage, security, and cloud architecture.
+Software development or scripting skills for automation and internal tooling.
+Experience with infrastructure-as-code and configuration management.
+The ability to explain technical risks and decisions clearly.
+The ability to collaborate with both technical and non-technical stakeholders.
+A practical approach to reliability, security, and operational complexity.
+
+
+Useful Additional Experience
+
+
+TypeScript or Go.
+Azure infrastructure.
+CI/CD pipeline design and operation.
+DevSecOps and secure configuration management.
+Security hardening for cloud-native systems.
+Client-facing consulting or embedded engineering.
+Cost optimization and capacity planning.
+Designing service-level indicators and objectives.
+
+
+How we work
+
+This is a remote position for candidates located within two time zones of GMT+1.
+
+Our fixed core collaboration hours are 10:00 to 14:00 GMT+1. Outside that window, you have flexibility to structure your working day around the work and your responsibilities.
+
+You will have direct access to the founder and meaningful input into technical decisions. We expect you to challenge weak assumptions, propose better approaches, and take ownership of the systems you help build.
+
+What we offer
+
+
+Direct founder access and short decision paths.
+Flexible working hours outside the core collaboration window.
+A monetary learning budget for courses, books, certifications, and technical resources.
+Dedicated working time for learning, experimentation, and testing new ideas.
+Opportunities to take technical ownership of internal systems and products.
+Work focused on modern infrastructure without unnecessary legacy bloat.
+The opportunity to help shape engineering practices inside a growing technical company.
+Potential access to non-voting profit-sharing shares through the employee pool.
+
+
+Participation in the profit-sharing pool is discretionary and not guaranteed. Shares may unlock based on factors such as tenure, milestones, performance, and company discretion.
+
+Interested?
+
+If you enjoy owning difficult production problems and building systems that remain reliable under real operating conditions, apply through LinkedIn.
+Show more 
+Seniority level
+Entry level
+Employment type
+Full-time
+Industries
+Technology, Information and Internet
+  
+
+Referrals increase your chances of interviewing at Kiberon Labs by 2x
+
+See who you know
+
+Get notified about new Site Reliability Engineer jobs in City of Cape Town, Western Cape, South Africa.
+
+Sign in to create job alert
+Jobs
+Platform Engineer jobs
+Site Reliability Engineer
+Similar jobs
+Site Reliability Engineer
+Site Reliability Engineer
+OfferZen
+City of Cape Town, Western Cape, South Africa
+3 weeks ago
+Platform Engineer
+Platform Engineer
+Share
+Cape Town, Western Cape, South Africa
+1 month ago
+Senior Cloud Engineer
+Senior Cloud Engineer
+impact.com
+Cape Town, Western Cape, South Africa
+2 weeks ago
+DevOps, Platform & Support Engineer
+DevOps, Platform & Support Engineer
+MVIA
+Southern Suburbs, Western Cape, South Africa
+2 months ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+BVNK
+Cape Town, Western Cape, South Africa
+2 weeks ago
+Cloud Platform Engineer
+Cloud Platform Engineer
+Healix International
+Cape Town, Western Cape, South Africa
+1 week ago
+Show more jobs like this 
+People also viewed
+Senior AWS DevOps Engineer
+Senior AWS DevOps Engineer
+
+LexisNexis
+
+Western Cape, South Africa
+3 months ago
+Monitoring Engineer
+Monitoring Engineer
+
+Ekco
+
+Cape Town, Western Cape, South Africa
+1 month ago
+Infrastructure Engineer
+Infrastructure Engineer
+
+OryxAlign
+
+Cape Town, Western Cape, South Africa
+1 month ago
+Data Platform Engineer
+Data Platform Engineer
+
+impact.com
+
+Cape Town, Western Cape, South Africa
+2 weeks ago
+Networking Platform and Observability Engineer (L2)
+Networking Platform and Observability Engineer (L2)
+
+NTT DATA, Inc.
+
+Cape Town, Western Cape, South Africa
+2 weeks ago
+System Administrator
+System Administrator
+
+Mama Money
+
+Cape Town, Western Cape, South Africa
+2 weeks ago
+System Engineer
+System Engineer
+
+Diamond Key International Group
+
+City of Cape Town, Western Cape, South Africa
+2 weeks ago
+Founding Engineer
+Founding Engineer
+
+Share
+
+Cape Town, Western Cape, South Africa
+5 months ago
+Java Engineer - Platform (Pipeline)
+Java Engineer - Platform (Pipeline)
+
+Electrum
+
+Cape Town, Western Cape, South Africa
+1 month ago
+Cloud Security Engineer (DevSecOps)
+Cloud Security Engineer (DevSecOps)
+
+Parvana
+
+Cape Town, Western Cape, South Africa
+2 days ago
+Similar Searches
+Platform Engineer jobs
+524 open jobs
+Linux System Engineer jobs
+240 open jobs
+Senior Infrastructure Engineer jobs
+155 open jobs
+Linux Engineer jobs
+269 open jobs
+System Development Engineer jobs
+3,642 open jobs
+Linux System Administrator jobs
+35 open jobs
+Infrastructure Engineer jobs
+360 open jobs
+Reliability Engineer jobs
+449 open jobs
+Linux Administrator jobs
+62 open jobs
+Application Support Engineer jobs
+54 open jobs
+Senior Reliability Engineer jobs
+28 open jobs
+Senior Linux Administrator jobs
+40 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

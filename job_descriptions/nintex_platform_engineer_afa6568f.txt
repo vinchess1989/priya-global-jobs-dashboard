@@ -1,0 +1,292 @@
+Title: Platform Engineer
+Company: Nintex
+Location: Johannesburg, Gauteng, South Africa
+URL: https://za.linkedin.com/jobs/view/platform-engineer-at-nintex-4484939363
+Posted: 2026-10-30
+Deadline: N/A
+Reason: The role is a strong match for her DevOps and platform engineering background, located in a target country (South Africa), and does not violate any hard rejection criteria.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Platform Engineer
+Nintex  Johannesburg, Gauteng, South Africa
+12 hours ago  27 applicants
+  
+
+See who Nintex has hired for this role
+
+Apply 
+Save
+About Nintex:
+
+At Nintex, we are transforming the way people work, everywhere.
+
+As the global standard for process intelligence and automation, we're trusted by over 10,000 public and private sector organizations across 90 countries. Our customers, from industry giants like Amazon, Coca-Cola, and Microsoft, rely on the Nintex Platform to accelerate their digital transformation journeys by managing, automating, and optimizing business processes quickly and efficiently. We improve their lives through the technology we build.
+
+We are committed to fostering a workplace that supports amazing people in doing their very best work every day. Collaboration is constant, our workplace is fun, the environment is fast-paced, and we value our people’s curiosity, ideas, and enthusiasm. Driven by passion and accountability, we take initiative, measure progress, and deliver results. Our culture fosters innovation and problem-solving, fueled by curiosity and a commitment to thinking big. Together, we move with agility, prioritize customer needs, and build unity through empathy, leaving a positive impact wherever we go.
+
+Working in engineering:
+
+Working at Nintex as an engineer means building more than just software; it’s about making a tangible impact with every line of code. Our engineers are process experts, developing the industry’s most complete process and automation platform to transform the way people work. If you’re interested, curious and want to learn and do more, the sky is the limit here. We take a solutions-oriented and collaborative approach, constantly innovating our business and products.
+
+About the role:
+
+The Platform Engineer is a hands-on individual contributor responsible for designing, building, and shipping capabilities of the internal developer platform and the integrations that connect engineering tools and processes. This role partners with the Engineering Manager and senior peers to turn platform priorities into reliable, well-tested implementations that measurably improve developer productivity and delivery velocity.
+
+You are a skilled practitioner with a solid command of the technology stacks within your domain and broad familiarity with tooling across the wider Platform environment.
+
+You own and deliver CI/CD pipelines and infrastructure workstreams end-to end with increasing autonomy, taking responsibility for moderately complex projects and exercising sound judgment in selecting methods and
+
+approaches.
+
+You build and improve internal developer tooling in collaboration with other teams, contribute to self-service platform features, and support your team onboarding workflows
+
+Your contribution will be: 
+
+
+You are sufficiently skilled and experienced in Platform tools and processes to contribute to long-term programs or technologies such as secrets management, PIM, CosmosDB, Azure Key Vault, etc. (or AWS/GCP equivalents)
+You write tools and utilities that support and integrate with delivery pipelines and you integrate telemetry where appropriate
+You debug and fix infrastructure issues on production environments
+You actively build, shape, and promote infrastructure architecture patterns and practices
+You are an advocate for a Platform culture and add value by bringing the Platform perspective to all your projects
+You contribute to the development of new functions in complex areas of Platform such as continuous integration, new infrastructure, or automated incident mitigation
+You identify opportunities to improve the software development and delivery processes and support activities to improve them
+You modify and improve existing development and operational procedures to make them compliant with relevant standards
+You use appropriate Platform patterns to solve development and operational problems
+You start each project with security in mind and make sure that security is built into the design, implementation, and relevant processes and practices
+
+
+Required Technical Expertise:
+
+Integration Engineering & Cloud-Native
+
+
+Designing and building integrations across engineering tools (SCM, CI/CD, ticketing, observability, security scanners) via APIs, webhooks, and event-driven patterns.
+GitOps and Infrastructure as Code (ArgoCD, Terraform); Kubernetes and cloud-native application design; experience operating platforms on Azure and/or AWS.
+
+
+AI-Augmented Development
+
+
+Demonstrated, daily use of AI coding assistants (Claude Code, Cursor, Copilot or equivalent) and agentic workflows to accelerate delivery - able to show concrete examples.
+Comfort designing prompts, building small agents/automations, and embedding AI into team workflows.
+
+
+To be successful, we think you need: 
+
+
+Bachelor’s degree in computer science, Engineering, or related technical field; or equivalent combination of education and experience 2+ years of professional experience in Platform, infrastructure engineering, or related field Hands-on experience with cloud platforms (Azure, AWS, or GCP) Experience with infrastructure as code and automation tools Understanding of CI/CD pipelines and Platform practices
+
+
+Preferred Qualifications:
+
+
+Relevant certifications (e.g., Azure Platform Engineer Expert, AWS Certified Platform Engineer, Certified Kubernetes Administrator)
+
+
+What’s in it for you?
+
+Nintex has a hybrid working model, enabling us to build culture, learn, and grow together. We intentionally connect and collaborate, while emphasizing flexibility with a blend of at-home and in-office work. This role is a hybrid role in our local Nintex office.
+
+While our offerings differ from country to country, we offer our entire global workforce an array of exciting perks and benefits, including
+
+
+Global Gratitude and Recharge Days
+Flexible, paid time off policy
+Employee wellness programs and counseling resources
+Meaningful peer recognition and awards
+Paid parental leave
+Invention/patenting assistance
+Community impact, paid volunteer time, and opportunities
+Intercultural learning and celebration
+Multiple tools through which to learn and grow, and an incredible global community
+
+
+View more about our benefits here: https://www.nintex.com/wp-content/uploads/2023/01/Global-Perks-and-Benefits.pdf.
+
+Equity Statement: Preference will be given to People Living with Disability who are members of the designated groups in line with the Employment Equity Plan and Targets of the Company.
+Show more 
+Seniority level
+Entry level
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Nintex by 2x
+
+See who you know
+
+Get notified about new Platform Engineer jobs in Johannesburg, Gauteng, South Africa.
+
+Sign in to create job alert
+Jobs
+Platform Engineer jobs
+Platform Engineer
+Similar jobs
+Platform Engineer
+Platform Engineer
+Share
+City of Johannesburg, Gauteng, South Africa
+1 month ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+VALR
+Johannesburg, Gauteng, South Africa
+1 month ago
+SRE Platform Engineer (Microsoft Azure)
+SRE Platform Engineer (Microsoft Azure)
+Syspro
+Johannesburg, Gauteng, South Africa
+1 month ago
+Senior Platform Engineer MMH261013-9
+Senior Platform Engineer MMH261013-9
+Momentum
+Sandton, Gauteng, South Africa
+2 weeks ago
+OM Bank - Senior Platform Engineer
+OM Bank - Senior Platform Engineer
+Old Mutual South Africa
+Johannesburg Metropolitan Area
+2 weeks ago
+Intermediate AWS Platform / Integration engineer
+Intermediate AWS Platform / Integration engineer
+DeARX
+Sandton, Gauteng, South Africa
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Application Developer - DevOps
+Application Developer - DevOps
+
+Blue Pearl HQ
+
+Johannesburg, Gauteng, South Africa
+1 day ago
+Forward Deployed Engineer
+Forward Deployed Engineer
+
+Salesforce
+
+Johannesburg, Gauteng, South Africa
+6 days ago
+Platform Data Engineer
+Platform Data Engineer
+
+Tata Consultancy Services
+
+City of Johannesburg, Gauteng, South Africa
+4 weeks ago
+Junior Kubernetes Architect (Microsoft Azure)
+Junior Kubernetes Architect (Microsoft Azure)
+
+Syspro
+
+Johannesburg, Gauteng, South Africa
+1 month ago
+Forwarded Deployed Engineer
+Forwarded Deployed Engineer
+
+Salesforce
+
+Johannesburg, Gauteng, South Africa
+1 week ago
+Principal Telco Platform Engineer
+Principal Telco Platform Engineer
+
+Humankind Group
+
+Pretoria, Gauteng, South Africa
+6 days ago
+Senior DevOps Engineer Azure & Kubernetes (m/f) – Global SaaS Construction Software
+Senior DevOps Engineer Azure & Kubernetes (m/f) – Global SaaS Construction Software
+
+RIB Software
+
+Centurion, Gauteng, South Africa
+1 day ago
+Data Engineer (Mid-level)
+Data Engineer (Mid-level)
+
+WPP Media
+
+Johannesburg, Gauteng, South Africa
+4 months ago
+Senior Backend & Platform Engineer (.NET / Azure)
+Senior Backend & Platform Engineer (.NET / Azure)
+
+Codematch
+
+Johannesburg, Gauteng, South Africa
+3 weeks ago
+Data Engineer
+Data Engineer
+
+BSG
+
+Johannesburg Metropolitan Area
+2 weeks ago
+Similar Searches
+Platform Engineer jobs
+524 open jobs
+Psychologist jobs
+200 open jobs
+User Experience Designer jobs
+135 open jobs
+Recruiter jobs
+364 open jobs
+Site Reliability Engineer jobs
+1,083 open jobs
+Infrastructure Engineer jobs
+360 open jobs
+Linux Engineer jobs
+269 open jobs
+Senior Infrastructure Engineer jobs
+155 open jobs
+Virtualization Engineer jobs
+78 open jobs
+Unix Engineer jobs
+38 open jobs
+Cloud Architect jobs
+324 open jobs
+System Development Engineer jobs
+3,642 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

@@ -1,0 +1,320 @@
+Title: Senior Site Reliability Engineer
+Company: Nintex
+Location: Johannesburg, Gauteng, South Africa
+URL: https://za.linkedin.com/jobs/view/senior-site-reliability-engineer-at-nintex-4484450122
+Posted: 2026-10-29
+Deadline: N/A
+Reason: The role aligns with the candidate's extensive background in DevOps, CI/CD, and infrastructure automation, and it is located in a target country (South Africa) with no explicit mention of visa restrictions.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Site Reliability Engineer
+Nintex  Johannesburg, Gauteng, South Africa
+1 day ago  27 applicants
+  
+
+See who Nintex has hired for this role
+
+Apply 
+Save
+About Nintex:
+
+At Nintex, we are transforming the way people work, everywhere.
+
+As the global standard for process intelligence and automation, we're trusted by over 10,000 public and private sector organizations across 90 countries. Our customers, from industry giants like Amazon, Coca-Cola, and Microsoft, rely on the Nintex Platform to accelerate their digital transformation journeys by managing, automating, and optimizing business processes quickly and efficiently. We improve their lives through the technology we build.
+
+We are committed to fostering a workplace that supports amazing people in doing their very best work every day. Collaboration is constant, our workplace is fun, the environment is fast-paced, and we value our people’s curiosity, ideas, and enthusiasm. Driven by passion and accountability, we take initiative, measure progress, and deliver results. Our culture fosters innovation and problem-solving, fueled by curiosity and a commitment to thinking big. Together, we move with agility, prioritize customer needs, and build unity through empathy, leaving a positive impact wherever we go.
+
+Working in engineering:
+
+Working at Nintex as an engineer means building more than just software; it’s about making a tangible impact with every line of code. Our engineers are process experts, developing the industry’s most complete process and automation platform to transform the way people work. If you’re interested, curious and want to learn and do more, the sky is the limit here. We take a solutions-oriented and collaborative approach, constantly innovating our business and products.
+
+About the role:
+
+As a Site Reliability Engineer, you are a skilled practitioner with a solid command of the technology stacks within your domain and broad familiarity with tooling across the wider platform and infrastructure environment. You own and deliver infrastructure and automation workstreams end-to-end with increasing autonomy, taking responsibility for moderately complex projects and exercising sound judgment in selecting methods and approaches.
+
+You own components of the shared platform's reliability stack, implementing monitoring, alerting, and automation that ensure product teams can deploy and operate with confidence. You design operational solutions with feedback loops built in, deploy medium-to-large infrastructure components via automation, and act as a primary resource for supporting and operating existing platform systems. You implement and monitor SLIs that measure the shared platform's reliability from the customer's perspective, and you participate in production readiness reviews for new services deploying to the platform.
+
+You automate operational tasks to reduce toil, targeting measurable reductions in manual intervention across your owned areas. You contribute to the platform's observability stack, ensuring meaningful alerting that minimizes noise and false positives, and you support capacity planning by monitoring resource utilization trends and flagging scaling needs. You diagnose and resolve infrastructure issues efficiently, improving system performance and reliability, and you write thorough post-mortems including root cause analysis and preventative actions.
+
+You work cross-functionally with product, QA, and engineering teams to deliver well-rounded solutions, and you begin mentoring associate engineers and contributing to team best practices. You are an active part of the incident management process, including on-call rotation, building the production judgment and operational discipline needed to progress toward senior technical leadership.
+
+Your contribution will be: 
+
+Platform Reliability & Operations
+
+
+You implement software and infrastructure solutions with increasing autonomy, taking ownership of moderately complex features and enhancements within the shared platform
+You own components of the shared platform's / your domain’s reliability stack, implementing monitoring, alerting, and automation that ensure product teams can deploy and operate with confidence
+You implement and monitor SLIs that measure the shared platform's reliability from the customer's perspective for your owned components
+You participate in production readiness reviews for new services deploying to production, validating that they meet observability and operational maturity requirements
+You automate operational tasks to reduce toil, targeting measurable reductions in manual intervention across your owned areas
+You contribute to the platform's observability stack, ensuring meaningful alerting that minimizes noise and false positives
+You support capacity planning by monitoring resource utilization trends and flagging scaling needs before they become incidents
+
+
+Infrastructure & Automation
+
+
+You write infrastructure code, automation scripts, and tools using best practices, implementing infrastructure as code for platform reliability components including monitoring, alerting, and incident automation
+You build containerized solutions and manage Kubernetes resources within the shared platform / your domain
+You create reliable, maintainable, and well-tested infrastructure components that support platform availability and scalability
+You deploy medium-to-large infrastructure components via automation into production, always following development and deployment guidelines
+You ensure each solution adheres to relevant guidelines supporting security, disaster recovery, scalability, availability, reliability, and durability
+
+
+Issue Resolution & System Maintenance
+
+
+You diagnose and resolve infrastructure issues efficiently, improving system performance and reliability across your owned platform components
+You write thorough post-mortems for infrastructure, pipeline, and automation problems, including root cause analysis and contributing to preventative and remedial actions
+You triage and solve issues correctly and independently, working on problems of moderate scope requiring evaluation of various factors
+You ensure code quality through appropriate tools and processes, considering relevant quality characteristics during design and development
+You maintain and improve existing infrastructure and automation, implementing monitoring and alerting for owned systems
+You respond to incidents during on-call rotation, applying learned patterns to prevent recurring issues
+
+
+Collaboration & Mentorship
+
+
+You work cross-functionally with product, QA, and engineering teams to deliver well-rounded solutions that support platform reliability
+You begin mentoring associate engineers and contributing to team best practices
+You contribute to software architecture discussions, providing input on infrastructure design decisions with a reliability-first perspective
+You modify and improve existing operational procedures to make them compliant with relevant standards and SRE best practices
+You share knowledge through documentation, team presentations, and contributions to runbooks and operational guides
+
+
+To be successful, we think you need: 
+
+Minimum Requirements
+
+
+Bachelor's degree in Computer Science, Engineering, Information Technology, or related technical field; or equivalent combination of education and experience
+4+ years of professional experience in Site Reliability Engineering, DevOps, Infrastructure Engineering, or related field
+Hands-on experience with at least one major cloud platform (AWS, Azure, or GCP)
+Experience with infrastructure as code and automation tools (Terraform, Ansible, or similar)
+Proficiency in scripting and programming languages (Python, Go, Bash, or similar)
+Working knowledge of containerization and orchestration technologies (Docker, Kubernetes)
+Understanding of CI/CD practices, monitoring tools, and operational workflows
+Demonstrated ability to troubleshoot production systems and participate in incident response
+Understanding of SRE fundamentals including SLIs, SLOs, and monitoring best practices
+
+
+Preferred Qualifications
+
+
+Relevant certifications (e.g., Azure DevOps Engineer Expert, AWS Certified DevOps Engineer, Certified Kubernetes Administrator)
+Experience with monitoring and observability platforms (Prometheus, Grafana, ELK stack, Datadog, or similar)
+Experience participating in on-call rotations and incident management processes
+Knowledge of security and compliance frameworks relevant to infrastructure operations
+Experience with database technologies and operational management
+Demonstrated experience automating operational workflows and reducing toil
+Contributions to internal documentation, runbooks, or operational tooling
+
+
+What’s in it for you?
+
+Nintex has a hybrid working model, enabling us to build culture, learn, and grow together. We intentionally connect and collaborate, while emphasizing flexibility with a blend of at-home and in-office work. This role is a hybrid role in our local Nintex office.
+
+While our offerings differ from country to country, we offer our entire global workforce an array of exciting perks and benefits, including
+
+
+Global Gratitude and Recharge Days
+Flexible, paid time off policy
+Employee wellness programs and counseling resources
+Meaningful peer recognition and awards
+Paid parental leave
+Invention/patenting assistance
+Community impact, paid volunteer time, and opportunities
+Intercultural learning and celebration
+Multiple tools through which to learn and grow, and an incredible global community
+
+
+View more about our benefits here: https://www.nintex.com/wp-content/uploads/2023/01/Global-Perks-and-Benefits.pdf.
+
+Equity Statement: Preference will be given to People Living with Disability who are members of the designated groups in line with the Employment Equity Plan and Targets of the Company.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Nintex by 2x
+
+See who you know
+
+Get notified about new Senior Site Reliability Engineer jobs in Johannesburg, Gauteng, South Africa.
+
+Sign in to create job alert
+Jobs
+Chief Scientist jobs
+Senior Site Reliability Engineer
+Similar jobs
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+Camunda
+Johannesburg, Gauteng, South Africa
+2 weeks ago
+Site Reliability Engineer (SRE)
+Site Reliability Engineer (SRE)
+Impronics Digitech
+Johannesburg, Gauteng, South Africa
+1 year ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+VALR
+Johannesburg, Gauteng, South Africa
+1 month ago
+OM Bank - Senior Platform Engineer
+OM Bank - Senior Platform Engineer
+Old Mutual South Africa
+Johannesburg Metropolitan Area
+2 weeks ago
+Platform Engineer
+Platform Engineer
+Share
+City of Johannesburg, Gauteng, South Africa
+1 month ago
+Senior Platform Engineer MMH261013-9
+Senior Platform Engineer MMH261013-9
+Momentum
+Sandton, Gauteng, South Africa
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Senior DevOps Engineer Azure & Kubernetes (m/f) – Global SaaS Construction Software
+Senior DevOps Engineer Azure & Kubernetes (m/f) – Global SaaS Construction Software
+
+RIB Software
+
+Centurion, Gauteng, South Africa
+1 day ago
+Data Platform Engineer
+Data Platform Engineer
+
+Zensar Technologies
+
+Johannesburg Metropolitan Area
+3 weeks ago
+Senior Infrastructure Specialist
+Senior Infrastructure Specialist
+
+HCLTech
+
+Johannesburg Metropolitan Area
+1 month ago
+Senior Cloud Infrastructure Engineer
+Senior Cloud Infrastructure Engineer
+
+Optimal Growth Technologies
+
+Johannesburg, Gauteng, South Africa
+1 month ago
+Principal 5G SysOps Engineer
+Principal 5G SysOps Engineer
+
+Humankind Group
+
+Gauteng, South Africa
+3 days ago
+DevOps Engineer - (AML Platform)
+DevOps Engineer - (AML Platform)
+
+Optimal Growth Technologies
+
+Johannesburg, Gauteng, South Africa
+1 month ago
+Forwarded Deployed Engineer
+Forwarded Deployed Engineer
+
+Salesforce
+
+Johannesburg, Gauteng, South Africa
+1 week ago
+Technology/Domain Specialist II - Kafka (OVA5718)
+Technology/Domain Specialist II - Kafka (OVA5718)
+
+Ovations Talent Sourcing
+
+Johannesburg, Gauteng, South Africa
+2 weeks ago
+Engineering Manager - Infrastructure
+Engineering Manager - Infrastructure
+
+Camunda
+
+Johannesburg, Gauteng, South Africa
+2 weeks ago
+Technical Lead
+Technical Lead
+
+Brolink
+
+Centurion, Gauteng, South Africa
+1 week ago
+Similar Searches
+Chief Scientist jobs
+12 open jobs
+Embedded Design Engineer jobs
+19 open jobs
+Academic Head jobs
+37 open jobs
+Corporate Account Executive jobs
+309 open jobs
+Automation Developer jobs
+103 open jobs
+Certified Engineer jobs
+324 open jobs
+Senior Business Intelligence Developer jobs
+138 open jobs
+Senior Web Developer jobs
+791 open jobs
+Sharepoint Developer jobs
+12 open jobs
+Magento Developer jobs
+739 open jobs
+Director of Training jobs
+42 open jobs
+Network Support Engineer jobs
+99 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
