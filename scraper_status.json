@@ -1,9 +1,9 @@
 {
   "pid": 23060,
   "started_at": "2026-10-31T01:13:51+02:00",
-  "heartbeat_at": "2026-10-31T01:26:52+02:00",
+  "heartbeat_at": "2026-10-31T01:31:30+02:00",
   "phase": "reviewing",
-  "detail": "DevOps Engineer",
-  "last_scrape_ok_at": "2026-10-31T01:24:33+02:00",
+  "detail": "Senior Quality Assurance Engineer",
+  "last_scrape_ok_at": "2026-10-31T01:27:30+02:00",
   "last_error": null
 }
