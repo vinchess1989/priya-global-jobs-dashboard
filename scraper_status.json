@@ -1,9 +1,9 @@
 {
   "pid": 31628,
   "started_at": "2026-10-30T01:13:26+02:00",
-  "heartbeat_at": "2026-10-30T02:06:12+02:00",
+  "heartbeat_at": "2026-10-30T02:09:48+02:00",
   "phase": "reviewing",
-  "detail": "Unit Manager - Critical Care",
-  "last_scrape_ok_at": "2026-10-30T02:05:12+02:00",
+  "detail": "Verification & Validation Analyst",
+  "last_scrape_ok_at": "2026-10-30T02:08:18+02:00",
   "last_error": null
 }
