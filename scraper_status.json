@@ -1,9 +1,9 @@
 {
   "pid": 23060,
   "started_at": "2026-10-31T01:13:51+02:00",
-  "heartbeat_at": "2026-10-31T01:15:50+02:00",
+  "heartbeat_at": "2026-10-31T01:18:14+02:00",
   "phase": "reviewing",
-  "detail": "DevOps Engineer",
-  "last_scrape_ok_at": "2026-10-31T01:14:34+02:00",
+  "detail": "Senior Site Reliability Engineer",
+  "last_scrape_ok_at": "2026-10-31T01:16:47+02:00",
   "last_error": null
 }

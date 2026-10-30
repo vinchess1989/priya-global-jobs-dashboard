@@ -1,0 +1,317 @@
+Title: Site Reliability Engineer
+Company: Tata Consultancy Services
+Location: Greater Sydney Area
+URL: https://au.linkedin.com/jobs/view/site-reliability-engineer-at-tata-consultancy-services-4477984422
+Posted: 2026-10-17
+Deadline: N/A
+Reason: The role aligns with her extensive experience in CI/CD, release pipelines, and infrastructure automation, and it is located in an eligible country (Australia) with no explicit exclusion of visa sponsorship.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Site Reliability Engineer
+Tata Consultancy Services  Greater Sydney Area
+2 weeks ago  76 applicants
+  
+
+See who Tata Consultancy Services has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+About the job
+
+
+
+
+About TCS:
+
+Join Tata Consultancy Services, Asia Pacific and be part of an organization committed to sustainable development for our future. TCS follows the Tata group philosophy of building sustainable businesses that are rooted in the community and demonstrate care for the environment. Our unique values position us to combine a purpose-driven worldview with digital innovation, collaborating with customers, communities and governments to lead and shape innovative solutions for a sustainable future. TCS has been carbon neutral in its operations across 11 countries, 12 delivery centres and 18 offices in Asia Pacific since 2022. This is only the initial stage in TCS’ journey as we strive to achieve long-term net zero emissions by 2030.
+
+
+
+
+Corporate sustainability is embedded in our triple-bottom-line, focusing on people, the planet, and our purpose. Our offices are designed with eco-friendly features that significantly reduce our carbon footprint and enhance energy efficiency. We actively champion green initiatives, such as promoting paperless operations, implementing energy-efficient practices, and fostering employee engagement in sustainability efforts. When you become part of the TCS family, you will play an essential role dedicated to innovation, excellence, and crafting a brighter, greener future together. Join us and be a part of our mission to drive sustainability through technology and talent at Tata Consultancy Services, APAC today.
+
+
+
+
+Please find the job description below
+
+Job Title: Site Reliability Engineer
+
+Location: Sydney, New South Whales, Australia
+
+
+
+
+Key Responsibilities:
+
+
+
+
+Manage system uptime across cloud-native (AWS, GCP) and hybrid architectures.
+Develop Infrastructure as Code (IaC) patterns that adhere to security and engineering standards, utilizing technologies like Terraform, cloud CLI scripting, and cloud SDK programming.
+Build CI/CD pipelines for application and cloud architecture patterns, leveraging platforms such as Jenkins and cloud-native toolchains.
+Create automated tooling to deploy service requests for production changes.
+Develop comprehensive and detailed runbooks to facilitate service detection, remediation, and restoration.
+Troubleshoot and triage complex distributed architecture service maps.
+Participate in on-call rotations for high-severity application incidents and contribute to improving runbooks to reduce Mean Time To Recovery (MTTR).
+Lead availability blameless postmortems and own the action items for preventing future recurrences.
+
+
+
+
+Top Reasons to Join Our Team at TCS Australia
+
+Attractive compensation & rewards
+
+We offer a highly competitive salary package aligned with the Australian market, complemented by performance-based incentives, recognition programs, and comprehensive employee benefits. Your achievements are celebrated, and your contributions truly matter.
+
+Global exposure with local impact
+
+At TCS, you’ll work with leading Australian enterprises across diverse industries while collaborating with our global network of experts. This means access to world-class practices, transformative technologies, and the chance to shape solutions that have a real impact — locally and globally.
+
+Empowering leadership & supportive environment
+
+Our leadership team is committed to helping you succeed. We encourage initiative, reward innovation, and provide a collaborative environment where your ideas are heard and valued.
+
+Long-term career growth
+
+We believe in careers, not just jobs. With continuous learning, certification support, career mobility, and clear progression pathways, TCS empowers you to grow and evolve — whether you want to deepen your expertise, explore new domains, or take on leadership roles.
+
+Inclusive, collaborative culture
+
+Diversity, inclusion, and respect are central to who we are. At TCS Australia, you’ll join a workplace where collaboration thrives, individuality is valued, and everyone can contribute to meaningful outcomes.
+
+Continuous learning & cutting-edge innovation
+
+We invest heavily in your development, offering structured learning programs, global certifications, leadership development, and opportunities to work with emerging technologies. You’ll be part of an environment that constantly challenges and expands your capabilities.
+
+A Great Fit for the TCS Culture
+
+We’re looking for people who are:
+
+Passionate about technology and transformation
+Driven by curiosity, innovation, and continuous learning
+Excited to work in a collaborative, purpose-driven environment
+Motivated by delivering real impact for clients, communities, and society
+
+Our core values — Integrity, Excellence, Responsibility, Pioneering Spirit, and Unity — shape how we work and how we grow together.
+
+The TCS Community in Australia and Beyond
+
+Global strength: Over 600,000+ associates in 55+ countries, united by a shared purpose — to innovate and make a difference.
+Local presence: A trusted partner to Australia’s leading enterprises across financial services, government, retail, healthcare, telecom, and more.
+Social impact: Deeply committed to sustainability, digital inclusion, and community engagement initiatives in Australia and around the world.
+Empowered workplace: We foster a culture where diversity, equity, and accessibility are integral to how we operate.
+
+We don’t just imagine a better future — we help build it.
+
+About TCS
+
+Tata Consultancy Services (TCS) is a global leader in IT services, consulting, and business solutions. We have partnered with many of the world’s largest organisations to help them transform their businesses, operating models, and technology ecosystems.
+
+Learn more at www.tcs.com.
+
+Equal Opportunity Employer
+
+TCS is an equal opportunity employer. All qualified applicants will be considered without regard to race, colour, religion, gender, gender identity, sexual orientation, national origin, disability, veteran status, or any other characteristic protected by applicable law.
+
+Note: Compensation details are accurate as of this posting and may be adjusted in line with Australian laws and market conditions. Applicants may be asked to attend interviews in person or via video conference and present valid identification during the process
+
+
+
+
+Thank you for your interest in applying for this position with TCS. We will review your application and will get back to you if we are considering your interest in this opportunity.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Tata Consultancy Services by 2x
+
+See who you know
+
+Get notified about new Site Reliability Engineer jobs in Greater Sydney Area.
+
+Sign in to create job alert
+Jobs
+Site Reliability Engineer jobs
+Site Reliability Engineer
+Similar jobs
+Site Reliability Engineer, TikTok Product
+Site Reliability Engineer, TikTok Product
+TikTok USDS Joint Venture
+Sydney, New South Wales, Australia
+2 weeks ago
+Site Reliability Engineer, Global E-Commerce - USDS
+Site Reliability Engineer, Global E-Commerce - USDS
+TikTok USDS Joint Venture
+Sydney, New South Wales, Australia
+3 weeks ago
+Site Reliability Engineer, Security Engineering
+Site Reliability Engineer, Security Engineering
+TikTok
+Sydney, New South Wales, Australia
+2 weeks ago
+Site Reliability Engineer (SRE/ DevOps) - Engineering Productivity - Sydney
+Site Reliability Engineer (SRE/ DevOps) - Engineering Productivity - Sydney
+Arista Networks
+Sydney, New South Wales, Australia
+1 month ago
+Senior Site Reliability Engineer - Infrastructure
+Senior Site Reliability Engineer - Infrastructure
+TikTok
+Sydney, New South Wales, Australia
+3 weeks ago
+Site Reliability Engineer
+Site Reliability Engineer
+HUB24 Limited
+Sydney, New South Wales, Australia
+1 day ago
+Show more jobs like this 
+People also viewed
+Engineering Manager, Site Reliability Engineering
+Engineering Manager, Site Reliability Engineering
+
+Google
+
+Sydney, New South Wales, Australia
+6 days ago
+DevOps Engineer
+DevOps Engineer
+
+CORTO
+
+Sydney, New South Wales, Australia
+2 weeks ago
+Systems Engineer
+Systems Engineer
+
+Amazon Web Services (AWS)
+
+Sydney, New South Wales, Australia
+2 weeks ago
+Systems/DevOps Engineer
+Systems/DevOps Engineer
+
+Deloitte
+
+Sydney, New South Wales, Australia
+2 days ago
+DevOps Engineer (Temporary Fixed Term Full Time Opportunity until 31/12/2027)
+DevOps Engineer (Temporary Fixed Term Full Time Opportunity until 31/12/2027)
+
+Transport for NSW
+
+Eveleigh, New South Wales, Australia
+4 days ago
+Platform Engineer
+Platform Engineer
+
+CareCone Group
+
+Sydney, New South Wales, Australia
+1 day ago
+Production Operations Engineer (Trading Systems / SRE / Application Support)
+Production Operations Engineer (Trading Systems / SRE / Application Support)
+
+Optiver
+
+Sydney, New South Wales, Australia
+1 day ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+Firesoft People
+
+Sydney, New South Wales, Australia
+2 weeks ago
+SRE Engineer with GRC
+SRE Engineer with GRC
+
+XPT Software
+
+Sydney, New South Wales, Australia
+3 weeks ago
+Lead Platform Operations Engineer
+Lead Platform Operations Engineer
+
+Cognizant
+
+Greater Sydney Area
+2 weeks ago
+Similar Searches
+Site Reliability Engineer jobs
+3,532 open jobs
+Engineer jobs
+12,824 open jobs
+Technology Manager jobs
+2,364 open jobs
+Reliability Engineer jobs
+1,153 open jobs
+Senior Engineer jobs
+4,991 open jobs
+Platform Engineer jobs
+1,859 open jobs
+Linux System Engineer jobs
+636 open jobs
+Senior Infrastructure Engineer jobs
+925 open jobs
+Build And Release Engineer jobs
+578 open jobs
+Linux Engineer jobs
+790 open jobs
+Production Support Engineer jobs
+4,338 open jobs
+Linux System Administrator jobs
+201 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Tata Consultancy Services
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

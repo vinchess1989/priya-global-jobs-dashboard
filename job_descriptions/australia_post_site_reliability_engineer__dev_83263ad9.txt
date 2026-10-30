@@ -1,0 +1,276 @@
+Title: Site Reliability Engineer (DevOps - Ingress)
+Company: Australia Post
+Location: Cremorne, Victoria, Australia
+URL: https://au.linkedin.com/jobs/view/site-reliability-engineer-devops-ingress-at-australia-post-4482191135
+Posted: 2026-10-24
+Deadline: Open until filled
+Reason: The role aligns with the candidate's extensive DevOps and CI/CD experience, is located in an eligible country, and does not violate any hard rejection criteria.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Site Reliability Engineer (DevOps - Ingress)
+Australia Post  Cremorne, Victoria, Australia
+1 week ago  62 applicants
+  
+
+See who Australia Post has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Working in tech at Australia Post is where innovation and problem solving meets great people and agile working. You’ll work with bright people on building and maintaining products and services that you and every other Australian get to benefit from every day. Whether you’re working from our modern office or your one at home, you’ll be part of a culture of collaboration and connection, making long-lasting impact right across Australia.     
+
+
+
+
+About the opportunity 
+
+As our Site Reliability Engineer (DevOps - Ingress), you’ll work on some of Australia Post’s most important digital services, helping keep the platforms connecting customers to us every day secure, resilient, and performing at their best. You’ll be hands-on with our Public/Edge Ingress platforms, building, running and continuously improving the critical cloud infrastructure that connects our customer-facing applications to the outside world. 
+
+
+
+
+This is an opportunity to work across cloud, automation, DevOps, and edge security, solving complex problems, strengthening our platforms, and working alongside experienced engineers across Security, Architecture and Delivery. 
+
+You’ll also  
+
+Engineer, operate and continuously improve our Public/Edge Ingress platforms across AWS, Azure, and GCP, developing secure, resilient, and reusable patterns for customer-facing services. 
+Build and maintain Infrastructure as Code using Terraform and drive automation through CI/CD and standardised engineering practices. 
+Manage ingress and edge security services including CDN, WAF, Bot Protection, DDoS protection, API gateways, DNS, TLS certificates, and traffic management. 
+Partner with Security, Architecture and Delivery teams to implement ingress security controls, platform guardrails, and edge protection strategies. 
+Troubleshoot complex platform issues and contribute to incident response, problem management, and continuous service improvement. 
+
+
+
+
+About you  
+
+You’re a hands-on SRE or DevOps engineer who enjoys understanding how things work, solving complex problems and continuously improving the platforms you support. You’re comfortable working across changing priorities and complex environments and bring the curiosity and technical ownership needed to diagnose issues and find a way forward when the answer isn’t immediately obvious. 
+
+
+
+
+You’ll also be someone who works well across engineering and delivery teams, builds strong relationships, and keeps learning as technologies and platforms evolve. 
+
+You’ll also need  
+
+Solid SRE, DevOps or platform engineering experience supporting business-critical ingress platforms, ideally within high-traffic or high-transaction environments. 
+Strong hybrid-cloud experience and practical knowledge of ingress technologies including CDN, WAF, load balancers, DNS, API gateways, Bot Protection and DDoS protection. 
+Hands-on experience with Terraform, Infrastructure as Code, automation, and CI/CD, including tools such as GitLab, Bamboo or equivalent platforms.
+Experience with monitoring, logging, and observability platforms such as New Relic, Datadog, Splunk, Sentinel or equivalent. 
+Excellent troubleshooting skills and the ability to support incidents across ingress, networking, edge security, and cloud platforms. 
+Scripting skills in Python or Node.js, cloud certifications and a relevant IT or software engineering degree are desirable. 
+
+
+
+
+What else is in it for you? 
+
+Work across a broad technology landscape spanning cloud, DevOps, automation, ingress, networking, observability, and edge security, with plenty of opportunity to keep building your technical capability.
+Join a supportive engineering environment with experienced SRE capability around you and exposure to challenging, continuously evolving technology
+Take real ownership of production platforms, from building and automating them through to improving resilience and responding to incidents. 
+Bring your whole self to work every day and be met by a welcoming bunch of people who respect and support you 
+Flexible and hybrid working arrangements, like the opportunity to work from home two days per week 
+Opportunities for growth and development through formal programs or mentorship 
+Exclusive team member discounts and offers for more cash in your pocket, evolving policies for flexible working, leave types and access to health and wellbeing resources 
+
+ 
+
+All walks, one route 
+
+It takes a lot of us to deliver for every Australian – and it’s important to us that our people behind the parcels reflect the people receiving them. We come from all walks. Different backgrounds, different ages, different genders, different sexualities and different abilities, but we all believe in the same purpose.   
+
+We welcome people all ages, genders and backgrounds – including Aboriginal and Torres Strait Islander peoples, people with disability, LGBTQIA+ communities, and refugees. We’re a Disability Confident Recruiter, committed to making our hiring process and workplace inclusive and barrier-free. We’re also working hard to remove bias and build a gender-equitable experience for everyone who joins us. If you’ve got questions about accessibility, reach out to our Diversity & Inclusion team at inclusivecareers@auspost.com.au or on 03 8737 9415.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Transportation, Logistics, Supply Chain and Storage
+  
+
+Referrals increase your chances of interviewing at Australia Post by 2x
+
+See who you know
+
+Get notified about new Site Reliability Engineer jobs in Cremorne, Victoria, Australia.
+
+Sign in to create job alert
+Jobs
+Platform Engineer jobs
+Site Reliability Engineer (DevOps - Ingress)
+Similar jobs
+Site Reliability Engineer
+Site Reliability Engineer
+NEP Group, Inc.
+Southbank, Victoria, Australia
+3 days ago
+Site Reliability Engineer
+Site Reliability Engineer
+NEP Europe
+Southbank, Victoria, Australia
+3 days ago
+Site Reliability Engineer
+Site Reliability Engineer
+Halcyon Knights
+Melbourne, Victoria, Australia
+3 weeks ago
+Engineer - SRE
+Engineer - SRE
+Xero
+Melbourne, Victoria, Australia
+1 day ago
+DevOps Engineer, myprosperity
+DevOps Engineer, myprosperity
+HUB24 Limited
+Melbourne, Victoria, Australia
+1 week ago
+Systems/DevOps Engineer
+Systems/DevOps Engineer
+Deloitte
+Melbourne, Victoria, Australia
+2 days ago
+Show more jobs like this 
+People also viewed
+Cloud Engineer
+Cloud Engineer
+
+iterate
+
+Melbourne, Victoria, Australia
+A$130,000 - A$160,000
+1 week ago
+Forward Deployed Engineer
+Forward Deployed Engineer
+
+Future Secure AI
+
+Melbourne, Victoria, Australia
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+APM
+
+Melbourne, Victoria, Australia
+1 week ago
+Software Engineer, DevOps
+Software Engineer, DevOps
+
+H2O.ai
+
+Melbourne, Victoria, Australia
+1 day ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+Bell Financial Group (ASX:BFG)
+
+Melbourne, Victoria, Australia
+2 weeks ago
+Platform Engineer
+Platform Engineer
+
+Open Universities Australia
+
+Docklands, Victoria, Australia
+13 hours ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+Blinq
+
+Melbourne, Victoria, Australia
+1 week ago
+Cloud Services Engineer III
+Cloud Services Engineer III
+
+Pearson
+
+Melbourne, Victoria, Australia
+2 weeks ago
+Cloud Engineer
+Cloud Engineer
+
+Macquarie Group
+
+Melbourne, Victoria, Australia
+2 weeks ago
+DevOps Engineer - Platform & Product Engineering Consultant
+DevOps Engineer - Platform & Product Engineering Consultant
+
+Accenture Australia
+
+Melbourne, Victoria, Australia
+2 weeks ago
+Similar Searches
+Platform Engineer jobs
+1,859 open jobs
+Linux System Engineer jobs
+636 open jobs
+Senior Infrastructure Engineer jobs
+925 open jobs
+Build And Release Engineer jobs
+578 open jobs
+Linux Engineer jobs
+790 open jobs
+Production Support Engineer jobs
+4,338 open jobs
+Linux System Administrator jobs
+201 open jobs
+Infrastructure Engineer jobs
+2,368 open jobs
+Production Support Manager jobs
+168 open jobs
+Reliability Engineer jobs
+1,153 open jobs
+Linux Administrator jobs
+206 open jobs
+Application Support Engineer jobs
+361 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Australia Post
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

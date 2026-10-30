@@ -1,0 +1,457 @@
+Title: Senior Platform Engineer
+Company: Blinq
+Location: Melbourne, Victoria, Australia
+URL: https://au.linkedin.com/jobs/view/senior-platform-engineer-at-blinq-4463941796
+Posted: 2026-10-01
+Deadline: Open until filled
+Reason: The role is a strong match for her DevOps and CI/CD expertise, and it is located in Australia, which is one of her target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Platform Engineer
+Blinq  Melbourne, Victoria, Australia
+1 month ago   Be among the first 25 applicants
+  
+
+See who Blinq has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+About Blinq
+
+
+Blinq is the AI contacts app for people who meet people.
+
+
+
+
+We're on a mission to unlock the world's relationship potential. So much of what's possible in the world is locked inside relationships that never quite happen. A missed conversation, a forgotten follow-up, the right person at the wrong time. We're building so those chances aren't left to chance.
+
+
+
+
+What started as the world's #1 digital business card is now used by 4 million professionals and at 93% of the Fortune 500. We've raised $45m+ from Blackbird, Square Peg, HubSpot Ventures, and Touring Capital.
+
+
+
+
+Learn more: https://blinq.me/
+
+
+
+
+
+
+
+
+Why join Blinq
+
+
+
+
+You want to be part of an AI-native company at an inflection point. Big enough to have real momentum, customers, and resources. Small enough that the work you do shapes where it goes from here
+
+
+You want to do the best work of your life alongside people doing the same. We hold an unusually high bar for talent and we hire people who treat that as a feature, not a threat
+
+
+You want to build something globally ambitious from a part of the world that doesn't always think this big. Our team is in Sydney, Melbourne, San Francisco, and New York, and we're betting that the next category-defining company in our space comes from Australia
+
+
+You want to work in person, on purpose. Three days a week in the office, two wherever works for you. Creative energy and momentum compound face to face
+
+
+
+
+
+
+
+How we work
+
+
+We've all joined Blinq to find out how good we really are. That shows up in how we work:
+
+
+
+
+
+We are professional optimists. We think what's possible first and let constraints come second
+
+
+We hold an insanely high talent bar. A players only
+
+
+We are obsessed with craft. The details are the thing, not the polish on top of it
+
+
+We are truth obsessed. We say what's true even when it's uncomfortable, and we have the courage to pursue contrarian but correct bets
+
+
+We do more with less. Calculated frugality and beautiful simplicity guide how we build
+
+
+We are all here to genuinely do our life's best work
+
+
+
+
+
+
+
+
+
+
+Engineering at Blinq
+
+
+Our engineering team is the engine behind Blinq’s success. We’re building tools that make sharing who you are instant and human. Every line of code, every release, and every experiment is focused on driving meaningful impact. If you thrive on solving complex, high-impact problems with a tight-knit team, you’ll feel right at home here.
+
+
+
+
+
+Role & Impact
+
+
+As a Senior Platform Engineer at Blinq, your customers are our engineers. You'll own the systems, pipelines and tooling that sit between an idea and a shipped feature, and make that path faster, safer and more enjoyable across every stack we build on: iOS, Android, and our TypeScript web and backend services on Google Cloud.
+
+
+
+
+The role blends two things. Part of your time sits alongside our SRE team: making it easy for every engineer to instrument their own code and understand how it behaves in production, through the patterns, tooling and AI assistance that make good observability the default rather than a specialist skill. The larger part is developer experience: shortening CI/CD, building internal tools, paving the roads engineers use every day, and hardening how we detect and manage vulnerabilities. Security runs through all of it: the platform you build is how secure defaults reach every engineer, so the easy path and the safe path should be the same path.
+
+
+
+
+Underneath all of it is AI. Blinq is an AI-native company and we expect the same of our engineering practice. You'll use AI tools heavily in your own work, and you'll be the person who works out where AI belongs in the developer workflow, builds the environments and guardrails that let coding agents do useful work, and brings the rest of the team along. Our ambition is a loop where writing, testing, building and distributing software can increasingly run end to end with AI in it, and the platform you build is what makes that possible.
+
+
+
+
+This is not a back-office role. You'll spend a lot of your week with other engineers and with QA: pairing on their problems, sitting in their retros, watching where they lose time, and shipping fixes that they notice. The measure of success is whether engineers at Blinq say the platform made them faster.
+
+
+What You'll Do
+Observability and reliability
+
+
+
+Work with our SRE team to make observability self-serve: build the patterns, libraries, templates and AI-assisted workflows that let engineers instrument their own services and apps well, across RUM, APM, metrics and logging in Datadog
+
+
+Turn what we learn from incidents and operational health into platform improvements that engineers benefit from without having to think about it
+
+
+
+
+Developer experience
+
+
+
+Make CI/CD meaningfully faster and more reliable across web, backend, iOS and Android: caching, parallelism, flaky-test detection, and release automation for the mobile stores
+
+
+Make it fast and easy to spin up, test and share isolated environments for work in progress, across web, backend and mobile, for people and for automation
+
+
+Partner with QA to make automated testing a natural part of how engineers work, with fast and trustworthy signal for engineers and agents alike
+
+
+Own the inner loop: local and cloud development environments, seed data, scaffolding and templates, so a new engineer or a coding agent can be productive on day one
+
+
+Build internal tools that remove toil, and retire ones that no longer earn their keep
+
+
+Pair with product engineers on the problems that slow them down, and treat their feedback as your roadmap
+
+
+
+
+AI enablement
+
+
+
+Set the standard for how engineers at Blinq use AI tools, from your own workflows to the environments, context and guardrails that make agents effective and safe in our codebase
+
+
+Identify where AI genuinely improves developer efficiency, roll it out with the team, and be equally clear about where it doesn't
+
+
+
+
+Infrastructure and security
+
+
+
+Evolve our Google Cloud infrastructure through infrastructure as code (IaC), with an eye on cost, access hygiene and simplicity
+
+
+Streamline vulnerability detection and management across dependencies, images and infrastructure, so fixing security issues is fast and low-friction rather than a quarterly scramble
+
+
+Bring a security-first lens to everything you ship, from CI credentials and ephemeral environments to the access agents have in our codebase, and help other engineers do the same
+
+
+
+
+What You'll Bring
+
+
+
+Around 5 or more years in platform, developer productivity, DevOps, SRE or infrastructure roles, with a track record of making other engineers faster
+
+
+Concrete examples of CI/CD pipelines you've made significantly faster or more reliable, ideally including mobile (iOS and/or Android) builds and releases
+
+
+Experience with ephemeral environments and end-to-end test automation, and a view on how the two fit together. Mobile UI testing frameworks are a plus
+
+
+Good working knowledge of observability (RUM, APM, metrics, logs) and a track record of helping other engineers instrument their code well. Datadog experience is an advantage
+
+
+Comfort working in a TypeScript codebase, and the curiosity to move across stacks you haven't owned before
+
+
+Hands-on experience with a major cloud (GCP preferred) and infrastructure as code
+
+
+A security mindset that shows up in your work by default: you think about threat surface, secrets and access when you design a pipeline or an environment, not after, and you're familiar with vulnerability management and secure-by-default practices
+
+
+AI fluency. You use tools like Claude Code, Cursor or Copilot daily, you've built or improved workflows with them, and you have opinions about what makes an AI agent productive in a real codebase
+
+
+A genuinely collaborative working style. You're energised by pairing, you go looking for feedback, and you'd rather sit next to an engineer than ticket them. You communicate clearly with people across engineering, QA, product and security
+
+
+Strong ownership and judgement, with a bias toward simple solutions and finishing what you start
+
+
+
+
+
+
+
+
+
+
+What you get
+
+
+
+Equity and ownership. We're building something massive and we want you to share in the upside. Genuinely
+
+
+Competitive salary and a real growth path. As Blinq grows, your role and compensation grow with it
+
+
+Time to switch off. 20 days of annual leave plus a flexible policy for everything life throws at you beyond that
+
+
+Good times, often. Team lunches, padel, games nights, Barry's sessions. We like hanging out and it shows
+
+
+Regular catered lunch at some of our offices, plus an always-stocked snack bar
+
+
+
+
+
+
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Blinq by 2x
+
+See who you know
+
+Get notified about new Platform Engineer jobs in Melbourne, Victoria, Australia.
+
+Sign in to create job alert
+Jobs
+Site Reliability Engineer jobs
+Senior Platform Engineer
+Similar jobs
+Senior Engineer - Platform
+Senior Engineer - Platform
+Xero
+Melbourne, Victoria, Australia
+4 days ago
+Platform Engineer
+Platform Engineer
+Flybuys
+Melbourne, Victoria, Australia
+1 week ago
+Senior Engineer - Enterprise Platforms
+Senior Engineer - Enterprise Platforms
+Xero
+Melbourne, Victoria, Australia
+1 week ago
+Staff Infrastructure Platform Engineer
+Staff Infrastructure Platform Engineer
+GRIDSIGHT
+Melbourne, Victoria, Australia
+2 weeks ago
+Principal Engineer, Infrastructure & Platforms
+Principal Engineer, Infrastructure & Platforms
+RMS
+Melbourne, Victoria, Australia
+3 weeks ago
+Platform Engineer
+Platform Engineer
+Kaluza
+Melbourne, Victoria, Australia
+1 week ago
+Show more jobs like this 
+People also viewed
+Engineering Lead
+Engineering Lead
+
+Blinq
+
+Melbourne, Victoria, Australia
+1 week ago
+Site Reliability Engineering and Platform Lead
+Site Reliability Engineering and Platform Lead
+
+Leidos
+
+Melbourne, Victoria, Australia
+1 week ago
+Staff Production Engineer
+Staff Production Engineer
+
+Canva
+
+Melbourne, Victoria, Australia
+1 week ago
+Platform Reliability Engineer
+Platform Reliability Engineer
+
+Firmus Technologies
+
+Melbourne, Victoria, Australia
+1 day ago
+Senior Software Engineer, Platforms & Cloud
+Senior Software Engineer, Platforms & Cloud
+
+dentsu
+
+Melbourne, Victoria, Australia
+16 hours ago
+Site Reliability Engineering and Platform Lead
+Site Reliability Engineering and Platform Lead
+
+Leidos Australia
+
+Scoresby, Victoria, Australia
+1 week ago
+Forward Deployed Engineer
+Forward Deployed Engineer
+
+Future Secure AI
+
+Melbourne, Victoria, Australia
+1 week ago
+Site Reliability Engineering and Platform Lead
+Site Reliability Engineering and Platform Lead
+
+Leidos Australia
+
+Melbourne, Victoria, Australia
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+Tennis Australia
+
+Melbourne, Victoria, Australia
+1 month ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+NEP Group, Inc.
+
+Southbank, Victoria, Australia
+3 days ago
+Similar Searches
+Site Reliability Engineer jobs
+3,532 open jobs
+Platform Architect jobs
+1,605 open jobs
+Build And Release Engineer jobs
+578 open jobs
+Infrastructure Engineer jobs
+2,368 open jobs
+Linux Engineer jobs
+790 open jobs
+Senior Infrastructure Engineer jobs
+925 open jobs
+Virtualization Engineer jobs
+595 open jobs
+Cloud Architect jobs
+1,606 open jobs
+Pipeline Engineer jobs
+1,171 open jobs
+Contract Database Administrator jobs
+31 open jobs
+Chief Software Engineer jobs
+736 open jobs
+Senior Reliability Engineer jobs
+122 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Blinq
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

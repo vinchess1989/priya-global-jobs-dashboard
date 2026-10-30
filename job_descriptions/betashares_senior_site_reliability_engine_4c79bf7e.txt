@@ -1,0 +1,260 @@
+Title: Senior Site Reliability Engineer
+Company: Betashares
+Location: Melbourne, Victoria, Australia
+URL: https://au.linkedin.com/jobs/view/senior-site-reliability-engineer-at-betashares-4464443679
+Posted: 2026-10-01
+Deadline: N/A
+Reason: The role aligns with the candidate's extensive experience in CI/CD, release management, and platform engineering within regulated environments, and it is located in an eligible country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Site Reliability Engineer
+Betashares  Melbourne, Victoria, Australia
+1 month ago  108 applicants
+  
+
+See who Betashares has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Direct message the job poster from Betashares
+
+Shannon Stobbs
+Shannon Stobbs
+
+We are looking for a Senior Site Reliability Engineer to help Betashares Direct build and operate reliable, scalable software while maintaining a strong focus on delivery. This is an engineering role for someone who sees reliability as a software problem and uses code, automation and sound engineering practices to improve how systems are built, deployed and operated.
+
+
+
+
+You will work closely with software engineers and other technology stakeholders to improve the reliability of our AWS-based platform, strengthen our engineering foundations and make it easier for teams to deliver changes safely and frequently. We are looking for someone comfortable balancing reliability and operational risk with the need to keep shipping and improving the product.
+
+
+
+
+Role Responsibilities
+
+Engineer and improve reliable, scalable and maintainable systems supporting Betashares Direct.
+Build software, tooling and automation that reduces manual operational work and improves engineering productivity.
+Improve the reliability, resilience and observability of applications and services running in AWS.
+Partner with software engineering teams to design systems that can be deployed, operated and evolved safely at scale.
+Improve deployment, release and operational practices to enable teams to deliver changes quickly without compromising appropriate reliability standards.
+Identify recurring reliability issues and solve their underlying causes through engineering and automation rather than manual processes.
+Contribute to incident response and post-incident improvement, turning operational learnings into lasting engineering changes.
+Help define and evolve practical reliability measures, engineering standards and operational practices.
+Provide senior technical judgement on trade-offs between reliability, system complexity, delivery speed and operational risk.
+
+
+
+
+Key skills and experience
+
+Must-haves
+
+Strong professional software engineering experience, including building, testing and shipping production software.
+Demonstrated hands-on experience in Site Reliability Engineering, Platform Engineering or Production Engineering roles.
+Strong experience designing, building and operating production systems in AWS.
+Hands-on experience with infrastructure as code, automation and modern CI/CD and deployment practices.
+Experience designing and operating observability, monitoring and alerting for distributed production systems, including using service-level measures to improve reliability.
+Strong track record applying software engineering principles to reliability and operational problems, including automating repetitive work, resolving systemic issues and balancing reliability with delivery speed.
+
+
+
+
+Nice-to-haves
+
+Experience supporting high-availability digital products.
+Experience working in financial services, fintech or another regulated technology environment.
+Experience with agentic AI engineering.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at Betashares by 2x
+
+See who you know
+
+Get notified about new Senior Site Reliability Engineer jobs in Melbourne, Victoria, Australia.
+
+Sign in to create job alert
+Jobs
+Product Engineering Manager jobs
+Senior Site Reliability Engineer
+Similar jobs
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+Bell Financial Group (ASX:BFG)
+Melbourne, Victoria, Australia
+2 weeks ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+Blinq
+Melbourne, Victoria, Australia
+1 week ago
+Senior Site Reliability Engineer, Spend
+Senior Site Reliability Engineer, Spend
+Airwallex
+Melbourne, Victoria, Australia
+1 week ago
+Staff Site Reliability Engineer
+Staff Site Reliability Engineer
+Lyrebird Health
+Melbourne, Victoria, Australia
+4 weeks ago
+Senior Platform Reliability Engineer
+Senior Platform Reliability Engineer
+Firmus Technologies
+Melbourne, Victoria, Australia
+1 month ago
+Site Reliability Engineering and Platform Lead
+Site Reliability Engineering and Platform Lead
+Leidos
+Scoresby, Victoria, Australia
+1 week ago
+Show more jobs like this 
+People also viewed
+Platform DevOps Engineer
+Platform DevOps Engineer
+
+Future Secure AI
+
+Melbourne, Victoria, Australia
+1 day ago
+Head of SRE Engineering
+Head of SRE Engineering
+
+Civica
+
+Melbourne, Victoria, Australia
+3 months ago
+Senior Engineer - Platform
+Senior Engineer - Platform
+
+Xero
+
+Melbourne, Victoria, Australia
+4 days ago
+Senior Cloud / DevOps Engineer
+Senior Cloud / DevOps Engineer
+
+Eightcap
+
+Melbourne, Victoria, Australia
+1 month ago
+DevOps Engineer
+DevOps Engineer
+
+Tennis Australia
+
+Melbourne, Victoria, Australia
+1 month ago
+Senior AI Infrastructure Engineer
+Senior AI Infrastructure Engineer
+
+Heidi
+
+Melbourne, Victoria, Australia
+3 days ago
+Devops Consultant
+Devops Consultant
+
+Infosys
+
+Greater Melbourne Area
+4 days ago
+Lead Platform Engineer
+Lead Platform Engineer
+
+Fractal
+
+Melbourne, Victoria, Australia
+6 days ago
+Forward Deployed Engineer
+Forward Deployed Engineer
+
+Future Secure AI
+
+Melbourne, Victoria, Australia
+1 week ago
+Support Engineer - Platform Engineering
+Support Engineer - Platform Engineering
+
+Beyond Sports
+
+Melbourne, Victoria, Australia
+4 weeks ago
+Similar Searches
+Product Engineering Manager jobs
+443 open jobs
+Senior Investment Manager jobs
+180 open jobs
+Risk Advisor jobs
+1,324 open jobs
+Technical Business Analyst jobs
+1,625 open jobs
+Freelance Event Manager jobs
+40 open jobs
+Fund Accounting Manager jobs
+69 open jobs
+Commodity Trader jobs
+32 open jobs
+Risk Compliance Manager jobs
+483 open jobs
+Fund Manager jobs
+374 open jobs
+Senior Fund Accountant jobs
+238 open jobs
+Equity Analyst jobs
+195 open jobs
+Integration Architect jobs
+841 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Betashares
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
