@@ -1,0 +1,269 @@
+Title: Senior DevOps Engineer
+Company: Ambition
+Location: Singapore, Singapore
+URL: https://sg.linkedin.com/jobs/view/senior-devops-engineer-at-ambition-4483418542
+Posted: 2026-10-31
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in CI/CD, release pipelines, and regulated environments, and it is located in a target country (Singapore) with no explicit visa restrictions mentioned.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer
+Ambition  Singapore, Singapore
+17 hours ago  37 applicants
+  
+
+See who Ambition has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Ambition provided pay range
+
+This range is provided by Ambition. Your actual pay will be based on your skills and experience — talk with your recruiter to learn more.
+
+Base pay range
+SGD 7,000.00/mo - SGD 8,500.00/mo
+
+Direct message the job poster from Ambition
+
+Pooja Yadav
+Pooja Yadav
+
+Role Overview
+
+We are looking for a Senior DevOps Engineer to design, build, and operate scalable, secure, and highly available infrastructure supporting. You will work closely with application, security, and operations teams to enable CI/CD automation, improve system reliability, and ensure production stability in a regulated FinTech environment.
+
+This role is ideal for an experienced DevOps professional who enjoys owning platforms end‑to‑end and working on systems where availability, security, and performance are critical.
+
+
+
+
+Key Responsibilities
+
+Platform & Infrastructure
+
+Design, implement, and manage highly available and secure cloud / hybrid infrastructure supporting payment systems.
+Maintain and optimize Linux‑based production environments for mission‑critical applications.
+Implement infrastructure as code (IaC) using tools such as Terraform or CloudFormation.
+
+CI/CD & Automation
+
+Build and maintain CI/CD pipelines for automated build, test, and deployment.
+Drive automation across provisioning, deployment, monitoring, and incident response.
+Improve deployment reliability with blue‑green, canary, or rolling deployment strategies.
+
+Cloud, Containers & Orchestration
+
+Operate and enhance container platforms (Docker, Kubernetes / OpenShift / EKS).
+Manage cloud services (AWS / Azure / GCP preferred) with focus on cost, scalability, and security.
+Support microservices‑based architectures.
+
+Reliability, Monitoring & Incident Management
+
+Implement robust monitoring, logging, and alerting (e.g. Prometheus, Grafana, ELK, CloudWatch).
+Lead and participate in production incident troubleshooting, root cause analysis, and post‑mortems.
+Continuously improve system reliability, performance, and resilience.
+
+Security & Compliance
+
+Embed security best practices into DevOps pipelines (DevSecOps).
+Support compliance requirements relevant to payments (e.g. MAS, PCI‑DSS where applicable).
+Work closely with security teams to handle vulnerabilities and audits.
+
+Collaboration & Leadership
+
+Mentor junior DevOps engineers and promote DevOps best practices.
+Collaborate with developers, SREs, QA, and product teams.
+Contribute to architecture discussions and technology roadmap planning.
+
+
+
+
+Requirements
+
+Must Have
+
+6–10+ years of experience in DevOps, SRE, or infrastructure engineering
+Strong hands‑on experience with:
+Linux systems administration
+Cloud platforms (AWS preferred)
+CI/CD tools (GitLab CI, Jenkins, GitHub Actions, etc.)
+Containers (Docker) and orchestration (Kubernetes)
+Infrastructure as Code (Terraform / CloudFormation)
+Experience supporting high‑availability, production‑critical systems
+Strong scripting skills (Bash, Python, or similar)
+Solid understanding of networking, security, and system performance
+
+
+
+
+
+
+
+Please share your updated resume to pooja.yadav@ambition.com.sg
+
+
+
+
+Show more 
+Seniority level
+Associate
+Employment type
+Full-time
+Industries
+Insurance, Banking, and Financial Services
+  
+
+Referrals increase your chances of interviewing at Ambition by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Singapore, Singapore.
+
+Sign in to create job alert
+Similar jobs
+Senior Devops Engineer
+Senior Devops Engineer
+Grab
+Singapore, Singapore
+2 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+0G
+Singapore, Singapore
+2 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Singtel
+Singapore, Singapore
+2 days ago
+Senior DevOps Engineer (GATD)
+Senior DevOps Engineer (GATD)
+Rakuten Asia Pte Ltd
+Singapore
+6 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+StarHub
+Singapore, Singapore
+13 hours ago
+Cloud Senior DevOps Engineer
+Cloud Senior DevOps Engineer
+Bitdeer (NASDAQ: BTDR)
+Singapore
+1 week ago
+Show more jobs like this 
+People also viewed
+DevOps Lead
+DevOps Lead
+
+Merquri
+
+Singapore, Singapore
+1 week ago
+Senior / Lead Site Reliability Engineer | SRE | DevOps
+Senior / Lead Site Reliability Engineer | SRE | DevOps
+
+Reolink
+
+Singapore
+2 weeks ago
+Senior Cloud Engineer
+Senior Cloud Engineer
+
+Bond Financial Group
+
+Singapore, Singapore
+3 weeks ago
+DevOps Engineer (AVP)
+DevOps Engineer (AVP)
+
+OCBC
+
+Singapore, Singapore
+3 weeks ago
+Senior Engineer, IT System (DevOps)
+Senior Engineer, IT System (DevOps)
+
+The Univac Group
+
+Woodlands, North Region, Singapore
+2 weeks ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+
+Venti
+
+Singapore, Singapore
+1 month ago
+DevOps Engineer
+DevOps Engineer
+
+stakefish
+
+Singapore
+$130,000 - $180,000
+3 weeks ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+Razer
+
+Singapore
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+Openhill Global
+
+Singapore, Singapore
+2 months ago
+Senior Cloud Engineer
+Senior Cloud Engineer
+
+Singtel
+
+Singapore, Singapore
+17 hours ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Ambition
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
