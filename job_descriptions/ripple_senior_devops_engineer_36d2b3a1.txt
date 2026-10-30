@@ -1,0 +1,273 @@
+Title: Senior DevOps Engineer
+Company: Ripple
+Location: London, England, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/senior-devops-engineer-at-ripple-4484865042
+Posted: 2026-10-31
+Deadline: N/A
+Reason: The role is a Senior DevOps Engineer position located in London, UK, perfectly matching her extensive background in CI/CD pipelines, release automation, and cloud infrastructure.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer
+Ripple  London, England, United Kingdom
+9 hours ago   Be among the first 25 applicants
+  
+
+See who Ripple has hired for this role
+
+Apply 
+Save
+
+At Ripple, we’re building a world where value moves like information does today. It’s big, it’s bold, and we’re already doing it. Through our crypto solutions for financial institutions, businesses, governments and developers, we are improving the global financial system and creating greater economic fairness and opportunity for more people, in more places around the world. And we get to do the best work of our career and grow our skills surrounded by colleagues who have our backs. 
+
+If you’re ready to see your impact and unlock incredible career growth opportunities, join us, and build real world value.
+
+THE WORK:
+
+Developer Operations (DevOps) at Ripple manages communication, collaboration, and integration between Development and Operations teams. They ensure infrastructures, tools, and processes are streamlined and effective for automated product delivery.
+
+The Senior Software Engineer, DevOps will contribute to the discovery, development, and implementation of solutions to improve infrastructure and release pipelines. These solutions will include developer infrastructure, production infrastructure layout and maintenance, capacity and load testing, CI/CD infrastructure, and release process automation. You will push the boundaries with new tools and technologies and use a data-driven approach for achieving desired results. You will play a critical role helping to advance Ripple's development and production infrastructure, improving our DevOps process including deployment, monitoring, instrumentation and overall infrastructure management.
+
+WHAT YOU’LL DO:
+
+Develop, deploy, and maintain Ripple’s multi-region, multi-provider service platforms
+Supply build and development of tools for automation, monitoring, and instrumentation to reduce operational friction and increase engineering efficiency
+Work with wider engineering teams on implementation, adoption, and continuous improvements
+Build and automate new and existing platform and application lifecycle services, using data to converge on declared states with minimal human interaction
+Collaborate with product engineering to ensure code is production-ready
+Participate in the adoption of DevOps-first principles within the organization
+
+WHAT YOU'LL BRING: 
+
+6+ years of experience in DevOps, Platform Engineering, or Infrastructure Engineering.
+Extensive hands-on experience managing cloud infrastructure, deployments, and large-scale, multi-region distributed systems, preferably on Azure and AWS
+Strong proficiency in Kubernetes and experience managing container orchestration platforms and runtimes, including Docker and OCI.
+Hands-on experience with Infrastructure as Code (IaC) tools such as Terraform , Azure Bicep and AWS CloudFormation.
+Strong understanding of platform engineering fundamentals, including automation, reliability, scalability, high availability, and operational excellence.
+Experience designing and maintaining CI/CD pipelines, including automated environment provisioning, regression testing, and containerized build and deployment workflows.
+Experience managing artifact repositories and storage systems for build dependencies and pipeline artifacts.
+Strong knowledge of Linux operating systems, networking fundamentals, and scripting languages such as Bash and Python.
+Experience operating, administering, and troubleshooting production infrastructure, with a focus on performance, security, and reliability.
+Experience working in Agile development environments and collaborating with cross-functional engineering teams.
+Strong communication and collaboration skills, with a team-oriented mindset.
+
+ 
+
+WHO WE ARE:
+
+Do Your Best Work
+
+The opportunity to build in a fast-paced start-up environment with experienced industry leaders
+A learning environment where you can dive deep into the latest technologies and make an impact.  A professional development budget to support other modes of learning.
+Thrive in an environment where no matter what race, ethnicity, gender, origin, or culture they identify with, every employee is a respected, valued, and empowered part of the team.
+In-office collaboration for moments that matter is important to our culture, and we give managers and teams the flexibility to decide which 10+ days a month they come in. 
+Bi-weekly all-company meeting - business updates and ask me anything style discussion with our Leadership Team
+We come together for moments that matter which include team offsites, team bonding activities, happy hours and more!
+
+Take Control of Your Finances
+
+Competitive salary, bonuses, and equity
+Competitive benefits that cover physical and mental healthcare, retirement, family forming, and family support
+Employee giving match
+Mobile phone stipend
+
+Take Care of Yourself
+
+R&R days so you can rest and recharge
+Generous wellness reimbursement and weekly onsite & virtual programming
+Generous vacation policy - work with your manager to take time off when you need it
+Industry-leading parental leave policies. Family planning benefits.
+Catered lunches, fully-stocked kitchens with premium snacks/beverages, and plenty of fun events
+
+Benefits listed above are for full-time employees. 
+
+Ripple is an Equal Opportunity Employer. We’re committed to building a diverse and inclusive team. We do not discriminate against qualified employees or applicants because of race, color, religion, gender identity, sex, sexual identity, pregnancy, national origin, ancestry, citizenship, age, marital status, physical disability, mental disability, medical condition, military status, or any other characteristic protected by local law or ordinance.
+Please find our California, UK/EU, Singapore, DIFC, ADGM, Australia, and Switzerland  Applicant Privacy Notice for reference.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Technology, Information and Internet
+  
+
+Referrals increase your chances of interviewing at Ripple by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in London, England, United Kingdom.
+
+Sign in to create job alert
+Jobs
+Senior Global Marketing Manager jobs
+Senior DevOps Engineer
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+Prima
+London, England, United Kingdom
+7 hours ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+OAG
+Luton, England, United Kingdom
+2 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+LSEG
+City Of London, England, United Kingdom
+1 week ago
+DevOps Engineer – Home Office
+DevOps Engineer – Home Office
+BAE Systems
+London, England, United Kingdom
+2 weeks ago
+Senior Platform Engineer
+Senior Platform Engineer
+Lyst
+London, England, United Kingdom
+2 months ago
+DevOps Engineers
+DevOps Engineers
+CGI
+London, England, United Kingdom
+1 month ago
+Show more jobs like this 
+People also viewed
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Client Server
+
+Bracknell, England, United Kingdom
+£85,000 - £95,000
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Kharon
+
+London, England, United Kingdom
+£90,000 - £105,000
+3 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Graphnet Health
+
+Milton Keynes, England, United Kingdom
+3 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Kybera
+
+London Area, United Kingdom
+2 weeks ago
+Senior Devops Engineer
+Senior Devops Engineer
+
+Olive Jar Digital
+
+Greater London, England, United Kingdom
+2 days ago
+Senior Production Engineer
+Senior Production Engineer
+
+Aykua
+
+Cambridge, England, United Kingdom
+3 days ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+Trainline
+
+London, England, United Kingdom
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Methods
+
+London, England, United Kingdom
+3 weeks ago
+DevOps Engineer - £150K
+DevOps Engineer - £150K
+
+Atarus
+
+London Area, United Kingdom
+2 days ago
+DevOps Engineer
+DevOps Engineer
+
+Jain Global
+
+London, England, United Kingdom
+1 month ago
+Similar Searches
+Senior Global Marketing Manager jobs
+757 open jobs
+Senior Benefits Manager jobs
+1,821 open jobs
+Accessories Manager jobs
+223 open jobs
+Chief Accounting Officer jobs
+4,828 open jobs
+Senior Financial Auditor jobs
+3,401 open jobs
+Academic Researcher jobs
+266 open jobs
+Principal Technical Consultant jobs
+1,932 open jobs
+Principal Infrastructure Engineer jobs
+861 open jobs
+Affiliate Marketing Specialist jobs
+846 open jobs
+University Teacher jobs
+1,972 open jobs
+Field Sales Director jobs
+574 open jobs
+Risk Control Manager jobs
+1,357 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
