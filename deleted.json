@@ -17525,5 +17525,22 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": null,
     "deletion_reason": "Deadline (2025-11-08) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Senior Developer",
+    "company": "Bank of New Zealand",
+    "location": "Wellington, Wellington, New Zealand",
+    "url": "https://nz.linkedin.com/jobs/view/senior-developer-at-bank-of-new-zealand-4478956463",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is a pure feature-development software engineering position focused on building Spring Boot services, which violates the hard rejection against pure feature-development roles.",
+    "id": "acdcee34",
+    "source": "linkedin_nz_quality_engineer",
+    "added_at": "2026-10-30T02:23:37+02:00",
+    "posted_date": "2026-10-23",
+    "deadline": "2025-11-03",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Deadline (2025-11-03) passed by more than 2 days and unreviewed"
   }
 ]

@@ -1,9 +1,9 @@
 {
   "pid": 31628,
   "started_at": "2026-10-30T01:13:26+02:00",
-  "heartbeat_at": "2026-10-30T02:22:12+02:00",
+  "heartbeat_at": "2026-10-30T02:25:14+02:00",
   "phase": "reviewing",
-  "detail": "Biomedical Engineer",
-  "last_scrape_ok_at": "2026-10-30T02:20:28+02:00",
+  "detail": "Senior System Engineer",
+  "last_scrape_ok_at": "2026-10-30T02:24:15+02:00",
   "last_error": null
 }
