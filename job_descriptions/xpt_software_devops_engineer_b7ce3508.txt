@@ -1,0 +1,107 @@
+Title: DevOps Engineer
+Company: XPT Software
+Location: Sydney, NSW, Australia
+URL: https://au.jora.com/job/DevOps-Engineer-b754932bf74849bbf7b33e03f8258b60
+Posted: 2026-10-29
+Deadline: N/A
+Reason: The role is a strong match for her DevOps and CI/CD expertise, is located in an eligible country (Australia), and does not trigger any hard rejections.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Search
+Sign in
+What
+Where
+Search jobs
+DevOps Engineer
+XPT Software
+–
+Sydney NSW
+Contract
+2d ago, from Zoho Recruit
+Apply on company site
+
+We are looking for an experienced DevOps / Platform Engineer for an immediate contract opportunity in Sydney. In this role, you will be responsible for maintaining and optimizing CI/CD pipelines, automating deployment workflows, and supporting enterprise Linux/RHEL environments and application infrastructure.
+
+
+Key Responsibilities
+
+
+
+Build, maintain, and optimize CI/CD automation pipelines using Jenkins.
+
+
+Manage containerized workloads and environments using Podman / Docker.
+
+
+Automate infrastructure provisioning and deployment using Cookbook or similar deployment automation tools.
+
+
+Administer, configure, and troubleshoot RHEL (Red Hat Enterprise Linux) servers and system services.
+
+
+Develop scripts for task automation using Python and Linux Bash Shell Scripting.
+
+
+Support backend services built on Java Spring Boot.
+
+
+Monitor system health, logs, and performance metrics using the Elastic Stack (ELK).
+
+
+Mandatory Skills & Qualifications
+
+
+
+Containerization: Podman / Docker
+
+
+Programming & Scripting: Python, Linux Bash Shell Scripting
+
+
+Frameworks: Java Spring Boot
+
+
+Operating Systems: Red Hat Enterprise Linux (RHEL)
+
+
+Monitoring & Logging: Elastic Stack (ELK)
+
+
+CI/CD: Jenkins
+
+
+Deployment Automation: Cookbook (Chef) or equivalent deployment tools
+
+
+Apply on company site
+Be careful - Don’t provide your bank or credit card details when applying for jobs. Don't transfer any money or complete suspicious online surveys. If you see something suspicious, report this job ad.
+Email to yourself or a friend
+Email job
+Discover Jora
+Browse jobs
+Browse salaries
+Find recruiter
+About
+FAQ
+Blog
+Reviews
+Browse Jobs in Australia
+Jobs in Sydney
+Jobs in Melbourne
+Jobs in Hobart
+Jobs in Brisbane
+Jobs in Perth
+Jobs in Darwin
+Jobs in Adelaide
+Connect with us
+TikTok
+Facebook
+Linkedin
+Get Jora app
+Contact us
+Privacy
+Terms & Conditions
+©2026 Job Seeker Pty Ltd
