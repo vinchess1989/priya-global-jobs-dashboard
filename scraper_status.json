@@ -1,9 +1,9 @@
 {
   "pid": 23060,
   "started_at": "2026-10-31T01:13:51+02:00",
-  "heartbeat_at": "2026-10-31T01:37:43+02:00",
+  "heartbeat_at": "2026-10-31T01:42:13+02:00",
   "phase": "reviewing",
-  "detail": "Senior Platform Engineer",
-  "last_scrape_ok_at": "2026-10-31T01:36:29+02:00",
+  "detail": "DevSec Ops Application Engineering Manager",
+  "last_scrape_ok_at": "2026-10-31T01:40:29+02:00",
   "last_error": null
 }

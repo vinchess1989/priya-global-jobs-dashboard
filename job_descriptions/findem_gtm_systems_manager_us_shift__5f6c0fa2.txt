@@ -1,0 +1,273 @@
+Title: GTM Systems Manager(US Shift)
+Company: Findem
+Location: Bengaluru, Karnataka, India
+URL: https://in.linkedin.com/jobs/view/gtm-systems-manager-us-shift-at-findem-4485381822
+Posted: 2026-10-31
+Deadline: Open until filled
+Reason: The role aligns with the candidate's Salesforce Administrator and App Builder certifications and experience in systems management, and it is located in India, which is a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+GTM Systems Manager(US Shift)
+Findem  Bengaluru, Karnataka, India
+5 hours ago   Be among the first 25 applicants
+  
+
+See who Findem has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+What is Findem:
+
+Findem is the only talent data platform that combines 3D data with AI. It automates and consolidates top-of-funnel activities across your entire talent ecosystem, bringing together sourcing, CRM, and analytics into one place. Only 3D data connects people and company data over time - making an individual’s entire career instantly accessible in a single click, removing the guesswork, and unlocking insights about the market and your competition no one else can. Powered by 3D data, Findem’s automated workflows across the talent lifecycle are the ultimate competitive advantage. Enabling talent teams to deliver continuous pipelines of top, diverse candidates while creating better talent experiences, Findem transforms the way companies plan, hire, and manage talent. Learn more at www.findem.ai
+
+About The Role
+
+We are looking for a GTM Systems Manager to own Salesforce as Findem’s source of truth and manage our broader Go-to-Market (GTM) systems ecosystem.
+
+This is a hands-on systems and automation role for someone who enjoys working at the intersection of Salesforce, GTM operations, integrations, data, and AI. You will be responsible for maintaining and scaling our Salesforce environment while building AI-powered workflows and agents that automate key parts of the revenue lifecycle—from lead and opportunity management through quote-to-cash, renewal, and expansion.
+
+You will work closely with Sales, Marketing, Finance, and leadership teams to improve processes, strengthen data quality, and increase the productivity of our GTM organization.
+
+What You'll Do
+
+
+Serve as the primary Salesforce administrator, owning configuration, data models, objects and fields, page layouts, validation rules, Flows, permissions, profiles, and sharing.
+Maintain Salesforce as a reliable system of record, ensuring data integrity through deduplication, data hygiene, field governance, and audit controls.
+Partner with Sales and business leaders to improve prospecting, pipeline, customer lifecycle, and revenue workflows.
+Own and scale Cadence, Findem's AI-powered GTM operations platform, including integrations and data pipelines across Salesforce, HubSpot, Gong, Snowflake, and other GTM systems.
+Design, build, and deploy AI agents and automations that streamline the revenue process from lead to opportunity, quote to cash, and retention and expansion.
+Identify manual and repetitive GTM processes and transform them into automated, agent-driven workflows that improve productivity and operational efficiency.
+Monitor integrations and troubleshoot issues involving APIs, data synchronization, and data drift.
+Establish standards for AI agent reliability, data accuracy, governance, and change management as automation capabilities scale.
+Act as a strategic systems advisor and operational partner to leadership, translating business needs into scalable technical solutions.
+
+
+
+What We're Looking For
+
+
+3-5+ years of hands-on Salesforce administration experience, preferably in a B2B SaaS environment.
+Strong experience with Salesforce Sales Cloud, including configuration, Flows, reports, dashboards, security, and data management.
+Experience working with Salesforce integrations, including REST APIs, Connected Apps, OAuth, webhooks, middleware, and ETL.
+Understanding of GTM platforms such as HubSpot, Gong, Apollo, and how these systems integrate with Salesforce.
+Hands-on experience using AI tools and a strong interest in building AI-powered workflows and agents.
+Strong understanding of business processes and the ability to translate business requirements into scalable technical solutions.
+Excellent problem-solving skills and the ability to troubleshoot complex systems and integration issues.
+Strong ownership of system reliability, data accuracy, and operational excellence.
+Excellent stakeholder management, communication, and change-management skills.
+Bachelor's degree or equivalent practical experience.
+Salesforce Certified Administrator certification is required.
+
+
+
+Nice to Have
+
+
+Salesforce Advanced Administrator or Platform App Builder certification.
+Experience building with LLMs, AI agents, or automation frameworks.
+Experience with Agentforce, MCP, Zapier, Workato, n8n, Python, or JavaScript.
+Experience designing AI-driven GTM or revenue operations workflows.
+
+
+
+Why This Role?
+
+This is an opportunity to play a key role in shaping how AI and automation transform Findem's GTM organization. You'll have the opportunity to own a critical systems environment, work directly with business and leadership teams, and build intelligent automation that has a measurable impact on revenue operations and seller productivity.
+
+The role is full-time and comes with full benefits. We are globally headquartered in the San Francisco Bay Area with our India headquarters in Bengaluru.
+
+Equal Opportunity
+
+As an equal opportunity employer, we do not discriminate on the basis of race, color, religion, national origin, age, sex (including pregnancy), physical or mental disability, medical condition, genetic information, gender identity or expression, sexual orientation, marital status, protected veteran status or any other legally-protected characteristic.
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Findem by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+SAP Basis Team Lead jobs
+GTM Systems Manager(US Shift)
+Similar jobs
+Manager - GTM Applications
+Manager - GTM Applications
+Ashirvad by aliaxis
+Bangalore Urban, Karnataka, India
+1 month ago
+Manager - RevOps & GTM Engineering: 371
+Manager - RevOps & GTM Engineering: 371
+Amagi
+Bengaluru, Karnataka, India
+4 days ago
+Manager - GTM Applications
+Manager - GTM Applications
+HSBC
+Bengaluru, Karnataka, India
+1 month ago
+Manager, GTM Operations
+Manager, GTM Operations
+Quickbase
+Bengaluru, Karnataka, India
+2 weeks ago
+Hubspot CRM Manager
+Hubspot CRM Manager
+Xoxoday
+Bengaluru East, Karnataka, India
+2 weeks ago
+CRM Manager
+CRM Manager
+Siemens Healthineers
+Bengaluru, Karnataka, India
+2 weeks ago
+Show more jobs like this 
+People also viewed
+GTM AI Operations - India
+GTM AI Operations - India
+
+JumpCloud
+
+Bengaluru East, Karnataka, India
+6 days ago
+Head of Partner Operations APJ
+Head of Partner Operations APJ
+
+Okta
+
+Bengaluru, Karnataka, India
+1 week ago
+Enterprise GTM Manager
+Enterprise GTM Manager
+
+Trail
+
+Bengaluru, Karnataka, India
+4 days ago
+Global Sales Enablement Manager
+Global Sales Enablement Manager
+
+Sycurio
+
+Bangalore Urban, Karnataka, India
+2 weeks ago
+eCommerce Implementation Lead APAC
+eCommerce Implementation Lead APAC
+
+ABB
+
+Bengaluru East, Karnataka, India
+3 days ago
+Sales Enablement Manager
+Sales Enablement Manager
+
+Actylis
+
+Bengaluru, Karnataka, India
+1 month ago
+Digital Solutions Manager (Recruiting Tech & Learning Platforms)
+Digital Solutions Manager (Recruiting Tech & Learning Platforms)
+
+Okta
+
+Bengaluru, Karnataka, India
+5 hours ago
+Lead IT
+Lead IT
+
+Ashirvad by aliaxis
+
+Bangalore Urban, Karnataka, India
+3 weeks ago
+MGR I SALES OPS
+MGR I SALES OPS
+
+TE Connectivity
+
+Bengaluru, Karnataka, India
+3 weeks ago
+GTM Engineer
+GTM Engineer
+
+Plotline
+
+Bengaluru, Karnataka, India
+1 week ago
+Similar Searches
+SAP Basis Team Lead jobs
+194 open jobs
+Information System Manager jobs
+1,006 open jobs
+Computer System Manager jobs
+729 open jobs
+Financial Systems Manager jobs
+241 open jobs
+General Manager Logistics jobs
+11 open jobs
+Technology Manager jobs
+5,608 open jobs
+Unix Manager jobs
+194 open jobs
+Information Technology Manager jobs
+4,151 open jobs
+Money Market Trader jobs
+81 open jobs
+Senior System Administrator jobs
+2,752 open jobs
+Senior Software Consultant jobs
+10,494 open jobs
+Sales Process Manager jobs
+433 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Findem
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

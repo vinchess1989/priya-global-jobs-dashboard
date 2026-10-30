@@ -17899,5 +17899,22 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.5-flash-lite",
     "description_file": "job_descriptions/wells_fargo_software_engineering_senior_ma_ac4d3c4e.txt",
     "deletion_reason": "Deadline (2026-10-29) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "DEF2150 Technical Writer",
+    "company": "Compas",
+    "location": "Canberra, ACT, Australia",
+    "url": "https://au.jora.com/job/Technical-Writer-9a18b536ebc901f4c7fa01a7f712d21f",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role requires an NV2 security clearance, which is a hard rejection criterion as it necessitates citizenship or long-term residency that the candidate does not possess.",
+    "id": "7a691bec",
+    "source": "jora_au_technical_writer",
+    "added_at": "2026-10-31T01:39:33+02:00",
+    "posted_date": "2026-10-19",
+    "deadline": "2026-10-22",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-10-22) passed by more than 2 days and unreviewed"
   }
 ]
