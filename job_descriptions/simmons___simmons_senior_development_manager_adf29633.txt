@@ -1,0 +1,358 @@
+Title: Senior Development Manager
+Company: Simmons & Simmons
+Location: Bristol, England, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/senior-development-manager-at-simmons-simmons-4484845249
+Posted: 2026-10-31
+Deadline: Open until filled
+Reason: The role perfectly aligns with the candidate's extensive experience in release management, configuration management, and CI/CD pipeline oversight within a professional services environment.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Development Manager
+Simmons & Simmons  Bristol, England, United Kingdom
+11 hours ago   Be among the first 25 applicants
+  
+
+See who Simmons & Simmons has hired for this role
+
+Apply 
+Save
+The role:
+
+We are looking for a Senior Development Manager to join our IT department in Bristol or London.
+
+This key new role in the IT Applications team will help deliver enhancements to our existing application estate and any new applications introduced to the estate. The role will lead internal and external development teams and manage the end-to-end delivery of software changes from development through testing, production deployment and early lifecycle support. It oversees code development, source-code branching and integration, robust testing and controlled release cycles.
+
+Working with the Application Architect, the Senior Development Manager will ensure delivery follows the correct technical direction and remains aligned with agreed designs. The role is the primary point of coordination for development teams, the Amsterdam-based data and integrations teams, QA/testing, IT Operations and business stakeholders, ensuring high-quality, timely and reliable delivery.
+
+What will you do:
+
+Delivery Management
+
+
+Oversee the full software delivery lifecycle (SDLC), from requirements handover through development, testing, deployment, early lifecycle support and hypercare.
+Plan and manage delivery timelines with internal and external development teams, ensuring releases are delivered on schedule and within agreed scope and quality parameters.
+Coordinate activities across development, QA, DevOps and business stakeholders to remove blockers and maintain progress.
+Maintain and communicate release plans, including content, dependencies, risk assessments and deployment windows.
+
+
+
+Code Development Oversight
+
+
+Work closely with development leads and the Application Architect to ensure coding standards, best practices, architectural guidelines and agreed designs are followed.
+Monitor development progress against plans, identifying risks and issues early and driving remediation.
+Support the prioritisation of work, helping balance new features, technical debt remediation and defect fixes.
+Facilitate code reviews and ensure that changes are appropriately documented.
+
+
+
+Branching & Source Control Management
+
+
+Define, govern and oversee a clear code management and release path for all deliveries, including feature, release and hotfix branches, emergency fixes and impact assessment against planned deliverables.
+Ensure consistent use of branching, merging and tagging conventions across all development teams.
+Manage integration of code from multiple streams, ensuring conflicts are resolved and code baselines remain stable.
+Work with DevOps/engineering teams to maintain a clean and controlled repository structure.
+
+
+
+Testing & Quality Assurance
+
+
+Oversee testing activities (unit, integration, system, regression, performance and user acceptance testing) to ensure adequate coverage.
+Ensure test environments, test data and tools are in place and aligned with delivery timelines and the documented Test Strategy.
+Collaborate with QA leads to define and document the method, entry/exit criteria and production-readiness requirements for each testing phase.
+Track defects, prioritise fixes with development teams and ensure quality gates are met, leading to fully formed release packages for deployment.
+
+
+
+Deployment & Release Management
+
+
+Manage the deployment cycle, including planning, coordination and execution of fully formed release packages across development, test, staging and production environments.
+Work with DevOps/operations to define and refine CI/CD pipelines, deployment scripts and rollback procedures.
+Ensure change management processes are followed, including approvals, communication and documentation of releases.
+Monitor post-deployment behaviour, coordinating early lifecycle support, hypercare and incident resolution as required.
+
+
+
+Governance, Risk & Compliance
+
+
+Ensure adherence to internal policies, regulatory requirements and audit standards related to software changes and releases.
+Identify delivery risks (e.g. resource constraints, dependencies, environment issues) and implement mitigation plans.
+Maintain accurate records of changes, releases and associated approvals for audit and traceability purposes.
+
+
+
+Stakeholder Management & Communication
+
+
+Act as the key delivery contact for product owners, business sponsors and other stakeholders.
+Provide clear and regular reporting on delivery status, risks, issues and dependencies.
+Facilitate cross functional meetings (e.g. stand ups, release readiness reviews, post implementation reviews).
+Manage expectations regarding scope, timelines and quality, and negotiate trade offs where necessary.
+
+
+
+Continuous Improvement
+
+
+Review delivery processes and practices regularly to identify opportunities for improvement.
+Drive adoption of agile, DevOps and automation practices to increase efficiency and reliability.
+Capture lessons learned from each release and ensure they are fed back into future delivery cycles.
+
+
+
+What we are looking for:
+
+
+Degree in Computer Science, Information Technology or related discipline, or equivalent experience.
+Relevant professional certifications (e.g. ITIL, Agile, Scrum Master, DevOps certifications) are an advantage.
+Proven experience in IT delivery, release management, or software development management roles.
+Strong understanding of software development lifecycle, agile methodologies (e.g. Scrum, Kanban) and DevOps practices.
+Hands‑on experience with source‑code management tools (e.g. Git) and branching/merging strategies.
+Experience with CI/CD tools (e.g. Jenkins, Azure DevOps, GitLab CI, Bamboo).
+Familiarity with Elite 3E, Intapp, Workday and iManage (Cloud, Work 10) and other legal information systems.
+Experience overseeing testing activities and working closely with QA teams.
+Demonstrable experience in managing complex deployment cycles and coordinating multiple teams, internal and external to the organisation.
+Strong analytical, problem-solving, organisational, planning and prioritisation skills.
+Excellent communication and stakeholder management abilities.
+Detail‑oriented with a strong focus on quality and risk management and comfortable dealing with ambiguity.
+Proactive, with the ability to anticipate issues and drive resolution.
+Collaborative and able to build strong working relationships across technical and non‑technical teams.
+Understanding of On-Prem, Hybrid and Public Cloud Infrastructure services and Networking fundamentals, technologies and associated infrastructures.
+Strong Experience of the services sector culture, ideally within legal, professional or financial services.
+A collaborative team player with excellent communication, networking, relationship building and business partnering skills.
+Proactive nature, organised, able to structure own work.
+Able to use initiative and make suggestions to change processes where required.
+
+
+
+Career Level:
+
+The career level assigned to this role is level 5. The career level framework provides a formal structure for the business services functions at the firm. The framework, which ranges from level 1 to level 7, clearly defines the responsibilities, skills and competencies required at each level.
+
+Here at Simmons & Simmons:
+
+At Simmons, we are proud of our collaborative, open and non-hierarchical culture, where everyone is treated with respect and dignity and the wellbeing of our people is paramount. Our dynamic minds work as one integrated team, partnering with leading organisations on inspirational and thought-provoking projects that matter. From day one, irrespective of job title, qualification or background, everyone’s voice is heard, and you are encouraged to have an enquiring mind and share ideas that drive the firm forward. Through innovative learning and development opportunities, you will have a platform to excel, exceed your career ambitions, and achieve things you never thought possible.
+
+Some key information:
+
+
+We offer a competitive package including bonuses dependant on role/level, private medical insurance and pension contribution.
+Our global skills academy provides our people, regardless of their role and location, with excellent learning opportunities (including live workshops, podcasts, short videos and practical learning experiences).
+We have adopted a hybrid working approach with a requirement for a minimum of three days in the office with flexibility dependant on role/team/client demands.
+We are proud to rank as a Times Top 50 Employer for Gender Equality, a Stonewall Top Global Employer, and a Top 75 Employer for Social Mobility.
+We have a range of social and sports committees, summer and winter parties and monthly get togethers.
+We have a range of diversity networks to connect people and celebrate our differences which is integral to our inclusive culture.
+All UK offices have their own artwork collections – including Damien Hirst and Tracey Emin pieces in the London office. We have a long-standing history in supporting the art community especially up-and-coming artists.
+We have recently introduced a Strategic Advisory Council which is a mix of associates and business services who will propose strategic initiatives that align with our firm's mission and support the delivery of our business plan, shaping the future of our next-generation law firm.
+Our in-house generative AI tool, Percy, won the ‘Innovation in Automation and AI Tools’ category at the 2024 FT Innovative Lawyers Europe Awards. This achievement highlights our commitment to technological innovation and client service.
+We have been commended in The Times Best Law Firms 2026 across three categories: construction, employment, and intellectual property. Our profile is highly positive, highlighting our sector specialisms and notable case and transactional work.
+
+
+
+Equal opportunities:
+
+We are committed to fostering equality, diversity and inclusion within our firm and to ensuring equal employment opportunities. We believe that this commitment creates a vibrant and rewarding work environment. We are therefore committed to:
+
+
+Upholding equal opportunities, regardless of race, ethnicity, religion, belief, age, disability, sexual orientation, sex, gender reassignment, gender identity, marital status, or pregnancy, including maternity and paternity. This commitment extends to addressing any instances of perceived or associative discrimination and harassment. We also ensure fair treatment during recruitment and selection processes for those who are serving or have served in the armed forces, along with their families.
+Accommodating requests for flexible working arrangements whenever possible. We encourage you to discuss your needs with us if this is something you require.
+Making our roles accessible to individuals with diverse abilities. If you need any reasonable adjustments during the recruitment process, please let us know so we can meet your needs.
+We offer a range of employee networks to support our colleagues. More information about these networks can be found in the D&I Information booklet that candidates are sent when invited to interview.
+
+
+
+We encourage you to apply even if you don't meet every single requirement. We are looking for individuals who are passionate and eager to learn and grow with us. Your unique experiences and perspectives could be a great addition to our team.
+
+We reserve the right to close this vacancy early if we receive sufficient applications for the role. Therefore, if you are interested, please submit your application as early as possible.
+
+If you’re interested in finding out more about this position, please contact the Recruitment Team. To apply for the role, click on the link at the top of the page or visit our careers page for more details.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Law Practice
+  
+
+Referrals increase your chances of interviewing at Simmons & Simmons by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Emergency Planner jobs
+Senior Development Manager
+Similar jobs
+Senior Development Manager - Cambridge
+Senior Development Manager - Cambridge
+Worldpay
+Cambridge, England, United Kingdom
+2 days ago
+Senior Development Manager
+Senior Development Manager
+Platform4
+Greater Bristol Area, United Kingdom
+3 days ago
+Development Project Manager
+Development Project Manager
+Bristol Airport
+Greater Bristol Area, United Kingdom
+2 weeks ago
+Welsh Development Manager
+Welsh Development Manager
+Nadara
+Cardiff, Wales, United Kingdom
+1 month ago
+Programme Manager
+Programme Manager
+Rolls-Royce
+Bristol, England, United Kingdom
+2 weeks ago
+Portfolio Delivery Manager
+Portfolio Delivery Manager
+Rolls-Royce
+Bristol, England, United Kingdom
+4 days ago
+Show more jobs like this 
+People also viewed
+Programme Manager
+Programme Manager
+
+QinetiQ
+
+City Of Bristol, England, United Kingdom
+6 days ago
+Project Manager
+Project Manager
+
+Gloucestershire County Council
+
+Gloucestershire, England, United Kingdom
+£54,143 - £56,293
+3 days ago
+Housing Development Partnership Manager
+Housing Development Partnership Manager
+
+Vale of Glamorgan Council
+
+Barry, Wales, United Kingdom
+2 weeks ago
+Lead Product Manager
+Lead Product Manager
+
+UK Ministry of Defence
+
+Bristol, England, United Kingdom
+2 weeks ago
+Corporate Development Manager
+Corporate Development Manager
+
+Imperial Brands PLC
+
+Bristol, England, United Kingdom
+1 week ago
+Engineering Manager - UK
+Engineering Manager - UK
+
+Ashby
+
+Bristol, England, United Kingdom
+£150,000 - £250,000
+2 weeks ago
+Senior Project Manager
+Senior Project Manager
+
+Eaton
+
+Dorset, England, United Kingdom
+6 days ago
+Senior Engineering Manager
+Senior Engineering Manager
+
+Eaton
+
+Cheltenham, England, United Kingdom
+3 weeks ago
+Project Manager
+Project Manager
+
+Curtiss-Wright Corporation
+
+Dorset, England, United Kingdom
+2 weeks ago
+Head of Development
+Head of Development
+
+Avon Needs Trees
+
+Bath, England, United Kingdom
+1 day ago
+Similar Searches
+Emergency Planner jobs
+57 open jobs
+Land Director jobs
+873 open jobs
+Senior Technology Manager jobs
+812 open jobs
+Assistant Director of Development jobs
+327 open jobs
+Director Asset Management jobs
+869 open jobs
+Director of Advancement Services jobs
+20 open jobs
+Organizational Development Manager jobs
+534 open jobs
+Director of Planning And Development jobs
+951 open jobs
+Regional Account Manager jobs
+2,943 open jobs
+Associate Director of Development jobs
+861 open jobs
+Director of Technical Services jobs
+617 open jobs
+Director of Philanthropy jobs
+135 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
