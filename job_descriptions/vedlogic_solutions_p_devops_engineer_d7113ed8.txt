@@ -1,0 +1,241 @@
+Title: Devops Engineer
+Company: Vedlogic Solutions Pvt. Ltd.
+Location: Ahmedabad, Gujarat, India
+URL: https://in.linkedin.com/jobs/view/devops-engineer-at-vedlogic-solutions-pvt-ltd-4485358768
+Posted: 2026-10-31
+Deadline: Open until filled
+Reason: The role aligns with the candidate's extensive experience in DevOps, CI/CD pipeline management, and configuration management, and is located in India, which is a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Devops Engineer
+Vedlogic Solutions Pvt. Ltd.  Ahmedabad, Gujarat, India
+6 hours ago   Be among the first 25 applicants
+  
+
+See who Vedlogic Solutions Pvt. Ltd. has hired for this role
+
+Apply 
+Save
+About The Role
+
+We are seeking a Mid DevOps Engineer to join our growing team and drive the design, implementation, and maintenance of our infrastructure and CI/CD pipelines. You will play a key role in automating processes, enhancing system reliability, and ensuring smooth software delivery in a fast-paced environment.
+
+Key Responsibilities
+
+
+Design, implement, and manage CI/CD pipelines using tools like Jenkins, GitLab CI, CircleCI, etc.
+Automate infrastructure provisioning and configuration using Infrastructure-as-Code (IaC) tools such as Terraform, Ansible, or CloudFormation.
+Monitor and support cloud infrastructure (AWS, Azure, or GCP) ensuring high availability and performance.
+Collaborate with development, QA, and operations teams to streamline the software release process.
+Manage container orchestration tools like Docker and Kubernetes.
+Enhance system observability with monitoring/logging tools like Prometheus, Grafana, ELK/EFK Stack, or Datadog.
+Implement security best practices across CI/CD and infrastructure layers.
+Lead incident management and root cause analysis of production issues.
+
+
+Requirements
+
+Required Skills and Qualifications:
+
+
+Bachelor’s/Master’s degree in Computer Science, Engineering, or a related field.
+4+ years of hands-on experience in DevOps, system administration, or infrastructure engineering.
+Strong knowledge of at least one major cloud platform (AWS, Azure, or GCP).
+Expertise in CI/CD tools, infrastructure automation, and scripting languages (Bash, Python, etc.).
+Deep understanding of Docker, Kubernetes, and containerized application deployment.
+Familiarity with configuration management tools like Ansible, Puppet, or Chef.
+Experience with version control systems (e.g., Git) and agile development practices.
+Solid understanding of networking, system security, and performance tuning.
+
+
+Preferred Qualifications
+
+
+Certifications such as AWS Certified DevOps Engineer, Azure DevOps Expert, or Certified Kubernetes Administrator (CKA).
+Experience with service mesh, secrets management, or zero-downtime deployments.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Vedlogic Solutions Pvt. Ltd. by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Ahmedabad, Gujarat, India.
+
+Sign in to create job alert
+Jobs
+Manufacturing Quality Manager jobs
+Devops Engineer
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+Azilen Technologies
+Ahmedabad, Gujarat, India
+2 weeks ago
+DevOps Engineer ID98058
+DevOps Engineer ID98058
+AgileEngine
+Ahmedabad, Gujarat, India
+2 days ago
+DevOps Engineer
+DevOps Engineer
+Metasphere
+Greater Ahmedabad Area
+1 week ago
+DevOps & Cloud Engineer
+DevOps & Cloud Engineer
+Kaizenith Technologies
+Ahmedabad, Gujarat, India
+2 months ago
+DevOps Engineer II
+DevOps Engineer II
+Rekruton Global IT Services
+Ahmedabad, Gujarat, India
+3 weeks ago
+DevOps Engineer
+DevOps Engineer
+DRC Systems
+Gandhinagar, Gujarat, India
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Director of DevOps, SRE & Infrastructure
+Director of DevOps, SRE & Infrastructure
+
+Vagaro
+
+Ahmedabad, Gujarat, India
+2 weeks ago
+Senior Cloud Operations Engineer
+Senior Cloud Operations Engineer
+
+Oracle
+
+Ahmedabad, Gujarat, India
+1 week ago
+Senior Site Reliability Engineer (US Hours)
+Senior Site Reliability Engineer (US Hours)
+
+RCM-X
+
+Greater Ahmedabad Area
+4 months ago
+Senior Site Reliability Engineer (US Hours)
+Senior Site Reliability Engineer (US Hours)
+
+Neurensic
+
+Greater Ahmedabad Area
+5 months ago
+Senior Site Reliability Engineer (US Hours)
+Senior Site Reliability Engineer (US Hours)
+
+Pacific Asia Tech Trade Inc
+
+Greater Ahmedabad Area
+3 months ago
+Senior DevSecOps Engineer - Design (Maintenance)
+Senior DevSecOps Engineer - Design (Maintenance)
+
+CleanStart
+
+Ahmedabad, Gujarat, India
+3 months ago
+Cloud Platform & DevOps Manager
+Cloud Platform & DevOps Manager
+
+Codal
+
+Ahmedabad, Gujarat, India
+2 weeks ago
+Oracle Autonomous Database Site Reliability Engineer
+Oracle Autonomous Database Site Reliability Engineer
+
+Oracle
+
+Ahmedabad, Gujarat, India
+1 day ago
+Observability Lead
+Observability Lead
+
+Crest Data
+
+Ahmedabad, Gujarat, India
+3 weeks ago
+Nerdio Engineer
+Nerdio Engineer
+
+UST
+
+Ahmedabad, Gujarat, India
+6 hours ago
+Similar Searches
+Manufacturing Quality Manager jobs
+279 open jobs
+Senior Frontend Developer jobs
+11,303 open jobs
+Senior Database Developer jobs
+8,898 open jobs
+Lead Database Administrator jobs
+384 open jobs
+Java Web Developer jobs
+7,207 open jobs
+PHP Developer jobs
+6,106 open jobs
+Network Developer jobs
+45,869 open jobs
+Information Technology Recruiter jobs
+1,357 open jobs
+User Interface Engineer jobs
+49,174 open jobs
+Software Test Engineer jobs
+3,583 open jobs
+Developer jobs
+73,513 open jobs
+Search Engine Optimization Specialist jobs
+1,957 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Vedlogic Solutions Pvt. Ltd.
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

@@ -1,0 +1,266 @@
+Title: Senior DevOps Engineer
+Company: DigitalOcean
+Location: Bengaluru, Karnataka, India
+URL: https://in.linkedin.com/jobs/view/senior-devops-engineer-at-digitalocean-4463388723
+Posted: 2026-10-01
+Deadline: N/A
+Reason: The role is a strong match for her DevOps and CI/CD expertise, is located in an eligible country (India), and does not violate any hard rejection criteria.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer
+DigitalOcean  Bengaluru, Karnataka, India
+1 month ago   Over 200 applicants
+  
+
+See who DigitalOcean has hired for this role
+
+Apply 
+Save
+Dive in and do the best work of your career at DigitalOcean. Journey alongside a strong community of top talent who are relentless in their drive to build the simplest scalable cloud. If you have a growth mindset, naturally like to think big and bold, and are energized by the fast-paced environment of a true industry disruptor, you’ll find your place here. We value winning together—while learning, having fun, and making a profound difference for the dreamers and builders in the world.
+
+Dive in and do the best work of your career at DigitalOcean. Journey alongside a strong community of top talent who are relentless in their drive to build the simplest scalable cloud. If you have a growth mindset, naturally like to think big and bold, and are energized by the fast-paced environment of a true industry disruptor, you’ll find your place here. We value winning together—while learning, having fun, and making a profound difference for the dreamers and builders in the world.
+
+We are seeking a Senior DevOps Engineer to lead the strategy, design, and implementation of our large-scale cloud infrastructure projects. In this role, you will tackle the challenges of modernizing IT operations, focusing on security, automation, and high efficiency to keep our platform on the cutting edge of cloud computing.
+
+What You'll Do
+
+
+Partner closely with development teams to embed robust DevOps practices and raise the overall operational bar.
+Design, build, and maintain high-throughput CI/CD pipelines using Jenkins and GitHub Actions.
+Architect and maintain infrastructure as code using Terraform to provision scalable environments on AWS and other cloud providers.
+Automate complex Linux server management and configuration workflows using Ansible, Python, and Bash.
+Build and support REST APIs using Python (Flask) and Ansible to drive internal automation tooling.
+Deploy, manage, and orchestrate containerized workloads across Kubernetes clusters utilizing Helm charts and ArgoCD.
+Enforce and streamline platform security by implementing robust networking, encryption, hashing, and SSL/TLS protocols.
+Drive continuous improvement across database environments, supporting MySQL, MariaDB, and PostgreSQL performance and maintenance.
+Eliminate operational toil by introducing emerging cloud-native technologies and automated configuration management solutions.
+
+
+Required
+
+What You'll Bring:
+
+
+5+ years of experience in software engineering with a primary focus on DevOps and modern cloud operations
+Deep expertise in cloud-native infrastructure, particularly AWS, with a proven track record of managing large-scale environments
+Production-level experience using Terraform for Infrastructure as Code (IaC)
+Hands-on proficiency with container orchestration tools, specifically Kubernetes, Helm, and ArgoCD
+Strong scripting and programming skills in Python, Bash, and Linux system administration
+1+ years of practical software development experience, including experience building backend REST APIs (Python/Flask)
+Solid understanding of core networking, security measures, and cryptographic protocols (SSL/TLS, encryption, hashing)
+Experience with relational database management systems, including MySQL, MariaDB, or PostgreSQL
+Bachelor’s degree in Computer Science, Information Technology, or a related technical field (or equivalent practical experience)
+
+
+Bonus
+
+
+Experience designing GitOps-driven deployment workflows at scale
+Advanced knowledge of multi-cloud architectures or hybrid cloud migrations
+Familiarity with enterprise-grade observability and monitoring ecosystems
+Prior experience managing high-availability infrastructure within fast-paced software or cloud delivery companies
+This job is located in Bengaluru, India
+
+
+JR: 2026-8083
+
+Why You’ll Like Working for DigitalOcean
+
+
+We innovate with purpose. You’ll be a part of a cutting-edge technology company with a high-growth trajectory, who are proud to simplify cloud and AI so builders can spend more time creating software that changes the world. As part of our team, you’ll embody our "Shark" mindset: bold, ambitious, and scrappy. You'll lead with a bias for action and take true ownership of our products, customer success, and team culture.
+We prioritize career development. At DigitalOcean, you’ll do the best work of your career. You will join a community of exceptional talent, collaborating closely with some of the brightest and most interesting people in the industry. We are a high-performance and fast-paced organization that will always challenge you to think big. Our talent development team prioritizes your professional development and provides resources to support your growth. We provide employees with reimbursement for relevant conferences, training, and education, subject to company policy.
+We care about your well-being. We take a comprehensive approach to our total rewards packages because we know different things drive different people. Our benefits are designed to support you and may include flexible time off, local team meetups, and mental health and well being support. Our benefits philosophy is consistent globally, but specific benefits and eligibility vary by location to reflect local needs and regulations.
+We reward our employees. The salary range for this position is based on market data, relevant years of experience, and skills. Eligible employees may also receive equity compensation, which may include a new hire equity grant and, in participating countries, the opportunity to participate in our Employee Stock Purchase Program. Equity awards are subject to approval and the terms of the applicable plan.
+Non-sales roles: In addition to base salary, this role is eligible to participate in DigitalOcean’s annual bonus plan and may be eligible for a new hire equity grant, subject to plan terms and local eligibility. Bonus amounts depend on company and individual performance.
+Sales roles (sales compensation eligible): In addition to base salary, this role may be eligible to earn incentive compensation under the applicable sales compensation plan and may be eligible for a new hire equity grant, subject to plan terms and local eligibility.
+DigitalOcean is an equal-opportunity employer. We do not discriminate on the basis of race, sex, disability, protected veteran status, or any other characteristic protected by applicable law.
+
+Application Limit: You may apply to a maximum of 3 positions within any 180-day period. This policy promotes better role-candidate matching and encourages thoughtful applications where your qualifications align most strongly.
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Internet Publishing
+  
+
+Referrals increase your chances of interviewing at DigitalOcean by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Bengaluru, Karnataka, India.
+
+Sign in to create job alert
+Jobs
+Networking Manager jobs
+Senior DevOps Engineer
+Similar jobs
+Senior DevOps Engineer
+Senior DevOps Engineer
+Tazapay
+Bengaluru, Karnataka, India
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Tecnovos
+Bengaluru East, Karnataka, India
+1 year ago
+Senior DevOps Automation Engineer
+Senior DevOps Automation Engineer
+Varsity Tutors, a Nerdy Company
+Bengaluru, Karnataka, India
+2 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Karta
+Bengaluru, Karnataka, India
+3 days ago
+Senior Devops Engineer
+Senior Devops Engineer
+Nightfall AI
+Bengaluru, Karnataka, India
+3 months ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Avathon
+Bengaluru, Karnataka, India
+9 hours ago
+Show more jobs like this 
+People also viewed
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+CleanStart
+
+Bengaluru, Karnataka, India
+3 months ago
+Senior SRE/DevOps Engineer
+Senior SRE/DevOps Engineer
+
+TrueFoundry
+
+Bengaluru, Karnataka, India
+1 week ago
+Senior DevOps / Infrastructure Engineer
+Senior DevOps / Infrastructure Engineer
+
+SkillPad
+
+Bengaluru, Karnataka, India
+2 months ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Marketnode
+
+Bengaluru, Karnataka, India
+2 weeks ago
+Senior Devops Engineer
+Senior Devops Engineer
+
+Genesis Global
+
+Bengaluru, Karnataka, India
+3 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+AppViewX
+
+Bengaluru, Karnataka, India
+1 month ago
+Senior Devops Engineer
+Senior Devops Engineer
+
+Provation
+
+Bengaluru East, Karnataka, India
+1 hour ago
+DevOps Engineer (Senior)
+DevOps Engineer (Senior)
+
+HYCU, Inc.
+
+Bengaluru, Karnataka, India
+1 month ago
+DevOps Engineer
+DevOps Engineer
+
+Luxoft
+
+Bengaluru, Karnataka, India
+3 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+NVIDIA
+
+Bengaluru, Karnataka, India
+2 weeks ago
+Similar Searches
+Networking Manager jobs
+7,776 open jobs
+Associate Business Development Manager jobs
+865 open jobs
+Network Programmer jobs
+51,058 open jobs
+Java Oracle Developer jobs
+10,399 open jobs
+Technology Editor jobs
+122 open jobs
+Multimedia Producer jobs
+171 open jobs
+Associate Publisher jobs
+105 open jobs
+Associate Corporate Counsel jobs
+137 open jobs
+Professor of Communication jobs
+31 open jobs
+Web Copywriter jobs
+1,502 open jobs
+Technical Solutions Engineer jobs
+47,403 open jobs
+Hosting Manager jobs
+766 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at DigitalOcean
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

@@ -1,0 +1,242 @@
+Title: Sr. Devops Engineer
+Company: MakeMyTrip
+Location: Gurgaon, Haryana, India
+URL: https://in.linkedin.com/jobs/view/sr-devops-engineer-at-makemytrip-4449488343
+Posted: 2026-10-31
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in DevOps, CI/CD pipeline management, and infrastructure automation, and it is located in India, which is one of her target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Sr. Devops Engineer
+MakeMyTrip  Gurgaon, Haryana, India
+8 hours ago   Over 200 applicants
+  
+
+See who MakeMyTrip has hired for this role
+
+Apply 
+Save
+About The Opportunity
+
+Role: Sr. Devops Engineer
+
+Location: Gurgaon
+
+About The Function
+
+At MakeMyTrip (MMT), technology is at the heart of everything we do. As a leading player in the travel industry, we leverage cutting-edge solutions like AI, machine learning, and cloud infrastructure to create seamless and innovative travel experiences. We prioritize a tech-first mindset, where our engineering teams lead the charge in transforming the way people travel.
+
+Our culture encourages collaboration, creativity, and thought leadership, empowering engineers to challenge the status quo and develop impactful, game-changing solutions. At MMT, you'll work with the latest technologies, continually push boundaries, and have the chance to shape the future of travel.
+
+Join us and become part of a forward-thinking, tech-driven organization that thrives on innovation and continuous learning.
+
+About The Role
+
+We are looking for a highly skilled and experienced DevOps Engineer to join our team. The ideal candidate will bring deep expertise in Linux, containers, multi-cloud platforms (preferably AWS, GCP), CI/CD, and scripting to help streamline and enhance our development and deployment processes. You will be responsible for managing infrastructure, automating workflows, and ensuring high availability and performance of our applications.
+
+What Will You Be Doing
+
+
+Design, implement, and maintain CI/CD pipelines using GitHub and Jenkins.
+Install and configure SAST tools such as SonarQube, Nexus, and enforce CI best practices.
+Deploy and manage containerized applications using Docker.
+Manage AWS cloud infrastructure, focusing on services such as VPC, EC2 ECS, EKS, S3 IAM, ALB, Lambda, etc., and associated networking components.
+Analyze and optimize the Cost of the cloud infrastructure.
+Install and manage third-party tools like Kong, Consul, Redash, Debezium, Kafka, and RabbitMQ (RMQ).
+Perform application-level debugging and provide L2 support to the SRE team for production incidents.
+Automate infrastructure provisioning using Ansible and Terraform across AWS, Azure, and GCP.
+Manage monitoring and logging pipelines using tools like Zabbix and ELK.
+Build internal tools and automate routine tasks using Bash and/or Python scripting.
+Collaborate with development, QA, and operations teams to ensure reliable and frequent software delivery.
+Continuously improve internal processes to enhance team efficiency and performance.
+Mentor junior team members through regular code reviews, knowledge-sharing sessions, and hands-on technical guidance, ensuring consistent growth and alignment.
+
+
+Qualification & Experience
+
+
+3 to 7 years of experience in DevOps or related roles.
+Strong experience in Linux system administration.
+Hands-on experience with Docker for containerization.
+Deep understanding of AWS Cloud services, especially VPC, ALB, EC2 ECS, EKS, and S3 IAM.
+Proven experience with Jenkins, SonarQube, Nexus, and GitHub.
+Familiarity with build tools such as Maven (mvn) and npm.
+Strong scripting skills in Bash and/or Python.
+Solid experience with application debugging and system troubleshooting.
+Exposure to Mobile CI/CD pipelines is a plus.
+Familiarity with at least one programming language (e. g., Java, Node.js, Go, Python).
+Experience with Infrastructure-as-Code tools like Terraform or CloudFormation.
+Experience with monitoring and logging tools (e. g., Prometheus, Grafana, ELK).
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Technology, Information and Internet
+  
+
+Referrals increase your chances of interviewing at MakeMyTrip by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Gurgaon, Haryana, India.
+
+Sign in to create job alert
+Jobs
+Social Media Marketing Consultant jobs
+Sr. Devops Engineer
+Similar jobs
+Senior DevOps Engineer
+Senior DevOps Engineer
+NVIDIA
+New Delhi, Delhi, India
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+Thales
+Noida, Uttar Pradesh, India
+2 weeks ago
+Senior Devops Engineer
+Senior Devops Engineer
+Bennett Coleman & Co. Ltd. (The Times of India)
+Delhi, India
+3 days ago
+Senior DevOps Engineer, Noida
+Senior DevOps Engineer, Noida
+ION
+Noida, Uttar Pradesh, India
+10 hours ago
+Senior Engineer, DevOps & Assurance
+Senior Engineer, DevOps & Assurance
+Bain & Company
+Gurugram, Haryana, India
+1 week ago
+DevOps Engineer
+DevOps Engineer
+Macquarie Group
+Gurugram, Haryana, India
+10 hours ago
+Show more jobs like this 
+People also viewed
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Tarento Group
+
+Noida, Uttar Pradesh, India
+1 month ago
+Senior Engineer - Data Operations
+Senior Engineer - Data Operations
+
+United Airlines India Knowledge Center
+
+Gurugram, Haryana, India
+1 day ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+SimCorp
+
+Noida, Uttar Pradesh, India
+6 days ago
+Lead DevOps Engineer / Senior DevOps Engineer
+Lead DevOps Engineer / Senior DevOps Engineer
+
+Posist
+
+Delhi, India
+5 months ago
+Senior Engineer, DevOps & Assurance
+Senior Engineer, DevOps & Assurance
+
+Bain & Company
+
+Delhi, Delhi, India
+1 week ago
+Senior DevOps Delivery Engineer, Delivery
+Senior DevOps Delivery Engineer, Delivery
+
+Payoneer
+
+Gurugram, Haryana, India
+5 hours ago
+DevOps Engineer III
+DevOps Engineer III
+
+Anaplan
+
+Gurugram, Haryana, India
+2 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Infra360
+
+Gurugram, Haryana, India
+3 months ago
+DevOps Consultant
+DevOps Consultant
+
+Orange Business
+
+Gurgaon, Haryana, India
+2 weeks ago
+DevOps Engineer ID98058
+DevOps Engineer ID98058
+
+AgileEngine
+
+New Delhi, Delhi, India
+2 days ago
+Similar Searches
+Social Media Marketing Consultant jobs
+443 open jobs
+Assistant Content Manager jobs
+3,018 open jobs
+Technical Solutions Consultant jobs
+2,684 open jobs
+Associate Business Manager jobs
+166 open jobs
+Senior Operations Executive jobs
+2,488 open jobs
+Senior Java Software Engineer jobs
+14,340 open jobs
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at MakeMyTrip
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

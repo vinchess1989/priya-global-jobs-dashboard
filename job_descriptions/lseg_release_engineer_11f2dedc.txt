@@ -1,0 +1,269 @@
+Title: Release Engineer
+Company: LSEG
+Location: Hyderabad, Telangana, India
+URL: https://in.linkedin.com/jobs/view/release-engineer-at-lseg-4309773782
+Posted: 2026-10-29
+Deadline: N/A
+Reason: The role aligns perfectly with the candidate's expertise in CI/CD, release engineering, and automation, and it is located in India, which is one of the target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Release Engineer
+LSEG  Hyderabad, Telangana, India
+2 days ago   Over 200 applicants
+  
+
+See who LSEG has hired for this role
+
+Apply 
+Save
+DevOps Release Engineer- Customer Lifecycle Engineering, CMR ABOUT US: LSEG (London Stock Exchange Group) is more than a diversified global financial markets infrastructure and data business. We are dedicated, open-access partners with a dedication to excellence in delivering the services our customers expect from us. With extensive experience, deep knowledge and worldwide presence across financial markets, we enable businesses and economies around the world to fund innovation, manage risk and create jobs. It’s how we’ve contributed to supporting the financial stability and growth of communities and economies globally for more than 300 years. Through a comprehensive suite of trusted financial market infrastructure services – and our open-access model – we provide the flexibility, stability and trust that enable our customers to pursue their ambitions with confidence and clarity. LSEG is headquartered in the United Kingdom, with significant operations in 65 countries across EMEA, North America, Latin America and Asia Pacific. We employ 25,000 people globally, more than half located in Asia Pacific. LSEG’s ticker symbol is LSEG. OUR PEOPLE: People are at the heart of what we do and drive the success of our business. Our values of Integrity, Partnership, Excellence and Change shape how we think, how we do things and how we help our people fulfil their potential. We embrace diversity and actively seek to attract individuals with unique backgrounds and perspectives. We break down barriers and encourage teamwork, enabling innovation and rapid development of solutions that make a difference. Our workplace generates an enriching and rewarding experience for our people and customers alike. Our vision is to build an inclusive culture in which everyone feels encouraged to fulfil their potential. We know that real personal growth cannot be achieved by simply climbing a career ladder – which is why we encourage and enable a wealth of avenues and interesting opportunities for everyone to broaden and deepen their skills and expertise. As a global organisation spanning 65 countries and one rooted in a culture of growth, opportunity, diversity and innovation, LSEG is a place where everyone can grow, develop and fulfil your potential with meaningful careers. ROLE PROFILE A DevOps engineer designs, implements, and maintains tools and processes for continuous integration, delivery, and deployment of software. They work closely with developers, testers, and system administrators to ensure the entire software development life cycle is smooth, efficient, and error-free. Their primary goal is to automate repetitive tasks, reduce manual intervention, and improve the overall user experience, quality, and reliability of software products. Overall, the daily activities and duties are defined in the software development contract. TECH PROFILE/ESSENTIAL SKILLS
+
+
+Cloud platforms like AWS e.g. EC2, VPC, CloudFront, WAF, ALB, Route53, S3, Lambda.
+Minimum 3 years of relevant experience in DevOps.
+Experience in DevSecOps.
+Knowledge on using Agile and DevOps eg. JIRA, ASANA, Jenkins, Nexus, Maven, Git, Gitlab runner, SonarQube.
+Expertise and/or understanding in the following languages and technologies: Java (java spring boot), Microservices, JavaScript, services-based architecture, ReactJS, REST.
+Experience in one or more scripting languages like bash, python or more.
+Testing frameworks e.g. Junit, TestNG.
+SSO understanding e.g. SAML, OAuth2.
+Strong technical acumen. PREFERRED SKILLS AND EXPERIENCE
+Strong background in Linux and/or Windows
+Strong coding/scripting experience (BASH/Shell)
+Experience with configuring and using a CI/CD tool such as Jenkins
+Experience with provisioning and configuration management using Bitbucket, Ansible, Terraform or equivalent
+Git source control using Bitbucket or equivalent
+Experience with AWS - AWS API, EC2, S3, RDS, Lambda, Route53, VPC, CloudFront, CloudWatch, IAM, ADFS, Elastic Cache, Microservices, Elastic Beanstalk
+Experience with security best practices for data at rest and data in-transit using AWS tools such as SSE-KMS, security policies, cryptographic protocols
+Excellent verbal and written communication skills
+Pro-active approach to learning about and adapting to new technologies
+Knowledge of agile software development and DevOps philosophies
+Experience with JIRA and Confluence EDUCATION AND PROFESSIONAL SKILLS
+BE/MS degree in Computer Science, Software Engineering or STEM degree (Desirable).
+Solid English reading/writing capability required.
+Good communication & articulation skills.
+Curious about new technologies and tools, creative thinking and initiative taking.
+Agile related certifications preferable. DETAILED RESPONSIBILITIES
+Contributes and leads development of CI/CD pipelines in cooperation with Central DevOps to update existing and support new features
+Identifies, prioritises, and performs tasks in the software development lifecycle
+Assist multiple delivery teams by integrating source code and automation frameworks into release, integration and deployment pipelines
+Advocate for and implement engineering guidelines for excellence, including automation, code reviews, continuous integration/continuous delivery (CI/CD), and performance tuning
+Maintains environments, ensuring correct tagging, rightsizing, utilisation and documentation
+Documents platform and application deployment, recovery and support requirements
+Reviewing and recording cloud health and performance metrics, publishing to development leads on a regular basis
+Collaborates closely with business and engineering partners to deliver products, services, improvements and solutions to meet customer needs and align with goals of the business and engineering lines
+Communicates with clarity, precision, and influence, presenting complex information in a clear and concise format that is appropriate for the audience
+Drive a culture of engineering excellence through mentorship, peer reviews, and promoting standard methodologies in software design and development
+Continuously optimize systems for performance, scalability, and security in a fast-paced, production environment
+Support modernisation of infrastructure and architecture of platforms LSEG PURPOSE AND VALUES Our purpose is driving financial stability, empowering economies and enabling customers to create sustainable growth. Underpinning our purpose, our values of Integrity, Partnership, Excellence and Change set the standard for everything we do, every day. They guide the way we interact with each other, the partners we work with and our customers. Delivering on our purpose and living up to our values is a responsibility that we all share. To achieve our ambitions through a strong culture, People Leaders need to role model our Values and create the culture for everyone at LSEG to be at their best.
+
+
+Career Stage:
+
+Senior Associate
+
+London Stock Exchange Group (LSEG) Information:
+
+Join us and be part of a team that values innovation, quality, and continuous improvement. If you're ready to take your career to the next level and make a significant impact, we'd love to hear from you.
+
+LSEG is a leading global financial markets infrastructure and data provider. Our purpose is driving financial stability, empowering economies and enabling customers to create sustainable growth.
+
+Our purpose is the foundation on which our culture is built. Our values of Integrity, Partnership, Excellence and Change underpin our purpose and set the standard for everything we do, every day. They go to the heart of who we are and guide our decision making and everyday actions.
+
+Working with us means that you will be part of a dynamic organisation of 25,000 people across 65 countries. However, we will value your individuality and enable you to bring your true self to work so you can help enrich our diverse workforce.
+
+We are proud to be an equal opportunities employer. This means that we do not discriminate on the basis of anyone’s race, religion, colour, national origin, gender, sexual orientation, gender identity, gender expression, age, marital status, veteran status, pregnancy or disability, or any other basis protected under applicable law. Conforming with applicable law, we can reasonably accommodate applicants' and employees' religious practices and beliefs, as well as mental health or physical disability needs.
+
+You will be part of a collaborative and creative culture where we encourage new ideas. We are committed to sustainability across our global business and we are proud to partner with our customers to help them meet their sustainability objectives. Our charity, the LSEG Foundation provides charitable grants to community groups that help people access economic opportunities and build a secure future with financial independence. Colleagues can get involved through fundraising and volunteering.
+
+LSEG offers a range of tailored benefits and support, including healthcare, retirement planning, paid volunteering days and wellbeing initiatives.
+
+Please take a moment to read this privacy notice carefully, as it describes what personal information London Stock Exchange Group (LSEG) (we) may hold about you, what it’s used for, and how it’s obtained, your rights and how to contact us as a data subject.
+
+If you are submitting as a Recruitment Agency Partner, it is essential and your responsibility to ensure that candidates applying to LSEG are aware of this privacy notice.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting and Financial Services
+  
+
+Referrals increase your chances of interviewing at LSEG by 2x
+
+See who you know
+
+Get notified about new Release Engineer jobs in Hyderabad, Telangana, India.
+
+Sign in to create job alert
+Jobs
+Build And Release Engineer jobs
+Release Engineer
+Similar jobs
+Site Reliability Engineer
+Site Reliability Engineer
+Apple
+Hyderabad, Telangana, India
+1 month ago
+Operations Engineer
+Operations Engineer
+Apple
+Hyderabad, Telangana, India
+5 months ago
+Associate, Release and Deployment Support , Site Reliability Engineering
+Associate, Release and Deployment Support , Site Reliability Engineering
+DBS Bank
+Hyderabad, Telangana, India
+2 months ago
+Site Reliability Engineer
+Site Reliability Engineer
+Garmin Hyderabad
+Hyderabad, Telangana, India
+1 week ago
+Release Coordinator
+Release Coordinator
+Willsmarg Technologies LLC
+Hyderabad, Telangana, India
+3 months ago
+Application Support Engineer
+Application Support Engineer
+Accenture in India
+Hyderabad, Telangana, India
+1 month ago
+Show more jobs like this 
+People also viewed
+Software Site Reliability Engineer - AI & Data Platforms
+Software Site Reliability Engineer - AI & Data Platforms
+
+Apple
+
+Hyderabad, Telangana, India
+1 day ago
+Software Site Reliability Engineer - AI & Data Platforms
+Software Site Reliability Engineer - AI & Data Platforms
+
+Apple
+
+Hyderabad, Telangana, India
+2 months ago
+Software Site Reliability Engineer - AI & Data Platforms
+Software Site Reliability Engineer - AI & Data Platforms
+
+Apple
+
+Hyderabad, Telangana, India
+1 day ago
+Application Lead
+Application Lead
+
+Accenture in India
+
+Hyderabad, Telangana, India
+3 weeks ago
+Site Reliability Engineering Manager
+Site Reliability Engineering Manager
+
+Apple
+
+Hyderabad, Telangana, India
+4 months ago
+Systems Administrator- Fleet Operations Engineering
+Systems Administrator- Fleet Operations Engineering
+
+Apple
+
+Hyderabad, Telangana, India
+1 month ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+Apple
+
+Hyderabad, Telangana, India
+5 months ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+Apple
+
+Hyderabad, Telangana, India
+5 months ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+Apple
+
+Hyderabad, Telangana, India
+1 month ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+Apple
+
+Hyderabad, Telangana, India
+1 week ago
+Similar Searches
+Build And Release Engineer jobs
+3,712 open jobs
+Software Release Engineer jobs
+346 open jobs
+Agile Coach jobs
+1,905 open jobs
+Release Manager jobs
+5,638 open jobs
+Software Configuration Management Engineer jobs
+2,961 open jobs
+Configuration Management Engineer jobs
+325 open jobs
+Design Release Engineer jobs
+1,379 open jobs
+Scrum Master jobs
+9,144 open jobs
+Support Escalation Engineer jobs
+1,728 open jobs
+Change And Release Manager jobs
+184 open jobs
+Assistant Professor of Mathematics jobs
+276 open jobs
+Change Management Coordinator jobs
+123 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at LSEG
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

@@ -1,0 +1,261 @@
+Title: DevOps Engineer (Senior)
+Company: Encardio Rite
+Location: Delhi, India
+URL: https://in.linkedin.com/jobs/view/devops-engineer-senior-at-encardio-rite-4477476810
+Posted: 2026-10-10
+Deadline: Open until filled
+Reason: The role aligns with the candidate's extensive experience in DevOps, CI/CD pipeline ownership, and release management, and it is located in India, which is one of her target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer (Senior)
+Encardio Rite  Delhi, India
+3 weeks ago  193 applicants
+  
+
+See who Encardio Rite has hired for this role
+
+Apply 
+Save
+Qualifications
+
+
+5–8 years of professional experience in DevOps, platform engineering, or infrastructure with a strong software development focus.
+Strong Python programming skills — you write clean, tested, reviewable code, not just one-off scripts.
+Hands-on Terraform experience: module authoring, monorepo patterns, remote state (S3), and code review discipline.
+Helm chart authoring from scratch — templating, schema validation, values design, and release management.
+Deep GitHub Actions experience: custom actions, reusable workflows, composite actions, and secrets management.
+Production Kubernetes/EKS experience: deployments, RBAC, networking, debugging, and Helm-based release management.
+Crossplane for Kubernetes-native cloud resource provisioning.
+ArgoCD and Argo Workflows for GitOps delivery and pipeline orchestration.
+Solid understanding of Docker and container image best practices.
+
+
+Technologies You Will Work On
+
+Infrastructure & IaC
+
+
+Terraform (monorepo, modules, remote state — S3)
+Crossplane (Kubernetes-native cloud provisioning)
+AWS — EKS, EC2, RDS (PostgreSQL), S3, IAM, VPC, Secrets Manager, CloudWatch, GuardDuty, Security Hub
+
+
+Containers & Orchestration
+
+
+Docker
+Kubernetes / AWS EKS
+Helm (chart authoring, versioning, OCI registry)
+ArgoCD (GitOps, ApplicationSets)
+Argo Workflows (pipeline orchestration, batch jobs)
+Traefik (ingress, middleware, TLS)
+Harbor (private container registry, image scanning)
+
+
+CI/CD & Automation
+
+
+GitHub Actions (custom actions, reusable workflows)
+Python (CLI tooling, operators, automation scripts)
+Kubernetes Operators / Controllers (controller-runtime / kubebuilder)
+
+
+Messaging & Data
+
+
+Apache Kafka (self-hosted — topic management, consumer lag monitoring)
+
+
+Observability
+
+
+Prometheus + Grafana (metrics, dashboards, alerting)
+
+
+Security & Identity
+
+
+Keycloak (SSO, OIDC)
+Microsoft Identity Provider (Azure AD / Entra ID)
+AWS Secrets Manager
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Civil Engineering
+  
+
+Referrals increase your chances of interviewing at Encardio Rite by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Delhi, India.
+
+Sign in to create job alert
+Jobs
+Product Marketing Manager jobs
+DevOps Engineer (Senior)
+Similar jobs
+Senior DevOps Engineer
+Senior DevOps Engineer
+NVIDIA
+New Delhi, Delhi, India
+2 weeks ago
+Senior Devops Engineer
+Senior Devops Engineer
+Bennett Coleman & Co. Ltd. (The Times of India)
+Delhi, India
+3 days ago
+Senior Engineer, DevOps & Assurance
+Senior Engineer, DevOps & Assurance
+Bain & Company
+Gurugram, Haryana, India
+1 week ago
+DevOps Architect
+DevOps Architect
+Accenture in India
+Gurugram, Haryana, India
+1 month ago
+DevOps Engineer
+DevOps Engineer
+Macquarie Group
+Gurugram, Haryana, India
+10 hours ago
+Senior Devops Engineer
+Senior Devops Engineer
+PAR Technology
+Gurugram, Haryana, India
+2 weeks ago
+Show more jobs like this 
+People also viewed
+DevOps Engineer ID98058
+DevOps Engineer ID98058
+
+AgileEngine
+
+New Delhi, Delhi, India
+2 days ago
+Senior DevSecOps Engineer
+Senior DevSecOps Engineer
+
+Payoneer
+
+Gurugram, Haryana, India
+2 weeks ago
+Senior DevOps Engineer – Platform &amp; Cloud Infra
+Senior DevOps Engineer – Platform &amp; Cloud Infra
+
+MetAntz
+
+Gurgaon, Haryana, India
+2 weeks ago
+Platform - DevSecOps Engineer
+Platform - DevSecOps Engineer
+
+Dayal Group
+
+Meerut, Uttar Pradesh, India
+3 months ago
+Devops Engineer/ Senior Devops Engineer - Linux
+Devops Engineer/ Senior Devops Engineer - Linux
+
+WebEngage
+
+Gurugram, Haryana, India
+7 months ago
+DevSecOps Engineer, IE&O
+DevSecOps Engineer, IE&O
+
+McCain Foods
+
+Gurgaon, Haryana, India
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+Akkodis
+
+Gurugram, Haryana, India
+4 weeks ago
+Technology Platform Engineer
+Technology Platform Engineer
+
+Accenture in India
+
+Gurugram, Haryana, India
+1 month ago
+Senior Software Engineer (SDE-2) - DevOps
+Senior Software Engineer (SDE-2) - DevOps
+
+Pluang
+
+Gurugram, Haryana, India
+2 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+WillWare Technologies
+
+Gurugram, Haryana, India
+2 weeks ago
+Similar Searches
+Product Marketing Manager jobs
+7,383 open jobs
+Communications Manager jobs
+3,894 open jobs
+Assistant Project Manager jobs
+1,090 open jobs
+Marketing Manager jobs
+9,433 open jobs
+Project Manager jobs
+18,687 open jobs
+Engineer jobs
+71,158 open jobs
+Analyst jobs
+55,566 open jobs
+Developer jobs
+73,513 open jobs
+Account Executive jobs
+2,815 open jobs
+Account Manager jobs
+9,644 open jobs
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Encardio Rite
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
