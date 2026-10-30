@@ -1,9 +1,9 @@
 {
   "pid": 23060,
   "started_at": "2026-10-31T01:13:51+02:00",
-  "heartbeat_at": "2026-10-31T01:53:02+02:00",
+  "heartbeat_at": "2026-10-31T01:56:39+02:00",
   "phase": "reviewing",
-  "detail": "Sr Business Analyst (Pharmacovigilance & AI Systems)",
-  "last_scrape_ok_at": "2026-10-31T01:49:21+02:00",
+  "detail": "Associate QC Manager",
+  "last_scrape_ok_at": "2026-10-31T01:55:06+02:00",
   "last_error": null
 }
