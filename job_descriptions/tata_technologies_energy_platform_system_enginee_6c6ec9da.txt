@@ -1,0 +1,318 @@
+Title: Energy Platform System Engineer Battery / BMS
+Company: Tata Technologies
+Location: Bengaluru, Karnataka, India
+URL: https://in.linkedin.com/jobs/view/energy-platform-system-engineer-battery-bms-at-tata-technologies-4485359124
+Posted: 2026-10-31
+Deadline: N/A
+Reason: The role aligns perfectly with the candidate's background in requirements engineering, traceability, and release governance within a safety-critical (ASPICE) automotive environment.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Energy Platform System Engineer Battery / BMS
+Tata Technologies  Bengaluru, Karnataka, India
+8 hours ago  29 applicants
+  
+
+See who Tata Technologies has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Direct message the job poster from Tata Technologies
+
+Saujanya B
+Saujanya B
+
+Energy Platform System Engineer Battery / BMS
+
+
+
+
+Location: Pune/Bangalore/Coimbatore
+
+Department: Energy Platform
+
+Employment Type: Full-Time
+
+Experience: 7-10 Years
+
+Role Family: HV System Engineering
+
+
+
+
+Role Overview
+
+Responsible for system engineering ownership of Battery and Battery Management System functions within the Energy Platform. The role defines and manages requirements, functional behaviour, interfaces, diagnostics, validation strategy, and release readiness for battery pack, BMS, HV safety, charging, power availability, thermal, and vehicle integration functions.
+
+
+
+
+Primary Focus Areas
+
+Battery and BMS requirements covering states, charging, power limits, SOC, SOH, thermal interaction, diagnostics, and protection features.
+
+Interfaces between BMS, battery pack, HVJB, charger, DC-DC, inverter, EDU, VSC, thermal controller, and vehicle networks.
+
+System behaviour for HV safety, isolation, HVIL, contactor coordination, discharge, fault handling, limp-home, and service modes.
+
+Validation readiness across supplier testing, MiL, SiL, HiL, rig, pack-level, and vehicle-level verification activities.
+
+
+
+
+Key Responsibilities
+
+Capture, analyse, decompose, and manage Battery and BMS requirements from vehicle, customer, architecture, safety, charging, thermal, and validation inputs.
+
+Define BMS functional behaviour, operating modes, interface signals, diagnostics, fault reactions, degraded modes, and system acceptance criteria.
+
+Develop functional specifications, interface control documents, requirement traceability, and system integration artefacts for battery and BMS functions.
+
+Coordinate with battery pack, HVJB, charger, inverter, DC-DC, EDU, thermal, controls, software, supplier, validation, safety, and cybersecurity teams.
+
+Review battery safety requirements, HV protection concepts, network signal requirements, diagnostic coverage, data logging needs, and validation evidence.
+
+Support verification strategy, test case review, defect triage, root cause analysis, and release readiness across supplier, rig, HiL, and vehicle environments.
+
+Support functional safety and cybersecurity work products by aligning safety requirements, secure interactions, diagnostics, and degraded operation needs.
+
+Lead change impact assessments and provide system-level technical inputs for programme gateway reviews and supplier release decisions.
+
+
+
+
+Required Skills & Experience
+
+Strong understanding of battery systems, BMS functions, HV safety, charging, contactor coordination, SOC/SOH, thermal limits, diagnostics, and EV integration.
+
+Experience in requirements engineering, system architecture, interface management, validation planning, issue resolution, and release governance.
+
+Knowledge of HV electrical protection, isolation monitoring, HVIL, battery fault handling, charging standards awareness, and data analysis requirements.
+
+Ability to coordinate technical alignment across OEM, supplier, systems, software, safety, thermal, validation, and vehicle integration teams.
+
+
+
+
+Tools, Standards & Processes
+
+Tools / Platforms
+
+Standards / Processes
+
+DOORS / DOORS Next; Polarion; Jama; Enterprise Architect; Cameo / MagicDraw; MATLAB / Simulink; CANoe; CANape / INCA; Jira / Azure DevOps
+
+ASPICE; ISO 26262; ISO 21434; AUTOSAR awareness; Automotive V-Model; Systems Engineering Lifecycle; HV safety and diagnostics governance
+
+
+
+
+Preferred Qualifications
+
+Bachelor's or Master's Degree in Electrical, Electronics, Mechatronics, Automotive, Mechanical, Systems Engineering, or related discipline.
+
+Experience within OEM, Tier-1, or engineering services environments for EV, HEV, Energy Platform, or HV systems programmes.
+
+Exposure to HV safety, battery systems, BMS, HV power distribution, functional safety, cybersecurity, and vehicle integration.
+
+INCOSE ASEP/CSEP certification, ASPICE exposure, HV safety training, or equivalent systems engineering training is desirable.
+
+
+
+
+Key Deliverables
+
+Battery and BMS System Requirements; Functional Specification; Interface Control Document; Traceability Matrix; Battery V&V Plan; Release Readiness Inputs.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Engineering Services
+  
+
+Referrals increase your chances of interviewing at Tata Technologies by 2x
+
+See who you know
+
+Get notified about new System Engineer jobs in Bengaluru, Karnataka, India.
+
+Sign in to create job alert
+Jobs
+System Engineer jobs
+Energy Platform System Engineer Battery / BMS
+Similar jobs
+System Engineer
+System Engineer
+Maxwell Energy Systems
+Bengaluru, Karnataka, India
+2 months ago
+Lead System Engineer
+Lead System Engineer
+Maxwell Energy Systems
+Bengaluru, Karnataka, India
+2 days ago
+Principal Systems Engineer - BESS Product Development
+Principal Systems Engineer - BESS Product Development
+Fluence
+Bengaluru, Karnataka, India
+1 month ago
+Sr. Design Engineer-HVBMS
+Sr. Design Engineer-HVBMS
+Larsen & Toubro
+Bengaluru, Karnataka, India
+3 weeks ago
+Lead Engineer – BMS Software
+Lead Engineer – BMS Software
+Jaguar Land Rover India
+Bengaluru, Karnataka, India
+2 weeks ago
+System Engineer
+System Engineer
+Exponent Energy
+Bengaluru, Karnataka, India
+3 months ago
+Show more jobs like this 
+People also viewed
+Engineer II, Electrical Systems Design
+Engineer II, Electrical Systems Design
+
+Schneider Electric
+
+Bengaluru, Karnataka, India
+2 months ago
+Electrical Integration Engineer
+Electrical Integration Engineer
+
+Exponent Energy
+
+Bengaluru, Karnataka, India
+4 months ago
+Design Engineering - Dy Manager / Manager
+Design Engineering - Dy Manager / Manager
+
+Neonergy Engineering Private Limited
+
+Bengaluru, Karnataka, India
+6 days ago
+Power Electronics Engineer
+Power Electronics Engineer
+
+KnoDTec Solutions Private Limited
+
+Bengaluru North, Karnataka, India
+1 month ago
+Renewable Energy Systems Engineer
+Renewable Energy Systems Engineer
+
+WSP in India
+
+Bengaluru, Karnataka, India
+2 weeks ago
+Lead Control System Engineer
+Lead Control System Engineer
+
+MultiplexEV
+
+Bengaluru, Karnataka, India
+12 hours ago
+Senior Vehicle Integration Specialist (Electrical Focus)
+Senior Vehicle Integration Specialist (Electrical Focus)
+
+SUN Mobility
+
+Bengaluru, Karnataka, India
+3 weeks ago
+Senior Power System Engineer
+Senior Power System Engineer
+
+ReOrbit
+
+Bengaluru, Karnataka, India
+2 days ago
+PMIC Systems and Validation Engineer, Staff
+PMIC Systems and Validation Engineer, Staff
+
+Qualcomm
+
+Bengaluru, Karnataka, India
+2 weeks ago
+BESS control Engineering
+BESS control Engineering
+
+Larsen & Toubro
+
+Bengaluru, Karnataka, India
+3 weeks ago
+Similar Searches
+System Engineer jobs
+6,122 open jobs
+Mechanical Engineer jobs
+2,806 open jobs
+Engineer jobs
+71,158 open jobs
+Flash Developer jobs
+17 open jobs
+Senior Windows Administrator jobs
+178 open jobs
+Junior System Engineer jobs
+730 open jobs
+Microsoft System Engineer jobs
+50 open jobs
+Domain Administrator jobs
+1,638 open jobs
+Requirements Engineer jobs
+5,548 open jobs
+Senior Windows System Administrator jobs
+157 open jobs
+Computer Systems Engineer jobs
+51,350 open jobs
+Lead System Administrator jobs
+1,918 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

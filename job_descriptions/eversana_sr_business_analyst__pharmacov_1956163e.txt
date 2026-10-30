@@ -1,0 +1,325 @@
+Title: Sr Business Analyst (Pharmacovigilance & AI Systems)
+Company: EVERSANA
+Location: Delhi, Delhi, India
+URL: https://in.linkedin.com/jobs/view/sr-business-analyst-pharmacovigilance-ai-systems-at-eversana-4484819834
+Posted: 2026-10-31
+Deadline: N/A
+Reason: The role is a strong match for her background in requirements engineering, traceability, and quality/regulatory compliance in a GxP/regulated environment, and it is located in India.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Sr Business Analyst (Pharmacovigilance & AI Systems)
+EVERSANA  Delhi, Delhi, India
+14 hours ago  60 applicants
+  
+
+See who EVERSANA has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+At EVERSANA, we are proud to be certified as a Great Place to Work across the globe. We’re fueled by our vision to create a healthier world. How? Our global team of more than 7,000 employees is committed to creating and delivering next-generation commercialization services to the life sciences industry. We are grounded in our cultural beliefs and serve more than 650 clients ranging from innovative biotech start-ups to established pharmaceutical companies. Our products, services and solutions help bring innovative therapies to market and support the patients who depend on them. Our jobs, skills and talents are unique, but together we make an impact every day. Join us!
+
+Across our growing organization, we embrace diversity in backgrounds and experiences. Improving patient lives around the world is a priority, and we need people from all backgrounds and swaths of life to help build the future of the healthcare and the life sciences industry. We believe our people make all the difference in cultivating an inclusive culture that embraces our cultural beliefs. We are deliberate and self-reflective about the kind of team and culture we are building. We look for team members that are not only strong in their own aptitudes but also who care deeply about EVERSANA, our people, clients and most importantly, the patients we serve. We are EVERSANA.
+
+Job Description
+
+ESSENTIAL DUTIES AND RESPONSIBILITIES
+
+Requirements Engineering
+
+
+Elicit, document and maintain URS and FRS for each platform module, using structured workshops, process walkthroughs, system demonstrations and review of current SOPs, work instructions and conventions.
+Produce the supporting artefacts: as-is and to-be process maps, data-flow diagrams, user stories with acceptance criteria, business rules, data dictionaries, interface specifications and non-functional requirements (performance, availability, security, auditability, data retention).
+Build and maintain the Requirements Traceability Matrix from URS to FRS to design, test cases and validation evidence, so every requirement can be implemented and tested.
+Run requirement reviews with PV operations, Quality, IT Security, Data Privacy and Engineering; manage change control on approved requirements.
+Prioritize with the Product Owner, write release-level scope statements and support sprint planning and backlog refinement.
+
+
+Domain coverage
+
+You will specify requirements across the following modules, working with the respective PV subject-matter experts:
+
+
+Global and local literature search strategy management, database connectors (MEDLINE/PubMed, Embase and others), de-duplication, AI-assisted relevance screening and ICSR identification, full-text handling, reviewer workflow, hit-level audit trail, reconciliation and KPIs; alignment with GVP Module VI and local literature requirements.
+Multi-channel intake (email, portal, call centre, partner feeds, literature, social media), duplicate detection, AI-assisted data extraction from unstructured sources, MedDRA and WHODrug coding support, seriousness and expectedness assessment, narrative generation with human review, E2B(R3) submission, follow-up management, and integration with safety databases (e.g. Argus, LifeSphere, Veeva Vault Safety).
+Data sources (safety database, EudraVigilance, FAERS, literature), disproportionality and signal detection methods, signal validation, prioritisation, assessment and tracking workflows, signal-to-risk linkage, and documentation aligned to GVP Module IX.
+Data retrieval and reconciliation, line listings and summary tabulations, AI-assisted section drafting with locked source-to-text traceability, author and reviewer workflow, version control, schedule and submission tracking, aligned to 21 CFR 314.80 and ICH E2C(R2).
+Source and channel configuration, listening rules, AI classification of posts for potential adverse events, identifiability and validity criteria, PII handling, reviewer workflow and conversion to case intake, aligned to GVP Module VI and FDA guidance on internet and social media.
+PSMF support, audit-trail reporting and query, compliance dashboards (timeliness, quality, backlog), deviation and CAPA linkage, document and training evidence retrieval, and the ability to reproduce any AI-assisted decision on request.
+
+
+Agentic AI specifics
+
+
+Define, for every agent in the platform, its role, inputs, tools, permitted actions and decision authority, and the human-in-the-loop checkpoints where a qualified person must review, approve or override.
+Specify AI output acceptance criteria with the SMEs: target precision and recall for screening and classification tasks, confidence thresholds for auto-routing versus human review, and how performance is measured and monitored in production.
+Write requirements for explainability and auditability of AI decisions: rationale capture, source citation, prompt and model version logging, reproducibility, and retention of the evidence an inspector would ask for.
+Specify guardrails: what agents must never do without human approval (e.g. submit an ICSR, close a signal, finalise a report), handling of low-confidence or out-of-distribution inputs, and fallback behaviour when a model or tool is unavailable.
+Define requirements for model lifecycle governance: evaluation datasets, change control for prompts and models, regression testing, periodic review, and restrictions on use of client data for model training.
+
+
+Regulatory, quality and privacy compliance
+
+
+Translate the following into explicit, testable requirements and work with Quality on validation strategy:
+21 CFR Part 11 and EU GMP Annex 11: electronic records, electronic signatures, audit trails, access control, data integrity (ALCOA+), system security, record retention and retrieval.
+GDPR and other applicable data-protection laws: lawful basis, data minimisation, pseudonymisation, data-subject rights, cross-border transfer, retention and deletion, privacy by design; support Data Protection Impact Assessments.
+GVP Modules (notably I, II, IV, VI, VII, IX) and ICH E2B(R3), E2C(R2), E2D, E2E as they apply to each module.
+Computerised system validation: GAMP 5 (second edition), risk-based and Computer Software Assurance approaches; author or contribute to validation plans, functional risk assessments, test strategies and traceability.
+Quality Management System requirements for product development: SDLC procedures, change control, deviation and CAPA management, supplier qualification, documentation standards; alignment with ISO 9001 and information-security frameworks (ISO 27001, SOC 2).
+Emerging AI-specific regulation and guidance (EU AI Act, FDA and EMA positions on AI in pharmacovigilance and GxP): assess applicability, track developments and reflect them in requirements.
+Act as the requirements-side point of contact during internal audits and client or regulatory inspections of the platform.
+
+Stakeholder and delivery
+
+
+Work day-to-day with PV operations leads, medical reviewers, Quality Assurance, Data Privacy, IT Security, product management, UX, data scientists and engineers.
+Support UAT: author or review test scripts against the FRS, coordinate business testers, triage defects and confirm requirement coverage.
+Prepare release notes, user-facing functional documentation and training inputs for operations teams.
+Contribute to client-facing material describing how the platform meets regulatory expectations.
+
+
+Qualifications
+
+MINIMUM KNOWLEDGE, SKILLS AND ABILITIES
+
+
+Bachelor's degree in life sciences, pharmacy, nursing, medicine, computer science or a related field.
+6+ years in pharmacovigilance or PV systems, with at least 3 years in a business analyst, systems analyst or product requirements role on GxP software.
+Demonstrated experience authoring URS and FRS (and ideally validation documentation) for PV or other regulated life-sciences systems.
+Working knowledge of at least four of the six domain areas above, gained in operations, a safety-system implementation or a technology vendor; hands-on familiarity with at least one commercial safety database (Argus, LifeSphere, Veeva Vault Safety or equivalent).
+Solid understanding of 21 CFR Part 11, EU GMP Annex 11, data-integrity principles and GDPR, and of how they translate into system requirements.
+Experience working within a QMS and formal SDLC (change control, CSV/CSA, traceability, deviation handling).
+Practical understanding of how LLMs and AI agents work, their failure modes, and what it takes to make their output acceptable in a regulated setting. Prior involvement in an AI or automation project in PV is strongly preferred.
+Strong analytical writing: you can produce a requirement that an engineer can build, a tester can test and an auditor can verify, without ambiguity.
+Comfortable with Agile delivery and tools such as Jira, Confluence or Azure DevOps.
+
+
+Preferred
+
+
+Experience with E2B(R3) implementation, MedDRA and WHODrug coding, and EudraVigilance or FAERS data.
+Experience specifying NLP, machine-learning or GenAI features (classification, extraction, summarisation) including evaluation metrics and acceptance criteria.
+Familiarity with GAMP 5 second edition and the FDA Computer Software Assurance approach.
+Awareness of the EU AI Act and of EMA/FDA reflection papers on AI in the medicinal-product lifecycle.
+Prior participation in regulatory inspections or client audits of PV systems.
+Certifications such as CBAP, PMI-PBA, or ISPE/GAMP training.
+
+
+Additional Information
+
+OUR CULTURAL BELIEFS:
+
+Patient Minded I act with the patient’s best interest in mind.
+
+Client Delight I own every client experience and its impact on results.
+
+Take Action I am empowered and empower others to act now.
+
+Grow Talent I own my development and invest in the development of others.
+
+Win Together I passionately connect with anyone, anywhere, anytime to achieve results.
+
+Communication Matters I speak up to create transparent, thoughtful and timely dialogue.
+
+Embrace Diversity I create an environment of awareness and respect.
+
+Always Innovate I am bold and creative in everything I do.
+
+Our team is aware of recent fraudulent job offers in the market, misrepresenting EVERSANA. Recruitment fraud is a sophisticated scam commonly perpetrated through online services using fake websites, unsolicited e-mails, or even text messages claiming to be a legitimate company. Some of these scams request personal information and even payment for training or job application fees. Please know EVERSANA would never require personal information nor payment of any kind during the employment process. We respect the personal rights of all candidates looking to explore careers at EVERSANA.
+
+From EVERSANA’s inception, Diversity, Equity & Inclusion have always been key to our success. We are an Equal Opportunity Employer, and our employees are people with different strengths, experiences, and backgrounds who share a passion for improving the lives of patients and leading innovation within the healthcare industry. Diversity not only includes race and gender identity, but also age, disability status, veteran status, sexual orientation, religion, and many other parts of one’s identity. All of our employees’ points of view are key to our success, and inclusion is everyone's responsibility.
+
+Follow us on LinkedIn | Twitter
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Pharmaceutical Manufacturing
+  
+
+Referrals increase your chances of interviewing at EVERSANA by 2x
+
+See who you know
+
+Get notified about new Senior Business Analyst jobs in Delhi, Delhi, India.
+
+Sign in to create job alert
+Jobs
+Senior Business Analyst Contract jobs
+Sr Business Analyst (Pharmacovigilance & AI Systems)
+Similar jobs
+Senior Specialist, Pharmacovigilance System
+Senior Specialist, Pharmacovigilance System
+PharmaLex
+Noida, Uttar Pradesh, India
+3 weeks ago
+Senior Specialist, Pharmacovigilance System
+Senior Specialist, Pharmacovigilance System
+PharmaLex
+New Delhi, Delhi, India
+3 weeks ago
+Senior AI Business Automation Engineer - Technology IT
+Senior AI Business Automation Engineer - Technology IT
+Signant Health
+India
+2 weeks ago
+Principal Consultant
+Principal Consultant
+Parexel
+Noida, Uttar Pradesh, India
+1 week ago
+AI Lead
+AI Lead
+Papigen
+India
+₹1,800,000 - ₹2,400,000
+6 days ago
+Senior Principal Consultant
+Senior Principal Consultant
+Parexel
+Noida, Uttar Pradesh, India
+1 week ago
+Show more jobs like this 
+People also viewed
+Safety & PV Specialist II
+Safety & PV Specialist II
+
+Syneos Health
+
+Gurgaon, Haryana, India
+2 months ago
+Manager of Artificial Intelligence
+Manager of Artificial Intelligence
+
+Stealth Startup
+
+India
+4 weeks ago
+Central Monitoring Operations Manager - FSP
+Central Monitoring Operations Manager - FSP
+
+Thermo Fisher Scientific
+
+India
+18 hours ago
+Pharmacovigilance Physician
+Pharmacovigilance Physician
+
+Thermo Fisher Scientific
+
+India
+1 month ago
+Process Operations Manager (AI Automation)
+Process Operations Manager (AI Automation)
+
+Revolut
+
+India
+2 days ago
+Senior Business Analyst – Plan & Strategy (PPSD & AI Drafting)
+Senior Business Analyst – Plan & Strategy (PPSD & AI Drafting)
+
+Papigen
+
+India
+6 days ago
+Safety Reporting Specialist
+Safety Reporting Specialist
+
+Jobgether
+
+India
+1 day ago
+Healthcare Systems Integration Specialist
+Healthcare Systems Integration Specialist
+
+Siemens Healthineers
+
+Faridabad, Haryana, India
+1 week ago
+Senior Technical Product Manager - Healthcare and AI
+Senior Technical Product Manager - Healthcare and AI
+
+Optum India
+
+Noida, Uttar Pradesh, India
+1 month ago
+Central Monitor
+Central Monitor
+
+Indero (formerly Innovaderm)
+
+India
+3 days ago
+Similar Searches
+Senior Business Analyst Contract jobs
+142 open jobs
+Senior Economic Analyst jobs
+56 open jobs
+Lead Business Analyst jobs
+1,850 open jobs
+Senior Technical Business Analyst jobs
+322 open jobs
+Principal Business Analyst jobs
+739 open jobs
+Senior Business System Analyst jobs
+2,914 open jobs
+Business Analyst Contract jobs
+569 open jobs
+Head of Business Analysis jobs
+856 open jobs
+Senior Business Process Analyst jobs
+3,076 open jobs
+Lead Business System Analyst jobs
+3,176 open jobs
+Director Business Analysis jobs
+172 open jobs
+Business Risk Analyst jobs
+2,864 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

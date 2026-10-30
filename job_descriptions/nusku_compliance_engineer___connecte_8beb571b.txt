@@ -1,0 +1,343 @@
+Title: Compliance Engineer - Connected Products
+Company: Nusku
+Location: City Of Bristol, England, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/compliance-engineer-connected-products-at-nusku-4453668762
+Posted: 2026-09-01
+Deadline: N/A
+Reason: The role perfectly aligns with her background in compliance, requirements traceability, and configuration management within a regulated, safety-critical engineering environment.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Compliance Engineer - Connected Products
+Nusku  City Of Bristol, England, United Kingdom
+2 months ago  88 applicants
+  
+
+See who Nusku has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Company Mission
+
+Nusku is leading the energy transition by developing an innovative connected heating system designed to make the move away from gas boilers more affordable, practical and straightforward. Our mission is to reduce the carbon emissions associated with heating the UK’s approximately 29 million households, while reshaping how people think about home heating.
+
+
+
+
+We combine innovation with practical engineering to develop products that are efficient, reliable and designed to integrate into everyday homes. By improving comfort for our customers and lowering energy costs, we aim to accelerate the UK’s journey to net zero.
+
+
+
+
+Who you are
+
+We are looking for someone who is proactive, adaptable and willing to take ownership; combining both technical attention to detail with a practical engineering mindset towards software development, hardware design and product compliance.
+
+
+
+
+As a Compliance Engineer, this role would suit someone who enjoys bringing compliance requirements into practical applications throughout the journey of product development, working alongside engineers to find proportionate solutions to compliance and cyber-security risks.
+
+
+
+
+You should be comfortable understanding standards, reviewing software and hardware designs, establishing test requirements and challenge designs constructively with team members.
+
+Most importantly, you will want your compliance skills to contribute to a mission that matters; helping Nusku bring a low-carbon heating solution into real homes.
+
+
+
+
+What the job involves
+
+As a Compliance Engineer, you will take ownership of product compliance activities throughout the development lifecycle, with a particular focus on software-controlled products, embedded controllers, connectivity and cybersecurity.
+
+
+
+
+Working closely with our software, electronics, controls, hardware, testing and manufacturing teams, your responsibilities will include:
+
+
+
+
+Identifying applicable legislation, standards and certification requirements and translating them into clear product, software and hardware requirements.
+Developing and maintaining compliance and certification strategies for current products and future New Product Introduction projects.
+Producing compliance plans, test specifications, requirements traceability matrices, technical documentation and evidence to support CE/UKCA conformity and other product approvals.
+Reviewing embedded software, firmware, controller, electronics and connected-product designs to identify compliance and cybersecurity risks early in development.
+Planning, coordinating and carrying out verification and compliance testing, both in-house and with external test laboratories.
+Coordinating safety, EMC, RF and cybersecurity assessments, ensuring that testing and supporting evidence meet the applicable requirements.
+Investigating test and compliance failures with the relevant engineering teams and agreeing proportionate corrective actions.
+Assessing the compliance impact of software, hardware and product changes throughout the product lifecycle.
+Supporting effective configuration management, release control and the ongoing maintenance of technical compliance documentation.
+Building and maintaining productive relationships with test laboratories, certification bodies, cybersecurity specialists and, where applicable, UK approved bodies or EU notified bodies.
+
+
+
+
+As part of a growing start-up, you will have the opportunity to shape Nusku’s approach to product compliance, cybersecurity and certification, establishing practical processes that support the safe and successful introduction of our products into customers’ homes.
+
+
+
+
+How we work
+
+We are a committed team, driven to improve the heat pump experience for our customers and reduce the carbon emissions of home heating. We expect you to share these values and contribute to this mission.
+
+This is an office-based role, working closely with our engineering, manufacturing, procurement and field teams from our Bristol site. The role depends on regular face-to-face collaboration, active project coordination and close involvement with product development and delivery activity.
+
+
+
+
+Occasional home working may be possible where it fits with project needs, but applicants should expect this to be a predominantly site-based position. Some domestic travel may also be required to support suppliers, manufacturing partners, test sites, certification partners and notified bodies.
+
+
+
+
+What we’re looking for
+
+We are looking for someone with a solid foundation in product compliance, who is ready to apply their skills in a fast-growing product development environment.
+
+
+
+
+Must-haves:
+
+Demonstrable experience in product compliance, product safety, certification, testing, verification or regulatory engineering for software-controlled or connected products.
+A strong practical background in verification and validation, with the ability to translate standards and regulatory requirements into clear specifications, compliance plans, test plans and acceptance criteria.
+Working knowledge of connected-product cybersecurity requirements and standards, such as the UK PSTI regime, the EN 18031 series and the EU Cyber Resilience Act, or demonstrably transferable experience.
+Understanding of embedded software, control systems, communications interfaces and connected-product architectures, including how they interact with electrical and electronic hardware.
+Awareness of RF, EMC and EMF requirements and their implications for product design, testing and certification.
+Experience producing requirements traceability matrices, technical documentation and evidence to support product approval and ongoing compliance throughout the product lifecycle.
+Experience collaborating with software, electronics, controls and hardware engineers to investigate compliance or test failures, assess product changes and implement proportionate corrective actions.
+Experience working with external test laboratories, certification bodies, cybersecurity specialists or other conformity-assessment partners.
+Strong analytical, organisational and communication skills, with a structured, evidence-based approach and the adaptability to work effectively in a fast-moving start-up environment.
+
+
+
+
+Nice-to-haves:
+
+Experience in embedded software, firmware or controller development for heat pumps, HVAC systems or other connected products.
+Knowledge of secure development practices, including threat modelling, vulnerability management and penetration testing.
+Experience with secure communications, authentication, access control and software-update mechanisms.
+Familiarity with requirements traceability, configuration management, release control and software change-impact assessment.
+Understanding of cloud connectivity, mobile applications, APIs or remote-monitoring platforms.
+Familiarity with connected-product communications, including sub-GHz wireless systems operating in the 868 MHz band, Wi-Fi, wired Ethernet, and industrial protocols such as Modbus RTU and Modbus TCP.
+Awareness of relevant heat-pump product safety, control and EMC standards, including EN 60335-1, EN 60335-2-40, EN 60730, EN 55014 and EN 61000.
+Awareness of heat pump and product hardware standards, including EN 60335-1, EN 60335-2-40, EN 60730, EN 55014 & EN 61000.
+
+
+
+
+Our culture & benefits
+
+At Nusku, we believe in building an inclusive and supportive workplace where every team member can thrive. We encourage collaboration, curiosity and continuous learning. As part of our team, you’ll enjoy:
+
+Being part of a mission-driven company tackling one of the UK’s biggest sustainability challenges.
+The chance to work with a dynamic and supportive engineering team.
+Flexible working arrangements to balance work and life.
+Opportunities for professional development and career progression as we grow.
+25 days of holiday each year, plus your birthday off as an extra treat.
+Comprehensive group insurance cover, including life insurance, income protection, and critical illness insurance (subject to standard eligibility criteria).
+Access to a virtual GP service and an employee assistance program for health and wellbeing support.
+A contributory company pension scheme (subject to scheme rules).
+A cycle-to-work scheme to support your health and sustainability goals.
+
+
+
+
+Join us on our journey to transform home heating in the UK and play your part in building a greener, more sustainable future.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Manufacturing
+  
+
+Referrals increase your chances of interviewing at Nusku by 2x
+
+See who you know
+
+Get notified about new Compliance Engineer jobs in City Of Bristol, England, United Kingdom.
+
+Sign in to create job alert
+Jobs
+Product Safety Engineer jobs
+Compliance Engineer - Connected Products
+Similar jobs
+Product Compliance Engineer
+Product Compliance Engineer
+ASSA ABLOY Group
+Olney, England, United Kingdom
+3 weeks ago
+Senior Compliance Engineer
+Senior Compliance Engineer
+Boost inc
+London Area, United Kingdom
+2 days ago
+Senior Compliance Engineer
+Senior Compliance Engineer
+Boost inc
+London, England, United Kingdom
+2 days ago
+Compliance Engineer
+Compliance Engineer
+JBT Marel
+Adlington, England, United Kingdom
+3 days ago
+Compliance Engineer
+Compliance Engineer
+Markem-Imaje
+Nottinghamshire, England, United Kingdom
+2 weeks ago
+Senior Product Compliance Engineer
+Senior Product Compliance Engineer
+Brigade Electronics Group Plc
+Dartford, England, United Kingdom
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Senior Product Stewardship Engineer (m/f/x)
+Senior Product Stewardship Engineer (m/f/x)
+
+3M
+
+Bracknell, England, United Kingdom
+1 month ago
+Design and Certification Specialist
+Design and Certification Specialist
+
+Civil Aviation Authority
+
+England, United Kingdom
+2 weeks ago
+Requirements Engineer - Interoperability
+Requirements Engineer - Interoperability
+
+Siemens
+
+Chippenham, England, United Kingdom
+1 week ago
+Design Assurance Engineer
+Design Assurance Engineer
+
+Cambridge Consultants
+
+Cambridge, England, United Kingdom
+1 week ago
+Certification Engineer
+Certification Engineer
+
+CDM Recruitment Ltd - Engineering & Manufacturing Specialists
+
+Cramlington, England, United Kingdom
+£42,000 - £44,000
+2 days ago
+Advanced Quality & Regulatory Engineer
+Advanced Quality & Regulatory Engineer
+
+Crux Product Design
+
+Bristol, England, United Kingdom
+4 days ago
+Safety Engineer
+Safety Engineer
+
+Elekta
+
+Crawley, England, United Kingdom
+2 weeks ago
+Functional Safety Manager
+Functional Safety Manager
+
+Arm
+
+Cambridge, England, United Kingdom
+3 days ago
+Senior Product Technologist
+Senior Product Technologist
+
+Tom Dixon Studio
+
+London Area, United Kingdom
+3 weeks ago
+Quality Engineer - Compliance Analysis
+Quality Engineer - Compliance Analysis
+
+Danfoss
+
+Warwick-On-Eden, England, United Kingdom
+2 weeks ago
+Similar Searches
+Product Safety Engineer jobs
+1,480 open jobs
+Senior Compliance Engineer jobs
+297 open jobs
+Regulatory Engineer jobs
+466 open jobs
+Certification Engineer jobs
+3,007 open jobs
+Senior Regulatory Specialist jobs
+848 open jobs
+Corporate Compliance Manager jobs
+1,384 open jobs
+Safety Compliance Manager jobs
+1,245 open jobs
+Senior Safety Specialist jobs
+1,507 open jobs
+Intellectual Property Analyst jobs
+624 open jobs
+Product Test Engineer jobs
+1,153 open jobs
+Patent Engineer jobs
+47 open jobs
+Air Quality Specialist jobs
+490 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
