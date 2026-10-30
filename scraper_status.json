@@ -1,9 +1,9 @@
 {
   "pid": 31628,
   "started_at": "2026-10-30T01:13:26+02:00",
-  "heartbeat_at": "2026-10-30T02:15:33+02:00",
+  "heartbeat_at": "2026-10-30T02:18:49+02:00",
   "phase": "reviewing",
-  "detail": "Quality Manager",
-  "last_scrape_ok_at": "2026-10-30T02:14:23+02:00",
+  "detail": "Product Manager: FTTB",
+  "last_scrape_ok_at": "2026-10-30T02:17:27+02:00",
   "last_error": null
 }
