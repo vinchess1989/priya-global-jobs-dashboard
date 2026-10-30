@@ -1,0 +1,255 @@
+Title: Senior Platform Engineer
+Company: Mastercard
+Location: Dublin, County Dublin, Ireland
+URL: https://ie.linkedin.com/jobs/view/senior-platform-engineer-at-mastercard-4483494072
+Posted: 2026-10-31
+Deadline: Open until filled
+Reason: The role is a strong match for her DevOps and CI/CD expertise, located in an eligible country, and does not trigger any hard rejections.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Platform Engineer
+Mastercard  Dublin, County Dublin, Ireland
+5 hours ago   Be among the first 25 applicants
+  
+
+See who Mastercard has hired for this role
+
+Apply 
+Save
+Our Purpose
+
+Mastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.
+
+Title And Summary
+
+Senior Platform Engineer
+
+Overview:
+
+The Cyber and Intelligence Solutions (C&I) team is responsible for product management and innovative product development of products and services to address the evolving risk & cyber security needs of all of MasterCard’s various customer segments. The C&I team was established with the responsibility to safeguard all aspects of safety and security in payments and have made great strides with new products, services, and standards, positively impacting all aspects of our current and future payment eco-system.
+
+Ekata, a Mastercard company, is the global standard in identity verification, providing businesses worldwide the ability to link any digital transaction to the human behind it. Our Ekata Identity Engine, the first and only of its kind, uses complex machine learning to combine features derived from the billions of transactions within our proprietary network and the data from our graph to deliver industry leading risk assessment solutions.
+
+As a Senior Platform Engineer you will help manage our production environment, providing a highly available and scalable platform for Ekata to serve our customers. The infrastructure team provides support to Engineering to help diagnose production issues and provide guidance on improving the availability and performance of our applications. This position also develops systems, automation, and tools to help make it easier for Engineering teams to deploy services in a fast, automated, and reliable fashion.
+
+In This Role You Will:
+
+
+Build, scale and support high-availability Ubuntu Linux production and development systems in a public cloud environment.
+Work with tools such as Jenkins, Ansible, Argo CD, Terraform, CloudFormation, Resource Manager and many more to ensure that our stack is well represented as Infrastructure as Code.
+Manage and Improve security and availability monitoring for all services, ensure defined security policies are consistently implemented across all environments.
+Deploy workloads to multiple cloud environments, proven experience with all of the core services within AWS, Azure or GCP, including instance management, IAM configuration, Database, Caching and general support/troubleshooting.
+Have a developed understanding of the core components required to run Kubernetes and be able to build a cluster from scratch if needed.
+Have perfected the fundamentals of load balancing, service mesh and always looking for ways to improve availability and uptime.
+Maintain quality documentation for systems owned by the Infrastructure team.
+Use monitoring tools to identify and resolve issues before they happen. Have familiarity with Prometheus.
+Help other teams troubleshoot and solve failures and performance problems, participate in on-call rotations.
+Have a passion for working with Go, Python, Rust or even Bash to build custom tools and improve system integration. Take code ownership to the next level and act as an advocate for writing code that aligns with industry best practice.
+Have a solid grasp on networking fundamentals and can easily explain how DNS, DHCP and routing work in most environments.
+
+
+
+All About You:
+
+
+Excellent spoken and written English skills. Is a team player and values collaboration.
+BS degree in Computer Science or equivalent experience.
+Proven skills with Linux or UNIX systems and related protocols/software with 3+ years’ experience.
+A command of Linux systems including troubleshooting, memory management, tuning, I/O subsystem, RAID, and security.
+Experience with provisioning tools such as Ansible/Chef/Terraform.
+Experience with Jenkins or other CI/CD tools.
+Programming aptitude in Go, Python, and Bash.
+Working knowledge of database systems such as MySQL or PostgreSQL.
+Experience building and deploying Containers, including orchestration tools such as Kubernetes, Mesos, or Docker Swarm.
+Experience with cloud providers (AWS, Azure, GCP)
+
+
+
+Corporate Security Responsibility
+
+All Activities Involving Access To Mastercard Assets, Information, And Networks Comes With An Inherent Risk To The Organization And, Therefore, It Is Expected That Every Person Working For, Or On Behalf Of, Mastercard Is Responsible For Information Security And Must:
+
+
+Abide by Mastercard’s security policies and practices.
+Ensure the confidentiality and integrity of the information being accessed.
+Report any suspected information security violation or breach, and
+Complete all periodic mandatory security trainings in accordance with Mastercard’s guidelines.
+
+
+
+Work Schedule & On-Call Requirements
+
+
+Standard working hours are ~10 AM – ~6/7 PM UTC, Monday through Friday.
+Participate in a follow-the-sun on-call rotation approximately every 1.5 months once the team is fully staffed.
+During the initial staffing period, team members should expect to participate in the on-call rotation approximately every 3-4 weeks until the team reaches full capacity.
+Ability to respond to and troubleshoot production infrastructure and networking issues during assigned on-call periods.
+
+
+
+We cultivate a culture of inclusion (https://www.mastercard.us/en-us/vision/who-we-are/diversity-inclusion.html) for all employees that respects their individual strengths, views, and experiences
+
+Corporate Security Responsibility
+
+All Activities Involving Access To Mastercard Assets, Information, And Networks Comes With An Inherent Risk To The Organization And, Therefore, It Is Expected That Every Person Working For, Or On Behalf Of, Mastercard Is Responsible For Information Security And Must:
+
+
+Abide by Mastercard’s security policies and practices;
+Ensure the confidentiality and integrity of the information being accessed;
+Report any suspected information security violation or breach, and
+Complete all periodic mandatory security trainings in accordance with Mastercard’s guidelines.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Financial Services, IT Services and IT Consulting, and Technology, Information and Internet
+  
+
+Referrals increase your chances of interviewing at Mastercard by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Senior Platform Engineer - Data License Plus
+Senior Platform Engineer - Data License Plus
+Bloomberg
+Dublin, County Dublin, Ireland
+2 days ago
+Staff Platform Engineer - EU
+Staff Platform Engineer - EU
+Ashby
+Greater Dublin
+€154,000 - €250,000
+3 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Ripple
+Dublin, County Dublin, Ireland
+9 hours ago
+Senior Software Engineer, Platform
+Senior Software Engineer, Platform
+Astronomer
+Dublin, County Dublin, Ireland
+8 hours ago
+Senior Cloud Platform Engineer
+Senior Cloud Platform Engineer
+Munich Re Automation Solutions
+Dublin, County Dublin, Ireland
+3 weeks ago
+Senior Software Engineer - Platform Engineering
+Senior Software Engineer - Platform Engineering
+Bloomberg
+Dublin, County Dublin, Ireland
+2 days ago
+Show more jobs like this 
+People also viewed
+Senior Software Engineer - Infrastructure
+Senior Software Engineer - Infrastructure
+
+Toast
+
+Dublin, County Dublin, Ireland
+5 hours ago
+Staff Software Engineer, Platform Infrastructure
+Staff Software Engineer, Platform Infrastructure
+
+Pantheon
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+Edge Software & Platform Engineer
+Edge Software & Platform Engineer
+
+MCS Group | Your Specialist Recruitment Consultancy
+
+Dublin, County Dublin, Ireland
+13 hours ago
+Staff Engineer
+Staff Engineer
+
+Solance
+
+Dublin, County Dublin, Ireland
+1 week ago
+Cloud Infrastructure/Engineer
+Cloud Infrastructure/Engineer
+
+Mars Capital
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+Apple
+
+Dublin, County Dublin, Ireland
+3 months ago
+AI Infrastructure Architect
+AI Infrastructure Architect
+
+Accenture UK & Ireland
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+Staff Site Reliability Engineer
+Staff Site Reliability Engineer
+
+ServiceNow
+
+Dublin, County Dublin, Ireland
+3 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Newcode.ai
+
+Dublin, County Dublin, Ireland
+5 months ago
+Staff Engineer, Site Reliability
+Staff Engineer, Site Reliability
+
+LearnUpon
+
+Dublin, County Dublin, Ireland
+3 weeks ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

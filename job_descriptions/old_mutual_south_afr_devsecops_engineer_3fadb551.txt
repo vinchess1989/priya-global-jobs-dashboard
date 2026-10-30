@@ -1,0 +1,291 @@
+Title: DevSecOps Engineer
+Company: Old Mutual South Africa
+Location: Johannesburg, Gauteng, South Africa
+URL: https://za.linkedin.com/jobs/view/devsecops-engineer-at-old-mutual-south-africa-4485351003
+Posted: 2026-10-31
+Deadline: 2026-11-09
+Reason: The role aligns with the candidate's extensive experience in CI/CD, configuration management, and security compliance within a regulated industry, and it is located in a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevSecOps Engineer
+Old Mutual South Africa  Johannesburg, Gauteng, South Africa
+11 hours ago   Be among the first 25 applicants
+  
+
+See who Old Mutual South Africa has hired for this role
+
+Apply 
+Save
+Let's Write Africa's Story Together!
+
+Old Mutual is a firm believer in the African opportunity and our diverse talent reflects this.
+
+Job Description
+
+As a DevSecOps Engineer, you will play a key role in the integration of security practices into our DevOps processes, ensuring the highest level of security across the software development lifecycle. This role is suited for a seasoned professional with deep expertise in DevOps, security, and automation. You will provide mentorship to team members and collaborate with various stakeholders to enhance the organization's security posture.
+
+Group Technology & Data | MDM
+
+Description
+
+
+Security Automation Leadership: Play s key role in the development and optimization of security automation scripts and tools within CI/CD pipelines. Champion the implementation of advanced automated security testing processes.
+Vulnerability Management and Remediation: Oversee and manage vulnerability scanning and assessment processes, ensuring swift identification and remediation of security vulnerabilities.
+Security Monitoring: Lead the design, implementation, and maintenance of comprehensive security monitoring solutions.
+Incident Response: Drive incident response efforts, analyze security events, and contribute to continuous improvement of response capabilities.
+Infrastructure as Code (IaC) Excellence: Enforce security best practices in Infrastructure as Code (IaC) scripts. Collaborate with DevOps teams to integrate advanced security measures into infrastructure provisioning.
+Secure Configuration Management: Implement secure configuration management practices for infrastructure components. Set and monitor secure configuration baselines in collaboration with operations teams.
+Security Governance and Compliance: Lead the establishment of security governance policies and compliance standards.
+Collaboration and Mentorship: Collaborate with cross-functional teams, providing guidance on security practices in DevOps processes. Mentor and coach junior and intermediate DevSecOps engineers.
+
+
+Qualifications And Experience
+
+
+Bachelor's degree in Computer Science, Information Security or a related discipline, or equivalent practical experience.
+5+ years of relevant experience across DevOps, cloud engineering, cybersecurity or platform security.
+Proven experience leading DevSecOps initiatives and embedding security into enterprise delivery pipelines.
+Strong practical experience securing AWS and Azure cloud environments.
+Advanced understanding of CI/CD, Infrastructure as Code, container security and automated vulnerability management.
+Expert scripting and automation capabilities using Python and/or Bash.
+Strong knowledge of IAM, encryption, secrets management, secure configurations and security incident response.
+Experience with Linux, Docker, ECS/Fargate, cloud monitoring and production operations.
+Working knowledge of SQL, REST APIs and enterprise integration troubleshooting.
+Relevant AWS, Azure, DevSecOps or advanced security certifications are advantageous.
+
+
+Technology Stack
+
+
+Cloud platforms: AWS, Microsoft Azure
+AWS services: ECS, Fargate, EC2, RDS, S3, IAM, CloudWatch, cloud networking
+CI/CD: Azure DevOps, GitHub Actions, Jenkins, GitLab CI/CD
+Infrastructure as Code: Terraform, AWS CloudFormation, Bicep or equivalent
+Containers: Docker, container registries, image scanning and hardening
+Operating systems: Linux administration, patching, shell scripting and log analysis
+Scripting and automation: Python, Bash
+Security: Vulnerability scanning, security testing, secrets management, encryption, IAM and compliance controls
+Monitoring and observability: AWS CloudWatch, Azure Monitor and enterprise monitoring platforms
+Version control: Git and collaborative development workflows
+Databases and SQL: Amazon RDS, SQL querying, database access controls and connectivity troubleshooting
+API and integration security: REST APIs, HTTP, JSON, authentication, certificates, Postman and curl
+
+
+Skills
+
+Action Planning, Application Development, Data Compilation, Data Management, Evaluating Information, Executing Plans, Information Technology (IT) Support, IT Network Security, Market Analysis, Product Development, Test Case Management
+
+Competencies
+
+Business Insight
+
+Courage
+
+Cultivates Innovation
+
+Customer Focus
+
+Decision Quality
+
+Drives Results
+
+Ensures Accountability
+
+Manages Ambiguity
+
+Education
+
+NQF Level 7 - Degree, Advance Diploma or Postgraduate Certificate or equivalent
+
+Closing Date
+
+09 November 2026 , 23:59
+
+The appointment will be made from the designated group in line with the Employment Equity Plan of Old Mutual South Africa and the specific business unit in question.
+
+The Old Mutual Story!
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at Old Mutual South Africa by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+System Analyst jobs
+DevSecOps Engineer
+Similar jobs
+DevSecOps / Azure Architect
+DevSecOps / Azure Architect
+Penta Consulting
+Johannesburg Metropolitan Area
+1 day ago
+DevOps Engineer - (AML Platform)
+DevOps Engineer - (AML Platform)
+Optimal Growth Technologies
+Johannesburg, Gauteng, South Africa
+1 month ago
+Microservices Security Specialist.
+Microservices Security Specialist.
+SASSO CONSULTING
+Johannesburg, Gauteng, South Africa
+3 weeks ago
+Cloud Security Specialist
+Cloud Security Specialist
+SASSO CONSULTING
+Johannesburg, Gauteng, South Africa
+3 weeks ago
+Security Engineer (Cyber Security & GRC)
+Security Engineer (Cyber Security & GRC)
+Kaelo
+Randburg, Gauteng, South Africa
+1 week ago
+Application Developer - DevOps
+Application Developer - DevOps
+Blue Pearl HQ
+Johannesburg, Gauteng, South Africa
+2 days ago
+Show more jobs like this 
+People also viewed
+Cybersecurity Principal Technical Specialist
+Cybersecurity Principal Technical Specialist
+
+MAZIV
+
+Bryanston, Gauteng, South Africa
+1 week ago
+Cloud Engineer: Database Services
+Cloud Engineer: Database Services
+
+Nedbank
+
+Johannesburg, Gauteng, South Africa
+1 week ago
+GCP Cloud Engineer
+GCP Cloud Engineer
+
+Badger & Bird Talent
+
+Johannesburg, Gauteng, South Africa
+ZAR 100,000 - ZAR 120,000
+3 weeks ago
+Senior Firewall & Network Security Engineer
+Senior Firewall & Network Security Engineer
+
+Tiger Brands
+
+Bryanston, Gauteng, South Africa
+4 days ago
+DevSecOps / Azure Architect
+DevSecOps / Azure Architect
+
+Blue Pearl HQ
+
+Johannesburg, Gauteng, South Africa
+2 days ago
+Intermediate AWS Platform / Integration engineer
+Intermediate AWS Platform / Integration engineer
+
+DeARX
+
+Sandton, Gauteng, South Africa
+2 weeks ago
+Security Specialist
+Security Specialist
+
+All jobs
+
+Johannesburg, Gauteng, South Africa
+1 week ago
+Head of IT Security
+Head of IT Security
+
+Postbank (SOC) Ltd
+
+Pretoria, Gauteng, South Africa
+3 days ago
+Network Security Architect
+Network Security Architect
+
+South African Reserve Bank
+
+Pretoria Metropolitan Area
+16 hours ago
+Azure Security Specialist
+Azure Security Specialist
+
+SASSO CONSULTING
+
+Johannesburg, Gauteng, South Africa
+3 weeks ago
+Similar Searches
+System Analyst jobs
+4,271 open jobs
+Data Scientist jobs
+4,214 open jobs
+Data Analyst jobs
+4,804 open jobs
+Scientist jobs
+246 open jobs
+Firewall Engineer jobs
+82 open jobs
+Engineer jobs
+4,853 open jobs
+Analyst jobs
+3,898 open jobs
+Oracle Developer jobs
+108 open jobs
+Platform Engineer jobs
+524 open jobs
+Machine Learning Engineer jobs
+1,035 open jobs
+Software Tester jobs
+99 open jobs
+Software Engineer jobs
+4,254 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

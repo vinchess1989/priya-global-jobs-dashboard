@@ -1,0 +1,268 @@
+Title: SRE Platform Engineer (Microsoft Azure)
+Company: Syspro
+Location: Sandton, Gauteng, South Africa
+URL: https://za.linkedin.com/jobs/view/sre-platform-engineer-microsoft-azure-at-syspro-4484809174
+Posted: 2026-10-31
+Deadline: N/A
+Reason: The role aligns with her extensive background in CI/CD, infrastructure automation, and release management, and it is located in a target country (South Africa) with no explicit visa restrictions mentioned.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+SRE Platform Engineer (Microsoft Azure)
+Syspro  Sandton, Gauteng, South Africa
+22 hours ago   Be among the first 25 applicants
+  
+
+See who Syspro has hired for this role
+
+Apply 
+Save
+The SRE Platform Engineer is responsible for designing, building, and maintaining the reliability, availability, and scalability of Syspro’s cloud platform infrastructure. Applying site reliability engineering principles alongside modern AIOps tooling, the role ensures platform resilience, automates operational workflows, and partners with development teams to embed reliability into the software delivery lifecycle.
+Responsibilities
+Design and implement scalable, reliable platform infrastructure using SRE principles — including service-level objectives (SLOs), error budgets, and reliability targets — to drive consistent uptime and performance.
+Automate operational workflows through infrastructure-as-code (IaC) tooling and CI/CD pipeline configuration, eliminating manual toil and accelerating deployment velocity.
+Monitor and observe platform health across services using observability tooling (Prometheus, Grafana, or Datadog equivalents), responding to incidents and driving root-cause analysis to prevent recurrence.
+Maintain and improve Kubernetes-based container orchestration environments, ensuring optimal resource allocation, availability, and security posture across all workloads.
+Leverage AI-assisted monitoring, AIOps platforms, and ML-based anomaly detection tools to proactively identify platform risks, reduce mean time to resolution (MTTR), and surface predictive insights for the team.
+Collaborate with development teams and the Senior Kubernetes Architect to embed reliability requirements into system design from the outset, participating in design reviews and pre-production readiness assessments.
+Participate in on-call rotations and incident response, contributing to post-incident reviews and implementing corrective actions to strengthen platform resilience.
+
+
+Contribute to capacity planning, disaster recovery design, and business continuity efforts, maintaining up-to-date runbooks and operational documentation.
+RequirementsMinimum Level of Education  
+
+Bachelor’s Degree in Computer Science, Information Technology, or a related field; or equivalent NQF Level 7 qualification.
+
+
+ 
+Beneficial Qualifications  
+Certified Kubernetes Administrator (CKA); AWS, GCP, or Azure cloud certifications; Google SRE or DORA-related training advantageous.
+Minimum Experience
+
+4–6 years in a platform engineering, DevOps, or site reliability engineering role. Demonstrated hands-on experience with Kubernetes, CI/CD pipelines, and cloud infrastructure management. Proven ability to own and resolve production incidents independently.
+
+
+ 
+Beneficial Experience
+
+Experience with multitenancy cloud platform environments. Exposure to AIOps or AI-assisted observability platforms. Terraform or Ansible infrastructure-as-code experience. Background in B2B SaaS or ERP software environments.
+
+
+Special Skills and Knowledge
+
+Site reliability engineering: working knowledge of SLOs, SLIs, error budgets, and reliability engineering practices.
+Kubernetes and container orchestration: hands-on experience managing Kubernetes clusters, workloads, and networking configurations.
+CI/CD and IaC: proficiency with pipeline tooling (GitLab CI, GitHub Actions, Jenkins) and infrastructure-as-code (Terraform, Helm, Ansible).
+Observability and monitoring: competency with tools such as Prometheus, Grafana, Datadog, or equivalent platforms.
+AI and AIOps tooling: ability to apply AI-assisted monitoring and anomaly detection tools to improve platform health and reduce MTTR.
+Solid scripting languages (Python, Bash).
+Incident response: disciplined approach to on-call responsibilities, structured incident management, and blameless post-mortems.
+Collaboration and communication: ability to work effectively with development teams, architects, and operations leadership.
+
+
+Self-driven learning: commitment to staying current with evolving SRE practices, cloud-native tooling, and platform technologies.
+Benefits
+25 annual leave days
+30 days paid sick leave over 3-year cycle
+Hybrid working environment (3 office days as determined by the function/ manager)
+Pension 10%
+Medical aid
+Life insurance
+Income continuation protection
+Funeral Benefit
+Provident Fund Admin Fee
+Global Education Protection
+Bonus/ commission programmes 
+Maternity: 6 months at half pay 
+Paternity: 2 weeks full pay
+Employee Assistance Programme 
+Free Barista Coffee Daily 
+Gym Facilities 
+Free Daily Lunch 
+Free Fruit on a Tuesday & Thursday 
+Free Refreshments & Snacks Daily 
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Syspro by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Site Reliability Engineer jobs
+SRE Platform Engineer (Microsoft Azure)
+Similar jobs
+SRE Platform Engineer (Microsoft Azure)
+SRE Platform Engineer (Microsoft Azure)
+Syspro
+Johannesburg, Gauteng, South Africa
+1 month ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+VALR
+Johannesburg, Gauteng, South Africa
+1 month ago
+Platform Engineer
+Platform Engineer
+Share
+City of Johannesburg, Gauteng, South Africa
+1 month ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+Nintex
+Johannesburg, Gauteng, South Africa
+2 days ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+Camunda
+Johannesburg, Gauteng, South Africa
+1 week ago
+Cloud Engineer
+Cloud Engineer
+Nedbank
+Johannesburg, Gauteng, South Africa
+1 week ago
+Show more jobs like this 
+People also viewed
+Operations Engineer
+Operations Engineer
+
+SavvySaver
+
+Johannesburg, Gauteng, South Africa
+4 months ago
+Technical Operations Specialist
+Technical Operations Specialist
+
+Wipro
+
+Gauteng, South Africa
+4 weeks ago
+Support Engineer I, Safety Systems
+Support Engineer I, Safety Systems
+
+Hexagon Mining
+
+Johannesburg, Gauteng, South Africa
+1 week ago
+System Engineer: Server Infrastructure
+System Engineer: Server Infrastructure
+
+Land and Agricultural Development Bank of South Africa
+
+Woodmead, Gauteng, South Africa
+2 days ago
+IT Infrastructure Engineer - P2
+IT Infrastructure Engineer - P2
+
+Sandvik
+
+Kempton Park, Gauteng, South Africa
+1 day ago
+Senior Infrastructure Specialist
+Senior Infrastructure Specialist
+
+HCLTech
+
+Johannesburg Metropolitan Area
+1 month ago
+Forward-Deployed Engineer
+Forward-Deployed Engineer
+
+ADG
+
+Johannesburg, Gauteng, South Africa
+2 weeks ago
+Senior Digital Workspace Support Engineer
+Senior Digital Workspace Support Engineer
+
+PayInc
+
+Johannesburg Metropolitan Area
+3 days ago
+DevSecOps / Azure Architect
+DevSecOps / Azure Architect
+
+Penta Consulting
+
+Johannesburg Metropolitan Area
+1 day ago
+Senior Infrastructure Consultant
+Senior Infrastructure Consultant
+
+Technimove
+
+Johannesburg, Gauteng, South Africa
+2 weeks ago
+Similar Searches
+Site Reliability Engineer jobs
+1,083 open jobs
+Infrastructure Engineer jobs
+360 open jobs
+Linux Engineer jobs
+269 open jobs
+Senior Infrastructure Engineer jobs
+155 open jobs
+Virtualization Engineer jobs
+78 open jobs
+Unix Engineer jobs
+38 open jobs
+Cloud Architect jobs
+324 open jobs
+System Development Engineer jobs
+3,642 open jobs
+Senior Reliability Engineer jobs
+28 open jobs
+Linux System Engineer jobs
+240 open jobs
+Database Engineer jobs
+270 open jobs
+Linux System Administrator jobs
+35 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

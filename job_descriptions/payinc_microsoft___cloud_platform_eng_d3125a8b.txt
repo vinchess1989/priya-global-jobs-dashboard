@@ -1,0 +1,353 @@
+Title: Microsoft & Cloud Platform Engineer
+Company: PayInc
+Location: Johannesburg Metropolitan Area
+URL: https://za.linkedin.com/jobs/view/microsoft-cloud-platform-engineer-at-payinc-4482215303
+Posted: 2026-10-28
+Deadline: N/A
+Reason: The role aligns with the candidate's extensive background in infrastructure, configuration management, and CI/CD automation within a regulated environment, and it is located in a target country (South Africa).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Microsoft & Cloud Platform Engineer
+PayInc  Johannesburg Metropolitan Area
+3 days ago  63 applicants
+  
+
+See who PayInc has hired for this role
+
+Apply 
+Save
+Description
+
+PayInc is a purpose-driven payments provider building on over 50 years of trusted history in South Africa’s payments ecosystem. Our mission is to connect people, businesses, and economies through secure, efficient and inclusive digital payments infrastructure and be a catalyst for financial inclusion and economic growth. PayInc provides the backbone that enables money to move safely across the economy via payment streams such as, but not limited to EFT, Card and PaySharp. At our core, we exist to make great connections, empowering participation, enabling growth, and ensuring no one is left behind.
+
+PURPOSE:
+
+The Senior Microsoft & Cloud Platform Engineer plays a pivotal role in solutioning, designing, implementing and optimizing our Microsoft (Windows Server) and cloud-hosted infrastructure to empower the organization's continuous digital transformation. This role contributes toward the scalability, security, and reliability of our Microsoft and cloud-based services. It enables agility, rapid innovation and drives efficiencies within the Microsoft and cloud infrastructure that underpins mission-critical payment clearing platforms.
+
+Key focus areas include SLA100, regulatory compliance such as PCI, operational excellence, and cost-efficient infrastructure while enabling innovation through automation, infrastructure as code, enterprise patching and vulnerability management, environment modernisation and optimisation, FinOps-led cost optimisation, best practices and modern OS systems and cloud engineering practices across AWS-centred, multi-cloud environments.
+
+You will engage with the following stakeholders
+
+Internal
+
+
+The role collaborates with multiple internal governance, business and technical delivery teams including:
+Application owners and product teams
+ICT management
+IT Operations, Security, and IT Governance teams
+Cloud Centre of Excellence (CCOE)
+Enterprise governance structures such as but not limited to:
+Enterprise Design Authority
+Change Advisory Board (CAB)
+Risk Committee
+IT Compliance and Audit teams
+
+External
+
+The role engages with a variety of external stakeholders across the financial and technology ecosystem, including:
+
+
+Financial industry participants such as banks and non-bank institutions
+Cloud service providers and technology vendors Regulatory authorities and industry compliance bodies
+Potential customers and payment ecosystem participants
+Strategic suppliers and vendors involved in project delivery, support, and maintenance
+
+
+Your key responsibilities include:
+
+
+Provide expert support across core PayInc Microsoft, AWS and hosting platforms by demonstrating innovative and pioneer thinking in area of expertise. Translate this into design, solutions and/or working practice improvements within the technical domain
+Actively contribute to the design and deployment of scalable, highly available, and fault-tolerant platforms for the hosting of PayInc services.
+Collaborate with architecture teams to implement approved infrastructure patterns and solutions.
+Support governance bodies with technical insight and infrastructure risk considerations.
+Vet all technical requirements and details for new ventures, technical design changes and functional specifications within the Microsoft & Cloud Compute domain and provide infrastructure expertise and guidance to Engineers and other stakeholders.
+Engineer highly available and fault-tolerant hosting platforms and landing zones capable of supporting critical payments infrastructure. Ensure build alignment with enterprise architecture, governance standards and PayInc IT strategy.
+Design, build and govern core Microsoft platform services, including Windows Server, Active Directory, Group Policy, DNS and DHCP, and their integration with AWS, other cloud hosted landing zones and hybrid identity services.
+Collaborate with internal and external teams to understand requirements and provide secure, fault-tolerant and scalable solutions through resilient architecture that adheres to industry controls and best practices.
+Support application and other technical teams in adopting cloud-native design patterns and deployment approaches.
+Identify automation opportunities and drive the automation of infrastructure operations, configuration and deployment processes using tools such as, but not limited to Terraform, AWS CloudFormation, PowerShell, Microsoft services such as patch management & automation services and AWS Systems Manager Automation.
+Develop and maintain Infrastructure as Code (IaC) frameworks to standardize infrastructure provisioning and version control.
+Evaluate and propose enhancements to IaC tooling, repository structures, and lifecycle management practices to increase consistency and reduce operational risk.
+Contribute to the multi-cloud platform strategy and enablement. Identify and enable solutions that support interoperability across cloud providers.
+Monitor system performance and proactively optimize resources, propose architectural improvements that balance performance, resilience, and cost efficiency.
+Identify cost-effective technologies and architectural approaches for hosting and scaling PayInc hosting platforms.
+Drive FinOps initiatives to improve financial visibility, accountability and cloud spend optimisation.
+Lead cost optimisation across the AWS and Microsoft estate through rightsizing, Savings Plans and Reserved Instance coverage, Windows Server and infrastructure licence optimisation. Drive lifecycle tiering and the decommissioning of idle resources. Track realised savings against targets and report them to senior IT leadership.
+Drive the Compute team’s process of defining standardized infrastructure blueprints for consistent platform deployment.
+Lead environment modernisation and optimisation programmes, including the upgrade or migration of end-of-support Windows Server, workloads, rehosting, replatforming, containerisation where appropriate, and rationalisation of legacy infrastructure. Provide a business case and risk assessment for each initiative.
+Troubleshoot and resolve complex issues related to multi-cloud infrastructure. Participate in incident response and problem management. Assist other technical areas in root cause analysis
+Stay updated with emerging technologies trends and assess their applicability to PayInc’s infrastructure needs.
+Maintain strict compliance with financial industry regulations and security standards, processes, policies & procedures.
+Ensure infrastructure alignment with industry security requirements and internal security policies.
+Contribute to the development and continuous improvement of Microsoft environment standards, cloud standards, policies, processes and procedures, including:
+Code management standards
+Security and compliance frameworks
+PCI alignment
+Architectural governance
+Cloud operational processes
+Environment tagging
+Maintain SLA100 operational readiness through proactive monitoring, alerting, and infrastructure resilience.
+Drive audit readiness by maintaining traceable and documented infrastructure configurations.
+Participate in security reviews, vulnerability management, and drive remediation activities.
+Own the end-to-end patching lifecycle for Windows and Linux workloads across AWS and on-premises environments, including patch baselines, maintenance windows, test and pre-production validation, phased production rollout, rollback and exception handling..
+Define and maintain patch governance and compliance reporting aligned to PCI DSS and CIS Benchmarks, including patch SLAs based on vulnerability severity, audit-ready evidence and measurable compliance targets reported to various forums.
+Create documentation and provide guidance to internal teams on cloud best practices and usage.
+Provide technical leadership to Microsoft and cloud platform engineers by setting engineering standards, reviewing designs and changes, coaching and mentoring engineers, guiding work prioritisation and acting as the escalation point for complex incidents and major changes.
+Represent the Distributed Platforms team at governance and risk forums, communicate platform risk, patch compliance, modernisation progress and cost outcomes to senior stakeholders in clear, business-focused terms.
+
+
+Qualifications / Knowledge
+
+
+Bachelor’s Degree in one of the following fields advantageous:
+Computer Science
+Information Technology
+Information Systems
+IT engineering or related discipline
+Microsoft & AWS Certifications (Required – at least one in each specialisation area. Additional advantageous):
+Microsoft Certified: Windows Server Hybrid Administrator Associate (AZ-800 and AZ-801)
+Microsoft Certified: Azure Administrator Associate (AZ-104)
+Microsoft Certified: Azure Solutions Architect Expert (AZ-305) or Identity and Access Administrator Associate (SC-300)
+AWS Certifications (Required – at least one at Professional level):
+AWS Certified Solutions Architect – Professional
+AWS Certified DevOps Engineer – Professional
+AWS Certified SysOps Administrator – Associate
+AWS Certified Security – Specialty or AWS Certified Advanced Networking – Specialty (advantageous)
+Infrastructure as Code & DevOps Certifications (Advantageous)
+HashiCorp Terraform Certification
+Microsoft Certified: DevOps Engineer Expert (AZ-400)
+Kubernetes Certifications (CKA / CKAD)
+Docker certifications
+Git or DevOps platform certifications
+Governance, Service Management & Cost Optimisation Certifications (Advantageous)
+FinOps Certified Practitioner (FinOps Foundation)
+ITIL 4 Foundation or higher
+Information security certification such as CISSP, CISM or CCSP
+Master’s degree advantageous
+
+
+Experience
+
+
+Minimum 5 years’ experience in senior Microsoft and cloud platform engineering roles covering:
+Microsoft and cloud infrastructure support
+Microsoft and cloud platform configuration and administration
+Microsoft and cloud architecture design
+Platform deployment and build engineering
+Minimum 3 years’ experience in a technical leadership role, guiding engineers, leading patching and modernisation initiatives and supporting platform engineering initiatives
+Minimum 3 years’ working experience designing and operating AWS-hosted workloads
+Exposure to Microsoft Azure (including Azure Arc and hybrid identity), Google Cloud Platform and other cloud providers advantageous
+Demonstrated experience owning enterprise patching processes for Windows Server estate, including patch baselines, maintenance windows, compliance reporting and emergency patching
+Demonstrated experience leading environment modernisation and optimisation initiatives, including timeous migration or upgrade of end-of-support platforms with deployment plan and methodology.
+Demonstrated experience delivering measurable cloud cost optimisation outcomes (rightsizing, enhancements, commitment-based discounts and licence optimisation) within a FinOps practice
+Demonstrated experience in:
+Microsoft and cloud platform architecture and deployment
+Infrastructure scalability and performance optimization
+Designing highly available and fault-tolerant systems
+Implementing DevOps and automation practices
+Managing infrastructure through Infrastructure as Code.
+Patch management and vulnerability remediation at enterprise scale
+Environment modernisation, migration and optimisation
+Cloud cost optimisation and FinOps
+Leadership and mentoring proficiency
+Strong hands-on experience with technologies such as:
+Windows Server (2016, 2019, 2022 and 2025 or higher in alignment with releases) – including Active Directory Domain Services, Group Policy, DNS, DHCP, Windows Failover Clustering, IIS, PowerShell and Microsoft SQL Server platform support advantageous
+Microsoft identity and hybrid management – including Microsoft Entra ID, AWS Managed Microsoft AD, Azure Arc, Microsoft Configuration Manager (SCCM/MECM) and WSUS
+AWS compute and platform services – including Amazon EC2 (Windows Server and Amazon Linux 2023), AWS Systems Manager (Patch Manager, State Manager, Session Manager and Automation), AWS Organizations, Control Tower, VPC, IAM and integration with core AWS services
+Operating system performance tuning, hardening and security patch management across Windows Servers
+AWS cost management tooling – including AWS Cost Explorer, Budgets, Compute Optimizer, Savings Plans, Reserved Instances and AWS License Manager
+Virtual networking and secure connectivity
+Amazon EKS / Kubernetes
+Docker container platforms
+High-availability and distributed systems
+Terraform and AWS CloudFormation
+Git-based repository management
+Infrastructure code lifecycle management
+CI/CD integration for infrastructure deployment
+Configuration management and automation frameworks Windows and Linux system scripting (PowerShell, Bash, Python), cloud design and implementation knowledge across domains, including policies, frameworks and standards.
+Understanding of networking technologies, TCP/IP stack, virtual networks, and secure connectivity
+Microsoft and cloud security knowledge: Microsoft security baselines, OS hardening, vulnerability management, compliance standards (PCI-DSS, CIS Benchmarks) and industry best practices
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at PayInc by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Site Reliability Engineer jobs
+Microsoft & Cloud Platform Engineer
+Similar jobs
+Platform Engineer
+Platform Engineer
+Share
+City of Johannesburg, Gauteng, South Africa
+1 month ago
+Cloud Engineer
+Cloud Engineer
+Kaelo
+Randburg, Gauteng, South Africa
+1 week ago
+Platform Engineer
+Platform Engineer
+Nintex
+Johannesburg, Gauteng, South Africa
+1 day ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+VALR
+Johannesburg, Gauteng, South Africa
+1 month ago
+SRE Platform Engineer (Microsoft Azure)
+SRE Platform Engineer (Microsoft Azure)
+Syspro
+Sandton, Gauteng, South Africa
+22 hours ago
+SRE Platform Engineer (Microsoft Azure)
+SRE Platform Engineer (Microsoft Azure)
+Syspro
+Johannesburg, Gauteng, South Africa
+1 month ago
+Show more jobs like this 
+People also viewed
+Site Reliability Engineer (SRE)
+Site Reliability Engineer (SRE)
+
+Impronics Digitech
+
+Johannesburg, Gauteng, South Africa
+1 year ago
+AI Automation & Integration Engineer - Technical Architect
+AI Automation & Integration Engineer - Technical Architect
+
+Confidentiel
+
+City of Johannesburg, Gauteng, South Africa
+13 hours ago
+Support Engineer I, Operations
+Support Engineer I, Operations
+
+Hexagon Mining
+
+Johannesburg, Gauteng, South Africa
+1 week ago
+Remote IT Project Engineer I
+Remote IT Project Engineer I
+
+Intelligent Technical Solutions
+
+Johannesburg, Gauteng, South Africa
+2 days ago
+Senior Backend Engineer - Mobility
+Senior Backend Engineer - Mobility
+
+M-KOPA
+
+Johannesburg, Gauteng, South Africa
+3 days ago
+Application Developer
+Application Developer
+
+Penta Consulting
+
+Johannesburg Metropolitan Area
+4 days ago
+Data Engineer (Mid-level)
+Data Engineer (Mid-level)
+
+WPP Media
+
+Johannesburg, Gauteng, South Africa
+4 months ago
+Support Engineer I, Safety Systems
+Support Engineer I, Safety Systems
+
+Hexagon Mining
+
+Johannesburg, Gauteng, South Africa
+1 week ago
+Senior Infrastructure Consultant
+Senior Infrastructure Consultant
+
+Technimove
+
+Johannesburg, Gauteng, South Africa
+2 weeks ago
+Senior Backend Engineer - Asset Sales
+Senior Backend Engineer - Asset Sales
+
+M-KOPA
+
+Johannesburg, Gauteng, South Africa
+3 days ago
+Similar Searches
+Site Reliability Engineer jobs
+1,083 open jobs
+Infrastructure Engineer jobs
+360 open jobs
+Linux Engineer jobs
+269 open jobs
+Senior Infrastructure Engineer jobs
+155 open jobs
+Virtualization Engineer jobs
+78 open jobs
+Unix Engineer jobs
+38 open jobs
+Cloud Architect jobs
+324 open jobs
+System Development Engineer jobs
+3,642 open jobs
+Senior Reliability Engineer jobs
+28 open jobs
+Linux System Engineer jobs
+240 open jobs
+Database Engineer jobs
+270 open jobs
+Linux System Administrator jobs
+35 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

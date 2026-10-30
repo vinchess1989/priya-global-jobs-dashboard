@@ -1,0 +1,338 @@
+Title: Platform Engineering Manager
+Company: The University of British Columbia
+Location: Vancouver, British Columbia, Canada
+URL: https://ca.linkedin.com/jobs/view/platform-engineering-manager-at-the-university-of-british-columbia-4485627059
+Posted: 2026-10-31
+Deadline: 2026-11-13
+Reason: The role aligns perfectly with the candidate's extensive experience in DevOps, CI/CD, release management, and technical documentation within a large-scale organizational environment.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Platform Engineering Manager
+The University of British Columbia  Vancouver, British Columbia, Canada
+1 hour ago   Be among the first 25 applicants
+  
+
+See who The University of British Columbia has hired for this role
+
+Apply 
+Save
+Job Title
+
+Platform Engineering Manager
+
+Job Category
+
+M&P - AAPS
+
+Job Profile
+
+AAPS Salaried - Information Systems and Technology, Level E2
+
+Job Family Group
+
+Staff - Non Union
+
+Department
+
+OCIO | Enterprise Automation and Service Delivery
+
+Compensation Range
+
+$11,397.00 - $17,081.58 CAD Monthly
+
+The Compensation Range is the span between the minimum and maximum base salary for a position. The midpoint of the range is approximately halfway between the minimum and the maximum and represents an employee that possesses full job knowledge, qualifications and experience for the position. In the normal course, employees will be hired, transferred or promoted between the minimum and midpoint of the salary range for a job.
+
+Job End Date
+
+Ongoing
+
+Posting End Date
+
+November 13, 2026
+
+Note: Applications will be accepted until 11:59 PM on the Posting End Date.
+
+At UBC, we believe that attracting and sustaining a diverse workforce is key to the successful pursuit of excellence in research, innovation, and learning for all faculty, staff and students. Our commitment to employment equity helps achieve inclusion and fairness, brings rich diversity to UBC as a workplace, and creates the necessary conditions for a rewarding career.
+
+Job Summary
+
+The Platform Engineering Manager provides people and technical leadership for core enterprise projects encompassing large, multi-faceted information systems within Enterprise Automation and Solution Delivery (EASD) at UBC IT.
+
+The Incumbent provides senior level expertise and direction in the area of Enterprise Integrations and is a recognized subject matter expert for the EASD responsible for management and execution of tasks that deliver projects, enhancements, maintenance and production support.
+
+Organizational Status
+
+The EASD is a unit within the UBC Information Technology department responsible for linking all systems and data at UBC to enable the University, faculty, researchers, staff, students and partners to have access to properly governed data through well-documented UBC APIs and other appropriate toolsets.
+
+The EASD is responsible for the selection, acquisition or development, deployment, and operation of the suite of applications related to enterprise integrations. The EASD works closely with core UBC IT and IT Enabled project teams to ensure that all releases to production of integrations and supporting toolsets are of the required quality.
+
+Services are delivered through the use of Information Technology best practices and customer focused processes to enable stakeholders to achieve UBC objectives.
+
+The Platform Engineering Manager, EASD reports to the Senior Manager, EASD and works closely with the other managers in UBC IT and the Office of the CIO, UBC IT personnel, technology professionals across the UBC community, campus stakeholders, vendors, and external institutions.
+
+Work Performed
+
+
+Provides work direction and leadership to the EASD DevOps team members, including scheduling, assignment of work, review of performance and resolution of post-production issues as required to ensure overall success
+Manages the performance of the DevOps team with regular reviews and feedback that consists of effective mentorship and patient guidance.
+Establishes a safe and productive environment, within the team, for peers to continuously learn from each other and support the ongoing development of their skills
+Participates in long-range planning for integration projects, and develops and maintains technology delivery roadmaps for the functional area(s).
+Manages complex enterprise-level initiatives assigned to the DevOps team to further develop and implement aspects of the Software Development Life Cycle (SDLC) and business processes that involve the greater UBC community.
+Leads areas of responsibility including Performance Management, Solution Architecture, Change Management, and User Experience and will be responsible to ensure consistent application of SDLC, Continuous Integration / Continuous Delivery (CICD), and documentation principles established within the Office of the CIO (OCIO).
+Provides senior level expertise and direction into the approach for integrations migration and deployment, testing and QA, tenant management, system scalability and performance, and all other systems required to support successful integration migration.
+Applies modern approaches to the design, development, implementation, and support of integrations at UBC.
+Supports the Senior manager in onboarding new team members, monitoring Jira and ServiceNow queues and ensuring the operational and project documentation is updated
+Works with business partners and/or leadership to understand ongoing issues with the delivered projects, of a major functional area with multiple lines of service.
+Develops integrated strategies, operating plans, targets and measures for a major functional area and leads the day to day delivery of its services, programs and activities.
+Develops and implements innovative services, business solutions, and programs, provides technical leadership and oversight on projects, and collaborates with others on integrated solutions and initiatives across other administrative/academic units.
+Honour the Service Level Agreement with the EASD clients by ensuring the Jira and ServiceNow tickets are assigned to appropriate team members, ensure the tickets are resolved in time, remove blockers and train the staff in areas that will help improve the quality of service delivered by EASD.
+Manage the technical documentation around projects and operations. Ensure the stakeholders are identified, architecture diagrams, support pages etc. are present for each project/task delivery.
+Onboard new team members by training them on the integration patterns, core EASD services, and ensuring that they have relevant access to perform their job duties.
+Performs other related duties as required.
+
+
+Consequence of Error/Judgement
+
+Effective management of the SDLC and CICD Pipeline is essential for the DevOps of UBC IT services to the departments and faculties. Decisions and actions taken by the Platform Engineering Manager will have a direct impact on how efficiently and effectively UBC Applications will perform and function.
+
+Failure to meet service level obligations for performance and availability of the EASD portfolio could adversely impact productivity, funding and revenue, and the University community, including the large majority of students, faculty and staff. It will also damage the reputation of UBC and UBC IT.
+
+Supervision Received
+
+The Platform Engineering manager works under the general direction of the Senior Manager, EASD and has considerable latitude in the execution of their duties consistent with the goals and objectives for the functional area.
+
+Supervision Given
+
+May supervise student or temporary staff as well as other technology professionals on a project basis. May oversee deliverables as assigned to Contractors.
+
+Minimum Qualifications
+
+Undergraduate degree in a relevant discipline. Post-graduate degree may be required for specialized positions. Minimum of nine years of related experience, or the equivalent combination of education and experience. Supervisory experience may be required. Technical expertise in a highly specialized area required.
+
+
+Willingness to respect diverse perspectives, including perspectives in conflict with one’s own
+Demonstrates a commitment to enhancing one’s own awareness, knowledge, and skills related to equity, diversity, and inclusion
+
+
+Preferred Qualifications
+
+
+Undergraduate degree in Computer Science preferred
+Demonstrated experience in the software development and implementation life cycle with the ability to communicate effectively verbally and in writing to a varied audience.
+Demonstrated experience Integration systems and processes is required.
+Demonstrated experience leading, engaging and motivating teams with both Development and Operations responsibilities is required.
+Experience implementing and operating the AWS and Mulesoft toolsets is preferred.
+Supervisory, budgetary, presentation, interpersonal, skills required.
+Demonstrated ability to analyze and interpret data, determine implications, and provide recommendations.
+Ability to resolve systems and technical problems in an innovative manner.
+Ability to make decisions and recommendations involving highly complex issues.
+Ability to effectively lead a team of systems professionals in a demanding environment.
+Ability to conduct needs analyses, plan, organize, manage, monitor, complete, and evaluate projects within allocated time and resources.
+Ability to effectively facilitate groups to achieve appropriate outcome.
+Ability to develop and deliver effective presentations and workshops.
+Ability to effectively manage multiple tasks and priorities and work under constant pressure and high level of ambiguity to meet critical, time sensitive deadlines.
+Excellent organizational and analytical skills.
+Ability to mentor and coach staff, and act as a resource.
+Ability to effectively manage multiple tasks and priorities and work under pressure to meet critical, time sensitive deadlines.
+Excellent organizational and analytical skills.
+Ability to maintain accuracy and attention to detail.
+
+
+Competencies
+
+Collaboration - Consistently fosters collaboration and respect among team members by addressing elements of the group process that impedes, or could impede, the group from reaching its goal. Engages the right people within and beyond organizational boundaries, by matching individual capabilities and skills to the team's goals. Works with a wide range of teams and readily shares lessons learned and credit for team accomplishments.
+
+Communication for Results - Converses with, writes reports for, and creates/delivers presentations to all levels of colleagues and peer groups in ways that support problem solving and planning. Seeks a consensus with business partners. Debates opinions, tests understanding, and clarifies judgments. Brings conflict into the open empathetically. Explains the context of multiple interrelated situations, asks searching, probing questions, and solicits expert advice prior to taking action and making recommendations.
+
+Problem Solving - Diagnoses problems using formal problem-solving tools and techniques from multiple angles and probes underlying issues to generate multiple potential solutions. Proactively anticipates and prevents problems. Devises, facilitates buy-in, makes recommendations, and guides implementation of corrective and/or preventive actions for complex issues that cross organizational boundaries and are unclear in nature. Identifies potential consequences and risk levels. Seeks support and buy-in for problem definition, methods of resolution, and accountability.
+
+Leading Self - Adapts approach without feeling own agenda or outcomes have been compromised. Challenges inefficient/ ineffective work processes and offers constructive alternatives. Analyzes work errors, successes and failures and sets learning strategies to rectify and increase knowledge. Ability to adapt to changing workload priorities, effectively reprioritizing or deferring tasks in line with operational and strategic goals.
+
+Leading Others - Regularly provides constructive feedback and recognition to team members regarding job performance and works with them to identify work goals and create individual development plans. Identifies, mentors, and raises the profile of future high performers and leaders. Determines best approach and mediates conflict between individuals and groups.
+
+Leading the Organization - Develops a clear service plan that outlines the outcomes, key steps, responsibilities and expected time lines for completion to reach unit goals and further the organization and the University’s objectives. Communicates a collective purpose, creates a clear line of sight to the organization’s value proposition, and ensures alignment with the University’s goals and strategies. Engages in ongoing data collection to ensure that decisions are aligned with best.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Higher Education
+  
+
+Referrals increase your chances of interviewing at The University of British Columbia by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Senior Engineering Manager jobs
+Platform Engineering Manager
+Similar jobs
+Platform Engineering Manager
+Platform Engineering Manager
+Connor, Clark & Lunn Financial Group (CC&L)
+Vancouver, British Columbia, Canada
+2 weeks ago
+Manager, Software Engineering (Platform Engineering)
+Manager, Software Engineering (Platform Engineering)
+Planview
+Vancouver, British Columbia, Canada
+1 week ago
+Site Reliability Engineering Manager
+Site Reliability Engineering Manager
+TekRek
+Vancouver, British Columbia, Canada
+1 month ago
+Engineering Lead
+Engineering Lead
+OpusClip
+Burnaby, British Columbia, Canada
+2 months ago
+Engineering Manager - Canada
+Engineering Manager - Canada
+Ashby
+Vancouver, British Columbia, Canada
+CA$250,000 - CA$370,000
+4 days ago
+Leader, Software Development
+Leader, Software Development
+Cisco
+Vancouver, British Columbia, Canada
+2 days ago
+Show more jobs like this 
+People also viewed
+Manager, Engineering
+Manager, Engineering
+
+Trulioo
+
+Vancouver, British Columbia, Canada
+1 week ago
+SDM, AWS Builder Acceleration Service Care Center
+SDM, AWS Builder Acceleration Service Care Center
+
+Amazon Web Services (AWS)
+
+Vancouver, British Columbia, Canada
+1 week ago
+Engineering Manager -Accounting Core
+Engineering Manager -Accounting Core
+
+Xero
+
+Vancouver, British Columbia, Canada
+14 hours ago
+Sr Manager, Software Dev, Elastic Container Service
+Sr Manager, Software Dev, Elastic Container Service
+
+Amazon Web Services (AWS)
+
+Vancouver, British Columbia, Canada
+1 week ago
+Manager, Engineering - AI/BI
+Manager, Engineering - AI/BI
+
+Databricks
+
+Vancouver, British Columbia, Canada
+2 weeks ago
+Engineering Manager - Clinical Healthcare / SaaS
+Engineering Manager - Clinical Healthcare / SaaS
+
+Sycle
+
+Vancouver, British Columbia, Canada
+1 month ago
+Forward Deployed AI Engineer - Senior Manager
+Forward Deployed AI Engineer - Senior Manager
+
+Accenture
+
+Vancouver, British Columbia, Canada
+1 week ago
+VP of Software Engineering - Aquatic Informatics
+VP of Software Engineering - Aquatic Informatics
+
+Aquatic Informatics
+
+Vancouver, British Columbia, Canada
+3 weeks ago
+Manager, Software Engineering, Operations
+Manager, Software Engineering, Operations
+
+Jobber
+
+Vancouver, British Columbia, Canada
+2 months ago
+Manager, Software Engineering (Service Cloud)
+Manager, Software Engineering (Service Cloud)
+
+Arc'teryx Equipment
+
+North Vancouver, British Columbia, Canada
+2 weeks ago
+Similar Searches
+Senior Engineering Manager jobs
+1,016 open jobs
+Software Engineering Manager jobs
+3,105 open jobs
+Senior Software Engineering Manager jobs
+2,522 open jobs
+Director of Engineering jobs
+1,182 open jobs
+Mechanical Engineering Manager jobs
+882 open jobs
+Manufacturing Engineering Manager jobs
+1,146 open jobs
+Application Engineering Manager jobs
+810 open jobs
+Test Engineering Manager jobs
+714 open jobs
+Process Engineering Manager jobs
+1,217 open jobs
+Assistant Chief Engineer jobs
+415 open jobs
+Staff Software Engineer jobs
+3,606 open jobs
+Director of Hardware Engineering jobs
+148 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
