@@ -1,0 +1,272 @@
+Title: SRE/DevOps Developer
+Company: Trolley
+Location: Toronto, Ontario, Canada
+URL: https://ca.linkedin.com/jobs/view/sre-devops-developer-at-trolley-4485215621
+Posted: 2026-10-24
+Deadline: Open until filled
+Reason: The role aligns with the candidate's extensive DevOps and CI/CD experience, is located in a target country (Canada), and does not violate any hard rejection criteria.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+SRE/DevOps Developer
+Trolley  Toronto, Ontario, Canada
+1 week ago  25 applicants
+  
+
+See who Trolley has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+
+About us:
+
+Trolley is the payouts platform for the internet economy. Our vision is to unlock the collective economic opportunity of the internet – for everyone – by building a truly global payouts ecosystem. Through our powerful platform and API, Trolley enables businesses to reach people from all corners of the world and offer creators, on-demand workers, and suppliers the ability to bring their specialized talents to a global market. Businesses use Trolley to automate and manage payouts, collect recipient tax and banking information, and mitigate fraud and risk. It is the go-to payouts solution for hundreds of businesses like Canva, Soundcloud, and Envato, ensuring creators, artists, and suppliers get paid efficiently. Trolley has processed millions of payments, supporting musicians, artists, makers, vendors, and suppliers worldwide.
+
+About the role:
+
+As a SRE / DevOps Developer at Trolley, you'll be instrumental in driving, maintaining and enhancing our cloud infrastructure. You'll drive automation and efficiency, collaborate across teams, and ensure our systems are reliable, performant, and scalable. You’ll be responsible for collaborating with all the relevant functions to continuously evolve CI/CD solutions, and scale the organization's infrastructure while strengthening its security posture and regulatory compliance.
+
+About you:
+
+
+4+ years of professional experience in a DevOps or SRE role in a cloud-based environment.
+Solid understanding of core cloud principles and security, with extensive experience using AWS services ( e.g. ECS, Lambda, Bedrock, SNS, SQS, RDS, etc. ) to design, deploy, and manage secure and efficient cloud solutions.
+Experience managing containerized applications using Docker and AWS Fargate, and a deep understanding of containerization and orchestration principles
+Experience with implementing and managing CI/CD pipelines using CircleCI, and a deep understanding of best practices.
+Hands-on experience with Terraform for provisioning and managing infrastructure assets.
+Solid understanding of observability principles and their practical application in large-scale systems, with hands-on experience using relevant tools ( e.g., DataDog ).
+Strong Python skills for automating tasks and enhancing process efficiencies.
+Strong analytical and problem-solving skills, with the ability to effectively troubleshoot and resolve complex issues.
+Ability to work effectively within an Agile team and communicate technical concepts clearly.
+Willingness to learn new technologies and adapt to evolving SRE / DevOps practices.
+Bonus: experience developing AI agent workflows (e.g., using AWS Bedrock or similar frameworks) is a plus, though not a requirement.
+
+
+What you'll do:
+
+
+Manage daily SRE / DevOps operations, ensuring smooth workflows and quick resolution of issues.
+Collaborate with Engineering teams to uphold and enhance the availability, security, and scalability of our systems.
+Develop and maintain IaC using Terraform and automate processes effectively.
+Refine our CI/CD processes to boost efficiency and support scalable growth.
+Perform root cause analysis on issues, and contribute to solutions that prevent their recurrence.
+Support the evolution of DevOps practices by providing guidance, promoting a culture of continuous improvement, and mentoring peers to achieve organizational objectives.
+
+
+Our tech stack:
+
+
+AWS (Fargate, Lambda, SNS, SQS), Docker, Terraform
+Node.js, TypeScript, JavaScript, React, Styled Components
+PostgreSQL, Redis
+
+
+Explore our tech stack in detail on StackShare.
+
+What we offer:
+
+
+Competitive salary and meaningful equity (ESOP).
+Join an amazing team of diverse people working together on a common mission.
+Extended Healthcare benefits including dental, vision, LTD, etc. from day 1.
+4 weeks paid vacation per year + public holidays (+ 1 extra vacation day per year of service).
+30 days remote work from anywhere.
+Gym membership allowance.
+1/2 day Fridays off during summer.
+Company-provided use of Apple MacBook Pro and Mac gear.
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Trolley by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Toronto, Ontario, Canada.
+
+Sign in to create job alert
+Jobs
+Multimedia Designer jobs
+SRE/DevOps Developer
+Similar jobs
+DevOps Developer
+DevOps Developer
+Caseware
+Canada
+1 month ago
+Site Reliability Engineer, Infrastructure Platforms — AMER (Intermediate to Senior Staff)
+Site Reliability Engineer, Infrastructure Platforms — AMER (Intermediate to Senior Staff)
+GitLab
+Canada
+2 weeks ago
+Infrastructure Engineer/SRE
+Infrastructure Engineer/SRE
+Cresta
+Canada
+3 days ago
+Infrastructure Engineer
+Infrastructure Engineer
+Lakeview Loan Servicing, LLC.
+North York, Ontario, Canada
+5 months ago
+DevOps Engineer (Services Team)
+DevOps Engineer (Services Team)
+StackAdapt
+Canada
+2 days ago
+Site Reliability Engineer
+Site Reliability Engineer
+MLabs
+Canada
+1 month ago
+Show more jobs like this 
+People also viewed
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Ayla Networks
+
+Ontario, Canada
+1 month ago
+Cloud Engineer ,Automation- Remote Ontario
+Cloud Engineer ,Automation- Remote Ontario
+
+Smile Digital Health
+
+Toronto, Ontario, Canada
+CA$120,000 - CA$140,000
+2 weeks ago
+DevOps & Software Engineer
+DevOps & Software Engineer
+
+Applicantz
+
+Canada
+CA$45 - CA$50
+7 hours ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Ciklum
+
+Canada
+2 days ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+Parallel Domain
+
+Canada
+2 weeks ago
+Sr Site Reliability Engineer- Remote
+Sr Site Reliability Engineer- Remote
+
+BeyondTrust
+
+Canada
+1 day ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Keyfactor
+
+Toronto, Ontario, Canada
+1 week ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+Rentsync
+
+St. Catharines, Ontario, Canada
+1 month ago
+Staff DevOps Engineer
+Staff DevOps Engineer
+
+Nexxa.ai
+
+Canada
+2 months ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+Coalition, Inc.
+
+Canada
+10 hours ago
+Similar Searches
+Multimedia Designer jobs
+347 open jobs
+Investor Relations Associate jobs
+48 open jobs
+Investor Relations Specialist jobs
+121 open jobs
+Game Programmer jobs
+272 open jobs
+Software Quality Engineer jobs
+714 open jobs
+Talent Acquisition Manager jobs
+828 open jobs
+Director Talent Acquisition jobs
+334 open jobs
+Regulatory Advisor jobs
+342 open jobs
+Junior Developer jobs
+1,030 open jobs
+Head of Product Management jobs
+468 open jobs
+Full Stack Engineer jobs
+1,559 open jobs
+Junior Software Engineer jobs
+15,782 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

@@ -1,0 +1,294 @@
+Title: Staff CloudOps Developer
+Company: Corpay
+Location: Vancouver, British Columbia, Canada
+URL: https://ca.linkedin.com/jobs/view/staff-cloudops-developer-at-corpay-4223618920
+Posted: 2026-10-29
+Deadline: Open until filled
+Reason: The role is a strong match for her DevOps and CI/CD pipeline expertise, and it is located in Canada, which is one of her target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Staff CloudOps Developer
+Corpay  Vancouver, British Columbia, Canada
+2 days ago   Over 200 applicants
+  
+
+See who Corpay has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Your role
+
+Corpay is looking to hire a Staff CloudOps Developer within our PayByPhone division. This position falls under our International Fleet line of business and is located in Vancouver, BC. As a Senior Cloud Operations Developer, you will collaborate with cross-functional teams to design, implement, and manage our infrastructure and deployment pipelines while providing technical guidance and mentorship to the team. Your expertise will be critical in ensuring our systems' reliability, scalability, and security. You are a self-starter with an innovative mindset that motivates you to keep up with the latest technologies and drives you to do great work, period. Your values include collaboration, curiosity, and a constant improvement mindset.
+
+How We Work
+
+As a Staff CloudOps Developer, You Will Be Expected To Work Out Of Our Office In Vancouver, BC. Corpay Will Set You Up For Success By Providing
+
+
+Assigned workspace in the Vancouver, BC office
+Company-issued equipment
+Formal, hands-on training
+
+
+What You'll Be Doing
+
+The responsibilities of the role will include: 
+
+
+Contributing to and driving large-scale technical and architecture discussions.
+Collaborating with stakeholders such as development, security engineering, and compliance teams throughout the design, development, and operations lifecycle.
+Providing technical support to developers who are using platform services.
+Developing and maintaining infrastructure code, producing a high standard of well-factored and tested code
+Building and managing CI/CD pipelines, constantly improve their reliability and speed, and reduce change lead time.
+Improving our container (EKS/ECS)- based infrastructure to respond to company needs and demands for platform agility, security, and development teams' enablement.
+Improving the team's development process, technical practices, and coding standards.
+Developing tools to enhance and support Developer Productivity.
+Championing automation of manual processes and reduce operational overhead
+Making code review suggestions, responding constructively and learning from feedback
+Participating in the on-call rotation to provide after-hours support to critical infrastructure.
+
+
+Qualifications & Skills
+
+
+7+ years' of industry experience where you have developed several significant feature sets and infrastructure automation projects from start to finish
+Strong hands-on experience with a cloud provider, ideally AWS
+Recent hands-on experience with EKS or Kubernetes for container orchestration, cluster management, and microservices deployment.
+Recent experience with GitOps using FluxCD. ArgoCD.
+Recent hands-on Experience with DevOps tools like VCS (GitHub, GitLab), Ansible, Artifactory, Synk, Infrastructure as Code (Terraform, Pulumi, Cloud Formation), etc.
+Experience building CICD pipelines and with at least one programming language to deliver a production backend service
+Strong fundamentals in Networking, infrastructure, Linux and Windows.
+Life-long learner and self-starter, including the ability to quickly become productive in an unfamiliar technology or codebase.
+Strong communication, interpersonal and collaboration skills, with experience working in cross-functional teams.
+A keen interest and proven experience in improving team standards and process.
+Mentoring experience in your area of expertise
+
+
+This salary range is provided for locations which require such disclosure. Where a position or applicant may fall in a particular wage range varies depending on a number of factors, including but not limited to skill sets, experience, training, licensure and certifications (if applicable), and other business and organization needs. The disclosed range has not been adjusted for the applicable geographic markets. At Corpay, it is not typical for an individual to be hired at or near the top of the range for their role, and compensation decisions are dependent on the facts and circumstances of each case. An estimate of the minimum and maximum salary range is CAD 140,000 -$190,000.
+
+Benefits & Perks
+
+
+Comprehensive Benefits Package including, Medical, Dental, Vision and Paramedical benefits, as of day one
+Optional company match RRSP program
+Virtual fitness classes offered company-wide
+Time-off including major holidays, vacation, sick, personal, & volunteer time
+Discounted gym membership rate
+Philanthropic support with both local and national organizations
+Fun culture with company-wide contests and prizes
+
+
+Our Company & Purpose
+
+Corpay is a global leader in business payments, laser focused on developing smarter ways for businesses to pay their expenses. Since 2000, Corpay has developed innovative digital solutions that help businesses better track, manage, and pay their expenses. Today, Corpay is an S&P 500 company with hundreds of thousands of customers using our products in over 100 countries. Companies of all sizes, industries and geographies rely on our product portfolio to manage spending more quickly, efficiently and securely than ever before.
+
+We embrace a culture grounded in five key values: integrity, collaboration, innovation, execution and people. These values offer you the opportunity to ‘thrive & grow’ through career development, volunteer, community, and wellness initiatives. This allows you to create a balance between professional goals and personal achievement.
+
+Corpay is also committed to building and nurturing a culture of diversity, inclusion, equality, and belonging by:
+
+
+Welcoming people of different backgrounds, cultures, ethnicities, genders, and sexual orientations;
+Empowering our people to share their experiences and ideas through open forums and individual conversations; and
+Valuing each person’s unique perspectives and individual contributions.
+
+
+Embracing diversity enables our people to “make the difference” as Corpay and its more than 8,000 employees continue to shape the future of global payments. Learn more by visiting www.corpay.com or following Corpay on LinkedIn.
+
+Equal Opportunity/Affirmative Action Employer
+
+Corpay is an Equal Opportunity Employer. Corpay provides equal employment opportunities to all employees and applicants without regard to race, color, gender (including pregnancy), religion, national origin, ancestry, disability, age, sexual orientation, gender identity or expression, marital status, language, ancestry, genetic information, veteran and/or military status or any other group status protected by federal or local law. If you require reasonable accommodation for the application and/or interview process, please notify a representative of the Human Resources Department.
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at Corpay by 2x
+
+See who you know
+
+Get notified about new Staff Developer jobs in Vancouver, British Columbia, Canada.
+
+Sign in to create job alert
+Jobs
+Creative Developer jobs
+Staff CloudOps Developer
+Similar jobs
+DevOps Staff Platform Engineer
+DevOps Staff Platform Engineer
+Orion Digital
+Vancouver, British Columbia, Canada
+1 month ago
+Staff Software Engineer, Infrastructure (Cloud)
+Staff Software Engineer, Infrastructure (Cloud)
+AeroVect
+Vancouver, British Columbia, Canada
+2 months ago
+Staff Software Developer - Cloud Platform – Control Plane
+Staff Software Developer - Cloud Platform – Control Plane
+IBM
+Vancouver, British Columbia, Canada
+CA$180,200 - CA$229,200
+1 week ago
+Senior Member of Technical Staff
+Senior Member of Technical Staff
+Nutanix
+Vancouver, British Columbia, Canada
+1 month ago
+Technical Leader (Remote)
+Technical Leader (Remote)
+Cisco
+Vancouver, British Columbia, Canada
+1 week ago
+Staff Software Engineer, Core Infrastructure
+Staff Software Engineer, Core Infrastructure
+Scribd, Inc.
+Vancouver, British Columbia, Canada
+1 week ago
+Show more jobs like this 
+People also viewed
+Infrastructure Engineer
+Infrastructure Engineer
+
+People Culture Talent
+
+Vancouver, British Columbia, Canada
+1 month ago
+Principal Software Engineer
+Principal Software Engineer
+
+Motorola Solutions
+
+Greater Vancouver Metropolitan Area
+6 days ago
+Senior Software Engineer (Devops)
+Senior Software Engineer (Devops)
+
+Electronic Arts (EA)
+
+Vancouver, British Columbia, Canada
+1 day ago
+Principal Software Engineer - Distributed Systems
+Principal Software Engineer - Distributed Systems
+
+Microsoft
+
+Vancouver, British Columbia, Canada
+3 weeks ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+Walt Disney Animation Studios
+
+Vancouver, British Columbia, Canada
+2 weeks ago
+Full Stack Engineer - Apple TV and Sports
+Full Stack Engineer - Apple TV and Sports
+
+Apple
+
+Vancouver, British Columbia, Canada
+3 weeks ago
+Senior Software Engineer, Device & Cloud Platform
+Senior Software Engineer, Device & Cloud Platform
+
+Motorola Solutions
+
+Greater Vancouver Metropolitan Area
+2 weeks ago
+Senior Cloud Engineer
+Senior Cloud Engineer
+
+Ledcor
+
+Vancouver, British Columbia, Canada
+2 months ago
+Staff Software Engineer - Backend
+Staff Software Engineer - Backend
+
+Databricks
+
+Vancouver, British Columbia, Canada
+5 days ago
+Staff Cloud Security Engineer
+Staff Cloud Security Engineer
+
+Scribd, Inc.
+
+Vancouver, British Columbia, Canada
+2 days ago
+Similar Searches
+Creative Developer jobs
+15,324 open jobs
+Escalation Engineer jobs
+424 open jobs
+Staff Software Engineer jobs
+3,606 open jobs
+Information Developer jobs
+14,724 open jobs
+Test Architect jobs
+755 open jobs
+Telecommunications Analyst jobs
+360 open jobs
+Senior Web Developer jobs
+3,060 open jobs
+Software Team Lead jobs
+7,579 open jobs
+Staff Engineer jobs
+6,433 open jobs
+Ruby on Rails Developer jobs
+2,683 open jobs
+Head Engineer jobs
+5,673 open jobs
+Senior Principal Engineer jobs
+3,803 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

@@ -1,0 +1,415 @@
+Title: Senior DevOps / Platform Developer
+Company: Stay22
+Location: Greater Montreal Metropolitan Area
+URL: https://ca.linkedin.com/jobs/view/senior-devops-platform-developer-at-stay22-4475435808
+Posted: 2026-10-10
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in DevOps, CI/CD, and infrastructure management, and it is located in Canada, which is one of her target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps / Platform Developer
+Stay22  Greater Montreal Metropolitan Area
+3 weeks ago  90 applicants
+  
+
+See who Stay22 has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Direct message the job poster from Stay22
+
+Nayo Gariepy
+Nayo Gariepy
+
+-Version française à suivre-
+
+
+
+
+About Stay22
+
+Based in Montreal, Stay22 helps ambitious creators and intent-rich digital platforms turn their existing traffic into incremental revenue, with technology that works quietly in the background.
+
+
+
+
+Today, more than 6,500 creators and platforms rely on Stay22, with over $1 billion in annual transactions flowing through the platform. Originally built for travel, the company now supports partners across retail, lifestyle, publishing, events, and transport as it expands its monetization infrastructure for the modern creator economy.
+
+
+
+
+About the role
+
+Stay22's Platform team supports a product that reaches more than 100 million unique users a month, and we're growing it. In this role you'll design, implement and maintain the core of the platform: architecting the infrastructure on GCP and Kubernetes, automating deployment and configuration, and keeping performance and availability high through monitoring and troubleshooting.
+
+
+
+
+You'll own infrastructure as code, CI/CD and our environments, set the long-term vision for scaling and cost, and make sure every design conforms to our security guidelines. If you like turning complex infrastructure into something a whole engineering team can build on, this is your seat.
+
+
+
+
+Key Responsibilities
+
+Develop, deploy, and support cloud infrastructure as code artifacts or modules and applications
+Implement, maintain, troubleshoot and optimize CI/CD pipelines for multiple projects, and ensure automated security in each technology stack
+Design and support resiliency and scalability using GCP and other cloud platforms, and incorporate SRE and DevOps implementations to ensure minimal downtime and manual effort
+Configure application monitors using industry-standard monitoring tools, developing customized monitoring solutions as needed
+Create and manage development, staging, and production environments ensuring consistency and alignment with project requirements, and maintain up-to-date documentation for DevOps processes, procedures, and infrastructure configurations
+Articulate a long-term vision for maintaining and scaling infrastructure, including capacity and cost planning for hardware, software, and storage
+Interpret security policies and ensure platform designs conform with security guidelines
+Manage source code repositories, branching strategies, and version control using GitHub
+
+
+
+
+Requirements
+
+B.S. or M.S in Computer Science or equivalent experience
+3+ years of experience implementing Platform and DevOps solutions
+3+ years of experience working in a high performing DevOps team or related roles
+2+ years of experience in performance monitoring, alerting, and troubleshooting in an enterprise
+Experience with hybrid cloud and migrating infrastructure between clouds
+Excellent experience delivering Infrastructure as Code via Terraform
+Experience with containerization technologies (ex.: Docker, Colima, Kubernetes)
+Strong scripting or coding skills in languages like Python, JavaScript, Go
+Experience supporting pipeline tools (GitHub, CircleCI)
+Understanding of monitoring and logging tools such as Prometheus, Grafana, or ELK stack
+Knowledge of security best practices and compliance standards, including secure coding and vulnerability scanning
+
+
+
+
+What to Expect from our Hiring Process
+
+
+
+
+We know your time’s valuable, so here’s the quick rundown of what to expect.
+
+Screening call with our Talent Acquisition Advisor - virtual (30 minutes)
+Hiring Manager Interview - virtual (45min)
+Technical interview with members of the Engineering Team - in person (60 minutes)
+Final interview with our CEO - virtual (30 minutes)
+Offer & Onboarding 🎉
+
+
+
+
+Please note that this process is subject to change at any point, based on additional requirements from the team.
+
+
+
+
+Why join Stay22?
+
+Prime Montreal Location: Work from our vibrant Little Italy HQ with a cafeteria allowance, full gym access, and a rooftop terrace complete with a seasonal basketball/pickleball court & hockey rink.
+Comprehensive Benefits: Health & dental coverage, RRSP matching, fully paid STM pass’, and regular team socials, events, and retreats.
+Flexibility That Works: Flexible schedules, work-from-anywhere opportunities, year-end shutdown, and flex days.
+
+
+
+
+(Stay22 is an equal-opportunity employer. All qualified applicants are given consideration. If you have a disability or particular need that requires accommodation, please contact us at careers@stay22.com)
+
+
+
+
+Your application will be reviewed by Nayo, our internal recruiter- even if you don’t meet every requirement but you’re excited, let’s talk.
+
+
+
+
+__________________________________
+
+
+
+
+À propos de Stay22
+
+Basée à Montréal, Stay22 aide les créateurs ambitieux et les plateformes numériques à forte intention à transformer leur trafic existant en revenus additionnels, grâce à une technologie qui fonctionne discrètement en arrière-plan.
+
+
+
+
+Aujourd’hui, plus de 6 500 créateurs et plateformes font confiance à Stay22, avec plus d’un milliard de dollars en transactions annuelles transitant par la plateforme. Initialement conçue pour le secteur du voyage, l’entreprise accompagne désormais des partenaires dans les domaines du commerce de détail, du lifestyle, de l’édition, des événements et du transport, alors qu’elle poursuit l’expansion de son infrastructure de monétisation pour l’économie moderne des créateurs.
+
+
+
+
+À propos du poste
+
+Nous cherchons un·e développeur·euse possédant une solide expérience DevOps et SRE, qui se joindra à notre équipe Plateforme en pleine croissance. Tu seras responsable de concevoir, de mettre en œuvre et de maintenir l'infrastructure de base d'une plateforme afin de soutenir efficacement les charges de travail applicatives.
+
+
+
+
+Le rôle consiste à concevoir l'architecture de l'infrastructure, à automatiser le déploiement et la configuration, à gérer le déploiement du code applicatif et à assurer une performance et une disponibilité optimales grâce à la surveillance et au dépannage. De plus, tu analyseras les habitudes d'utilisation pour prévoir les besoins futurs en ressources et tu mettras en place des mesures de sécurité robustes, notamment la ségrégation du réseau, le contrôle d'accès, le chiffrement et les systèmes de détection d'intrusion.
+
+
+
+
+Tu assureras aussi, de façon proactive, la réponse aux incidents pour détecter et résoudre les problèmes potentiels, afin de garantir une plateforme sécuritaire, fiable et efficace, tout en maintenant et en appliquant les protocoles de sécurité qui protègent l'infrastructure contre les menaces.
+
+
+
+
+Responsabilités principales
+
+Développer, déployer et soutenir des artefacts ou des modules d'infrastructure infonuagique en tant que code, ainsi que des applications
+Mettre en œuvre, maintenir, dépanner et optimiser des pipelines CI/CD pour plusieurs projets, et assurer une sécurité automatisée dans chaque pile technologique
+Concevoir et soutenir la résilience et l'évolutivité à l'aide de GCP et d'autres plateformes infonuagiques, et intégrer des pratiques SRE et DevOps afin de réduire au minimum les interruptions de service et les efforts manuels
+Configurer la surveillance des applications à l'aide d'outils de surveillance standard de l'industrie, et développer des solutions de surveillance sur mesure au besoin
+Créer et gérer les environnements de développement, de préproduction et de production en assurant leur cohérence et leur conformité aux exigences des projets, et tenir à jour la documentation des processus et des procédures DevOps ainsi que des configurations d'infrastructure
+Définir une vision à long terme pour la maintenance et la mise à l'échelle de l'infrastructure, y compris la planification de la capacité et des coûts du matériel, des logiciels et du stockage
+Interpréter les politiques de sécurité et veiller à ce que la conception de la plateforme respecte les lignes directrices en matière de sécurité
+Gérer les dépôts de code source, les stratégies de branches et le contrôle de version avec GitHub
+
+
+
+
+Exigences
+
+Baccalauréat ou maîtrise en informatique, ou expérience équivalente
+3 ans ou plus d'expérience dans la mise en œuvre de solutions de plateforme et DevOps
+3 ans ou plus d'expérience au sein d'une équipe DevOps très performante ou dans des rôles connexes
+2 ans ou plus d'expérience en surveillance de la performance, en alertes et en dépannage dans une entreprise
+Expérience de l'infonuagique hybride et de la migration d'infrastructures entre différents nuages
+Excellente expérience de la livraison d'infrastructure en tant que code avec Terraform
+Expérience des technologies de conteneurisation (p. ex. Docker, Colima, Kubernetes)
+Solides compétences en scripts ou en programmation dans des langages comme Python, JavaScript et Go
+Expérience du soutien d'outils de pipeline (GitHub, CircleCI)
+Compréhension des outils de surveillance et de journalisation comme Prometheus, Grafana ou la pile ELK
+Connaissance des bonnes pratiques de sécurité et des normes de conformité, y compris le codage sécuritaire et l'analyse de vulnérabilités
+
+
+
+
+Processus de recrutement
+
+Premier échange avec notre conseiller en acquisition de talents – en virtuel (30 minutes)
+Entrevue avec la gestionnaire d’embauche – en virtuel (45 minutes)
+Entrevue technique avec des membres l’équipe d’ingénierie – en personne (60 minutes)
+Dernière rencontre avec notre PDG – en virtuel (30 minutes)
+Offre d’emploi et intégration 🎉
+
+
+
+
+Le processus peut évoluer selon les besoins de l’équipe.
+
+
+
+
+Pourquoi rejoindre Stay22 ?
+
+Emplacement de choix à Montréal : Travaille depuis notre dynamique siège social situé dans la Petite-Italie, avec une allocation pour la cafétéria, un accès complet au gym, ainsi qu'une terrasse sur le toit comprenant un terrain saisonnier de basketball/pickleball et une patinoire de hockey.
+Une gamme complète d’avantages sociaux : Couverture santé et dentaire, contribution de l’employeur au REER, titre de transport STM entièrement payé, ainsi que des activités d’équipe, événements et retraites réguliers.
+Une flexibilité adaptée à ta réalité : Horaires flexibles, possibilités de travailler de n’importe où, fermeture des bureaux en fin d’année et journées flexibles.
+
+
+
+
+(Stay22 est un employeur garantissant l'égalité des chances. Toutes les candidatures qualifiées seront examinées. Si tu as un handicap ou des besoins particuliers nécessitant des aménagements, contacte-nous à careers@stay22.com.)
+
+
+
+
+Ton CV sera lu par Nayo, notre recruteur interne, même si tu ne coches pas toutes les cases, on aimerait quand même te rencontrer.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development and Technology, Information and Media
+  
+
+Referrals increase your chances of interviewing at Stay22 by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Greater Montreal Metropolitan Area.
+
+Sign in to create job alert
+Jobs
+Creative Developer jobs
+Senior DevOps / Platform Developer
+Similar jobs
+Platform Engineer
+Platform Engineer
+CDWare Technologies
+Greater Montreal Metropolitan Area
+1 month ago
+Infrastructure Developer, Platform Engineering
+Infrastructure Developer, Platform Engineering
+MaintainX
+Montreal, Quebec, Canada
+CA$88,000 - CA$195,000
+1 week ago
+Sr DevOps / Platform Developer
+Sr DevOps / Platform Developer
+Stay22
+Greater Montreal Metropolitan Area
+3 weeks ago
+Cloud Platform Engineer
+Cloud Platform Engineer
+Baseten
+Montreal, Quebec, Canada
+$165,000 - $330,000
+19 hours ago
+Senior DevOps Integrator
+Senior DevOps Integrator
+National Bank of Canada
+Montreal, Quebec, Canada
+2 weeks ago
+Platform Engineer
+Platform Engineer
+Xsolla
+Montreal, Quebec, Canada
+3 days ago
+Show more jobs like this 
+People also viewed
+DevOps Specialist
+DevOps Specialist
+
+SCIENTIFIC GAMES
+
+Montreal, Quebec, Canada
+1 week ago
+Site Reliability Engineer (Monetization)
+Site Reliability Engineer (Monetization)
+
+Xsolla
+
+Montreal, Quebec, Canada
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Aylo
+
+Montreal, Quebec, Canada
+3 days ago
+Principal Software Developer(Platform)
+Principal Software Developer(Platform)
+
+Aspen Technology
+
+Greater Montreal Metropolitan Area
+1 week ago
+MCE Operations
+MCE Operations
+
+Yochana
+
+Montreal, Quebec, Canada
+1 day ago
+DevOps Specialist - Shared Services
+DevOps Specialist - Shared Services
+
+Intact
+
+Montreal, Quebec, Canada
+6 days ago
+Platform Architect — AI Platform
+Platform Architect — AI Platform
+
+Simpro Software
+
+Montreal, Quebec, Canada
+8 hours ago
+Site Reliability Engineer / Full Stack Engineer
+Site Reliability Engineer / Full Stack Engineer
+
+Lockheed Martin
+
+Montreal, Quebec, Canada
+2 months ago
+Senior DevOps
+Senior DevOps
+
+TMC Canada
+
+Montreal, Quebec, Canada
+1 week ago
+Infrastructure Engineer
+Infrastructure Engineer
+
+People Culture Talent
+
+Montreal, Quebec, Canada
+1 month ago
+Similar Searches
+Creative Developer jobs
+15,324 open jobs
+Design Technologist jobs
+1,483 open jobs
+User Experience Engineer jobs
+14,650 open jobs
+Strategic Advisor jobs
+1,055 open jobs
+Sales Trainer jobs
+2,074 open jobs
+Information Technology Auditor jobs
+203 open jobs
+User Experience Specialist jobs
+632 open jobs
+Head of Business Development jobs
+602 open jobs
+Strategic Planning Manager jobs
+1,122 open jobs
+Product Designer jobs
+3,089 open jobs
+Employee Relations Specialist jobs
+988 open jobs
+Design Engineer jobs
+5,667 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

@@ -1,0 +1,258 @@
+Title: DevOps Specialist - Kubernetes (35700)
+Company: Myticas Consulting
+Location: Ottawa, Ontario, Canada
+URL: https://ca.linkedin.com/jobs/view/devops-specialist-kubernetes-35700-at-myticas-consulting-4485118367
+Posted: 2026-10-31
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in DevOps, CI/CD pipeline management, and configuration management, and it is located in a target country (Canada).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Specialist - Kubernetes (35700)
+Myticas Consulting  Ottawa, Ontario, Canada
+31 minutes ago   Be among the first 25 applicants
+  
+
+See who Myticas Consulting has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+We are looking for an experienced IT Specialist with strong Kubernetes expertise to manage, support, and optimize containerized applications and infrastructure. The ideal candidate will have hands-on experience deploying, scaling, maintaining, and troubleshooting Kubernetes clusters across both on-premises and public cloud environments, along with a strong understanding of cloud and bare-metal infrastructure.
+
+This role requires strong troubleshooting skills, an automation-focused mindset, and the ability to collaborate effectively with development and infrastructure teams in a fast-paced technical environment.
+
+Responsibilities
+
+
+Deploy, configure, manage, and maintain Kubernetes clusters across on-premises and cloud environments
+Monitor, troubleshoot, and optimize the performance and availability of Kubernetes clusters and containerized applications
+Implement and maintain CI/CD pipelines to support automated application deployment and infrastructure changes
+Diagnose and resolve issues related to Kubernetes, Docker, networking, storage, and container orchestration
+Collaborate with development and infrastructure teams to design scalable, reliable, and highly available solutions
+Implement and maintain security best practices within Kubernetes environments
+Automate infrastructure provisioning, configuration, and deployment using tools such as Terraform and Ansible
+Perform regular system audits, upgrades, patching, capacity planning, and performance tuning
+Develop and maintain technical documentation for Kubernetes environments, configurations, procedures, and operational processes
+Evaluate new Kubernetes capabilities, technologies, and industry best practices to continuously improve the environment
+Support both cloud-based and bare-metal infrastructure supporting containerized workloads
+
+
+Required Qualifications
+
+
+Bachelor's degree in Computer Science, Information Technology, Engineering, or a related field, or equivalent professional experience
+Proven hands-on experience with Kubernetes and container orchestration
+Strong knowledge of Docker and containerization technologies
+Minimum three years of experience working with Microsoft Azure, including Azure Kubernetes Service (AKS)
+Experience deploying and managing Kubernetes within both cloud and on-premises environments
+Strong understanding of infrastructure, networking, storage, and Linux-based systems
+Proficiency with scripting and automation using PowerShell, Python, or similar languages
+Experience with CI/CD tools such as Jenkins, GitLab CI/CD, or similar technologies
+Experience with infrastructure-as-code and configuration management tools such as Terraform and Ansible
+Strong troubleshooting, analytical, and problem-solving skills
+Excellent technical communication and collaboration skills
+Strong attention to detail and ability to work effectively in a fast-paced technical environment
+
+
+Nice-to-Have Certifications
+
+
+CNCF Certified Kubernetes Administrator (CKA)
+Microsoft Certified: DevOps Engineer Expert
+
+
+,
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Technology, Information and Media
+  
+
+Referrals increase your chances of interviewing at Myticas Consulting by 2x
+
+See who you know
+
+Get notified about new DevOps Specialist jobs in Ottawa, Ontario, Canada.
+
+Sign in to create job alert
+Jobs
+Core Network Engineer jobs
+DevOps Specialist - Kubernetes (35700)
+Similar jobs
+Information Technology Specialist (Kubernetes)
+Information Technology Specialist (Kubernetes)
+ALTEN Canada
+Ottawa, Ontario, Canada
+2 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Aptiv
+Ottawa, Ontario, Canada
+3 weeks ago
+Senior Cloud Operations and CI/CD Specialist
+Senior Cloud Operations and CI/CD Specialist
+Syntronic - A Global Design House
+Kanata, Ontario, Canada
+1 month ago
+System Administrator, DevOps and Infrastructure
+System Administrator, DevOps and Infrastructure
+Sander Geophysics
+Ottawa, Ontario, Canada
+4 months ago
+Cloud Engineer 2, Site Reliability Engineering
+Cloud Engineer 2, Site Reliability Engineering
+Kinaxis
+Ottawa, Ontario, Canada
+14 hours ago
+Senior Platform Engineering Specialist
+Senior Platform Engineering Specialist
+CANARIE
+Ottawa, Ontario, Canada
+1 week ago
+Show more jobs like this 
+People also viewed
+Bilingual Senior Specialist, Cloud Infrastructure Operations Engineering
+Bilingual Senior Specialist, Cloud Infrastructure Operations Engineering
+
+Canada Mortgage and Housing Corporation (CMHC) Société canadienne d'hypothèques et de logement(SCHL)
+
+Ottawa, Ontario, Canada
+1 day ago
+Infra System Administrator
+Infra System Administrator
+
+Accenture
+
+Ottawa, Ontario, Canada
+1 week ago
+Systems Engineer (Forward Deployed)
+Systems Engineer (Forward Deployed)
+
+ANVIL
+
+Ottawa, Ontario, Canada
+12 hours ago
+Principal Architect - Platform
+Principal Architect - Platform
+
+Nokia
+
+Kanata, Ontario, Canada
+1 week ago
+Senior Specialist, Systems Administration
+Senior Specialist, Systems Administration
+
+L3Harris Technologies
+
+Ottawa, Ontario, Canada
+2 weeks ago
+Senior System Administrator
+Senior System Administrator
+
+Harris Computer
+
+Ottawa, Ontario, Canada
+2 months ago
+Secure System Platform Engineer
+Secure System Platform Engineer
+
+IBM
+
+Ottawa, Ontario, Canada
+CA$129,200 - CA$167,200
+1 week ago
+Senior Platform Engineer - Terraform, Azure
+Senior Platform Engineer - Terraform, Azure
+
+BDO Canada
+
+Ottawa, Ontario, Canada
+3 weeks ago
+Cyber Security Engineer
+Cyber Security Engineer
+
+DXC Technology
+
+Ottawa, Ontario, Canada
+1 week ago
+Member of Technical Staff - Cloud Operations
+Member of Technical Staff - Cloud Operations
+
+Aptiv
+
+Ottawa, Ontario, Canada
+2 weeks ago
+Similar Searches
+Core Network Engineer jobs
+738 open jobs
+Core Engineer jobs
+1,778 open jobs
+Senior Technology Architect jobs
+3,800 open jobs
+Test Coordinator jobs
+414 open jobs
+Network System Engineer jobs
+1,246 open jobs
+Distinguished Engineer jobs
+44 open jobs
+Network Support Engineer jobs
+613 open jobs
+Telecommunications Manager jobs
+970 open jobs
+Ruby on Rails Developer jobs
+2,683 open jobs
+Windows Administrator jobs
+946 open jobs
+Data Coordinator jobs
+5,114 open jobs
+Change Management Consultant jobs
+473 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
