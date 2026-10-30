@@ -1,0 +1,264 @@
+Title: Senior Cloud & Platform Engineer (Azure, Databricks, Data Lake, ADLS)
+Company: Acuity Analytics
+Location: Birkirkara, Malta
+URL: https://mt.linkedin.com/jobs/view/senior-cloud-platform-engineer-azure-databricks-data-lake-adls-at-acuity-analytics-4483626563
+Posted: 2026-10-28
+Deadline: N/A
+Reason: The role is a strong match for her DevOps/CI-CD and configuration management expertise in a regulated environment, and it is located in Malta, which is one of her target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Cloud & Platform Engineer (Azure, Databricks, Data Lake, ADLS)
+Acuity Analytics  Birkirkara, Malta
+2 days ago   Be among the first 25 applicants
+  
+
+See who Acuity Analytics has hired for this role
+
+Apply 
+Save
+
+Direct message the job poster from Acuity Analytics
+
+Adelina Pandeva
+Adelina Pandeva
+Senior Talent Acquisition Consultant @ Acuity Analytics | Hiring across Software Engineering & Architecture, Cloud & DevOps, Cyber Security, Data & AI
+
+About us
+
+
+
+
+Ascent has recently been acquired by Acuity Analytics. This is both a significant milestone for us and a tremendous opportunity for you. Acuity Analytics is a business with a strong global reputation, an impressive client base and ambitious growth plans. We deliver deep insights and domain-led digital transformation to high-growth and heavily regulated organizations. To our customers, we bring a partnership that provides the talent, technology and capability to enhance performance and operational efficiency.
+
+
+
+
+About the role
+
+
+
+
+We're looking for a Senior Cloud Engineer to build and run enterprise Azure platform capabilities for a team that works on a big data analytics platform in a large, regulated environment.
+
+
+
+
+This is a hands-on engineering role for someone who treats infrastructure as software: secure, automated, tested and maintainable. You'll enable data and application teams with reliable, compliant and scalable cloud solutions.
+
+
+
+
+The key ingredients for this role are solid Azure background, experience with Azure Databricks, Azure Data Lake Storage (ADLS), Terraform, Powershell/Python, ADO, strong communication skills, excellent English, systems-level thinking, strong ownership.
+
+
+
+
+Responsibilities
+
+
+
+
+Independently design, develop and operate enterprise-grade Azure platform components using Terraform, PowerShell and Azure DevOps.
+Apply software engineering practices to infrastructure and automation: reusable design, automated testing, code reviews and version management.
+Own platform changes end-to-end, from implementation through CI/CD and release to operational handover.
+Run handover sessions and share knowledge with Operations, Service Desk and the four other DevOps teams, and present your results clearly.
+Support ops colleagues during incidents.
+Contribute to engineering standards and best practices and develop a specialty within the team.
+
+
+
+
+Required skills
+
+
+
+
+5+ years of hands-on experience engineering and operating enterprise Azure platforms
+Solid experience in Azure Databricks, platform side only (workspaces, access and networking via Terraform), and Azure Data Lake Storage (ADLS)
+Expert level Terraform skills as your primary IaC tool
+Expert level experience with Azure DevOps pipelines (build and release): YAML, reusable templates, approvals and environments
+Advanced scripting skills in PowerShell (preferred) or Python, including automated testing and artifact/version management
+Professional-level software engineering applied to infrastructure: IaC, reusable design, automated deployments and tests, code reviews and version management. This is not portal-based or point-and-click work.
+Networking: VNets, private endpoints and NSGs
+Identity and security: managed identities, service principals and role assignments
+Experience working in a regulated environment
+A proactive, can-do mindset, systems-level thinking, strong troubleshooting, advanced communication skills in English and a quality-first approach (automation first, documentation discipline)
+
+
+
+
+Highly advantageous
+
+
+
+
+Hub-and-spoke network architectures
+Wider Microsoft Entra ID integration, including app registrations
+Azure AI Search, Azure Cosmos DB, Azure Data Factory
+Azure Monitor, Log Analytics, Application Insights
+German language proficiency
+
+
+
+
+Why join us
+
+
+
+
+People are at the heart of our Business. By investing in people, we achieve exceptional results for our clients and create new opportunities for our teams to thrive. Check out this page for more details.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Acuity Analytics by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Senior Cloud & Platform Engineer (Azure, Terraform, Azure Databricks, Azure Data Lake Storage)
+Senior Cloud & Platform Engineer (Azure, Terraform, Azure Databricks, Azure Data Lake Storage)
+Acuity Analytics
+Birkirkara, Malta
+1 day ago
+Senior Data Engineer (Databricks, Azure)
+Senior Data Engineer (Databricks, Azure)
+Acuity Analytics
+Birkirkara, Malta
+1 week ago
+Data Technical Engineer
+Data Technical Engineer
+KPMG Malta
+Pietà, Malta
+1 week ago
+Data Engineers
+Data Engineers
+EY
+Msida, Malta
+2 weeks ago
+Data Engineer
+Data Engineer
+Catena Media
+Gzira, Malta
+1 day ago
+Cloud Engineer
+Cloud Engineer
+Pentasia
+Sliema, Malta
+1 month ago
+Show more jobs like this 
+People also viewed
+Senior Site Reliability Engineer (AI-Native)
+Senior Site Reliability Engineer (AI-Native)
+
+Paradise Media
+
+San Ġiljan, Saint Julian's, Malta
+6 days ago
+Senior Data Engineer
+Senior Data Engineer
+
+PLAYERSBEST
+
+Malta
+3 weeks ago
+Senior Data Engineer (Microsoft Fabric & Azure Data Platform)
+Senior Data Engineer (Microsoft Fabric & Azure Data Platform)
+
+Acuity Analytics
+
+Birkirkara, Malta
+1 week ago
+Senior Data Engineer – AI Document Processing (Azure, Databricks, Python, Spark)
+Senior Data Engineer – AI Document Processing (Azure, Databricks, Python, Spark)
+
+Acuity Analytics
+
+Birkirkara, Malta
+1 day ago
+Senior Cloud Platform Engineer (Azure)
+Senior Cloud Platform Engineer (Azure)
+
+Acuity Analytics
+
+Birkirkara, Malta
+1 week ago
+Lead Data Engineer
+Lead Data Engineer
+
+Acuity Analytics
+
+Birkirkara, Malta
+1 week ago
+Cloud Architects / Engineer
+Cloud Architects / Engineer
+
+EY
+
+Msida, Malta
+1 week ago
+Senior SQL/Data Solution Designer
+Senior SQL/Data Solution Designer
+
+Acuity Analytics
+
+Birkirkara, Malta
+3 weeks ago
+Senior Python & Cloud Platform Engineer
+Senior Python & Cloud Platform Engineer
+
+Acuity Analytics
+
+Birkirkara, Malta
+1 week ago
+Platform Database Engineer - Infra
+Platform Database Engineer - Infra
+
+Betsson Group
+
+Valletta, Valletta, Malta
+1 week ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Acuity Analytics
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
