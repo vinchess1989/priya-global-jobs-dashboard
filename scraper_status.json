@@ -1,9 +1,9 @@
 {
   "pid": 3936,
   "started_at": "2026-11-01T01:12:41+02:00",
-  "heartbeat_at": "2026-11-01T01:27:43+02:00",
+  "heartbeat_at": "2026-11-01T01:33:07+02:00",
   "phase": "reviewing",
-  "detail": "QUALITY ASSURANCE MANAGER",
-  "last_scrape_ok_at": "2026-11-01T01:26:44+02:00",
+  "detail": "Regulatory Affairs Specialist",
+  "last_scrape_ok_at": "2026-11-01T01:32:09+02:00",
   "last_error": null
 }
