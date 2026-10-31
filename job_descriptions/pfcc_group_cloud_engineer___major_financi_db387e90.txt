@@ -1,0 +1,234 @@
+Title: Cloud Engineer - Major Financial Regulator
+Company: PFCC Group
+Location: Hong Kong, Hong Kong SAR
+URL: https://hk.linkedin.com/jobs/view/cloud-engineer-major-financial-regulator-at-pfcc-group-4484827516
+Posted: 2026-10-31
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in DevOps, CI/CD, and infrastructure automation within highly regulated environments, and it is located in a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Cloud Engineer - Major Financial Regulator
+PFCC Group  Hong Kong, Hong Kong SAR
+15 hours ago   Be among the first 25 applicants
+  
+
+See who PFCC Group has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Direct message the job poster from PFCC Group
+
+Wei En T.
+Wei En T.
+
+We are seeking an experienced and driven Intermediate to Senior/Senior Cloud Engineer to join our client, a premier regulatory financial institution in Hong Kong. In this role, you will be instrumental in designing, building, automating, and scaling robust cloud infrastructure and platform services to power next-generation digital initiatives. You will act as a key technical bridge between application development, security, and core infrastructure teams, ensuring high system availability, strict regulatory compliance, and seamless deployment pipelines.
+
+
+
+
+Key Responsibilities:
+
+
+
+
+Cloud Architecture & Provisioning: Design, implement, and maintain secure, scalable, and resilient cloud infrastructure (AWS/Azure/GCP) to support enterprise-grade applications under the Diversified Technologies programme.
+Infrastructure as Code (IaC): Spearhead environment automation using Terraform and modern IaC frameworks to ensure repeatable, consistent, and auditable resource provisioning.
+Containerization & Orchestration: Manage containerized application workloads using Docker and Kubernetes (EKS/AKS/GKE), ensuring auto-scaling, high availability, and robust observability (e.g., Prometheus, Grafana).
+CI/CD Pipeline Engineering: Build, optimize, and maintain end-to-end CI/CD pipelines (GitHub Actions, Jenkins) to accelerate software delivery cycles while enforcing automated testing and security guardrails.
+Security, Governance & Compliance: Implement rigorous security policies, identity and access management (IAM), data residency protocols, and zero-trust architectures aligned with financial sector regulatory standards.
+Technical Collaboration & R&D: Partner closely with software engineering, database, and cybersecurity teams to troubleshoot complex infrastructure issues, evaluate emerging technologies, and conduct Proofs of Concept (PoCs).
+Operational Resilience: Monitor cloud performance, implement proactive alerting, execute disaster recovery drills, and maintain pristine architectural documentation.
+
+
+
+
+Key Requirements & Qualifications:
+
+
+
+
+Experience: 4 to 8+ years of hands-on professional experience in Cloud Engineering, DevOps, or Platform Engineering, preferably within banking, financial services, or highly regulated enterprise environments.
+Cloud Expertise: Proven production experience with at least one major public cloud platform (AWS, Azure, or GCP). Professional cloud certifications (e.g., AWS Solutions Architect or DevOps Engineer Professional) are highly advantageous.
+Core Technical Stack:
+IaC & Automation: Advanced proficiency in Terraform and configuration management.
+Containerization: Strong practical experience with Docker and Kubernetes cluster management in production.
+Programming & Scripting: Proficiency in Python, Go, or Bash for automation, tooling, and API integrations.
+CI/CD & Tooling: Extensive experience with GitHub, Jenkins, and artifact repositories.
+Domain Knowledge: Strong understanding of cloud networking (VPCs, subnets, load balancing, firewalls), hybrid cloud connectivity, and database management.
+Communication & Stakeholder Management: Excellent verbal and written communication skills in English, with the ability to collaborate effectively across multidisciplinary teams. Cantonese or Mandarin proficiency is a strong plus.
+
+
+
+
+To Apply:
+
+Please apply directly to this posting or email us your Resume/CV to recruiting@pfccgroup.com. Due to the high volume of applications, only shortlisted candidates will be contacted.
+
+
+
+
+About PFCC Group:
+
+We partner with the world’s most sophisticated financial institutions to unlock sustainable value. By merging operational excellence with the power of AI and digital transformation, we ensure our clients are equipped to lead, not just keep pace.
+
+
+
+
+Bridging the Gap between Vision and Technical Mastery, we believe that even the most advanced strategy is only as powerful as the people executing it. That is why we specialize in identifying and placing high-calibre technical talent within the world’s premier financial ecosystems. Whether it’s securing mission-critical infrastructure or driving global digital shifts, we connect elite IT professionals with opportunities at global financial leaders.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Business Consulting and Services
+  
+
+Referrals increase your chances of interviewing at PFCC Group by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Cloud Engineer
+Cloud Engineer
+TEKsystems
+Central, Hong Kong SAR
+2 weeks ago
+Lead Platform Engineer
+Lead Platform Engineer
+HSBC
+Kowloon City, Hong Kong SAR
+2 weeks ago
+Senior Site Reliability Engineer (APAC)
+Senior Site Reliability Engineer (APAC)
+Reap
+Hong Kong, Hong Kong SAR
+3 weeks ago
+Principal Cloud Services Engineer - Assistant Vice President - Cloud Platform Services - IT - 12 months Contract
+Principal Cloud Services Engineer - Assistant Vice President - Cloud Platform Services - IT - 12 months Contract
+Hong Kong Exchanges and Clearing Limited (HKEX)
+Hong Kong, Hong Kong SAR
+7 months ago
+Platform / Site Reliability Engineer
+Platform / Site Reliability Engineer
+Millennium
+Hong Kong, Hong Kong SAR
+1 week ago
+Cloud Engineer
+Cloud Engineer
+Infosys
+Hong Kong, Hong Kong SAR
+1 week ago
+Show more jobs like this 
+People also viewed
+Site Reliability Engineer - Global Financial Institution - Hong Kong
+Site Reliability Engineer - Global Financial Institution - Hong Kong
+
+NLS Executive Search
+
+Hong Kong, Hong Kong SAR
+2 weeks ago
+Lead Infrastructure Engineer
+Lead Infrastructure Engineer
+
+y-intercept
+
+Hong Kong, Hong Kong SAR
+2 weeks ago
+AWS Cloud Network Engineer
+AWS Cloud Network Engineer
+
+Tribus
+
+Hong Kong, Hong Kong SAR
+1 week ago
+Manager, Platform Engineering
+Manager, Platform Engineering
+
+Bupa Hong Kong
+
+Hong Kong, Hong Kong SAR
+3 days ago
+Senior/Staff Engineer, Operations Automation & Cloud Management Platform
+Senior/Staff Engineer, Operations Automation & Cloud Management Platform
+
+OKX
+
+Hong Kong, Hong Kong SAR
+1 week ago
+(Senior) System Administration Manager (Cloud)
+(Senior) System Administration Manager (Cloud)
+
+Bank of China (Hong Kong)
+
+Hong Kong SAR
+4 months ago
+DevOps Engineer
+DevOps Engineer
+
+The Lane Crawford Joyce Group
+
+Hong Kong, Hong Kong SAR
+2 weeks ago
+SRE
+SRE
+
+Peak3
+
+Hong Kong, Hong Kong SAR
+1 week ago
+Market Access Devops Support - Global Market Activities
+Market Access Devops Support - Global Market Activities
+
+Societe Generale
+
+Hong Kong, Hong Kong SAR
+1 week ago
+Core DevOps Engineer
+Core DevOps Engineer
+
+Selby Jennings
+
+Hong Kong, Hong Kong SAR
+1 day ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+You’re signed out
+Sign in for the full experience.
+Sign in Join now
