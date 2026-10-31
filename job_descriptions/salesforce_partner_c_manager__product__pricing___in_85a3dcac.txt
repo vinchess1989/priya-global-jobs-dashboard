@@ -1,0 +1,252 @@
+Title: Manager, Product, Pricing & Integrations Operations
+Company: Salesforce Partner Canada
+Location: Toronto, Ontario, Canada
+URL: https://ca.linkedin.com/jobs/view/manager-product-pricing-integrations-operations-at-salesforce-partner-canada-4485611551
+Posted: 2026-10-31
+Deadline: N/A
+Reason: The role aligns perfectly with the candidate's background in configuration management, release processes, and technical documentation within a SaaS/Salesforce environment, and it is located in a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Manager, Product, Pricing & Integrations Operations
+Salesforce Partner Canada  Toronto, Ontario, Canada
+1 day ago   Be among the first 25 applicants
+  
+
+See who Salesforce Partner Canada has hired for this role
+
+Apply 
+Save
+Description
+
+The Experience
+
+Join Product Operations to own licensing and entitlements for new product launches at Salesforce. You'll turn packaging and pricing decisions into the licenses, entitlements, and selling rules that shape how customers, sellers, and operators experience our products. You'll partner with Pricing Strategy, Product Management, Engineering, Finance, and Sales Operations, and your business requirements will influence the roadmap for our provisioning systems. This is a hybrid role with three days in office each week.
+
+What You'll Actually Be Doing
+
+
+Own licensing and entitlement design for launches. Define the entitlement model for each offer: which features are on, which limits apply, and how capacity is provisioned and enforced.
+Recommend license and entitlement structures to Product and Pricing teams, tying each option back to the business outcome you want.
+Validate license and entitlement compatibility, and make sure each one maps correctly to license containers and to SKU and product records in our CRM.
+Keep traceability from SKU to license to entitlement to feature, so every sellable item provisions what the customer bought.
+Partner with Engineering and Provisioning on how entitlements behave in the product, including hard vs. soft limits, overage handling, and trial-to-paid conversion.
+Build licensing governance into the NPI process for all new launches and repackaging efforts, moving strategy and technical validation earlier. Own license and entitlement sign-off for launches.
+Train Product Operations project leads to run baseline project-level reviews, and rebalance review work between them and this role as NPI volume changes.
+Create operating standards, including QA checklists, configuration menu options, and use cases. Develop enablement materials that support scalable, agentic question answering for product and pricing stakeholders.
+Close current licensing gaps. Define an ownership model for cross-cloud licensing decisions between Product and Prod Ops (including legacy products), with a clear split of responsibility between Prod Ops and the Platform team. Build an M&A licensing playbook for bringing acquired-company user licensing into our model.
+Assess financial and operational impact. Evaluate how usage-based pricing affects ACV, bookings, revenue recognition, forecasting, and sales compensation. Work with Finance, Deal Desk, and Sales Comp so new models fit approval workflows, discounting rules, and quota crediting.
+Assess the experience each design creates for customers (buying, provisioning, usage visibility), sellers (quoting, configuration), and internal operators (order management, support, renewals).
+Translate technical licensing capabilities and constraints into clear business terms, covering options, tradeoffs, and recommendations. Bring feasibility issues into packaging discussions early, before launch commitments are made.
+Write and maintain launch documentation, standards, and playbooks. Build and maintain a central licensing resource with our provisioning team that shows which tools exist, who owns what, and how licensing choices affect commercial outcomes.
+
+
+You're Our Person If...
+
+
+You have 7+ years in product management, engineering, commercial operations, IT, or a similar role at a SaaS or enterprise software company, including 2+ years leading technical cross-functional programs.
+You have experience constructing licensing or entitlements for B2B SaaS, or experience in the product and engineering development lifecycle for SaaS products.
+You've taken new products or pricing models from packaging concept to launch as a product manager or engineer.
+You can develop business and technical requirements that drive the product and engineering roadmap for license construction, data model enhancements, and stakeholder tooling.
+You can read, write, and troubleshoot XML (structure, attributes, namespaces, schema validation) and catch errors in license and entitlement definitions before they reach production.
+You use SOQL, SQL, and AI tools to query product, license, and entitlement data, find mapping gaps, and audit catalog consistency.
+You can master the data model for licenses and entitlements and drive requirements to update it as commercial and product needs evolve.
+You work with source control (e.g., Git) and structured engineering release processes for configuration changes.
+
+
+Even Better If...
+
+
+You're familiar with metadata-driven platforms such as Salesforce metadata and CPQ/Revenue Cloud.
+You've set structure and standards in ambiguous environments where none existed.
+You can go deep on license mechanics with engineers, then summarize the decision and its impact for executives in a few sentences.
+You've driven alignment across Pricing, Product, Finance, Sales, and Engineering without direct authority.
+You bring strong systems thinking and attention to detail, since a single mapping error can block provisioning or misstate revenue.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Salesforce Partner Canada by 2x
+
+See who you know
+
+Get notified about new Manager jobs in Toronto, Ontario, Canada.
+
+Sign in to create job alert
+Jobs
+Senior Exploration Geologist jobs
+Manager, Product, Pricing & Integrations Operations
+Similar jobs
+Manager, Product, Pricing & Integrations Operations
+Manager, Product, Pricing & Integrations Operations
+Salesforce
+Toronto, Ontario, Canada
+1 day ago
+Strategy & Operations, Senior Manager
+Strategy & Operations, Senior Manager
+Clutch
+Toronto, Ontario, Canada
+1 week ago
+Strategy & Operations Manager
+Strategy & Operations Manager
+Clutch
+Toronto, Ontario, Canada
+1 week ago
+PRODUCT & PRICING MANAGER - PRODUCT & PRICING MANAGER
+PRODUCT & PRICING MANAGER - PRODUCT & PRICING MANAGER
+JJS Canada
+Aurora, Ontario, Canada
+1 week ago
+Senior Manager, Marketplace, DashPass Strategy & Operations
+Senior Manager, Marketplace, DashPass Strategy & Operations
+DoorDash
+Toronto, Ontario, Canada
+14 hours ago
+Sr. Monetization Strategy & Pricing Manager (CA)
+Sr. Monetization Strategy & Pricing Manager (CA)
+PointClickCare
+Mississauga, Ontario, Canada
+CA$104,000 - CA$130,000
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Sr Manager Value Management
+Sr Manager Value Management
+
+Rogers Communications
+
+Toronto, Ontario, Canada
+1 week ago
+Product Finance, Training & New Products
+Product Finance, Training & New Products
+
+Baseten
+
+Toronto, Ontario, Canada
+$205,000 - $248,000
+1 month ago
+Sr. Analyst, Product and Pricing Operations
+Sr. Analyst, Product and Pricing Operations
+
+Salesforce
+
+Toronto, Ontario, Canada
+1 day ago
+Senior Manager, Data Strategy & Data Products
+Senior Manager, Data Strategy & Data Products
+
+Pelmorex
+
+Oakville, Ontario, Canada
+2 weeks ago
+Manager, Revenue Operations
+Manager, Revenue Operations
+
+GWL Realty Advisors
+
+Greater Toronto Area, Canada
+1 week ago
+Director of Pricing and Business Analytics
+Director of Pricing and Business Analytics
+
+GFL Environmental Inc.
+
+Vaughan, Ontario, Canada
+4 days ago
+Senior Manager, Commercial Strategy
+Senior Manager, Commercial Strategy
+
+AutoTrader.ca
+
+Toronto, Ontario, Canada
+2 weeks ago
+Senior Manager, Revenue & Pricing
+Senior Manager, Revenue & Pricing
+
+Caldic North America
+
+Mississauga, Ontario, Canada
+CA$99,000 - CA$163,000
+1 week ago
+Senior Revenue Growth Manager
+Senior Revenue Growth Manager
+
+Mondelēz International
+
+Toronto, Ontario, Canada
+4 days ago
+Senior Manager, Revenue Growth Management
+Senior Manager, Revenue Growth Management
+
+High Liner Foods
+
+Mississauga, Ontario, Canada
+2 weeks ago
+Similar Searches
+Senior Exploration Geologist jobs
+13 open jobs
+Residency Coordinator jobs
+2,855 open jobs
+Customer Success Manager jobs
+5,790 open jobs
+Senior Brand Manager jobs
+1,730 open jobs
+Commercial Manager jobs
+4,360 open jobs
+Commercial Property Manager jobs
+293 open jobs
+Director jobs
+55,280 open jobs
+Store Director jobs
+2,704 open jobs
+Sales Manager jobs
+11,384 open jobs
+Indirect Tax Manager jobs
+373 open jobs
+Marketing Manager jobs
+5,538 open jobs
+Residential Property Manager jobs
+259 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
