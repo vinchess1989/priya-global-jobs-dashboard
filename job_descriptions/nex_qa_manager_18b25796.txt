@@ -1,0 +1,281 @@
+Title: QA Manager
+Company: Nex
+Location: Sham Shui Po District, Hong Kong SAR
+URL: https://hk.linkedin.com/jobs/view/qa-manager-at-nex-4484434313
+Posted: 2026-10-29
+Deadline: N/A
+Reason: The role is a strong match for her background in firmware/system-level QA, release gating, and automation, and it is located in Hong Kong, which is one of her target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+QA Manager
+Nex  Sham Shui Po District, Hong Kong SAR
+2 days ago   Be among the first 25 applicants
+  
+
+See who Nex has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Nex is on a mission to help families rediscover the joy of movement. Created by parents for parents, Nex combines technology and play to deliver fun, social, and interactive experiences powered by natural body motion, encouraging kids and adults to move more, play more, and have fun together. Nex Playground, the company’s award-winning active play system, is purpose-built to get families moving year-round, with safety and privacy as core considerations in its intentional design. It is certified kidSAFE+ COPPA compliant and built to support healthy, active play for all ages and abilities.
+
+Nex Playground features a growing library of 50+ experiences, including motion and dance games, fitness and educational experiences, and Nex Originals. Content includes collaborations with partners like Hasbro, Sesame Workshop, and NBCUniversal. Nex has been recognized by Fast Company’s Most Innovative Companies, TIME’s Best Inventions, and Parents’ Best Entertainment System for Families, and has earned Red Dot, IDEA, and Core77 international design awards. We encourage you to explore Have Fun and Is Motion Gaming Back?, as they offer a deeper look into our culture, values, and explain how our approach to motion gaming differs from previous generations.
+
+Nex employees may be expected to collaborate with colleagues across different time zones. Depending on the role and location, occasional travel may also be required for company events, external meetings, and other business-related activities.
+
+Important Notice: ⚠️ To protect yourself from recruitment scams, please note that Nex communicates through official company emails ending in @nex.inc. If you receive a suspicious email or message, please do not respond and report it immediately to us.
+
+Location: Hong Kong
+
+The Role
+
+We’re looking for a QA Manager to own end-to-end quality across hardware, firmware, PlayOS, and game experiences for Nex Playground. This is a role for someone who enjoys hands-on testing and debugging while also shaping test strategy, release criteria, and the overall quality bar.
+
+Your mission is to ensure every hardware revision works seamlessly with PlayOS and our games—delivering a stable, responsive, compatible, and delightful experience in real-world conditions. You’ll partner closely with the engineering team and game cells to identify risk, prevent regressions, and support confident release decisions.
+
+Key Responsibilities
+
+Hardware compatibility & system validation
+
+
+Own validation for hardware bring-up and ongoing compatibility across hardware revisions, PlayOS versions, and game builds.
+Develop and maintain risk-based test plans across EVT, DVT, and PVT—or equivalent development stages—including:
+boot, update, rollback, and recovery flows
+input, tracking, peripherals, and connectivity
+long-session stability, power cycles, and intermittent failures
+storage integrity and save-data behavior
+Maintain a clear compatibility matrix covering hardware revisions, PlayOS versions, firmware versions, and game builds.
+Partner with engineering teams to isolate hardware–software issues and verify fixes.
+
+Firmware quality & release gating
+
+
+Own the test strategy for firmware and PlayOS updates, including upgrade and downgrade paths, interrupted updates, failure scenarios, sleep/wake behavior, backgrounding, resume, and recovery.
+Define manual validation and integrate automated checks into OTA release workflows where appropriate, covering installation, staged rollout, rollback, interruption handling, and recovery.
+Establish quality gates, entry and exit criteria, and evidence-based go/no-go recommendations for hardware and firmware releases.
+Assess release risk, track critical issues, and ensure regressions are understood before rollout.
+
+
+Performance, reliability & real-world readiness
+
+
+Validate system compatibility across PlayOS and game releases, including input, tracking, performance, save data, and update-related regressions.
+Define and validate measurable quality targets such as frame-rate stability, responsiveness, latency, memory usage, thermal behavior, and crash-free sessions.
+Execute long-run, stress, and recovery testing to identify memory leaks, degradation over time, and intermittent failures.
+Test representative user environments, including network variability, display configurations, device states, user flows, and edge conditions.
+
+
+Automation & tooling
+
+
+Build and maintain reliable automated regression coverage across device, firmware, OTA, system-integration, and game-compatibility workflows where appropriate.
+Integrate high-value automated checks into release workflows and make failures easy to diagnose.
+Develop lightweight tools and scripts that accelerate setup, validation, data collection, and troubleshooting.
+
+
+Communication, vendor management & cross-functional leadership
+
+
+Produce actionable bug reports with clear reproduction steps, environment and build details, logs, impact, and supporting evidence.
+Drive defect triage and prioritization with engineering and product partners, particularly during release cycles.
+Manage external vendors, including scope, capacity, priorities, deliverables, acceptance criteria, quality standards, and performance.
+Communicate quality status and release risk clearly, helping teams make informed tradeoffs and decisions.
+Champion consistent testing practices and raise the quality bar across teams through influence and collaboration.
+
+
+Key Requirements
+
+
+Strong hands-on QA experience in system-level testing, firmware or OS validation, or hardware–software integration.
+Demonstrated ability to design risk-based test strategies and execute thorough exploratory testing.
+Experience validating firmware or OTA update flows, including failure handling, rollback, and recovery.
+Experience investigating performance, reliability, and intermittent issues using logs, traces, crash data, and other diagnostic evidence.
+Ability to create maintainable automated tests, tools, or scripts in at least one programming or scripting language.
+Experience coordinating external QA partners or vendors and holding deliverables to clear quality standards.
+Clear written and verbal communication, sound judgment, and strong cross-functional collaboration.
+
+
+Nice-to-have
+
+
+Experience with consumer electronics, hardware bring-up, EVT/DVT/PVT, or manufacturing test concepts.
+Experience with game or platform QA, graphics and performance profiling, input or motion-tracking systems, or observability tooling.
+Familiarity with Android or Linux debugging, ADB, CI/CD systems, device logs, traces, and crash dumps.
+Experience building test infrastructure, managing device labs, or validating staged software rollouts at scale.
+
+
+We Offer
+
+
+Competitive compensation package.
+Flexible working hours and vacation policy.
+Product-driven culture that treasures talents and individual growth.
+Front-row seat and hands-on experience with cutting edge technologies in the evolving gaming field
+
+
+Nex is located in San Jose, California, USA and Hong Kong. Learn more about us at https://www.nexplayground.com/about.
+
+We encourage applications even if you don’t meet more than 50% of the requirements — we believe that experience comes in many forms!
+
+Nex is an equal opportunity employer and does not discriminate on the basis of race, color, religion, sex (including pregnancy, childbirth, gender identity, and sexual orientation), national origin, ancestry, age, physical or mental disability, medical condition, genetic information, marital status, military or veteran status, or any other characteristic protected by applicable law. This policy applies to all individuals at every stage of the employment relationship, including all current and prospective employees, and covers all employment decisions including recruitment, hiring, job assignment, promotion, compensation, benefits, training, discipline and termination.
+
+We are committed to providing a workplace free from discrimination and harassment and to fostering an inclusive environment for all employees.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Entertainment Providers
+  
+
+Referrals increase your chances of interviewing at Nex by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Software Quality Assurance Lead
+Software Quality Assurance Lead
+SleekFlow
+Hong Kong, Hong Kong SAR
+1 day ago
+Sr. Manager, Quality Assurance
+Sr. Manager, Quality Assurance
+INFINITY GLOBAL
+Hong Kong SAR
+2 weeks ago
+Quality Assurance Manager – Home HONG KONG | QUALITY ASSURANCE
+Quality Assurance Manager – Home HONG KONG | QUALITY ASSURANCE
+William E. Connor & Associates Ltd.
+Hong Kong SAR
+1 month ago
+QA Lead
+QA Lead
+Not Another Headhunting Company
+Hong Kong SAR
+1 month ago
+Quality Assurance Lead - Leading Investment Bank
+Quality Assurance Lead - Leading Investment Bank
+PFCC Group
+Hong Kong, Hong Kong SAR
+4 weeks ago
+Technology Quality Assurance Lead - Insurance
+Technology Quality Assurance Lead - Insurance
+Captar Partners
+Hong Kong SAR
+1 month ago
+Show more jobs like this 
+People also viewed
+Regional Sourcing & Quality Leadership Opportunities
+Regional Sourcing & Quality Leadership Opportunities
+
+ConnectedGroup
+
+Hong Kong, Hong Kong SAR
+1 week ago
+Assistant Corporate Safety and Quality Manager – Development and Shared Services (Ref: 260000ZX)
+Assistant Corporate Safety and Quality Manager – Development and Shared Services (Ref: 260000ZX)
+
+MTR Corporation Limited 香港鐵路有限公司
+
+Hong Kong SAR
+1 day ago
+Quality Director - Advanced Electronics Manufacturing
+Quality Director - Advanced Electronics Manufacturing
+
+Michael Page
+
+Hong Kong SAR
+2 days ago
+Assistant Manager - Quality Assurance (Food)
+Assistant Manager - Quality Assurance (Food)
+
+Li & Fung
+
+Hong Kong SAR
+3 weeks ago
+Senior Manager, Change Assurance
+Senior Manager, Change Assurance
+
+The Hong Kong Jockey Club
+
+Sha Tin District, Hong Kong SAR
+1 week ago
+Senior QA Engineer
+Senior QA Engineer
+
+Axis Global Tech Limited
+
+Hong Kong, Hong Kong SAR
+18 hours ago
+Manager, Guest Experience and Quality
+Manager, Guest Experience and Quality
+
+The Hongkong and Shanghai Hotels, Limited
+
+Hong Kong, Hong Kong SAR
+3 weeks ago
+Senior Compliance Manager
+Senior Compliance Manager
+
+PCCW Solutions
+
+Hong Kong, Hong Kong SAR
+1 day ago
+Agency Quality Assurance Manager
+Agency Quality Assurance Manager
+
+BOC Group Life Assurance Company Limited
+
+Central, Hong Kong SAR
+1 week ago
+Quality Engineer
+Quality Engineer
+
+China State Construction Engineering (Hong Kong) Limited
+
+Hong Kong SAR
+2 months ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Nex
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
