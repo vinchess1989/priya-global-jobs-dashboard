@@ -1,0 +1,310 @@
+Title: Systems Analyst, Clinical Solutions, PDHIS
+Company: Provincial Health Services Authority
+Location: Vancouver, British Columbia, Canada
+URL: https://ca.linkedin.com/jobs/view/systems-analyst-clinical-solutions-pdhis-at-provincial-health-services-authority-4484456466
+Posted: 2026-10-29
+Deadline: N/A
+Reason: The role aligns with her background in requirements engineering, documentation, and system support within a regulated healthcare environment, and it is located in Canada.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Systems Analyst, Clinical Solutions, PDHIS
+Provincial Health Services Authority  Vancouver, British Columbia, Canada
+2 days ago  55 applicants
+  
+
+See who Provincial Health Services Authority has hired for this role
+
+Apply 
+Save
+PDHIS
+
+Vancouver, BC
+
+In accordance with the Mission, Vision and Values, and strategic directions of Provincial Health Services Authority patient safety is a priority and a responsibility shared by everyone at PHSA. As such, the requirement to continuously improve quality and safety is inherent in all aspects of this position.
+
+Within the context of the Provincial Digital Health and Information Services (PDHIS) lower mainland consolidated area that provides services to Vancouver Coastal Health, Providence Health Care, and Provincial Health Services Authority and other lower mainland consolidated services (VPPL), the Systems Analyst, Clinical Solutions reports to the Manager or designate in this professional level job works with independence within a multi-site health care environment. The Systems Analyst develops and maintains complex new and existing clinical application systems which impact several functional areas throughout VPPL utilizing working knowledge of SQL, clinical information systems, electronic medical record (EMR) applications and MS Office applications (Word, Excel, Visio, PowerPoint, and Project). The Systems Analyst provides technical direction advice to help translate business needs into requirement technical specifications and provides systems support including technical and application troubleshooting, coordination of upgrades and enhancements, and the creation and maintenance of application documentation, including service level agreements and backup and disaster recovery plans. The Systems Analyst carries out analysis and documentation of business requirements for clinical applications, the evaluation of software features and functions, and the implementation, testing, deployment, documentation and support of application systems. Provides application support of all aspects of system development life cycle from planning, analysis, design, implementation and maintenance of a clinical system.
+
+The Systems Analyst requires considerable knowledge of the computing environment and is expected to remain current with PDHIS procedures and policy changes.
+
+What You’ll Do
+
+
+Conduct feasibility studies for clinical applications through methods such as determining user and/or department requirements, performing feasibility/impact analysis and completing current and future state analysis, examining and identifying problems with existing systems and recommending modifications to and/or new systems.
+Develop specifications for complex clinical application systems by performing duties such as gathering detailed information from user departments and translating them into technical system requirements; analyzing requirements; developing and documenting system functionality/standard system operating procedures, designing forms, preparing flow charts, detailing hardware and software specifications, and preparing briefing notes and detailed implementation plans. Utilize formal data gathering techniques and analysis tools such as, business process flowcharts, data flow diagrams, project and steering dashboards, roles and responsibility matrix (RACI), and work effort estimates.
+Implement system changes and break fixes following PDHIS change control processes and incident management processes. Perform maintenance activities on various clinical applications according to departmental standards by methods such as executing standard system operating procedures and making system changes based on the specifications developed.
+Develops specifications/build system activities, and performs modification and enhancement tasks according to departmental standards and using tools such as Visual Studio, Powerhouse, Oracle Developer, PowerBuilder, and Crystal Reports and other query tools as well as MS office applications (Word, Excel, Visio, PowerPoint, and Project), Crystal Reports, SQL and Service Desk Tools such as Service Now. Participates in implementation and go live/activation support on site.
+Measure and document system performance metrics, measures and projects transaction volumes and response times, and liaise with vendors and users in order to assist with the with analysis of system performance and the development of capacity plans for assigned clinical applications.
+Support system upgrades and implementations by performing tasks such as preparing all domains; implementing changes to all environments following the change control process; performing all components of testing (e.g. unit, functional, regression, user acceptance testing); performing other system tasks such as data conversion and extraction routines; logging and remediating issues; evaluating error reports; documentation of final results; and go live planning and support.
+Assemble, create and maintain information systems technical and operational documentation according to departmental standards and using tools such as the Microsoft Office Suite.
+Assist with the preparation of Requests for Information/Proposal, and the development of evaluation processes and tools, and evaluation of vendor responses by performing tasks such as participating in various working groups, gathering and documenting detailed application requirements, coordinating and documenting project team and vendor communications, preparing evaluation tools, and organizing and documenting product evaluation results.
+Provide system support to users by performing tasks such as troubleshooting system software problems, testing alternative solution, reviewing impact of implemented resolutions over time, and by developing a comprehensive understanding of the clinical application needs and business processes, and recommending optimum use of application software.
+Attends meetings to provide input on operational requirements of the area, meeting with senior staff/leaders to determine priorities and needs; supporting clients in identifying technical/system deficiencies, providing options and presenting to decision makers, negotiating with client departments and other project teams, and providing user training as required. Documents service level agreements between PDHIS and the clients for clinical applications.
+Provide training related to clinical application systems to other PDHIS staff for first level and technical support by performing tasks such as developing training materials, conducting training sessions, and developing and maintaining reference materials.
+Maintain a good working relationship with the application/technical vendor. Liaise with vendors or third party services personnel to troubleshoot and remediate issues, collaborate with vendors on patches and releases and create detailed Service Requests documents. Review support calls related to clinical application systems, and suggest strategies to reduce support calls.
+Attend team meetings, participate in team discussions and projects, and actively participate in continuous quality and process improvement activities by reviewing job workflow, reporting system issues and errors, and providing input/feedback to the Manager/Team Lead such as identifying roadblocks and inefficiencies, and proposing possible solutions.
+Perform other related duties as assigned.
+
+
+Qualifications
+
+What you bring
+
+
+Graduation from a recognized diploma or degree program in Computer Science or Health Information Science, plus three (3) years’ recent related experience, or an equivalent combination of education, training, and experience.
+May be required to travel and/or participate in an on-call rotation.
+Demonstrated knowledge of the historic and ongoing impacts of settler colonialism on Indigenous Peoples in social and health contexts, including supported by significant knowledge of Indigenous-specific mandates, including clear understanding of and commitment to eradicate Indigenous-specific racism and discrimination and embed Indigenous Cultural Safety and Humility.
+Demonstrate comprehensive knowledge of the historic and ongoing impacts of settler colonialism and systemic racism on Indigenous Peoples within social and health contexts. This includes understanding how these factors contribute to current health disparities and barriers to care. Show a clear commitment to identifying, challenging, and eradicating Indigenous-specific racism and all forms of discrimination impacting equity-deserving groups within health care settings. This involves familiarity and understanding Indigenous Cultural Safety and Humility recognizing personal biases, institutional barriers, engaging in anti-racism education and training and advocating for systemic change.
+Demonstrated knowledge and understanding of legislative obligations and provincial commitments within PDHIS contexts found in the foundational documents including Truth & Reconciliation Commission’s Calls to Action (2015), In Plain Sight (2020), BC's Declaration on the Rights of Indigenous Peoples Act (2019), United Nations Declaration on the Rights of Indigenous Peoples (UNDRIP), Reclaiming Power and Place Missing and Murdered Indigenous Women & Girls Calls for Justice (2019), the Declaration Act Action Plan and Remembering Keegan: A First Nations Case Study - BC Human Rights Code, BC Anti-racism Act and how they intersect across the health care system.
+
+
+Core Competencies
+
+
+Brings an understanding of the Indigenous specific racism and the broader systemic racism that exists in the colonial health care structure, and has demonstrated initiatives in breaking down barriers and ensuring a safe environment ensuring a sense of belonging to all and informed by Indigenous Cultural Safety.
+Awareness of social, economic, political and historical realities of settler colonialism on Indigenous Peoples and familiarity with addressing Indigenous-specific anti-racism, anti-racism and Indigenous Cultural Safety and foundational documents and legislative commitments (the Declaration Act, the Declaration Action Plan, TRC, IPS, Remembering Keegan, etc.).
+
+
+Skills & Knowledge
+
+
+Ability to organize work.
+Ability to communicate effectively both verbally and in writing.
+Ability to deal with others effectively.
+Physical ability to carry out the duties of the position.
+Ability to operate related equipment.
+Demonstrates a commitment to beginning and/or continuing their personal learning journey related to Indigenous-specific racism and dismantling systems of oppression, as well as addressing racism more broadly. Shows willingness to articulate and share their learning experiences to contribute to a culture of motivation and inspiration among peers.
+Demonstrates foundational knowledge of the social, economic, and political realities of settler-colonialism and its impacts on Indigenous peoples and equity-deserving groups within social and health contexts. Understands the impact of social determinants of health-on-health outcomes. Shows a commitment to learning about and upholding legislative obligations and provincial commitments outlined in foundational documents such as the Truth & Reconciliation Commission’s Calls to Action (2015), In Plain Sight (2020), BC's Declaration on the Rights of Indigenous Peoples Act (2019), United Nations Declaration on the Rights of Indigenous Peoples (UNDRIP), Reclaiming Power and Place: Missing and Murdered Indigenous Women & Girls Calls for Justice (2019), the Declaration Act Action Plan, Remembering Keegan: A First Nations Case Study, the BC Human Rights Code, Anti-Racism Data Act, and the Distinctions Based Approach.
+
+
+What We Bring
+
+Every PHSA employee enables the best possible patient care for our patients and their families. Whether you are providing direct care, conducting research, or making it possible for others to do their work, you impact the lives of British Columbians today and in the future. That’s why we’re focused on your care too – offering health, wellness, development programs to support you – at work and at home.
+
+
+Join one of BC’s largest employers with province-wide programs, services and operations – offering vast opportunities for growth, development, and recognition programs that honour the commitment and contribution of all employees.
+Access to professional development opportunities through our in-house training programs, including +2,000 courses, such as our San’yas Indigenous Cultural Safety Training course, or Core Linx for Leadership roles.
+Enjoy a comprehensive benefits package, including municipal pension plan, and psychological health & safety programs and holistic wellness resources.
+Annual statutory holidays (13) with generous vacation entitlement and accruement.
+PHSA is a remote work friendly employer, welcoming flexible work options to support our people (eligibility may vary, depending on position).
+Access to WorkPerks, a premium discount program offering a wide range of local and national discounts on electronics, entertainment, dining, travel, wellness, apparel, and more.
+
+
+Job Type: Temporary, Full-Time (Until March 2027)
+
+Wage: $49.03 / hour
+
+Location: 1885 West Broadway, Vancouver, BC V6J 1Y5
+
+Closing Date: Applicants accepted until position is filled
+
+Hours of Work: Monday to Friday 08:00-16:00 (on-call may be required)
+
+Requisition #: 206076E
+
+What We Do
+
+The Provincial Health Services Authority (PHSA) plans, manages and evaluates specialized health services with the BC health authorities to provide equitable and cost-effective health care for people throughout the province. Our values reflect our commitment to excellence and include: Respect people – Be compassionate – Dare to innovate – Create equity – Be courageous.
+
+Learn more about PHSA and our programs: jobs.phsa.ca/programs-and-services
+
+PHSA is committed to anti-racism and equity in our hiring and employment practices. With learning and compassion, we are addressing existing inequities and barriers throughout our systems. PHSA is seeking to create a diverse workforce and to establish an inclusive and culturally safe environment. We invite applications and enquiries from all people, particularly those belonging to the historically, systemically, and/or persistently excluded groups identified under the B.C. Human Rights Code.
+
+One of PHSA’s North Star priorities is to eradicate Indigenous-specific racism, which includes ongoing commitments to Indigenous recruitment and employee experience as well as dismantling barriers to health care employment at every level. We welcome Indigenous individuals to apply and/or contact the Sanya’k̓ula Team (Indigenous Recruitment & Employee Experience) for support at indigenous.employment@phsa.ca.
+
+Indigenous-specific anti-racism initiatives are rooted in addressing the unique forms of discrimination, historical and ongoing injustices, and exclusion faced by Indigenous peoples. These initiatives align with an Indigenous rights-based approach, recognizing the inherent rights and title of BC First Nations and self-determination of all First Nations, Inuit and Métis communities. PHSA is mandated to uphold legislative obligations and provincial commitments found in the foundational documents including the Truth & Reconciliation Commission’s Calls to Action (2015), In Plain Sight (2020), BC's Declaration on the Rights of Indigenous Peoples Act (2019), United Nations Declaration on the Rights of Indigenous Peoples (UNDRIP), Reclaiming Power and Place Missing and Murdered Indigenous Women & Girls Calls for Justice (2019), the Declaration Act Action Plan and Remembering Keegan: A First Nations Case Study.
+
+Attention Current Employees Of PHSA
+
+You must apply via your internal profile at http://internaljobs.phsa.ca.
+
+The internal job posting expires on November 4, 2026 and will no longer be accessible. If the internal job posting has expired, please e-mail internaljobshelpu@phsa.ca with the six-digit job requisition number and your PHSA employee ID number to be considered as a late internal applicant. Please do not apply for the external job posting.
+
+If you have not yet set up an internal profile, please e-mail internaljobshelpu@phsa.ca with your PHSA employee ID number to obtain your temporary password. Our business hours are Monday-Friday 8:30am-4:30pm, excluding Statutory Holidays and a Help Desk Representative will respond to you with 1-2 business days.
+
+If you are not a current employee of PHSA and require assistance with your application, please contact the External Careers team at careers@phsa.ca.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Hospitals and Health Care
+  
+
+Referrals increase your chances of interviewing at Provincial Health Services Authority by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Clinical Application Analyst jobs
+Systems Analyst, Clinical Solutions, PDHIS
+Similar jobs
+Analyst, Business Systems - Cardiology (Health Informatics - Acute Care and Clinical Support)
+Analyst, Business Systems - Cardiology (Health Informatics - Acute Care and Clinical Support)
+Fraser Health Authority
+Surrey, British Columbia, Canada
+2 weeks ago
+Business Analyst (EMR / Health IT)
+Business Analyst (EMR / Health IT)
+Aarista Technologies
+Burnaby, British Columbia, Canada
+2 days ago
+Senior Business Analyst, PPHIS
+Senior Business Analyst, PPHIS
+Provincial Health Services Authority
+Vancouver, British Columbia, Canada
+3 weeks ago
+Functional Analyst
+Functional Analyst
+Vancouver Coastal Health
+Vancouver, British Columbia, Canada
+1 month ago
+Business Application Specialist
+Business Application Specialist
+Doctors of BC
+Greater Vancouver Metropolitan Area
+2 weeks ago
+Business Systems Analyst
+Business Systems Analyst
+Pacific Blue Cross
+Burnaby, British Columbia, Canada
+1 month ago
+Show more jobs like this 
+People also viewed
+Human Resources Systems Specialist
+Human Resources Systems Specialist
+
+STEMCELL Technologies
+
+Burnaby, British Columbia, Canada
+1 month ago
+Senior Technical Analyst
+Senior Technical Analyst
+
+Vancouver Airport Authority
+
+Vancouver, British Columbia, Canada
+3 months ago
+System Analyst
+System Analyst
+
+TEEMA
+
+Surrey, British Columbia, Canada
+CA$30 - CA$40
+3 weeks ago
+Project Systems Analyst
+Project Systems Analyst
+
+FPS Food Process Solutions Corporation
+
+Richmond, British Columbia, Canada
+1 month ago
+ERP System Administrator (Acumatica)
+ERP System Administrator (Acumatica)
+
+Alimentiv
+
+Vancouver, British Columbia, Canada
+CA$78,000 - CA$130,000
+5 days ago
+Senior Analyst Records Management
+Senior Analyst Records Management
+
+BC College of Nurses and Midwives
+
+Vancouver, British Columbia, Canada
+2 months ago
+Salesforce Administrator
+Salesforce Administrator
+
+Doctors of BC
+
+Greater Vancouver, British Columbia, Canada
+2 weeks ago
+Product Manager – Clinical Audiology
+Product Manager – Clinical Audiology
+
+Sycle
+
+Vancouver, British Columbia, Canada
+2 months ago
+Healthcare IT Project Manager
+Healthcare IT Project Manager
+
+Sectra
+
+Vancouver, British Columbia, Canada
+14 hours ago
+Business Systems Analyst – Sustainability Technology
+Business Systems Analyst – Sustainability Technology
+
+Arc'teryx Equipment
+
+North Vancouver, British Columbia, Canada
+1 week ago
+Similar Searches
+Clinical Application Analyst jobs
+130 open jobs
+Clinical Informatics Specialist jobs
+555 open jobs
+Data Integration Specialist jobs
+16,748 open jobs
+Informatics Specialist jobs
+14,052 open jobs
+Data System Analyst jobs
+206 open jobs
+Regulatory Affairs Pharmacist jobs
+42 open jobs
+Computer Analyst jobs
+14,764 open jobs
+Clinical Data Analyst jobs
+103 open jobs
+System Project Manager jobs
+1,898 open jobs
+Senior Software Tester jobs
+1,659 open jobs
+Interface Engineer jobs
+14,394 open jobs
+Senior System Administrator jobs
+1,423 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Provincial Health Services Authority
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
