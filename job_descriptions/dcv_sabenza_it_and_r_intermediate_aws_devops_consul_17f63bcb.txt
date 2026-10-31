@@ -1,0 +1,296 @@
+Title: Intermediate AWS DevOps Consultant at Sabenza IT & Recruitment
+Company: DCV Sabenza IT and Recruitment
+Location: Johannesburg, South Africa
+URL: https://www.careerjunction.co.za/intermediate-aws-devops-consultant-at-sabenza-it-%26-recruitment-job-2646587.aspx
+Posted: 2026-10-26
+Deadline: 2026-11-20
+Reason: The role is located in South Africa, which is a target country, and aligns with the candidate's DevOps and CI/CD expertise.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Your privacy
+
+This site uses cookies and similar technologies to collect and process personal data that recollects your activities and preferences. Some of the personal data, stored on your device, is processed by trusted service providers. We do this to personalise our site, services and the adverts you are shown on and off our website. Click 'I accept' to consent to the use of these technologies or 'Settings' if you wish to manage your settings. You can always change the setting by going to the Cookie Policy page. Necessary cookies enable core functionality such as security, network management, and accessibility. You may disable these by changing your browser settings, but this may affect how the website functions.
+
+SETTINGS
+I ACCEPT
+SIGN IN / SIGN UP
+×
+ 
+Location
+Location
+Work From Home
+Gauteng
+    Johannesburg South
+    Johannesburg Region
+    Pretoria Region
+    East Rand
+    West Rand
+    Vaal
+Western Cape
+    Cape Town Region
+    Winelands
+    West Coast
+    Garden Route
+    Overberg
+    Karoo
+KwaZulu-Natal
+    Durban Region
+    North Coast
+    Midlands & Interior
+    South Coast
+Eastern Cape
+Free State
+Mpumalanga
+Limpopo
+North West
+Northern Cape
+International
+ 
+In All Categories
+In All Categories
+Admin, Office & Support
+Agriculture, Fishing & Forestry
+Architecture & Engineering
+Building & Construction
+Business & Management
+Cleaning, Maintenance & Repair
+Community & Social Welfare
+Design, Media & Arts
+Education, Training & Library
+Finance
+Information Technology
+Legal
+Manufacturing & Assembly
+Marketing
+Medical & Health
+Mining
+Personal Appearance
+Restaurant & Hospitality
+Sales
+Science & Technology
+Security & Emergency Services
+Sport & Fitness
+Telecommunication
+Transportation
+Travel & Tourism
+Warehousing & Logistics
+Other
+SEARCH
+ 
+
+SHARE THIS JOB
+
+INTERMEDIATE AWS DEVOPS CONSULTANT AT SABENZA IT & RECRUITMENT
+DCV SABENZA IT AND RECRUITMENT
+R Undisclosed
+Contract Specialist position
+Johannesburg
+Posted 26 Oct 2026 by DCV Sabenza IT and Recruitment
+Expires in 25 days
+Job 2646587 - Ref 878000025850801
+ SAVE APPLY NOW
+ABOUT THE POSITION
+
+The Role
+Help lead the design, automation, security, reliability, and operational excellence of a production AWS platform. You’ll work closely with software engineering teams to enable secure, reliable software delivery while maintaining highly available cloud environments.
+
+
+Focus: Cloud Infrastructure Engineering (40%) · DevOps & CI/CD (30%) · Automation & Software Engineering (30%)
+
+
+What You’ll Do
+
+
+Design, implement, and optimise AWS cloud infrastructure with strong resilience and disaster recovery.
+
+Own and improve CI/CD pipelines and deployment automation.
+
+Implement Infrastructure as Code using AWS CDK and CloudFormation.
+
+Apply least-privilege and Zero Trust principles; manage encryption, KMS, Secrets Manager, and remediate security findings.
+
+Support production environments, participate in on-call, drive root-cause analysis, and improve platform reliability.
+
+Mentor engineers, review infrastructure and application code, and lead modernisation initiatives.
+
+What You Bring
+Preferred: 5+ years in Cloud Engineering, DevOps, Platform Engineering, or Infrastructure Engineering, with strong production AWS experience at scale (enterprise, startup, or scale-up).
+
+
+Alternative path considered: 6+ years with significant production ownership, deep AWS operational experience, strong automation capability, and rapid technical progression (startup/scale-up experience a plus).
+
+
+Core AWS skills: ECS, Lambda, VPC, Route53, CloudFront, IAM, KMS, Secrets Manager, RDS, DynamoDB, S3, CloudFormation, AWS CDK, Organizations, cross-account architectures, and cloud security governance.
+
+
+Also required:
+
+
+
+Infrastructure as Code and automation
+
+Security fundamentals (encryption, IAM, least privilege, Zero Trust, Security by Design)
+
+Databases: PostgreSQL and DynamoDB
+
+Comfortable reading, understanding, and modifying application code; developing automation tooling and scripts
+
+Nice to have: EKS, Kubernetes, Helm, ArgoCD, CloudWatch, EventBridge, Transit Gateway, Direct Connect, SonarQube, Snyk, Blue/Green deployments, and experience with AI-assisted engineering tools (GitHub Copilot, Cursor, Claude).
+
+
+What Makes You Stand Out
+
+Startup or scale-up experience
+
+Ownership of production AWS platforms
+
+Experience building cloud platforms from the ground up
+
+Cloud transformation or modernisation track record
+
+Strong automation background
+
+Relevant tertiary qualification is advantageous but not essential. Equivalent practical experience will be considered.
+
+
+
+
+
+
+Desired Skills:
+
+AWS
+S3
+CDK
+CloudFront
+RDS
+
+Desired Qualification Level:
+
+Degree
+
+About The Employer:
+
+
+
+
+APPLY NOW
+DCV SABENZA IT AND RECRUITMENT
+
+VIEW AGENCY PROFILE
+
+SEE ALL DCV SABENZA IT AND RECRUITMENT JOBS
+
+ABOUT THE AGENCY
+
+Dedicated to the recruitment of IT professionals Sabenza iT is a South African registered business focusing on Finance, Engineering, SAP and general iT recruitment. We have over 18 years' experience in recruiting in South Africa, Australia, Europe, South America and Asia and have worked with a number of large companies offering the best service. We at Sabenza iT understands the changing market and we mold our services around each of our client'...
+
+read more
+
+Receive a daily digest of all new jobs matching this job. Your information is safe with us and you can cancel any time.
+
+EMAIL ME JOBS LIKE THIS
+ 
+
+SHARE THIS JOB
+
+RECOMMENDED JOBS FOR YOU
+Senior Data Engineer At Sabenza IT & Recruitment
+
+DCV Sabenza IT and Recruitment
+
+Contract Intermediate EE position
+
+Clubview
+
+Expires in 27 days
+
+Product Specialist At Sabenza IT & Recruitment
+
+DCV Sabenza IT and Recruitment
+
+Permanent Senior position
+
+Clubview
+
+Expires in 21 days
+
+Senior Data Engineer At Sabenza IT & Recruitment
+
+DCV Sabenza IT and Recruitment
+
+Permanent Senior position
+
+Pretoria
+
+Expires in 1 day
+
+Business Intelligence And Automation Specialist At Sabenza IT & Recruitment
+
+DCV Sabenza IT and Recruitment
+
+Permanent Specialist position
+
+Pretoria
+
+Expires in 7 days
+
+Senior Full Stack Developer At Sabenza IT & Recruitment
+
+DCV Sabenza IT and Recruitment
+
+Contract Senior position
+
+Pretoria
+
+Expires in 25 days
+
+Senior .NET Application Developer At Sabenza IT & Recruitment
+
+DCV Sabenza IT and Recruitment
+
+Permanent Senior position
+
+Johannesburg
+
+Expires in 27 days
+
+Email me jobs similar to: INTERMEDIATE AWS DEVOPS CONSULTANT AT SABENZA IT & RECRUITMENT
+JOB SEEKERS
+SITE
+Home / Search Jobs
+My Jobs
+My Alerts
+My Profile & CV
+ASSISTANCE
+FAQ & Support
+ACCOUNT
+Sign In | Sign Up
+AGENCIES & EMPLOYERS
+SITE
+Home / Find Talent
+Recruit Assist
+ASSISTANCE
+FAQ & Support
+ACCOUNT
+Sign Up | Sign In
+Sales Enquiry
+CAREERJUNCTION
+INFO
+About Us / Contact Us
+Work for Us
+Sister Sites
+Our Partners
+CareerJunction Blog
+How It Works
+
+© 2026 Copyright: www.careerjunction.co.za
+
+ 
+
+PAIA,Privacy, Cookies & Terms
+
+    
