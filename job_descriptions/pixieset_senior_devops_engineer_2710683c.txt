@@ -1,0 +1,313 @@
+Title: Senior DevOps Engineer
+Company: Pixieset
+Location: Vancouver, British Columbia, Canada
+URL: https://ca.linkedin.com/jobs/view/senior-devops-engineer-at-pixieset-4485668140
+Posted: 2026-11-01
+Deadline: Open until filled
+Reason: The role is a strong match for her DevOps and CI/CD expertise, is located in Canada (a target country), and does not contain any hard rejections.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer
+Pixieset  Vancouver, British Columbia, Canada
+21 hours ago  30 applicants
+  
+
+See who Pixieset has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Opportunity Snapshot
+
+We’re hiring a Senior DevOps Engineer to strengthen the shared platforms, infrastructure, and delivery workflows that our engineering teams rely on.
+
+
+
+
+In this hands-on role, you’ll take technical ownership of improving our GitLab CI/CD pipelines, Kubernetes infrastructure, development environments, and release processes. You’ll focus on making these systems more reliable and efficient, reducing recurring issues, and creating a smoother developer experience across our engineering organization.
+
+
+
+
+You’ll work closely with DevOps engineers and product engineering teams to build shared capabilities that help teams operate more independently and deliver with confidence. You'll also help evolve our environments, automation, and deployment safeguards to support the growing use of AI agents in software development.
+
+
+
+
+If you enjoy solving complex infrastructure challenges, improving developer productivity, and building systems that make engineering teams more effective, we’d love for you to join our team.
+
+
+
+
+Your Impact
+
+Own improvements to shared GitLab CI/CD pipelines and release workflows, making builds, tests, deployments, and recovery more reliable.
+Build, maintain, and evolve our Kubernetes infrastructure and shared development and QA environments.
+Strengthen observability and operational readiness for shared infrastructure. Participate in incident response, lead triage and coordination when needed, follow through on preventive improvements, and participate in the team's on-call rotation.
+Lead significant platform improvements with a high degree of ownership, from understanding the problem and evaluating options through implementation, rollout, adoption, and ongoing operation. Communicate technical tradeoffs, progress, risks, and results.
+Investigate recurring pipeline, environment, and deployment problems, and deliver changes that reduce repeated failures and manual support.
+Partner with test automation specialists and application teams to strengthen test infrastructure, automated verification, deployment validation, monitoring, and rollback so teams can release more frequently with less manual intervention.
+Develop maintainable infrastructure code and automation that help engineering teams provision resources and use shared workflows independently.
+Use AI agents in engineering work, verify their outputs, and turn lessons into improvements to shared instructions, tests, and safeguards.
+Mentor engineers through pairing and reviews, and create practical documentation that helps others operate, troubleshoot, and extend the systems you build.
+
+
+
+
+Role Requirements
+
+Typically 5+ years of relevant experience in DevOps, platform engineering, SRE, cloud or systems engineering, or software engineering with substantial infrastructure or delivery ownership. The depth and breadth of your experience matter more than years alone.
+Experience building, maintaining, and improving CI/CD pipelines and deployment workflows using GitLab CI/CD or comparable tools, including working with developers and test engineers to strengthen automated verification, safe rollout and rollback practices.
+Hands-on experience with Docker and Kubernetes, including deploying, maintaining, and troubleshooting containerized workloads and shared environments.
+Strong hands-on experience designing and operating AWS infrastructure, including services such as EC2, RDS, S3, CloudFront, and VPC, with sound judgment about reliability, security, and scalability.
+Experience configuring and maintaining Linux systems, with a strong understanding of scalable web application architecture, networking, security fundamentals, DNS, and load balancing.
+Experience developing and maintaining infrastructure as code using tools such as AWS CDK, CloudFormation, or Terraform.
+Proficiency in a programming or scripting language, such as Python or shell, with experience writing, testing, and maintaining automation or developer tooling.
+Strong understanding of monitoring, logging, and tracing, with experience using observability tools such as Grafana or CloudWatch to troubleshoot across applications and infrastructure, detect failures, and verify improvements.
+Demonstrated ownership of significant technical improvements from problem definition through rollout and ongoing operation, including communicating tradeoffs, supporting adoption, and mentoring others.
+Practical experience using AI coding tools or agents, evaluating their outputs, and improving workflows based on results, along with a willingness to experiment, learn, and share effective practices.
+AWS certification is a bonus.
+
+
+
+
+What We Offer
+
+Hybrid work environment (2 in-office days per week)
+4 weeks of annual vacation & paid time off for office holiday closures
+RRSP matching
+$2,000 annual health & lifestyle spending account
+$1,000 annual education budget
+$1,000 annual charitable donation matching
+Comprehensive benefits: extended health, critical illness, long-term disability & life insurance
+Company-issued MacBook & home office budget
+Anniversary rewards & complimentary Pixieset premium account
+Team-building activities & company-wide events
+A workplace recognized for excellence — proudly certified as a Great Place to Work™, ranked among Canada’s Best Workplaces,™ and named one of Canada’s Top Small & Medium Employers
+
+
+
+
+The typical salary range for this position is CAD $117,800 - $160,650 annually. Salary offered will be based on skills, experience and market data.
+
+
+
+
+Working at Pixieset
+
+Pixieset is the #1 go-to platform for photographers to deliver photos, sell prints, book clients, get paid, and more, all in one place. We help millions of photographers and creatives around the world do more of what they love.
+
+
+
+
+At Pixieset, you’ll find a culture built on collaboration, curiosity, and craftsmanship. We care deeply about clean design, thoughtful code, and meaningful work that creates real impact for our users. We value continuous learning, connection, and the power of technology to simplify complex challenges. Our team is diverse in background and perspective but united by a shared mission: building products that empower creatives to grow with purpose.
+
+
+
+
+Pixieset is growing quickly but thoughtfully, combining the stability to think long-term with the agility to move fast. Whether you’re building new features, improving infrastructure, or shaping the customer experience, your work has both impact and purpose. Every feature we create helps creatives spend less time managing and more time creating.
+
+
+
+
+For more information on Pixieset, please visit our careers page and follow us on Facebook, LinkedIn, X and Instagram!
+
+
+
+
+Internal Title: Senior Engineer, DevOps/Cloud
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Pixieset by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Vancouver, British Columbia, Canada.
+
+Sign in to create job alert
+Jobs
+Vice President Real Estate Development jobs
+Senior DevOps Engineer
+Similar jobs
+Senior DevOps Developer
+Senior DevOps Developer
+Autodesk
+Greater Vancouver Metropolitan Area
+2 weeks ago
+AI DevOps & Reliability Engineer
+AI DevOps & Reliability Engineer
+Branch
+Vancouver, British Columbia, Canada
+2 weeks ago
+Senior DevOps/MLOps
+Senior DevOps/MLOps
+Global Relay
+Vancouver, British Columbia, Canada
+1 week ago
+DevOps Engineer - EA SPORTS™ TECHNOLOGY
+DevOps Engineer - EA SPORTS™ TECHNOLOGY
+EA SPORTS
+Vancouver, British Columbia, Canada
+2 weeks ago
+DevOps Staff Platform Engineer
+DevOps Staff Platform Engineer
+Orion Digital
+Vancouver, British Columbia, Canada
+1 month ago
+Site Reliability Engineer
+Site Reliability Engineer
+Punt
+Vancouver, British Columbia, Canada
+CA$120,000 - CA$170,000
+1 week ago
+Show more jobs like this 
+People also viewed
+Senior Software Engineer, DevOps & Security
+Senior Software Engineer, DevOps & Security
+
+Toast
+
+Vancouver, British Columbia, Canada
+$140,000 - $230,000
+1 month ago
+Data Platform DevOps Engineer - Senior Consultant
+Data Platform DevOps Engineer - Senior Consultant
+
+Deloitte
+
+Vancouver, British Columbia, Canada
+1 day ago
+Platform Engineer
+Platform Engineer
+
+Centiro
+
+Vancouver, British Columbia, Canada
+3 weeks ago
+Platform Engineering – Data Infrastructure III
+Platform Engineering – Data Infrastructure III
+
+Peoples Group
+
+Vancouver, British Columbia, Canada
+5 days ago
+Sr Linux DevOps Engineer
+Sr Linux DevOps Engineer
+
+Enexus Global Inc.
+
+Vancouver, British Columbia, Canada
+2 weeks ago
+Staff Software Engineer, Infrastructure (Cloud)
+Staff Software Engineer, Infrastructure (Cloud)
+
+AeroVect
+
+Vancouver, British Columbia, Canada
+2 months ago
+Senior Site Reliability Engineer (SRE) – CloudVision as a Service (CVaaS)
+Senior Site Reliability Engineer (SRE) – CloudVision as a Service (CVaaS)
+
+Arista Networks
+
+Vancouver, British Columbia, Canada
+4 days ago
+Senior Cloud Engineer
+Senior Cloud Engineer
+
+Ledcor
+
+Vancouver, British Columbia, Canada
+2 months ago
+Sr. Automation Engineer
+Sr. Automation Engineer
+
+Omnissa
+
+Vancouver, British Columbia, Canada
+12 hours ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+PayByPhone
+
+Vancouver, British Columbia, Canada
+5 days ago
+Similar Searches
+Vice President Real Estate Development jobs
+61 open jobs
+Visual Effects Producer jobs
+112 open jobs
+Vice President of Development jobs
+617 open jobs
+Director of Client Services jobs
+511 open jobs
+Portfolio Administrator jobs
+4,028 open jobs
+Cost Accountant jobs
+2,804 open jobs
+Engineering Program Manager jobs
+1,034 open jobs
+Software Engineering Manager jobs
+3,105 open jobs
+Design Manager jobs
+10,798 open jobs
+Senior Engineering Manager jobs
+1,016 open jobs
+Policy Analyst jobs
+357 open jobs
+Javascript Developer jobs
+2,746 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Pixieset
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

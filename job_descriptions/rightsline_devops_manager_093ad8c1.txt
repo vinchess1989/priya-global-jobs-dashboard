@@ -1,0 +1,377 @@
+Title: DevOps Manager
+Company: Rightsline
+Location: Toronto, Ontario, Canada
+URL: https://ca.linkedin.com/jobs/view/devops-manager-at-rightsline-4484109347
+Posted: 2026-10-29
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in DevOps, release management, and audit-ready infrastructure, and it is located in Canada, which is a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Manager
+Rightsline  Toronto, Ontario, Canada
+3 days ago  32 applicants
+  
+
+See who Rightsline has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Rightsline provided pay range
+
+This range is provided by Rightsline. Your actual pay will be based on your skills and experience — talk with your recruiter to learn more.
+
+Base pay range
+CA$100,000.00/yr - CA$125,000.00/yr
+
+Rightsline is hiring a DevOps Manager, based in Toronto, to lead the team that owns our cloud platform, delivery pipelines, and production reliability across North America and Europe. You will manage and develop a team of five — a Senior DevOps Engineer, a DevOps Engineer, and two Senior Systems Engineers — and hold end-to-end accountability for the infrastructure our product runs on. You will report to the Senior DevOps Architect and partner closely with Engineering, QA, Security and Compliance, and Support.
+
+
+
+
+Mission & Impact
+
+
+
+
+Rightsline runs a multi-region AWS platform: production in two regions serving customers in the US and the EU, twelve environments spanning developer sandbox through pre-production mirror to production, infrastructure defined in Terraform, and a templated CI/CD fleet that builds and deploys every component into each of them. The team owns our AWS accounts end to end, along with a mixed Linux and Windows server estate. The team that runs this platform is deeply capable technically. Your mission is to pair that capability with the operational discipline of a mature platform organization: a named owner for every system and environment, infrastructure changes that land predictably and completely across all the places they belong, documentation current enough to be trusted during an incident, and a team that holds itself accountable for follow-through.
+
+
+
+
+You will be accountable for the platform as a product that the rest of the company depends on — its reliability, its cost, its security posture, and how quickly engineers can get work safely into production. Success is measured by production availability and incident recovery in both regions; by environment changes that complete the first time, with a record of what changed and why; by runbooks, diagrams, and environment inventories that are current; by disaster recovery and audit evidence produced as routine output rather than as a scramble; and by a team where ownership is unambiguous, people are growing, and commitments are met.
+
+
+
+
+What You Will Own:
+
+
+
+
+Team Leadership & Accountability
+
+Manage, coach, and develop a team of four infrastructure engineers, including senior individual contributors — people with deep expertise you will lead through judgment and clarity rather than positional authority.
+Establish unambiguous ownership: every system, environment, pipeline, and recurring operational duty has a named owner and a documented backup.
+Run the performance cycle — goals, regular one-on-ones, written feedback, and development plans calibrated against our engineering level framework — and address both strong performance and gaps directly and fairly.
+Hold the team to its commitments, and build the visibility that makes commitments legible: a single prioritized queue of work, current ticket hygiene, and clear closure on action items.
+Recruit, onboard, and retain, building enough bench depth that no system depends on one person being available.
+
+
+
+
+Operational Rigor & Change Management
+
+Own the change management process for infrastructure and environments end to end: proposal, peer review, scheduled execution, verification, and a durable record of what changed and why.
+Define and hold the line on what “done” means for environment work — the change applied consistently across every environment and region it belongs in, code and state in agreement, monitoring updated, documentation updated, and the ticket closed.
+Drive infrastructure work through version control and code review rather than console changes, and systematically close configuration drift between environments and regions.
+Make documentation a deliverable: architecture diagrams, runbooks, escalation paths, and environment inventories that an on-call engineer can rely on at three in the morning.
+Own incident practice — on-call rotation, severity definitions, blameless postmortems, and remediation items that are tracked to closure.
+
+
+
+
+Cloud Platform & Delivery
+
+Own our AWS accounts outright — account structure and organization, IAM and access boundaries, service quotas, networking, billing and tagging, and the guardrails that keep each account consistent with the next.
+Own everything running in those accounts across both regions — containerized services, load balancing, relational databases, search, messaging, and serverless components — including capacity, performance, patching, and security posture.
+Own the server estate on both Linux and Windows: build standards, configuration management, patching cadence, hardening, and lifecycle, so neither platform becomes the one nobody wants to touch.
+Own infrastructure as code in Terraform: module design, environment composition, state management, and the review standards that keep it maintainable as the fleet grows.
+Own the CI/CD estate — a templated pipeline-per-component-per-environment fleet across twelve environments and two regions — along with the release promotion model and production approval gates.
+Own observability and log management so that alerts are actionable, noise is low, and the data needed to investigate an issue is still there when the question gets asked.
+Partner with Engineering to reduce deployment risk and shorten lead time to production, and with QA on environment availability, parity, and refresh.
+
+
+
+
+Reliability, Disaster Recovery & Compliance
+
+Own availability and performance objectives for production in both regions, and the monitoring that demonstrates they are being met.
+Run our recurring disaster recovery test cycle end to end — including evidence against our 15-minute RPO and 4-hour partial / 24-hour full RTO objectives — and drive every finding to closure before the next cycle.
+Produce infrastructure evidence for SOC 2 and PCI DSS as a by-product of how the team already works: access reviews, change records, backup and restore verification, and vulnerability management.
+Partner with Security on hardening, secrets management, remediation timelines, and audit readiness, and keep our EU data residency commitments intact.
+
+
+
+
+Stakeholder & Cost Management
+
+Act as the escalation point for infrastructure issues affecting customers, communicating status credibly to engineering leadership and, when needed, to customers.
+Own cloud spend and infrastructure tooling costs, with a clear view of cost per environment and a plan for where it should go.
+Coordinate effectively with engineering colleagues in the United States and India, including planning work and releases across time zones.
+
+
+
+
+What You Will Bring:
+
+
+
+
+7+ years in DevOps, SRE, or infrastructure engineering, including 2+ years directly managing a DevOps or infrastructure team, with hiring, performance, and development responsibility. Management experience specifically in this space is required — leading infrastructure engineers is a different job from leading application developers.
+Experience leading senior engineers and architects — specialists who know their domains better than you do — and a track record of earning their trust.
+A demonstrated record of introducing process rigor to a technically strong team without slowing it down: change management, documentation standards, and on-call and incident practice that the team genuinely adopted and sustained.
+Comfort holding people accountable — setting expectations explicitly, following up consistently, and having the direct conversation early rather than late.
+Deep hands-on AWS experience, including account-level ownership: organizations and account structure, IAM, networking and load balancing, container orchestration, relational databases, and multi-region architecture.
+Working fluency across both Linux and Windows Server — you can hold a credible technical conversation about either, and you understand what it takes to keep a mixed estate patched, hardened, and consistent.
+Terraform at scale — modules, environment composition, state management, and the review standards that keep infrastructure code healthy.
+Ownership of production CI/CD (AWS CodePipeline and CodeBuild, Spinnaker, GitHub Actions, or comparable), including release promotion and approval gates.
+Experience operating under an audit framework such as SOC 2, PCI DSS, or ISO 27001, and owning disaster recovery testing rather than just participating in it.
+Strong written communication — you document decisions, and your updates are clear to people who were not in the room.
+Bachelor's degree in Computer Science or a related field, or equivalent practical experience.
+
+
+
+
+Preferred Qualifications:
+
+
+
+
+Multi-tenant SaaS at scale, particularly with EU data residency requirements.
+Depth in observability tooling such as New Relic, Sumo Logic, Datadog, or Grafana, including cost-aware log retention design.
+Search infrastructure (Solr or Elasticsearch) and .NET application hosting.
+Windows-side depth — Active Directory, IIS, Group Policy — alongside Linux administration.
+FinOps or cloud cost optimization experience with measurable results.
+Kubernetes, and infrastructure-code quality tooling such as Terratest, Checkov, or policy-as-code.
+AWS certification (Solutions Architect Professional or DevOps Engineer Professional).
+Experience integrating AI-assisted development tooling into delivery pipelines and the guardrails that requires.
+
+
+
+
+Working Arrangements:
+
+
+
+
+Based in Toronto, Canada, in a hybrid arrangement — our Toronto office is available to you, with the flexibility to work from home.
+Must be legally authorized to work in Canada.
+Regular overlap with engineering colleagues in the United States and India.
+Participation in escalation coverage, and occasional planned off-hours work for releases, migrations, and disaster recovery testing.
+
+
+
+
+
+
+
+Our Core Values
+
+At Rightsline, we look for these qualities in every hire, and we hold ourselves to them every day.
+
+Be Curious and Smart
+
+Being smart isn't about having all the answers — it's about asking the right questions, seeking out new ideas, and never assuming you already know enough.
+
+Embrace Change
+
+This industry moves fast and so do we. We don't resist change — we lean into it. That means staying flexible, letting go of what isn't working, and treating uncertainty as opportunity rather than obstacle.
+
+Show Up
+
+Showing up means being present — not just physically, but mentally and emotionally. Your teammates count on you. Your customers count on you. We do our best work when everyone is fully engaged and accountable to each other.
+
+Get it Done
+
+Ideas are easy. Execution is the job. We hold ourselves to what we commit to, push through the hard parts, and measure success by our actual accomplishments.
+
+Be Humble
+
+Nobody here has a monopoly on good ideas. We listen more than we talk, share credit freely, and check our egos at the door. The best outcome matters more than whose idea it was.
+
+
+
+
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Rightsline by 2x
+
+See who you know
+
+Get notified about new DevOps Manager jobs in Toronto, Ontario, Canada.
+
+Sign in to create job alert
+Jobs
+Vice President of Product Development jobs
+DevOps Manager
+Similar jobs
+Team Lead, DevOps
+Team Lead, DevOps
+AGFA HealthCare
+Waterloo, Ontario, Canada
+3 weeks ago
+Manager, Cloud Services and Site Reliability
+Manager, Cloud Services and Site Reliability
+Barracuda
+Ottawa, Ontario, Canada
+2 months ago
+Engineering Manager - Infrastructure
+Engineering Manager - Infrastructure
+BitGo
+Toronto, Ontario, Canada
+10 hours ago
+Technical Lead - Infrastructure
+Technical Lead - Infrastructure
+BitGo
+Toronto, Ontario, Canada
+10 hours ago
+Lead, Release and Change Management
+Lead, Release and Change Management
+McKesson
+Mississauga, Ontario, Canada
+2 weeks ago
+DevOps Technical Team Lead, VP
+DevOps Technical Team Lead, VP
+State Street
+Toronto, Ontario, Canada
+1 week ago
+Show more jobs like this 
+People also viewed
+DevOps Engineer
+DevOps Engineer
+
+OCS Ontario Cannabis Store
+
+Toronto, Ontario, Canada
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+Kongsberg Geospatial
+
+Ottawa, Ontario, Canada
+4 days ago
+Founding DevOps/SRE Engineer
+Founding DevOps/SRE Engineer
+
+Requesty
+
+London, Ontario, Canada
+3 months ago
+Senior Software Developer – DevOps
+Senior Software Developer – DevOps
+
+General Motors
+
+Oshawa, Ontario, Canada
+1 week ago
+Senior DevOps
+Senior DevOps
+
+Quartermaster Inc.
+
+Toronto, Ontario, Canada
+6 months ago
+DevSecOps, Lead
+DevSecOps, Lead
+
+Interac Corp.
+
+Toronto, Ontario, Canada
+1 week ago
+Staff Engineer, Site Reliability Engineering
+Staff Engineer, Site Reliability Engineering
+
+General Motors
+
+Markham, Ontario, Canada
+1 week ago
+Engineering Manager, Infrastructure - Infrastructure Platform
+Engineering Manager, Infrastructure - Infrastructure Platform
+
+GetYourGuide
+
+Zurich, Ontario, Canada
+4 days ago
+DevOps Consultant
+DevOps Consultant
+
+Altis
+
+Toronto, Ontario, Canada
+CA$110,000 - CA$135,000
+4 days ago
+Staff DevOps
+Staff DevOps
+
+KEV Group
+
+Toronto, Ontario, Canada
+3 days ago
+Similar Searches
+Vice President of Product Development jobs
+91 open jobs
+Vice President of Product Management jobs
+204 open jobs
+Finance Operations Manager jobs
+705 open jobs
+Chief Technologist jobs
+195 open jobs
+Legal Executive jobs
+1,253 open jobs
+Script Coordinator jobs
+220 open jobs
+Chief Product Officer jobs
+152 open jobs
+Director of Finance And Operations jobs
+322 open jobs
+Group Product Manager jobs
+1,080 open jobs
+Senior Director of Product Management jobs
+352 open jobs
+Leadership Coach jobs
+1,989 open jobs
+Athlete jobs
+304 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Rightsline
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

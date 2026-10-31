@@ -1,0 +1,267 @@
+Title: Senior Cloud Engineer
+Company: Singtel
+Location: Singapore, Singapore
+URL: https://sg.linkedin.com/jobs/view/senior-cloud-engineer-at-singtel-4484827168
+Posted: 2026-10-31
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in DevOps, CI/CD pipeline management, and container orchestration, and it is located in a target country (Singapore).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Cloud Engineer
+Singtel  Singapore, Singapore
+1 day ago  42 applicants
+  
+
+See who Singtel has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Singtel is where Technology meets Purpose.
+
+
+
+
+We're building an AI-first telco for the future—connecting people, businesses and communities through trusted networks, intelligent digital services and next-generation technology.
+
+
+
+
+From transforming everyday experiences in mobile, broadband, entertainment and lifestyle services to enabling enterprises with AI, 5G+, cloud, cybersecurity, data centres and digital platforms, we create the technology that powers how millions live, work and connect.
+
+
+
+
+At Singtel, your work creates real impact. You'll solve meaningful challenges, shape critical digital infrastructure and help build secure, resilient and AI-enabled solutions that serve businesses, digital ecosystems and communities across the globe.
+
+
+
+
+This is where BIG Possibilities become reality. Whether you're engineering intelligent networks, advancing sovereign AI cloud platforms, strengthening cybersecurity, designing seamless customer experiences or driving sustainable innovation, you'll be part of teams shaping the future of technology.
+
+
+
+
+Backed by decades of expertise and driven by a culture of continuous learning and innovation, Singtel offers the scale, opportunities and support to help you grow your career while making a difference where it matters most.
+
+
+
+
+Be a Part of Something BIG!
+
+
+
+
+The Senior Cloud Engineer will be collaborating closely with teams across multiple divisions within Singapore to define strategy, deliver solutions, and support production systems. Your expertise in DevOps best practices, system resilience, modern technologies and tools, as well as application development and testing, will be instrumental in establishing and evolving Singtel’s engineering standards. You will be part of a dynamic Agile team of container, cloud, and DevOps engineers, working across business units to design, build, and deploy cloud and container platforms. Acting as a change agent, you will drive the adoption of modern engineering practices and partner with stakeholders across divisions to build and enhance Singtel’s cloud services and container ecosystem.
+
+
+
+
+Make an Impact by:
+
+Design, build, and operate container platforms including Kubernetes (K8s) on cloud service providers such as AWS (EKS) and Azure (AKS), OpenShift Container Platform (OCP)
+Implement security hardening for Docker images, OCP, AKS, EKS clusters using automated scripts, aligned with CIS benchmarks and Singtel security policies.
+Develop, implement, and maintain CI/CD pipelines to enable efficient and reliable container and pod deployments.
+Automate platform provisioning, configuration, and operations for AKS, EKS and OCP using tools such as terraform
+Setting up, supporting and operating service mesh
+Contribute to the definition of long-term strategy, roadmap, and engineering standards for container platforms, including AKS, EKS and other K8S platform
+Demonstrate familiarity with cloud platforms such as AWS or Azure, including relevant services supporting containerized environments
+Collaborate effectively within large, cross-functional teams to deliver organizational goals and platform capabilities.
+Utilize DevOps toolchains such as Jira, Confluence, Bitbucket, Bamboo and Nexus Repository to support development, collaboration, and release processes.
+
+
+
+
+Skills for Success:
+
+Degree in in Information Technology, Cybersecurity, Computer Science, Engineering or a related field.
+Minimally 5 years of proven experience in Application Development, with 3 years of experience in implementation of DevOps and supporting container Platform.
+Certified in Openshift Container Platform / AKS / EKS
+Proficient in OpenShift Container Platform, AKS, EKS, Docker, Service Mesh, YAML
+Documentation of architecture and standards.
+
+
+
+
+Good to have:
+
+Ceritifed in Kubernetes administration / RHEL administrator / AWS / Azure
+Proficient in Bit Bucket, Confluence, Jira, Python, Ansible, Jenkins, Terraform, Bamboo
+
+
+
+
+Are you ready to say hello to BIG Possibilities?
+
+
+
+
+Join Singtel to shape what's next and accelerate your career through meaningful work, continuous learning, and real impact.
+
+
+
+
+Take the leap with Singtel to shape what’s next and accelerate your growth.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Telecommunications
+  
+
+Referrals increase your chances of interviewing at Singtel by 2x
+
+See who you know
+
+Get notified about new Cloud Engineer jobs in Singapore, Singapore.
+
+Sign in to create job alert
+Similar jobs
+Cloud Engineer
+Cloud Engineer
+Tesla Consulting Group
+Singapore
+3 months ago
+Senior Engineer for System and Cloud Infrastructure
+Senior Engineer for System and Cloud Infrastructure
+StarHub
+Singapore, Singapore
+3 days ago
+Senior Software Engineer, Cloud Services Engineering
+Senior Software Engineer, Cloud Services Engineering
+Apple
+Singapore, Singapore
+3 weeks ago
+Senior Platform Engineer
+Senior Platform Engineer
+Razer
+Singapore
+1 week ago
+Cloud Engineer
+Cloud Engineer
+VeSync
+Singapore, Singapore
+2 weeks ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+Apple
+Singapore, Singapore
+3 months ago
+Show more jobs like this 
+People also viewed
+Senior Platform Engineer
+Senior Platform Engineer
+
+Julius Baer
+
+Singapore, Singapore
+2 weeks ago
+Cloud Site Reliability Engineer (SRE)
+Cloud Site Reliability Engineer (SRE)
+
+Singapore Pools
+
+Singapore, Singapore
+1 week ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+
+SHIELD
+
+Singapore, Singapore
+2 days ago
+Cloud Engineer
+Cloud Engineer
+
+Centalion
+
+Singapore
+5 days ago
+Strategic Cloud Engineer, Appdev Practice
+Strategic Cloud Engineer, Appdev Practice
+
+Google
+
+Singapore
+2 weeks ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+
+Venti
+
+Singapore, Singapore
+1 month ago
+Senior Cloud Engineer
+Senior Cloud Engineer
+
+Searce Inc
+
+Singapore, Singapore
+2 days ago
+Senior Cloud Engineer
+Senior Cloud Engineer
+
+EC1 Partners
+
+Singapore, Singapore
+5 days ago
+Cloud Infra Engineer
+Cloud Infra Engineer
+
+Centre for Strategic Infocomm Technologies (CSIT)
+
+Singapore, Singapore
+2 weeks ago
+Staff Platform Infrastructure Engineer
+Staff Platform Infrastructure Engineer
+
+GovTech Singapore
+
+Singapore, Singapore
+2 days ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Singtel
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
