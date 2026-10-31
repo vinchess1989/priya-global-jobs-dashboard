@@ -1,9 +1,9 @@
 {
   "pid": 23060,
   "started_at": "2026-10-31T01:13:51+02:00",
-  "heartbeat_at": "2026-10-31T02:17:23+02:00",
+  "heartbeat_at": "2026-10-31T02:20:35+02:00",
   "phase": "reviewing",
-  "detail": "Senior Business Systems Analyst",
-  "last_scrape_ok_at": "2026-10-31T02:16:13+02:00",
+  "detail": "Service Delivery Manager (Team Lead)",
+  "last_scrape_ok_at": "2026-10-31T02:18:54+02:00",
   "last_error": null
 }
