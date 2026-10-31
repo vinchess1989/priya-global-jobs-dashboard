@@ -1,9 +1,9 @@
 {
   "pid": 3936,
   "started_at": "2026-11-01T01:12:41+02:00",
-  "heartbeat_at": "2026-11-01T01:38:42+02:00",
+  "heartbeat_at": "2026-11-01T01:40:33+02:00",
   "phase": "reviewing",
-  "detail": "Salesforce Functional Lead",
-  "last_scrape_ok_at": "2026-11-01T01:37:46+02:00",
+  "detail": "Mechanical Engineering Technician(Survey)",
+  "last_scrape_ok_at": "2026-11-01T01:39:35+02:00",
   "last_error": null
 }

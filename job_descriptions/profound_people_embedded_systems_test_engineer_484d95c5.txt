@@ -1,0 +1,253 @@
+Title: Embedded Systems Test Engineer
+Company: ProFound People
+Location: Auckland, New Zealand
+URL: https://nz.linkedin.com/jobs/view/embedded-systems-test-engineer-at-profound-people-4485295667
+Posted: 2026-10-31
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's background in embedded systems testing, CI/CD pipeline integration, and quality assurance, and it is located in a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Embedded Systems Test Engineer
+ProFound People  Auckland, New Zealand
+1 day ago  32 applicants
+  
+
+See who ProFound People has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Direct message the job poster from ProFound People
+
+Harold Ondangan
+Harold Ondangan
+
+An Auckland based electronics and software company developing embedded products is now hiring an Embedded Systems Test Engineer to take responsibility for testing its products across software, firmware and hardware.
+
+
+
+
+In this role you will be responsible for proving that a product works as a whole, from the code a user interacts with down to the electronics it runs on. The work moves between building and maintaining automated test suites and hands on investigation alongside the engineering team when a device misbehaves, for example when a unit fails to come up after power on or degrades over a long test run. You will be trusted to plan and manage your own share of the test effort, with experienced colleagues to lean on when a problem calls for a second opinion. A large part of the opportunity is helping the team replace repetitive manual checks with automated test benches and fixtures and using AI tooling every day to speed up test design and log analysis while applying your own judgement to the results. These products are deployed for long service lives, so reliability is treated as a design requirement rather than an afterthought. It suits someone who enjoys working across the whole product rather than staying within one layer of it, and who would rather understand why a fault happens than simply report that it did. Formal hardware qualifications are not expected, but genuine curiosity about how electronic hardware behaves is. The ideal background is one shaped by commercial QA work on products where software and physical hardware meet.
+
+
+
+
+This is a full time, Auckland based role with a hybrid working arrangement.
+
+
+
+
+Key Responsibilities:
+
+
+
+
+Develop test plans and test cases from product requirements, raising any ambiguity or missing detail with the engineering team early.
+Carry out exploratory and scripted manual testing on new features and releases.
+Investigate faults on physical devices with the hardware and firmware engineers, including problems at power up and issues that only appear after extended running.
+Expand automated regression coverage from the web and API layers onto the devices themselves and integrate those tests into the build pipeline so every change is verified before release.
+Contribute to the design of automated test benches and fixtures that replace repetitive manual hardware checks.
+Write up defects in enough detail for an engineer to reproduce them on the first attempt and follow each one through to a fix.
+Apply AI tooling to test design, script writing and log analysis, reviewing its output critically before relying on it.
+
+
+
+
+Requirements:
+
+
+
+
+Commercial QA experience in which you have both executed tests by hand and built automated test suites.
+Working knowledge of the common tools for automating browser interactions and exercising APIs.
+Exposure to testing on more than one platform, such as web applications, mobile apps or embedded software.
+Confidence writing test scripts in Python or a similar language.
+Experience working within Agile teams and sprint-based delivery.
+Some genuine experience bringing AI tools into your testing workflow.
+Comfort working independently on your own priorities while keeping the wider team informed of risks and blockers.
+Tertiary study in software, computing or a related field, though strong commercial experience will be weighed equally.
+
+
+
+
+Desirable but not essential:
+
+
+
+
+Experience at the electronics end of testing, whether checking circuit boards and components or working with automated hardware test rigs.
+Familiarity with unit testing approaches for embedded C or C++ code.
+Experience automating tests on mobile or embedded device interfaces.
+A background with connected or IoT products.
+Experience configuring build servers or pipelines, or a formal software testing certification.
+
+
+
+
+Please reach out to harold@profoundpeople.com.au for more info
+
+
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Staffing and Recruiting
+  
+
+Referrals increase your chances of interviewing at ProFound People by 2x
+
+See who you know
+
+Get notified about new System Test Engineer jobs in Auckland, New Zealand.
+
+Sign in to create job alert
+Similar jobs
+Intermediate QA Automation Engineer (Embedded Devices)
+Intermediate QA Automation Engineer (Embedded Devices)
+EROAD
+Auckland, Auckland, New Zealand
+1 week ago
+Junior QA Automation Engineer (Embedded Devices)
+Junior QA Automation Engineer (Embedded Devices)
+EROAD
+Auckland, Auckland, New Zealand
+1 week ago
+Sr. Test Engineer
+Sr. Test Engineer
+Brunswick Marine in EMEA
+Auckland, Auckland, New Zealand
+8 hours ago
+Senior Hardware Test Engineer - Automation & Product Quality
+Senior Hardware Test Engineer - Automation & Product Quality
+Halter
+Auckland, New Zealand
+4 months ago
+Senior Quality Assurance Engineer
+Senior Quality Assurance Engineer
+Air New Zealand
+Auckland, Auckland, New Zealand
+2 weeks ago
+Senior Test Engineer - Production & Hardware Operations
+Senior Test Engineer - Production & Hardware Operations
+Halter
+Auckland, New Zealand
+3 months ago
+Show more jobs like this 
+People also viewed
+Software Firmware Architect
+Software Firmware Architect
+
+Vontier
+
+Auckland, Auckland, New Zealand
+2 weeks ago
+Senior Firmware Engineer
+Senior Firmware Engineer
+
+Vontier
+
+Auckland, Auckland, New Zealand
+2 weeks ago
+QA Automation Engineer (f/m/d)
+QA Automation Engineer (f/m/d)
+
+Thinkproject
+
+Auckland, Auckland, New Zealand
+2 weeks ago
+Senior Test Analysts
+Senior Test Analysts
+
+Synechron
+
+Auckland, New Zealand
+3 weeks ago
+API Tester
+API Tester
+
+Synechron
+
+Auckland, New Zealand
+2 weeks ago
+Device Performance Engineer
+Device Performance Engineer
+
+Halter
+
+Auckland, New Zealand
+1 month ago
+Electronics Engineer - Failure Analysis
+Electronics Engineer - Failure Analysis
+
+Halter
+
+Auckland, New Zealand
+3 months ago
+Test Lab Technician
+Test Lab Technician
+
+Halter
+
+Auckland, New Zealand
+2 months ago
+Enterprise Test Lead
+Enterprise Test Lead
+
+Synechron
+
+Auckland, New Zealand
+2 weeks ago
+Operations Engineer
+Operations Engineer
+
+Rocket Lab
+
+Auckland, Auckland, New Zealand
+2 weeks ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
