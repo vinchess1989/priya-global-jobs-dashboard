@@ -1,9 +1,9 @@
 {
-  "pid": 23060,
-  "started_at": "2026-10-31T01:13:51+02:00",
-  "heartbeat_at": "2026-10-31T02:27:51+02:00",
-  "phase": "run_finished",
-  "detail": "142 lower-yield targets and 0 jobs left for the next run",
-  "last_scrape_ok_at": "2026-10-31T02:27:41+02:00",
+  "pid": 3936,
+  "started_at": "2026-11-01T01:12:41+02:00",
+  "heartbeat_at": "2026-11-01T01:17:03+02:00",
+  "phase": "reviewing",
+  "detail": "Senior DevOps Engineer (Azure)",
+  "last_scrape_ok_at": "2026-11-01T01:16:07+02:00",
   "last_error": null
 }

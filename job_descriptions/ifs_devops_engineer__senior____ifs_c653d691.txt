@@ -1,0 +1,304 @@
+Title: DevOps Engineer (Senior) - IFS Logistics
+Company: IFS
+Location: London, England, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/devops-engineer-senior-ifs-logistics-at-ifs-4483074023
+Posted: 2026-10-30
+Deadline: Open until filled
+Reason: The role is a strong match for her DevOps and release management expertise, and it is located in the UK, which is one of her target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer (Senior) - IFS Logistics
+IFS  London, England, United Kingdom
+2 days ago  60 applicants
+  
+
+See who IFS has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+IFS is a billion-dollar revenue company with 7000+ employees on all continents. Our leading AI technology is the backbone of our award-winning enterprise software solutions, enabling our customers to be their best when it really matters–at the Moment of Service™. Our commitment to internal AI adoption has allowed us to stay at the forefront of technological advancements, ensuring our colleagues can unlock their creativity and productivity, and our solutions are always cutting-edge.
+
+At IFS, we’re flexible, we’re innovative, and we’re focused not only on how we can engage with our customers but on how we can make a real change and have a worldwide impact. We help solve some of society’s greatest challenges, fostering a better future through our agility, collaboration, and trust.
+
+We celebrate diversity and understand our responsibility to reflect the diverse world we work in. We are committed to promoting an inclusive workforce that fully represents the many different cultures, backgrounds, and viewpoints of our customers, our partners, and our communities. As a truly international company serving people from around the globe, we realize that our success is tantamount to the respect we have for those different points of view.
+
+By joining our team, you will have the opportunity to be part of a global, diverse environment; you will be joining a winning team with a commitment to sustainability; and a company where we get things done so that you can make a positive impact on the world.
+
+We’re looking for innovative and original thinkers to work in an environment where you can #MakeYourMoment so that we can help others make theirs. With the power of our AI-driven solutions, we empower our team to change the status quo and make a real difference.
+
+If you want to change the status quo, we’ll help you make your moment. Join Team Purple. Join IFS.
+
+Job Description
+
+About IFS Logistics
+
+IFS Logistics helps enterprise shippers connect transport data, manage carrier spend, and automate execution. The product began as 7bridges and is now part of IFS, with a small, focused team working closely with the commercial organisation.
+
+We build SaaS products that customers can run themselves. The platform handles busy, data-heavy logistics operations, so reliability and clear operational visibility matter every day.
+
+The role
+
+You will join Diego Silva, our Lead DevOps Engineer, as the second DevOps specialist responsible for the platform. You will take ownership of substantial workstreams while partnering closely with application and data engineers.
+
+There is useful work to do from day one. We want every merge request reviewed, production deployments controlled, and releases running to a predictable cadence. Those practices are not yet consistent across the team. Our monitoring also needs to cover more of the application and data estate, and our pipelines need stronger detection, recovery and ownership when something fails.
+
+You will help turn those goals into working systems: better signals, safer delivery paths, faster recovery and infrastructure the team understands. This is a hands-on role for someone who enjoys improving a live platform rather than waiting for a perfect starting point.
+
+What You'll Work On
+
+
+Build useful observability. Improve metrics, logs, traces and alerts across the Django API, data pipelines and warehouse so the team spots problems early and can diagnose them quickly.
+Improve CI/CD. Make GitLab pipelines fast, dependable and difficult to bypass, with review and deployment controls built into the workflow.
+Reduce operational risk. Remove direct-to-production paths, improve release controls and help the team establish a reliable weekly release rhythm.
+Manage cloud cost. Make GCP spend visible by workload and product area, then reduce waste without compromising service quality.
+Develop infrastructure as code. Improve our Terraform and Kubernetes setup so environments are reproducible, secure and clearly documented.
+Strengthen data-pipeline reliability. Add failure detection, freshness checks, replay paths and clear ownership across Datastream, Pub/Sub, dbt and BigQuery.
+Respond and learn. Help shape incident management and on-call practices, then turn recurring failures into automated checks and safeguards.
+
+
+Qualifications
+
+What we're looking for
+
+
+Strong experience running production services on GCP.
+Practical knowledge of Kubernetes and Terraform, including operating and improving infrastructure rather than only deploying to it.
+Experience designing and maintaining CI/CD pipelines in GitLab or a similar platform.
+Evidence that you have instrumented a real system and improved its metrics, logging, tracing or alerting.
+Examples of treating cloud cost as an engineering concern: attributing spend, finding waste and making informed trade-offs.
+Experience operating data pipelines, such as streaming ingestion, warehouse loads, dbt transformations or similar workflows.
+The confidence to challenge an unsafe change and explain what needs to happen before it can ship.
+Practical experience with AI coding tools such as Cursor or Claude, including how you provide context and verify infrastructure changes before accepting them.
+The ability to assess an imperfect system, decide what matters most and carry the improvement through to production.
+
+
+Nice to have
+
+
+Enough Python experience to investigate or fix issues in a Django application.
+Security or compliance work in an enterprise SaaS environment.
+Experience designing incident-management or on-call processes.
+BigQuery cost and performance tuning.
+
+
+Tech stack
+
+GCP, Kubernetes, Terraform and GitLab CI/CD. Python and Django REST, TypeScript, Node and React. BigQuery, dbt, Cube Cloud and Superset. Pub/Sub and Datastream. The team uses Cursor and Claude for development, Notion for specifications and Jira for delivery.
+
+What Success Looks Like In The First Six Months
+
+
+Our monitoring identifies production problems before customers report them.
+Pipeline failures are detected quickly, assigned clearly and recoverable without improvised fixes.
+Merge-request review and controlled production deployment are enforced through the delivery pipeline.
+Weekly releases run predictably without creating unnecessary overhead for engineers.
+GCP spend is attributable to workloads and product areas, with clear action taken on the main cost drivers.
+Application and data teams have a responsive platform partner who improves their ability to ship safely.
+
+
+Why we're hiring now
+
+The team is growing and the platform needs to support a faster pace of delivery. That requires better visibility, stronger data pipelines and release controls that work without relying on individual memory or manual intervention.
+
+Diego currently carries too much of that responsibility alone. This role adds the capacity to improve the platform while still supporting the product in production, and gives the team another engineer who can take a problem, form a plan and see it through.
+
+Additional Information
+
+This successful candidate will need to be based in the UK or the Netherlands. We're a remote team with clusters of people in London and Amsterdam.
+
+We embrace flexibility and hybrid work opportunities to support diverse needs and lifestyles, while also valuing inclusive workplace experiences. By fostering a sense of community, we drive innovation, strengthen connections, and nurture belonging. Our commitment ensures you can work in a way that suits you best, while also engaging with colleagues to share ideas and build meaningful relationships.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development and IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at IFS by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in London, England, United Kingdom.
+
+Sign in to create job alert
+Jobs
+Assistant Account Officer jobs
+DevOps Engineer (Senior) - IFS Logistics
+Similar jobs
+Senior DevOps Engineer
+Senior DevOps Engineer
+ieso
+United Kingdom
+£70,000 - £80,000
+1 month ago
+Platform Engineer
+Platform Engineer
+CGI
+United Kingdom
+2 weeks ago
+DevOps Engineer (100% remote)
+DevOps Engineer (100% remote)
+Tether.io
+United Kingdom
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+Prima
+London, England, United Kingdom
+1 day ago
+Senior DevOps and Systems Engineer
+Senior DevOps and Systems Engineer
+Snappy Shopper
+United Kingdom
+1 month ago
+Senior Platform Engineer (DevOps)
+Senior Platform Engineer (DevOps)
+Fnality
+London, England, United Kingdom
+1 week ago
+Show more jobs like this 
+People also viewed
+Lead DevOps Engineer
+Lead DevOps Engineer
+
+myenergi
+
+United Kingdom
+1 month ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Nearform
+
+United Kingdom
+2 days ago
+Infrastructure Engineer
+Infrastructure Engineer
+
+Augmodo
+
+United Kingdom
+1 week ago
+Senior Systems Engineer
+Senior Systems Engineer
+
+Motorola Solutions
+
+United Kingdom
+3 days ago
+Platform Engineer-UK
+Platform Engineer-UK
+
+Certinia
+
+United Kingdom
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+SF Technology Partners
+
+United Kingdom
+£75,000 - £115,000
+2 weeks ago
+Cloud Infrastructure Engineer
+Cloud Infrastructure Engineer
+
+Perlego
+
+United Kingdom
+£60,000 - £65,000
+4 months ago
+Senior Engineer - Platform
+Senior Engineer - Platform
+
+Hudl
+
+United Kingdom
+4 days ago
+DevOps Engineer
+DevOps Engineer
+
+undisclosed
+
+United Kingdom
+3 weeks ago
+Site Reliability Engineer, Infrastructure Platforms — UK (Intermediate to Senior Staff)
+Site Reliability Engineer, Infrastructure Platforms — UK (Intermediate to Senior Staff)
+
+GitLab
+
+United Kingdom
+1 week ago
+Similar Searches
+Assistant Account Officer jobs
+4,252 open jobs
+Credit Management Consultant jobs
+2,198 open jobs
+System Support Engineer jobs
+3,604 open jobs
+Associate Quality Engineer jobs
+20 open jobs
+Camp Coordinator jobs
+4,263 open jobs
+Unix Linux System Administrator jobs
+87 open jobs
+Associate Software Engineer jobs
+21,238 open jobs
+Assistant Technical Director jobs
+106 open jobs
+Network Associate jobs
+1,884 open jobs
+Application Support Manager jobs
+813 open jobs
+Assistant Mechanical Engineer jobs
+974 open jobs
+Foreign Language Teacher jobs
+1,510 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at IFS
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

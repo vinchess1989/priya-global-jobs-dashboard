@@ -1,0 +1,280 @@
+Title: AWS DevOps - Senior Engineer
+Company: Iris Software Inc.
+Location: Gurugram, Haryana, India
+URL: https://in.linkedin.com/jobs/view/aws-devops-senior-engineer-at-iris-software-inc-4472731111
+Posted: 2026-10-02
+Deadline: N/A
+Reason: The role is a strong match for her DevOps and CI/CD expertise, is located in India (a target country), and does not violate any hard rejection criteria.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+AWS DevOps - Senior Engineer
+Iris Software Inc.  Gurugram, Haryana, India
+1 month ago   Be among the first 25 applicants
+  
+
+See who Iris Software Inc. has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Why Join Iris?
+
+Are you ready to do the best work of your career at one of India’s Top 25 Best Workplaces in IT industry? Do you want to grow in an award-winning culture that truly values your talent and ambitions?
+
+Join Iris Software — one of the fastest-growing IT services companies — where you own and shape your success story.
+
+About Us
+
+At Iris Software, our vision is to be our client’s most trusted technology partner, and the first choice for the industry’s top professionals to realize their full potential.
+
+With over 4,300 associates across India, U.S.A, and Canada, we help our enterprise clients thrive with technology-enabled transformation across financial services, healthcare, transportation & logistics, and professional services.
+
+Our work covers complex, mission-critical applications with the latest technologies, such as high-value complex Application & Product Engineering, Data & Analytics, Cloud, DevOps, Data & MLOps, Quality Engineering, and Business Automation.
+
+Working with Us
+
+At Iris, every role is more than a job — it’s a launchpad for growth.
+
+Our Employee Value Proposition, “Build Your Future. Own Your Journey.” reflects our belief that people thrive when they have ownership of their career and the right opportunities to shape it.
+
+We foster a culture where your potential is valued, your voice matters, and your work creates real impact. With cutting-edge projects, personalized career development, continuous learning and mentorship, we support you to grow and become your best — both personally and professionally.
+
+Curious what it’s like to work at Iris? Head to this video for an inside look at the people, the passion, and the possibilities. Watch it here.
+
+Job Description
+
+Experience: 6-8 Years
+
+Location: Gurugram
+
+Mandatory Skills
+
+AWS App Runner, CI/CD & Source Control (CI/CD + Jenkins + Git), Cloud Cost Awareness & Resource Optimization, Networking & Security Foundations (Amazon VPC + Security Groups + NACLs + Route 53 + IAM + KMS + Secrets Manager), Terraform (AWS Provider), Docker, SQS
+
+Key Responsibilities
+
+
+Design and implement scalable CI/CD frameworks using Jenkins and Git to improve deployment reliability and release efficiency.
+Define Infrastructure as Code standards and reusable provisioning templates using AWS CloudFormation, AWS CDK, and Terraform.
+Lead containerization initiatives using Docker and manage container lifecycle processes through Amazon ECR.
+Design and optimize container orchestration strategies using Amazon EKS and AWS Fargate.
+Architect and optimize AWS hosting environments leveraging EC2, Auto Scaling, Load Balancers, AWS App Runner, and AWS Lambda.
+Drive automation initiatives across infrastructure provisioning, deployment workflows, and environment management.
+Define monitoring, logging, and observability standards using Amazon CloudWatch.
+Implement event-driven integration patterns using SNS, SQS, and EventBridge to support scalable cloud architectures.
+Review infrastructure code, deployment pipelines, and cloud configurations to ensure adherence to engineering standards.
+Troubleshoot complex infrastructure, deployment, and platform issues through detailed root cause analysis.
+Collaborate with various teams and stakeholders to support end-to-end cloud delivery and operational excellence.
+Mentor team members on DevOps practices, cloud engineering standards, and automation strategies.
+Drive continuous improvement initiatives for platform reliability, scalability, security, and operational efficiency.
+
+
+Behavioral Competencies
+
+
+Demonstrates strong ownership while driving cloud engineering and DevOps excellence.
+Collaborate effectively with various teams and business stakeholders to ensure smooth delivery.
+Promotes an automation-first culture through proactive process optimization and continuous improvement.
+Applies strong analytical thinking to evaluate complex cloud and infrastructure challenges.
+Demonstrates adaptability while managing evolving technologies and cloud environments.
+Communicate effectively regarding platform health, risks, dependencies, and improvement opportunities.
+Maintains high attention to detail across cloud infrastructure, automation, and deployment activities.
+Encourages continuous improvement in DevOps processes, automation frameworks, and operational practices.
+Supports knowledge sharing and mentoring to strengthen team capabilities.
+Balances platform reliability, scalability, and business priorities while driving delivery excellence.
+
+
+Perks And Benefits For Irisians
+
+Iris provides world-class benefits for a personalized employee experience. These benefits are designed to support financial, health and well-being needs of Irisians for a holistic professional and personal growth. Click here to view the benefits.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Iris Software Inc. by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Gurugram, Haryana, India.
+
+Sign in to create job alert
+Jobs
+SAP Programmer jobs
+AWS DevOps - Senior Engineer
+Similar jobs
+Senior Devops Engineer
+Senior Devops Engineer
+Bennett Coleman & Co. Ltd. (The Times of India)
+Delhi, India
+4 days ago
+DevOps Engineer
+DevOps Engineer
+Docyt
+Noida, Uttar Pradesh, India
+1 month ago
+DevOps Engineer
+DevOps Engineer
+Atain
+Gurugram, Haryana, India
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+NVIDIA
+New Delhi, Delhi, India
+2 weeks ago
+Sr. Devops Engineer
+Sr. Devops Engineer
+MakeMyTrip
+Gurgaon, Haryana, India
+1 day ago
+Senior Devops Engineer
+Senior Devops Engineer
+PAR Technology
+Gurugram, Haryana, India
+2 weeks ago
+Show more jobs like this 
+People also viewed
+DevOps Engineer AWS
+DevOps Engineer AWS
+
+Srijan: Now Material
+
+Gurugram, Haryana, India
+1 month ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Tarento Group
+
+Noida, Uttar Pradesh, India
+1 month ago
+DevOps Engineer ID98058
+DevOps Engineer ID98058
+
+AgileEngine
+
+Gurgaon, Haryana, India
+3 days ago
+Senior DevOps Engineer – Platform &amp; Cloud Infra
+Senior DevOps Engineer – Platform &amp; Cloud Infra
+
+MetAntz
+
+Gurgaon, Haryana, India
+2 weeks ago
+Senior CloudOps Engineer
+Senior CloudOps Engineer
+
+Thales
+
+Noida, Uttar Pradesh, India
+1 week ago
+Senior DevOps Engineer (7+ years)
+Senior DevOps Engineer (7+ years)
+
+Qloron Pvt Ltd
+
+Gurugram, Haryana, India
+2 weeks ago
+DevOps Engineer / AWS Platform
+DevOps Engineer / AWS Platform
+
+Kite
+
+Gurgaon, Haryana, India
+3 months ago
+DevOps Engineer
+DevOps Engineer
+
+Plasma
+
+Noida, Uttar Pradesh, India
+2 months ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Leena AI
+
+Gurugram, Haryana, India
+2 days ago
+Lead Cloud Infrastructure Engineer
+Lead Cloud Infrastructure Engineer
+
+Cvent
+
+Gurugram, Haryana, India
+1 week ago
+Similar Searches
+SAP Programmer jobs
+10 open jobs
+Front End Architect jobs
+13,604 open jobs
+Senior Software Quality Engineer jobs
+717 open jobs
+Associate Quality Assurance Engineer jobs
+1,600 open jobs
+Lead Java Developer jobs
+15,758 open jobs
+Lead Technical Architect jobs
+8,345 open jobs
+Senior Enterprise Architect jobs
+1,373 open jobs
+Associate Quality Engineer jobs
+42 open jobs
+Hadoop Developer jobs
+9,185 open jobs
+Lead Test Engineer jobs
+3,200 open jobs
+Build And Release Engineer jobs
+3,712 open jobs
+Public Information Officer jobs
+130 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Iris Software Inc.
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
