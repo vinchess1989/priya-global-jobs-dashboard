@@ -1,9 +1,9 @@
 {
   "pid": 3936,
   "started_at": "2026-11-01T01:12:41+02:00",
-  "heartbeat_at": "2026-11-01T01:49:18+02:00",
+  "heartbeat_at": "2026-11-01T01:51:33+02:00",
   "phase": "reviewing",
-  "detail": "Service Delivery Manager",
-  "last_scrape_ok_at": "2026-11-01T01:48:22+02:00",
+  "detail": "Release Train Engineer (RTE) \u2013 Merchant Delivery",
+  "last_scrape_ok_at": "2026-11-01T01:50:17+02:00",
   "last_error": null
 }
