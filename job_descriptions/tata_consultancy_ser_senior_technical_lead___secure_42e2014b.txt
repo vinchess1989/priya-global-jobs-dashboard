@@ -1,0 +1,501 @@
+Title: Senior Technical Lead – Secure Access & Endpoint Platforms
+Company: Tata Consultancy Services
+Location: City of Johannesburg, Gauteng, South Africa
+URL: https://za.linkedin.com/jobs/view/senior-technical-lead-%E2%80%93-secure-access-endpoint-platforms-at-tata-consultancy-services-4484501887
+Posted: 2026-10-30
+Deadline: N/A
+Reason: The role aligns perfectly with the candidate's expertise in release management, technical documentation, quality gatekeeping, and cross-team coordination within a structured, process-heavy environment.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Technical Lead – Secure Access & Endpoint Platforms
+Tata Consultancy Services  City of Johannesburg, Gauteng, South Africa
+2 days ago  60 applicants
+  
+
+See who Tata Consultancy Services has hired for this role
+
+Apply
+Save
+
+Direct message the job poster from Tata Consultancy Services
+
+Dhivya M
+Dhivya M
+
+Job Title – Senior Technical Lead – Secure Access & Endpoint Platforms
+
+Company – TCS (MEA)
+
+Location – Johannesburg, South Africa
+
+Job type – Full time
+
+
+
+
+About Us:
+
+Tata Consultancy Services (TCS) is an IT services, consulting and business solutions organization that has been partnering with many of the world’s largest businesses in their transformation journeys for over 50 years. TCS offers a consulting-led, cognitive powered, integrated portfolio of business, technology and engineering services and solutions. This is delivered through its unique Location Independent Agile™ delivery model, recognized as a benchmark of excellence in software development.
+
+A part of the Tata group, India's largest multinational business group, TCS has over 616,171 of the world’s best-trained consultants with 157 nationalities in 53 countries. For more information, visit www.tcs.com and follow TCS news at @TCS_News.
+
+
+
+
+Job Description:
+
+
+
+
+Role Purpose:
+
+
+
+
+The Senior Technical Lead is accountable for the end-to-end technical assessment, implementation planning, deployment assurance, testing, stabilization and transition into Business as Usual (BAU) of secure-access and endpoint-management capabilities across Cisco Secure Access, ManageEngine Endpoint Central and Microsoft Intune.
+
+The role will work closely with Architecture, Cyber Security, Network Operations, Security Operations, Infrastructure Hosting, End-User Computing, Service Delivery, application owners and managed-service vendors to:
+
+Understand and technically challenge the approved architecture and design.
+Translate approved designs into detailed, practical implementation plans.
+Coordinate dependencies, sequencing, technical resources, and vendor activities.
+Ensure that configurations and deployments are implemented, tested, and evidenced correctly.
+Lead technical troubleshooting and root-cause analysis across platform boundaries.
+Confirm operational readiness, documentation, monitoring, support arrangements and knowledge transfer.
+Recommend whether solutions are technically ready for production, BAU acceptance, or further remediation.
+
+The current Cisco Secure Access scope requires validated connectivity, identity integration, application policies, client deployment, user-acceptance testing, sign-off, low-level/as-built documentation, and managed-service handover. The Intune programme similarly requires assessment, remediation, testing, service governance, knowledge transfer, and transition into a sustainable operating model.
+
+
+
+
+Key Responsibilities:
+
+
+
+
+A. Technical Assessment and Design Assurance:
+
+
+
+
+Assess the current Cisco Secure Access, ManageEngine and Intune environments, including configuration, integration, operational gaps, technical debt, supportability and deployment readiness.
+Review approved high-level and low-level designs and confirm that they are complete, implementable and aligned with Life Healthcare standards.
+Identify technical assumptions, constraints, dependencies, risks and unresolved design decisions.
+Challenge vendor designs and recommendations where they are incomplete, impractical, unsupported or inconsistent with Life Healthcare requirements.
+Maintain a technical gap, risk, dependency and decision register.
+Ensure material deviations from approved architecture are returned to the appropriate Architecture or Security authority for approval.
+
+
+
+
+B. Architecture-to-Implementation Planning:
+
+
+
+
+Convert approved architecture into detailed implementation plans containing:
+Technical work packages and accountable owners.
+Prerequisites and dependencies.
+Logical sequencing and deployment waves.
+Configuration and integration activities.
+Test cases, expected results and acceptance criteria.
+Cutover, communication, support and hypercare requirements.
+Risk controls, backups and rollback procedures.
+Operational documentation and handover deliverables.
+Confirm that plans cover normal, failure, recovery, security and operational-support scenarios.
+Establish technical readiness and go/no-go criteria before each production deployment.
+
+Life Healthcare’s change model requires documented impact assessment, approval, implementation, testing, close-out and sign-off. Managed-service changes must also include a documented rollback plan, audit ticket, implementation testing, configuration backup and completion evidence.
+
+
+
+
+C. Cross-Platform Implementation and Deployment Assurance:
+
+
+
+
+Cisco Secure Access:
+
+Lead technical implementation assurance across Secure Private Access, Zero Trust access, Secure Internet Access, Cisco Secure Client, private-resource definitions, access policies, Resource Connectors, IPsec/VPN connectivity and traffic routing.
+Validate routing, DNS, firewall rules, certificates, application ports, FQDNs, user/group mappings, policy sequencing and connectivity paths.
+Troubleshoot connectivity, latency, routing, authentication, policy, certificate, client and application-access issues using available logs and telemetry.
+
+Ensure that AD group synchronisation, SAML, MFA and certificate-based authentication flows are implemented and validated.
+
+Validate software-distribution readiness, enrolment method, endpoint prerequisites, Cisco Secure Client packaging and controlled production deployment.
+
+
+
+
+ManageEngine Endpoint Central:
+
+Review and assure application packages, scripts, policies, deployment rules, detection logic, retry/recovery behaviour and reporting.
+Validate pre-installation, installation and post-installation steps.
+Ensure reporting distinguishes successful, failed, incomplete and previously installed deployments.
+Lead root-cause analysis of recurring deployment failures and coordinate corrective action.
+Require controlled pilot testing before changes are released to broader deployment groups.
+
+These responsibilities directly address current needs around package reliability, interrupted installations, recovery behaviour, detection logic, deployment reporting, controlled testing and knowledge transfer.
+
+
+
+
+Microsoft Intune:
+
+Provide technical oversight of Intune assessment, remediation and managed-service implementation.
+Assure configuration profiles, compliance policies, security baselines, application deployment, device enrolment, MDM/MAM, Conditional Access integration and operational monitoring.
+Help define and govern the appropriate workload boundaries between Intune and ManageEngine.
+Coordinate identity and device-management dependencies involving Active Directory, Entra ID, Group Policy and relevant endpoint platforms.
+Confirm that proposed configurations are tested against the applicable user, device, shared-device and operational personas.
+
+The Intune scope requires defined strategies for endpoint management, security and operations, as well as application deployment, policy administration, compliance monitoring, reporting and service governance.
+
+
+
+
+D. Testing, Quality Assurance and Technical Acceptance:
+
+
+
+
+Own the end-to-end technical test strategy across all three platforms.
+Ensure testing includes, where applicable:
+Configuration and connectivity validation.
+Authentication and authorisation testing.
+Application and user-journey testing.
+Certificate and identity-flow validation.
+Positive, negative and failure-path testing.
+Network interruption, recovery and retry behaviour.
+Failover, resilience and rollback testing.
+Pilot and phased-deployment validation.
+Operational-support and monitoring tests.
+Maintain traceability between requirements, test cases, defects, evidence and sign-off.
+Confirm that defects are resolved, accepted as known risks or formally deferred before recommending production deployment.
+Provide technical go/no-go and service-acceptance recommendations.
+
+Life Healthcare’s stated acceptance model requires assessment approval, an approved implementation plan, completed and tested remediation, validation against agreed success criteria, established runbooks and reporting, and completed knowledge transfer.
+
+
+
+
+E. Change Control, Hypercare and BAU Transition:
+
+
+
+
+Prepare or quality-assure technical change records, implementation steps, risks, impact assessments, test evidence and rollback plans.
+Participate in CAB and other technical-governance forums.
+Coordinate hypercare following material deployments, including enhanced monitoring, rapid triage, issue burn-down and vendor escalation.
+Define BAU entry and exit criteria.
+Confirm operational readiness covering:
+Monitoring and alerting.
+Support queues and escalation paths.
+Roles and RACI.
+Runbooks, SOPs and knowledge articles.
+Low-level and as-built documentation.
+Administrative access and auditability.
+Known errors, workarounds and unresolved risks.
+Vendor-service boundaries and SLAs.
+Coordinate formal handover and service acceptance.
+
+F. Managed-Service Vendor Oversight:
+
+
+
+
+Act as Life Healthcare’s senior technical interface to the Cisco Secure Access, ManageEngine and Intune managed-service providers.
+Review, challenge and technically assure vendor designs, implementation approaches, change plans and recommendations.
+Validate vendor delivery against contracted scope, approved architecture, security requirements and agreed acceptance criteria.
+Ensure incidents, recurring problems and cross-vendor dependencies are actively owned and escalated.
+Require appropriate RCA, corrective action, evidence and follow-through for significant or repeat failures.
+Review vendor service health, risks, incidents, problems, changes, SLA performance, technical debt and improvement actions.
+Ensure documentation, knowledge transfer, access handback and service history are complete before final acceptance or transition.
+Prevent accountability gaps between vendors by maintaining an end-to-end technical view of the service.
+
+Life Healthcare retains platform ownership while the managed-service provider performs authorised operational administration; vendor delivery must therefore remain subject to internal governance, approval and service assurance. Existing managed-service expectations include health checks, incident management, operational reviews, risk management, documentation updates and controlled changes.
+
+
+
+
+Essential Technical Skills:
+
+
+
+
+Expert-level Cisco enterprise networking, including routing, connectivity, traffic flow and complex fault isolation.
+Strong network-security and firewall expertise, including firewall policy, VPN/IPsec, secure web access, DNS, certificates and encrypted traffic.
+Hands-on Cisco Secure Access implementation and troubleshooting experience, including ZTA/Private Access, Secure Internet Access/SWG, Cisco Secure Client, Resource Connectors, tunnels, policy enforcement and user/application access.
+Strong understanding of:
+Active Directory and AD security groups.
+Entra ID integration.
+SAML, SSO and MFA.
+Certificate-based and user-based authentication.
+PKI and certificate deployment/troubleshooting.
+Strong ManageEngine Endpoint Central knowledge, particularly software packaging, deployment scripts, detection logic, retry behaviour and deployment reporting.
+Working knowledge of Microsoft Intune, including configuration, compliance, security policies, application deployment, MDM/MAM and Conditional Access integration.
+Practical PowerShell scripting and automation capability.
+Ability to interpret technical logs, network traces, endpoint diagnostics, deployment results and service telemetry.
+Strong technical documentation capability, including implementation plans, test plans, runbooks, low-level designs, as-built records and operational procedures.
+
+
+
+
+Qualifications and Certifications:
+
+
+
+
+Mandatory
+
+CCIE, or demonstrably equivalent senior Cisco expertise.
+Where the candidate does not hold CCIE, equivalent expertise must be demonstrated through evidence of:
+Senior technical accountability for complex enterprise Cisco environments.
+Successful delivery of significant Cisco networking and security implementations.
+Advanced routing, firewall, VPN, identity-integration and troubleshooting capability.
+Ability to technically challenge vendor and architecture decisions.
+Recent hands-on implementation and production-incident experience.
+
+Advantageous:
+
+Relevant Cisco security, firewall, SASE or Zero Trust certification.
+Microsoft Intune or endpoint-administration certification.
+Relevant Microsoft security or identity certification.
+ITIL Foundation or higher.
+Relevant tertiary qualifications in information technology, networking, engineering or computer science.
+
+
+
+
+Experience Requirements:
+
+
+
+
+Recommended procurement threshold:
+
+Minimum eight years’ relevant enterprise infrastructure, networking or security experience, including substantial recent experience at senior engineer, architect or technical-lead level.
+Demonstrable experience delivering complex enterprise implementations through assessment, planning, building, testing, production deployment, stabilisation and BAU handover.
+Proven hands-on Cisco networking and security experience; this must be the candidate’s strongest technical discipline.
+Experience coordinating delivery across networking, security, identity, endpoints, infrastructure, applications and service-management teams.
+Experience overseeing managed-service providers and holding vendors accountable for technical quality, evidence, issue resolution and service acceptance.
+Experience leading major technical troubleshooting and root-cause analysis across multiple platforms and vendors.
+Experience in a regulated or operationally sensitive enterprise environment is advantageous.
+Healthcare-sector experience is advantageous but not mandatory.
+
+
+
+
+Behavioural Competencies:
+
+
+
+
+Ownership and accountability: Takes responsibility for technical outcomes from assessment through BAU acceptance.
+Technical leadership without positional authority: Leads engineers, vendors and stakeholders through expertise, structure and sound judgement.
+Structured problem-solving: Separates symptoms from root causes and drives evidence-based resolution.
+Stakeholder engagement: Works effectively with Architecture, Security, Infrastructure, Network Operations, EUC, Service Delivery, application teams and vendors.
+Constructive challenge: Questions, weak assumptions and incomplete designs while maintaining professional relationships.
+Communication: Explains complex technical risks, decisions and trade-offs clearly to technical and non-technical stakeholders.
+Vendor management: Sets clear expectations, challenges delivery and escalates appropriately.
+Resilience: Remains calm, decisive and organised during outages, pressure and competing priorities.
+Collaboration: Builds alignment across teams that have different platform responsibilities and objectives.
+Quality orientation: Requires evidence, documentation, test results and clear acceptance criteria before declaring work complete.
+
+
+
+
+Application Deadline: 30-November-2026
+
+
+
+
+Privacy Note:
+
+https://www.tcs.com/connect-with-tcs/privacy-policy
+
+
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Tata Consultancy Services by 2x
+
+See who you know
+
+Get notified about new Senior Technician jobs in City of Johannesburg, Gauteng, South Africa.
+
+Sign in to create job alert
+Jobs
+Business System Analyst jobs
+Senior Technical Lead – Secure Access & Endpoint Platforms
+Similar jobs
+Cybersecurity Principal Technical Specialist
+Cybersecurity Principal Technical Specialist
+MAZIV
+Bryanston, Gauteng, South Africa
+1 week ago
+Senior Security Technical Architect
+Senior Security Technical Architect
+NTT DATA, Inc.
+Johannesburg, Gauteng, South Africa
+3 weeks ago
+Manager, Engineering - Identity
+Manager, Engineering - Identity
+Camunda
+Johannesburg, Gauteng, South Africa
+3 days ago
+Microsoft Security Architecture Lead
+Microsoft Security Architecture Lead
+KPMG South Africa
+Johannesburg, Gauteng, South Africa
+2 weeks ago
+Principal Cloud Security Technical Architect
+Principal Cloud Security Technical Architect
+NTT DATA, Inc.
+Johannesburg, Gauteng, South Africa
+11 hours ago
+SATIC: Cybersecurity - Identity and Access Management (IAM) / Senior Manager
+SATIC: Cybersecurity - Identity and Access Management (IAM) / Senior Manager
+PwC Careers Africa
+Johannesburg, Gauteng, South Africa
+4 days ago
+Show more jobs like this 
+People also viewed
+Senior Infrastructure Specialist
+Senior Infrastructure Specialist
+
+HCLTech
+
+Johannesburg Metropolitan Area
+1 month ago
+Senior Solution Architect
+Senior Solution Architect
+
+Paracon
+
+Midrand, Gauteng, South Africa
+4 weeks ago
+Engineering Lead – Digitisation & Automation (DnA)
+Engineering Lead – Digitisation & Automation (DnA)
+
+Ovations Technologies (Pty) Ltd
+
+Johannesburg Metropolitan Area
+2 days ago
+IT Solutions Architect (Broader Africa Technology)
+IT Solutions Architect (Broader Africa Technology)
+
+RMB - Rand Merchant Bank
+
+Johannesburg, Gauteng, South Africa
+5 days ago
+Microsoft & Cloud Platform Engineer
+Microsoft & Cloud Platform Engineer
+
+PayInc
+
+Johannesburg Metropolitan Area
+4 days ago
+Solution Architect
+Solution Architect
+
+KFC
+
+Johannesburg, Gauteng, South Africa
+2 weeks ago
+National Head of Cybersecurity Practice (Director)
+National Head of Cybersecurity Practice (Director)
+
+BDO South Africa
+
+Illovo, Gauteng, South Africa
+23 hours ago
+Head, Data Governance
+Head, Data Governance
+
+Moniepoint Group
+
+Johannesburg, Gauteng, South Africa
+1 week ago
+Presales Engineer
+Presales Engineer
+
+MBCOM Technologies, Broadcom Representative
+
+City of Johannesburg, Gauteng, South Africa
+3 weeks ago
+Antimalware Specialist
+Antimalware Specialist
+
+SASSO CONSULTING
+
+Johannesburg, Gauteng, South Africa
+3 weeks ago
+Similar Searches
+Business System Analyst jobs
+556 open jobs
+Technical Analyst jobs
+4,385 open jobs
+Salesforce Administrator jobs
+56 open jobs
+Developer jobs
+6,419 open jobs
+Salesforce Consultant jobs
+54 open jobs
+Prevention Specialist jobs
+264 open jobs
+Security Operations Specialist jobs
+76 open jobs
+Corrosion Engineer jobs
+277 open jobs
+Security Technician jobs
+36 open jobs
+Director of Studies jobs
+24 open jobs
+Senior Technologist jobs
+51 open jobs
+Risk Management Specialist jobs
+410 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+You’re signed out
+Sign in for the full experience.
+Sign in Join now

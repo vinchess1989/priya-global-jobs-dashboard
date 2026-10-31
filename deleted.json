@@ -19072,5 +19072,22 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": null,
     "deletion_reason": "Deadline (2026-10-30) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Change Control Manager",
+    "company": "EirGrid Group",
+    "location": "Dublin, County Dublin, Ireland",
+    "url": "https://ie.linkedin.com/jobs/view/change-control-manager-at-eirgrid-group-4485382522",
+    "visited": "yes",
+    "matches_requirements": "yes",
+    "reason": "The role aligns perfectly with the candidate's extensive experience in configuration management, change control, and governance within regulated industries.",
+    "id": "223cea32",
+    "source": "linkedin_ie_configuration_manager",
+    "added_at": "2026-11-01T01:54:18+02:00",
+    "posted_date": "2026-10-31",
+    "deadline": "2026-10-13",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": "job_descriptions/eirgrid_group_change_control_manager_223cea32.txt",
+    "deletion_reason": "Deadline (2026-10-13) passed by more than 2 days and unreviewed"
   }
 ]
