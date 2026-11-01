@@ -1,0 +1,490 @@
+Title: Consultant D365 Functional Business Analyst
+Company: Codec
+Location: Dublin, County Dublin, Ireland
+URL: https://ie.linkedin.com/jobs/view/consultant-d365-functional-business-analyst-at-codec-4484925158
+Posted: 2026-10-30
+Deadline: N/A
+Reason: The role aligns with her experience in requirements engineering, traceability, and Azure DevOps, and it is located in Ireland, which is a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Consultant D365 Functional Business Analyst
+Codec  Dublin, County Dublin, Ireland
+2 days ago  59 applicants
+  
+
+See who Codec has hired for this role
+
+Apply
+Save
+
+Direct message the job poster from Codec
+
+Fidelma Wallace
+Fidelma Wallace
+
+As a Consultant D365 Functional Business Analyst at Codec, you will serve as a key advisor to our clients, bridging the gap between their business needs and the capabilities of Dynamics 365. You will work closely with clients to understand their processes, design efficient solutions, and ensure successful implementation and adoption.
+
+
+
+
+What’s in it for you?
+
+
+
+
+An opportunity to join Ireland’s largest Dynamics 365 team; work with great people in a fun, entrepreneurial, rewarding environment; employees are not only provided with competitive compensation but are also recognised for their achievements.
+
+Fundamentally, this job involves taking overall responsibility for eliciting, understanding and translating requirements and mapping them to the Microsoft Business Application technologies we use to deliver them. You have experience within rapid prototyping, especially within Microsoft D365 - where you are comfortable creating working interactive prototypes inside the products we have sold.
+
+
+
+
+
+
+
+
+
+
+We’re not looking for somebody to create a large requirement document and throw it over the fence to our developers to struggle with. We’re not looking for someone who is unwilling to learn new technologies or ways of working. It might suit you if you are an experienced Analyst looking for a new challenge or are a contractor who is considering moving into a stable, high profile permanent role in a successful, accomplished yet growing team. Our Team consists of 20 Hybrid Functional/Business Analysts, who have a wide range of experience at a range of levels from graduates to Senior Principal.
+
+
+
+
+As a consultant at Codec, you’ll join the team, and most importantly - be made feel part of the team, from day one.
+
+
+
+
+Key Responsibilities
+
+Responsibilities:
+
+Lead Rapid Prototyping and prescribe solutions
+
+
+
+
+· Review tender requirements, proposals, statements of work and existing discovery material to understand commitments, constraints and scope boundaries.
+
+· Facilitate workshops with business stakeholders and subject matter experts to establish problems, desired outcomes, priorities and success measures. Map current and future processes, user journeys, business rules, exceptions and operational needs.
+
+· Work with the solution architect or technical lead to shape a credible solution direction before detailed workshops.
+
+
+
+
+· Identify gaps, assumptions, dependencies and scope questions early, recording decisions and escalating unresolved issues.
+
+
+
+
+
+
+
+Make the solution tangible
+
+
+
+
+
+
+
+· Prepare and lead prototype-led workshops using D365, Power Apps, wireframes or other suitable visual tools when a working prototype is not feasible.
+
+
+
+
+
+
+
+· Demonstrate proposed processes and user experiences, helping stakeholders make informed decisions.
+
+
+
+
+
+
+
+· Assess requirements against standard functionality, configuration, customisation and integration options.
+
+
+
+
+
+
+
+· Define functional behaviour, including forms, views, workflows, validation, permissions and exception handling and contribute to conceptual data models, entity relationship diagrams and data dictionaries, with technical validation.
+
+
+
+
+
+
+
+· Capture reporting, migration, integration and non-functional requirements with the relevant specialists.
+
+
+
+
+
+
+
+Own AI-assisted requirements development
+
+
+
+
+
+
+
+· Consolidate validated discovery findings into features covering business need, outcomes, scope, personas, rules, dependencies, assumptions and acceptance expectations.
+
+
+
+
+
+
+
+· Use structured prompts and approved AI tools to summarise inputs, identify gaps and generate candidate user stories and acceptance criteria and apply a generate–critique–refine process to improve clarity, completeness, platform fit and testability.
+
+
+
+
+
+
+
+· Challenge AI outputs against source evidence, stakeholder intent and verified platform behaviour.
+
+
+
+
+
+
+
+· Produce stories that meet INVEST principles: independent, negotiable, valuable, estimable, small and testable and ensure stories express the user need and business value, with clear assumptions and measurable acceptance criteria.
+
+
+
+
+
+
+
+· Use client and project information in line with approved data handling practices.
+
+
+
+
+
+
+
+Maintain scope, approval and traceability
+
+
+
+
+
+
+
+· Maintain Azure DevOps as the authoritative delivery backlog, with clear links between features, stories, supporting evidence, tasks and tests.
+
+
+
+
+
+
+
+· Lead requirements reviews and obtain formal user-story sign-off in line with Codec’s delivery approach.
+
+
+
+
+
+
+
+· Keep prototypes, feature definitions and the approved backlog aligned as understanding develops.
+
+
+
+
+
+
+
+· Distinguish refinement within agreed scope from changes requiring impact assessment and approval.
+
+
+
+
+
+
+
+· Work with the project manager and technical lead to explain the delivery and commercial implications of proposed changes.
+
+
+
+
+
+
+
+Support delivery and acceptance
+
+
+
+
+
+
+
+· Facilitate backlog refinement and support team estimation with clear, sufficiently developed requirements.
+
+
+
+
+
+
+
+· Resolve functional questions during delivery and maintain a shared understanding across business and technical teams.
+
+
+
+
+
+
+
+· Partner with QA to ensure acceptance criteria support meaningful test coverage, including exceptions, permissions and data integrity.
+
+
+
+
+
+
+
+· Lead or support show-and-tell sessions, user acceptance testing and feedback reviews.
+
+
+
+
+
+
+
+· Identify changes to business processes and user responsibilities, working with change and adoption colleagues where required.
+
+
+
+
+
+
+
+· Contribute reusable AI prompts, templates, examples and lessons learned to improve the practice.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skills, Knowledge and Expertise
+
+
+
+
+
+
+
+What you will bring
+
+
+
+
+
+
+
+Ideally, you’ll have worked within a consultancy, or people services organisation, delivering business applications projects and understand the needs of these organisations. You’ll have worked under pressure and to tight deadlines in the past, we wont tell you that there won’t be pressure and deadlines, but with us, you are supported by a community of consultants that are there to help.
+
+
+
+
+
+
+
+We care about what you can do and how you do it, not about how you got here. You will have excellent analytical and problem-solving skills, exceptional communication skills and be results focused. You’ll understand different approaches when eliciting requirements in both waterfall and agile projects. You are the type of person who genuinely wants your customers to feel they are getting value.
+
+
+
+
+
+
+
+We are friendly, We are quick to trust. We see things through. We’re kind to each other, look up to each other, and support each other. We achieve together. We are colleagues who may sometimes disagree and that’s OK. We value people who can take a stand yet commit to deliver even when they disagree, and we understand the value in others being heard. We subject all ideas to consideration and challenge each other, but all remember that we’re
+
+
+
+
+
+
+
+
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Codec by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Microsoft Dynamics 365 Functional Consultant
+Microsoft Dynamics 365 Functional Consultant
+BearingPoint
+Dublin, County Dublin, Ireland
+2 weeks ago
+Microsoft D365 Technical Consultant
+Microsoft D365 Technical Consultant
+BearingPoint
+Dublin, County Dublin, Ireland
+2 weeks ago
+Business Central Functional Consultant
+Business Central Functional Consultant
+DB Recruitment
+Maynooth, County Kildare, Ireland
+1 week ago
+Solutions Architect – Dynamics 365
+Solutions Architect – Dynamics 365
+Cpl
+Dublin, County Dublin, Ireland
+€112,000 - €130,000
+2 weeks ago
+D365 CE & Power Platform Consultant
+D365 CE & Power Platform Consultant
+Codec
+Dublin, County Dublin, Ireland
+2 days ago
+Microsoft D365 Developer
+Microsoft D365 Developer
+ATC (part of Arvato)
+Dublin, County Dublin, Ireland
+€57,000 - €75,000
+3 months ago
+Show more jobs like this 
+People also viewed
+vCIO - Digital Transformation Lead
+vCIO - Digital Transformation Lead
+
+Nostra
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+Data & Power Platform Consultant
+Data & Power Platform Consultant
+
+Nucleo
+
+Dublin, County Dublin, Ireland
+1 week ago
+Senior Business Systems Analyst
+Senior Business Systems Analyst
+
+Johnson Controls
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+Business Analyst (Data)
+Business Analyst (Data)
+
+E-Frontiers
+
+Dublin, County Dublin, Ireland
+€400 - €480
+3 days ago
+Business Analyst
+Business Analyst
+
+Fenergo
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+Salesforce Business Analyst
+Salesforce Business Analyst
+
+Kerry
+
+Naas, County Kildare, Ireland
+1 day ago
+Senior Business Analyst
+Senior Business Analyst
+
+PFH Technology Group
+
+Dublin, County Dublin, Ireland
+4 days ago
+Senior Business Systems Analyst
+Senior Business Systems Analyst
+
+Darwin Hawkins
+
+Dublin, County Dublin, Ireland
+€80,000 - €90,000
+2 days ago
+Senior Analyst, Finance System Solutions
+Senior Analyst, Finance System Solutions
+
+Etsy
+
+Dublin, County Dublin, Ireland
+3 days ago
+Microsoft Business Central Solutions Architect
+Microsoft Business Central Solutions Architect
+
+TEKenable Ltd
+
+Dublin, County Dublin, Ireland
+2 months ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Codec
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

@@ -19089,5 +19089,22 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": "job_descriptions/eirgrid_group_change_control_manager_223cea32.txt",
     "deletion_reason": "Deadline (2026-10-13) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Senior Business Analyst",
+    "company": "PFH Technology Group",
+    "location": "Dublin, County Dublin, Ireland",
+    "url": "https://ie.linkedin.com/jobs/view/senior-business-analyst-at-pfh-technology-group-4484070664",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job posting explicitly states that no visa sponsorship is available, which disqualifies the candidate who requires sponsorship for work in Ireland.",
+    "id": "a393a4d2",
+    "source": "linkedin_ie_requirements_engineer",
+    "added_at": "2026-11-01T02:04:39+02:00",
+    "posted_date": "2026-10-28",
+    "deadline": "N/A",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
