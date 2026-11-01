@@ -1,0 +1,296 @@
+Title: Test Manager
+Company: LTM
+Location: Johannesburg, Gauteng, South Africa
+URL: https://za.linkedin.com/jobs/view/test-manager-at-ltm-4484838103
+Posted: 2026-10-31
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in quality gatekeeping, release readiness, and process standardization within regulated environments, and it is located in a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Test Manager
+LTM  Johannesburg, Gauteng, South Africa
+1 day ago  62 applicants
+  
+
+See who LTM has hired for this role
+
+Apply 
+Save
+LTM provided pay range
+
+This range is provided by LTM. Your actual pay will be based on your skills and experience — talk with your recruiter to learn more.
+
+Base pay range
+ZAR 60,000.00/mo - ZAR 80,000.00/mo
+
+Direct message the job poster from LTM
+
+Gaurav Khandelwal
+Gaurav Khandelwal
+
+We're Hiring: Test Manager (Insurance domain experience mandatory)
+
+
+
+
+1. Role purpose
+
+The QA Lead / Test Manager is the onsite quality leader for the CASC QA testers and the Onboarding Agile Release Train. Reporting into the Client’s Test Manager, the role directs the CASC testers day to day, making sure that system integration and end-to-end testing are coordinated across every team and interface on the train, and brings the QA processes used by those teams into line with Client’s QA standards.
+
+The role is a leadership and test management role rather than an execution role. Success means predictable, evidence-based quality decisions: testing that is planned against risk, integration issues surfaced early, defects triaged consistently, and release readiness reported in a form the Client’s Test Manager and ART leadership can act on.
+
+
+
+
+2. Key responsibilities
+
+Responsibilities (a) to (c) are the primary responsibilities stated by Client’s and carry the greatest weight in assessment.
+Responsibilities (d) to (h) reflect the wider QA leadership and test management scope of the Client’s RFQ and are performed in support of the primary three.
+
+
+
+
+(a) Leading the CASC QA testers – PRIMARY
+
+Plan, allocate and prioritize the daily and iteration work of the CASC QA testers in line with ART and Client’s Test Manager priorities.
+Run regular stand-ups, test progress reviews and workload balancing so that testing keeps pace with development across iterations.
+Review test cases, test evidence and defect reports produced by the testers for quality, coverage and consistency.
+Coach, mentor and onboard testers, including new joiners, and provide performance-management input to the Client’s Test Manager and LTM line managers.
+Act as the escalation point for testers on blockers, environment issues, unclear requirements and cross-team dependencies.
+
+(b) Integration testing across the Onboarding ART – PRIMARY
+
+Coordinate system integration testing (SIT) and end-to-end testing across the Scrum teams on the Onboarding ART, including third-party and other-system interfaces.
+Contribute to PI planning: identify integration test dependencies, record them on the program board and agree test milestones with teams and the RTE.
+Maintain an interface and integration inventory (APIs, services, batch and file interfaces, events) with ownership, test coverage and environment readiness for each.
+Plan integrated test cycles aligned to iterations and system demos, including entry criteria, sequencing, test data and environment bookings.
+Track cross-team integration defects and dependencies to closure and raise risks through ART forums.
+
+(c) Standardizing and aligning QA processes – PRIMARY
+
+Assess current QA practices across the CASC testers and ART teams against Client’s QA standards and document the gaps.
+Define or adopt standard templates (test strategy, test plan, test summary report), entry and exit criteria, and quality gates for Client’s gate definitions.
+Standardize the defect lifecycle, severity and priority definitions, and the triage process across teams.
+Establish requirements-to-test traceability, Definition of Ready and Definition of Done test criteria, and a common regression approach.
+Standardize status reporting, environment booking and test data request processes, then roll the standards out, train teams and measure adoption.
+
+(d) Test management and planning
+
+Prepare and maintain test approaches and test plans for releases and features in scope, aligned to the Client’s test strategy.
+Estimate test effort, schedule test activities and allocate resources across testing streams.
+Review requirements and acceptance criteria for testability; apply risk-based testing to focus coverage on the highest business and technical risks.
+Oversee functional, integration, system, regression, end-to-end and non-functional testing performed by the test teams.
+
+(e) Defects, UAT, environments, test data and release readiness
+
+Chair or support defect triage, ensure consistent prioritization and escalate blocking or high-severity defects promptly.
+Plan UAT with business users, coordinate business readiness and support UAT defect management.
+Coordinate test environment availability and test data provisioning with environment and data teams.
+Prepare release readiness assessments and go-live quality sign-off recommendations for the Client’s Test Manager, and support deployment and post-release verification.
+
+(f) Governance, risk and reporting
+
+Manage testing risks, issues, assumptions and dependencies, with mitigation plans and clear stakeholder communication.
+Produce QA metrics, dashboards and executive-level quality reports with insights and recommendations.
+Provide quality status, risk assessments and decision support to project, program and ART governance forums.
+
+(g) Automation and continuous improvement oversight
+
+Oversee the alignment of test automation with the Client’s automation strategy, including regression automation coverage and its integration into CI/CD pipelines.
+Identify improvements to testing processes, quality controls, tooling and automation maturity, and track their benefits.
+
+(h) Compliance and stakeholder collaboration
+
+Ensure testing complies with Client’s QA standards and policies, and with applicable regulatory and audit requirements, including retention of test evidence.
+Work with business, technology, delivery, architecture, security and vendor teams to keep quality objectives aligned with delivery commitments.
+
+
+
+
+Equal Opportunity Statement - LTM is proud to be an equal opportunity employer. We are committed to equal employment opportunity regardless of race, ethnicity, nationality, gender, gender-identity, gender expression, language, age, sexual orientation, religion, marital status, veteran status, socio-economic status, dis-ability or any other characteristic protected by applicable law.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Contract
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at LTM by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Test Architect jobs
+Test Manager
+Similar jobs
+Data Tester
+Data Tester
+Momentum
+Centurion, Gauteng, South Africa
+2 days ago
+Data Tester MMH261027-4
+Data Tester MMH261027-4
+Momentum
+Centurion, Gauteng, South Africa
+3 days ago
+Quality Engineering Lead
+Quality Engineering Lead
+X, bigly labs
+Johannesburg, Gauteng, South Africa
+1 week ago
+Senior Tester
+Senior Tester
+Accredited Resource Consulting Services (Pty) Ltd
+Centurion, Gauteng, South Africa
+ZAR 500,000 - ZAR 800,000
+1 week ago
+Engineering Manager - South Africa
+Engineering Manager - South Africa
+Gaming Laboratories International, LLC
+Midrand, Gauteng, South Africa
+2 days ago
+DATA QA TESTER (ETL, SQL & AUTOMATION)
+DATA QA TESTER (ETL, SQL & AUTOMATION)
+Indsafri
+Centurion, Gauteng, South Africa
+1 week ago
+Show more jobs like this 
+People also viewed
+ICP Specialist
+ICP Specialist
+
+SGS
+
+Woodmead, Gauteng, South Africa
+5 months ago
+Test Title
+Test Title
+
+University of Pennsylvania
+
+Merafong City, Gauteng, South Africa
+4 weeks ago
+Assoc Director, Quality Lead, Data Management FSP
+Assoc Director, Quality Lead, Data Management FSP
+
+IQVIA
+
+Centurion, Gauteng, South Africa
+1 week ago
+ICT SOFTWARE QUALITY SPECIALIST
+ICT SOFTWARE QUALITY SPECIALIST
+
+Impronics Digitech
+
+Johannesburg, Gauteng, South Africa
+8 months ago
+SAP UAT Lead / SAP Test Manager
+SAP UAT Lead / SAP Test Manager
+
+SASSO CONSULTING
+
+Midrand, Gauteng, South Africa
+2 weeks ago
+Quality Technician
+Quality Technician
+
+Lucy Group Ltd
+
+City of Johannesburg, Gauteng, South Africa
+2 weeks ago
+Senior Manager – Quality & Risk EQR Support
+Senior Manager – Quality & Risk EQR Support
+
+Deloitte
+
+Midrand, Gauteng, South Africa
+4 days ago
+SHEQ Manager (80105874)
+SHEQ Manager (80105874)
+
+Macsteel Service Centres SA (Pty) Ltd
+
+Pretoria, Gauteng, South Africa
+5 days ago
+Senior Manager – Quality & Risk (Q&R) Audit Technical
+Senior Manager – Quality & Risk (Q&R) Audit Technical
+
+Deloitte
+
+Midrand, Gauteng, South Africa
+4 days ago
+Head: Fire Assay and Reference Material Group at Mintek
+Head: Fire Assay and Reference Material Group at Mintek
+
+Mintek
+
+Randburg, Gauteng, South Africa
+2 weeks ago
+Similar Searches
+Test Architect jobs
+201 open jobs
+Test Coordinator jobs
+87 open jobs
+Test Team Lead jobs
+181 open jobs
+Director of Testing jobs
+472 open jobs
+Software Test Lead jobs
+53 open jobs
+Contract Test Engineer jobs
+30 open jobs
+Quality Assurance Manager jobs
+217 open jobs
+Director of Quality Assurance jobs
+102 open jobs
+Quality Engineering Manager jobs
+307 open jobs
+Performance Test Engineer jobs
+19 open jobs
+Automation Lead jobs
+160 open jobs
+System Test Engineer jobs
+3,504 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

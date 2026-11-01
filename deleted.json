@@ -19157,5 +19157,22 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": null,
     "deletion_reason": "Deadline (2025-11-11) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Nursing Manager",
+    "company": "Charisma Healthcare Solutions",
+    "location": "Worcester, Western Cape, South Africa",
+    "url": "https://za.linkedin.com/jobs/view/nursing-manager-at-charisma-healthcare-solutions-4482204055",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role requires a professional nursing license and clinical experience, which the candidate does not possess.",
+    "id": "162e446d",
+    "source": "linkedin_za_quality_manager",
+    "added_at": "2026-11-01T02:16:35+02:00",
+    "posted_date": "2026-10-04",
+    "deadline": "2026-06-14",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-06-14) passed by more than 2 days and unreviewed"
   }
 ]
