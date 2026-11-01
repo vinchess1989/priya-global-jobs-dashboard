@@ -1,9 +1,9 @@
 {
   "pid": 3936,
   "started_at": "2026-11-01T01:12:41+02:00",
-  "heartbeat_at": "2026-11-01T02:25:35+02:00",
-  "phase": "reviewing",
-  "detail": "Brand Experience- Backend Software Engineer",
-  "last_scrape_ok_at": "2026-11-01T02:24:28+02:00",
+  "heartbeat_at": "2026-11-01T02:25:52+02:00",
+  "phase": "scraped",
+  "detail": "0 new jobs",
+  "last_scrape_ok_at": "2026-11-01T02:25:52+02:00",
   "last_error": null
 }
