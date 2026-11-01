@@ -1,0 +1,301 @@
+Title: Senior DevOps Engineer (Azure)
+Company: Digital Waffle
+Location: Nottingham, England, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/senior-devops-engineer-azure-at-digital-waffle-4483467375
+Posted: 2 päivää sitten
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in DevOps, CI/CD, and infrastructure automation, and it is located in the UK, which is a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn kunnioittaa yksityisyyttäsi
+
+LinkedIn ja kolmannet osapuolet käyttävät välttämättömiä ja ei-välttämättömiä evästeitä palvelujemme tarjoamiseen, suojaamiseen, analysointiin ja parantamiseen sekä osuvien mainosten näyttämiseen sinulle (mukaan lukien ammattilais- ja työpaikkailmoitukset) LinkedInissä ja niiden ulkopuolella. Lisätietoja on evästekäytännössämme.
+
+Hyväksy ei-välttämättömien evästeiden käyttö valitsemalla Hyväksy tai estä niiden käyttö valitsemalla Hylkää. Voit päivittää valintasi milloin tahansa asetuksista.
+
+Hyväksy Hylkää
+Hyppää pääsisältöön
+LinkedIn
+Työt
+Poista teksti
+Poista teksti
+Liity nyt
+Kirjaudu sisään
+Senior DevOps Engineer (Azure)
+Digital Waffle  Nottingham, England, United Kingdom
+2 päivää sitten   Ole ensimmäisten 25 hakijan joukossa
+  
+
+Katso, kuka Digital Waffle on palkattu tähän rooliin
+
+Hae
+Tallenna
+
+Lähetä työpaikkailmoitus suoraan lähettäjältä Digital Waffle
+
+Zak Jones
+Zak Jones
+
+Role: Senior DevOps Engineer (Azure)
+
+Location: Remote, UK
+
+Salary: £75,000 – £85,000 + bonus
+
+
+
+
+Key Skills:
+
+Azure (Azure Landing Zones)
+AKS
+GitOps (ArgoCD)
+Terraform
+
+
+
+
+The Role:
+
+This is a hands-on senior engineering position with plenty of scope to influence technical direction, improve engineering standards and help shape the way cloud infrastructure is designed and delivered. You'll work closely with development, infrastructure and security teams, acting as a technical escalation point and helping drive best practice across the wider engineering function.
+
+
+
+
+What You'll Be Doing
+
+Design, build and maintain scalable Azure infrastructure using Terraform and Infrastructure as Code.
+Develop and manage production Kubernetes/AKS environments, including upgrades, security, networking and optimisation.
+Establish and improve GitOps and CI/CD practices, using tools such as GitHub Actions, Azure DevOps and ArgoCD.
+Build reusable Terraform modules, deployment templates and automation to improve consistency across environments.
+Design and maintain Azure networking, including VNets, hub-and-spoke architectures, DNS, NSGs and firewall solutions.
+Implement cloud security practices across identity, access management, container security and infrastructure.
+Develop and maintain Helm charts and standardised deployment processes for application teams.
+Introduce and improve monitoring, logging, tracing and platform observability.
+Automate repetitive processes using Python, Bash or similar scripting languages.
+Contribute to technical designs, architecture decisions and platform roadmaps.
+Help improve developer experience through tooling, documentation and self-service capabilities.
+Act as a senior technical escalation point and provide mentoring and guidance to other engineers.
+Support the continued evolution of the platform, including container orchestration, autoscaling, progressive delivery and platform security.
+
+
+
+
+What We're Looking For:
+
+You'll be an experienced DevOps/Platform Engineer with a strong background in cloud infrastructure and automation. We're looking for someone who can operate independently, get hands-on with complex technical challenges and confidently contribute to architectural discussions.
+
+
+
+
+Key experience:
+
+Strong commercial experience with Microsoft Azure.
+Extensive experience with Terraform and Infrastructure as Code.
+Strong production experience with Kubernetes, ideally AKS.
+Good understanding of Azure networking and cloud architecture.
+Experience building and maintaining CI/CD pipelines.
+Experience with GitOps, ideally using ArgoCD or a similar platform.
+Strong knowledge of Docker and containerised environments.
+Experience with Helm and Kubernetes application deployment.
+Good understanding of cloud security, IAM, RBAC and secure CI/CD practices.
+Strong Linux administration and troubleshooting skills.
+Proficiency with Python, Bash or similar scripting languages.
+Experience contributing to technical architecture, design documentation and engineering standards.
+Comfortable communicating technical concepts to both technical and non-technical stakeholders.
+Experience mentoring engineers or acting as a senior technical point of contact.
+
+
+
+
+Desirable Experience
+
+Istio or Cilium
+Argo Rollouts
+KEDA or Karpenter
+Falco or Kyverno
+Go development
+Azure Front Door
+Azure Firewall
+Entra ID and PIM
+Observability platforms such as Grafana, Loki or OpenTelemetry
+Experience working within regulated or compliance-focused environments
+
+
+
+
+Show more 
+Seniority level
+Keskijohto
+Työn tyyppi
+Kokopäiväinen
+Industries
+Ohjelmistokehitys, IT-järjestelmien räätälöity ohjelmistokehitys ja IT-palvelut ja -konsultointi
+  
+
+Lähetteet lisäävät mahdollisuuksiasi haastatteluun Digital Waffle 2x
+
+Katso, kenet tunnet
+
+Saat ilmoituksen uusista DevOps-insinööri työpaikoista .Nottingham, England, United Kingdom
+
+Kirjaudu sisään luodaksesi työpaikkahälytyksen
+Työpaikat
+Asiakasyhteyspäällikkö Työpaikkoja
+Senior DevOps Engineer (Azure)
+Samankaltaiset työpaikat
+Sr. DevOps Engineer
+Sr. DevOps Engineer
+Sphera
+Derby, England, United Kingdom
+6 päivää sitten
+Senior Azure DevOps Engineer
+Senior Azure DevOps Engineer
+Digital Waffle
+Nottingham, England, United Kingdom
+2 päivää sitten
+Principal DevOps Engineer (Azure)
+Principal DevOps Engineer (Azure)
+Digital Waffle
+Nottingham, England, United Kingdom
+2 päivää sitten
+Senior Cloud Engineer
+Senior Cloud Engineer
+Next
+Leicester, England, United Kingdom
+6 päivää sitten
+Cloud/DevOps Engineer
+Cloud/DevOps Engineer
+Caspian One
+Sheffield, England, United Kingdom
+3 päivää sitten
+DevOps Engineer
+DevOps Engineer
+Isio
+Birmingham, England, United Kingdom
+1 viikko sitten
+Show more jobs like this 
+Muita katsottuja
+Azure DevOps Engineer - SC MOD Required
+Azure DevOps Engineer - SC MOD Required
+
+IBM
+
+Leicester, England, United Kingdom
+4 päivää sitten
+Cloud Solutions Engineer
+Cloud Solutions Engineer
+
+The Woodland Trust
+
+Grantham, England, United Kingdom
+1 viikko sitten
+Cloud Engineer
+Cloud Engineer
+
+Symmetric Recruitment Ltd
+
+Lincolnshire, England, United Kingdom
+40 000,00 £ - 48 000,00 £
+6 päivää sitten
+Infrastructure Architect ALM/PLM
+Infrastructure Architect ALM/PLM
+
+Siemens
+
+Solihull, England, United Kingdom
+2 viikkoa sitten
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+
+HM Revenue & Customs
+
+Birmingham, England, United Kingdom
+1 viikko sitten
+DevOps Lead
+DevOps Lead
+
+trg.
+
+England, United Kingdom
+1 viikko sitten
+Senior Cloud & Infrastructure Analyst
+Senior Cloud & Infrastructure Analyst
+
+De Montfort University
+
+Leicester, England, United Kingdom
+44 746,00 £ - 56 535,00 £
+3 viikkoa sitten
+Devops - Senior Consultant
+Devops - Senior Consultant
+
+Opencast | B Corp™
+
+Birmingham, England, United Kingdom
+3 päivää sitten
+Senior AI & Automation Engineer
+Senior AI & Automation Engineer
+
+Klipboard
+
+Nottingham, England, United Kingdom
+2 viikkoa sitten
+Senior AI and Automations Engineer
+Senior AI and Automations Engineer
+
+Searchability®
+
+Nottingham, England, United Kingdom
+65 000,00 £ - 75 000,00 £
+1 viikko sitten
+Samankaltaisia hakuja
+Asiakasyhteyspäällikkö Työpaikkoja
+7 009 avointa työpaikkaa
+Jälkituotantotuottaja Työpaikkoja
+80 avointa työpaikkaa
+Kumppanitilijohtaja Työpaikkoja
+866 avointa työpaikkaa
+Mediatilijohtaja Työpaikkoja
+551 avointa työpaikkaa
+Web-projektipäällikkö Työpaikkoja
+1 833 avointa työpaikkaa
+Tietohallintojohtaja Työpaikkoja
+135 avointa työpaikkaa
+Markkinoinnin asiakasjohtaja Työpaikkoja
+4 491 avointa työpaikkaa
+Markkinointioperaatiokoordinoija Työpaikkoja
+1 027 avointa työpaikkaa
+Mainosprojektipäällikkö Työpaikkoja
+3 568 avointa työpaikkaa
+Markkinoinnin jatko-opiskelija Työpaikkoja
+1 668 avointa työpaikkaa
+PR asiakkuuspäällikkö Työpaikkoja
+53 avointa työpaikkaa
+Yhteistyökumppanijohtaja Työpaikkoja
+10 480 avointa työpaikkaa
+Näytä lisää 
+Lisää hakuja 
+LinkedIn
+© 2026
+Tietoja
+Saavutettavuus
+Käyttäjäsopimus
+Tietosuojakäytäntö
+Evästekäytännöt
+Tekijänoikeuskäytännöt
+Brändikäytäntö
+Vieraiden hallinta
+Yhteisön ohjeet
+Kieli
+Kirjaudu sisään nähdäksesi, keitä tunnet jo Digital Waffle
+Kirjaudu sähköpostiosoitteella
+
+tai
+
+Oletko uusi LinkedIn-käyttäjä? Liity nyt
+
+Kun liityt tai kirjaudut sisään valitsemalla Jatka, hyväksyt LinkedInin käyttäjäsopimuksen, tietosuojakäytännön ja evästekäytännön.

@@ -1,0 +1,312 @@
+Title: Principal Security Architect — DevSecOps (Group Manager II - Information Security)
+Company: UST
+Location: Nottingham, England, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/principal-security-architect-%E2%80%94-devsecops-group-manager-ii-information-security-at-ust-4468901254
+Posted: 2 viikkoa sitten
+Deadline: N/A
+Reason: The role aligns with the candidate's extensive experience in CI/CD, release management, and regulated environments, and it is located in a target country (UK) with no explicit mention of citizenship or clearance requirements.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn kunnioittaa yksityisyyttäsi
+
+LinkedIn ja kolmannet osapuolet käyttävät välttämättömiä ja ei-välttämättömiä evästeitä palvelujemme tarjoamiseen, suojaamiseen, analysointiin ja parantamiseen sekä osuvien mainosten näyttämiseen sinulle (mukaan lukien ammattilais- ja työpaikkailmoitukset) LinkedInissä ja niiden ulkopuolella. Lisätietoja on evästekäytännössämme.
+
+Hyväksy ei-välttämättömien evästeiden käyttö valitsemalla Hyväksy tai estä niiden käyttö valitsemalla Hylkää. Voit päivittää valintasi milloin tahansa asetuksista.
+
+Hyväksy Hylkää
+Hyppää pääsisältöön
+LinkedIn
+Työt
+Poista teksti
+Poista teksti
+Liity nyt
+Kirjaudu sisään
+Principal Security Architect — DevSecOps (Group Manager II - Information Security)
+UST  Nottingham, England, United Kingdom
+2 viikkoa sitten   Ole ensimmäisten 25 hakijan joukossa
+  
+
+Katso, kuka UST on palkattu tähän rooliin
+
+Hae 
+Tallenna
+Role Description
+
+Since 1999, UST has worked side by side with the world's best companies to make a powerful impact through transformation.
+
+Headquartered in the United States, UST is powered by technology, driven by AI, inspired by people, and led by our purpose, we partner with our clients from design to operation. Our AI-driven digital solutions, proprietary platforms, engineering, R&D, products, and innovation ecosystem turn core challenges into impactful, disruptive business outcomes.
+
+With deep industry knowledge and a future-ready mindset, we infuse expertise, innovation, and agility into our clients' organizations—delivering measurable value and positive lasting change for them, their customers, and communities around the world. Together, with 30,000+ employees in 30+ countries, we build for boundless impact—touching billions of lives in the process.
+
+Visit us at .
+
+UST FinX was born from a shared passion and unwavering commitment to solve one of the most pressing challenges facing the banking industry today: the technology imprisonment of banks by legacy platforms that stifle innovation, constrain growth, and diminish competitive viability. We are a team of dedicated professionals who came together with a singular vision - to liberate banks from the technological constraints that prevent them from serving their customers and communities to their full potential.
+
+We are looking for a Principal Security Architect — DevSecOps to embed security into every stage of our engineering lifecycle. This is a senior, hands-on technical leadership role — not policy-only, audit-only, or advisory.
+
+Your influence comes from designing secure engineering patterns, automating controls, building guardrails, reviewing real systems, and writing production-grade code and configuration so teams build secure platforms by default. You will define and evolve security architecture across our cloud-native platform, CI/CD pipelines, software supply chain, Kubernetes, container workloads, SaaS integrations, APIs, secrets management, IAM, and runtime controls — working directly with engineering teams to make security part of daily delivery rather than a late-stage approval.
+
+You bring a strong software engineering background, have secured production cloud-native platforms, and know how to balance security, delivery speed, developer experience, and operational resilience.
+
+You translate security principles into reusable patterns, automated checks, policy-as-code, secure defaults, and developer-friendly guardrails, and you stay close to implementation.
+
+In an increasingly AI-assisted environment, you apply engineering judgment to validate, refine, or reject generated outputs, ensuring controls are automated, observable, repeatable, and embedded rather than theoretical or manual.
+
+We value a 360-degree, merit-based culture where senior architects constructively challenge designs and help teams converge on secure, scalable patterns.
+
+What You Will Do
+
+
+Define and evolve the DevSecOps strategy for UST FinX's cloud-native banking transformation platform.
+Embed security across the SDLC — design, coding, build, test, deployment, runtime, monitoring, and incident response.
+Design and implement automated security controls across CI/CD pipelines, infrastructure provisioning, application delivery, container images, Kubernetes, and cloud services.
+Integrate and operationalize SAST, DAST, SCA, container scanning, secrets scanning, and policy-as-code.
+Define secure engineering standards and reusable guardrails that let teams move quickly within approved boundaries.
+Apply cloud-native security patterns: IAM, network segmentation, workload identity, secrets management, least privilege, zero trust, runtime security, and auditability.
+Guide secure architecture for APIs, microservices, event-driven systems, SaaS integrations, and developer tooling.
+Partner with platform, backend, DevOps, QA, product, and delivery teams so security is built in, not bolted on.
+Mentor engineers through design reviews, threat modeling, code and pipeline reviews, and pairing.
+Ensure production systems are secure, observable, resilient, compliant, and ready for regulated banking.
+
+
+This role reports directly to the CTO of UST FinX. You will operate as one of the CTO's senior technical lieutenants — creating engineering leverage across the organization while remaining deeply hands-on. You will influence multiple pods, establish reusable standards, mentor technical leaders, challenge weak designs, and turn technical direction into production-quality execution.
+
+This is neither a passive advisory role nor a traditional people-management role; your authority comes from technical credibility, judgment, and execution.
+
+Working closely with the CTO, you will define standards, identify engineering gaps, raise delivery quality, and ensure architecture is reflected in real code, platforms, and operational behaviour — a force multiplier who executes, coaches others, and resets the technical bar across UST FinX.
+
+Skills And Experience We Are Looking For
+
+
+8+ years in software, security, cloud security, DevSecOps, or platform engineering (10–15 ideal), with production platform ownership.
+Strong software engineering background — able to read real application code, system design, CI/CD workflows, infrastructure automation, and runtime behaviour.
+Proven experience securing cloud-native platforms in production.
+Deep secure-SDLC knowledge: secure design and coding, threat modeling, automated testing, vulnerability and dependency management, release controls, and production readiness.
+Integrating SAST, DAST, and SCA into CI/CD in a practical, automated, developer-usable way.
+Container security: image scanning, base-image strategy, registry controls, remediation, runtime configuration, and secure workload deployment.
+Kubernetes security: cluster hardening, namespace isolation, RBAC, admission control, network policies, workload identity, pod security, secrets, ingress, and runtime protection.
+Policy-as-code (OPA, Gatekeeper, Kyverno, or equivalent). IAM, least privilege, zero trust, workload identity, service-to-service authentication, and identity-driven security models.
+Secrets management: secure storage, rotation, access control, pipeline integration, runtime injection, and governance. Securing SaaS integrations and platform architectures: identity, access, data protection, tenant boundaries, and auditability.
+CI/CD security automation: pipeline hardening, artifact integrity, dependency controls, environment promotion, deployment approvals, rollback safety, and supply-chain security.
+Production security: reliability, auditability, scalability, incident response, monitoring, ing, and remediation.
+Strong communication — explaining architecture, risks, and trade-offs to globally distributed teams.
+Mentoring and technical leadership that raises the standard of surrounding engineers without formal authority.
+Comfortable in a global, distributed organization with multiple pods, stakeholders, and time zones.
+
+
+Preferred Qualifications
+
+
+AWS security: IAM, Organizations, networking, KMS, CloudTrail, GuardDuty, Security Hub, workload identity, private connectivity, and multi-account patterns.
+Amazon EKS or equivalent Kubernetes in production.
+IaC security: AWS CDK, Terraform, CloudFormation, static analysis, policy enforcement, and secure module design.
+GitOps security: repository controls, signed artifacts, environment promotion, drift detection, and deployment guardrails.
+Software supply-chain security: SBOMs, artifact signing, provenance, dependency controls, and build integrity.
+Observability and security monitoring: Prometheus, Grafana, CloudWatch, OpenTelemetry, SIEM, tracing, logging, and event correlation.
+API security: OAuth2/OIDC, mTLS, service mesh, gateway security, rate limiting, token validation, and service-to-service authorization.
+Financial services, banking, or regulated environments where auditability and operational control are critical.
+Building reusable security platforms, guardrails, templates, policy libraries, and paved-road patterns consumed by multiple teams.
+Living with the long-term consequences of architecture decisions — supporting, patching, auditing, scaling, migrating, and evolving secure platforms after adoption.
+
+
+What We Believe
+
+We’re proud to embrace the same values that have shaped UST since the beginning. Since day one, we’ve been building enduring relationships and a culture of integrity. And today, it's those same values that are inspiring us to encourage innovation from everyone, to champion diversity and inclusion, and to place people at the centre of everything we do.
+
+Humility
+
+We will listen, learn, be empathetic and help selflessly in our interactions with everyone.
+
+Humanity
+
+Through business, we will better the lives of those less fortunate than ourselves.
+
+Integrity
+
+We honor our commitments and act with responsibility in all our relationships.
+
+Equal Employment Opportunity Statement
+
+UST is an Equal Opportunity Employer.
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.
+
+UST reserves the right to periodically redefine your roles and responsibilities based on the requirements of the organization and/or your performance.
+
+Skills
+
+Application Security, Cloud Security, DevSecOps, Security Engineering, RBAC, SAST, CI/CD, DAST, Zero Trust, Threat Modeling, Policy as Code
+Show more 
+Seniority level
+Keskijohto
+Työn tyyppi
+Kokopäiväinen
+Industries
+IT-palvelut ja -konsultointi
+  
+
+Lähetteet lisäävät mahdollisuuksiasi haastatteluun UST 2x
+
+Katso, kenet tunnet
+
+Saat ilmoituksen uusista Tietoturvapäällikkö työpaikoista .Nottingham, England, United Kingdom
+
+Kirjaudu sisään luodaksesi työpaikkahälytyksen
+Työpaikat
+Tietoturvajohtaja Työpaikkoja
+Principal Security Architect — DevSecOps (Group Manager II - Information Security)
+Samankaltaiset työpaikat
+Principal Security Architect — DevSecOps
+Principal Security Architect — DevSecOps
+UST FinX
+England, United Kingdom
+1 viikko sitten
+Principal Security Architect - DevSecOps
+Principal Security Architect - DevSecOps
+UST FinX
+England, United Kingdom
+2 viikkoa sitten
+Technical Lead - Security Architecture & Engineering
+Technical Lead - Security Architecture & Engineering
+RiverSafe
+Sheffield, England, United Kingdom
+1 viikko sitten
+Head of Security Architecture
+Head of Security Architecture
+Delaney & Bourton
+Coventry, England, United Kingdom
+110 000,00 £ - 125 000,00 £
+6 päivää sitten
+Senior Security Architect
+Senior Security Architect
+Kainos
+Birmingham, England, United Kingdom
+1 viikko sitten
+Application Security Architect
+Application Security Architect
+Dev/Null Security
+Greater Sheffield Area
+5 päivää sitten
+Show more jobs like this 
+Muita katsottuja
+DevSecOps Engineer
+DevSecOps Engineer
+
+Dunelm
+
+Leicester, England, United Kingdom
+1 viikko sitten
+Presales DevOps Architect
+Presales DevOps Architect
+
+Atos
+
+England, United Kingdom
+2 päivää sitten
+Senior Application Security Consultant
+Senior Application Security Consultant
+
+NTT DATA
+
+Birmingham, England, United Kingdom
+3 viikkoa sitten
+Security Architect Consultant
+Security Architect Consultant
+
+NTT DATA
+
+Birmingham, England, United Kingdom
+3 viikkoa sitten
+Cybersecurity Architecture Manager, Technology and Digital Services
+Cybersecurity Architecture Manager, Technology and Digital Services
+
+Deloitte
+
+England, United Kingdom
+1 viikko sitten
+Cyber Security Manager
+Cyber Security Manager
+
+Investigo
+
+Birmingham, England, United Kingdom
+65 000,00 £ - 74 000,00 £
+2 viikkoa sitten
+Principal Enterprise Architect
+Principal Enterprise Architect
+
+The Insolvency Service
+
+Staffordshire, England, United Kingdom
+1 viikko sitten
+Principal Security Architect
+Principal Security Architect
+
+Experis UK
+
+England, United Kingdom
+2 viikkoa sitten
+Enterprise Architect
+Enterprise Architect
+
+Caspian One
+
+Sheffield, England, United Kingdom
+3 päivää sitten
+Lead Cyber Security Risk Manager
+Lead Cyber Security Risk Manager
+
+UK Home Office
+
+Sheffield, England, United Kingdom
+1 viikko sitten
+Samankaltaisia hakuja
+Tietoturvajohtaja Työpaikkoja
+336 avointa työpaikkaa
+Järjestelmän tietoturvapäällikkö Työpaikkoja
+203 avointa työpaikkaa
+Tietoturvajohtaja Työpaikkoja
+279 avointa työpaikkaa
+Tietoturvavastaava Työpaikkoja
+1 028 avointa työpaikkaa
+Tietoturvaneuvoja Työpaikkoja
+381 avointa työpaikkaa
+Tietoturva-arkkitehti Työpaikkoja
+645 avointa työpaikkaa
+Tietoturvakonsultti Työpaikkoja
+1 028 avointa työpaikkaa
+Tietoturvajohtaja Työpaikkoja
+175 avointa työpaikkaa
+Turvallisuusriskipäällikkö Työpaikkoja
+741 avointa työpaikkaa
+Verkkoturvallisuuden päällikkö Työpaikkoja
+453 avointa työpaikkaa
+Tietoturvasuunnittelija Työpaikkoja
+1 810 avointa työpaikkaa
+Operatiivinen tietoturvapäällikkö Työpaikkoja
+1 084 avointa työpaikkaa
+Näytä lisää 
+Lisää hakuja 
+LinkedIn
+© 2026
+Tietoja
+Saavutettavuus
+Käyttäjäsopimus
+Tietosuojakäytäntö
+Evästekäytännöt
+Tekijänoikeuskäytännöt
+Brändikäytäntö
+Vieraiden hallinta
+Yhteisön ohjeet
+Kieli
+Kirjaudu sisään nähdäksesi, keitä tunnet jo UST
+Kirjaudu sähköpostiosoitteella
+
+tai
+
+Oletko uusi LinkedIn-käyttäjä? Liity nyt
+
+Kun liityt tai kirjaudut sisään valitsemalla Jatka, hyväksyt LinkedInin käyttäjäsopimuksen, tietosuojakäytännön ja evästekäytännön.

@@ -1,0 +1,319 @@
+Title: Cloud Automation Engineer
+Company: Apache Associates
+Location: Nottingham, England, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/cloud-automation-engineer-at-apache-associates-4482871436
+Posted: 1 viikko sitten
+Deadline: N/A
+Reason: The role aligns perfectly with the candidate's extensive background in DevOps, CI/CD pipeline ownership, and automation, and it is located in the UK, which is a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn kunnioittaa yksityisyyttäsi
+
+LinkedIn ja kolmannet osapuolet käyttävät välttämättömiä ja ei-välttämättömiä evästeitä palvelujemme tarjoamiseen, suojaamiseen, analysointiin ja parantamiseen sekä osuvien mainosten näyttämiseen sinulle (mukaan lukien ammattilais- ja työpaikkailmoitukset) LinkedInissä ja niiden ulkopuolella. Lisätietoja on evästekäytännössämme.
+
+Hyväksy ei-välttämättömien evästeiden käyttö valitsemalla Hyväksy tai estä niiden käyttö valitsemalla Hylkää. Voit päivittää valintasi milloin tahansa asetuksista.
+
+Hyväksy Hylkää
+Hyppää pääsisältöön
+LinkedIn
+Työt
+Poista teksti
+Poista teksti
+Liity nyt
+Kirjaudu sisään
+Cloud Automation Engineer
+Apache Associates  Nottingham, England, United Kingdom
+1 viikko sitten  26 Hakijoiden
+  
+
+Katso, kuka Apache Associates on palkattu tähän rooliin
+
+Hae
+Tallenna
+
+Lähetä työpaikkailmoitus suoraan lähettäjältä Apache Associates
+
+Glen Bird
+Glen Bird
+
+We are looking for a Cloud Automation Engineer to help drive the design, development, and delivery of cloud automation, Infrastructure as Code (IaC), and AI-powered solutions across Microsoft Azure and Oracle Cloud Infrastructure (OCI).
+
+
+
+
+The role focuses on improving the way cloud infrastructure and operations are delivered through automation, standardisation, and emerging technologies. You will identify opportunities to eliminate repetitive manual tasks, streamline provisioning, strengthen operational resilience, and improve recovery times across online products and services.
+
+
+
+
+You will design and implement complex automation solutions, develop reusable engineering frameworks, and contribute to the evolution of cloud engineering practices. This includes leveraging AI and large language models (LLMs) to enhance operational efficiency, support decision-making, and improve service delivery, while maintaining strong human insight, collaboration, and communication.
+
+
+
+
+Working closely with Cloud Operations and associated technology teams, you will promote an automation-first approach, share knowledge, and help build engineering capabilities across the organisation. You will champion security, quality, and continuous improvement, ensuring solutions are scalable, reliable, compliant, and secure by design.
+
+
+
+
+We value people who are curious about AI and emerging technologies, open to change, and motivated to learn and apply new approaches that improve operational effectiveness and customer outcomes.
+
+
+
+
+Key Responsibilities
+
+
+
+
+Design, develop, and deliver complex automation, Infrastructure as Code (IaC), and AI-powered solutions across Azure and Oracle Cloud Infrastructure (OCI).
+Develop and maintain reusable automation frameworks, engineering standards, and technical patterns that improve consistency, scalability, and operational efficiency.
+Promote automation-first and AI-enabled ways of working by introducing innovative capabilities that enhance cloud operations and service delivery.
+Identify and lead opportunities to automate infrastructure provisioning, reduce manual effort, minimise operational toil, and improve resilience.
+Design, implement, and maintain Infrastructure as Code solutions using industry-standard tools and practices to enable secure, reliable, and repeatable deployments.
+Build, maintain, and optimise CI/CD pipelines to support efficient, automated, and compliant deployment processes.
+Develop and integrate AI- and LLM-assisted tooling, agents, and workflows to improve operational processes and support engineering teams.
+Embed security, identity management, access controls, and secrets management into automation solutions, applying secure-by-design principles.
+Improve system resilience, disaster recovery, recovery capabilities, and operational performance through robust automation and engineering practices.
+Apply cost-optimisation and FinOps principles to cloud provisioning and automation processes, improving resource utilisation and reducing unnecessary expenditure.
+Provide technical guidance and act as a subject matter expert across cloud engineering, automation, Infrastructure as Code, and AI initiatives.
+Support the development of engineering capabilities through mentoring, coaching, technical guidance, and knowledge sharing.
+Conduct code reviews, deliver technical workshops, and share best practices to promote high-quality, maintainable, and secure engineering solutions.
+Collaborate with Cloud Operations, security, development, and other technology teams to evaluate, implement, and optimise cloud platforms, automation frameworks, and AI tooling.
+Champion engineering standards that strengthen security, compliance, reliability, and the protection of customer data and services.
+Contribute to continuous improvement initiatives and the development of cloud automation strategies, standards, and capabilities across the organisation.
+Encourage a collaborative, innovative, and learning-focused culture that embraces modern cloud technologies, automation, and AI.
+Support technical decision-making and provide guidance on complex engineering challenges when required.
+Ensure all automation and cloud solutions align with organisational security, compliance, governance, and operational requirements.
+
+
+
+
+Skills, Knowledge and Experience
+
+
+
+
+Required Qualifications and Experience
+
+
+
+
+Minimum of 10 years' relevant experience in cloud engineering, automation, infrastructure engineering, DevOps, or a related technical discipline.
+Extensive hands-on experience in automation and scripting across multiple programming and scripting languages, such as Python, PowerShell, and Bash.
+Advanced experience with Infrastructure as Code across Microsoft Azure and Oracle Cloud Infrastructure (OCI), including tools such as Terraform and Azure Bicep.
+Proven experience designing, developing, and delivering complex automation frameworks and CI/CD solutions.
+Practical experience building, integrating, or operating AI- and LLM-assisted tooling, agents, or automation workflows.
+Strong understanding of cloud security, identity and access management, Microsoft Entra ID, OCI IAM, and secrets management.
+Solid understanding of operational resilience, disaster recovery, failover strategies, and recovery objectives, including RTO and RPO.
+Experience designing secure, scalable, reliable, and maintainable cloud solutions in production environments.
+Strong problem-solving skills, with the ability to identify opportunities to simplify processes and improve operational efficiency through automation.
+Demonstrable experience providing technical guidance, mentoring engineers, and contributing to engineering standards and best practices.
+Strong communication and collaboration skills, with the ability to explain technical concepts and work effectively with cross-functional teams.
+
+
+
+
+Preferred Qualifications and Experience
+
+
+
+
+Experience applying FinOps principles and using automation to optimise cloud expenditure and resource utilisation.
+Familiarity with security and compliance frameworks and regulatory requirements, including ISO 27001, SOC 2, and GDPR.
+Experience developing reusable engineering frameworks, shared tooling, and standardised automation patterns.
+Knowledge of containerisation and orchestration technologies, such as Docker and Kubernetes.
+Experience with cloud monitoring, observability, incident response, and automated remediation.
+Familiarity with AI governance, secure AI integration, and the operational considerations of deploying LLM-powered solutions.
+Experience supporting enterprise-scale cloud environments and improving service reliability through automation.
+
+
+
+
+AI and Continuous Improvement
+
+
+
+
+We recognise the growing role of AI and emerging technologies in improving productivity, decision-making, and customer outcomes. We are looking for people who are curious about the potential of AI, willing to experiment responsibly, and committed to continuously learning and adapting as technologies evolve.
+
+
+
+
+The successful candidate will help identify practical opportunities to apply AI and automation, ensuring these capabilities deliver measurable benefits while maintaining appropriate security, governance, reliability, and human oversight.
+
+Show more 
+Seniority level
+Keskijohto
+Työn tyyppi
+Kokopäiväinen
+Industries
+Teknologia, tietopalvelut ja media, IT-palvelut ja -konsultointi ja IT-järjestelmien räätälöity ohjelmistokehitys
+  
+
+Lähetteet lisäävät mahdollisuuksiasi haastatteluun Apache Associates 2x
+
+Katso, kenet tunnet
+
+Saat ilmoituksen uusista Automaatiosuunnittelija työpaikoista .Nottingham, England, United Kingdom
+
+Kirjaudu sisään luodaksesi työpaikkahälytyksen
+Työpaikat
+vanhempi automaatiosuunnittelija Työpaikkoja
+Cloud Automation Engineer
+Samankaltaiset työpaikat
+AWS IaaS Sys Admin
+AWS IaaS Sys Admin
+Accenture UK & Ireland
+Birmingham, England, United Kingdom
+2 viikkoa sitten
+Cloud Automation Engineer
+Cloud Automation Engineer
+Apache Associates
+Barnsley, England, United Kingdom
+1 viikko sitten
+DevOps Engineer
+DevOps Engineer
+LSEG
+Nottingham, England, United Kingdom
+6 päivää sitten
+Platform Engineer
+Platform Engineer
+Axway
+Sheffield, England, United Kingdom
+2 viikkoa sitten
+Senior Cloud Engineer
+Senior Cloud Engineer
+Next
+Leicester, England, United Kingdom
+6 päivää sitten
+DevOps Engineer
+DevOps Engineer
+Government Property Agency
+Greater Nottingham
+1 viikko sitten
+Show more jobs like this 
+Muita katsottuja
+Senior AI & Automation Engineer
+Senior AI & Automation Engineer
+
+Klipboard
+
+Nottingham, England, United Kingdom
+2 viikkoa sitten
+Technical Engineer (IT Operations)
+Technical Engineer (IT Operations)
+
+Hollis
+
+Nottingham, England, United Kingdom
+1 viikko sitten
+Cloud Engineer
+Cloud Engineer
+
+Symmetric Recruitment Ltd
+
+Lincolnshire, England, United Kingdom
+40 000,00 £ - 48 000,00 £
+6 päivää sitten
+DevOps Engineer
+DevOps Engineer
+
+Isio
+
+Birmingham, England, United Kingdom
+1 viikko sitten
+Infrastructure Architect ALM/PLM
+Infrastructure Architect ALM/PLM
+
+Siemens
+
+Solihull, England, United Kingdom
+2 viikkoa sitten
+Senior AI and Automations Engineer
+Senior AI and Automations Engineer
+
+Searchability®
+
+Nottingham, England, United Kingdom
+65 000,00 £ - 75 000,00 £
+1 viikko sitten
+Infrastructure Engineer, Systems
+Infrastructure Engineer, Systems
+
+bet365
+
+Stoke-On-Trent, England, United Kingdom
+4 päivää sitten
+Lead DevOps Engineer
+Lead DevOps Engineer
+
+DWP Digital
+
+Sheffield, England, United Kingdom
+75 026,00 £ - 92 522,00 £
+2 viikkoa sitten
+AWS Tech Architecture Specialist
+AWS Tech Architecture Specialist
+
+Accenture UK & Ireland
+
+Birmingham, England, United Kingdom
+2 viikkoa sitten
+Senior AI & Automation Engineer
+Senior AI & Automation Engineer
+
+Klipboard
+
+South Yorkshire, England, United Kingdom
+1 päivä sitten
+Samankaltaisia hakuja
+vanhempi automaatiosuunnittelija Työpaikkoja
+4 085 avointa työpaikkaa
+Automaatioprojektisuunnittelija Työpaikkoja
+123 avointa työpaikkaa
+Prosessiautomaatiosuunnittelija Työpaikkoja
+1 497 avointa työpaikkaa
+Järjestelmäpalveluinsinööri Työpaikkoja
+4 170 avointa työpaikkaa
+Ohjelmistoautomaatioinsinööri Työpaikkoja
+3 592 avointa työpaikkaa
+Laadunvarmistuksen automaatioinsinööri Työpaikkoja
+750 avointa työpaikkaa
+Koeohjelmistokehittäjä Työpaikkoja
+1 086 avointa työpaikkaa
+Ohjelmointisuunnittelija Työpaikkoja
+885 avointa työpaikkaa
+Verkon järjestelmäanalyytikko Työpaikkoja
+375 avointa työpaikkaa
+Scada-suunnittelija Työpaikkoja
+5 066 avointa työpaikkaa
+Automaatioasiantuntija Työpaikkoja
+21 996 avointa työpaikkaa
+Sähkökunnossapitoinsinööri Työpaikkoja
+3 793 avointa työpaikkaa
+Näytä lisää 
+Lisää hakuja 
+LinkedIn
+© 2026
+Tietoja
+Saavutettavuus
+Käyttäjäsopimus
+Tietosuojakäytäntö
+Evästekäytännöt
+Tekijänoikeuskäytännöt
+Brändikäytäntö
+Vieraiden hallinta
+Yhteisön ohjeet
+Kieli
+Kirjaudu sisään nähdäksesi, keitä tunnet jo Apache Associates
+Kirjaudu sähköpostiosoitteella
+
+tai
+
+Oletko uusi LinkedIn-käyttäjä? Liity nyt
+
+Kun liityt tai kirjaudut sisään valitsemalla Jatka, hyväksyt LinkedInin käyttäjäsopimuksen, tietosuojakäytännön ja evästekäytännön.
