@@ -1,0 +1,224 @@
+Title: DevOps Engineer
+Company: Intuition IT Solutions
+Location: Greater Dublin
+URL: https://ie.linkedin.com/jobs/view/devops-engineer-at-intuition-it-solutions-4483450325
+Posted: 2026-10-31
+Deadline: Open until filled
+Reason: The role aligns with the candidate's expertise in CI/CD, release management, and operational gating, and is located in an eligible country (Ireland) with no mention of visa restrictions.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+Intuition IT Solutions  Greater Dublin
+2 days ago  67 applicants
+  
+
+See who Intuition IT Solutions has hired for this role
+
+Apply
+Save
+
+Job Title: DevOps Engineer (SRE & Production Support)
+
+Location: Dublin, Ireland (Hybrid)
+
+Employment Type: Permanent
+
+
+
+
+Job Description:
+
+Plan, manage, and oversee all aspects of a Production Environment
+Define strategies for Application Performance Monitoring, Optimization in Prod environment
+Respond to Incidents and improvise a platform based on feedback and measure the reduction of incidents over time.
+Support the deployment of code into multiple lower environments. Supporting current processes with an emphasis on automating everything as soon as possible.
+Design, develop, and standardize the monitoring and Alerting mechanism for the supported applications.
+Take a holistic approach to problem solving, by connecting the dots during a production event through the various technology stack that makes up the platform, to optimize the mean time to recover.
+Engage in and improve the whole lifecycle of services—from inception and design, through deployment, operation and refinement.
+Analyze ITSM activities of the platform and provide feedback loop to development teams on operational gaps or resiliency concerns.
+Support services before they go live through activities such as system design consulting, capacity planning and launch reviews.
+Support the application CI/CD pipeline for promoting software into higher environments through validation and operational gating, and lead in DevOps automation and best practices.
+Maintain services once they are live by measuring and monitoring availability, latency and overall system health.
+Scale systems sustainably through mechanisms like automation and evolving systems by pushing for changes that improve reliability and velocity.
+Work with a global team spread across tech hubs in multiple geographies and time zones.
+Ability to share knowledge and explain processes and procedures to others.
+Share knowledge and mentor junior resources
+Able to perform on-call duties on a rotational basis.
+Occasional off-hours work required.
+Candidate should have an inclination for Training and should be a good trainer and ready to mentor others
+
+Required Skills
+
+Linux
+Shell Scripting
+ITIL / ITSM
+SQL - Basic / Good to have
+Application Troubleshooting
+Ansible/Chef (Basic)
+Any Monitoring tool (preferred: Splunk/Dynatrace)
+Jenkins - CI/CD
+Groovy Scripting/YAML
+Git basic/bit bucket
+
+Nice to Have
+
+Payments domain experience (Payment Flows, Switching, Authorization, Settlements)
+Event-Driven Architecture experience
+Exposure to distributed or cloud-native environments.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Intuition IT Solutions by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Greater Dublin.
+
+Sign in to create job alert
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+Susquehanna International Group
+Dublin, County Dublin, Ireland
+1 week ago
+DevOps Engineer | Hybrid | Dublin | Up to €65K
+DevOps Engineer | Hybrid | Dublin | Up to €65K
+Ingenio Global
+Dublin, County Dublin, Ireland
+5 days ago
+DevOps Engineer
+DevOps Engineer
+Intuition IT Solutions
+Dublin, County Dublin, Ireland
+3 days ago
+Site Reliability Engineer, Dublin
+Site Reliability Engineer, Dublin
+Apple
+Dublin, County Dublin, Ireland
+5 months ago
+Site Reliability Engineer - Cloud Infrastructure
+Site Reliability Engineer - Cloud Infrastructure
+TikTok
+Dublin, County Dublin, Ireland
+1 week ago
+Site Reliability Engineer
+Site Reliability Engineer
+Apple
+Dublin, County Dublin, Ireland
+3 months ago
+Show more jobs like this 
+People also viewed
+Site Reliability Engineer
+Site Reliability Engineer
+
+SPERTON Norway - Where Great People Meet
+
+Dublin, County Dublin, Ireland
+3 days ago
+AI Platform DevOps Engineer
+AI Platform DevOps Engineer
+
+The Clorox Company
+
+Dublin, County Dublin, Ireland
+4 days ago
+Platform Engineer
+Platform Engineer
+
+Pepper Advantage
+
+Dublin, County Dublin, Ireland
+5 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+MCS Group | Your Specialist Recruitment Consultancy
+
+Dublin, County Dublin, Ireland
+€80,000 - €90,000
+4 days ago
+Cloud Engineer
+Cloud Engineer
+
+GemPool Recruitment
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+SRE Lead
+SRE Lead
+
+Fiserv
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+DOCOsoft
+
+Dublin, County Dublin, Ireland
+1 month ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+ElevenLabs
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+Production Systems Engineer
+Production Systems Engineer
+
+Meta
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+Kubernetes Engineer
+Kubernetes Engineer
+
+InterSystems
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
