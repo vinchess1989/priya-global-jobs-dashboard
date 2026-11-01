@@ -19174,5 +19174,22 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": null,
     "deletion_reason": "Deadline (2026-06-14) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Product Owner",
+    "company": "iGamingRecruitment.io",
+    "location": "Malta",
+    "url": "https://mt.linkedin.com/jobs/view/product-owner-at-igamingrecruitment-io-4485317420",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is a Product Owner position focused on feature delivery and backlog management, which falls under the 'Pure Feature-Development' hard rejection criteria for this candidate.",
+    "id": "bfa039c0",
+    "source": "linkedin_mt_requirements_engineer",
+    "added_at": "2026-11-01T02:24:27+02:00",
+    "posted_date": "2026-10-31",
+    "deadline": "2025-11-03",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Deadline (2025-11-03) passed by more than 2 days and unreviewed"
   }
 ]
