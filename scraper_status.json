@@ -1,9 +1,9 @@
 {
   "pid": 3936,
   "started_at": "2026-11-01T01:12:41+02:00",
-  "heartbeat_at": "2026-11-01T02:18:16+02:00",
+  "heartbeat_at": "2026-11-01T02:20:40+02:00",
   "phase": "reviewing",
-  "detail": "Regulations Engineer",
-  "last_scrape_ok_at": "2026-11-01T02:16:57+02:00",
+  "detail": "Analyst Access portfolio",
+  "last_scrape_ok_at": "2026-11-01T02:19:39+02:00",
   "last_error": null
 }
