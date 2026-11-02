@@ -1,9 +1,9 @@
 {
   "pid": 44856,
   "started_at": "2026-11-03T01:14:00+02:00",
-  "heartbeat_at": "2026-11-03T01:42:33+02:00",
+  "heartbeat_at": "2026-11-03T01:47:28+02:00",
   "phase": "reviewing",
-  "detail": "Senior DevOps Engineer",
-  "last_scrape_ok_at": "2026-11-03T01:40:12+02:00",
+  "detail": "Salesforce Product Owner",
+  "last_scrape_ok_at": "2026-11-03T01:44:24+02:00",
   "last_error": null
 }
