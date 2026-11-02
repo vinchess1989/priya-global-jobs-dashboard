@@ -1,0 +1,216 @@
+Title: Senior DevOps Engineer
+Company: Singtel
+Location: Singapore, Singapore
+URL: https://sg.linkedin.com/jobs/view/senior-devops-engineer-at-singtel-4486441059
+Posted: 2026-11-03
+Deadline: N/A
+Reason: This Senior DevOps Engineer role in Singapore aligns with Priya's extensive background in CI/CD pipelines, release management, automation (Python, Bash), and infrastructure tooling.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer
+Singtel  Singapore, Singapore
+4 hours ago   Be among the first 25 applicants
+  
+
+See who Singtel has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+We are looking for an experienced DevOps Engineer for our Enterprise Platforms Engineering team who demonstrates a strong commitment to engineering excellence, communicates effectively, and can work with teams with various levels of experience to help create solutions to a wide range of problems.
+
+This role will be responsible for the design, build, and delivery of software development infrastructure to support Singtel internal tools and platform development. Partnering closely with different teams in Singtel, this position will help direct project teams toward automated codebase deployment that satisfies business needs and aligns with Singtel’s IT & Security strategy.
+
+You should be someone who brings new thinking and is motivated by the challenge of driving change and adopting new technologies. We are looking for someone who can work independently, take initiative and build trusting relationships across teams. The successful candidate will champion the application of industry best practices, cloud architecture strategies, and engineering standards to ensure successful cloud solutions across a wide variety of projects. This role will help drive technology standards, evolution, and governance for cloud, and as required, will evolve cloud standards to address emerging business requirements.
+
+Responsibilities
+
+
+Platform Engineering & Delivery: Design, build, deploy and operate highly available platform environments across on-premises, private cloud and public cloud infrastructure. Support end-to-end customer/platform delivery from infrastructure readiness through production handover.
+Kubernetes & Infrastructure Operations: Deploy, administer, upgrade and troubleshoot Kubernetes clusters, Linux systems, virtualization, networking, storage, load balancers and supporting platform services.
+Automation & GitOps: Automate infrastructure and application deployment using Terraform, Ansible, scripting, CI/CD and GitOps/ArgoCD, reducing manual operations and improving consistency.
+Production Reliability: Monitor production environments, respond to incidents, perform structured troubleshooting and RCA, and implement preventive improvements. Maintain HA, backup, restore and DR capabilities.
+Security & Compliance: Perform vulnerability remediation, patching, security hardening, certificate/secrets management and access-control reviews, working with security teams to address CVE/CIS/audit findings.
+Lifecycle Management: Manage OS, Kubernetes and platform component upgrades, patching, certificates and technology end-of-life remediation.
+Delivery Ownership: Proactively identify blockers, dependencies and delivery risks, communicate them early, and drive cross-team resolution to meet project and customer commitments.
+Operational Readiness: Produce SOPs, runbooks, architecture/deployment documentation, RCA reports and operational handover materials; provide knowledge transfer to support teams.
+Technical Leadership: Mentor engineers, establish engineering standards, evaluate technologies and continuously improve automation, reliability, security and ways of working.
+
+
+Requirements
+
+
+Bachelor's degree in Computer Science, Information Technology, Mathematics, Science, Engineering or a related technical discipline, or equivalent relevant professional experience
+Minimum 8+ years of relevant IT experience, or equivalent demonstrated expertise, with strong hands-on experience in DevOps, Platform Engineering, SRE or Infrastructure Engineering.
+Hands-on experience in Linux/Ubuntu and Kubernetes administration, operations and troubleshooting.
+Understanding of networking and connectivity troubleshooting, including TCP/IP, DNS, VLAN, NAT, firewall, VPN, load balancing and TLS.
+Experience with IaC, configuration automation, CI/CD and GitOps, using tools such as Terraform, Ansible, Jenkins and ArgoCD or equivalent.
+Strong scripting and automation skills using Python, Bash or equivalent, with good Git fundamentals.
+Experience with production operations, monitoring/observability, incident troubleshooting, RCA and service recovery.
+Working knowledge of security hardening, vulnerability remediation, access control, secrets and certificate management.
+Ability to independently troubleshoot unfamiliar issues, identify blockers early and drive resolution across application, infrastructure, network, security and vendor teams.
+Experience or exposure to on-premises virtualization, distributed storage, public cloud (AWS/Azure/GCP) and bare-metal provisioning.
+Familiarity with supporting platform technologies such as API gateways, databases, Vault, Kafka and service mesh; relevant Kubernetes/Linux/cloud certifications are advantageous.
+
+
+Your Career Growth Starts Here. Apply Now!
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Telecommunications
+  
+
+Referrals increase your chances of interviewing at Singtel by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Senior Devops Engineer
+Senior Devops Engineer
+Grab
+Singapore, Singapore
+5 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Singtel
+Singapore, Singapore
+5 days ago
+Senior DevOps Engineer (GATD)
+Senior DevOps Engineer (GATD)
+Rakuten Asia Pte Ltd
+Singapore
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+StarHub
+Singapore, Singapore
+3 days ago
+DevOps Engineer
+DevOps Engineer
+Merquri
+Singapore, Singapore
+2 weeks ago
+Cloud Senior DevOps Engineer
+Cloud Senior DevOps Engineer
+Bitdeer (NASDAQ: BTDR)
+Singapore
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Senior / Lead Site Reliability Engineer | SRE | DevOps
+Senior / Lead Site Reliability Engineer | SRE | DevOps
+
+Reolink
+
+Singapore
+3 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+RiDiK (a Subsidiary of CLPS. Nasdaq: CLPS)
+
+Singapore, Singapore
+13 hours ago
+DevOps Engineer (AVP)
+DevOps Engineer (AVP)
+
+OCBC
+
+Singapore, Singapore
+2 days ago
+Senior Cloud Engineer
+Senior Cloud Engineer
+
+Bond Financial Group
+
+Singapore, Singapore
+3 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+stakefish
+
+Singapore
+$130,000 - $180,000
+4 weeks ago
+Senior Engineer, IT System (DevOps)
+Senior Engineer, IT System (DevOps)
+
+The Univac Group
+
+Woodlands, North Region, Singapore
+2 weeks ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+
+Venti
+
+Singapore, Singapore
+2 months ago
+DevOps Engineer
+DevOps Engineer
+
+Openhill Global
+
+Singapore, Singapore
+3 months ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+Razer
+
+Singapore
+1 week ago
+Senior Cloud Engineer
+Senior Cloud Engineer
+
+Singtel
+
+Singapore, Singapore
+3 days ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
