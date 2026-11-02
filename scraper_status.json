@@ -1,9 +1,9 @@
 {
   "pid": 23316,
   "started_at": "2026-11-02T01:13:21+02:00",
-  "heartbeat_at": "2026-11-02T02:27:00+02:00",
-  "phase": "reviewing",
-  "detail": "Experienced Analyst Technical Product Manager",
-  "last_scrape_ok_at": "2026-11-02T02:25:05+02:00",
+  "heartbeat_at": "2026-11-02T02:27:24+02:00",
+  "phase": "scraped",
+  "detail": "0 new jobs",
+  "last_scrape_ok_at": "2026-11-02T02:27:24+02:00",
   "last_error": null
 }
