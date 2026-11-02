@@ -1,0 +1,285 @@
+Title: DevOps Specialist
+Company: Vancouver Coastal Health
+Location: Vancouver, British Columbia, Canada
+URL: https://ca.linkedin.com/jobs/view/devops-specialist-at-vancouver-coastal-health-4467631315
+Posted: 2026-10-04
+Deadline: Open until filled
+Reason: This DevOps Specialist role in Canada matches her extensive background in CI/CD pipeline ownership, branching strategies, release automation, and Python/Bash scripting.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Specialist
+Vancouver Coastal Health  Vancouver, British Columbia, Canada
+1 month ago   Over 200 applicants
+  
+
+See who Vancouver Coastal Health has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Come work as a DevOps Specialist with Vancouver Coastal Health (VCH)!
+
+Here at VCH, we are looking for a DevOps Specialist to join our new Data & AI Enablement team, who will design and operate the infrastructure that gets our AI capabilities (e.g. agents, NLP pipelines, analytics workflows) into production reliably and keeps them running well. We are looking for someone on who has experience with deployment automation, monitoring, observability, and cost management for AI work, with a particular focus on agent-based systems. Experience with Databricks or the Microsoft Stack is an asset, as you will be setting up the infrastructure, designing processes and implementing best practices for the team.
+
+As a DevOps Specialist with Vancouver Coastal Health you will:
+
+
+Support the organization’s various data analytics initiatives by streamlining and automating the processes for building, testing, deploying, and maintaining solutions across on-premises, public, private, and hybrid cloud environments.
+Support projects covering all programs/services within Data and Analytics and throughout Vancouver Coastal Health (VCH).
+As a key member of the department’s team, be responsible for applying modern techniques such as Infrastructure as Code (IaC), Continuous Integration and Continuous Deployment (CI/CD) to ensure that data development and releases are automated, scalable, efficient, and reliable in secure environments.
+Work closely with project managers, leadership and other functions across the department and VCH.
+Collaborate with various other health authority data architects, PHSA IMITS technical teams, VCH business and analytics teams, external vendors (e.g. Microsoft, AWS) and other internal or external teams on cross-functional projects.
+Apply strong design and technical expertise with a primary focus of constantly improving Data and Analytics’ ability to deliver and promote on-premises and cloud-based data solutions within the approved enterprise environments.
+
+
+This work is framed within VCH’s commitments to our pillars of Indigenous Cultural Safety, Anti-Racism, Equity, Diversity and Inclusion, and Planetary Health.
+
+The hours of work including days off and work area may be subject to change consistent with operational requirements and the provision of the Collective Agreement and applicable statutes. Successful applicants may be required to complete a Criminal Records Review Check.
+
+As per Ministry of Health policy, all health care workers working in publicly-funded health care facilities are required to report their past receipt of certain vaccines or history of certain infections. Collecting these records will allow for offering of any missing vaccines, and for appropriate actions to be taken in the event of any future exposure to a communicable disease or during outbreaks. For all new hires and appointments to Vancouver Coastal Health, you will be asked to provide this information as part of the onboarding process.
+
+Why Join Vancouver Coastal Health (VCH)
+
+VCH is a world class innovator in medical care, research and teaching, delivering service to more than one million BC residents. At VCH, we embrace thinking boldly, taking smart risks, and 'going first' when we believe it will lead to the best possible outcomes for patients and their families. We invite you to join us in creating healthy lives in healthy communities by showcasing our passion for care, connection to the communities we serve and our culture of teamwork that makes VCH a great place to work.
+
+
+Comprehensive health benefits package, including MSP, extended health and dental and municipal pension plan
+Grow your career with employer-paid training and leadership development opportunities
+Wellness supports, including counselling, critical incident and innovative wellness services are available to employees and their immediate families
+Award-winning recognition programs to honour staff, medical staff and volunteers
+Access to exclusive discount offers and deals for VCH staff
+
+
+At Vancouver Coastal Health, our vision of healthy lives in healthy communities inspires us and our values and pillars guide us. We support equitable practices, diverse teams and inclusive environments, which are vital to creating welcoming spaces where everyone can bring their whole selves to work and feel supported. We encourage applications from equity-deserving communities, including Indigenous Peoples and members of racialized groups, people with disabilities and people of all gender identities and expressions and sexual orientation.
+
+Vancouver Coastal Health is proud to be recognized as one of Canada’s Top 100 Employers, BC’s Top Employers, Canada’s Best Diversity Employers and Canada's Top Employers for Young People in 2026.
+
+Only short-listed applicants will be contacted for this posting.
+
+***Employees of VCH must apply online via the Internal Career Portal on CareerHub, you are currently viewing the External Career Portal. Refer to the https://my.vch.ca/working-here/job-postings site for instructions on how to view internal job postings and how to apply as an employee. Current VCH employees who apply to this posting using this external site will be considered as an external candidate. Seniority will not apply.***
+
+Thank you for your interest in Vancouver Coastal Health.
+
+Education & Experience
+
+
+Bachelor’s Degree in Computer Science, Information Systems Management or a Software Engineering related field plus at least five (5) years’ experience as an or an equivalent combination of education, training and experience as Platform, DevOps, DataOps, or Site Reliability Engineer. Certification from at least one cloud service provider is preferred (e.g. Microsoft DevOps Engineer Expert).
+
+
+Knowledge & Expertise
+
+
+Extensive experience performing DevOps practices including but not limited to: code review, unit test automation, build & release automation, incident and change management.
+Demonstrated experience in designing, implementing, streamlining and monitoring CI/CD pipelines within a data-focused department/organization.
+Demonstrated experience building and optimizing data pipelines (ETL) within a Databricks environment or other cloud data warehousing technologies
+Demonstrated experience practicing DataOps functions and processes
+Demonstrated experience working with Azure DevOps, Databricks, and Azure SQL.
+Demonstrated experience developing a branching strategy to tackle monolithic repos.
+Strong proficiency with Git and GitHub workflows.
+Proficiency coding in Python, Bash, Terraform, ARM, Bicep or other scripting languages with a focus on automating releases or processes.
+Working knowledge of containerization technologies such as Docker and Kubernetes.
+Working knowledge of databases (Azure SQL, Synapse, etc) and SQL.
+Knowledge of Azure or other cloud infrastructure services (e.g Azure Data Factory, Azure DevOps) an asset.
+Ability to analyze requirements, develop architecture/design artifacts, and execute migrations from on-premises infrastructure to cloud environments.
+Demonstrated hands on experience building sophisticated and highly automated infrastructure.
+Ability to perform analysis of the current practices and design and implement best practices and emerging concepts.
+Demonstrated understanding of DevSecOps practices.
+Proven ability to stay updated on the latest trends and technologies in data engineering, cloud computing, and healthcare information technology
+Deep understanding of security principles and experience in developing design patterns to ensure security, scalability, and optimization for growing data volumes.
+Strong analytical, prioritizing, interpersonal, problem-solving, presentation, budgeting, project management (from conception to completion), & planning skills.
+Develops and maintains strong relationships with key internal and external partners to promote and enhance services provided with sensitivity to diversity and indigenous lens.
+Practices the recognition, inclusion and support of all types and aspects of diversity at all stages of engagement, with an understanding of the issues faced by people from equity-deserving groups.
+Strong interpersonal skills including strengths in working in a team environment with a client/user orientation.
+Ability to work effectively with multi-disciplinary teams with different lines of reporting.
+Demonstrated technical leader with skills in teaching, coaching and mentoring others.
+Excellent oral and written communication skills with the ability to effectively communicate complex ideas and processes in simple terminology to internal and external stakeholders, including all levels of management.
+Demonstrated attention to detail and maintenance of high-quality standards.
+Demonstrated ability to work independently, meeting deadlines under pressure, with minimal supervision and frequent interruptions
+Works effectively under time pressure to meet deadlines, balance work priorities and resolve problems in a timely manner.
+Physical ability to perform the duties of the position.
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Industries
+Civil Engineering
+  
+
+Referrals increase your chances of interviewing at Vancouver Coastal Health by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Assessment Coordinator jobs
+DevOps Specialist
+Similar jobs
+SRE Specialist/DevOps Developer
+SRE Specialist/DevOps Developer
+Fortinet
+Burnaby, British Columbia, Canada
+5 months ago
+DevOps Engineer (Services Team)
+DevOps Engineer (Services Team)
+StackAdapt
+Vancouver, British Columbia, Canada
+7 hours ago
+DevOps Engineer - EA SPORTS™ TECHNOLOGY
+DevOps Engineer - EA SPORTS™ TECHNOLOGY
+EA SPORTS
+Vancouver, British Columbia, Canada
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+Varonis
+Vancouver, British Columbia, Canada
+3 weeks ago
+AI DevOps & Reliability Engineer
+AI DevOps & Reliability Engineer
+Branch
+Vancouver, British Columbia, Canada
+2 weeks ago
+Site Reliability Engineer
+Site Reliability Engineer
+Develocity
+Vancouver, British Columbia, Canada
+1 week ago
+Show more jobs like this 
+People also viewed
+SITE RELIABILITY ENGINEER
+SITE RELIABILITY ENGINEER
+
+LayerZero Asia
+
+Vancouver, British Columbia, Canada
+3 weeks ago
+DevSecops Engineer
+DevSecops Engineer
+
+Fortiv Technical Inc.
+
+Vancouver, British Columbia, Canada
+CA$160,000 - CA$230,000
+5 days ago
+Senior DevOps Developer
+Senior DevOps Developer
+
+Boeing
+
+Richmond, British Columbia, Canada
+2 days ago
+Azure DevOps & Infrastructure Lead (Backbase)
+Azure DevOps & Infrastructure Lead (Backbase)
+
+Aequilibrium
+
+Vancouver, British Columbia, Canada
+1 month ago
+Staff Platform Engineer
+Staff Platform Engineer
+
+Rivian
+
+Vancouver, British Columbia, Canada
+1 week ago
+Staff CloudOps Developer
+Staff CloudOps Developer
+
+Corpay
+
+Vancouver, British Columbia, Canada
+5 days ago
+Forward Deployed Engineer, Infrastructure Specialist (North America)
+Forward Deployed Engineer, Infrastructure Specialist (North America)
+
+Cohere
+
+Vancouver, British Columbia, Canada
+2 days ago
+Senior DevSecOps Engineer
+Senior DevSecOps Engineer
+
+Aviso
+
+Vancouver, British Columbia, Canada
+CA$120,000 - CA$135,000
+3 days ago
+DevOps Manager
+DevOps Manager
+
+Motorola Solutions
+
+Greater Vancouver Metropolitan Area
+2 weeks ago
+Platform Engineering – Data Infrastructure III
+Platform Engineering – Data Infrastructure III
+
+Peoples Group
+
+Vancouver, British Columbia, Canada
+1 week ago
+Similar Searches
+Assessment Coordinator jobs
+3,846 open jobs
+Small Business Advisor jobs
+6,008 open jobs
+Senior Biologist jobs
+144 open jobs
+Clinical Counselor jobs
+220 open jobs
+Laundry Manager jobs
+167 open jobs
+Project Support Coordinator jobs
+2,840 open jobs
+Acupuncturist jobs
+531 open jobs
+Public Health Nurse jobs
+6,994 open jobs
+Mental Health Clinician jobs
+542 open jobs
+Build And Release Engineer jobs
+1,070 open jobs
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

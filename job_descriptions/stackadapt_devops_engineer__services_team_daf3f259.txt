@@ -1,0 +1,270 @@
+Title: DevOps Engineer (Services Team)
+Company: StackAdapt
+Location: Calgary, Alberta, Canada
+URL: https://ca.linkedin.com/jobs/view/devops-engineer-services-team-at-stackadapt-4486197161
+Posted: 2026-11-03
+Deadline: Open until filled
+Reason: The role is a DevOps Engineer position in Canada matching her extensive experience in CI/CD, release pipelines, infrastructure, and configuration management.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer (Services Team)
+StackAdapt  Calgary, Alberta, Canada
+7 hours ago  30 applicants
+  
+
+See who StackAdapt has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+StackAdapt is the leading technology company that empowers marketers to reach, engage, and convert audiences with precision. With 465 billion automated optimizations per second, the AI-powered StackAdapt Marketing Platform seamlessly connects brand and performance marketing to drive measurable results across the entire customer journey. The most forward-thinking marketers choose StackAdapt to orchestrate high-impact campaigns across programmatic advertising and marketing channels.
+
+The Engineering Operations team builds and operates the infrastructure, observability, and automation systems that power our engineering environment. This role joins the Services team, a platform team that owns StackAdapt’s observability stack, the ECS platform, and internal workflow platforms used across engineering.
+
+What You'll Be Doing:
+
+Operate and improve the infrastructure platforms the team owns, including observability, services hosting on AWS ECS, and workflow orchestration services used across engineering.
+Build and maintain scripts, tools, and processes that reduce manual effort and improve system consistency.
+Maintain and upgrade these platforms across development, staging and production environments..
+Participate in an on-call rotation, responding to incidents and support requests from other engineering teams.
+Partner with engineering teams to help them use our platforms well, from deployment and configuration to monitoring and alerting.
+Troubleshoot infrastructure issues from first report to root cause, and escalate early when a fix crosses team boundaries.
+Help keep our platforms reliable and cost-efficient as usage grows.
+Write runbooks and documentation that help on-call engineers, AI Agents and other teams solve problems on their own..
+Make task-level implementation decisions, escalate ambiguity early, and incorporate feedback to improve EngOps execution.
+
+What You'll Bring to the Table:
+
+A solid understanding of core DevOps tools, systems, and practices, coupled with the initiative to ship consistent, high-quality work.
+The ability to execute tasks independently while managing time and priorities effectively.
+Hands-on experience with Infrastructure as Code, CI/CD, and AWS services such as ECS, IAM and networking.
+Working experience with observability in production: metrics, logs, tracing and alerting.
+Strong communication and collaboration skills to build trust with the team and influence positive outcomes.
+Effective problem-solving skills and a strong sense of ownership and accountability for your work.
+An awareness of security and privacy, system design, and strategic thinking within an operations environment.
+
+Nice to Have:
+
+Familiarity with advanced observability tools (such as Prometheus or Grafana) and infrastructure-as-code workflows.
+Awareness of large-scale distributed systems and advanced containerized deployments.
+Experience with on-call or production support, and comfort debugging systems you did not build.
+
+The compensation range listed for this role reflects the expected base salary for candidates located in the posting country based on a global rate. It is informed by market data and the approved budget for this position. StackAdapt maintains different compensation ranges for roles across other countries and regions, and final offers will be aligned to the candidate’s current location. We do not ask candidates about current or prior salary history, and we will not use such information, if volunteered, in setting an offer.This range represents base salary only. Depending on the role, candidates may also be eligible for additional compensation such as annual bonuses, commissions, equity awards, and a comprehensive benefits package.Factors Influencing Final Compensation:The final compensation offer will be determined by a variety of factors, which may include, but are not limited to: the candidate's specific experience, technical skills, knowledge, abilities, and relevant education, licensure, and certifications.Other business factors, such as organizational needs and budget alignment, may also be considered in the final offer.
+
+Base Salary Band: $116,000 CAD - $159,500 CAD
+
+StackAdapter's Enjoy:
+Highly competitive salary
+Retirement/ 401K/ Pension Savings globally
+Competitive Paid time off packages including birthday's off!
+Access to a comprehensive mental health care program
+Health benefits from day one of employment
+Work from home reimbursements
+Optional global WeWork membership for those who want a change from their home office and hubs in London and Toronto
+Robust training and onboarding program
+Coverage and support of personal development initiatives (conferences, courses, books etc)
+Access to StackAdapt programmatic courses and certifications to support continuous learning
+An awesome parental leave program
+A friendly, welcoming, and supportive culture
+Our social and team events!
+
+Please note: Benefits and perks may vary depending on your country of employment and the nature of your engagement. In locations where StackAdapt does not have a legal entity, employment and benefits are administered in accordance with local regulations and partner policies.
+
+StackAdapt is a diverse and inclusive team of collaborative, hardworking individuals trying to make a dent in the universe. No matter who you are, where you are from, who you love, follow in faith, disability, superpower status, ethnicity, or the gender you identify with (if you’re comfortable, let us know your pronouns), you are welcome at StackAdapt.  StackAdapt is committed to providing an inclusive and accessible recruitment process. Accommodations are available upon request for candidates taking part in all aspects of the selection process. If you require an accommodation, please let us know. We use artificial intelligence (AI) to streamline the resume reviews of candidates and assess their fit based on the criteria outlined in the job posting. We do not use AI to make any final hiring or interview decisions. About StackAdapt We've been recognized for our diverse and supportive workplace, high performing campaigns, award-winning customer service, and innovation. We've been awarded: G2 Top Software for 2026
+2026 Best Workplaces™ for Young Talent and in Canada by Great Place to Work®
+#1 DSP on G2 and leader in a number of categories including Cross-Channel Advertising2026 Winner in the (CTV/OTT) Product/Platform category for the 2026 ADWEEK Tech Stack Awards To learn more about our privacy practices, please see our Privacy Policy. 
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Technology, Information and Internet
+  
+
+Referrals increase your chances of interviewing at StackAdapt by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Survey Statistician jobs
+DevOps Engineer (Services Team)
+Similar jobs
+DevOps Engineer (Services Team)
+DevOps Engineer (Services Team)
+StackAdapt
+Canada
+7 hours ago
+Cloud Platform Engineer
+Cloud Platform Engineer
+GitLab
+Canada
+2 weeks ago
+Cloud Engineer
+Cloud Engineer
+Irth
+Canada
+$120,000 - $140,000
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+Modaxo
+Canada
+8 months ago
+DevOps/Cloud Engineer
+DevOps/Cloud Engineer
+Auctria
+Canada
+CA$120 - CA$130
+2 weeks ago
+DevSecOps Engineer (Infrastructure)
+DevSecOps Engineer (Infrastructure)
+Empire Life
+Canada
+3 weeks ago
+Show more jobs like this 
+People also viewed
+Dev Ops I
+Dev Ops I
+
+Safe Software
+
+Canada
+1 week ago
+Staff DevOps Engineer
+Staff DevOps Engineer
+
+Nexxa.ai
+
+Canada
+2 months ago
+SRE/DevOps Engineer
+SRE/DevOps Engineer
+
+Magnet Forensics
+
+Canada
+6 days ago
+DevOps & Software Engineer
+DevOps & Software Engineer
+
+Applicantz
+
+Canada
+CA$45 - CA$50
+6 hours ago
+Devsecops Engineer
+Devsecops Engineer
+
+Deel
+
+Canada
+$50,000 - $100,000
+2 weeks ago
+Senior Backend & Infrastructure Engineer
+Senior Backend & Infrastructure Engineer
+
+Scispot
+
+Canada
+$100,000 - $175,000
+4 months ago
+Cloud Platform Engineer
+Cloud Platform Engineer
+
+Insight
+
+Canada
+1 week ago
+Sr Systems & Cloud Operations Engineer
+Sr Systems & Cloud Operations Engineer
+
+Embrace Software Inc
+
+Canada
+1 hour ago
+Senior DevOps
+Senior DevOps
+
+Safe Software
+
+Canada
+5 hours ago
+Senior DevSecOps Engineer
+Senior DevSecOps Engineer
+
+ComPsych
+
+Canada
+2 weeks ago
+Similar Searches
+Survey Statistician jobs
+90 open jobs
+Project Control Officer jobs
+176 open jobs
+Staff Developer jobs
+16,619 open jobs
+Director Customer Marketing jobs
+294 open jobs
+Vice President Product Marketing jobs
+138 open jobs
+Director Marketing Technology jobs
+176 open jobs
+Human Resources Contractor jobs
+477 open jobs
+Web Director jobs
+136 open jobs
+Media Sales Manager jobs
+75 open jobs
+Investment Broker jobs
+2,192 open jobs
+Senior Media Manager jobs
+1,183 open jobs
+Account Planner jobs
+1,682 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

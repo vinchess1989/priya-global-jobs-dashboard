@@ -1,0 +1,332 @@
+Title: DevOps Engineer
+Company: TD
+Location: Toronto, Ontario, Canada
+URL: https://ca.linkedin.com/jobs/view/devops-engineer-at-td-4486119447
+Posted: 2026-11-03
+Deadline: N/A
+Reason: This DevOps Engineer role in Toronto, Canada aligns well with her extensive background in CI/CD pipelines, release management, and automation using GitHub Actions and Microsoft Azure.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+TD  Toronto, Ontario, Canada
+17 hours ago  89 applicants
+  
+
+See who TD has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Work Location:
+
+Toronto, Ontario, Canada
+
+Hours
+
+37.5
+
+Line Of Business
+
+Technology Solutions
+
+Pay Details
+
+$126,800 - $164,100 CAD
+
+This role is eligible for a discretionary variable compensation award that considers business and individual performance.
+
+TD is committed to providing fair and equitable compensation opportunities to all colleagues. Growth opportunities and skill development are defining features of the colleague experience at TD. Our compensation policies and practices have been designed to allow colleagues to progress through the salary range over time as they progress in their role. The base pay actually offered may vary based upon the candidate's skills and experience, job-related knowledge, geographic location, and other specific business and organizational needs.
+
+As a candidate, you are encouraged to ask compensation related questions and have an open dialogue with your recruiter who can provide you more specific details for this role.
+
+Summary
+
+Job Description:
+
+We are seeking a DevOps Engineer to build, maintain, and support modern DevOps platforms on Microsoft Azure, with a strong focus on AKS-based workloads, CI/CD automation, and cloud-native operational excellence.
+
+This role requires strong hands-on experience with DevOps engineering, infrastructure automation, application deployments, and secure production operations. The successful candidate will work closely with development, infrastructure, security, and platform teams to implement scalable DevOps solutions and enable reliable application delivery.
+
+You will contribute to DevOps and release solutions, implement and maintain CI/CD pipelines, support application deployments, and help continuously improve automation, reliability, security, and developer productivity in a regulated banking environment.
+
+Key Responsibilities
+
+
+Build, maintain, and support DevOps solutions and automation
+Contribute to DevOps and release architecture across non-production and production environments
+Execute and coordinate application releases, including cutovers and deployment windows
+Deploy and support applications on Azure Kubernetes Service (AKS) and Azure App Service
+Build and maintain CI/CD pipelines using GitHub Actions
+Develop and maintain Helm charts for Kubernetes application deployments
+Develop and maintain infrastructure using Terraform (Infrastructure as Code)
+Support release readiness, environment parity, deployment validation, and rollback strategies
+Create and maintain release documentation, including runbooks, cutover plans, and deployment checklists
+Implement DevOps security, governance, and operational best practices
+Troubleshoot deployment, pipeline, infrastructure, and production issues
+Identify and implement opportunities for automation and continuous improvement
+Collaborate with development, security, infrastructure, and platform teams
+Participate in production support and operational activities as required
+
+
+Education & Experience
+
+
+5+ years of experience in DevOps, Cloud Engineering, Platform Engineering, or a related field
+Strong hands-on experience implementing and supporting cloud-based DevOps solutions
+Experience working in enterprise or regulated environments
+Experience supporting production systems and application deployments
+
+
+Required Primary Skills
+
+
+Strong hands-on experience in DevOps / Release Engineering
+Hands-on experience with Microsoft Azure, including:
+Azure Kubernetes Service (AKS)
+Azure App Service
+Azure networking, identity, and security concepts
+Strong experience with Kubernetes and Helm
+Strong experience with Terraform / Infrastructure as Code
+Strong CI/CD experience using GitHub Actions
+Experience with source control and Git-based development workflows
+Solid understanding of deployment strategies, including:
+Blue/green deployments
+Canary deployments
+Rollback strategies
+Understanding of DevOps security and secure software delivery practices
+Understanding of operational readiness, monitoring, troubleshooting, and production support
+Good communication, collaboration, and problem-solving skills
+
+Who We Are
+
+TD Securities offers a wide range of capital markets products and services to corporate, government, and institutional clients who choose us for our innovation, execution, and experience. With more than 6,500 professionals operating out of 40 cities across the globe, we strive to make every interaction, product and experience remarkably human and refreshingly simple. Our services include underwriting and distributing new issues, providing trusted advice and industry-leading insight, extending access to global markets, and delivering integrated transaction banking solutions. In 2023, we acquired Cowen Inc., offering our clients access to a premier U.S. equities business and highly-diverse equity research franchise, while growing our strong, diversified investment bank.
+
+Together, we are reimagining what banking can be for our clients, colleagues and communities.
+
+Our Total Rewards Package
+
+Our Total Rewards package reflects the investments we make in our colleagues to help them and their families achieve their financial, physical, and mental well-being goals. Total Rewards at TD includes a base salary, variable compensation, and several other key plans such as health and well-being benefits, savings and retirement programs, paid time off, banking benefits and discounts, career development, and reward and recognition programs. Learn more
+
+Additional Information
+
+We’re delighted that you’re considering building a career with TD. Through regular development conversations, training programs, and a competitive benefits plan, we’re committed to providing the support our colleagues need to thrive both at work and at home.
+
+Please be advised that this job opportunity is subject to provincial regulation for employment purposes. It is imperative to acknowledge that each province or territory within the jurisdiction of Canada may have its own set of regulations, requirements.
+
+Colleague Development
+
+If you’re interested in a specific career path or are looking to build certain skills, we want to help you succeed. You’ll have regular career, development, and performance conversations with your manager, as well as access to an online learning platform and a variety of mentoring programs to help you unlock future opportunities.
+
+If you’re passionate about helping clients and building deep, lasting relationships, TD offers diverse career paths where you can grow your expertise and make a meaningful impact.
+
+We're committed to your success and foster a respectful workplace where diverse perspectives are valued, everyone has fair opportunities to grow, and you can unlock your full potential to achieve your career goals. Here at TD, we hire and develop the best.
+
+Training & Onboarding
+
+We will provide training and onboarding sessions to ensure that you’ve got everything you need to succeed in your new role.
+
+Interview Process
+
+We’ll reach out to candidates of interest to schedule an interview. We do our best to communicate outcomes to all applicants by email or phone call.
+
+Accommodation
+
+Your accessibility is important to us. Please let us know if you’d like accommodations (including accessible meeting rooms, captioning for virtual interviews, etc.) to help us remove barriers so that you can participate throughout the interview process.
+
+We look forward to hearing from you!
+
+Language Requirement (Quebec Only)
+
+Sans Objet
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Banking
+  
+
+Referrals increase your chances of interviewing at TD by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Character Technical Director jobs
+DevOps Engineer
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+OCS Ontario Cannabis Store
+Toronto, Ontario, Canada
+1 week ago
+DevOps Engineer
+DevOps Engineer
+Haventree Bank
+Toronto, Ontario, Canada
+1 week ago
+DevOps Engineer
+DevOps Engineer
+Leap Tools
+Toronto, Ontario, Canada
+1 month ago
+DevOps Cloud Engineer
+DevOps Cloud Engineer
+Nasdaq
+Toronto, Ontario, Canada
+5 hours ago
+DevOps Engineer
+DevOps Engineer
+SWTCH
+Toronto, Ontario, Canada
+3 weeks ago
+DevOps Engineer
+DevOps Engineer
+Broadridge
+Toronto, Ontario, Canada
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Infrastructure Engineer
+Infrastructure Engineer
+
+Lakeview Loan Servicing, LLC.
+
+North York, Ontario, Canada
+5 months ago
+ModiFace - DevOps Developer
+ModiFace - DevOps Developer
+
+L'Oréal
+
+Toronto, Ontario, Canada
+2 weeks ago
+Cloud Engineer ,Automation- Remote Ontario
+Cloud Engineer ,Automation- Remote Ontario
+
+Smile Digital Health
+
+Toronto, Ontario, Canada
+CA$120,000 - CA$140,000
+2 weeks ago
+Junior DevOps Specialist
+Junior DevOps Specialist
+
+CGI
+
+Greater Toronto Area, Canada
+1 week ago
+Platform Engineer, Infrastructure
+Platform Engineer, Infrastructure
+
+Rootly
+
+Toronto, Ontario, Canada
+5 days ago
+Associate, DevOps Engineer
+Associate, DevOps Engineer
+
+BMO Capital Markets
+
+Toronto, Ontario, Canada
+1 week ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+Porter Airlines Inc.
+
+Toronto, Ontario, Canada
+1 week ago
+DevOps Engineer (ML Infrastructure)
+DevOps Engineer (ML Infrastructure)
+
+Capgemini Engineering
+
+Toronto, Ontario, Canada
+3 weeks ago
+Cloud DevOps
+Cloud DevOps
+
+SOTI
+
+Mississauga, Ontario, Canada
+1 week ago
+Intermediate DevOps Developer - Remote/Hybrid (Canada)
+Intermediate DevOps Developer - Remote/Hybrid (Canada)
+
+Infotech
+
+Toronto, Ontario, Canada
+5 days ago
+Similar Searches
+Character Technical Director jobs
+103 open jobs
+Mutual Fund Representative jobs
+454 open jobs
+Senior Commercial Underwriter jobs
+206 open jobs
+Associate Investment Advisor jobs
+1,833 open jobs
+Banking Advisor jobs
+5,610 open jobs
+District Vice President jobs
+127 open jobs
+Assistant Technical Director jobs
+38 open jobs
+Character Rigger jobs
+196 open jobs
+Commercial Banking Officer jobs
+1,505 open jobs
+Fund Development Coordinator jobs
+55 open jobs
+Project Control Officer jobs
+176 open jobs
+Lead Technical Artist jobs
+185 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

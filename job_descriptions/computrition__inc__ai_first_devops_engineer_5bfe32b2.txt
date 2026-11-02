@@ -1,0 +1,318 @@
+Title: AI-First DevOps Engineer
+Company: Computrition, Inc.
+Location: Greater Toronto Area, Canada
+URL: https://ca.linkedin.com/jobs/view/ai-first-devops-engineer-at-computrition-inc-4440077853
+Posted: 2026-09-04
+Deadline: Open until filled
+Reason: This DevOps Engineer role in Canada aligns well with her extensive CI/CD pipeline, AWS, infrastructure, and automation experience, while meeting her target location and visa sponsorship requirements.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+AI-First DevOps Engineer
+Computrition, Inc.  Greater Toronto Area, Canada
+2 months ago   Over 200 applicants
+  
+
+See who Computrition, Inc. has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Job Description:
+
+Job Title: AI-First DevOps Engineer
+
+Department: Engineering
+
+Location: Canada Remote
+
+Employment Type: Full-Time
+
+Base Salary Range: $155,000-$165,000 CAD
+
+Position Summary
+
+Computrition is seeking an AI-First DevOps Engineer to lead our cloud infrastructure, deployment automation, and DevOps practices. This role will be the primary owner for building and deploying our AWS environment using Terraform, while establishing reliable, secure, and scalable delivery processes.
+
+This individual will bring strong experience in AWS, infrastructure as code, CI/CD, and operational excellence, along with the communication skills and leadership needed to work effectively across a remote team. This role will also lead the practical adoption of AI tooling, AI agents, and MCP servers — integrating them into CI/CD pipelines, infrastructure automation, and day-to-day engineering workflows to measurably improve delivery speed and operational quality.
+
+Key Responsibilities
+
+
+Lead AWS infrastructure design, deployment, and automation.
+Build and maintain reusable, secure, and scalable infrastructure using Terraform.
+Design, implement, and improve CI/CD pipelines to support efficient, high-quality software delivery.
+Support a multi-tenant SaaS platform with strong focus on reliability, security, scalability, and maintainability.
+Partner with the engineering and architecture teams to align infrastructure and deployment practices with platform goals.
+Establish best practices for monitoring, logging, alerting, access control, and operational readiness.
+Identify and implement AI solutions that improve DevOps workflows, reduce manual effort, and increase team velocity.
+Design and implement AI agent workflows and MCP server integrations to automate DevOps tasks, reduce toil, and accelerate engineering delivery.
+Communicate clearly with technical and non-technical stakeholders.
+Lead with accountability, responsiveness, and a strong commitment to quality and on-time delivery.
+
+
+Required Qualifications
+
+
+Bachelor’s degree in Computer Science, Information Technology, Engineering, or related field, or equivalent experience.
+5+ years of experience in DevOps, Cloud Engineering, Platform Engineering, SRE, or similar role.
+Strong hands-on experience with AWS.
+Deep experience with Terraform and infrastructure as code best practices.
+Strong experience building and managing CI/CD pipelines.
+Solid understanding of cloud security, secrets management, access control, monitoring, and deployment automation.
+Experience supporting production systems with a focus on uptime, scalability, and operational quality.
+Excellent written and verbal communication skills.
+Proven ability to work independently and collaboratively in a remote environment.
+Strong organizational skills, follow-through, and commitment to delivering quality work on time.
+
+
+Preferred Qualifications
+
+
+Experience with multi-tenant SaaS platforms.
+Familiarity with modern application environments using technologies such as C#/.NET, React, PostgreSQL, and AWS.
+Experience with observability and monitoring tools.
+Experience using AI to improve engineering workflows and delivery processes.
+Hands-on experience building or operating production AI agent pipelines, or integrating MCP servers into engineering toolchains.
+
+
+Core Competencies
+
+
+Strong technical judgment
+Clear and professional communication
+Ownership and accountability
+Quality and delivery focus
+Leadership and collaboration
+Continuous improvement mindset
+Passion for technology and innovation
+
+
+Why Join Computrition
+
+Computrition, Inc. is a leading provider of enterprise foodservice, nutrition management, and retail technology, trusted by hundreds of organizations across North America, including healthcare systems, military installations, correctional facilities, and higher education institutions. For more than 44 years, we’ve built technology in partnership with our customers, helping them improve operational efficiency, strengthen financial performance, and deliver better nutritional care.
+
+We're investing in the future of our platform by adopting modern technologies and working closely with customers to solve complex operational challenges. Our solutions have real-world impact by driving performance enhancement and show up directly in how hospitals, military installations, and other institutions operate every day.
+
+Computrition offers the stability of an established industry leader and the momentum of a company accelerating growth through innovation. We invest in our people and foster a culture of collaboration, accountability, continuous learning, and professional growth where employees can make a meaningful impact. You'll join experienced professionals who are passionate about solving meaningful problems and delivering measurable outcomes for customers.
+
+With team members across the U.S. and Canada, and as part of a growing portfolio of technology companies owned by Constellation Software Inc. (TSX: CSU.TO), we are well-positioned to continue advancing the future of foodservice and nutrition technology.
+
+If you're looking to build technology that makes a meaningful impact while growing your career with a stable, innovative company, we'd like to hear from you.
+
+Business Unit:
+
+Computrition - Canada
+
+Scheduled Weekly Hours:
+
+37.5
+
+Number of Openings Available:
+
+1
+
+Worker Type:
+
+Regular
+
+More About Jonas Software:
+
+Jonas Software is a leading provider of enterprise management software solutions, serving a wide range of vertical markets including hospitality, healthcare, construction, education, personal care, fitness, leisure, moving and legal services, to name a few. Within these markets, Jonas is comprised of over 65 distinct brands, each a respected leader in its domain.
+
+Jonas’ vision is to be the branded global leader across these verticals and to be recognized by customers and industry stakeholders as the trusted provider of “Software for Life.” We are committed to technology, product innovation, quality, and exceptional customer service.
+
+Jonas Software supports over 60,000 customers in more than 30 countries. We employ over 6,000 skilled professionals, including industry experts and technology specialists. Across our broader network, we support a global workforce of more than 30,000 employees.
+
+Headquartered in Canada, Jonas Software has a global footprint with offices around the world. We’re a 100% owned subsidiary of Constellation Software Inc., based in Toronto, publicly listed on the TSX (CSU.TO), and a member of the S&P/TSX 60 Index.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Computrition, Inc. by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Lead Software Quality Assurance Engineer jobs
+AI-First DevOps Engineer
+Similar jobs
+Staff DevOps Engineer
+Staff DevOps Engineer
+Nexxa.ai
+Canada
+2 months ago
+Senior AI DevOps Developer [584]
+Senior AI DevOps Developer [584]
+D-Wave
+Canada
+1 week ago
+AI Infrastructure Engineer
+AI Infrastructure Engineer
+Mission.dev
+Canada
+1 week ago
+Infrastructure Engineer/SRE
+Infrastructure Engineer/SRE
+Cresta
+Canada
+6 days ago
+Senior Deployment Engineer - Canada
+Senior Deployment Engineer - Canada
+Atolio
+Canada
+8 months ago
+Infrastructure Engineer
+Infrastructure Engineer
+Lakeview Loan Servicing, LLC.
+North York, Ontario, Canada
+5 months ago
+Show more jobs like this 
+People also viewed
+Lead Infrastructure Engineer
+Lead Infrastructure Engineer
+
+Lakeview Loan Servicing, LLC.
+
+North York, Ontario, Canada
+5 months ago
+Intermediate DevOps Engineer
+Intermediate DevOps Engineer
+
+Practice Better
+
+Canada
+CA$110,000 - CA$120,000
+2 weeks ago
+Software Engineer
+Software Engineer
+
+ComPsych
+
+Canada
+2 weeks ago
+Head of Platform (Infrastructure & DevOps)
+Head of Platform (Infrastructure & DevOps)
+
+Mimica
+
+Canada
+1 week ago
+Lead Devops Engineer
+Lead Devops Engineer
+
+Quantiphi
+
+Canada
+1 month ago
+Azure Platform & DevOps Architect
+Azure Platform & DevOps Architect
+
+Fidus Systems
+
+Canada
+CA$120,000 - CA$155,000
+2 weeks ago
+SRE/DevOps Developer
+SRE/DevOps Developer
+
+Trolley
+
+Toronto, Ontario, Canada
+1 week ago
+Senior DevSecOps Engineer
+Senior DevSecOps Engineer
+
+ComPsych
+
+Canada
+2 weeks ago
+DevOps/Cloud Engineer
+DevOps/Cloud Engineer
+
+Auctria
+
+Canada
+CA$120 - CA$130
+2 weeks ago
+GPU Cloud Platform Engineer
+GPU Cloud Platform Engineer
+
+Yotta Labs
+
+Canada
+11 months ago
+Similar Searches
+Lead Software Quality Assurance Engineer jobs
+109 open jobs
+Senior Firmware Engineer jobs
+304 open jobs
+Senior Hardware Engineer jobs
+697 open jobs
+Software Quality Assurance Analyst jobs
+660 open jobs
+Software Quality Assurance Engineer jobs
+441 open jobs
+Registered Dietitian jobs
+451 open jobs
+Application Developer jobs
+4,463 open jobs
+Build And Release Engineer jobs
+1,070 open jobs
+Customer Director jobs
+1,587 open jobs
+Product Support Engineer jobs
+15,160 open jobs
+Dietitian jobs
+737 open jobs
+Risk Analyst jobs
+10,764 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

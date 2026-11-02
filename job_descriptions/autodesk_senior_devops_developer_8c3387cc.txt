@@ -1,0 +1,361 @@
+Title: Senior DevOps Developer
+Company: Autodesk
+Location: Winnipeg, Manitoba, Canada
+URL: https://ca.linkedin.com/jobs/view/senior-devops-developer-at-autodesk-4469675739
+Posted: 2026-10-27
+Deadline: N/A
+Reason: The role matches her extensive background in DevOps, CI/CD pipelines, and configuration management tools like Terraform and AWS.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Developer
+Autodesk  Winnipeg, Manitoba, Canada
+1 week ago  73 applicants
+  
+
+See who Autodesk has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Job Requisition ID #
+
+26WD100437
+
+L'affichage de poste en français suivra / The French job posting follows.
+
+26WD100437 Senior DevOps Developer
+
+Position Overview
+
+At Autodesk, we are changing how people design and create, empowering them to imagine, design, and make a better world. We believe in the power of automation and cutting-edge technology to inspire creativity. The Bidding group within Autodesk Construction Solutions is looking for an experienced Site Reliability Engineer (SRE)/DevOps Developer to help build, operate, and continuously improve highly available, resilient, and scalable cloud-native services that power our customers' critical workflows.
+
+In this role, you will partner closely with Software Engineering, Infrastructure, and Platform teams to improve developer productivity, strengthen platform reliability, automate operational processes, and enhance observability across production services. You will own service health, operational excellence, disaster recovery readiness, security compliance, and CI/CD automation while driving continuous improvements in monitoring, infrastructure as code, and incident management.
+
+Your work will include building and maintaining Kubernetes-based workloads, AWS infrastructure, MongoDB-backed services, observability platforms such as Dynatrace, cloud automation, disaster recovery solutions, and secure operational processes that enable engineering teams to deliver software reliably and efficiently.
+
+You will report to the Manager, Software Development as part of a remote team (distributed engineering team).
+
+Responsibilities
+
+
+Collaborate with Infrastructure & Systems teams to design and implement innovative solutions that improve developer velocity, infrastructure resiliency, security, and availability
+Establish, hone, and facilitate adherence to team SLO / SLI targets
+Drive processes, including service reviews, fire drills, chaos testing, incident response, and incident post mortem's
+Collaborate with partners to understand requirements, use cases, and build towards a cohesive strategy
+Develop scripts and tooling to execute deployment and configuration for service updates
+Engage in deep technical discussions that shape robust, performant solutions
+Coordinate and perform major upgrades with zero downtime
+Keep systems updated for security compliance
+Troubleshoot complex technical problems
+Solve live performance, stability issues and prevent recurrence
+Participate in on-call rotations to support production systems
+
+
+Minimum Qualifications
+
+
+5+ years of production experience in large-scale cloud-based Infrastructure (AWS preferred)
+5+ years of software engineering experience, including at least two years working experience as an SRE Developer
+Ability to track and prioritize multiple tasks coming in simultaneously
+Excellent problem-solving skills
+Ability to work independently
+Understanding of DevOps best practices, architectures, and methods
+Experience with scripting languages, including one or more of Javascript, Python, Linux/Unix Shell
+Experience with cloud-native applications
+Experience with Docker, Kubernetes, and container orchestration
+Experience managing SaaS database solutions (e.g. MongoDB Atlas, DynamoDB, Redshift, etc.)
+Experience with configuration management tools and cloud automation (e.g. TerraForm, Chef, Ansible, etc.)
+Experience defining and building CI/CD processes and working with common CI/CD tools (e.g. Jenkins / Circle CI / Spinnaker, etc.)
+Experience building applications on AWS using services such as Step functions, IAM, EC2, S3, CloudWatch and Lambda
+
+
+Preferred Qualifications
+
+
+Experience with Agile software development practices
+Experience consuming, designing, and implementing REST APIs
+Experience with networking and security concepts
+Experience with log ingestion, monitoring and discoverability tools (New Relic, Splunk, DataDog, BugSnag)
+Security/audit experience e.g. SOC2, FedRAMP, etc
+
+
+________________________________________________________________________________
+
+26WD100437 Développeur DevOps senior
+
+Aperçu du Poste
+
+Chez Autodesk, nous transformons la manière dont les gens conçoivent et créent, en leur donnant les moyens d’imaginer, de concevoir et de bâtir un monde meilleur. Nous croyons au pouvoir de l’automatisation et des technologies de pointe pour inspirer la créativité.
+
+Le groupe Bidding au sein d’Autodesk Construction Solutions recherche un ingénieur en fiabilité des sites (SRE) / développeur DevOps expérimenté pour contribuer à la mise en place, à l’exploitation et à l’amélioration continue de services cloud natifs hautement disponibles, résilients et évolutifs qui alimentent les workflows critiques de nos clients.
+
+À ce poste, vous travaillerez en étroite collaboration avec les équipes d’ingénierie logicielle, d’infrastructure et de plateforme afin d’améliorer la productivité des développeurs, de renforcer la fiabilité de la plateforme, d’automatiser les processus opérationnels et d’améliorer l’observabilité de l’ensemble des services de production. Vous serez responsable de la santé des services, de l’excellence opérationnelle, de la préparation à la reprise après sinistre, de la conformité en matière de sécurité et de l’automatisation CI/CD, tout en pilotant des améliorations continues dans les domaines de la surveillance, de l’infrastructure en tant que code et de la gestion des incidents.
+
+Votre travail consistera notamment à créer et à maintenir des charges de travail basées sur Kubernetes, l’infrastructure AWS, des services s’appuyant sur MongoDB, des plateformes d’observabilité telles que Dynatrace, l’automatisation du cloud, des solutions de reprise après sinistre et des processus opérationnels sécurisés permettant aux équipes d’ingénierie de livrer des logiciels de manière fiable et efficace.
+
+Vous rendrez compte au responsable du développement logiciel au sein d’une équipe à distance (équipe d’ingénierie distribuée).
+
+Responsabilités
+
+
+Collaborer avec les équipes Infrastructure et Systèmes pour concevoir et mettre en œuvre des solutions innovantes qui améliorent la vitesse de développement, la résilience de l’infrastructure, la sécurité et la disponibilité
+Établir, affiner et faciliter le respect des objectifs SLO / SLI de l’équipe
+Piloter les processus, notamment les revues de services, les exercices d’alerte, les tests de chaos, la réponse aux incidents et les analyses rétrospectives d’incidents
+Collaborer avec des partenaires pour comprendre les exigences et les cas d’utilisation, et élaborer une stratégie cohérente
+Développer des scripts et des outils pour exécuter le déploiement et la configuration des mises à jour de services
+Participer à des discussions techniques approfondies qui donnent naissance à des solutions robustes et performantes
+Coordonner et réaliser des mises à niveau majeures sans aucun temps d’arrêt
+Maintenir les systèmes à jour pour garantir la conformité en matière de sécurité
+Dépanner des problèmes techniques complexes
+Résoudre les problèmes de performances et de stabilité en temps réel et prévenir leur réapparition
+Participer aux rotations d’astreinte pour assurer le support des systèmes de production
+
+
+Qualifications Minimales
+
+
+Au moins 5 ans d’expérience en production au sein d’une infrastructure cloud à grande échelle (AWS de préférence)
+Au moins 5 ans d’expérience en génie logiciel, dont au moins deux ans en tant que développeur SRE
+Capacité à suivre et hiérarchiser plusieurs tâches simultanées
+Excellentes compétences en résolution de problèmes
+Capacité à travailler de manière autonome
+Maîtrise des meilleures pratiques, architectures et méthodes DevOps
+Expérience avec les langages de script, notamment au moins l’un des suivants : JavaScript, Python, shell Linux/Unix
+Expérience avec les applications cloud natives
+Expérience avec Docker, Kubernetes et l’orchestration de conteneurs
+Expérience dans la gestion de solutions de bases de données SaaS (par exemple : MongoDB Atlas, DynamoDB, Redshift, etc.)
+Expérience avec les outils de gestion de configuration et d’automatisation cloud (par exemple : TerraForm, Chef, Ansible, etc.)
+Expérience dans la définition et la mise en place de processus CI/CD et dans l’utilisation d’outils CI/CD courants (par ex. Jenkins / Circle CI / Spinnaker, etc.)
+Expérience dans le développement d’applications sur AWS à l’aide de services tels que Step Functions, IAM, EC2, S3, CloudWatch et Lambda
+
+
+Qualifications Souhaitées
+
+
+Expérience des pratiques de développement logiciel Agile
+Expérience dans l’utilisation, la conception et la mise en œuvre d’API REST
+Expérience des concepts liés aux réseaux et à la sécurité
+Expérience des outils d’ingestion, de surveillance et de découverte des logs (New Relic, Splunk, DataDog, BugSnag)
+Expérience en matière de sécurité/d’audit (par exemple : SOC2, FedRAMP, etc.)
+
+
+Learn More / Plus d'information
+
+About Autodesk / À Propos D’Autodesk
+
+Welcome to Autodesk! Amazing things are created every day with our software – from the greenest buildings and cleanest cars to the smartest factories and biggest hit movies. We help innovators turn their ideas into reality, transforming not only how things are made, but what can be made.
+
+We take great pride in our culture here at Autodesk – it’s at the core of everything we do. Our culture guides the way we work and treat each other, informs how we connect with customers and partners, and defines how we show up in the world.
+
+When you’re an Autodesker, you can do meaningful work that helps build a better world designed and made for all. Ready to shape the world and your future? Join us!
+
+Bienvenue chez Autodesk ! Nos logiciels créent chaque jour des choses extraordinaires : des bâtiments les plus écologiques aux voitures les plus propres, en passant par les usines les plus intelligentes et les films à succès. Nous aidons les innovateurs à concrétiser leurs idées, transformant non seulement la façon dont les choses sont fabriquées, mais aussi ce qui peut l’être.
+
+Nous sommes très fiers de notre culture chez Autodesk ; elle est au cœur de tout ce que nous faisons. Notre culture guide notre façon de travailler et de nous comporter les uns envers les autres, influence nos interactions avec nos clients et nos partenaires, et définit notre image au monde.
+
+En tant qu’Autodeskien, vous pouvez accomplir un travail significatif qui contribue à bâtir un monde meilleur, conçu et réalisé pour tous. Prêt à façonner le monde et votre avenir ? Rejoignez-nous !
+
+Salary transparency / Transparence Salariale
+
+Salary is one part of Autodesk’s competitive compensation package. For Canada based roles, we expect a starting base salary between $107,000 and $157,300. Offers are based on the candidate’s experience and geographic location, and may exceed this range. In addition to base salaries, our compensation package may include annual cash bonuses, commissions for sales roles, stock grants, and a comprehensive benefits package. Le salaire est l'un des éléments du programme de rémunération concurrentiel d'Autodesk. Pour les postes basés au Canada, nous offrons un salaire de base entre $107,000 et $157,300. Le salaire est déterminé selon l'expérience professionnelle et l'emplacement du candidat(e), et peut dépasser cette fourchette. En plus du salaire de base, notre programme de rémunération peut inclure une prime annuelle, des commissions pour les postes de ventes, des attributions d'actions et un ensemble complet d'avantages sociaux.
+
+Belonging
+
+We take pride in cultivating a culture of belonging where everyone can thrive. Learn more here: https://www.autodesk.com/company/global-belonging
+
+In-Person Onboarding and Identity Verification
+
+This role may require in-person onboarding and/or in-person ID verification.
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Industries
+Software Development, Design Services, and IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Autodesk by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Equity Derivatives Analyst jobs
+Senior DevOps Developer
+Similar jobs
+Senior DevOps Engineer
+Senior DevOps Engineer
+Modern Campus
+Canada
+2 weeks ago
+Senior DevOps
+Senior DevOps
+Safe Software
+Canada
+5 hours ago
+Senior Platform Engineer
+Senior Platform Engineer
+Burq
+Canada
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Ciklum
+Canada
+5 days ago
+Senior DevOps Engineer, Canada
+Senior DevOps Engineer, Canada
+Crypto.com
+Canada
+6 days ago
+Senior DevOps Engineer - Robotics Simulation
+Senior DevOps Engineer - Robotics Simulation
+NVIDIA
+Canada
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Senior Azure DevOps Engineer - Canada (Full remote) - up to 200 000$ + bonus
+Senior Azure DevOps Engineer - Canada (Full remote) - up to 200 000$ + bonus
+
+InCycle Software
+
+Canada
+5 days ago
+Senior Backend & Infrastructure Engineer
+Senior Backend & Infrastructure Engineer
+
+Scispot
+
+Canada
+$100,000 - $175,000
+4 months ago
+Senior Developer - Delivery Engineering
+Senior Developer - Delivery Engineering
+
+Jane App
+
+Canada
+1 week ago
+DevOps/Cloud Engineer
+DevOps/Cloud Engineer
+
+Auctria
+
+Canada
+CA$120 - CA$130
+2 weeks ago
+DevOps & Software Engineer
+DevOps & Software Engineer
+
+Applicantz
+
+Canada
+CA$45 - CA$50
+6 hours ago
+Sr Site Reliability Engineer- Remote
+Sr Site Reliability Engineer- Remote
+
+BeyondTrust
+
+Canada
+4 days ago
+DevOps & Cloud Systems - Fullstack Developer
+DevOps & Cloud Systems - Fullstack Developer
+
+BrightOrder Inc.
+
+Canada
+CA$95,000 - CA$105,000
+3 weeks ago
+Cloud Platform Engineer
+Cloud Platform Engineer
+
+GitLab
+
+Canada
+2 weeks ago
+Staff Site Reliability Engineer
+Staff Site Reliability Engineer
+
+Babylist
+
+Canada
+2 days ago
+DevOps Engineer (Services Team)
+DevOps Engineer (Services Team)
+
+StackAdapt
+
+Canada
+7 hours ago
+Similar Searches
+Equity Derivatives Analyst jobs
+139 open jobs
+Senior Sales Trainer jobs
+22 open jobs
+Senior Inventory Analyst jobs
+267 open jobs
+Lead Instructional Designer jobs
+123 open jobs
+Media Developer jobs
+14,391 open jobs
+Senior Business Project Manager jobs
+1,955 open jobs
+Freelance 3D Animator jobs
+15 open jobs
+Data Integration Specialist jobs
+16,748 open jobs
+Property Advisor jobs
+2,102 open jobs
+Tools Programmer jobs
+14,774 open jobs
+Civil Design Engineer jobs
+1,054 open jobs
+Mechanical Piping Engineer jobs
+63 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

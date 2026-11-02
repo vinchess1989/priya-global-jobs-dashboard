@@ -1,0 +1,285 @@
+Title: Senior Cloud DevOps Specialist
+Company: Pandell, an ESG Company
+Location: Calgary, Alberta, Canada
+URL: https://ca.linkedin.com/jobs/view/senior-cloud-devops-specialist-at-pandell-an-esg-company-4483156332
+Posted: 2026-10-27
+Deadline: N/A
+Reason: This Senior Cloud DevOps Specialist role in Canada matches her extensive experience in CI/CD pipelines, release management, infrastructure, and automation scripting.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Cloud DevOps Specialist
+Pandell, an ESG Company  Calgary, Alberta, Canada
+1 week ago   Be among the first 25 applicants
+  
+
+See who Pandell, an ESG Company has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+We're looking for a Senior Cloud DevOps Specialist to design, maintain, and improve the cloud and on-premises infrastructure that supports our applications and services.
+
+Working closely with our development, security, and infrastructure teams, you'll focus on automation, system reliability, monitoring, and cloud cost management. You'll bring hands-on technical expertise, guide architecture decisions, and lead infrastructure projects from planning through production.
+
+As a senior member of the team, you'll also mentor other engineers, share your knowledge, and help establish consistent technical practices.
+
+About Us:
+
+ESG, along with its subsidiary Pandell, is a global leader in energy software, providing Software-as-a-Service (SaaS) solutions that support companies across utilities, renewables, retail energy, and oil and gas.
+
+Across North America and the UK, our combined platforms help teams manage key parts of their business, including billing, asset management, regulatory requirements, and geospatial data. These tools bring together the information and workflows teams rely on every day, making it easier to run operations and stay organized.
+
+Through cloud-based technology and data-driven insights, we help energy companies navigate complex markets and continue progressing toward Net-Zero goals.
+
+Life at ESG
+
+Picture a workplace where what you do truly matters, your voice is heard, and your teammates are some of the smartest, kindest, and funniest people you'll meet.
+
+We're a fast-moving, high-performing software company filled with talented, purpose-driven people. Our culture is challenging, rewarding, and genuinely supportive. Diversity, equity, and inclusion are part of who we are, and we want you to show up as your authentic self. In return, we'll support you with the trust, tools, and flexibility you need to do your best work.
+
+What You'll Do
+
+
+Design, build, and maintain secure, scalable cloud and hybrid infrastructure using Infrastructure as Code
+Work with development teams to build and improve automated CI/CD pipelines
+Automate infrastructure provisioning, configuration, deployment, monitoring, and recovery
+Develop and maintain observability tools, with a focus on Datadog for metrics, logs, traces, and alerting
+Establish service level objectives and practical alerting standards to improve reliability and help teams resolve issues quickly
+Monitor cloud spending, identify savings opportunities, and introduce cost controls while maintaining performance and reliability
+Maintain and improve VMware environments, including availability, capacity, and performance
+Troubleshoot complex production incidents, identify root causes, and implement lasting improvements
+Partner with security teams to strengthen infrastructure security and support compliance requirements
+Lead disaster recovery planning and testing, along with ongoing capacity planning and performance tuning
+Mentor other engineers and contribute to technical standards, architecture diagrams, and operational documentation
+
+
+Requirements
+
+
+8+ years of relevant experience in cloud engineering, DevOps, or infrastructure engineering
+At least five years of experience designing, operating, and improving enterprise environments that include Windows, Linux, and SQL-based systems
+Strong experience with at least one major cloud platform. AWS is preferred; Azure or Google Cloud experience is also relevant
+Hands-on experience with Infrastructure as Code tools such as Terraform or CloudFormation
+Strong knowledge of VMware technologies, including vSphere, ESXi, and vCenter, along with experience running Docker and Kubernetes in production
+Experience with enterprise storage, networking, and security infrastructure
+Scripting and automation skills using Python, PowerShell, Bash, Go, or a combination of these
+Experience building and maintaining CI/CD pipelines using tools such as Jenkins, GitLab CI, or CircleCI, along with Git version control
+Experience implementing monitoring and observability solutions, including Datadog
+Familiarity with configuration management tools such as Ansible, Puppet, or Chef
+Clear communication skills and the ability to explain technical decisions, manage competing priorities, and guide projects involving several teams
+A degree in computer science, engineering, or a related field, or an equivalent combination of education and practical experience
+
+
+Bonus Points If You Have
+
+
+Experience leading large-scale migrations to AWS
+Strong SQL Server administration skills and experience supporting IIS
+Experience with cloud cost management and FinOps practices, including rightsizing, Savings Plans or Reserved Instances, tagging, and budgets
+Experience establishing DevOps practices and cloud governance standards
+Experience with additional monitoring tools such as ELK, Prometheus, or Grafana
+
+
+Benefits
+
+What's In It for You?
+
+Here are just a few things we offer:
+
+
+Work-from-home or office flexibility - choose where you work best!
+Flexible hours to support work-life balance
+Competitive benefits package, including 100% dental reimbursement
+Retirement Savings Plan with company matching
+Training budget and professional development opportunities
+Fully stocked kitchen at the office with healthy options, snacks, and plenty of coffee
+A fun and engaging culture with virtual and in-person events, learning opportunities, and a games room and lounge
+A wellness budget to support your version of wellbeing
+
+
+Join us and be part of something EPIC.
+
+Apply today!
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Pandell, an ESG Company by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Controller jobs
+Senior Cloud DevOps Specialist
+Similar jobs
+Cloud Infrastructure DevOps Engineer
+Cloud Infrastructure DevOps Engineer
+Cognizant
+Greater Calgary Metropolitan Area
+34 minutes ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+SOVRA
+Calgary, Alberta, Canada
+2 months ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+TELUS Digital
+Calgary, Alberta, Canada
+CA$96,000 - CA$120,000
+1 week ago
+Senior DevOps Engineer - Cloud Operations
+Senior DevOps Engineer - Cloud Operations
+Black Duck
+Calgary, Alberta, Canada
+2 days ago
+Staff Cloud Engineer , Cloud Platform
+Staff Cloud Engineer , Cloud Platform
+Kinaxis
+Calgary, Alberta, Canada
+5 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Haventree Bank
+Calgary, Alberta, Canada
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Cloud Engineer - Cloud Security
+Cloud Engineer - Cloud Security
+
+Viva Tech Solutions
+
+Calgary, Alberta, Canada
+4 days ago
+Staff Software Developer - Cloud Platform – Control Plane
+Staff Software Developer - Cloud Platform – Control Plane
+
+IBM
+
+Calgary, Alberta, Canada
+CA$180,200 - CA$229,200
+2 weeks ago
+CCaaS Engineer
+CCaaS Engineer
+
+Accenture
+
+Calgary, Alberta, Canada
+6 days ago
+System Administrator
+System Administrator
+
+Hexagon Autonomous Solutions
+
+Calgary, Alberta, Canada
+1 week ago
+Cloud Engineer
+Cloud Engineer
+
+Realtek Consulting LLC
+
+Calgary, Alberta, Canada
+4 hours ago
+Senior Architect - Engineering
+Senior Architect - Engineering
+
+Homewood Health Centre
+
+Calgary, Alberta, Canada
+2 months ago
+Software Technical Leader
+Software Technical Leader
+
+Cisco
+
+Calgary, Alberta, Canada
+2 weeks ago
+Staff Engineer
+Staff Engineer
+
+ZayZoon
+
+Calgary, Alberta, Canada
+4 months ago
+Systems Analyst
+Systems Analyst
+
+Canadian Natural Resources Limited (CNRL)
+
+Calgary, Alberta, Canada
+5 days ago
+Senior Analyst - Commercial Technology
+Senior Analyst - Commercial Technology
+
+WestJet
+
+Calgary, Alberta, Canada
+5 days ago
+Similar Searches
+Controller jobs
+4,082 open jobs
+Software Engineer jobs
+18,695 open jobs
+Developer jobs
+19,120 open jobs
+Senior Software Engineer jobs
+5,247 open jobs
+Engineer jobs
+24,068 open jobs
+Biostatistician jobs
+1,018 open jobs
+Director of Product Development jobs
+566 open jobs
+Commercial Analyst jobs
+2,973 open jobs
+Statistician jobs
+1,040 open jobs
+Document Controller jobs
+2,087 open jobs
+User Experience Designer jobs
+1,152 open jobs
+Software Tester jobs
+457 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language

@@ -1,0 +1,280 @@
+Title: Associate, DevOps Engineer
+Company: BMO Capital Markets
+Location: Toronto, Ontario, Canada
+URL: https://ca.linkedin.com/jobs/view/associate-devops-engineer-at-bmo-capital-markets-4482499894
+Posted: 2026-10-27
+Deadline: N/A
+Reason: This DevOps Engineer role in Toronto, Canada aligns well with her extensive CI/CD, pipeline automation, and scripting background.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Associate, DevOps Engineer
+BMO Capital Markets  Toronto, Ontario, Canada
+1 week ago  119 applicants
+  
+
+See who BMO Capital Markets has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+BMO Capital Markets is a leading, full-service financial services provider. We offer corporate and investment banking, treasury management, as well as research and advisory services to clients around the world. #bmocapitalmarkets
+
+About The Role
+
+We are seeking an experienced DevOps Engineer to join our Data Cognition Team at BMO Capital Markets. In this role, you will design, build, and maintain robust DevOps pipelines and infrastructure to support AI and data-driven applications across Investment Banking and Global Markets. You will play a critical role in enabling scalable, secure, and automated environments for deploying advanced analytics and machine learning solutions.
+
+Our Team
+
+The Data Cognition Team (DCT) at BMO Capital Markets delivers a scalable, customizable, and sustainable suite of AI-enabled products for multiple business units. We leverage cutting-edge technologies to solve complex business challenges and drive strategic transformation across Investment Banking, Global Markets, and other divisions.
+
+Key Responsibilities
+
+
+Develop and maintain end-to-end DevOps pipelines for AI and data applications, ensuring reliability and scalability.
+Enhance build infrastructure for in-house data and analytics applications.
+Implement Infrastructure as Code (IaC) for platform components and create automation tools for efficient platform management.
+Maintenance and upgrading of server infrastructure including multiple clusters.
+Improve monitoring facilities across diverse applications and troubleshoot infrastructure issues promptly.
+Integrate enterprise technologies for application release and system integration.
+Stay current with emerging DevOps, AI/ML, and cloud technologies to continuously improve processes.
+
+
+
+Qualifications
+
+
+University degree in Computer Science, Engineering, Mathematics, or related technical field.
+Strong experience with cloud platforms (AWS, Azure, GCP).
+Hands-on experience with k8s and ArgoCD and deployment of various range of services such as Kafka, Druid, and OpenTelemetry.
+Proficiency in programming languages such as Python, Go, and Bash.
+Experience with Infrastructure as Code tools (Terraform, Helm, Kustomize).
+Knowledge of cloud security frameworks and tools (CSPM, DSPM, ASPM).
+Experience with containerized environments and OCI image building.
+Experience with DevOps tools (GitHub, GitLab CI, Jenkins, Prometheus, Grafana, Elasticsearch, Kibana).
+Strong understanding of security protocols (Kerberos, TLS, OAuth2).
+Excellent communication skills for collaboration with technical and business stakeholders.
+
+
+
+Nice to Have
+
+
+Certifications such as CKA (Certified Kubernetes Administrator), CKAD (Certified Kubernetes Application Developer), or AWS/Azure/GCP cloud certifications.
+Experience with Generative AI, Agentic AI, or similar advanced AI technologies, including building and deploying intelligent agents and generative models.
+
+
+
+What We Offer
+
+Join our dynamic team at BMO Capital Markets and contribute to solving complex challenges in investment banking and global markets using cutting-edge technologies. We offer opportunities for professional growth, access to the latest tools, and the chance to make a significant impact on critical business operations. Apply today with your resume, highlighting your relevant experience in DevOps engineering and AI.
+
+Base Salary: $90,000-$120,000 CAD
+
+(subject to negotiation and subject to the candidate meeting the specific skills, experience, education, and qualification requirements)
+
+Salary:
+
+Pay Type:
+
+Salaried
+
+The above represents BMO Financial Group’s pay range and type.
+
+Salaries will vary based on factors such as location, skills, experience, education, and qualifications for the role, and may include a commission structure. Salaries for part-time roles will be pro-rated based on number of hours regularly worked. For commission roles, the salary listed above represents BMO Financial Group’s expected target for the first year in this position.
+
+BMO Financial Group’s total compensation package will vary based on the pay type of the position and may include performance-based incentives, discretionary bonuses, as well as other perks and rewards. BMO also offers health insurance, tuition reimbursement, accident and life insurance, and retirement savings plans. To view more details of our benefits, please visit: https://jobs.bmo.com/global/en/Total-Rewards
+
+About Us
+
+At BMO we are driven by a shared Purpose: Boldly Grow the Good in business and life. It calls on us to create lasting, positive change for our customers, our communities and our people. By working together, innovating and pushing boundaries, we transform lives and businesses, and power economic growth around the world.
+
+As a member of the BMO team you are valued, respected and heard, and you have more ways to grow and make an impact. We strive to help you make an impact from day one – for yourself and our customers. We’ll support you with the tools and resources you need to reach new milestones, as you help our customers reach theirs. From in-depth training and coaching, to manager support and network-building opportunities, we’ll help you gain valuable experience, and broaden your skillset.
+
+To find out more visit us at https://jobs.bmo.com/ca/en
+
+BMO is committed to an inclusive, equitable and accessible workplace. By learning from each other’s differences, we gain strength through our people and our perspectives. Accommodations are available on request for candidates taking part in all aspects of the selection process. To request accommodation, please contact your recruiter.
+
+Note to Recruiters: BMO does not accept unsolicited resumes from any source other than directly from a candidate. Any unsolicited resumes sent to BMO, directly or indirectly, will be considered BMO property. BMO will not pay a fee for any placement resulting from the receipt of an unsolicited resume. A recruiting agency must first have a valid, written and fully executed agency agreement contract for service to submit resumes.
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Part-time
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at BMO Capital Markets by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Senior Equity Research Analyst jobs
+Associate, DevOps Engineer
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+Leap Tools
+Toronto, Ontario, Canada
+1 month ago
+Junior DevOps Specialist
+Junior DevOps Specialist
+CGI
+Greater Toronto Area, Canada
+1 week ago
+DevOps Engineer
+DevOps Engineer
+TD
+Toronto, Ontario, Canada
+17 hours ago
+DevOps Engineer
+DevOps Engineer
+Alstom
+Toronto, Ontario, Canada
+7 months ago
+DevOps Engineer, AFT
+DevOps Engineer, AFT
+Amazon
+Toronto, Ontario, Canada
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+Equinix
+Toronto, Ontario, Canada
+4 days ago
+Show more jobs like this 
+People also viewed
+Cloud Operations Engineer
+Cloud Operations Engineer
+
+Porter Airlines Inc.
+
+Toronto, Ontario, Canada
+6 months ago
+Platform & Site Reliability Engineer
+Platform & Site Reliability Engineer
+
+adidas
+
+Woodbridge, Ontario, Canada
+5 days ago
+DevOps Engineer
+DevOps Engineer
+
+Proofpoint
+
+Toronto, Ontario, Canada
+2 weeks ago
+Platform Engineer
+Platform Engineer
+
+Tata Consultancy Services
+
+Toronto, Ontario, Canada
+CA$100,000 - CA$120,000
+2 weeks ago
+Platform Engineer - Depop
+Platform Engineer - Depop
+
+eBay
+
+Toronto, Ontario, Canada
+3 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+RAPS Consulting Inc
+
+Toronto, Ontario, Canada
+CA$100,000 - CA$110,000
+8 hours ago
+DevOps Engineer
+DevOps Engineer
+
+Pillway
+
+Brampton, Ontario, Canada
+1 week ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+Porter Airlines Inc.
+
+Toronto, Ontario, Canada
+1 week ago
+DevOps Engineer - New Grad (January 2027)
+DevOps Engineer - New Grad (January 2027)
+
+BDO Canada
+
+Toronto, Ontario, Canada
+2 weeks ago
+ModiFace - DevOps Developer
+ModiFace - DevOps Developer
+
+L'Oréal
+
+Toronto, Ontario, Canada
+2 weeks ago
+Similar Searches
+Senior Equity Research Analyst jobs
+184 open jobs
+Equity Strategist jobs
+189 open jobs
+Associate Investment Advisor jobs
+1,833 open jobs
+Investment Representative jobs
+2,122 open jobs
+Equity Research Associate jobs
+1,628 open jobs
+Business Management Analyst jobs
+1,894 open jobs
+Commodity Analyst jobs
+1,160 open jobs
+Special Event Manager jobs
+137 open jobs
+Investment Banking Summer Analyst jobs
+12 open jobs
+Credit Portfolio Manager jobs
+194 open jobs
+Equity Research Analyst jobs
+1,177 open jobs
+Treasury Intern jobs
+23 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language

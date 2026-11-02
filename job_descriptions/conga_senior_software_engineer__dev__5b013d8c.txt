@@ -1,0 +1,361 @@
+Title: Senior Software Engineer, Dev Ops
+Company: Conga
+Location: Waterloo, Ontario, Canada
+URL: https://ca.linkedin.com/jobs/view/senior-software-engineer-dev-ops-at-conga-4473816710
+Posted: 2026-10-27
+Deadline: Open until filled
+Reason: This Senior Software Engineer, DevOps role in Canada matches her extensive background in CI/CD pipeline ownership, automation, cloud infrastructure, and configuration management.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Software Engineer, Dev Ops
+Conga  Waterloo, Ontario, Canada
+1 week ago   Over 200 applicants
+  
+
+See who Conga has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+A career that’s the whole package!
+
+At Conga, we’ve built a community where our colleagues can thrive. Here you’ll find opportunities to innovate and support growth through individual and team development, all within an environment where every voice is heard.
+
+Conga lines up commercial operations so companies run as connected, smarter businesses. By unifying the people and processes that drive commerce, Conga aligns pricing, quoting, contracting, rebates, and communications so teams stay in sync and buyers keep moving forward. The result is trusted decisions, consistent buyer experiences, and profitable growth. More than 10,000 customers worldwide, including over 50% of the Fortune 100®, trust Conga when commercial complexity is high and global impact is on the line.
+
+Sr. Software Engineer, DevOps
+
+Location: Canada
+
+Reports to: Senior Director, Cloud Operations
+
+A quick snapshot…
+
+As a Senior Software Engineer, DevOps at Conga, you will play a critical role in designing, building, and optimizing the cloud infrastructure and delivery capabilities that power our industry-leading revenue lifecycle management solutions. You will collaborate closely with Engineering, Product, and Operations teams to establish and advance modern Continuous Integration and Continuous Delivery (CI/CD) practices that enable teams to innovate rapidly while maintaining scalability, reliability, and security.
+
+This role is ideal for an engineer who thrives in dynamic environments, enjoys solving complex infrastructure challenges, and is passionate about automation, cloud technologies, and operational excellence. You will help build the foundation that enables Conga’s engineering teams to deliver world-class software experiences for customers around the globe.
+
+Why it’s a big deal…
+
+At Conga, DevOps is a strategic enabler of product innovation and platform reliability. As we continue to scale our cloud-native platforms and global customer footprint, the need for secure, automated, and resilient infrastructure has never been greater.
+
+As a Senior Software Engineer DevOps, you will help drive the evolution of our development and deployment ecosystems, empowering engineering teams to deliver high-quality software faster and more efficiently. Your expertise will directly influence system availability, deployment velocity, operational excellence, and the overall developer experience across the organization.
+
+You'll work alongside a highly talented team of engineers dedicated to solving complex technical challenges while supporting products that help customers streamline and transform their revenue operations.
+
+What You’ll Lead…
+
+Continuous Integration & Delivery Excellence
+
+
+Design, implement, and maintain scalable CI/CD pipelines that automate software build, testing, deployment, and release processes.
+Drive continuous improvement initiatives that increase deployment efficiency, reliability, and developer productivity.
+Partner with engineering teams to establish DevOps best practices across the software development lifecycle.
+Champion automation-first approaches that reduce manual effort and improve operational consistency.
+
+
+Cloud Infrastructure & Platform Engineering
+
+
+Design and support highly available, secure, and scalable cloud infrastructure across AWS and Microsoft Azure environments.
+Develop and maintain Infrastructure-as-Code (IaC) solutions using tools such as Terraform and CloudFormation.
+Optimize platform performance, cost efficiency, and operational resilience across production and non-production environments.
+Partner with engineering teams to build and maintain cloud-native architectures that support growth and scale.
+
+
+Containerization & Kubernetes Strategy
+
+
+Design, deploy, and manage containerized workloads utilizing Docker and Kubernetes.
+Establish deployment standards and operational best practices for Kubernetes-based environments.
+Support container orchestration, monitoring, scaling, and lifecycle management initiatives.
+Drive platform modernization efforts through the adoption of cloud-native technologies.
+
+
+Security, Reliability & Operational Excellence
+
+
+Implement and maintain infrastructure and application security best practices, including encryption, access controls, network security, and vulnerability management.
+Design solutions that support fault tolerance, disaster recovery, and business continuity objectives.
+Collaborate with teams to improve observability, monitoring, alerting, and incident response capabilities.
+Proactively identify risks and implement solutions that improve system reliability and uptime.
+
+
+Cross-Functional Engineering Partnership
+
+
+Collaborate with software engineers, architects, and product teams to support scalable application development and deployment strategies.
+Provide technical guidance on infrastructure architecture, cloud adoption, and operational best practices.
+Participate in architectural reviews and contribute to long-term platform strategy discussions.
+Foster a culture of continuous learning, innovation, and engineering excellence.
+
+
+Are you the person we’re looking for?
+
+
+Bachelor’s degree in Computer Science, Information Systems, Engineering, or a related field, or equivalent practical experience.
+5+ years of hands-on experience architecting, building, and supporting highly scalable software and infrastructure solutions.
+Proven experience deploying and managing production workloads within AWS and/or Microsoft Azure cloud environments.
+Experience implementing and supporting Continuous Integration and Continuous Delivery practices within modern development organizations.
+Demonstrated success designing solutions that deliver high availability, scalability, and reliability.
+
+
+Technical Expertise
+
+
+Strong understanding of microservices architectures and modern cloud-based application design principles, including SaaS, PaaS, IaaS, multi-tenancy, and distributed systems.
+Deep knowledge of Infrastructure-as-Code frameworks such as Terraform and CloudFormation.
+Experience with container technologies, including Docker and Kubernetes.
+Working knowledge of networking concepts, including TCP/IP, DNS, VPNs, firewalls, routers, and switches.
+Familiarity with cloud and application security best practices.
+Knowledge of modern software development technologies including .NET Core/.NET Framework, Java, and JavaScript.
+Experience analyzing and solving complex technical challenges within large-scale distributed systems.
+
+
+Key Competencies
+
+DevOps & Automation Mindset
+
+You are passionate about automation, process optimization, and building repeatable, scalable solutions that improve engineering efficiency.
+
+Infrastructure & Cloud Expertise
+
+You bring a strong understanding of cloud-native technologies and modern infrastructure practices that support enterprise-scale applications.
+
+Problem Solver
+
+You can quickly analyze complex systems, identify root causes, and implement effective solutions in fast-paced environments.
+
+Collaboration & Communication
+
+You partner effectively across engineering teams and communicate technical concepts clearly to diverse stakeholders.
+
+Operational Excellence
+
+You are committed to reliability, security, scalability, and maintaining high standards for platform performance and availability.
+
+Here’s What Will Give You An Edge…
+
+
+Cloud certifications in AWS, Microsoft Azure, and/or Kubernetes.
+Experience architecting or deploying enterprise solutions on Kubernetes platforms.
+Experience designing highly available cloud architectures with fault tolerance and disaster recovery capabilities.
+Familiarity with security standards and frameworks including OAuth, WS-Security, encryption in transit, and encryption at rest.
+Experience working within Agile development environments.
+Hands-on experience with Atlassian Jira and modern software delivery toolchains.
+Background supporting large-scale SaaS products and cloud-native platforms.
+
+
+Did we pique your interest? 
+
+If this sounds like the kind of job you would love in the kind of environment where you would thrive, please click apply. We'd love to hear from you! 
+
+Preferred Resume Format
+
+We accept resumes in any format, we suggest using PDF or plain text. These formats help ensure that your resume’s formatting remains intact, making it easier for our recruiters to review your application promptly.
+
+Don’t meet every requirement for the role?  
+
+Studies have shown that women and members of ethnic minorities are less likely to apply to jobs unless they meet every single qualification. At Conga we are dedicated to building a diverse, inclusive, and authentic workplace, so if you’re excited about this role but your experience doesn’t align perfectly with every qualification in the job description, we encourage you to apply anyway. You just might be the right candidate for this or other roles. 
+
+Additional Information
+
+Conga is proud to be an Equal Opportunity Employer and provides equal employment opportunities to all employees and applicants regardless of race, color, religion, gender, gender identity, age, national origin, disability, parental or pregnancy status, marriage and civil partnership, sexual orientation, veteran status, or any other characteristic protected by law. We understand interviewing can be stressful for those with disabilities. If reasonable accommodation is needed to allow you to show us your best self, please let your recruiter know as soon as possible. All your information will be kept confidential according to EEO guidelines. Conga is not open to third party solicitation or resumes for our posted FTE positions. Resumes received from third party agencies that are unsolicited will be considered complimentary.
+
+Conga's Applicant Privacy Statement
+
+The information you provide during the application process will be used in accordance with Conga’s Applicant Privacy Statement (https://conga.com/applicant-privacy-statement). By submitting your application, you acknowledge and agree to the terms outlined in this privacy statement.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Conga by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Senior Developer Contract jobs
+Senior Software Engineer, Dev Ops
+Similar jobs
+Senior Platform Engineer
+Senior Platform Engineer
+Lillio (formerly HiMama)
+Canada
+7 months ago
+Software Engineer, Infrastructure
+Software Engineer, Infrastructure
+Keycard
+Canada
+6 days ago
+Senior DevOps and Back-end Software Engineer
+Senior DevOps and Back-end Software Engineer
+PhenoTips
+Canada
+4 hours ago
+Software Engineer
+Software Engineer
+ComPsych
+Canada
+2 weeks ago
+Senior Platform Engineer
+Senior Platform Engineer
+Burq
+Canada
+1 week ago
+Staff Software Engineer, Platform Engineering
+Staff Software Engineer, Platform Engineering
+Lime
+Canada
+CA$172,000 - CA$237,000
+5 days ago
+Show more jobs like this 
+People also viewed
+Staff DevOps Engineer
+Staff DevOps Engineer
+
+Nexxa.ai
+
+Canada
+2 months ago
+Software Engineer – Cloud & DevOps
+Software Engineer – Cloud & DevOps
+
+Applicantz
+
+Canada
+CA$45 - CA$50
+6 hours ago
+Software Engineer - Infrastructure
+Software Engineer - Infrastructure
+
+Mercury
+
+Canada
+1 week ago
+Senior Developer - Delivery Engineering
+Senior Developer - Delivery Engineering
+
+Jane App
+
+Canada
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Ayla Networks
+
+Ontario, Canada
+1 month ago
+Senior Software Engineer (Remote)
+Senior Software Engineer (Remote)
+
+RXNT
+
+Canada
+CA$170,000 - CA$240,000
+1 month ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+TELUS Digital
+
+Canada
+CA$96,000 - CA$120,000
+1 week ago
+Senior Software Engineer, Infrastructure Platform
+Senior Software Engineer, Infrastructure Platform
+
+Lattice
+
+Canada
+1 week ago
+Senior DevSecOps Engineer
+Senior DevSecOps Engineer
+
+Rightsline
+
+Canada
+CA$90,000 - CA$100,000
+1 month ago
+DevSecOps Engineer (Infrastructure)
+DevSecOps Engineer (Infrastructure)
+
+Empire Life
+
+Canada
+3 weeks ago
+Similar Searches
+Senior Developer Contract jobs
+2,881 open jobs
+Senior Software Engineer Contract jobs
+2,626 open jobs
+Staff Software Engineer jobs
+3,606 open jobs
+Lead Software Engineer jobs
+4,225 open jobs
+Senior Lead Software Engineer jobs
+2,993 open jobs
+Principal Software Engineer jobs
+4,028 open jobs
+Senior Java Software Engineer jobs
+3,756 open jobs
+Senior Software Specialist jobs
+3,584 open jobs
+Senior Staff Software Engineer jobs
+3,260 open jobs
+Senior System Software Engineer jobs
+3,151 open jobs
+Java Software Engineer jobs
+2,724 open jobs
+Software Engineering Team Lead jobs
+15,426 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
