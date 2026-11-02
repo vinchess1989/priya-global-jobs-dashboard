@@ -1,0 +1,263 @@
+Title: DevOps Engineer - Noida
+Company: NeoXam
+Location: Noida, Uttar Pradesh, India
+URL: https://in.linkedin.com/jobs/view/devops-engineer-noida-at-neoxam-4468836203
+Posted: 2026-10-31
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in DevOps, CI/CD pipeline ownership, and configuration management, and it is located in India, which is one of her target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer - Noida
+NeoXam  Noida, Uttar Pradesh, India
+3 days ago   Over 200 applicants
+  
+
+See who NeoXam has hired for this role
+
+Apply 
+Save
+Role - DevOps Engineer
+
+Location: India - Noida
+
+Type: Full-time
+
+Department: R&D
+
+About NeoXam
+
+NeoXam is a leading B2B fintech software vendor serving buy-side investment managers and asset servicers globally. Our platform covers data management, reconciliation, fund accounting, reporting, and portfolio management. As we scale, we are investing in the reliability, automation, and security of the infrastructure and delivery pipelines that power our platform.
+
+The Role
+
+We are looking for a DevOps Engineer to own the design, automation, and reliability of our cloud infrastructure and CI/CD pipelines.
+
+The problem space is clear: engineering teams need fast, safe, and repeatable ways to build, test, and ship software across multiple products and client environments. This is a hands-on individual contributor role with end-to-end ownership, from infrastructure design to production operations. As the initiative matures, you will have the opportunity to shape standards adopted across engineering.
+
+What You Will Work On
+
+
+Design, build, and maintain CI/CD pipelines that support multiple engineering teams and products
+Provision and manage cloud infrastructure as code (Terraform, CloudFormation, or equivalent) across environments
+Deploy, operate, and scale containerized workloads using Docker and Kubernetes
+Build monitoring, logging, and alerting systems that give engineering and support teams real visibility into production health
+Automate configuration management, release processes, and routine operational tasks to reduce manual toil
+Define and enforce security, access control, and secrets management practices across the infrastructure (DevSecOps)
+Continuously improve system reliability, deployment speed, and cost efficiency based on real usage and incidents
+
+
+What We Are Looking For
+
+
+3-7 years of DevOps, SRE, or infrastructure engineering experience
+Must have hands-on experience with at least one major cloud platform (AWS, Azure, or GCP)
+Strong scripting ability in Python, Bash, or Go for automation
+Hands-on experience with containerization (Docker) and orchestration (Kubernetes)
+Experience with Infrastructure as Code tools, Terraform preferred
+Solid understanding of CI/CD tools and practices (Jenkins, GitLab CI, GitHub Actions, or equivalent)
+Experience with configuration management tools (Ansible, Chef, or Puppet)
+Working knowledge of monitoring and logging tools (Prometheus, Grafana, ELK Stack, Datadog, or equivalent)
+Solid Linux system administration and networking fundamentals (DNS, load balancing, VPC,firewalls)
+Comfortable working end-to-end autonomously, from design to production operations
+
+
+Who You Are
+
+
+A builder, energized by improving systems that other teams depend on
+Pragmatic, you pick the right tool, not the flashiest one
+Autonomous, you drive toward outcomes without waiting to be told what to do next
+Detail-oriented, you take reliability and security seriously
+
+
+Why Join
+
+
+Ownership of infrastructure and delivery pipelines that power a global fintech platform
+Direct visibility with engineering leadership on architecture decisions
+Path to growing scope and influence as the initiative matures
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at NeoXam by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Middleware Architect jobs
+DevOps Engineer - Noida
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+Docyt
+Noida, Uttar Pradesh, India
+1 month ago
+DevOps Engineer
+DevOps Engineer
+Plasma
+Noida, Uttar Pradesh, India
+2 months ago
+DevOps Engineer ID98058
+DevOps Engineer ID98058
+AgileEngine
+Noida, Uttar Pradesh, India
+5 days ago
+Devops Engineer
+Devops Engineer
+Comviva
+Gurugram, Haryana, India
+1 month ago
+DevOps SDE-2
+DevOps SDE-2
+PW (PhysicsWallah)
+Noida, Uttar Pradesh, India
+17 hours ago
+Cloud DevOps Engineer
+Cloud DevOps Engineer
+OneSpan
+Noida, Uttar Pradesh, India
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Computer Scientist 2
+Computer Scientist 2
+
+Adobe
+
+Noida, Uttar Pradesh, India
+1 week ago
+Dev Ops Engineer
+Dev Ops Engineer
+
+WapHire
+
+Noida, Uttar Pradesh, India
+1 week ago
+Platform Engineer
+Platform Engineer
+
+LambdaTest is now TestMu AI
+
+Noida, Uttar Pradesh, India
+3 months ago
+DevOps Engineer
+DevOps Engineer
+
+Magnus Copo
+
+Gurugram, Haryana, India
+₹1,100,000 - ₹1,400,000
+10 months ago
+Senior DevOps Engineer - Immediate Joiner
+Senior DevOps Engineer - Immediate Joiner
+
+Luxoft India
+
+Noida, Uttar Pradesh, India
+4 days ago
+DevOps Engineer II
+DevOps Engineer II
+
+Olive Crypto Systems Pvt. Ltd.
+
+Gurugram, Haryana, India
+10 hours ago
+DevOps Engineer Kafka & PostgreSQL
+DevOps Engineer Kafka & PostgreSQL
+
+Mirantis
+
+Delhi, Delhi, India
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+NVIDIA
+
+New Delhi, Delhi, India
+2 weeks ago
+Cloud Engineer
+Cloud Engineer
+
+PlusWealth Group
+
+Gurugram, Haryana, India
+1 week ago
+SecDevOps Engineer
+SecDevOps Engineer
+
+MoneyMul
+
+Noida, Uttar Pradesh, India
+4 months ago
+Similar Searches
+Middleware Architect jobs
+1,429 open jobs
+Data Quality Manager jobs
+1,390 open jobs
+Information Developer jobs
+52,946 open jobs
+Project Buyer jobs
+3,246 open jobs
+Financial Risk Analyst jobs
+2,770 open jobs
+Help Desk Manager jobs
+1,444 open jobs
+Risk Consultant jobs
+4,221 open jobs
+Reporting Manager jobs
+7,274 open jobs
+Data Consultant jobs
+8,297 open jobs
+Network Security Administrator jobs
+1,191 open jobs
+Market Data Analyst jobs
+2,555 open jobs
+Business Intelligence Consultant jobs
+2,663 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at NeoXam
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

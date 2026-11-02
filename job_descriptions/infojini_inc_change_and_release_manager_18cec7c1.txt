@@ -1,0 +1,320 @@
+Title: Change And Release Manager
+Company: Infojini Inc
+Location: India
+URL: https://in.linkedin.com/jobs/view/change-and-release-manager-at-infojini-inc-4486150554
+Posted: 2026-11-03
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in release management, configuration management, and CI/CD pipeline ownership within a professional, English-speaking environment in India.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Change And Release Manager
+Infojini Inc  India
+11 hours ago  63 applicants
+  
+
+See who Infojini Inc has hired for this role
+
+Apply
+Save
+
+Direct message the job poster from Infojini Inc
+
+Ankur kakran
+Ankur kakran
+
+Position: Change & Release Coordinator/Manager
+
+Focus: Release Engineering, Automation & Environment Management (Prod & Non-Prod)
+
+Experience: 5–8 Years
+
+Position Summary
+
+We are seeking an experienced Change & Release Coordinator to manage, oversee, and
+
+optimize end-to-end change and release deployment processes across both production
+
+and non-production environments. You will bridge the gap between Development, DevOps,
+
+QA, and IT Operations to drive reliable, repeatable releases using automated deployment
+
+pipelines and strict governance framework protocols.
+
+
+
+
+Key Responsibilities
+
+
+
+
+Release Orchestration & Coordination
+
+• Own the Release Management Lifecycle for scheduled software releases,
+
+continuous integration builds, and hotfixes across multi-environment landscapes
+
+(Dev, Test, Staging, Prod).
+
+• Lead Release Readiness reviews, Go/No-Go checkpoints, Deployment Planning
+
+meetings, and post-implementation reviews (PIRs).
+
+• Coordinate deployment cutovers and dry runs across engineering, infrastructure,
+
+database, and security teams.
+
+Change Governance & Compliance
+
+• Evaluate Change Requests (CRs) for risk, impact, environment dependencies, and
+
+technical readiness prior to CAB (Change Advisory Board) reviews.
+
+• Enforce compliance with organizational change policies, audit requirements, and
+
+ITIL standards across all changes.
+
+• Track change success/failure metrics, maintaining accurate release schedules and
+
+release documentation.
+
+Automation & Environment Management
+
+• Collaborate with DevOps and Release Engineers to standardize automated
+
+deployment scripts, CI/CD pipelines, and environment configuration controls.
+
+• Drive transition strategies from manual deployment steps to fully automated
+
+pipeline deployments.
+
+• Manage environment access, code branch cutoffs, configuration drift monitoring,
+
+and synchronization between non-production and production environments.
+
+Incident & Risk Mitigation
+
+• Establish standardized rollback protocols and contingency plans for high-risk
+
+changes.
+
+• Serve as the escalation point for deployment failures, environment contention
+
+issues, or pipeline blockages during release windows.
+
+Qualifications & Key Skills
+
+• Experience: 5+ years of dedicated experience in IT Change, Release, or
+
+Environment Management within cloud or hybrid enterprise landscapes.
+
+• Release Engineering & Automation: Knowledge and experience in working with
+
+team DevOps and automation work
+
+• ITSM & Governance: Deep working knowledge of ITSM frameworks and tools
+
+(ServiceNow, Jira, Confluence, BMC Helix).
+
+• Environment Knowledge: Familiarity with managing code deployments across
+
+microservices, containers (Docker, Kubernetes), databases, and legacy platforms.
+
+• Methodologies: Strong understanding of Agile, DevSecOps, Continuous Delivery,
+
+and ITIL methodologies (ITIL Foundation certification preferred).
+
+• Communication: Excellent coordination, stakeholder management, and crisis
+
+control skills during critical deployment cutover windows
+
+
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Contract
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Infojini Inc by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Software Configuration Manager jobs
+Change And Release Manager
+Similar jobs
+IS Change and Release Manager for SAP CFIN
+IS Change and Release Manager for SAP CFIN
+ABB
+Bengaluru East, Karnataka, India
+6 days ago
+Release Manager
+Release Manager
+Infosys
+Bengaluru East, Karnataka, India
+1 week ago
+Change And Release Manager- BSS Domain
+Change And Release Manager- BSS Domain
+Rakuten India
+Bengaluru, Karnataka, India
+4 weeks ago
+Change & Release Manager II
+Change & Release Manager II
+GreyOrange
+Gurugram, Haryana, India
+1 week ago
+Release Management Manager
+Release Management Manager
+Jobs Ai
+India
+1 week ago
+Release Manager
+Release Manager
+Blue Spire Inc
+Hyderabad, Telangana, India
+1 week ago
+Show more jobs like this 
+People also viewed
+Lead Engineer
+Lead Engineer
+
+Majesco
+
+India
+1 week ago
+Workday Release Manager
+Workday Release Manager
+
+Agilysis
+
+Pune City, Maharashtra, India
+1 week ago
+Technology Manager
+Technology Manager
+
+Revolut
+
+India
+2 weeks ago
+Senior Release Engineer
+Senior Release Engineer
+
+GitLab
+
+Bengaluru, Karnataka, India
+2 weeks ago
+Release Manager
+Release Manager
+
+Thoucentric
+
+Bengaluru, Karnataka, India
+8 months ago
+Operations & Release Architect
+Operations & Release Architect
+
+Mattel, Inc.
+
+Hyderabad, Telangana, India
+4 days ago
+PF Servicenow Change Manager
+PF Servicenow Change Manager
+
+BNP Paribas
+
+Mumbai, Maharashtra, India
+2 days ago
+Senior Specialist, Change Management
+Senior Specialist, Change Management
+
+SES Satellites
+
+Chennai, Tamil Nadu, India
+3 days ago
+GET- Change Control Manager
+GET- Change Control Manager
+
+Centum T&S
+
+Bengaluru, Karnataka, India
+1 year ago
+Product Line Management
+Product Line Management
+
+Applied Materials India
+
+Bengaluru, Karnataka, India
+5 hours ago
+Similar Searches
+Software Configuration Manager jobs
+7,612 open jobs
+Release Manager jobs
+5,638 open jobs
+Lead Internal Auditor jobs
+468 open jobs
+Problem Manager jobs
+2,374 open jobs
+Deployment Manager jobs
+4,865 open jobs
+Incident Management Specialist jobs
+2,440 open jobs
+Change Manager jobs
+8,241 open jobs
+Change Management Manager jobs
+967 open jobs
+Process Architect jobs
+3,926 open jobs
+Configuration Manager jobs
+1,407 open jobs
+SAP Basis Manager jobs
+427 open jobs
+Senior Manager Sap jobs
+119 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Infojini Inc
+Continue with Google
+Sign in with Email
+
+or
+
+Continue with Google
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

@@ -1,0 +1,208 @@
+Title: Azure DevOps
+Company: Infosys
+Location: Bengaluru East, Karnataka, India
+URL: https://in.linkedin.com/jobs/view/azure-devops-at-infosys-4470748699
+Posted: 2026-10-20
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's expertise in CI/CD, release engineering, and configuration management, and it is located in India, which is one of her target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Azure DevOps
+Infosys  Bengaluru East, Karnataka, India
+2 weeks ago   Over 200 applicants
+  
+
+See who Infosys has hired for this role
+
+Apply 
+Save
+Primary skills:Technology->Cloud Platform->Azure Devops
+
+
+Key Responsibilities: CI/CD & Release Engineering - Design, implement, and maintain CI/CD pipelines using Azure DevOps and Azure Pipelines for build, test, and deployment automation. - Standardize pipeline templates, variables, and approvals to improve reusability and governance across teams. - Troubleshoot pipeline failures, optimize build times, and improve release reliability through continuous enhancements. Container & Platform Enablement - Support deployments to AKS (Azure Kubernetes Service), including rollout strategies and environment-specific configurations. - Collaborate with application teams to package and deploy services to Kubernetes with consistent, repeatable processes. Operations, Monitoring & Collaboration - Partner with development and QA teams to integrate automated checks and quality gates into delivery workflows. - Participate in incident triage related to deployments and platform issues, contributing to root-cause analysis and preventive actions. - Maintain clear documentation for pipelines, deployment procedures, and operational runbooks.
+
+Minimum Qualifications: - Bachelor’s degree or equivalent (e.g., BTech/BE/MSc) or Master’s degree (e.g., MTech/MCA) in Engineering, Computer Science, or a related field. - 3–5 years of experience in DevOps/Build & Release/Platform engineering roles. - Hands-on experience with Azure DevOps, including repositories, boards (as applicable), and release processes. - Strong working knowledge of Azure Pipelines and CI/CD concepts (branching, approvals, artifacts, environments). - Practical experience supporting deployments to AKS/Kubernetes environments. Preferred Qualifications: - Experience implementing deployment strategies for Kubernetes workloads (e.g., rolling updates, blue/green, canary). - Ability to improve delivery maturity through pipeline standardization, automation, and measurable reliability improvements. - Experience collaborating across multiple teams to define release workflows, environment promotion, and governance practices. - Strong troubleshooting skills across build, release, and cluster deployment issues with a focus on prevention and continuous improvement. - Exposure to security and compliance practices in CI/CD (e.g., approvals, controlled releases, audit-friendly processes). Good to have skills: Terraform, Helm, Docker, Git, Azure Monitor
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Infosys by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+SAP Lead Consultant jobs
+Azure DevOps
+Similar jobs
+Azure DevOps
+Azure DevOps
+Infosys
+Bengaluru East, Karnataka, India
+4 days ago
+DevOps Engineer
+DevOps Engineer
+HCLTech
+Bengaluru, Karnataka, India
+6 hours ago
+Azure DevOps with Github actions
+Azure DevOps with Github actions
+CGI
+Bengaluru, Karnataka, India
+4 days ago
+Azure Devops Engineer
+Azure Devops Engineer
+Infosys
+Bengaluru East, Karnataka, India
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+Accenture in India
+Bengaluru, Karnataka, India
+1 month ago
+Application Lead
+Application Lead
+Accenture in India
+Bengaluru, Karnataka, India
+1 week ago
+Show more jobs like this 
+People also viewed
+Operations Engineer
+Operations Engineer
+
+Accenture in India
+
+Bengaluru, Karnataka, India
+1 month ago
+Operations Engineer
+Operations Engineer
+
+Accenture in India
+
+Bengaluru, Karnataka, India
+1 month ago
+Operations Engineer
+Operations Engineer
+
+Accenture in India
+
+Bengaluru, Karnataka, India
+1 month ago
+Application Support Engineer
+Application Support Engineer
+
+Accenture in India
+
+Bengaluru, Karnataka, India
+1 week ago
+Operations Engineer
+Operations Engineer
+
+Accenture in India
+
+Bengaluru, Karnataka, India
+1 month ago
+Operations Engineer
+Operations Engineer
+
+Accenture in India
+
+Bengaluru, Karnataka, India
+1 month ago
+Azure DevOps
+Azure DevOps
+
+Infosys
+
+Bengaluru East, Karnataka, India
+5 days ago
+Azure DevOps
+Azure DevOps
+
+Infosys
+
+Bengaluru East, Karnataka, India
+5 days ago
+Azure DevOps
+Azure DevOps
+
+Infosys
+
+Bengaluru East, Karnataka, India
+2 weeks ago
+Azure DevOps Engineer
+Azure DevOps Engineer
+
+Infosys
+
+Bengaluru East, Karnataka, India
+4 days ago
+Similar Searches
+SAP Lead Consultant jobs
+2,279 open jobs
+Unix Support Engineer jobs
+264 open jobs
+Performance Test Analyst jobs
+220 open jobs
+Linux Consultant jobs
+25 open jobs
+Process Associate jobs
+5,599 open jobs
+Deputy Manager Human Resources jobs
+955 open jobs
+Solaris System Administrator jobs
+917 open jobs
+Mainframe Developer jobs
+10,444 open jobs
+Websphere Specialist jobs
+138 open jobs
+Senior Server Administrator jobs
+504 open jobs
+Biztalk Consultant jobs
+7,476 open jobs
+Application Integrator jobs
+4,590 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Infosys
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

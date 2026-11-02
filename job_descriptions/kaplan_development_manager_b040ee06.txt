@@ -1,0 +1,360 @@
+Title: Development Manager
+Company: Kaplan
+Location: Bengaluru, Karnataka, India
+URL: https://in.linkedin.com/jobs/view/development-manager-at-kaplan-4485477040
+Posted: 2026-11-03
+Deadline: N/A
+Reason: The role is a perfect match for her expertise in release management, CI/CD pipeline governance, and quality gatekeeping, and it is located in India, which is one of her target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Development Manager
+Kaplan  Bengaluru, Karnataka, India
+12 hours ago  58 applicants
+  
+
+See who Kaplan has hired for this role
+
+Apply
+Save
+
+Direct message the job poster from Kaplan
+
+Reena Sinha
+Reena Sinha
+
+Development Manager
+
+Location: Kaplan India
+
+Reports to: Head of Applications, Engineering & Architecture
+
+Employment type: Full-time
+
+
+
+
+Role summary
+
+Kaplan International Pathways is a leading provider of global education, centered around our students.
+
+Technology is at the heart of what we do, and delivery discipline matters because we operate across
+
+multiple platforms, partners, and time zones.
+
+We are seeking a strategic and technical Development Manager to join our Application Engineering and
+
+Architecture Team. This role is unique: you will own the "production line" of our software delivery.
+
+While we have multiple distributed development teams shipping code, we need to eliminate friction and
+
+ensure seamless integration.
+
+You will not just be managing people; you will be the architect of our flow. You will coordinate teams
+
+to optimise cadence, professionalise our release capability, and ensure that our delivery ordering
+
+prevents technical debt. You will be the guardian of our platform's integrity and the driver of our
+
+engineering velocity.
+
+As the Development Manager you will work intimately with the QA Manager, Solution Architects,
+
+Partners, and the Portfolio Delivery Team. Your mission is to streamline our development cycle through
+
+lightweight governance, automation, and artificial intelligence.
+
+Detailed responsibilities
+
+Release Management:
+
+• Enforce the Operational Readiness Review (ORR). You have the authority to say, "No Go."
+
+• Ensure that before code goes live, Service Level Objectives (SLOs) are met, telemetry is active
+
+and run books are updated.
+
+• Coordinate release schedules across concurrent, distributed development teams to prevent
+
+environment contention and deployment collisions.
+
+• Act as the conductor of the "Release Train," ensuring it runs on time, in the correct order, and
+
+that inter-team dependencies are resolved before deployment day.
+
+• Partner with the QA Manager to enforce the Release-Confidence (RC) Score as a hard gate in
+
+your pipelines, preventing low-quality code from blocking the flow for other high-performing
+
+teams
+
+Pipeline Governance & Policy-as-Code:
+
+• Own the definition and evolution of our CI/CD pipeline standards.
+
+• Drive the implementation of "Policy-as-Code" and automated quality gates to catch issues early
+
+(Shift Left), ensuring that no non-compliant build ever reaches production.
+
+
+
+
+• Work with Solution Architects to define and operationalise "Green Lane" patterns, our
+
+automated, low-friction paths for low-risk changes.
+
+• Move us away from heavy manual governance for standard changes, enabling high-trust teams
+
+to bypass red tape and increasing our overall DORA metrics/velocity.
+
+Operational Excellence & Incident Command:
+
+• Act as the primary Incident Commander for major deployment failures or outages.
+
+• Lead the Root Cause Analysis (RCA) process, ensuring we don't just fix the bug, but
+
+systematically prevent the recurrence of the failure scenario.
+
+You’ll also carry out other duties, within the broad scope and spirit of your role, as requested by your
+
+manager. Our business continuously evolves, so your role will too.
+
+What you’ll bring to the role
+
+Essential Skills & Experience
+
+• Demonstrable experience managing software delivery in a complex, multi-team environment
+
+(e.g., managing interdependencies between distinct Scrum teams or 3rd party vendors).
+
+• Deep understanding of modern branching strategies (GitFlow vs. Trunk-Based Development),
+
+semantic versioning, and the ability to resolve complex merge/deployment conflicts.
+
+• Practical, hands-on experience with CI/CD tooling (ArgoCD/Jenkins, Azure DevOps, GitHub
+
+Actions) and Infrastructure-as-Code (Terraform/Bicep). You understand how to build the pipes,
+
+not just use them.
+
+• A proven track record of reducing cycle time (lead time for changes) and deployment failure
+
+rates through automation and process re-engineering.
+
+• Strong ability to negotiate with Dev Leads and Project Managers to ensure adherence to our
+
+governance standards.
+
+Desirable Skills & Experience
+
+• Experience enforcing code quality and release standards on external/offshore development
+
+partners.
+
+• with Site Reliability Engineering (SRE) concepts, specifically implementing SLOs and Error
+
+Budgets to govern release velocity.
+
+• Experience using tools to visualise flow metrics (e.g., DORA metrics) to drive continuous
+
+improvement.
+
+Our Tech Stack
+
+You will be working within a modern, diverse ecosystem that includes the following and much more:
+
+• Version Control: GitHub, Bitbucket.
+
+• CI/CD & DevOps: ArgoCD, Azure DevOps Pipelines, GitHub Actions.
+
+• Infrastructure: Infrastructure-as-Code (Terraform, Bicep).
+
+• Cloud Providers: AWS and Azure ecosystems.
+
+• Observability: OTEL (OpenTelemetry), RED method monitoring.
+
+• Platforms: Salesforce (and satellite services), Microsoft 365, Standard Web Applications.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Kaplan by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Deputy Manager Commercial jobs
+Development Manager
+Similar jobs
+Manager – Resource Development
+Manager – Resource Development
+Indian Institute for Human Settlements
+Bengaluru, Karnataka, India
+1 day ago
+Assistant Manager / Manager
+Assistant Manager / Manager
+NSRCEL
+Bengaluru, Karnataka, India
+3 weeks ago
+Product Development Manager, Rugs and Home Textiles
+Product Development Manager, Rugs and Home Textiles
+Quince
+Bengaluru, Karnataka, India
+2 weeks ago
+Senior Manager/Manager-Corporate Partnership
+Senior Manager/Manager-Corporate Partnership
+Smile Foundation
+Bengaluru East, Karnataka, India
+2 months ago
+Regional Manager / Manager - CSR Fundraising
+Regional Manager / Manager - CSR Fundraising
+Annapoorna Trust
+Bangalore Urban district, India
+3 weeks ago
+Senior Manager, Fundraising and Partnerships
+Senior Manager, Fundraising and Partnerships
+The/Nudge
+Bengaluru, Karnataka, India
+3 days ago
+Show more jobs like this 
+People also viewed
+AGM- Business Development
+AGM- Business Development
+
+Zyeta
+
+Bangalore North Rural, Karnataka, India
+4 months ago
+R&D Manager - NPD and Commercialization
+R&D Manager - NPD and Commercialization
+
+Agrizy
+
+Bengaluru, Karnataka, India
+3 days ago
+Business Development Manager
+Business Development Manager
+
+Walmart
+
+Bengaluru, Karnataka, India
+3 weeks ago
+Category Development Manager, Out of Country (Global Imports) Program
+Category Development Manager, Out of Country (Global Imports) Program
+
+Amazon
+
+Bengaluru, Karnataka, India
+1 week ago
+Manager - Software Development
+Manager - Software Development
+
+Collins Aerospace
+
+Bengaluru, Karnataka, India
+5 days ago
+Expansion Manager
+Expansion Manager
+
+Dalvkot Utility Enterprises Private Limited
+
+Bengaluru, Karnataka, India
+6 months ago
+Business Development Manager - EMS
+Business Development Manager - EMS
+
+India Nippon Electricals Limited- INEL
+
+Hosur, Tamil Nadu, India
+2 months ago
+Senior Project Manager
+Senior Project Manager
+
+Godrej Industries Group
+
+Bengaluru, Karnataka, India
+3 months ago
+Business Development Manager
+Business Development Manager
+
+Tech Data APAC
+
+Bengaluru North, Karnataka, India
+5 days ago
+Ralph Lauren Sourcing Development Manager
+Ralph Lauren Sourcing Development Manager
+
+BoF Careers
+
+Bangalore Urban, Karnataka, India
+2 days ago
+Similar Searches
+Deputy Manager Commercial jobs
+17 open jobs
+Director of Development jobs
+1,283 open jobs
+Key Account Director jobs
+705 open jobs
+Assistant Real Estate Manager jobs
+71 open jobs
+Sales Center Manager jobs
+871 open jobs
+Development Associate jobs
+7,888 open jobs
+Assistant Commercial Manager jobs
+323 open jobs
+Managing Director Sales jobs
+49 open jobs
+Associate Director Clinical Operations jobs
+18 open jobs
+Pharmacy District Manager jobs
+129 open jobs
+Commercial Manager jobs
+9,825 open jobs
+Enterprise Application Architect jobs
+1,687 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Kaplan
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
