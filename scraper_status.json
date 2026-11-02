@@ -1,9 +1,9 @@
 {
   "pid": 23316,
   "started_at": "2026-11-02T01:13:21+02:00",
-  "heartbeat_at": "2026-11-02T02:00:38+02:00",
+  "heartbeat_at": "2026-11-02T02:05:08+02:00",
   "phase": "reviewing",
-  "detail": "S/4 R2R Senior Consultant",
-  "last_scrape_ok_at": "2026-11-02T01:58:18+02:00",
+  "detail": "Continuing Airworthiness Planner/Engineer",
+  "last_scrape_ok_at": "2026-11-02T02:03:06+02:00",
   "last_error": null
 }
