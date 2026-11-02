@@ -1,9 +1,9 @@
 {
   "pid": 44856,
   "started_at": "2026-11-03T01:14:00+02:00",
-  "heartbeat_at": "2026-11-03T01:20:53+02:00",
+  "heartbeat_at": "2026-11-03T01:26:07+02:00",
   "phase": "reviewing",
-  "detail": "Technical Delivery Manager",
-  "last_scrape_ok_at": "2026-11-03T01:17:10+02:00",
+  "detail": "AWS Data Engineer (Ref: 197894)",
+  "last_scrape_ok_at": "2026-11-03T01:22:29+02:00",
   "last_error": null
 }

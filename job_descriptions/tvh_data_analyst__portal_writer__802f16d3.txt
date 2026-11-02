@@ -1,0 +1,293 @@
+Title: Data Analyst (Portal Writer)
+Company: TVH
+Location: Pune Division, Maharashtra, India
+URL: https://in.linkedin.com/jobs/view/data-analyst-portal-writer-at-tvh-4486128947
+Posted: 2026-11-03
+Deadline: N/A
+Reason: This role strongly aligns with Priya's extensive background in technical writing, documentation-as-code workflows, Jira governance, and release coordination in an English-speaking environment within India.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Data Analyst (Portal Writer)
+TVH  Pune Division, Maharashtra, India
+12 hours ago   Be among the first 25 applicants
+  
+
+See who TVH has hired for this role
+
+Apply 
+Save
+Summary
+
+Summary / Goal
+
+The Data Analyst (Portal Writer) is the end-to-end owner of our technical documentation ecosystem hosted on Mintlify. Operating at the intersection of product engineering, Go-to-Market (GTM), and developer experience, this role is responsible for architecting and maintaining clear, accurate, and developer-friendly documentation for our APIs and B2B integration channels.
+
+Beyond pure technical authoring, the role bridges the gap between deep technical capability and business value. You will design agentic workflows from Jira to documentation drafts, and stakeholder sign-offs, while simultaneously creating compelling, customer-facing use cases and commercial content that empower sales experts and drive value-based selling.
+
+Key Responsibilities
+
+State the key (maximum of seven) areas and clusters of responsibility, formulated in an active manner. Define the reason why the job exists, you may summarize overall responsibilities, applicable guidelines/policies, and expected output. Avoid using jargon, acronyms, and abbreviations where possible so that a non-TVH generalist would understand the scope and size of the job.
+
+Content Ingestion & Portal Ownership
+
+Own, architect, and continuously maintain the master technical documentation on the Mintlify platform. Transform complex functional blueprints, webshop specifications, and integration frameworks into modular, intuitive developer content combining rich business context with technical precision.
+
+API & Integration Channel Documentation
+
+Maintain an in-depth, expert-level operational understanding of REST API architectures, Punchout protocols (OCI/cXML), and file sharing data exchanges. Actively utilize API testing tools (e.g., Postman) to understand our API products and generate native, runnable code samples enriched with robust business and technical contextual overviews for customer-facing reference.
+
+Documentation-as-Code & Git Deployment
+
+Champion and implement industry-standard Documentation-as-Code methodologies across the integration framework. Oversee automated CI/CD documentation deployments from GIT repositories, ensuring a single source of truth and laying down technical pathways toward automated agentic flows to structurally maintain and update platform assets.
+
+Backlog Management & JIRA Governance
+
+Lead Jira governance by implementing and overseeing agentic workflows that automatically ingest documentation changes directly from Jira into documented drafts. Orchestrate seamless review and approval cycles, securing cross-functional stakeholder alignment so platform documentation remains synchronized with active releases.
+
+Global Alignment & Stakeholder Management
+
+Orchestrate alignment across multi-functional global and regional domains, managing regional content variations while safeguarding a unified global baseline. Proactively engage with regional stakeholders to motivate technical modifications, secure formal business sign-offs, and support the partner relations business in generating high-value collaborative content.
+
+Commercial Content & Value-Based Selling
+
+Create compelling commercial content, real-world use cases, and customer journey maps directly on the developer portal to make integration capabilities easily explainable. Partner with our customer facing team and domain experts to strengthen our Unique Selling Proposition (USP), providing sales materials that drive value-based selling to enterprise customers and partners.
+
+Dual-Target Content Engineering (AI & Human)
+
+Own the layout strategy to ensure all developer assets are built for both people and AI. Architect and maintain specialized, machine-readable developer entry points—specifically implementing and updating llms.txt directories, Model Context Protocol (MCP) ecosystems, and emerging AI-consumption data layers to ensure our integration products seamlessly surface in automated AI developer workflows.
+
+Competencies & knowledge
+
+Competencies & Knowledge: Core Technical Writing
+
+Flawless English written and verbal communication skills with a strong creative flair for technical documentation design and developer experience (DX). Absolute proficiency in distilling highly complex, technical multi-layered codebases and architectural logic into clean, clear, persuasive, and reader-centric technical literature that is as beautiful and intuitive for humans as top-tier benchmarks like Claude and PayPal
+
+Competencies & Knowledge: API & Multi-Protocol Mastery
+
+Native or bilingual English written communication skills with a proven natural ability to translate deep, complex technical architecture into clear, persuasive, and accessible business messages. Demonstrated talent in creating intuitive Developer Experiences (DX) and commercial use cases on modern platforms like Mintlify.
+
+Competencies & Knowledge: DevOps & Agentic Systems
+
+Hands-on experience with Documentation-as-Code workflows, Git-based version control, and modern deployment engines (specifically Mintlify). Strong practical capability in designing and leveraging agentic workflows connected to Jira to create documentation updates, and stakeholder sign-offs, alongside machine-readable formats (llms.txt, MCP).
+
+Competencies & Knowledge: Project & Backlog Governance
+
+Solid analytical capabilities to structure unstructured ideas. Expert project coordination and queue management skills within Agile Atlassian environments (Jira/Confluence), with a demonstrated ability to systematically prioritize high-volume ticketing systems.
+
+Competencies & Knowledge: Strategic Stakeholder Relations
+
+Superior cross-functional stakeholder management and persuasive communication skills. Ability to effectively navigate corporate matrix networks, influence regional decision-making boards, and align diverse commercial, technical, and executive groups.
+
+Competencies & Knowledge: Business Acumen & Platforms
+
+Deep commercial acumen across B2B e-commerce architectures, procurement networks (Ariba, Coupa), and ERP/DMS environments. Strong understanding of B2B sales cycles and value-based selling methodologies, enabling effective co-creation of GTM collateral with Domain experts.
+
+Competencies & Knowledge: Autonomy & Onboarding Velocity
+
+High professional resilience and self-reliance to maintain accountability within a lean team structure. High operational agility to quickly grasp core parts business distribution logic, master fitment structures, and accelerate self-onboarding.
+
+What’s In It For You
+
+A family atmosphere , people-centric culture, where your emotional and physical well-being matters.
+
+A company of great colleagues with a global mindset, where you feel welcomed from day one.
+
+A competitive salary , medical insurance for family , retirement benefits Healthy work – life balance
+
+Internal career opportunities, professional development, including access to LinkedIn Learning and many in-house/external training courses
+
+Job security working for a global company with strong presence & commitment in India.
+
+PEOPLE ARE AT OUR HEART
+
+TVH is a global business with a family atmosphere, where people are at the center. We value clarity, mutual respect, kindness and open communication. Our people are down-to-earth, easy to work and engage with. We welcome differences and celebrate new ideas.
+
+About Tvh
+
+TVH is a parts specialist for quality parts and accessories for material handling, industrial vehicles, and construction and agricultural equipment. Working at TVH is opting for a company that excels as an international market leader and is well-known for its unstoppable craving for innovation.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Wholesale
+  
+
+Referrals increase your chances of interviewing at TVH by 2x
+
+See who you know
+
+Get notified about new Data Analyst jobs in Pune Division, Maharashtra, India.
+
+Sign in to create job alert
+Jobs
+Analyst jobs
+Data Analyst (Portal Writer)
+Similar jobs
+Analyst - Data
+Analyst - Data
+Eaton
+Pune Division, Maharashtra, India
+2 weeks ago
+Content Strategy Analyst II
+Content Strategy Analyst II
+Mastercard
+Pune Division, Maharashtra, India
+1 week ago
+Data Operations - Document Control & Engineering Data Analyst
+Data Operations - Document Control & Engineering Data Analyst
+Andor Tech
+Pune City, Maharashtra, India
+1 week ago
+Data Analyst (US Shift)
+Data Analyst (US Shift)
+UBS
+Pune Division, Maharashtra, India
+5 hours ago
+Associate - Nuveen Data Quality
+Associate - Nuveen Data Quality
+TIAA
+Pune Division, Maharashtra, India
+3 weeks ago
+Master Data Analyst III
+Master Data Analyst III
+Kimberly-Clark
+Pune Division, Maharashtra, India
+3 days ago
+Show more jobs like this 
+People also viewed
+Analyst - Tech Consulting - National - CNS - TC - AI and Data - Pune
+Analyst - Tech Consulting - National - CNS - TC - AI and Data - Pune
+
+EY
+
+Pune Division, Maharashtra, India
+4 days ago
+Corporate Audit Integrated Data Analyst, Officer
+Corporate Audit Integrated Data Analyst, Officer
+
+State Street
+
+Pune Division, Maharashtra, India
+1 week ago
+Associate Analyst - IT Solutions
+Associate Analyst - IT Solutions
+
+Air Arabia
+
+Pune Division, Maharashtra, India
+4 days ago
+Data Analyst
+Data Analyst
+
+Comscore, Inc.
+
+Pune Division, Maharashtra, India
+6 days ago
+Data Analyst
+Data Analyst
+
+Aumni
+
+Pune Division, Maharashtra, India
+2 months ago
+Data Analyst I
+Data Analyst I
+
+TIAA
+
+Pune Division, Maharashtra, India
+1 week ago
+Lead Data Analyst
+Lead Data Analyst
+
+Persistent Systems
+
+Pune Division, Maharashtra, India
+2 weeks ago
+Finance Data Analyst
+Finance Data Analyst
+
+Syngenta
+
+Pune/Pimpri-Chinchwad Area
+1 week ago
+Data Analyst
+Data Analyst
+
+QWR
+
+Pune Division, Maharashtra, India
+1 month ago
+IT Data Analytics Specialist
+IT Data Analytics Specialist
+
+Vertiv
+
+Pune Division, Maharashtra, India
+10 hours ago
+Similar Searches
+Analyst jobs
+55,566 open jobs
+Data Scientist jobs
+51,572 open jobs
+Business Intelligence Intern jobs
+23 open jobs
+Clinical Data Analyst jobs
+137 open jobs
+Business Intelligence Analyst jobs
+5,276 open jobs
+Business Intelligence Developer jobs
+3,500 open jobs
+Junior Scientist jobs
+141 open jobs
+Data Engineer jobs
+28,941 open jobs
+Scientist jobs
+2,584 open jobs
+Web Marketing Analyst jobs
+134 open jobs
+Senior Data Analyst jobs
+4,883 open jobs
+Business Data Analyst jobs
+9,533 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at TVH
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
