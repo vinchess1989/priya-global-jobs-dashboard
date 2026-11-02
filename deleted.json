@@ -20398,5 +20398,39 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": null,
     "deletion_reason": "Deadline (2026-11-01) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "TAFE NSW",
+    "location": "New South Wales, Australia",
+    "url": "https://au.jora.com/job/DevOps-Engineer-a823d963846ce7b9e4650e459486bd4c",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The posting requires applicants to be an Australian citizen, permanent resident, or New Zealand citizen, which violates the candidate's work authorization and visa sponsorship requirements.",
+    "id": "589ca51b",
+    "source": "jora_au_devops_engineer",
+    "added_at": "2026-11-03T01:49:34+02:00",
+    "posted_date": "13h ago",
+    "deadline": "2026-06-30",
+    "eval_model": "gemini-vineeth-bits/gemini-3.5-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-06-30) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "DevOps Engineer - $20K Sign On Bonus - 30969",
+    "company": "HII's Mission Technologies division",
+    "location": "Augusta, GA, USA",
+    "url": "https://au.jora.com/job/DevOps-Engineer-d359ecdde95e8b6ffc012236081e0145",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is located in the United States (Augusta, GA) and requires a US Government TS/SCI security clearance and US citizenship, violating the strict US exclusion and security clearance hard rejections.",
+    "id": "f3958a7f",
+    "source": "jora_au_devops_engineer",
+    "added_at": "2026-11-03T01:49:34+02:00",
+    "posted_date": "12h ago",
+    "deadline": "N/A",
+    "eval_model": "gemini-vineeth-bits/gemini-3.5-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
