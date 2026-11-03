@@ -20857,5 +20857,22 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": null,
     "deletion_reason": "Deadline (2026-11-02) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Quality Engineer",
+    "company": "Qantas",
+    "location": "Adelaide, South Australia, Australia",
+    "url": "https://au.linkedin.com/jobs/view/quality-engineer-at-qantas-4484403196",
+    "visited": "yes",
+    "matches_requirements": "maybe",
+    "reason": "The role is a strong fit for her quality engineering background, but it is labeled as 'Associate' seniority and focuses heavily on hands-on test automation, which is slightly more junior/execution-focused than her recent senior release/CM management roles.",
+    "id": "1d638711",
+    "source": "linkedin_au_quality_engineer",
+    "added_at": "2026-11-04T01:46:41+02:00",
+    "posted_date": "2026-10-29",
+    "deadline": "2025-11-10",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Deadline (2025-11-10) passed by more than 2 days and unreviewed"
   }
 ]
