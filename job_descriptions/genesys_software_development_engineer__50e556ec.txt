@@ -1,0 +1,295 @@
+Title: Software Development Engineer in Test
+Company: Genesys
+Location: Galway, County Galway, Ireland
+URL: https://ie.linkedin.com/jobs/view/software-development-engineer-in-test-at-genesys-4479385436
+Posted: 2026-10-21
+Deadline: N/A
+Reason: The role aligns with the candidate's extensive experience in CI/CD, test automation, and quality engineering, and it is located in Ireland, which is a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Software Development Engineer in Test
+Genesys  Galway, County Galway, Ireland
+2 weeks ago  130 applicants
+  
+
+See who Genesys has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Be the one building AI-powered experiences where they matter most.
+
+At Genesys, we help organizations create better customer experiences through AI-powered experience orchestration. Our platform connects people, systems, data and AI to help organizations deliver more personalized service, improve operational efficiency and build stronger customer relationships.
+
+Help build, support and operate technology used by more than 8,000 organizations in over 100 countries – moving AI from possibility to production in real-world enterprise environments every day.
+
+Software Development Engineer in Test (SDET), T2
+
+“When my family and my friends ask me about the company, and what I’m doing there, I always answer with this sentence: I’m working together with the most talented people, full of empathy, highly skilled team members and peers, where we can count on each other in every case, because we know we can solve the most complex problems together, to give the best experience to our customers. And go out for some fun when we finished the day.”
+
+– Director, Quality Assurance at Genesys
+
+QA at Genesys is strongly connected with wall-to-wall CI/CD and test automation, and this is a fact, not a promise. We believe in total test automation over endless manual regression cycles, the right tools and integration over fragmented processes, and fly-in-formation collaboration over separated silos.
+
+As a Software Developer in Test, you will join a collaborative global team that thrives on technical problem-solving and design challenges, working in an agile environment with the capability to deliver the full landscape of testing. Our team builds AI-driven backend services where outputs are nondeterministic and behavior spans multiple cooperating services and agents, which calls for new approaches to API validation, reliability and test automation.
+
+We are looking for an enthusiastic Software Test Engineer to be a key participant in creating a Quality First culture. You will develop, troubleshoot, test and debug software components and test automation projects of moderate scope and complexity, share responsibility for planning and implementation with the team, and take on increasing responsibility as a solid technical contributor.
+
+Minimum qualifications:
+
+
+3+ years of hands-on experience developing and executing automated test scripts with Java and/or TypeScript (e.g. REST Assured, Selenium WebDriver, Playwright)
+3+ years of experience in QA in an agile software organization
+Solid understanding of REST APIs, HTTP, JSON and authentication concepts (OAuth/JWT), with hands-on API test automation experience
+Knowledge of professional software engineering practices and best practices for the full software development life cycle
+Experience with GitHub, Jira, and running automated tests in CI/CD pipelines (e.g. Jenkins)
+
+
+Preferred qualifications:
+
+
+Experience with SQL databases, scripting languages and cloud technology (AWS)
+Experience with microservices, contract testing, and asynchronous or event-driven systems (e.g. messaging/event streams, gRPC, GraphQL)
+Experience debugging with logs, traces and metrics using observability tools
+Interest in or initial exposure to AI in testing (nondeterministic testing, LLM output evaluation, AI skills and agents)
+
+
+What you will do:
+
+
+Work with development and program management teams to define, develop and execute test cases that validate and harden our software and its components.
+Ensure overall software functionality remains intact as new features are implemented.
+Build and maintain automated API, integration and contract tests for backend services, including asynchronous flows, and integrate them into CI/CD pipelines.
+Investigate test failures and production issues in backend components, and help find root causes.
+Contribute to reliability and basic performance testing, and flag risks and quality gaps early.
+Represent the quality aspect with a strong quality mindset.
+Mentor others on best practices for test automation and CI/CD.
+
+
+What do we offer?
+
+
+The warmest of welcomes: we will make sure you feel part of the Genesys team from day 1.
+The best of both worlds: the stability of a multinational company and the flexibility and speed of a startup company.
+Keep you in the loop: complete support and transparency from our global and local leaders.
+An A-team: talented and experienced professionals you can grow professionally with, and an open and inclusive community.
+Career development: we will support your professional growth because your goals matter to us.
+Empathy: your well-being is our priority. You will have extra days off in August and extra time off to volunteer to help a cause close to your heart.
+
+
+Working at Genesys
+
+
+AI at enterprise scale – Build, support and operate AI-powered technology used by more than 8,000 organizations worldwide. 150+ new AI features were released in the last fiscal year
+A flexible-first culture – Join a global team of nearly 7,000 employees with flexible ways of working designed to help people do their best work
+Growth in the AI era – Build future-ready skills through mentorship, learning programs, leadership development and education support
+Time to recharge and give back – Benefits include paid volunteer time, August Free Fridays, well-being resources and regionally tailored programs for employees and their families
+Recognized globally – Genesys is Great Place to Work® certified in 17 countries and 94% of employees are proud to tell others they work at Genesys
+
+
+Learn more about our culture, AI innovation and sustainability commitments through our Careers site and Sustainability Report.
+
+What Happens After You Apply
+
+After you apply, here's what you can typically expect:
+
+
+Our Talent Acquisition team reviews your application with the hiring team
+A Talent Acquisition Partner will review your application and, if your background is aligned, schedule a Zoom interview. 
+Next, you'll meet the hiring manager and other members of the interview team
+We aim to keep the process focused and respectful of your time, with no more than five interviews in most cases
+After interviews are complete, our team will follow up with the final steps
+
+
+Every application is reviewed by a person. Response times may vary by role and location, but our team will keep you informed throughout the process.
+
+Stay Connected
+
+Stay connected to learn more about how we're applying AI to customer and employee experience challenges and get notified when relevant opportunities become available.
+
+Get notified about relevant opportunities.
+
+Be the one building what's next - where AI, experience and impact come together.
+
+Employee Referral
+
+If a Genesys employee referred you, please apply using the link they shared so we can connect your application to their referral.
+
+About Genesys:
+
+Genesys® empowers more than 8,000 organizations worldwide to create the best customer and employee experiences. Genesys Cloud™ is the Agentic Orchestration Platform that securely connects people, systems, data and AI across the enterprise with built-in governance and control. As a result, organizations can drive customer loyalty, growth and retention while increasing operational efficiency and teamwork across human and AI workforces. To learn more, visit www.genesys.ai.
+
+Reasonable Accommodations:
+
+If you require a reasonable accommodation to complete any part of the application process, or are limited in your ability to access or use this online application and need an alternative method for applying, you or someone you know may contact us at reasonable.accommodations@genesys.com.
+
+You can expect a response within 24–48 hours. To help us provide the best support, click the email link above to open a pre-filled message and complete the requested information before sending. If you have any questions, please include them in your email.
+
+This email is intended to support job seekers requesting accommodations. Messages unrelated to accommodation—such as application follow-ups or resume submissions—may not receive a response.
+
+Genesys is an equal opportunity employer committed to fairness in the workplace. We evaluate qualified applicants without regard to race, color, age, religion, sex, sexual orientation, gender identity or expression, marital status, domestic partner status, national origin, genetics, disability, military and veteran status, and other protected characteristics.
+
+Please note that recruiters will never ask for sensitive personal or financial information during the application phase.
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting and Software Development
+  
+
+Referrals increase your chances of interviewing at Genesys by 2x
+
+See who you know
+
+Get notified about new Software Engineer in Test jobs in Galway, County Galway, Ireland.
+
+Sign in to create job alert
+Similar jobs
+Software Developer – Quality & Test Automation
+Software Developer – Quality & Test Automation
+Cisco
+Galway, County Galway, Ireland
+3 weeks ago
+Software Development Engineer in Test (SDET)
+Software Development Engineer in Test (SDET)
+Ministry Brands
+Galway, County Galway, Ireland
+5 hours ago
+Test Automation Engineer
+Test Automation Engineer
+Covalen
+Galway, County Galway, Ireland
+3 weeks ago
+QA – SW Engineering (Systems)
+QA – SW Engineering (Systems)
+Hewlett Packard Enterprise
+Galway, County Galway, Ireland
+3 weeks ago
+Senior QA Engineer - Software Engineering
+Senior QA Engineer - Software Engineering
+Hewlett Packard Enterprise
+Aille, County Galway, Ireland
+1 month ago
+Test Automation Engineer
+Test Automation Engineer
+PM Group
+Limerick, County Limerick, Ireland
+1 week ago
+Show more jobs like this 
+People also viewed
+Software Engineer - Webex
+Software Engineer - Webex
+
+Cisco
+
+Galway, County Galway, Ireland
+5 days ago
+Software Engineer - Application Development
+Software Engineer - Application Development
+
+Cisco
+
+Galway, County Galway, Ireland
+2 weeks ago
+Software Engineer - Application Development
+Software Engineer - Application Development
+
+Cisco
+
+Galway, County Galway, Ireland
+1 week ago
+Software Engineer - Application Development
+Software Engineer - Application Development
+
+Cisco
+
+Galway, County Galway, Ireland
+1 week ago
+Software Engineer - Application Development
+Software Engineer - Application Development
+
+Cisco
+
+Galway, County Galway, Ireland
+6 hours ago
+Senior Software Engineer
+Senior Software Engineer
+
+Cisco
+
+Galway, County Galway, Ireland
+2 weeks ago
+Software Engineer (Shared Components)
+Software Engineer (Shared Components)
+
+Cisco
+
+Galway, County Galway, Ireland
+1 week ago
+Software Engineer - App Development
+Software Engineer - App Development
+
+Cisco
+
+Galway, County Galway, Ireland
+2 weeks ago
+Graduate Software Engineer
+Graduate Software Engineer
+
+Cisco
+
+Galway, County Galway, Ireland
+2 weeks ago
+Software Engineer - Application development
+Software Engineer - Application development
+
+Cisco
+
+Galway, County Galway, Ireland
+6 hours ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Genesys
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

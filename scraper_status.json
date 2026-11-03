@@ -1,9 +1,9 @@
 {
   "pid": 22848,
   "started_at": "2026-11-04T01:13:32+02:00",
-  "heartbeat_at": "2026-11-04T01:27:30+02:00",
+  "heartbeat_at": "2026-11-04T01:29:14+02:00",
   "phase": "reviewing",
-  "detail": "Manager - Demand, Change & Capacity",
-  "last_scrape_ok_at": "2026-11-04T01:26:08+02:00",
+  "detail": "NetOps Engineer - Test",
+  "last_scrape_ok_at": "2026-11-04T01:28:11+02:00",
   "last_error": null
 }
