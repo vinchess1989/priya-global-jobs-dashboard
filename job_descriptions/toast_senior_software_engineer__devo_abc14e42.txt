@@ -1,0 +1,292 @@
+Title: Senior Software Engineer, DevOps & Security
+Company: Toast
+Location: Vancouver, British Columbia, Canada
+URL: https://ca.linkedin.com/jobs/view/senior-software-engineer-devops-security-at-toast-4468187366
+Posted: 2026-10-05
+Deadline: N/A
+Reason: The role aligns perfectly with the candidate's extensive background in DevOps, CI/CD pipeline ownership, and compliance engineering, and it is located in a target country (Canada).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Software Engineer, DevOps & Security
+Toast  Vancouver, British Columbia, Canada
+1 month ago  118 applicants
+  
+
+See who Toast has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Toast provided pay range
+
+This range is provided by Toast. Your actual pay will be based on your skills and experience — talk with your recruiter to learn more.
+
+Base pay range
+$140,000.00/yr - $230,000.00/yr
+Job Description
+
+Toast is recruiting on behalf of a fast growing B2B SaaS company in the competitive intelligence space. The company uses AI to turn market, competitor, and buyer signals into insights that revenue teams can act on, helping organizations win more competitive deals. Based in Vancouver with hubs in other major cities, the team is small, globally distributed, and scaling quickly, having grown through several recent acquisitions. They are hiring a Senior Software Engineer, DevOps & Security to make the right way to build and ship the easy way for every engineer, working alongside the DevOps team, engineering managers across Product, Data and AI, and Security and Compliance stakeholders. The team works office-first with a hybrid touch, together in person on Mondays, Wednesdays and Thursdays.
+
+Responsibilities
+
+
+Own the paved road for infrastructure by building and extending a Pulumi component library so teams get correct, disaster-recovery-ready infrastructure by default across GCP environments
+Run GKE like a product, handling cluster and node pool upgrades, in-cluster services, workload right-sizing and policy enforcement as the company scales
+Own the core building blocks of CI/CD workflows, cut CI time and flake rate across the fleet, and standardize the golden path for shipping services
+Improve internal developer platform surfaces so engineers can see what is happening in their own systems
+Own the health of the observability stack, including consistent instrumentation, actionable alerts and less on-call noise
+Drive GCP and LLM cost reduction through attribution, right-sizing, commitment planning and removal of orphaned resources
+Extend software supply chain controls, own infrastructure identity and access, and build SOC 2 and other compliance requirements into automated, evidenced controls
+Balance proactive and reactive work, jumping in when the platform is on fire and always driving the change that stops the next incident
+Automate recurring manual work, and turn incident reviews into durable platform fixes
+Publish SLOs and error budgets for the services that matter most
+
+
+Requirements
+
+
+Deep, hands-on experience in DevOps, SRE, platform or infrastructure engineering, operating production systems that paying customers depend on, including being on-call for them
+Deep, practical Kubernetes knowledge
+Infrastructure as code treated as software, using Pulumi or Terraform
+Strong GCP or AWS fundamentals
+A background in systems engineering and writing software
+Experience owning CI/CD as a product, building and maintaining pipelines used by other teams (GitHub Actions or Buildkite preferred, GitLab CI or CircleCI experience transfers)
+Hands-on experience with security tooling as an engineering practice
+Compliance engineering experience for SOC 2 or enterprise partner security programs, implemented as automated controls, plus threat modeling
+Ownership under ambiguity: you scope a vague problem, ship it incrementally and clearly communicate what changed and why
+Fluency with AI coding tools and experience working on AI-first teams
+Experience owning platform migrations and decommissions would be a plus
+Having built an internal developer platform or self-service tooling that other engineers adopted is considered an asset
+Comfort with LLM infrastructure, such as gateways, token cost attribution, rate limiting and provider failover, would be a plus
+Tech stack includes GCP, Kubernetes, Pulumi, Postgres and Temporal
+
+
+Benefits
+
+
+Extended health and dental coverage that starts on day 1
+Eligibility for the Employee Stock Option Plan for all full-time employees
+Take-the-time-you-need vacation policy
+Mac or PC of your choice and access to top-tier tooling
+Fitness and lifestyle perk discounts
+Performance rewards, career development, coaching and annual performance reviews
+Annual company-wide kickoff in Vancouver, regular hub social events, and dog-friendly offices in Vancouver and Toronto
+Direct access to the leadership team, including the CEO
+Own real infrastructure at real scale, with authority over the IaC, GKE and CI/CD architecture every engineering team depends on
+Make an immediate, measurable difference: faster pipelines, fewer flaky failures, lower GCP and LLM spend with clear per-team attribution, and on-call page volume that drops every quarter
+Turn SOC 2 and audit readiness into automated controls, with audit findings in your areas trending to zero
+Help shape how a fast-moving, AI-first engineering organization ships software safely
+Application Review
+
+
+Submit your application, including your resume and cover letter, through our online portal. Our team will carefully review your qualifications and experiences. We take pride in responding promptly, so if your application aligns with our current opportunities, you’ll hear back from us with next steps. Your journey with Toast begins here, and we’re excited to see what you bring to the table!
+
+
+Vetting Call
+
+
+If your application is successful, we’ll schedule a vetting call with a member of the Toast team. This 30-45 minute informal conversation is designed for us to get to know you better and assess your skills. Be prepared to discuss your past projects, the challenges you’ve tackled, and the impact you’ve made. This is your chance to shine and show us why you’re a great fit for the roles we offer.
+
+
+Profile Creation
+
+
+Once you’ve impressed us in the vetting call, we’ll create an unbiased profile that highlights your experience while minimizing common biases. Instead, we focus on your skills, industry experience, and the impact you’ve made. This way, your profile reflects your true potential and accomplishments.
+
+
+Client Submission
+
+
+After crafting your unbiased profile, we submit it to our trusted clients. We work closely with these clients to ensure they understand the value you bring. Throughout their interview process, we remain by your side, providing support and guidance. Our goal is to help you navigate the hiring process smoothly and confidently, ensuring you have the best chance to secure a role that fits your skills and aspirations.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Technology, Information and Media
+  
+
+Referrals increase your chances of interviewing at Toast by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Senior Developer Contract jobs
+Senior Software Engineer, DevOps & Security
+Similar jobs
+Senior Software Engineer, DevOps & Security
+Senior Software Engineer, DevOps & Security
+Klue
+Vancouver, British Columbia, Canada
+CA$140,000 - CA$195,000
+1 month ago
+DevOps Staff Platform Engineer
+DevOps Staff Platform Engineer
+Orion Digital
+Vancouver, British Columbia, Canada
+1 month ago
+Senior Software Engineer (Devops)
+Senior Software Engineer (Devops)
+Electronic Arts (EA)
+Vancouver, British Columbia, Canada
+5 days ago
+Software Developer, DevOps
+Software Developer, DevOps
+Benevity
+Vancouver, British Columbia, Canada
+1 week ago
+DevSecops Engineer
+DevSecops Engineer
+Fortiv Technical Inc.
+Vancouver, British Columbia, Canada
+CA$160,000 - CA$230,000
+6 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Pixieset
+Vancouver, British Columbia, Canada
+3 days ago
+Show more jobs like this 
+People also viewed
+DevOps Engineer
+DevOps Engineer
+
+Varonis
+
+Vancouver, British Columbia, Canada
+4 weeks ago
+DevOps Engineer (Services Team)
+DevOps Engineer (Services Team)
+
+StackAdapt
+
+Vancouver, British Columbia, Canada
+1 day ago
+Senior Software Developer
+Senior Software Developer
+
+IBM
+
+Vancouver, British Columbia, Canada
+CA$89,900 - CA$167,100
+19 minutes ago
+Platform Engineer
+Platform Engineer
+
+Centiro
+
+Vancouver, British Columbia, Canada
+4 weeks ago
+Staff CloudOps Developer
+Staff CloudOps Developer
+
+Corpay
+
+Vancouver, British Columbia, Canada
+6 days ago
+Staff Software Engineer, Infrastructure (Cloud)
+Staff Software Engineer, Infrastructure (Cloud)
+
+AeroVect
+
+Vancouver, British Columbia, Canada
+3 months ago
+Senior Engineer
+Senior Engineer
+
+Xero
+
+Vancouver, British Columbia, Canada
+2 weeks ago
+Senior Cybersecurity Engineer
+Senior Cybersecurity Engineer
+
+lululemon
+
+Vancouver, British Columbia, Canada
+2 weeks ago
+DevOps Engineer, Evisort AI
+DevOps Engineer, Evisort AI
+
+Workday
+
+Vancouver, British Columbia, Canada
+2 weeks ago
+Security Software Engineer
+Security Software Engineer
+
+Motive
+
+Vancouver, British Columbia, Canada
+2 weeks ago
+Similar Searches
+Senior Developer Contract jobs
+2,881 open jobs
+Senior Software Engineer Contract jobs
+2,626 open jobs
+Staff Software Engineer jobs
+3,606 open jobs
+Lead Software Engineer jobs
+4,225 open jobs
+Senior Lead Software Engineer jobs
+2,993 open jobs
+Principal Software Engineer jobs
+4,028 open jobs
+Senior Java Software Engineer jobs
+3,756 open jobs
+Senior Software Specialist jobs
+3,584 open jobs
+Senior Staff Software Engineer jobs
+3,260 open jobs
+Senior System Software Engineer jobs
+3,151 open jobs
+Java Software Engineer jobs
+2,724 open jobs
+Software Engineering Team Lead jobs
+15,426 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Toast
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

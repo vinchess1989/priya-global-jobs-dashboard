@@ -1,0 +1,296 @@
+Title: Staff Cloud Engineer , Cloud Platform
+Company: Kinaxis
+Location: Ottawa, Ontario, Canada
+URL: https://ca.linkedin.com/jobs/view/staff-cloud-engineer-cloud-platform-at-kinaxis-4476554691
+Posted: 2026-10-29
+Deadline: N/A
+Reason: The role is a strong match for her DevOps, CI/CD, and configuration management expertise, and it is located in Canada, which is a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Staff Cloud Engineer , Cloud Platform
+Kinaxis  Ottawa, Ontario, Canada
+6 days ago  84 applicants
+  
+
+See who Kinaxis has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+About Kinaxis
+
+Are you looking to join an innovative, market-leading company where you can truly elevate your career? At Kinaxis we are serious about culture, we are serious about technology, we are serious about customers, and we are serious about not taking ourselves too seriously. If you are looking to be part of an incredible growth story, then we might just be the place for you!
+
+In 1984, we started out as a team of three engineers. Today, we have grown to become a global organization with over 2000 employees around the world, 6 global office and a best-in-class HQ in Ottawa, Canada. As winners of several Top Employer awards globally, we are proud to work with our customers and employees towards solving some of the biggest challenges facing supply chains today.
+
+Kinaxis is a global leader in modern supply chain orchestration, powering complex global supply chains, and supporting the people who manage them. Our powerful, AI infused platform provides full transparency and visibility across end-to-end supply chains, enabling our customers to make faster, better decisions. We are trusted by renowned global brands to provide the agility and predictability needed to navigate today’s volatility and disruption. With more than 40,000 users in over 100 countries, we are expanding our team as we continue to innovate and revolutionize how we support our customers.
+
+Location
+
+Ottawa and Toronto, Canada - Hybrid
+
+Other Canadian locations - Remote
+
+About The Team
+
+Imperative Orchestration, Declarative Automation - The Cloud Platform Engineering Team is responsible for building and running a cloud platform that enables delivery teams to self-service deployments with reduced lead time and complexity. We also provide cloud services and tools that enable internal development teams to build, test and deploy their applications using modern platform tooling like CI/CD pipelines, Terraform and Kubernetes delivery via ArgoCD. These same tools we leverage to ensure our customer environments are automated and continuously up to date. We are passionate about code and the power of automation to simplify complex processes.
+
+As a Staff Cloud Platform Engineer you will provide technical leadership in advancing our cloud platform capabilities and delivering exceptional experiences to our development and operations teams.
+
+Vacancy Status
+
+This is an existing job vacancy
+
+What you will do
+
+
+Solve complex challenges as a trusted technical lead.
+Drive a DevOps mindset and collaboration within the Cloud Platform Engineering Team.
+Develop and enhance cloud reference architectures and guide teams on implementation.
+Influence architectural decisions, improve CI/CD pipelines, and build secure, high-performing, resilient, and efficient cloud infrastructure.
+Collaborate with cross-functional teams to streamline delivery processes, enhance services, and provide a seamless experience through self-service and modern approaches.
+Mentor and lead junior team members to achieve excellence in industry best practices.
+Lead code and design reviews for high-quality deliverables.
+Stay up to date with the latest cloud technologies and trends.
+
+
+Technologies we use
+
+
+Cloud Service Providers: GCP, Azure & AWS
+Infrastructure as Code: Terraform
+Configuration Management: Ansible
+Container Orchestration: Docker, Kubernetes, Helm
+CI/CD Solutions: GitHub Actions, Argo CD
+Secrets Management: HCP Vault
+Artifact Management: JFrog Artifactory
+Observability: Datadog, Prometheus, ELK
+
+
+What we are looking for
+
+
+Bachelor's degree/diploma in Computer Science, Engineering or equivalent related discipline. Expertise in one major cloud vendor.
+5-7 years of directly related increasingly complex experience in cloud engineering roles; high-tech, global environment preferred, working on one or more enterprise grade software applications.
+Experience with public cloud platforms, both console and API (GCP preferred).
+Experience automating cloud solutions (e.g., applications, infrastructure, storage, platforms, and data).
+Experience developing in Go, Python and/or Shell/Bash.
+Strong knowledge of system design to manage operational and reliability trade-offs.
+Practical understanding of agile methodologies and Scrum.
+
+
+#Senior
+
+Work With Impact: Our platform directly helps companies power the world’s supply chains. We see the results of what we do out in the world every day, when we see store shelves stocked, when medications are available for our loved ones, and so much more.
+
+Work with Fortune 500 Brands: Companies across industries trust us to help them take control of their integrated business planning and digital supply chain. Some of our customers include Lockheed Martin, Unilever, P&G, ExxonMobil, Cisco and more.
+
+Social Responsibility at Kinaxis: Our Diversity, Equity, and Inclusion Committee weighs in on hiring practices, talent assessment training materials, and mandatory training on unconscious bias and inclusion fundamentals. Sustainability is key to what we do and we’re committed to a long-term net-zero operations strategy. We are involved in our communities and support causes where we can make the most impact.
+
+People matter at Kinaxis and here are some of the perks and benefits we offer, which may vary by location and employee:
+
+
+Flexible vacation and Kinaxis Days (company-wide days off)
+Flexible work options
+Physical and mental well-being programs
+Regularly scheduled virtual fitness classes
+Mentorship programs, training, and career development
+Recognition programs and referral rewards
+Hackathons
+
+
+For more information, visit the Kinaxis website at www.kinaxis.com or the company’s blog at http://blog.kinaxis.com .
+
+Kinaxis welcomes candidates to apply to our inclusive community. We provide accommodations upon request to ensure fairness and accessibility throughout our recruitment process for all candidates, including those with specific needs or disabilities. If you require an accommodation, please reach out to us at recruitmentprograms@kinaxis.com. This contact information is for accessibility requests only and cannot be used to inquire about the status of applications.
+
+Kinaxis is committed to ensuring a fair and transparent recruitment process. We use artificial intelligence (AI) tools in the initial step of the recruitment process to compare submitted resumes against the job description to identify candidates whose education, experience, and skills most closely match the requirements of the role. After the initial screening, all subsequent decisions regarding your application, including final selection, are made by our human recruitment team. AI does not make any final hiring decisions.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Kinaxis by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Technology Editor jobs
+Staff Cloud Engineer , Cloud Platform
+Similar jobs
+Cloud Platform Engineer
+Cloud Platform Engineer
+Accenture
+Ottawa, Ontario, Canada
+2 weeks ago
+Advisor, Cloud Infrastructure Engineering
+Advisor, Cloud Infrastructure Engineering
+Canada Mortgage and Housing Corporation (CMHC) Société canadienne d'hypothèques et de logement(SCHL)
+Ottawa, Ontario, Canada
+4 hours ago
+Member of Technical Staff - Cloud Operations
+Member of Technical Staff - Cloud Operations
+Aptiv
+Ottawa, Ontario, Canada
+2 weeks ago
+Cloud Architect
+Cloud Architect
+Akkodis
+Ottawa, Ontario, Canada
+3 weeks ago
+Senior Platform & Infrastructure Engineer - Permanent - 19528
+Senior Platform & Infrastructure Engineer - Permanent - 19528
+LRO Staffing
+Ottawa, Ontario, Canada
+6 days ago
+Senior Cloud Platform Lead, Senior Manager
+Senior Cloud Platform Lead, Senior Manager
+PwC Canada
+Ottawa, Ontario, Canada
+1 week ago
+Show more jobs like this 
+People also viewed
+Software Technical Leader
+Software Technical Leader
+
+Cisco
+
+Kanata, Ontario, Canada
+2 weeks ago
+Secure System Platform Engineer
+Secure System Platform Engineer
+
+IBM
+
+Ottawa, Ontario, Canada
+CA$129,200 - CA$167,200
+1 week ago
+Principal Architect
+Principal Architect
+
+BDO Canada
+
+Ottawa, Ontario, Canada
+2 weeks ago
+Platform & Infrastructure Engineer
+Platform & Infrastructure Engineer
+
+Q-Block Computing
+
+Ottawa, Ontario, Canada
+3 months ago
+Senior System Administrator
+Senior System Administrator
+
+Harris Computer
+
+Ottawa, Ontario, Canada
+2 months ago
+Delivery Consultant - Application Modernization, AWS Professional Services
+Delivery Consultant - Application Modernization, AWS Professional Services
+
+Amazon Web Services (AWS)
+
+Ottawa, Ontario, Canada
+2 weeks ago
+Staff Software Engineer (Continuous Integration)
+Staff Software Engineer (Continuous Integration)
+
+Affirm
+
+Ottawa, Ontario, Canada
+3 days ago
+Cloud Network Engineer (36174)
+Cloud Network Engineer (36174)
+
+Myticas Consulting
+
+Ottawa, Ontario, Canada
+6 hours ago
+Azure Cloud Architect - Manager
+Azure Cloud Architect - Manager
+
+EY
+
+Ottawa, Ontario, Canada
+1 day ago
+Manager, Cloud Services and Site Reliability
+Manager, Cloud Services and Site Reliability
+
+Barracuda
+
+Ottawa, Ontario, Canada
+2 months ago
+Similar Searches
+Technology Editor jobs
+130 open jobs
+Progress Developer jobs
+15,572 open jobs
+Senior Implementation Engineer jobs
+2,783 open jobs
+SAP Technical Architect jobs
+354 open jobs
+Senior Director Supply Chain jobs
+62 open jobs
+Supply Chain Management Consultant jobs
+188 open jobs
+Supply Chain Consultant jobs
+603 open jobs
+Director Supply Chain Management jobs
+379 open jobs
+New Business Coordinator jobs
+2,898 open jobs
+Computer Analyst jobs
+14,764 open jobs
+E-learning Developer jobs
+129 open jobs
+Director of Intellectual Property jobs
+32 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Kinaxis
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

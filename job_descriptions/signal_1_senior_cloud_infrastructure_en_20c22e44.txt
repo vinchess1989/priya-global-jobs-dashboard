@@ -1,0 +1,251 @@
+Title: Senior Cloud Infrastructure Engineer
+Company: Signal 1
+Location: Toronto, Ontario, Canada
+URL: https://ca.linkedin.com/jobs/view/senior-cloud-infrastructure-engineer-at-signal-1-4472407926
+Posted: 2026-10-05
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in CI/CD, cloud infrastructure, and regulated healthcare environments, and it is located in a target country (Canada).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Cloud Infrastructure Engineer
+Signal 1  Toronto, Ontario, Canada
+1 month ago   Over 200 applicants
+  
+
+See who Signal 1 has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Signal 1 helps health systems accelerate AI adoption with a category defining technology platform. Signal 1’s first product, the AI Management System (AIMS), gives health system leaders visibility and control across their growing AI portfolios. AIMS offers comprehensive oversight of predictive and generative AI applications and introduces guardrails to mitigate downside risks. It sets the standard for Responsible AI in healthcare. Purpose-built for healthcare and informed by years of experience managing AI at scale in other industries, Signal 1 empowers healthcare organizations to translate innovation into real clinical, operational, and financial outcomes.
+
+Signal 1 is a 30-person, well-funded and rapidly growing startup with strong product market fit and deployments at a growing number of top-20 US health systems.
+
+We are looking for a Senior Cloud Infrastructure Engineer to join our small, hands-on Infrastructure Team. You will:
+
+
+Design, build, and run the Azure infrastructure behind Signal 1's products using infrastructure as code.
+Build deployment pipelines that take code from commit to production across multiple environments.
+Help shape the architecture of the whole system, from the application to the infrastructure and everything in between.
+Troubleshoot live issues together with our software engineers.
+Build full-stack internal tools that automate the Infrastructure Team's everyday work.
+Keep the platform secure, compliant, and reliable, including monitoring, backups, and recovery.
+Own components and projects from idea to production, and bring new ideas that make the whole team faster.
+
+
+Required Qualifications
+
+
+Bachelor's degree in Computer Science or equivalent practical experience.
+5+ years of experience in cloud infrastructure, DevOps, or platform engineering.
+Strong hands-on experience with at least one major cloud platform (Azure, AWS, or GCP).
+Production experience with Kubernetes, Helm, Terraform, and continuous integration and delivery tools such as GitHub Actions.
+Strong networking knowledge, including designing and building secure cloud networks.
+Strong Python and Bash scripting skills, and the ability to read and understand application code.
+A clear understanding of how every part of a modern software system works together, end to end.
+Strong communication skills, with the ability to pick up context fast, bring useful ideas to technical discussions, and explain complex topics in plain words.
+
+
+Preferred Qualifications
+
+
+Experience with Azure, Terragrunt, Istio, and Datadog.
+Experience designing multi-tenant SaaS environments where each customer's data is isolated.
+Experience building full-stack internal tools, such as deployment or operations tools.
+Familiarity with HIPAA and SOC 2, and experience handling protected health information (PHI).
+Experience deploying software into customer-managed or private network environments.
+Experience in small startup teams that build and ship fast.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Signal 1 by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Tivoli Storage Manager jobs
+Senior Cloud Infrastructure Engineer
+Similar jobs
+Senior Cloud Infrastructure Engineer
+Senior Cloud Infrastructure Engineer
+Mecka
+Richmond Hill, Ontario, Canada
+CA$165,000 - CA$200,000
+1 month ago
+Senior Cloud Infrastructure Engineer
+Senior Cloud Infrastructure Engineer
+Skip
+Oakville, Ontario, Canada
+13 hours ago
+Senior Infrastructure Developer
+Senior Infrastructure Developer
+Blue J
+Toronto, Ontario, Canada
+2 weeks ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+AMD
+Markham, Ontario, Canada
+$132,000 - $198,000
+1 day ago
+Infrastructure Engineer
+Infrastructure Engineer
+Lakeview Loan Servicing, LLC.
+North York, Ontario, Canada
+5 months ago
+Cloud Infrastructure Engineer
+Cloud Infrastructure Engineer
+Cerebras
+Toronto, Ontario, Canada
+3 months ago
+Show more jobs like this 
+People also viewed
+Senior Platform Engineer
+Senior Platform Engineer
+
+Kinross Gold Corporation
+
+Toronto, Ontario, Canada
+3 weeks ago
+Senior Cloud Engineer
+Senior Cloud Engineer
+
+RBC
+
+Toronto, Ontario, Canada
+1 week ago
+Senior Platform Engineering Specialist
+Senior Platform Engineering Specialist
+
+CGI
+
+Toronto, Ontario, Canada
+2 weeks ago
+Senior Cloud Engineer, Automation (Remote Ontario)
+Senior Cloud Engineer, Automation (Remote Ontario)
+
+Smile Digital Health
+
+Toronto, Ontario, Canada
+CA$130,000 - CA$145,000
+3 weeks ago
+Cloud Engineer
+Cloud Engineer
+
+Xanadu
+
+Toronto, Ontario, Canada
+3 weeks ago
+Senior Specialist, IT Infrastructure
+Senior Specialist, IT Infrastructure
+
+Celestica
+
+Toronto, Ontario, Canada
+5 days ago
+Infrastructure Architect
+Infrastructure Architect
+
+123Dentist
+
+Toronto, Ontario, Canada
+CA$150,000 - CA$175,000
+6 hours ago
+Senior Cloud Infrastructure Engineer - Operate (Future Opportunity)
+Senior Cloud Infrastructure Engineer - Operate (Future Opportunity)
+
+Deloitte
+
+Toronto, Ontario, Canada
+1 week ago
+Senior Cloud Engineer -Hybrid
+Senior Cloud Engineer -Hybrid
+
+Manulife
+
+Toronto, Ontario, Canada
+6 days ago
+Senior Cloud Engineer
+Senior Cloud Engineer
+
+The Nationwide Group
+
+Markham, Ontario, Canada
+CA$130,000 - CA$145,000
+1 week ago
+Similar Searches
+Tivoli Storage Manager jobs
+50 open jobs
+Windows Engineer jobs
+364 open jobs
+Middleware Specialist jobs
+14,663 open jobs
+System Security Administrator jobs
+1,287 open jobs
+Senior System Engineer jobs
+1,733 open jobs
+Network Operations Analyst jobs
+983 open jobs
+Unix Linux System Administrator jobs
+66 open jobs
+Senior Web Application Developer jobs
+3,046 open jobs
+Senior System Administrator jobs
+1,423 open jobs
+Infrastructure Engineer jobs
+3,272 open jobs
+Windows System Administrator jobs
+882 open jobs
+Senior Desktop Engineer jobs
+959 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Signal 1
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
