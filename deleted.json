@@ -20432,5 +20432,22 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.5-flash-lite",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Senior Product Development Engineer",
+    "company": "femtherapeutics",
+    "location": "Montreal, Quebec, Canada",
+    "url": "https://ca.linkedin.com/jobs/view/senior-product-development-engineer-at-femtherapeutics-4484382141",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is a pure mechanical/biomedical product development engineering position requiring hands-on CAD design (SolidWorks) and lab testing, which falls under the hard rejection for pure feature-development engineering.",
+    "id": "b63edc7b",
+    "source": "linkedin_ca_eu_mdr",
+    "added_at": "2026-11-03T02:18:39+02:00",
+    "posted_date": "2026-11-03",
+    "deadline": "2025-11-09",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Deadline (2025-11-09) passed by more than 2 days and unreviewed"
   }
 ]

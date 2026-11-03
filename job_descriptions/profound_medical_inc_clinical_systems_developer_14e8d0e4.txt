@@ -1,0 +1,264 @@
+Title: Clinical Systems Developer
+Company: Profound Medical Inc.
+Location: Mississauga, Ontario, Canada
+URL: https://ca.linkedin.com/jobs/view/clinical-systems-developer-at-profound-medical-inc-4486405679
+Posted: 2026-11-03
+Deadline: N/A
+Reason: The role aligns perfectly with the candidate's experience in regulated medical device environments (ISO 13485/MDR), root cause analysis, and technical documentation, and it is located in a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Clinical Systems Developer
+Profound Medical Inc.  Mississauga, Ontario, Canada
+7 hours ago   Be among the first 25 applicants
+  
+
+See who Profound Medical Inc. has hired for this role
+
+Apply 
+Save
+Our mission is to Profoundly change the standard of care by creating a tomorrow where clinicians can confidently ablate tissue with precision; a tomorrow where patients have access to safe and effective treatment options, so they can quickly return to their daily lives. Changing the standard of care is part of our fabric. We are a group of energetic, problem-solvers focused on innovation, and looking to change the world. We are changing the paradigm for treating diseases such as prostate cancer by using real-time MR Imaging, thermal ultrasound and close-loop temperature feedback control, to gently ablate the diseased tissue with minimal side effects.
+
+If you share our values and want to work in a collaborative results focused culture and want to make a Profound impact in healthcare and your career, here is your chance.
+
+General Accountability
+
+We are seeking a Clinical Systems Engineer to lead the technical investigation of device failures across the product lifecycle — reproducing failures, tracing them to root cause across hardware, software, firmware, and mechanical subsystems, developing and communicating short-term workarounds to keep systems safely operational, and driving the corrective actions that improve device safety and reliability.
+
+Duties & Responsibilities
+
+Duties and responsibilities will include (but are not limited to):
+
+
+Lead cross-disciplinary investigations of device failures on complex, multi-subsystem medical devices, spanning electrical, mechanical, software/firmware, and MRI/ultrasound components.
+Reproduce and characterize failures in the lab, including designing test setups, fixtures, and scripts to recreate field-reported conditions.
+Perform root cause analysis using structured methods (5 Whys, fishbone/Ishikawa, fault tree analysis, and FMEA linkage) and document findings with clear evidence and reasoning.
+Develop short-term workarounds and interim mitigations to keep systems safely operational in the field while permanent root cause fixes are investigated and implemented.
+Assess the safety and risk of proposed workarounds, ensuring interim measures do not introduce new hazards and are consistent with the device’s risk management file.
+Clearly communicate workarounds and interim guidance to Field Service, clinical and customer sites, and internal stakeholders, providing concise, actionable instructions along with the rationale and limitations behind them.
+Prioritize and triage field issues, balancing urgency, patient safety, and business impact to determine when an immediate workaround is warranted versus a full corrective action.
+Analyze device data — system logs, event records, sensor and telemetry data, and service records — to isolate failure signatures and distinguish root causes from symptoms.
+Examine returned and complaint units, coordinating teardown, inspection, and any needed component-level or supplier analysis.
+Author investigation reports that meet regulatory and quality-system standards, clearly stating scope, evidence, root cause, and recommended corrective and preventive actions.
+Support complaint handling and MDR / adverse-event evaluation, providing timely, technically sound conclusions to Quality and Regulatory.
+Drive and verify corrective actions (CAPA) with design, manufacturing, and supplier teams; confirm effectiveness of implemented fixes and ensure interim workarounds are retired once permanent solutions are in place.
+Feed lessons learned back into design and risk management, updating risk files (Hazard Analysis, dFMEA/pFMEA) and informing design improvements.
+Work with suppliers and multidisciplinary engineering teams (R&D, Manufacturing, Field Service, and Regulatory), and occasionally support field or customer-site investigations.
+
+
+Education & Certifications
+
+Bachelor’s degree in Systems, Electrical, Mechanical, Biomedical, Software, or a related engineering discipline
+
+Key Attributes
+
+Required
+
+
+5 or more years of engineering experience with complex electromechanical or electronic systems, including hands-on troubleshooting and root cause analysis.
+Demonstrated ability to investigate failures across multiple domains (hardware and software/firmware) and to reason rigorously from evidence to conclusion.
+Proficiency with structured root cause methodologies (fault tree analysis, FMEA, 5 Whys, DOE).
+Strong data-analysis skills: interpreting logs, sensor data, and test results (e.g., Python, MATLAB, or similar).
+Comfort with laboratory instrumentation (oscilloscopes, multimeters, data acquisition) and reading schematics, mechanical drawings, and specifications.
+Excellent technical writing and communication — able to make complex findings clear and defensible, including under time pressure.
+Investigative rigor and systems thinking — methodical, evidence-driven, and able to see interactions across subsystems rather than isolated components.
+Patient-safety mindset with strong ownership, driving investigations from complaint through to verified corrective action.
+
+
+Desired
+
+
+Experience in a regulated medical-device environment (FDA 21 CFR 820, ISO 13485, ISO 14971 risk management).
+Familiarity with complaint handling, MDR / vigilance reporting, and CAPA processes.
+
+
+We thank you for your interest in Profound Medical. Please note only candidates that are short-listed will be contacted.
+
+The expected annual salary range for this role is $75,000 -$120,000 CAD. Actual compensation will be determined based on experience, qualifications, and job-related factors. This role may also be eligible for participation in the company’s benefits programs, such as a group RRSP and medical benefits paid by the employer.
+
+We strive to promote diversity and equal opportunity in the workplace and encourage applications from all qualified individuals, including those with disabilities. If selected to participate in the recruitment, selection, and/or assessment process, please inform Human Resources of the nature of any accommodation(s) that you may require.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Medical Device
+  
+
+Referrals increase your chances of interviewing at Profound Medical Inc. by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Developer Internship jobs
+Clinical Systems Developer
+Similar jobs
+Software Developer - Enhance Ontario
+Software Developer - Enhance Ontario
+Scarborough Health Network
+Scarborough, Ontario, Canada
+4 days ago
+Principal Software Engineer, Health Data & Interoperability (Remote)
+Principal Software Engineer, Health Data & Interoperability (Remote)
+Verto Health
+Toronto, Ontario, Canada
+1 month ago
+Software Engineer - Health Systems
+Software Engineer - Health Systems
+FluidAI Medical
+Kitchener, Ontario, Canada
+1 month ago
+Interface Integration Specialist - OCINet
+Interface Integration Specialist - OCINet
+Scarborough Health Network
+Scarborough, Ontario, Canada
+2 weeks ago
+2600001909 - Sr. Digital Solutions Developer
+2600001909 - Sr. Digital Solutions Developer
+Lakeridge Health
+Whitby, Ontario, Canada
+1 week ago
+Senior Integration Developer
+Senior Integration Developer
+Trillium Health Partners
+Mississauga, Ontario, Canada
+CA$57.50 - CA$71.87
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Senior Full Stack Developer
+Senior Full Stack Developer
+
+VITALL
+
+Greater Toronto Area, Canada
+1 month ago
+Technical Lead, API & Integration Engineering
+Technical Lead, API & Integration Engineering
+
+HOOPP (Healthcare of Ontario Pension Plan)
+
+Toronto, Ontario, Canada
+6 days ago
+Senior Software Developer
+Senior Software Developer
+
+Profound Medical Inc.
+
+Mississauga, Ontario, Canada
+7 hours ago
+Applied AI Engineer
+Applied AI Engineer
+
+WELL Health Technologies Corp. (TSX: WELL)
+
+Toronto, Ontario, Canada
+6 days ago
+Forward Deployed Engineering, US Oncology
+Forward Deployed Engineering, US Oncology
+
+McKesson
+
+Mississauga, Ontario, Canada
+2 weeks ago
+Expert Software Engineer
+Expert Software Engineer
+
+Yoush Consulting
+
+Toronto, Ontario, Canada
+4 months ago
+Technical Lead
+Technical Lead
+
+Appnovation
+
+Toronto, Ontario, Canada
+1 week ago
+Senior Software Developer
+Senior Software Developer
+
+Counterpart Health
+
+Toronto, Ontario, Canada
+6 months ago
+Senior Forward Deployed Specialist
+Senior Forward Deployed Specialist
+
+McKesson
+
+Mississauga, Ontario, Canada
+3 days ago
+System Analyst
+System Analyst
+
+Mackenzie Health
+
+Vaughan, Ontario, Canada
+CA$45.10 - CA$54.67
+1 month ago
+Similar Searches
+Developer Internship jobs
+35 open jobs
+Embedded System Developer jobs
+328 open jobs
+Delphi Programmer jobs
+13,888 open jobs
+Application Consultant jobs
+4,831 open jobs
+Junior Dotnet Developer jobs
+506 open jobs
+Junior System Analyst jobs
+14,115 open jobs
+Test Automation Specialist jobs
+560 open jobs
+Junior Java Developer jobs
+1,182 open jobs
+Delphi Developer jobs
+403 open jobs
+Web Publisher jobs
+154 open jobs
+Senior PHP Developer jobs
+3,437 open jobs
+Back End Developer jobs
+3,490 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
