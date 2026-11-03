@@ -1,0 +1,400 @@
+Title: Specialist, Business Analyst – Content Studio
+Company: MSD
+Location: Hyderabad, Telangana, India
+URL: https://in.linkedin.com/jobs/view/specialist-business-analyst-%E2%80%93-content-studio-at-msd-4485328477
+Posted: 2026-10-31
+Deadline: 2026-11-06
+Reason: This role strongly matches her requirements for requirements engineering, traceability, and product/quality documentation in a regulated technology environment located in India.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Specialist, Business Analyst – Content Studio
+MSD  Hyderabad, Telangana, India
+4 days ago  60 applicants
+  
+
+See who MSD has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Job Description
+
+About Digital Human Health (DHH)
+
+Digital Human Health (DHH) connects technology, data, and people to enable and accelerate Human Health business across global markets. DHH supports commercial and medical teams by delivering customer-centric digital platforms, data capabilities, and technology-enabled operating models that enable flexible go-to-market approaches, actionable insights, and personalized customer experiences in a regulated environment.
+
+Within DHH, the Content Creation & Storage pillar of Digital Content & Customer Experience (DCCE) builds the platforms and capabilities that help Human Health create compliant, on-brand content faster. As part of the Content Accelerator, the pillar is moving content creation from manual production to AI-generated content that is built to brand and compliance standards from the start, combining agentic content creation platform (Content Studio), Adobe capabilities, and the design system.
+
+Role Purpose
+
+Own business analysis for Content Studio, AI-enabled content creation capability. Turn business needs into clear, build-ready, and traceable requirements, and work hands-on alongside engineering, UX, and implementation partners from discovery through release.
+
+The role is the Product Owner’s day-to-day partner. As the person grows, they will be expected to take on product ownership for defined Content Studio features or components, including backlog decisions, stakeholder alignment, and release outcomes.
+
+Scope of Ownership & Adjacent Responsibilities
+
+Accountable for (owns the deliverable and its quality)
+
+
+Content Studio requirements functional specifications, user stories, and acceptance criteria for assigned features and components.
+Backlog readiness stories meet the agreed Definition of Ready before sprint planning.
+The product source of truth (Confluence/JIRA) workflows, business rules, input/output requirements, integrations, known limitations, and the decision log.
+Requirements traceability from business need to story, test, and released functionality.
+UAT coordination with business users, including tracking feedback and gaps through to closure.
+The user feedback loop capturing feedback from content creators, brand teams, and reviewers, and turning it into prioritized backlog items.
+
+
+Partners on (contributes; another role makes the final decision)
+
+
+Backlog prioritization and release scope, with the Product Owner.
+Solution design and technical approach, with engineering and implementation partners.
+Integration requirements with adjacent platforms (e.g., Adobe capabilities, design system, guardrails/rules engine, Veeva Vault PromoMats), with the respective product teams.
+
+
+Adjacent
+
+
+Flex across other Content Creation & Storage workstreams (e.g., Adobe Brand Intelligence experiments, design system) as priorities shift.
+
+
+Key Responsibilities
+
+Requirements & Backlog Ownership
+
+
+Run discovery with business users to understand workflows, pain points, and desired outcomes before writing requirements.
+Write user stories with clear acceptance criteria, edge cases, and dependencies, and resolve open questions before development starts.
+Prepare refinement and sprint planning with the Product Owner. Bring a ready, sized backlog and a recommended priority order.
+Turn workflows into clear product behavior, including user flows, error handling, and human-in-the-loop review points.
+Manage requirement changes and log scope decisions so everyone knows what changed and why.
+
+
+Working with Tech Teams & Validation
+
+
+Work closely with engineering during sprints to clarify requirements and resolve open questions quickly.
+Get hands-on with Content Studio’s AI features (e.g., prompts, agent inputs/outputs, brand rules) to understand how they behave and confirm they meet requirements.
+Build a working understanding of the platform’s architecture, integrations, and APIs to have informed discussions with engineering and partners.
+Coordinate UAT with business users, capturing feedback, defects, and gaps and following them through to resolution.
+
+
+Documentation, Governance & Communication
+
+
+Keep the Content Studio source of truth current and easy to understand for new team members, business users, engineers, and partners.
+Maintain the decision log, open questions, risks, and dependencies across internal and partner teams.
+Build compliance into requirements, including human-in-the-loop controls, AI labeling, auditability, and alignment with AI and content policies.
+Share concise updates on progress, decisions, risks, and releases with the Product Owner and stakeholders.
+
+
+Stakeholder & Vendor Collaboration
+
+
+Facilitate requirement workshops and working sessions that end in clear decisions and owners.
+Review vendor and partner solutions against documented requirements, and raise gaps early.
+Act as the bridge between business and technical teams so both share the same understanding of what is being built and why.
+
+
+What Success Looks Like
+
+
+Stories reach sprint planning ready to build, with little rework or mid-sprint clarification.
+Content Studio has one current, trusted source of truth that engineers, partners, and new joiners actually use.
+Every released feature can be traced back to a business need and an agreed acceptance test.
+Delivered features match what the business asked for, with gaps caught early through UAT.
+User feedback is turned into prioritized improvements quickly and visibly.
+Over time, the person independently owns defined features or components end to end, showing readiness for a Product Owner role.
+
+
+Qualifications & Experience
+
+Education
+
+Bachelor’s degree in Engineering, Computer Science, Information Technology, or a related field required; Master’s degree preferred.
+
+Experience
+
+
+4–5+ years of experience as a Business Analyst, Product Analyst, or Product Owner/Manager in digital products or technology delivery.
+Hands-on experience with GenAI tools or solutions, e.g., building, configuring, or testing prompts, AI workflows, agents, or LLM-based applications, beyond awareness level.
+Understanding of agentic AI concepts (agents, orchestration, tool use, guardrails, human-in-the-loop) and practical experience in pilots, proofs of concept, or early rollouts.
+Strong requirements, user story, acceptance criteria, and process mapping skills; experience in Agile/Scrum teams using JIRA and Confluence.
+Working technical literacy APIs, integrations, and data inputs/outputs, with the ability to engage credibly with engineers and vendors.
+Experience supporting UAT and validating solutions against requirements.
+Experience working directly with business users and turning feedback into rapid iterations.
+Excellent written and verbal communication; ability to work across a geographically distributed team (India, Europe, US).
+
+
+Preferred / Nice To Have
+
+
+Experience with content management, marketing technology, Digital Asset Management, or content supply chain platforms.
+Familiarity with the Adobe content ecosystem (e.g., Firefly, AEM Assets, Workfront) or Veeva Vault PromoMats.
+Familiarity with design systems or Figma-based creative workflows.
+Basic scripting or query skills (e.g., Python, SQL) or experience with low-code/AI agent builders.
+Product Owner certification (e.g., CSPO, PSPO) or experience owning backlog decisions for a product or feature area.
+Experience in pharma or other regulated environments; awareness of MLR/content review and AI governance considerations.
+
+
+Key Competencies
+
+
+Ownership and accountability for deliverables
+Business-first, hands-on problem solving
+Attention to detail and strong analytical thinking
+Learning agility in a fast-evolving AI environment
+Clear, concise communication and documentation
+Strong cross-functional collaboration
+
+
+Additional location(s) Compensation Information
+
+Required Skills
+
+Analytical Thinking, Analytical Thinking, Atlassian JIRA, Backlog Prioritization, Business Intelligence (BI), Computer Science, Content Development, Content Management, Data Management, Data Modeling, Data Visualization, Digital Asset Management (DAM), Figma, Generative AI, IBM watsonx.governance, Information Technology (IT), Learning Agility, Measurement Analysis, Multidisciplinary Teamwork, Process Mapping, Product Ownership, Solutions Design, Sprint Planning, Stakeholder Relationship Management, User Acceptance Testing (UAT) {+ 2 more}
+
+Preferred Skills
+
+Current Employees apply HERE
+
+Current Contingent Workers apply HERE
+
+Secondary Language(s) Job Description
+
+#MSDHYDIT
+
+Search Firm Representatives Please Read Carefully
+
+Merck & Co., Inc., Rahway, NJ, USA, also known as Merck Sharp & Dohme LLC, Rahway, NJ, USA, does not accept unsolicited assistance from search firms for employment opportunities. All CVs / resumes submitted by search firms to any employee at our company without a valid written search agreement in place for this position will be deemed the sole property of our company. No fee will be paid in the event a candidate is hired by our company as a result of an agency referral where no pre-existing agreement is in place. Where agency agreements are in place, introductions are position specific. Please, no phone calls or emails.
+
+Employee Status
+
+Regular
+
+Relocation
+
+Domestic
+
+VISA Sponsorship
+
+No
+
+Travel Requirements
+
+10%
+
+Flexible Work Arrangements
+
+Hybrid
+
+Shift
+
+1st - Day
+
+Valid Driving License
+
+Yes
+
+Hazardous Material(s)
+
+NA
+
+Job Posting End Date
+
+11/6/2026
+
+
+A job posting is effective until 11 59 59PM on the day BEFORE the listed job posting end date. Please ensure you apply to a job posting no later than the day BEFORE the job posting end date.
+
+
+Requisition ID R424462
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Industries
+Biotechnology Research, Pharmaceutical Manufacturing, and Veterinary Services
+  
+
+Referrals increase your chances of interviewing at MSD by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Salesforce Consultant jobs
+Specialist, Business Analyst – Content Studio
+Similar jobs
+Specialist, Business Analyst – AI Content Creation (Content Creation & Storage)
+Specialist, Business Analyst – AI Content Creation (Content Creation & Storage)
+MSD
+Hyderabad, Telangana, India
+1 week ago
+Senior Manager
+Senior Manager
+PepsiCo
+Hyderabad, Telangana, India
+1 week ago
+Senior Manager - Knowledge Management
+Senior Manager - Knowledge Management
+PepsiCo
+Hyderabad, Telangana, India
+1 week ago
+Senior Specialist, Business Analyst – MLR Review Capability (Veeva PromoMats)
+Senior Specialist, Business Analyst – MLR Review Capability (Veeva PromoMats)
+MSD
+Hyderabad, Telangana, India
+1 week ago
+Workfront Specialist
+Workfront Specialist
+Amgen
+Hyderabad, Telangana, India
+3 days ago
+Data Management Analyst
+Data Management Analyst
+Wells Fargo
+Greater Hyderabad Area
+4 days ago
+Show more jobs like this 
+People also viewed
+Senior Business Analyst
+Senior Business Analyst
+
+Roboyo
+
+Hyderabad, Telangana, India
+3 days ago
+Expert, AI Content - Omnichannel
+Expert, AI Content - Omnichannel
+
+Sanofi
+
+Hyderabad, Telangana, India
+5 days ago
+Senior Consultant Business Analyst - Tax Transformation Office - Hyderabad / Gurugram
+Senior Consultant Business Analyst - Tax Transformation Office - Hyderabad / Gurugram
+
+Deloitte
+
+Hyderabad, Telangana, India
+2 weeks ago
+Technical Content Manager
+Technical Content Manager
+
+WPP Production
+
+Hyderabad, Telangana, India
+2 weeks ago
+Specialist - Internal Communication - Brand, Marketing and Communication - Hyderabad
+Specialist - Internal Communication - Brand, Marketing and Communication - Hyderabad
+
+Deloitte
+
+Hyderabad, Telangana, India
+4 days ago
+BUSINESS ANALYST L4
+BUSINESS ANALYST L4
+
+Wipro
+
+Hyderabad, Telangana, India
+2 weeks ago
+BUSINESS ANALYST L5
+BUSINESS ANALYST L5
+
+Wipro
+
+Hyderabad, Telangana, India
+2 days ago
+Architect - Knowledge Management Insights and Analytics Analyst
+Architect - Knowledge Management Insights and Analytics Analyst
+
+PepsiCo
+
+Hyderabad, Telangana, India
+6 days ago
+R&D Digital Platforms Assoc Analyst
+R&D Digital Platforms Assoc Analyst
+
+PepsiCo
+
+Hyderabad, Telangana, India
+2 weeks ago
+Deputy Director - Knowledge Management Portfolio Manager
+Deputy Director - Knowledge Management Portfolio Manager
+
+PepsiCo
+
+Hyderabad, Telangana, India
+5 days ago
+Similar Searches
+Salesforce Consultant jobs
+1,217 open jobs
+Salesforce Administrator jobs
+1,331 open jobs
+Quality Engineer jobs
+25,348 open jobs
+Business Analyst jobs
+13,729 open jobs
+Engineer jobs
+71,158 open jobs
+Information Technology Manager jobs
+4,151 open jobs
+Senior Business Analyst Contract jobs
+142 open jobs
+Business Analyst Intern jobs
+1,843 open jobs
+Business Test Analyst jobs
+2,637 open jobs
+Business Analyst Contract jobs
+569 open jobs
+Technical Business Analyst jobs
+4,666 open jobs
+Senior Business Analyst jobs
+6,993 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at MSD
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
