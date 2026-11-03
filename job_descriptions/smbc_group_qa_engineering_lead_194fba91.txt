@@ -1,0 +1,254 @@
+Title: QA Engineering Lead
+Company: SMBC Group
+Location: Tralee, County Kerry, Ireland
+URL: https://ie.linkedin.com/jobs/view/qa-engineering-lead-at-smbc-group-4486854343
+Posted: 2026-11-04
+Deadline: N/A
+Reason: The role aligns with the candidate's expertise in QA leadership, release readiness, and technical documentation within a regulated environment, and it is located in an eligible country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+QA Engineering Lead
+SMBC Group  Tralee, County Kerry, Ireland
+12 hours ago   Be among the first 25 applicants
+  
+
+See who SMBC Group has hired for this role
+
+Apply 
+Save
+SMBC Group is a top-tier global financial group. Headquartered in Tokyo and with a 400-year history, SMBC Group offers a diverse range of financial services, including banking, leasing, securities, credit cards, and consumer finance. The Group has more than 130 offices and 80,000 employees worldwide in nearly 40 countries. Sumitomo Mitsui Financial Group, Inc. (SMFG) is the holding company of SMBC Group, which is one of the three largest banking groups in Japan. SMFG’s shares trade on the Tokyo, Nagoya, and New York (NYSE: SMFG) stock exchanges.
+
+In the Americas, SMBC Group has a presence in the US, Canada, Ireland, Mexico, Brazil, Chile, Colombia, and Peru. Backed by the capital strength of SMBC Group and the value of its relationships in Asia, the Group offers a range of commercial and investment banking services to its corporate, institutional, and municipal clients. It connects a diverse client base to local markets and the organization’s extensive global network. The Group’s operating companies in the Americas include Sumitomo Mitsui Banking Corp. (SMBC), SMBC Nikko Securities America, Inc., SMBC Capital Markets, Inc., JRI America, Inc., SMBC Leasing and Finance, Inc., Banco Sumitomo Mitsui Brasileiro S.A., and Sumitomo Mitsui Finance and Leasing Co., Ltd.
+
+This is a hybrid role, requiring the successful candidate to attend our Tralee office at least three (3) days in a work week.
+
+Role Description
+
+SMBC is seeking an experienced QA Engineering Lead to support the implementation of SAP SuccessFactors. This is a hands-on QA leadership role spanning application testing, UI/UX, test automation and data validation, with a strong focus on Python, advanced SQL and Databricks.
+
+The role will lead the overall QA strategy and testing approach while collaborating with global technology and business teams. Responsibilities will include testing governance, test strategy and planning, release readiness, quality risk and defect management and ensuring testing activities adhere to established SDLC processes and controls.
+
+This role will report to the Director of Quality Assurance Testing.
+
+Role Objectives: Delivery
+
+QA Leadership & Test Strategy
+
+
+Own the overall QA strategy and testing governance for the SuccessFactors implementation, ensuring appropriate standards, controls and quality measures are established throughout delivery.
+Lead a team of QA Engineers and provide direction on testing approach, coverage and execution.
+Develop comprehensive test plans and strategies across application, UI/UX, automation, database and ETL testing.
+Review business and technical requirements to identify testable conditions, gaps, risks and acceptance criteria.
+Provide senior stakeholders with clear assessments of quality risk, testing progress and release readiness, escalating significant issues where required.
+Support release planning and ensure appropriate testing coverage ahead of production releases.
+Drive continuous improvement across QA processes, testing standards and automation practices.
+Ensure testing activities align with established SDLC processes and controls.
+
+
+Application & Data Testing
+
+
+Lead and oversee application, automated and ETL testing activities, remaining hands-on where required.
+Validate application functionality and integrated backend systems.
+Perform end-to-end data validation across extraction, transformation and loading processes.
+Write and execute complex SQL queries to validate data across multiple stages and systems.
+Develop Python scripts to validate large datasets and identify defects or data-quality issues.
+Review Databricks jobs and pipeline runs to ensure ETL processes complete successfully and meet required data-quality standards.
+
+
+Test & Defect Management
+
+
+Define, document and track test scenarios and test cases in Jira, ensuring appropriate coverage across integrated platforms and backend systems.
+Identify, document and manage defects through to resolution.
+Collaborate with developers and wider technology teams to investigate issues and support timely remediation.
+Provide oversight of significant quality issues and drive appropriate escalation and resolution.
+Establish and continuously improve QA processes and testing practices.
+
+
+Qualifications And Skills
+
+
+Bachelor’s degree in Computer Science, Engineering or a related discipline, or equivalent relevant experience.
+7+ years of experience across application, database and automation testing, with demonstrated experience leading complex QA delivery.
+Proven experience leading QA teams and providing direction across complex technology programmes.
+Strong hands-on experience with database testing, advanced SQL, Python and Databricks.
+Strong Python and SQL skills with experience using test automation frameworks such as Playwright or similar.
+Strong understanding of ETL processes, data validation and testing across integrated systems.
+Experience developing test strategies, establishing QA governance and assessing release readiness.
+Experience using test and defect management tools such as Jira.
+Proven ability to introduce and improve QA processes, testing standards and automation practices.
+Strong analytical and problem-solving skills with the ability to operate across complex technology environments.
+Strong communication and stakeholder management skills with experience working across global teams and engaging senior stakeholders.
+
+
+Advantageous Experience
+
+
+Experience testing SAP SuccessFactors or another enterprise HR platform.
+Experience with Java, JavaScript or VBScript.
+Experience with RFT, HP Quality Center or similar testing and test-management tools.
+Experience using Confluence.
+
+
+Additional Requirements
+
+SMBC’s employees participate in a hybrid workforce model that provides employees with an opportunity to work from home, as well as, from an SMBC office. SMBC requires that employees live within a reasonable commuting distance of their office location. Prospective candidates will learn more about their specific hybrid work schedule during their interview process.
+
+SMBC provides reasonable accommodations during candidacy for applicants with disabilities consistent with applicable federal, state, and local law. If you need a reasonable accommodation during the application process, please let us know at accommodations@smbcgroup.com.
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Industries
+Banking, Financial Services, and IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at SMBC Group by 2x
+
+See who you know
+
+Get notified about new Quality Assurance Lead jobs in Tralee, County Kerry, Ireland.
+
+Sign in to create job alert
+Similar jobs
+QA Data Engineering Lead
+QA Data Engineering Lead
+SMBC Group
+Tralee, County Kerry, Ireland
+12 hours ago
+Quality Officer
+Quality Officer
+Kinisla
+Listowel, County Kerry, Ireland
+2 months ago
+CSV Lead
+CSV Lead
+Morgan McKinley
+Tralee, County Kerry, Ireland
+2 months ago
+Quality Assurance for Integrated Batch Release
+Quality Assurance for Integrated Batch Release
+Astellas Pharma
+Tralee, County Kerry, Ireland
+1 week ago
+QC Laboratory Supervisor
+QC Laboratory Supervisor
+Kinisla
+Listowel, County Kerry, Ireland
+3 weeks ago
+Lyophilisation Lead Engineer
+Lyophilisation Lead Engineer
+Astellas Pharma
+Tralee, County Kerry, Ireland
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Quality Assurance Operations
+Quality Assurance Operations
+
+Astellas Pharma
+
+Tralee, County Kerry, Ireland
+4 days ago
+Project Lead Engineer
+Project Lead Engineer
+
+Astellas Pharma
+
+Tralee, County Kerry, Ireland
+1 week ago
+Project Automation Engineer
+Project Automation Engineer
+
+Morgan McKinley
+
+County Kerry, Ireland
+1 week ago
+Engineering Graduate
+Engineering Graduate
+
+Astellas Pharma
+
+Killorglin, County Kerry, Ireland
+3 weeks ago
+Full Stack Application Developer (Azure)
+Full Stack Application Developer (Azure)
+
+SMBC Group
+
+Tralee, County Kerry, Ireland
+9 hours ago
+SDLC Process and Governance Specialist
+SDLC Process and Governance Specialist
+
+SMBC Group
+
+Tralee, County Kerry, Ireland
+2 weeks ago
+Automation System Engineer
+Automation System Engineer
+
+DPS Group Global
+
+County Kerry, Ireland
+3 weeks ago
+Health and Safety Lead
+Health and Safety Lead
+
+Astellas Pharma
+
+Tralee, County Kerry, Ireland
+4 days ago
+QC Systems Engineer
+QC Systems Engineer
+
+Astellas Pharma
+
+Tralee, County Kerry, Ireland
+6 days ago
+Environmental Lead
+Environmental Lead
+
+Kinisla
+
+Listowel, County Kerry, Ireland
+3 weeks ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
