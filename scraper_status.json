@@ -1,9 +1,9 @@
 {
   "pid": 44856,
   "started_at": "2026-11-03T01:14:00+02:00",
-  "heartbeat_at": "2026-11-03T02:21:44+02:00",
+  "heartbeat_at": "2026-11-03T02:26:01+02:00",
   "phase": "reviewing",
-  "detail": "Implementation Lead",
-  "last_scrape_ok_at": "2026-11-03T02:20:27+02:00",
+  "detail": "Senior Quality Manager",
+  "last_scrape_ok_at": "2026-11-03T02:23:30+02:00",
   "last_error": null
 }

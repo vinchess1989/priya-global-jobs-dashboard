@@ -20449,5 +20449,22 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": null,
     "deletion_reason": "Deadline (2025-11-09) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Quality Assurance Manager",
+    "company": "femtherapeutics",
+    "location": "Montreal, Quebec, Canada",
+    "url": "https://ca.linkedin.com/jobs/view/quality-assurance-manager-at-femtherapeutics-4485112165",
+    "visited": "yes",
+    "matches_requirements": "maybe",
+    "reason": "The role is a strong match for her ISO 13485 and quality documentation experience, but it requires the candidate to secure their own visa sponsorship for Canada, which is not explicitly offered in the posting.",
+    "id": "3b51b8d4",
+    "source": "linkedin_ca_quality_manager",
+    "added_at": "2026-11-03T02:22:24+02:00",
+    "posted_date": "2026-10-31",
+    "deadline": "2025-11-09",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Deadline (2025-11-09) passed by more than 2 days and unreviewed"
   }
 ]
