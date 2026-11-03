@@ -1,0 +1,280 @@
+Title: Senior AWS DevOps & Platform Engineer (6-9 Years)
+Company: Fractal
+Location: Bengaluru, Karnataka, India
+URL: https://in.linkedin.com/jobs/view/senior-aws-devops-platform-engineer-6-9-years-at-fractal-4486073430
+Posted: 2026-11-04
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in CI/CD, release pipelines, and configuration management, and it is located in India, which is one of her target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior AWS DevOps & Platform Engineer (6-9 Years)
+Fractal  Bengaluru, Karnataka, India
+6 hours ago   Be among the first 25 applicants
+  
+
+See who Fractal has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+It's fun to work in a company where people truly BELIEVE in what they are doing!
+
+We're committed to bringing passion and customer focus to the business.
+
+About Fractal
+
+What makes Fractal a GREAT fit for you? When you join Fractal, you’ll be part of a fast-growing team that helps our clients leverage AI together with the power of behavioural sciences to make better decisions. We’re a strategic analytics partner to most admired fortune 500 companies globally, we help them power every human decision in the enterprise by bringing analytics, AI and behavioural science to the decision.
+
+Our people enjoy a collaborative work environment, exceptional training and career development — as well as unlimited growth opportunities. We have a Glassdoor rating of 4 / 5 and achieve customer NPS of 9/ 10. If you like working with a curious, supportive, high-performing team, Fractal is the place for you.
+
+How You Will Make An Impact/ Job Responsibilities
+
+
+Experience: 6-9 years (Mandatory- AWS, devops, platform engineering, kubernetes, docker etc)
+Design, implement, and manage CI/CD pipelines using AWS DevOps tools and services.
+Configure and maintain build agents, release pipelines, and automation scripts for deployment processes.
+Utilize Infrastructure as Code (IaC) principles to automate the provisioning and management of AWS resources using tools like ARM templates or Terraform
+Manage and optimize source code repositories using version control systems (e.g., Git) within AWS DevOps.
+Implement branching strategies and code merging processes to ensure efficient collaboration among development teams.
+Continuous Integration:
+Set up and manage automated build processes to ensure the reliability and consistency of code compilation.
+Integrate automated testing into the CI pipeline for code quality assurance.
+Implement security best practices for Azure resources and ensure compliance with industry standards.
+Collaborate with security teams to conduct regular security assessments and address vulnerabilities.
+Implement monitoring solutions to track application performance and system health.
+Configure logging and tracing mechanisms for troubleshooting and analysis.
+Good communication and Problem solving skills.
+
+
+
+Experience
+
+Experience: 6-9 years
+
+
+Design, implement, and manage CI/CD pipelines using AWS DevOps tools and
+
+
+
+services.
+
+
+Configure and maintain build agents, release pipelines, and automation
+
+
+
+scripts for deployment processes.
+
+
+Utilize Infrastructure as Code (IaC) principles to automate the provisioning
+
+
+
+and management of AWS resources using tools like ARM templates or Terraform
+
+
+Manage and optimize source code repositories using version control systems
+
+
+
+(e.g., Git) within AWS DevOps.
+
+
+Implement branching strategies and code merging processes to ensure efficient
+
+
+
+collaboration among development teams.
+
+If you like wild growth and working with happy, enthusiastic over-achievers, you'll enjoy your career with us!
+
+Not the right fit? Let us know you're interested in a future opportunity by clicking Introduce Yourself in the top-right corner of the page or create an account to set up email alerts as new job postings become available that meet your interest!
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Business Consulting and Services
+  
+
+Referrals increase your chances of interviewing at Fractal by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Lead Architect jobs
+Senior AWS DevOps & Platform Engineer (6-9 Years)
+Similar jobs
+Senior Platform Engineer (AWS DevOps)
+Senior Platform Engineer (AWS DevOps)
+Commonwealth Bank
+Bengaluru East, Karnataka, India
+5 days ago
+Senior Platform Engineer
+Senior Platform Engineer
+IG Group
+Bengaluru, Karnataka, India
+2 weeks ago
+Senior AWS DevOps & Platform Engineer (6-9 Years)
+Senior AWS DevOps & Platform Engineer (6-9 Years)
+Fractal
+Bengaluru, Karnataka, India
+3 days ago
+Engineer-III, DevOps
+Engineer-III, DevOps
+Thermo Fisher Scientific
+Bengaluru East, Karnataka, India
+1 week ago
+Senior Platform Engineer
+Senior Platform Engineer
+Synechron
+Greater Bengaluru Area
+13 hours ago
+Platform Engineer III
+Platform Engineer III
+Smarsh
+Bengaluru, Karnataka, India
+6 days ago
+Show more jobs like this 
+People also viewed
+Operations Engineer
+Operations Engineer
+
+Accenture in India
+
+Bengaluru, Karnataka, India
+1 week ago
+Senior Devops Engineer
+Senior Devops Engineer
+
+WillWare Technologies
+
+Bengaluru, Karnataka, India
+3 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Esko
+
+Bengaluru East, Karnataka, India
+3 days ago
+Senior Software Platform Engineer
+Senior Software Platform Engineer
+
+Aurigo Software Technologies
+
+Bengaluru, Karnataka, India
+3 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Humigent.ai
+
+Bengaluru, Karnataka, India
+2 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Netradyne
+
+Bengaluru, Karnataka, India
+2 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+8byte
+
+Bengaluru, Karnataka, India
+1 month ago
+Lead Platform Engineer AWS
+Lead Platform Engineer AWS
+
+Q2
+
+Bengaluru, Karnataka, India
+1 week ago
+AWS Platform Architect
+AWS Platform Architect
+
+Fractal
+
+Bengaluru, Karnataka, India
+6 days ago
+AWS Platform Engineer – Terraform | Kubernetes | AI/ML Cloud Services
+AWS Platform Engineer – Terraform | Kubernetes | AI/ML Cloud Services
+
+Synechron
+
+Greater Bengaluru Area
+1 week ago
+Similar Searches
+Lead Architect jobs
+4,696 open jobs
+Lead Engineer jobs
+22,854 open jobs
+Platform Engineer jobs
+9,812 open jobs
+Architect jobs
+16,547 open jobs
+Site Reliability Engineer jobs
+25,766 open jobs
+Unix Consultant jobs
+623 open jobs
+Platform Architect jobs
+11,170 open jobs
+Build And Release Engineer jobs
+3,712 open jobs
+Infrastructure Engineer jobs
+6,499 open jobs
+Data Management Coordinator jobs
+2,864 open jobs
+Linux Engineer jobs
+4,338 open jobs
+Senior Infrastructure Engineer jobs
+2,434 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Fractal
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

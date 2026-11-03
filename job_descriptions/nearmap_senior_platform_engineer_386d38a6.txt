@@ -1,0 +1,387 @@
+Title: Senior Platform Engineer
+Company: Nearmap
+Location: Greater Sydney Area
+URL: https://au.linkedin.com/jobs/view/senior-platform-engineer-at-nearmap-4459111543
+Posted: 2026-09-05
+Deadline: Open until filled
+Reason: The role aligns with the candidate's extensive experience in CI/CD, platform engineering, and infrastructure automation, and it is located in Australia, which is a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Platform Engineer
+Nearmap  Greater Sydney Area
+2 months ago   Be among the first 25 applicants
+  
+
+See who Nearmap has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Property intelligence is reshaping how the world understands the built environment, and Nearmap is driving that. Our technology turns property uncertainty into decisive action, and our culture brings out the best in the people who build it. 
+
+
+
+
+
+Job Description
+
+
+
+This is a newly created role and your chance to shape platform engineering as a discipline at Nearmap from the ground up. You'll lead the shift from a traditional DevOps model to platform-as-a-product, building the golden paths, self-service tools, and reusable components that let our engineering teams ship independently, safely, and fast.
+
+
+
+Working within the Platform team, you'll design, build, and operate the cloud infrastructure, CI/CD, and observability platforms our engineering teams rely on daily. You'll treat the platform as a product and engineering teams as your customers, owning initiatives end to end from design through to operation, and communicating clearly with technical and non-technical stakeholders across the business.
+
+
+
+Think a heavily customised Kubernetes implementation that teams self-serve from instead of waiting months for manual provisioning, or an alerting system that plugs straight into Slack instead of every team building their own bespoke tooling. That is the kind of platform thinking this role is about.
+
+
+
+What you'll do
+
+
+
+Treat engineering teams as customers: gather requirements, triage platform requests, and feed recurring friction back into platform improvements
+Build self-service capabilities, golden paths, and reusable platform components that reduce ticket-driven work
+Design, build, and maintain platform tooling and automation across the software development lifecycle
+Use CI/CD platforms to automate infrastructure provisioning, builds, tests, and releases
+Write and deploy Infrastructure as Code using Terraform as the standard for all platform changes
+Maintain high availability of infrastructure and platform services, and improve monitoring and observability of production systems
+Implement security controls as code, including IAM least-privilege, secrets management, and container image scanning
+Influence and educate engineering teams on platform engineering practices and cloud infrastructure security
+Participate in design reviews and architecture decisions
+
+About you
+
+
+
+You're an owner. You spot what's not working and fix it without waiting to be asked
+You welcome collaboration and bring a positive attitude to a fast-paced team
+You communicate complex technical concepts clearly to both technical and non-technical people
+You're pragmatic, curious, and constantly improving your craft.
+
+
+Qualifications
+
+
+
+What you'll bring
+
+
+
+5+ years' experience in a platform engineering or infrastructure engineering role
+3+ years' experience with public cloud infrastructure, AWS preferred
+Experience designing and building application containerisation solutions with Docker and Kubernetes
+Strong experience supporting Linux infrastructure and cloud native workloads
+Extensive experience writing and deploying Infrastructure as Code with Terraform
+Experience designing CI/CD, logging, and monitoring tools for development teams
+Experience implementing observability tools within Kubernetes and cloud hosted workloads
+Scripting and deployment automation experience
+Experience working in a highly available production environment
+A background in consulting or at a company that builds and iterates at scale will set you up well here. Long-term BAU or highly structured environments won't be the right fit for this role.
+
+Desirable but not essential:
+
+
+
+GitOps and progressive delivery experience (ArgoCD or Flux), experience building or contributing to an internal developer platform (Backstage or equivalent), multi-tenant Kubernetes design, or SRE practices around SLOs and error budgets.
+
+
+
+
+
+Additional Information
+
+
+
+Working at Nearmap
+
+
+
+We move fast, we care about craft, and we're proud of what we're building. If you're energised by turning strategy into pipeline and building real relationships with sales, we'd love to meet you.
+
+
+
+If you can see yourself working at Nearmap and feel you have the right level of experience, we invite you to get in touch.
+
+
+
+Some of our benefits
+
+
+
+Nearmap takes a holistic approach to our employees' emotional, physical, and financial wellness. Some of our current benefits include:
+
+
+
+Quarterly wellbeing day off, four additional days off annually for your 'YOU' Days
+
+
+
+Wellbeing and technology allowance
+
+
+
+Annual flu vaccinations
+
+
+
+Hybrid flexibility for this role
+
+
+
+Nearmap subscription (of course!)
+
+
+
+Stocked kitchen with access to all the snacks you need
+
+
+
+In-office lunch every Tuesday and Thursday at our Sydney CBD office
+
+
+
+Showers available for anyone cycling to work or lunchtime gym-goers!
+
+
+
+Thanks, but we got this! Nearmap does not accept unsolicited resumes from recruitment agencies and search firms. Please do not email or send unsolicited resumes to any Nearmap employee, location, or address. Nearmap is not responsible for any fees related to unsolicited resumes.
+
+
+
+Some of our benefits:
+
+
+
+Nearmap takes a holistic approach to our employees’ emotional, physical and financial wellness. Some of our current benefits include:
+
+
+
+Quarterly wellbeing day off - Four additional days off annually for your 'YOU' Days
+Wellbeing and technology allowance
+Annual flu vaccinations
+Hybrid flexibility for this role
+Nearmap subscription (of course!)
+Stocked kitchen with access to all the snacks you need
+In-office lunch every Tuesday and Thursday at our Sydney CBD office
+Showers available for anyone cycling to work or lunchtime gym-goers!
+
+Why you'll love working at Nearmap:
+
+
+
+We move fast and work smart; often wearing multiple hats. We’re proud of our inclusive, supportive culture, and maintain a safe environment where everyone feels a sense of belonging and can be themselves.
+
+
+
+Learn More About The Work We Do
+
+
+
+YouTube Page
+
+
+
+LinkedIn Page
+
+
+
+Thanks, but we got this! Nearmap does not accept unsolicited resumes from recruitment agencies and search firms. Please do not email or send unsolicited resumes to any Nearmap employee, location or address. Nearmap is not responsible for any fees related to unsolicited resumes.
+
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development and IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Nearmap by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Site Reliability Engineer jobs
+Senior Platform Engineer
+Similar jobs
+Senior Platform Engineer
+Senior Platform Engineer
+Blinq
+Sydney, New South Wales, Australia
+1 week ago
+Senior Platform Engineer
+Senior Platform Engineer
+LEAP Legal Software
+Sydney, New South Wales, Australia
+2 weeks ago
+Senior Platform Engineer
+Senior Platform Engineer
+Nearmap
+Greater Sydney Area
+6 days ago
+Senior Platform Engineer
+Senior Platform Engineer
+Commonwealth Bank
+Eveleigh, New South Wales, Australia
+1 week ago
+Senior Platform Engineer
+Senior Platform Engineer
+Macquarie Group
+Sydney, New South Wales, Australia
+3 days ago
+Platform Engineer
+Platform Engineer
+Akuna Capital
+Sydney, New South Wales, Australia
+3 weeks ago
+Show more jobs like this 
+People also viewed
+Data & AI Platform Engineer
+Data & AI Platform Engineer
+
+Sharon AI, Inc
+
+Sydney, New South Wales, Australia
+1 week ago
+Snowflake Platform Engineer
+Snowflake Platform Engineer
+
+PRA
+
+Sydney, New South Wales, Australia
+1 week ago
+Staff Engineer, Compute Foundation
+Staff Engineer, Compute Foundation
+
+Stripe
+
+Sydney, New South Wales, Australia
+2 weeks ago
+Senior Cloud Engineer
+Senior Cloud Engineer
+
+White Bay
+
+Sydney, New South Wales, Australia
+A$170,000 - A$180,000
+4 days ago
+Platform Deployment Engineer (AI Factory Delivery)
+Platform Deployment Engineer (AI Factory Delivery)
+
+Sharon AI, Inc
+
+Greater Sydney Area
+2 weeks ago
+Senior Kubernetes Platform Engineer
+Senior Kubernetes Platform Engineer
+
+Firmus Technologies
+
+Sydney, New South Wales, Australia
+2 weeks ago
+Principal Platform Engineer (AWS)
+Principal Platform Engineer (AWS)
+
+Objective Corporation
+
+Sydney, New South Wales, Australia
+2 weeks ago
+Search Engineer
+Search Engineer
+
+Xero
+
+Sydney, New South Wales, Australia
+5 days ago
+Senior AI Platform Engineer
+Senior AI Platform Engineer
+
+ResetData
+
+Sydney, New South Wales, Australia
+A$170,000 - A$200,000
+5 days ago
+Senior Cloud & Infrastructure Platform Engineer
+Senior Cloud & Infrastructure Platform Engineer
+
+Teachers Mutual Bank Limited
+
+Sydney, New South Wales, Australia
+3 weeks ago
+Similar Searches
+Site Reliability Engineer jobs
+3,532 open jobs
+Platform Architect jobs
+1,605 open jobs
+Build And Release Engineer jobs
+578 open jobs
+Infrastructure Engineer jobs
+2,368 open jobs
+Linux Engineer jobs
+790 open jobs
+Senior Infrastructure Engineer jobs
+925 open jobs
+Virtualization Engineer jobs
+595 open jobs
+Cloud Architect jobs
+1,606 open jobs
+Pipeline Engineer jobs
+1,171 open jobs
+Contract Database Administrator jobs
+31 open jobs
+Chief Software Engineer jobs
+736 open jobs
+Senior Reliability Engineer jobs
+122 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Nearmap
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

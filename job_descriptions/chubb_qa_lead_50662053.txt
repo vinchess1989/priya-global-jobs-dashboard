@@ -1,0 +1,329 @@
+Title: QA Lead
+Company: Chubb
+Location: Bengaluru, Karnataka, India
+URL: https://in.linkedin.com/jobs/view/qa-lead-at-chubb-4486436163
+Posted: 2026-10-14
+Deadline: N/A
+Reason: The role is a perfect match for her extensive experience in Release Management, CI/CD, and IT service governance, and it is located in one of her target countries (India).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+QA Lead
+Chubb  Bengaluru, Karnataka, India
+3 weeks ago   Be among the first 25 applicants
+  
+
+See who Chubb has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+About Chubb
+
+JOB DESCRIPTION
+
+Chubb is a world leader in insurance. With operations in 54 countries and territories, Chubb provides commercial and personal property and casualty insurance, personal accident and supplemental health insurance, reinsurance and life insurance to a diverse group of clients. The company is defined by its extensive product and service offerings, broad distribution capabilities, exceptional financial strength and local operations globally. Parent company Chubb Limited is listed on the New York Stock Exchange (NYSE: CB) and is a component of the S&P 500 index. Chubb employs approximately 40,000 people worldwide. Additional information can be found at: http://www.chubb.com/
+
+About Chubb India
+
+At Chubb India, we are on an exciting journey of digital transformation driven by a commitment to engineering excellence and analytics. With a team of over 2500 talented professionals, we foster a startup mindset that promotes collaboration, diverse perspectives, and a solution-driven attitude. We are dedicated to building expertise in engineering, analytics, and automation, empowering our teams to excel in a dynamic digital landscape. We offer an environment where you will be part of an organisation that is dedicated to solving real-world challenges in the insurance industry. Together, we will work to shape the future through innovation and continuous learning.
+
+Position Details
+
+Job Title:Release Manager
+
+Function/Department: Technology
+
+Location:Bangalore
+
+Employment Type:Full-time
+
+Position Overview
+
+
+As a Release Manager, you will own the end-to-end release lifecycle -- from planning through to post-deployment review -- ensuring best practices and governance are upheld across all application deployments and service introductions into production. You will collaborate closely with development teams, operations, project managers, and business stakeholders to maintain a reliable and efficient release cadence aligned with agile delivery. This role is ideal for someone who thrives in a fast-paced, cloud-native environment and brings strong ITSM discipline to complex, multi-team delivery programmes.
+
+
+Key Responsibilities
+
+
+Operate and manage the end-to-end Release Management process for all major deployments, ensuring adherence to the Release Management Standard
+Act as the focal point for major releases into the production environment, including coordination and support outside business hours when required
+Develop and maintain the Release Calendar in collaboration with development teams, operations, project managers, and stakeholders
+Establish and maintain mechanisms for reporting on release progress and ensuring all release gate criteria are met prior to deployment
+Act as primary point of contact for all production release and change requests; assess and present requests for CAB meetings
+Contribute to Post Implementation Reviews (PIRs) and drive improvement initiatives based on findings
+Conduct regular audits to ensure compliance with the Release Management Policy
+Drive continual service improvement across the release management process
+Collaborate with Agile delivery teams to integrate release management practices within sprint and PI planning cycles
+Support senior leadership with financial awareness, people engagement, and corporate compliance activities
+Monitor deployment pipelines and work with DevOps/CI-CD teams to automate and improve release workflows
+Stay current with industry trends, ITSM best practices, and emerging release tooling
+
+
+Qualifications
+
+QUALIFICATIONS
+
+
+Bachelor's degree in Information Technology, Computer Science, or a related discipline
+Minimum 5 years of proven experience in an IT Service Management function, with a focus on Release Management or Change Management; Incident, Problem, or Configuration Management also considered
+Experience and knowledge of ITIL v4, including at least Foundation certification
+Strong understanding of all aspects of IT Service Management - Incident, Problem, Change, and Configuration Management
+Hands-on experience with ITSM platforms such as ServiceNow, FreshWorks, BMC, or equivalent tools
+Ability to process information and generate analysis and reports using MS Office suite
+Agile/SCRUM Software Development lifecycle experience preferred
+Proven ability to communicate effectively with stakeholders across all levels of business and IT, including senior leadership
+Strong multitasking ability and analytical problem-solving skills with minimal supervision
+Availability to support deployments outside standard business hours (one weekend and two weekday evenings per month minimum)
+Self-starter with a proactive, investigative mindset - willing to challenge assumptions and drive process rigour
+Strong interpersonal and written communication skills in English
+
+
+Preferred Qualifications:
+
+
+ITIL v4 Managing Professional or Strategic Leader certification
+Experience with Azure DevOps or equivalent CI/CD tooling in the context of release governance and pipeline orchestration
+Exposure to large-scale enterprise environments, particularly within financial services or insurance
+Familiarity with containerisation technologies (Docker, Kubernetes) and cloud platforms such as Azure or AWS
+
+
+Why Join Us?
+
+
+Be at the forefront of digital transformation in the insurance industry.
+Lead impactful initiatives that simplify claims processing and enhance customer satisfaction.
+Work alongside experienced professionals in a collaborative, innovation-driven environment.
+
+
+Why Chubb?
+
+Join Chubb to be part of a leading global insurance company!
+
+Our constant focus on employee experience, along with a start-up-like culture, empowers you to achieve impactful results.
+
+
+Industry leader: Chubb is a world leader in the insurance industry, powered by underwriting and engineering excellence
+A Great Place to Work: Chubb India has been recognised as a Great Place to Work® for the years 2023-2024, 2024-2025 and 2025-2026
+Laser focus on excellence: At Chubb, we pride ourselves on our culture of greatness, where excellence is a mindset and a way of being. We constantly seek new and innovative ways to excel at work and deliver outstanding results
+Start-Up Culture: Embracing the spirit of a start-up, our focus on speed and agility enables us to respond swiftly to market requirements, while a culture of ownership empowers employees to drive results that matter
+Growth and success: As we continue to grow, we are steadfast in our commitment to provide our employees with the best work experience, enabling them to advance their careers in a conducive environment
+
+
+Employee Benefits
+
+Our company offers a comprehensive benefits package designed to support our employees’ health, well-being, and professional growth. Employees enjoy flexible work options, generous paid time off, and robust health coverage, including treatment for dental and vision-related requirements. We invest in the future of our employees through continuous learning opportunities and career advancement programs, while fostering a supportive and inclusive work environment. Our benefits include:
+
+
+Savings and Investment plans: We provide specialised benefits like Corporate NPS (National Pension Scheme), Employee Stock Purchase Plan (ESPP), Long-Term Incentive Plan (LTIP), Retiral Benefits and Car Lease that help employees optimally plan their finances
+Upskilling and career growth opportunities: With a focus on continuous learning, we offer customised programs that support upskilling like Education Reimbursement Programs, Certification programs and access to global learning programs.
+Health and Welfare Benefits: We care about our employees’ well-being in and out of work and have benefits like a hybrid work environment, an Employee Assistance Program (EAP), Yearly Free Health campaigns and comprehensive Insurance benefits.
+
+
+Application Process
+
+Our recruitment process is designed to be transparent and inclusive.
+
+Step 1: Submit your application via the Chubb Careers Portal.
+
+Step 2: Engage with our recruitment team for an initial discussion.
+
+Step 3: Participate in HackerRank assessments/technical/functional interviews and assessments (if applicable).
+
+Step 4: Final interaction with Chubb leadership.
+
+Join Us
+
+With you, Chubb is better. Whether you are solving challenges on a global stage or creating innovative solutions for local markets, your contributions will help shape the future. If you value integrity, innovation, and inclusion, and are ready to make a difference, we invite you to be part of Chubb India’s journey.
+
+Apply Now: Search Jobs - Chubb Careers
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Insurance
+  
+
+Referrals increase your chances of interviewing at Chubb by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Software Quality Assurance Lead jobs
+QA Lead
+Similar jobs
+QA lead
+QA lead
+Hengstler-Dynapar
+Bengaluru North, Karnataka, India
+3 weeks ago
+QA Lead Professional
+QA Lead Professional
+Naviam
+Bengaluru, Karnataka, India
+₹1,500,000 - ₹2,500,000
+1 month ago
+Senior Quality Engineering Lead
+Senior Quality Engineering Lead
+Optum India
+Bengaluru, Karnataka, India
+1 month ago
+Quality Assurance Lead - Automation/Manual Testing
+Quality Assurance Lead - Automation/Manual Testing
+QAAgility Technologies
+Bengaluru, Karnataka, India
+1 week ago
+Quality Assurance Lead
+Quality Assurance Lead
+Glean
+Bengaluru, Karnataka, India
+2 days ago
+Lead Quality Assurance Engineer
+Lead Quality Assurance Engineer
+Phyllo
+Bengaluru, Karnataka, India
+1 month ago
+Show more jobs like this 
+People also viewed
+Lead I - Software Testing
+Lead I - Software Testing
+
+UST
+
+Bengaluru, Karnataka, India
+2 weeks ago
+SDET Lead
+SDET Lead
+
+Zinier
+
+Bengaluru, Karnataka, India
+2 weeks ago
+Lead II - Software Testing
+Lead II - Software Testing
+
+UST
+
+Bengaluru, Karnataka, India
+1 week ago
+Senior Consultant - Quality Assurance
+Senior Consultant - Quality Assurance
+
+WSP in India
+
+Bengaluru, Karnataka, India
+1 week ago
+Lead Quality Engineer
+Lead Quality Engineer
+
+Vegapay
+
+Bengaluru, Karnataka, India
+6 days ago
+Test Automation Lead
+Test Automation Lead
+
+Accenture in India
+
+Bengaluru, Karnataka, India
+1 month ago
+Quality Engineer
+Quality Engineer
+
+Accenture in India
+
+Bengaluru, Karnataka, India
+5 days ago
+Quality Engineer
+Quality Engineer
+
+Accenture in India
+
+Bengaluru, Karnataka, India
+5 days ago
+Quality Engineer
+Quality Engineer
+
+Accenture in India
+
+Bengaluru, Karnataka, India
+5 days ago
+Lead I - Software Testing (E2E Test Lead)
+Lead I - Software Testing (E2E Test Lead)
+
+UST
+
+Bengaluru, Karnataka, India
+13 hours ago
+Similar Searches
+Software Quality Assurance Lead jobs
+711 open jobs
+Lead Software Quality Assurance Engineer jobs
+618 open jobs
+Lead Software Test Engineer jobs
+914 open jobs
+Lead Quality Engineer jobs
+1,385 open jobs
+Software Test Lead jobs
+2,480 open jobs
+Lead Test Engineer jobs
+3,200 open jobs
+Quality Assurance Manager jobs
+2,433 open jobs
+Senior Quality Assurance Engineer jobs
+849 open jobs
+Automation Test Lead jobs
+1,415 open jobs
+Automation Lead jobs
+5,319 open jobs
+Test Architect jobs
+3,607 open jobs
+Software Test Manager jobs
+971 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Chubb
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
