@@ -1,9 +1,9 @@
 {
   "pid": 22848,
   "started_at": "2026-11-04T01:13:32+02:00",
-  "heartbeat_at": "2026-11-04T01:35:20+02:00",
+  "heartbeat_at": "2026-11-04T01:40:05+02:00",
   "phase": "reviewing",
-  "detail": "Senior Project Manager",
-  "last_scrape_ok_at": "2026-11-04T01:33:32+02:00",
+  "detail": "Media Distribution Manager",
+  "last_scrape_ok_at": "2026-11-04T01:36:02+02:00",
   "last_error": null
 }
