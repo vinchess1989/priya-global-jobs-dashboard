@@ -1,0 +1,258 @@
+Title: Infra DevOps Engineer
+Company: BIT Official
+Location: Singapore, Singapore
+URL: https://sg.linkedin.com/jobs/view/infra-devops-engineer-at-bit-official-4480776835
+Posted: 2026-11-04
+Deadline: Open until filled
+Reason: The role aligns with the candidate's extensive experience in DevOps, CI/CD, and infrastructure automation, and it is located in Singapore, which is one of the target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Infra DevOps Engineer
+BIT Official  Singapore, Singapore
+12 hours ago  110 applicants
+  
+
+See who BIT Official has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Direct message the job poster from BIT Official
+
+Grace Guo
+Grace Guo
+HRBP
+
+About BIT：
+
+BIT (formerly Matrixport) is a global digital asset financial services and infrastructure group. Headquartered in Singapore and founded in 2019, BIT bridges traditional finance and digital assets through governance-driven financial services and technology.
+
+The firm manages over US$7 billion in assets and facilitates more than US$7 billion in monthly trading volume. BIT offers services including custody, trading, asset and wealth management, liquidity and financing solutions, and tokenised real-world assets (RWA), serving institutional and professional investors globally.
+
+BIT Group entities maintain a licensed and regulated footprint across Singapore, Hong Kong, Switzerland, the United Kingdom, the United States and Bhutan.
+
+
+
+
+For more information, visit www.bit.com
+
+
+
+
+Kickstart Your Journey at BIT:
+
+
+
+
+At BIT, we come together as a dynamic team to tackle exciting challenges head-on, creating an environment bursting with openness, transparency, and inclusivity. Every team member is a vital part of our mission, and your ideas will always be valued. We’re searching for passionate, intellectually curious, and entrepreneurial individuals ready to make a real impact and help build innovative products for the next billion users.
+
+Build Infrastructure That Powers Products at Scale!
+Unlock Global Opportunities!
+Mentorship and Networking with Industry Leaders!
+Join a Fun, Vibrant, and Engaging Culture!
+
+About the Role
+
+We’re looking for a DevOps Engineer who lives at the intersection of operations and modern, AI-accelerated development. You’ll own the infrastructure that powers our products and services across the board — designing it, automating it, and keeping it fast, reliable, and cost-efficient. This is a hands-on role for someone who treats infrastructure as a product, and gets genuinely energized by building smooth and reliable systems with AI to make life a better place.
+
+What You’ll Do
+
+Design, build, and operate infrastructure across the full lifecycle for a broad mix of services (CMDB, OA, monitoring, alerting, etc.).
+Manage and scale Kubernetes clusters, automating node lifecycle and cost optimization with tooling like Karpenter.
+Define infrastructure as code and drive GitOps-based CI/CD so every change is reviewable, repeatable, and auditable.
+Partner with developers to remove friction, embedding AI-assisted and vibe-development practices into day-to-day delivery.
+
+Professional Traits
+
+Strong self-motivation and responsibility.
+Structured thinking, with an ability to break down complex problems.
+Pursuit of engineering excellence; not satisfied with “just making it work.”
+Focus on Developer Experience (DX), with a goal to empower developers.
+Systematic methodology for incident post-mortems and root cause analysis.
+
+Requirements
+
+Familiar with Linux and shell script.
+Container and orchestration experience: Docker, Kubernetes (k8s), Helm.
+Infrastructure as code with Terraform, Karpenter.
+GitOps-based CI/CD workflows (GitLab CI, ArgoCD).
+Experience with maintaining common AWS Cloud Services (VPC, AMI, EKS, EC2, S3, CloudFront, etc.).
+Experience with Golang or Python development on top of common middlewares like MySQL and Redis.
+Hands-on experience of vibe development.
+
+Nice to Have
+
+Bachelor’s degree in Computer Science, Engineering, or a related discipline.
+Basic understanding of agent loops and how agentic AI systems operate.
+
+
+
+
+
+
+
+By submitting a job application, you confirm that you have read and agree to our Candidate Privacy Policy. <https://www.bit.com/privacy-candidate>
+
+
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Financial Services and Technology, Information and Media
+  
+
+Referrals increase your chances of interviewing at BIT Official by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Infrastructure Engineer
+Infrastructure Engineer
+Tata Consultancy Services
+Singapore, Singapore
+2 weeks ago
+Cloud Infra DevOps Engineer
+Cloud Infra DevOps Engineer
+Accenture Southeast Asia
+Singapore, Singapore
+1 month ago
+Infrastructure Engineer
+Infrastructure Engineer
+Epergne Solutions
+Singapore
+3 months ago
+DevOps Engineer
+DevOps Engineer
+OCBC
+Singapore, Singapore
+2 weeks ago
+Site Reliability Engineer (Cloud) - Infrastructure Engineering
+Site Reliability Engineer (Cloud) - Infrastructure Engineering
+ByteDance
+Singapore, Singapore
+3 days ago
+DevOps & Kubernetes Engineer
+DevOps & Kubernetes Engineer
+Accenture Southeast Asia
+Singapore, Singapore
+1 month ago
+Show more jobs like this 
+People also viewed
+DevOps Engineer
+DevOps Engineer
+
+Base Camp Digital
+
+Singapore River, Central Singapore Community Development Council, Singapore
+6 days ago
+Senior Platform Infrastructure Engineer, NEA
+Senior Platform Infrastructure Engineer, NEA
+
+GovTech Singapore
+
+Singapore, Singapore
+1 week ago
+DevOps Engineer (Transcribe)
+DevOps Engineer (Transcribe)
+
+Assurity Trusted Solutions Pte Ltd
+
+Singapore, Singapore
+4 months ago
+DevOps Engineer
+DevOps Engineer
+
+Capgemini Engineering
+
+Singapore
+1 month ago
+DevOps Engineer
+DevOps Engineer
+
+Ascendion
+
+Singapore, Singapore
+3 weeks ago
+Platform Infrastructure Engineer, Technology Planning & Enablement Office (TPEO)
+Platform Infrastructure Engineer, Technology Planning & Enablement Office (TPEO)
+
+GovTech Singapore
+
+Singapore
+1 week ago
+Infrastructure Engineer Consultant
+Infrastructure Engineer Consultant
+
+Thoughtworks
+
+Singapore, Singapore
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Newtone consulting
+
+Singapore, Singapore
+1 day ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+
+Venti
+
+Singapore, Singapore
+2 months ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+Apple
+
+Singapore, Singapore
+5 months ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at BIT Official
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

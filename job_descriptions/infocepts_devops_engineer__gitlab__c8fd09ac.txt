@@ -1,0 +1,259 @@
+Title: DevOps Engineer (Gitlab)
+Company: InfoCepts
+Location: Singapore, Singapore
+URL: https://sg.linkedin.com/jobs/view/devops-engineer-gitlab-at-infocepts-4486022273
+Posted: 2026-11-04
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in CI/CD pipeline ownership, DevOps automation, and infrastructure management, and it is located in a target country (Singapore).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer (Gitlab)
+InfoCepts  Singapore, Singapore
+19 hours ago  38 applicants
+  
+
+See who InfoCepts has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Direct message the job poster from InfoCepts
+
+Afina Lee
+Afina Lee
+Business Partnering | Bridging Talent & Business for Growth! | #Hiring #Data+AI
+
+Position: DevOps Engineer
+
+
+
+
+Location: Singapore
+
+
+
+
+Type of Employment: Full-Time
+
+
+
+
+Compensation: -
+
+
+
+
+Purpose of the Position: The DevOps Engineer will be responsible for designing, implementing, and maintaining scalable, secure, and reliable cloud infrastructure and CI/CD pipelines. The role focuses on enabling efficient software delivery, improving system reliability, and driving automation across the development and operations lifecycle.
+
+
+
+
+Key Result Areas and Activities:
+
+Design, implement, and manage CI/CD pipelines to support automated build, test, and deployment processes.
+Provision and maintain cloud infrastructure (e.g., AWS) using Infrastructure as Code (IaC) tools such as Terraform.
+Monitor system performance, availability, and reliability using tools such as CloudWatch, Prometheus, or Grafana, and proactively address issues.
+Automate operational processes, including deployment, scaling, backup, and recovery procedures.
+Collaborate with development teams to improve application performance, security, and deployment efficiency.
+Manage containerized applications using Docker and orchestration tools such as Kubernetes.
+Implement security best practices, including access control, vulnerability management, and compliance requirements.
+Troubleshoot and resolve infrastructure and application-related issues in a timely manner.
+Maintain documentation for infrastructure, processes, and system configurations.
+
+
+
+
+Essential Skills:
+
+Strong experience with cloud platforms such as AWS
+Proficiency in CI/CD tools (e.g., GitLab CI/CD, Jenkins, GitHub Actions)
+Experience with Infrastructure as Code (e.g., Terraform, CloudFormation)
+Knowledge of containerization (Docker) and orchestration (Kubernetes)
+Strong scripting skills in Bash, Python, or similar
+Experience with monitoring and logging tools (e.g., CloudWatch, Prometheus, ELK stack)
+Solid understanding of networking, security, and system architecture
+
+
+
+
+Desirable Skills :
+
+Familiarity with Agile/Scrum methodologies
+Knowledge of DevSecOps practices
+Experience working in government or regulated environments
+Certification in cloud platforms (e.g., AWS Certified Solutions Architect, Azure Administrator)
+
+
+
+
+Qualities:
+
+Strong problem-solving and analytical thinking skills
+Proactive and ownership-driven mindset
+Ability to work independently and in cross-functional teams
+Good communication skills to bridge technical and non-technical stakeholders
+Adaptable and able to thrive in fast-paced environments
+
+
+
+
+Show more 
+Seniority level
+Associate
+Employment type
+Full-time
+Industries
+Technology, Information and Media and IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at InfoCepts by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+BIT Official
+Singapore, Singapore
+3 weeks ago
+DevOps Engineer
+DevOps Engineer
+Capgemini Engineering
+Singapore
+1 month ago
+DevOps Engineer
+DevOps Engineer
+Merquri
+Singapore, Singapore
+2 weeks ago
+DevOps & Kubernetes Engineer
+DevOps & Kubernetes Engineer
+Accenture Southeast Asia
+Singapore, Singapore
+1 month ago
+DevOps Engineer
+DevOps Engineer
+Capgemini
+Singapore, Singapore
+2 months ago
+DevOps Engineer
+DevOps Engineer
+Newtone consulting
+Singapore, Singapore
+1 day ago
+Show more jobs like this 
+People also viewed
+DevOps Engineer
+DevOps Engineer
+
+Accenture Southeast Asia
+
+Singapore, Singapore
+1 month ago
+DevOps Engineer
+DevOps Engineer
+
+Mav3rik
+
+Singapore
+5 months ago
+DevOps Engineer
+DevOps Engineer
+
+JSIT for WST (Wholesale Trade) by Singapore Business Federation (SBF)
+
+Singapore, Singapore
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+OCBC
+
+Singapore, Singapore
+2 weeks ago
+CRM DevOps Engineer
+CRM DevOps Engineer
+
+StarHub
+
+Singapore, Singapore
+1 week ago
+AWS DevOps Engineer
+AWS DevOps Engineer
+
+Epergne Solutions
+
+Singapore
+1 week ago
+Platform Engineer
+Platform Engineer
+
+Vitol
+
+Singapore, Singapore
+3 days ago
+DevOps Engineer (Transcribe)
+DevOps Engineer (Transcribe)
+
+Assurity Trusted Solutions Pte Ltd
+
+Singapore, Singapore
+4 months ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+Apple
+
+Singapore, Singapore
+5 months ago
+DevOps / DevSecOps Engineer
+DevOps / DevSecOps Engineer
+
+Argyll Scott
+
+Singapore, Singapore
+5 days ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at InfoCepts
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

@@ -1,0 +1,305 @@
+Title: Senior Engineering Lead Manager - Developer Productivity
+Company: Index Exchange
+Location: Toronto, Ontario, Canada
+URL: https://ca.linkedin.com/jobs/view/senior-engineering-lead-manager-developer-productivity-at-index-exchange-4469628345
+Posted: 2026-10-21
+Deadline: Open until filled
+Reason: The role perfectly aligns with the candidate's extensive experience in release engineering, CI/CD pipeline architecture, and quality gatekeeping, and it is located in Canada, which is a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Engineering Lead Manager - Developer Productivity
+Index Exchange  Toronto, Ontario, Canada
+2 weeks ago   Be among the first 25 applicants
+  
+
+See who Index Exchange has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+At Index Exchange, we’re reinventing how digital advertising works—at scale. As a global advertising supply-side platform, we empower the world’s leading media owners and marketers to thrive in a programmatic, privacy-first ecosystem.
+
+We’re a proud industry pioneer with over 20 years of experience accelerating the ad technology evolution. Our proprietary tech is trusted by some of the world’s largest brands and media owners and plays a crucial role in keeping the internet open, accessible, and largely free.
+
+We process more than 550 billion real-time auctions every day (in comparison, Google processes 8.5 billion searches per day) with ultra-low latency. Our platform is vertically integrated from servers to networks and runs primarily on our own metal and cloud infrastructure. This end-to-end infrastructure is designed to provide both stability and agility, enabling us to adapt quickly as the market evolves.
+
+At the core of it all is our engineering-first culture. Our engineers tackle internet-scale problems across tight-knit, global teams. From moving petabytes of data and optimizing with AI to making real-time infrastructure decisions, Indexers have the agency and influence to shape the future of advertising. We move fast, build thoughtfully, and stay grounded in our core values.
+
+What We’re Looking For
+
+A transformational engineering leader who brings innovation and human-centered thinking to how Index Exchange builds and ships software. This person owns architecture and delivery of Index Exchange’s Developer Experience and Release Engineering capabilities, driving the transformation from siloed, human-gated software delivery to a fully gated Software Development Life Cycle capable of handling both human and agentic development at scale.
+
+This role leads a globally distributed engineering team, architects the automated and agent-evaluated gates that verify software quality and release readiness, and partners closely with peer Quality & Delivery leaders to jointly sequence and deliver a shared transformation agenda.
+
+Core Responsibilities
+
+Functional & Delivery Leadership
+
+
+Own architecture and delivery of Developer Experience and Release Engineering, elevating both from foundational capability to a demonstrably mature, industry-leading practice.
+Architect deterministic and agent-evaluated gates across the Define, Build, Verify, Release, and Operate states of the software delivery lifecycle, including policy-as-code enforcement, contract testing, mutation scoring, and SLO-driven progressive delivery with error budgets and automated rollbacks.
+Partner with peer engineering leaders across Quality & Delivery to jointly architect and sequence the gated SDLC roadmap, ensuring Developer Experience, and Release Engineering practices integrate cleanly with adjacent Test Engineering and Application Services capabilities.
+Bring a demonstrated history of transformation in Release Engineering with a clear, independent point of view on where discipline needs to go next.
+Assess current-state Developer Experience and release practices, tooling, and workflows to identify friction, gaps, and opportunities, and translate findings into prioritized, actionable plans.
+
+
+Operational Excellence
+
+
+Foster continuous, iterative collaboration within the Engineering organization to make Developer Experience and Release Engineering first class components of the culture and processes.
+Own planning, execution, and delivery outcomes for Developer Experience and Release Engineering.
+Apply appropriate governance, standards, and policy-as-code practices to centralize tooling, pipelines, and enablement functions.
+Use delivery and quality metrics (e.g., change failure rate, lead time, deployment frequency, MTTR, or equivalent DORA/SPACE-aligned measures) to evaluate the effectiveness of gates and controls and drive continuous improvement.
+Identify and proactively manage delivery risk, release risk, and cross-team dependencies as the organization moves toward a fully gated, agentic-capable SDLC.
+
+
+People Leadership & Global Collaboration
+
+
+Drive adoption of new standards or tooling across teams.
+Communicate findings, recommendations, plans, and progress clearly to technical and non-technical audiences, including senior leadership
+Recruit, onboard, and develop engineers across Toronto and Bengaluru.
+Set clear expectations, provide regular feedback, and actively manage performance and career growth.
+Foster a collaborative, inclusive team culture across time zones and regions.
+
+
+Here’s What You Need
+
+
+Bachelor's or master's degree in computer science, Engineering, or equivalent experience.
+12+ years of experience in commercial software development environments.
+5+ years of engineering management experience leading delivery-focused teams.
+Applied, hands-on experience architecting policy-as-code enforcement and SLO-driven progressive delivery (e.g., contract-broker deploy gates, error-budget-based release throttling, automated rollbacks).
+Experience architecting or directing both deterministic and agent-evaluated automated gates within a software delivery pipeline.
+Experience engaging stakeholders and conducting discovery or assessment work to evaluate current-state practices and identify gaps.
+Strong analytical and synthesis skills, with the ability to translate ambiguous inputs into clear problem statements and actionable plans.
+Demonstrated success leading globally distributed teams across multiple time zones.
+Excellent communication skills and the ability to operate effectively in a matrixed organization, partnering with leaders across the organization.
+
+
+Why You’ll Love Working Here
+
+
+Comprehensive health, dental, and vision plans for you and your dependents
+Paid time off, health days, and personal obligation days plus flexible work schedules
+Competitive retirement matching plans
+Equity packages
+Generous parental leave available to birthing, non-birthing, and adoptive parents
+Annual well-being allowance plus fitness discounts and group wellness activities
+Commuter benefits and discounts, where available
+Employee assistance program
+Mental health first aid program that provides an in-the-moment point of contact and reassurance
+One day of volunteer time off per year and a donation-matching program
+Monthly town halls and regular community-led team events
+Multiple resources and programming to support continuous learning
+A workplace that supports a diverse, equitable, and inclusive environment – learn more here
+
+
+Equal employment opportunity
+
+At Index Exchange, we believe that successful products are built by teams just as diverse as the audience who uses them. As such, we are committed to equal employment opportunities. We celebrate diversity of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or expression, or veteran status. Additionally, we realize that diversity is deeper than any status or classification—diversity is the human experience. For those who show grit, passion, and humility—Index will welcome you.
+
+Accessibility For Applicants With Disabilities
+
+Index Exchange welcomes and encourages individuals with disabilities to apply to work with us.
+
+If you require an accommodation, please share the details of your request and any information how we can assist you with the hiring recruiter when they contact you. Index Exchange will make reasonable efforts to ensure accommodation requests are met throughout the recruitment process.
+
+Index everywhere, Index anywhere
+
+Our corporate headquarters are in Toronto, with major offices in New York, Montreal, Kitchener, London, San Francisco, and many other global cities. As a major global advertising exchange, we are committed to operating as a tightly knit global team and embracing and empowering talent wherever our colleagues may be.
+
+AI Disclaimer: Automated tools including artificial intelligence may be used to assist in screening and assessing applicants for this role. All hiring decisions involve human review.
+
+Vacancy Status: This posting is for an existing vacancy.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Technology, Information and Internet
+  
+
+Referrals increase your chances of interviewing at Index Exchange by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Senior Software Engineering Manager jobs
+Senior Engineering Lead Manager - Developer Productivity
+Similar jobs
+Senior Engineering Manager
+Senior Engineering Manager
+Citi
+Mississauga, Ontario, Canada
+2 weeks ago
+[Wattpad] Head of Engineering
+[Wattpad] Head of Engineering
+Wattpad
+Toronto, Ontario, Canada
+1 month ago
+Engineering Manager - Canada
+Engineering Manager - Canada
+Ashby
+Toronto, Ontario, Canada
+CA$250,000 - CA$370,000
+1 week ago
+Director of Engineering
+Director of Engineering
+Blue J
+Toronto, Ontario, Canada
+23 hours ago
+Senior Engineering Manager
+Senior Engineering Manager
+Checkfront
+Toronto, Ontario, Canada
+3 weeks ago
+Manager, Engineering
+Manager, Engineering
+Auvik
+Toronto, Ontario, Canada
+1 month ago
+Show more jobs like this 
+People also viewed
+Associate Director, Software Engineering
+Associate Director, Software Engineering
+
+Toronto Pearson International Airport
+
+Toronto, Ontario, Canada
+6 days ago
+Engineering Manager, Landing Pages
+Engineering Manager, Landing Pages
+
+Braze
+
+Toronto, Ontario, Canada
+2 weeks ago
+Engineering Manager, Cohere APIs and DevEx
+Engineering Manager, Cohere APIs and DevEx
+
+Cohere
+
+Toronto, Ontario, Canada
+1 week ago
+Senior Engineering Manager
+Senior Engineering Manager
+
+Sage Recruiting Inc.
+
+Toronto, Ontario, Canada
+CA$170,000 - CA$190,000
+3 weeks ago
+Senior Engineering Manager, Messaging Experience
+Senior Engineering Manager, Messaging Experience
+
+Braze
+
+Toronto, Ontario, Canada
+2 hours ago
+Senior Engineering Manager
+Senior Engineering Manager
+
+Scotiabank
+
+Toronto, Ontario, Canada
+2 weeks ago
+Full-Stack Engineering Manager
+Full-Stack Engineering Manager
+
+Kraft Heinz
+
+Toronto, Ontario, Canada
+13 hours ago
+Engineering Manager, Revenue Foundations
+Engineering Manager, Revenue Foundations
+
+Stripe
+
+Toronto, Ontario, Canada
+1 week ago
+Director of Engineering, Developer Infrastructure
+Director of Engineering, Developer Infrastructure
+
+Fullscript
+
+Toronto, Ontario, Canada
+6 months ago
+Senior Engineering Manager - Hospitality
+Senior Engineering Manager - Hospitality
+
+OpenTable
+
+Toronto, Ontario, Canada
+1 week ago
+Similar Searches
+Senior Software Engineering Manager jobs
+2,522 open jobs
+Director of Engineering jobs
+1,182 open jobs
+Engineering Manager jobs
+7,405 open jobs
+Software Engineering Manager jobs
+3,105 open jobs
+Senior Director of Engineering jobs
+349 open jobs
+Director of Software Engineering jobs
+375 open jobs
+Senior Engineering Project Manager jobs
+2,216 open jobs
+Senior Cost Analyst jobs
+1,228 open jobs
+Head of Software jobs
+834 open jobs
+Head of Software Engineering jobs
+618 open jobs
+Vice President of Engineering jobs
+273 open jobs
+Director Quality Engineering jobs
+324 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Index Exchange
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
