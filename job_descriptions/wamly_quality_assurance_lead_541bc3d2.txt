@@ -1,0 +1,280 @@
+Title: Quality Assurance Lead
+Company: Wamly
+Location: Pretoria, Gauteng, South Africa
+URL: https://za.linkedin.com/jobs/view/quality-assurance-lead-at-wamly-4484324458
+Posted: 2026-11-03
+Deadline: N/A
+Reason: The role aligns perfectly with the candidate's expertise in QA strategy, release readiness, and CI/CD pipeline ownership, and it is located in a target country (South Africa).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Quality Assurance Lead
+Wamly  Pretoria, Gauteng, South Africa
+12 hours ago  56 applicants
+  
+
+See who Wamly has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Direct message the job poster from Wamly
+
+Megan Rogers (ISP)
+Megan Rogers (ISP)
+
+Why Wamly?
+
+We are radically honest, growth focused, and contagiously enthusiastic about the work we do. If you want real responsibility early, room to grow fast, and genuinely care about helping the world hire better people faster, you will feel at home here.
+
+
+
+
+The Role:
+
+We are looking for a QA Lead to join our Development team and own the quality of the Wamly platform end to end. You will define and drive the QA strategy, quality standards and release criteria across our web app, APIs and integrations, and lead the QA function across manual and automation testing while staying fully hands-on.
+
+
+
+
+This is a build-and-lead role. You will put quality in early by working with the Product Owner, UI/UX Designer and developers from refinement through to release, give the CTO a clear, data-backed view of product quality and release readiness, and lead the responsible adoption of AI-assisted testing across the team. If you like setting the standard rather than inheriting one, still enjoy getting your hands into a tricky regression, and want your Go/No-Go call to actually mean something - you will enjoy this one.
+
+
+
+
+What you’ll be doing:
+
+Own the QA strategy, test policies and release test plans using a risk-based approach, and set the quality gates, entry/exit criteria and quality Definition of Done the team works to.
+Review user stories early, challenge unclear or untestable requirements, and plan test effort and cycles with the Product Owner and CTO.
+Own the automation strategy and framework roadmap across UI, API and integration level, set standards for test code, and make automated regression a stable release gate in the CI/CD pipeline.
+Stay hands-on with exploratory, regression and cross-platform testing on high-risk features, and coordinate test execution so every release has full coverage.
+Give the CTO a clear, documented Go/No-Go recommendation for every release.
+Run defect triage with development and product, set severity and priority standards, track defect trends, and lead root cause analysis on escaped and client-reported defects.
+Set the direction for AI-assisted testing across QA - test case generation, regression selection, defect pattern analysis - with human validation of AI outputs, and drive adoption of improvements across QA and development.
+Act as the main QA point of contact for the CTO, Product Owner, UI/UX, developers and Support, and publish a regular quality report covering defect leakage, coverage, release health and risks.
+Lead, coach and develop the QA function across manual and automation testing, including workload planning and individual development plans, and coach developers on testability so quality is shared across the team.
+Keep up with QA, automation and AI testing trends to recommend tools that fit Wamly.
+
+
+
+
+Must-haves:
+
+A degree in Information Technology, Computer Science, Software Engineering or equivalent, or a diploma with strong, proven lead experience.
+5+ years in software testing / QA, including 1–2 years in a QA Lead, Test Lead or senior QA role.
+Experience defining a QA strategy, test policies and quality standards from the ground up, and maturing an existing QA process.
+Experience leading, coaching and allocating work to manual and automation tester/s.
+Test estimation and planning across sprints and releases, and ownership of release readiness: quality gates, regression scope and Go/No-Go recommendations.
+Experience building and maintaining automation that runs as a gate in CI/CD pipelines (e.g. Bitbucket Pipelines).
+API, integration and non-functional testing (performance, basic security, cross-browser/device), including Postman or REST Assured and SQL for data validation.
+Risk-based testing, test design techniques, and solid test management and defect triage processes.
+QA metrics and reporting (defect leakage, automation coverage, regression effectiveness) to both technical and non-technical stakeholders.
+Agile delivery experience (Scrum/Kanban).
+
+
+
+
+Nice-to-haves:
+
+SaaS / web product experience.
+ISTQB certification - Foundation (CTFL), Advanced Test Manager (CTAL-TM) or Test Automation Engineering (CTAL-TAE), or an Agile testing certification.
+Automation frameworks such as Selenium or Playwright.
+Performance and load testing (e.g. k6, JMeter) and security testing awareness (e.g. OWASP Top 10).
+Accessibility testing (WCAG).
+Cross-browser and device testing platforms (e.g. BrowserStack), including camera/microphone and video-interview flows.
+AI-assisted testing tools - test generation, self-healing tests, smart regression selection.
+AWS familiarity (logs, environments) to support investigation.
+
+
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Human Resources Services
+  
+
+Referrals increase your chances of interviewing at Wamly by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Software Test Lead jobs
+Quality Assurance Lead
+Similar jobs
+Quality Assurance Manager
+Quality Assurance Manager
+The HEINEKEN Company
+Johannesburg, Gauteng, South Africa
+1 week ago
+Quality Engineering Lead
+Quality Engineering Lead
+X, bigly labs
+Johannesburg, Gauteng, South Africa
+1 week ago
+Test Manager
+Test Manager
+LTM
+Johannesburg, Gauteng, South Africa
+ZAR 60,000 - ZAR 80,000
+3 days ago
+Quality Assurance and Control Manager (Field Work)
+Quality Assurance and Control Manager (Field Work)
+Lumax Energy (Pty) Ltd
+Midrand, Gauteng, South Africa
+6 months ago
+QA Specialist
+QA Specialist
+mutherboard.com
+City of Johannesburg, Gauteng, South Africa
+5 days ago
+Laboratory Manager / Quality Manager
+Laboratory Manager / Quality Manager
+MULTIFORM HUMAN DEVELOPMENT (Pty) Ltd
+Pretoria, Gauteng, South Africa
+1 month ago
+Show more jobs like this 
+People also viewed
+ICT SOFTWARE QUALITY SPECIALIST
+ICT SOFTWARE QUALITY SPECIALIST
+
+Impronics Digitech
+
+Johannesburg, Gauteng, South Africa
+8 months ago
+Automation Engineer
+Automation Engineer
+
+Samaha Consulting
+
+Johannesburg Metropolitan Area
+3 weeks ago
+Specialist QA Engineer
+Specialist QA Engineer
+
+Absa Group
+
+Johannesburg, Gauteng, South Africa
+3 days ago
+Quality Auditor (Talent Pool)
+Quality Auditor (Talent Pool)
+
+Discovery Limited
+
+Sandton, Gauteng, South Africa
+1 week ago
+SHEQ Officer (High focus on Quality Management)
+SHEQ Officer (High focus on Quality Management)
+
+iX engineers (Pty) Ltd.
+
+Pretoria Metropolitan Area
+2 months ago
+AI Chatbot Tester
+AI Chatbot Tester
+
+MCI
+
+Gauteng, South Africa
+4 months ago
+QA- Automation Tester (Trade Finance/Payments)
+QA- Automation Tester (Trade Finance/Payments)
+
+Impronics Digitech
+
+Johannesburg, Gauteng, South Africa
+1 year ago
+Data Quality Assurance Analyst
+Data Quality Assurance Analyst
+
+Office Beacon South Africa
+
+City of Johannesburg, Gauteng, South Africa
+2 weeks ago
+Regulatory Affairs Specialist (m/f/x)*
+Regulatory Affairs Specialist (m/f/x)*
+
+Solventum
+
+Sandton, Gauteng, South Africa
+2 weeks ago
+Engineering Manager - South Africa
+Engineering Manager - South Africa
+
+Gaming Laboratories International, LLC
+
+Midrand, Gauteng, South Africa
+4 days ago
+Similar Searches
+Software Test Lead jobs
+53 open jobs
+Quality Assurance Manager jobs
+217 open jobs
+Automation Lead jobs
+160 open jobs
+Test Architect jobs
+201 open jobs
+Test Team Lead jobs
+181 open jobs
+Quality Assurance Engineer jobs
+186 open jobs
+Test Coordinator jobs
+87 open jobs
+Director of Quality Assurance jobs
+102 open jobs
+Structural Project Engineer jobs
+64 open jobs
+Software Engineer in Test jobs
+70 open jobs
+Senior Software Quality Engineer jobs
+25 open jobs
+Senior Software Tester jobs
+272 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

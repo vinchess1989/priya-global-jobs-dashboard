@@ -1,9 +1,9 @@
 {
   "pid": 44856,
   "started_at": "2026-11-03T01:14:00+02:00",
-  "heartbeat_at": "2026-11-03T02:01:29+02:00",
+  "heartbeat_at": "2026-11-03T02:08:07+02:00",
   "phase": "reviewing",
-  "detail": "Manufacturing Quality Manager",
-  "last_scrape_ok_at": "2026-11-03T01:58:54+02:00",
+  "detail": "Quality Advisor | Major Infrastructure Project | Adelaide",
+  "last_scrape_ok_at": "2026-11-03T02:04:48+02:00",
   "last_error": null
 }
