@@ -1,0 +1,362 @@
+Title: Azure Cloud Expert Engineer
+Company: Cloud Direct
+Location: City of Cape Town, Western Cape, South Africa
+URL: https://za.linkedin.com/jobs/view/azure-cloud-expert-engineer-at-cloud-direct-4484654937
+Posted: 2026-11-04
+Deadline: N/A
+Reason: The role aligns with her extensive experience in CI/CD, release pipelines, and infrastructure automation, and it is located in a target country (South Africa) with no mention of visa restrictions.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Azure Cloud Expert Engineer
+Cloud Direct  City of Cape Town, Western Cape, South Africa
+11 hours ago   Be among the first 25 applicants
+  
+
+See who Cloud Direct has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+As a frontier partner, we grow through great people, smart tech, and teamwork between humans and AI.
+
+
+
+
+We are looking for an Azure Cloud Expert Engineer to join our team in Cape Town.
+
+
+
+
+As an Azure Cloud Expert Engineer (T3), you will provide high-level support to our customers, acting as an escalation point for Tier 2 support engineers and working alongside senior engineers to execute complex projects/onboardings.
+
+
+
+
+You will ensure that service level agreements are met whilst delivering reliable resolution of customer technical issues when raised via Cloud Direct support lines, Live chat, e-mail or self-service portals.
+
+
+
+
+What You’ll Do:
+
+
+
+
+Infrastructure Provisioning and Deployment:
+
+Understanding of Networking, Databases, Software, and Servers in the Cloud.
+Provision and deploy virtual machines, containers, and other Azure resources as per design specifications.
+Implement automation using Azure Resource Manager (ARM) templates, PowerShell scripts, or other automation tools.
+Azure PowerShell or similar scripting experience, for the creation of custom scripts to automate support processes where applicable.
+Configure networking, security, and identity management components in Azure.
+Configuring Virtual machines for Optimum Cost, Performance, and Security.
+Demonstrated experience in deploying and managing cloud infrastructure using Infrastructure-as-Code (IaC). Proficiency in Azure DevOps, GitHub, and Visual Studio, with strong expertise in Infrastructure as Code, specifically Terraform, Bicep, and ARM templates.
+
+
+
+
+DevOps, CI/CD & Automation:
+
+Design, implement, and maintain CI/CD pipelines using Azure DevOps Pipelines and GitHub ActionsYAML-based, multi-stage pipelines.
+Develop YAML-based multi-stage build and release pipelines.
+Create reusable pipeline templates and modules to standardize delivery across customers.
+Support application and infrastructure deployments using CI/CD-driven IaC workflows.
+Troubleshoot and optimize pipeline performance, reliability, and execution time.
+
+
+
+
+Security and Compliance:
+
+Implement security best practices and compliance standards in Azure environments.
+Configure Azure security services such as Azure Security Center, Azure Sentinel, and Azure Active Directory (AAD) for identity and access management.
+Conduct security assessments and audits and remediate security vulnerabilities.
+Manage role-based access control (RBAC)
+
+
+
+
+Monitoring and Optimization:
+
+Implement monitoring and alerting solutions for Azure resources using Azure Monitor and other monitoring tools.
+Perform performance tuning and optimization of Azure infrastructure and services.
+Identify and troubleshoot performance issues and bottlenecks.
+
+
+
+
+Disaster Recovery and High Availability:
+
+Design and implement disaster recovery and high availability solutions using Azure Site Recovery (ASR), Azure Backup, and other Azure services.
+Test and validate disaster recovery plans and failover procedures.
+
+
+
+
+Data & AI:
+
+Review and resolve Pipeline failures
+Timely identification, diagnosis, and resolution of issues that can disrupt data pipelines, ensuring minimal downtime and continuity of data flow
+Data source integrations
+Performance issues
+Data Accuracy
+
+
+
+
+Platform Management:
+
+Monitor for failures
+Remediation of failure
+Backup storage redundancy
+Restoration of data
+Recovery time objective (RTO) and Recovery point objective (RPO)
+
+
+
+
+Additionally, the engineer will be expected to:
+
+Assist in mentoring team members.
+Create Knowledge Base articles as part of their responsibilities.
+Be on call as needed to meet operational requirements.
+
+
+
+
+What We’re Looking For:
+
+
+
+
+3+ years of experience designing, implementing, and managing Azure cloud environments.
+Excellent communication and collaboration skills.
+Strong understanding of the Microsoft Azure platform and its capabilities
+Three or more Azure cloud certifications: AZ-104, AZ-204, AZ-400 (Desirable), DP-203, DP-700, AZ-500, AZ-305, SC-200, SC-300, DP-300
+
+
+
+
+What We Offer:
+
+
+
+
+Responsible Time off (uncapped annual leave)
+Group Life Cover /Disability Income Cover/ Trauma Insurance Cover (Injury / Disability)
+Fitness Cash Contribution
+Pension Fund Contribution
+Medical Insurance Contribution
+Employee Assistance Programme
+Enhanced Maternity & Paternity Leave
+Endless Growth Opportunities: We provide ample opportunities for professional development, mentoring, and advancement.
+Culture of Excellence: We foster a high-performance culture that recognizes and rewards exceptional talent.
+
+
+
+
+At Cloud Direct, you’re not just joining a company—you’re becoming part of a team that’s redefining how businesses experience cloud technology. As we push the boundaries of innovation, especially in user-centric design and AI-driven solutions, your contributions will help shape the future of our platform and the value it delivers to customers.
+
+
+
+
+At Cloud Direct, we believe that diversity, equity, and inclusion are essential to our success. We are committed to creating a workplace where everyone feels valued, respected, and empowered. We welcome applicants from all backgrounds and strive to build a team that reflects the diverse communities we serve. We encourage candidates of all races, ethnicities, genders, sexual orientations, ages, abilities, and socioeconomic statuses to apply.
+
+
+
+
+Due to the high volume of applications received, if you have not been contacted within 4 weeks of the closing date, please consider your application unsuccessful.
+
+
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Cloud Direct by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Sales Support Coordinator jobs
+Azure Cloud Expert Engineer
+Similar jobs
+Azure Cloud Engineer L3
+Azure Cloud Engineer L3
+NTT DATA, Inc.
+Cape Town, Western Cape, South Africa
+5 days ago
+Senior Platform Engineer
+Senior Platform Engineer
+DigiOutsource
+Cape Town, Western Cape, South Africa
+4 days ago
+Cloud Operations Engineer (Azure) | N1 City, Cape Town
+Cloud Operations Engineer (Azure) | N1 City, Cape Town
+Crimson Line
+Goodwood, Western Cape, South Africa
+2 weeks ago
+Senior Cloud Infrastructure Engineer
+Senior Cloud Infrastructure Engineer
+Optimal Growth Technologies
+Cape Town, Western Cape, South Africa
+1 month ago
+Cross Technology Managed Services Engineer (L3)
+Cross Technology Managed Services Engineer (L3)
+NTT DATA, Inc.
+Cape Town, Western Cape, South Africa
+3 days ago
+Cloud Engineer
+Cloud Engineer
+Acuity Consultants
+City of Cape Town, Western Cape, South Africa
+4 days ago
+Show more jobs like this 
+People also viewed
+Remote IT Project Engineer II
+Remote IT Project Engineer II
+
+Intelligent Technical Solutions
+
+Cape Town, Western Cape, South Africa
+23 hours ago
+Infrastructure Team Lead
+Infrastructure Team Lead
+
+Sataya
+
+City of Cape Town, Western Cape, South Africa
+1 day ago
+Platform Engineer
+Platform Engineer
+
+QE Services IT Recruitment
+
+Cape Town, Western Cape, South Africa
+2 weeks ago
+System & Network Engineer (Level II)
+System & Network Engineer (Level II)
+
+Prime System Solutions
+
+Cape Town, Western Cape, South Africa
+2 months ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+DeARX
+
+Stellenbosch, Western Cape, South Africa
+2 weeks ago
+Senior Cloud Engineer (AWS)
+Senior Cloud Engineer (AWS)
+
+Lesaka Technologies Inc.
+
+Cape Town, Western Cape, South Africa
+1 week ago
+System & Network Engineer (Level-I)
+System & Network Engineer (Level-I)
+
+Prime System Solutions
+
+Cape Town, Western Cape, South Africa
+2 months ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+Kiberon Labs
+
+City of Cape Town, Western Cape, South Africa
+2 hours ago
+Senior Data Solutions Engineer
+Senior Data Solutions Engineer
+
+Entelect
+
+City of Cape Town, Western Cape, South Africa
+4 weeks ago
+Microsoft Security Engineer
+Microsoft Security Engineer
+
+Integrity360
+
+Cape Town, Western Cape, South Africa
+2 weeks ago
+Similar Searches
+Sales Support Coordinator jobs
+168 open jobs
+Network Operations Center jobs
+73 open jobs
+SQL Database Administrator jobs
+3,674 open jobs
+Head of Ecommerce jobs
+41 open jobs
+Junior Network Engineer jobs
+84 open jobs
+Information Security Manager jobs
+36 open jobs
+Sales Administrator jobs
+288 open jobs
+Exchange Administrator jobs
+51 open jobs
+Benefits Consultant jobs
+60 open jobs
+Marketing Account Manager jobs
+181 open jobs
+Sharepoint Developer jobs
+12 open jobs
+Data Architect jobs
+637 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Cloud Direct
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

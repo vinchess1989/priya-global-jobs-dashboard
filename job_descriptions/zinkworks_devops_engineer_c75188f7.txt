@@ -1,0 +1,227 @@
+Title: DevOps Engineer
+Company: Zinkworks
+Location: Athlone, Ireland
+URL: https://ie.linkedin.com/jobs/view/devops-engineer-at-zinkworks-4484693635
+Posted: 2026-11-04
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's expertise in CI/CD pipeline ownership, release management, and configuration management, and it is located in Ireland, which is a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+Zinkworks  Athlone, Ireland
+6 hours ago   Be among the first 25 applicants
+  
+
+See who Zinkworks has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+About Zinkworks
+
+Zinkworks partners with leading Telecommunications and Financial Services organizations to modernize legacy systems, migrate mission-critical platforms to the cloud, and engineer AI-driven automation. From OSS transformation to rApp development and network intelligence, our teams simplify complexity and turn it into competitive advantage. Based in Ireland and operating across the EU, UK, and US, Zinkworks combines deep domain expertise with delivery excellence to help clients modernize faster and operate smarter.
+
+The Role
+
+We are looking for a DevOps Engineer to work closely with development teams to build, operate, and continuously improve CI/CD pipelines and deployment workflows. This is a hands-on role focused on enabling fast, reliable delivery of applications running on OpenShift/Kubernetes, with strong ownership of CI/CD and release processes.
+
+Key Responsibilities
+
+
+Own and manage CI/CD pipelines end-to-end (design, implementation, maintenance)
+Work directly with development teams to integrate build, test, and deployment processes
+Package and deploy applications using Helm on OpenShift / Kubernetes
+Build and maintain containerised applications using Docker
+Support and optimise Spring Cloud-based microservices deployments
+Troubleshoot build, deployment, and runtime issues
+Improve deployment speed, reliability, and rollback strategies
+Implement and maintain logging, monitoring, and alerting
+Drive best practices around CI/CD, versioning, and release management
+Maintain clear technical documentation
+
+
+Required Skills & Experience
+
+
+Strong experience building and owning CI/CD pipelines
+Strong hands-on experience with OpenShift / Kubernetes
+Strong experience with Helm (chart development, templating, lifecycle management)
+Solid experience with Docker and containerisation
+Good understanding of Spring Cloud ecosystem
+Strong Linux administration and troubleshooting skills
+Experience debugging issues across pipelines, containers, and cluster environments
+Scripting skills (Bash, Python, or similar)
+Experience with monitoring tools (Prometheus, Grafana, ELK)
+
+
+Nice to Have
+
+
+Familiarity with Infrastructure as Code (Terraform, Ansible)
+Familiarity with Java and Spring Cloud (useful for working closely with development teams)
+
+
+Inclusion & Diversity at Zinkworks
+
+At Zinkworks, we are deeply committed to fostering a culture of diversity, inclusion, and belonging. We believe that our strength lies in the unique backgrounds, perspectives, and experiences of our team members. By embracing an inclusive environment, we empower innovation and collaboration across all levels of our organisation. Based in Ireland, we are proud to support and engage with our local communities through meaningful initiatives that promote equity and opportunity. Our commitment extends beyond the workplace, as we actively contribute to creating a more inclusive and connected society for all.
+
+Zinkworks is a trusted partner to Telecoms and Financial Services organizations around the world. We help modernize legacy systems, move mission-critical systems into the cloud, and exploit the power of AI-driven automation. Our people thrive in technically complex environments where our commitment to quality and our expertise in software innovation and cutting-edge technologies helps our clients prepare for the future, accelerate growth and improve operational efficiency. We build long-lasting relationships with our customers to accompany them through their innovation journey.
+Show more 
+Seniority level
+Entry level
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Zinkworks by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Cloud Engineer
+Cloud Engineer
+Ministry Brands
+Galway, County Galway, Ireland
+2 months ago
+Dev Ops Engineer - Machine Learning
+Dev Ops Engineer - Machine Learning
+Arm
+Galway, County Galway, Ireland
+3 days ago
+CloudOps Engineer
+CloudOps Engineer
+Planet
+Galway, County Galway, Ireland
+3 weeks ago
+Site Reliability Engineer
+Site Reliability Engineer
+Blockdaemon
+Galway, County Galway, Ireland
+3 weeks ago
+Cloud Ops Engineer | ELN
+Cloud Ops Engineer | ELN
+Dotmatics
+Ireland
+1 week ago
+AWS Cloud / Platform Engineer
+AWS Cloud / Platform Engineer
+Solas IT Recruitment
+Galway, County Galway, Ireland
+3 weeks ago
+Show more jobs like this 
+People also viewed
+Infrastructure Security Engineer
+Infrastructure Security Engineer
+
+ElevenLabs
+
+Ireland
+1 week ago
+Software Engineer (LLMOps)
+Software Engineer (LLMOps)
+
+Maisa
+
+Ireland
+1 week ago
+Engineering Manager - Infrastructure
+Engineering Manager - Infrastructure
+
+Camunda
+
+County Galway, Ireland
+2 weeks ago
+Head of Platform (Infrastructure & DevOps)
+Head of Platform (Infrastructure & DevOps)
+
+Mimica
+
+Ireland
+2 weeks ago
+Test Automation Engineer
+Test Automation Engineer
+
+Covalen
+
+Galway, County Galway, Ireland
+3 weeks ago
+Data Platform Engineer
+Data Platform Engineer
+
+Block Labs
+
+Ireland
+5 days ago
+Software Engineer (OpenStack)
+Software Engineer (OpenStack)
+
+Cisco
+
+Galway, County Galway, Ireland
+1 week ago
+Software Engineer - Platform Services
+Software Engineer - Platform Services
+
+Cisco
+
+Galway, County Galway, Ireland
+1 week ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+Cisco
+
+Galway, County Galway, Ireland
+5 days ago
+Senior Hybrid Cloud Engineer
+Senior Hybrid Cloud Engineer
+
+Cisco
+
+Galway, County Galway, Ireland
+4 days ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Zinkworks
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
