@@ -271950,20 +271950,19 @@
   },
   {
     "title": "Quality Manager",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "Sir Robert McAlpine",
+    "location": "Oxford, UK",
     "url": "https://www.cv-library.co.uk/job/225754415/quality-manager",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "no",
+    "reason": "The job posting explicitly states that the position has expired and is no longer accepting applications.",
     "id": "1f3e1900",
     "source": "cv_library_quality_manager",
     "added_at": "2026-11-02T01:53:42+02:00",
     "posted_date": "N/A",
     "deadline": "N/A",
     "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-11-02T01:56:00+02:00"
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite"
   },
   {
     "title": "Quality Manager",
