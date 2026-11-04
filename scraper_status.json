@@ -1,9 +1,9 @@
 {
   "pid": 22848,
   "started_at": "2026-11-04T01:13:32+02:00",
-  "heartbeat_at": "2026-11-04T02:18:44+02:00",
+  "heartbeat_at": "2026-11-04T02:20:53+02:00",
   "phase": "reviewing",
-  "detail": "Project Manager - Financial Industry",
-  "last_scrape_ok_at": "2026-11-04T02:17:15+02:00",
+  "detail": "Pre-qualification Manager",
+  "last_scrape_ok_at": "2026-11-04T02:19:24+02:00",
   "last_error": null
 }
