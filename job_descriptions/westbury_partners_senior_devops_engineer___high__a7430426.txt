@@ -1,0 +1,103 @@
+Title: Senior DevOps Engineer – High-Performance Trading Infrastructure | AWS, Kubernetes & Cloud | APAC
+Company: Westbury Partners
+Location: Sydney, Australia; Singapore; or Hong Kong
+URL: https://au.jora.com/job/DevOps-Engineer-7b146515cd82209a31c6d0f3caa0966f
+Posted: 2026-11-03
+Deadline: Open until filled
+Reason: The role aligns with the candidate's DevOps and CI/CD expertise, and the location (Sydney, Singapore, or Hong Kong) falls within the target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Search
+Sign in
+What
+Where
+Search jobs
+Senior DevOps Engineer – High-Performance Trading Infrastructure | AWS, Kubernetes & Cloud | APAC
+Westbury Partners
+–
+Sydney NSW
+Full time
+Remote
+Hybrid
+2d ago, from eFinancialCareers
+Apply on company site
+
+What You'll Do:
+
+Join a globally distributed engineering team responsible for scaling and operating the infrastructure behind millions of daily trades across centralised and decentralised digital asset markets.
+
+You'll work at the intersection of cloud engineering, automation and performance optimisation, ensuring systems remain highly available, secure and lightning-fast in an environment where every millisecond counts.
+
+Your Responsibilities Will Include:
+
+Design, operate and optimise highly available, low-latency infrastructure supporting global trading operations.
+Identify and resolve performance bottlenecks across compute, networking, storage and applications.
+Manage and scale AWS infrastructure, Kubernetes environments and containerised workloads.
+Build and maintain Infrastructure-as-Code using Terraform and configuration management with Ansible.
+Develop automation and tooling using Python and Bash.
+Implement and improve monitoring and observability using Prometheus, Grafana and related technologies.
+Lead incident response, troubleshooting, root cause analysis and preventative improvements.
+Strengthen cloud security, IAM, threat detection and secure CI/CD pipelines.
+Collaborate with developers, traders and security teams to continuously improve infrastructure performance and reliability.
+Participate in a rotational daytime on-call schedule, supporting global operations across APAC and Europe.
+
+Why Join Us?
+
+Work within a globally distributed, high-performance technology team across APAC, Europe and the US.
+Take ownership of mission-critical infrastructure where your work directly impacts trading performance and business success.
+Tackle challenging engineering problems across cloud computing, financial markets and blockchain technology.
+Enjoy a flat, fast-moving environment that encourages autonomy, innovation and accountability.
+Access excellent opportunities for professional development and career progression.
+Benefit from competitive compensation and a flexible working environment.
+
+About You:
+
+5+ years' experience in DevOps, Site Reliability Engineering or Infrastructure Engineering within demanding production environments.
+Strong Linux administration and AWS cloud infrastructure experience.
+Essential hands-on experience with Kubernetes and containerised workloads.
+Strong Infrastructure-as-Code experience with Terraform and Ansible.
+Proficiency in Python and Bash scripting and automation.
+Experience with Prometheus, Grafana and production observability.
+Strong understanding of cloud networking, system performance, latency optimisation and capacity planning.
+Knowledge of cloud security, IAM, SIEM and secure CI/CD practices.
+Experience with Google Cloud or Azure is advantageous.
+Exposure to cryptocurrency, digital assets or financial trading environments would be a strong bonus.
+
+Where You Can Work
+
+Ideally, we're looking to welcome candidates based in Sydney, Singapore or Hong Kong. For the right candidate, a remote working arrangement from Sydney may also be considered.
+
+#SeniorDevOps #DevOpsEngineer #SiteReliabilityEngineering #SRE #AWS #Kubernetes #Terraform #Ansible #CloudInfrastructure #Linux #Python #Prometheus #Grafana #CryptoJobs #FinTech
+
+Apply on company site
+Be careful - Don’t provide your bank or credit card details when applying for jobs. Don't transfer any money or complete suspicious online surveys. If you see something suspicious, report this job ad.
+Email to yourself or a friend
+Email job
+Discover Jora
+Browse jobs
+Browse salaries
+Find recruiter
+About
+FAQ
+Blog
+Reviews
+Browse Jobs in Australia
+Jobs in Sydney
+Jobs in Melbourne
+Jobs in Hobart
+Jobs in Brisbane
+Jobs in Perth
+Jobs in Darwin
+Jobs in Adelaide
+Connect with us
+TikTok
+Facebook
+Linkedin
+Get Jora app
+Contact us
+Privacy
+Terms & Conditions
+©2026 Job Seeker Pty Ltd

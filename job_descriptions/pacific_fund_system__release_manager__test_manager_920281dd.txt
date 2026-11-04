@@ -1,0 +1,174 @@
+Title: Release Manager/ Test Manager
+Company: Pacific Fund System Australia Pty Ltd
+Location: Sydney, NSW, Australia
+URL: https://au.jora.com/job/Release-Manager-367f79b7e35db6e132c682c0c95b13dd
+Posted: 2mo ago
+Deadline: N/A
+Reason: The role is a perfect match for the candidate's extensive experience in release management, branching strategies, and CI/CD governance within a regulated environment, and it is located in Australia.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Search
+Sign in
+What
+Where
+Search jobs
+Release Manager/ Test Manager
+CO_PFCAUSPTY Pacific Fund System Australia Pty Ltd
+–
+Sydney NSW
+Full time
+2mo ago, from Apex Group
+Apply on company site
+
+The Apex Group was established in Bermuda in 2003 and is now one of the world’s largest fund administration and middle office solutions providers.
+
+Our business is unique in its ability to reach globally, service locally and provide cross-jurisdictional services. With our clients at the heart of everything we do, our hard-working team has successfully delivered on an unprecedented growth and transformation journey, and we are now represented by over circa 13,000 employees across 112 offices worldwide.Your career with us should reflect your energy and passion.
+
+That’s why, at Apex Group, we will do more than simply ‘empower’ you. We will work to supercharge your unique skills and experience.
+
+Take the lead and we’ll give you the support you need to be at the top of your game. And we offer you the freedom to be a positive disrupter and turn big ideas into bold, industry-changing realities.
+
+For our business, for clients, and for you
+
+About PAXUS Group:
+
+As part of the Apex Group, PAXUS supports investment managers, administrators, and asset owners with innovative, reliable, and highly configurable platforms. PAXUS is a specialist financial services technology provider delivering enterprise‑class software solutions to the global funds administration industry.
+
+We value individuals who demonstrate strong technical capability, ownership, collaboration, and a genuine interest in financial markets and enterprise software.
+
+Position Overview
+
+The Release Manager is responsible for end-to-end release governance across PAXUS’s core SDLC and customer-specific delivery branches. The role ensures high-quality, predictable delivery of annual major releases, interim minor releases, BAU fixes, and urgent client-priority features.
+
+Position Responsibilities
+
+General Role Responsibility
+
+Act as the single point of accountability for release and branch governance across the core SDLC and customer-specific delivery streams.
+
+Collaborate closely with Product, Business analysis, Development, QA, and executive stakeholders to align release outcomes with business priorities and client commitments.
+
+Provide regular, clear updates to senior management on release scope, risks, timelines, quality status, and dependencies.
+
+Promote and embed best practices in release discipline, quality assurance, traceability, and continuous improvement.
+
+Core Release & Branch Governance
+
+Define, maintain, and enforce branching and release standards across major, minor, patch, and hotfix delivery paths.
+
+Establish customer-specific branches at each major release baseline and manage their lifecycle, including scope control, tagging, versioning, and retirement.
+
+Govern merge/cherry-pick strategy between customer branches and the core SDLC branch to minimise branch drift, rework, and regression risk.
+
+Ensure complete change traceability across all branches, including approval records, test outcomes, release notes, and deployment history.
+
+Sprint-Style Customer Release Strategy
+
+Design and run a sprint-style customer release cadence for high-priority client features requiring accelerated delivery.
+
+Facilitate time-boxed planning and release checkpoints with customer stakeholders and internal teams to agree scope, acceptance criteria, and target production dates.
+
+Ensure customer-specific releases include only approved and prioritised changes, with no uncontrolled feature inclusion.
+
+Coordinate structured merge-back of customer-delivered features into the core SDLC branch following successful production release and validation.
+
+Release Planning, QA, and Delivery Assurance
+
+Own integrated release planning across annual major releases, interim minor releases, BAU fixes, and customer-priority feature drops.
+
+Partner with QA to define fit-for-purpose test strategy and regression scope for each release type and branch path.
+
+Enforce release readiness gates, including scope freeze, defect triage thresholds, test sign-off, deployment runbook completion, and rollback preparedness.
+
+Lead go/no-go forums and release decision-making with relevant business and technical stakeholders.
+
+Ensure post-release validation, issue triage, and lessons-learned activities are completed and fed back into process improvements
+
+DevOps, Tooling, and Continuous Improvement
+
+Work with engineering teams to improve Azure DevOps/GitHub Enterprise workflows for build, deployment, and release automation.
+
+Standardise release artefacts and operational controls, including release calendars, checklists, branch policies, and communications templates.
+
+Define and report release performance metrics (e.g., on-time delivery, escaped defects, cycle time, branch drift, and rework).
+
+Identify and implement process improvements that increase delivery speed while maintaining stability, auditability, and quality.
+
+Essential Qualifications & Skills
+
+5+ years’ experience in software delivery, release management, DevOps, or a related IT discipline.
+
+2+ years’ hands-on experience managing multi-branch release models in an enterprise software environment.
+
+Demonstrated experience owning end-to-end release governance across major releases, minor releases, patches, and hotfixes.
+
+Strong practical expertise with Git branching strategies, merge/cherry-pick workflows, conflict resolution, and change traceability.
+
+Intermediate-to-advanced experience with GitHub Enterprise and Azure DevOps, including pipelines, approvals, and release controls.
+
+Proven capability to run a “sprint-style release cadence” for priority customer delivery within a non-Scrum SDLC framework.
+
+Strong understanding of QA collaboration, including risk-based testing, regression planning, defect triage, and release sign-off gates.
+
+Excellent stakeholder management and communication skills, including ability to influence senior leaders, technical teams, and client representatives.
+
+Strong planning, analytical, and problem-solving skills, with high attention to detail and governance discipline.
+
+Ability to work effectively in a fast-paced, multi-region, team-oriented environment.
+
+Relevant tertiary qualification in Information Technology, Computer Science, Engineering (or equivalent commercial experience).
+
+Desirable (Highly Regarded)
+
+Experience in financial services, funds management, or another regulated domain.
+
+Exposure to .NET Core, web applications, and SQL Server-based product environments.
+
+Experience defining release metrics and implementing continuous improvement initiatives.
+
+Familiarity with audit/compliance expectations for controlled production releases.
+
+Scrum Master, Agile, ITIL, DevOps, or related certification
+
+Additional information:
+
+We are an equal opportunity employer and ensure that no applicant is subject to less favourable treatment on the grounds of gender, gender identity, marital status, race, colour, nationality, ethnicity, age, sexual orientation, socio-economic, responsibilities for dependants, physical or mental disability. Any hiring decision are made on the basis of skills, qualifications and experiences.
+
+We measure our success as a business, not only by delivering great products and services and continually increasing our assets under administration and market share, but also by how we positively impact people, society and the planet.
+
+For more information on our commitment to Corporate Social Responsibility (CSR) please https://www.apexgroup.com/corporate-social-responsibility/   
+
+Disclaimer: Unsolicited CVs sent to Apex (Talent Acquisition Team or Hiring Managers) by recruitment agencies will not be accepted for this position. Apex operates a direct sourcing model and where agency assistance is required, the Talent Acquisition team will engage directly with our exclusive recruitment partners.
+
+Apply on company site
+Be careful - Don’t provide your bank or credit card details when applying for jobs. Don't transfer any money or complete suspicious online surveys. If you see something suspicious, report this job ad.
+Email to yourself or a friend
+Email job
+Discover Jora
+Browse jobs
+Browse salaries
+Find recruiter
+About
+FAQ
+Blog
+Reviews
+Browse Jobs in Australia
+Jobs in Sydney
+Jobs in Melbourne
+Jobs in Hobart
+Jobs in Brisbane
+Jobs in Perth
+Jobs in Darwin
+Jobs in Adelaide
+Connect with us
+TikTok
+Facebook
+Linkedin
+Get Jora app
+Contact us
+Privacy
+Terms & Conditions
+©2026 Job Seeker Pty Ltd
