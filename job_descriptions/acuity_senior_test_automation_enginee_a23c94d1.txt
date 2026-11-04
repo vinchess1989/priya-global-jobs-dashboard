@@ -1,0 +1,295 @@
+Title: Senior Test Automation Engineer
+Company: Acuity
+Location: Cork, County Cork, Ireland
+URL: https://ie.linkedin.com/jobs/view/senior-test-automation-engineer-at-acuity-4479520227
+Posted: 2026-10-15
+Deadline: N/A
+Reason: The role aligns with the candidate's background in test automation, CI/CD, and quality engineering within a technical/embedded domain, and it is located in Ireland, which is a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Test Automation Engineer
+Acuity  Cork, County Cork, Ireland
+3 weeks ago  127 applicants
+  
+
+See who Acuity has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Job Title: Senior Test Automation Engineer
+
+
+
+
+Acuity Inc. (NYSE: AYI) is a market-leading industrial technology company. We use technology to solve problems in spaces, light and more things to come. Through our two business segments, Acuity Brands Lighting (ABL) and Acuity Intelligent Spaces (AIS), we design, manufacture, and bring to market products and services that make a valuable difference in people’s lives.
+
+
+
+
+We achieve growth through the development of innovative new products and services, including lighting, lighting controls, building management solutions, and an audio, video and control platform. We focus on customer outcomes and drive growth and productivity to increase market share and deliver superior returns. We look to aggressively deploy capital to grow the business and to enter attractive new verticals.
+
+
+
+
+Acuity Inc. is based in Atlanta, Georgia, with operations across North America, Europe and Asia. The Company is powered by approximately 13,000 dedicated and talented associates. Visit us at www.acuityinc.com.
+
+
+
+
+Job Summary
+
+Acuity is where bold ideas become intelligent, connected products. As a Test Automation Engineer, you will join a high-energy, collaborative engineering team working with cutting-edge software, firmware, IoT and AI technologies. In this senior role, you will bring deep technical experience and strong leadership behaviours to the design and delivery of automated test solutions that improve confidence, reliability and speed across web, mobile and embedded products.
+
+
+
+
+You will combine hands-on test automation expertise with sound engineering judgement and practical experience of AI-assisted development. Working across product, software, firmware, hardware, architecture and quality teams, you will turn complex requirements into robust test solutions, contribute to technical decisions, support and mentor colleagues, accelerate defect investigation and help improve our automation frameworks and CI/CD capabilities. This is an opportunity to make a visible technical contribution and help shape the future of AI-augmented quality engineering at Acuity.
+
+
+
+
+Key Tasks & Responsibilities (Essential Functions)
+
+Design, develop, execute and maintain scalable automated test solutions for web, mobile, firmware, embedded and connected-system applications.
+Use AI-assisted engineering tools across requirements analysis, test design, automation-code development, test-data generation, log analysis, defect triage, documentation and knowledge discovery, while independently validating every output.
+Collaborate with Product Owners, Squad Leads, architects, product managers, QA engineers and hardware, firmware and software developers to translate customer, business and technical requirements into comprehensive test strategies, plans, cases and acceptance criteria.
+Contribute senior technical expertise to test framework architecture, coding standards, peer reviews and risk-based test coverage, identifying critical workflows, edge cases and failure scenarios.
+Develop and review application and automation code using relevant technologies such as C#, Python, Selenium, Git, SQL, Node.js, NuGet, Azure and React.
+Analyse test outcomes, logs and system behaviour to isolate failures and drive root-cause investigations with cross-functional engineering teams; document and track defects with clear reproduction steps and supporting evidence.
+Design custom test environments using products, off-the-shelf equipment, engineering tools and purpose-built hardware, and support the recreation and resolution of complex customer site and field issues.
+Help continuously improve automated testing within CI/CD pipelines, including execution reliability, reporting, traceability, quality gates, framework reusability and test efficiency.
+Participate actively in Agile and scaled planning activities, including backlog refinement, sprint planning, daily stand-ups, reviews, retrospectives and PI Planning within a SAFe environment, contributing quality, dependency, risk and test-readiness perspectives.
+Demonstrate leadership through technical influence, dependable delivery, mentoring and knowledge sharing; evaluate emerging AI and test technologies and champion responsible practices for security, confidentiality, data protection and intellectual property.
+
+
+
+
+Skills and Minimum Experience Required
+
+Significant professional experience in test automation or quality engineering, including delivery of complex automation solutions and collaboration across multidisciplinary product teams.
+Strong programming and scripting capability in one or more languages such as Python, C# or JavaScript, with experience building maintainable automation frameworks.
+Hands-on experience with Selenium, Appium, Postman/Newman or comparable API, web and mobile testing tools, plus command-line, diagnostic, data-logging or engineering-developed tools.
+Experience using test management tools to organise test cases, plan and track execution, maintain requirements traceability, record evidence, report quality status and support defect lifecycle management.
+Experience testing software, firmware, embedded, IoT or connected products and translating complex requirements into structured, risk-based test solutions.
+Deep knowledge of debugging, fault isolation, defect investigation and root-cause analysis, with the ability to communicate complex findings to technical and non-technical stakeholders.
+Experience with source control, code review, CI/CD pipelines and collaborative engineering workflows, including the improvement of test reliability, traceability and coverage.
+Practical understanding of AI-assisted engineering workflows, including how to create, review and validate AI-generated code, tests, analysis and documentation responsibly.
+Strong leadership behaviours, critical thinking and communication skills, with the ability to influence technical decisions, mentor colleagues, work within an established technical direction and drive continuous improvement through individual contribution.
+
+
+
+
+Preferred Skills and Experience
+
+Engineering degree, Associate degree or equivalent qualification in Software Engineering, Computer Science, Computer Engineering, Electronics Engineering, Test Engineering or a related discipline.
+Three to five years or more of relevant professional experience in testing, quality engineering or test automation.
+Practical experience with GitHub Copilot, Microsoft Copilot, ChatGPT or comparable AI-assisted engineering technologies.
+Experience using AI for test-case generation, automation development, test-data creation, log analysis, defect triage, documentation or technical knowledge discovery.
+Experience evaluating AI-generated outputs for correctness, completeness, maintainability, security, traceability and potential bias.
+Experience with SAFe, cloud platforms, automated quality gates, IoT or embedded products, custom test environments, TDD, BDD or risk-based testing.
+
+
+
+
+We value diversity and are an equal opportunity employer. All qualified applicants will be considered for employment without regards to race, color, age, gender, sexual orientation, gender identity and expression, ethnicity or national origin, disability, pregnancy, religion, covered veteran status, protected genetic information, or any other characteristic protected by law.
+
+Please click here and here for more information.
+
+
+
+
+Accommodation in the Application Process: Acuity Inc. is an equal opportunity employer. It complies with the Americans with Disabilities Act (ADA) and other applicable laws requiring reasonable accommodation of persons with disabilities in employment. This includes the provision of reasonable accommodation in the application process. If you believe you need reasonable accommodation to assist with our online application system or any aspect of the application process, please contact Human Resources at (770) 922-9000, and select option 4. Please be prepared to identify the requisition / position applied for and the aspect of the application process for which you believe accommodation is needed. The company will engage in an interactive process with you to better understand the request and to determine whether reasonable accommodation is needed and available.
+
+
+
+
+Any unsolicited resumes sent to Acuity Inc. from a third party, such as an Agency recruiter, including unsolicited resumes sent to an Acuity Inc. mailing address, fax machine or email address, directly to Acuity Inc. employees, or to Acuity Inc. resume database will be considered Acuity Inc. property. Acuity Inc. will NOT pay a fee for any placement resulting from the receipt of an unsolicited resume.
+
+
+
+
+Acuity Inc. will consider any candidate for whom an Agency has submitted an unsolicited resume to have been referred by the Agency free of any charges or fees. This includes any Agency that is an approved/engaged vendor, but does not have the appropriate approvals to be engaged on a search.
+
+
+
+
+E-Verify Participation Poster
+
+e-verify.gov
+
+eeoc.gov
+
+
+
+
+Protecting Yourself from Recruitment Scams: Acuity is committed to maintaining the integrity of our Talent Acquisition process and the security of our candidates. We are aware of phishing and fraudulent schemes in which individuals impersonate Acuity representatives or recruiting partners to solicit payments or sensitive personal information.
+
+As you navigate your job search, please keep the following in mind:
+
+No Financial Requests: Acuity will never ask candidates for payment, credit card information, banking details or other financial information during the interview process.
+Verify Recruiter Communications: Legitimate communications from Acuity recruiters will come from an “@acuityinc.com” email address. If you are contacted by a recruiting agency regarding a role with Acuity, the agency should clearly identify itself and its relationship to Acuity. If you suspect any suspicious activity, verify the agency legitimacy by contacting +1 877-584-1411, option# 0.
+Be Alert for Suspicious Activity: Exercise caution if you receive unsolicited outreach with unusual requests, grammatical errors, requests for personal or financial information, or pressure to act quickly. Always verify the sender before sharing information or clicking links.
+Report Suspected Fraud: If you receive a suspicious message or believe someone is impersonating Acuity or one of our recruiting partners, please contact +1 877-584-141, option# 0, report the incident to the FTC at ReportFraud.ftc.gov, or to your state attorney general.
+
+
+
+
+Show more 
+Seniority level
+Associate
+Employment type
+Full-time
+Industries
+Electric Lighting Equipment Manufacturing and Software Development
+  
+
+Referrals increase your chances of interviewing at Acuity by 2x
+
+See who you know
+
+Get notified about new Senior Quality Assurance Automation Engineer jobs in Cork, County Cork, Ireland.
+
+Sign in to create job alert
+Similar jobs
+Senior Test Automation Engineer (Python) - Cork, Ireland
+Senior Test Automation Engineer (Python) - Cork, Ireland
+Qualcomm
+Cork, County Cork, Ireland
+2 weeks ago
+Senior Test Automation Engineer
+Senior Test Automation Engineer
+Motorola Solutions
+Cork, County Cork, Ireland
+4 days ago
+Software Automation Engineer, Localisation & Release Engineering
+Software Automation Engineer, Localisation & Release Engineering
+Apple
+Cork, County Cork, Ireland
+5 months ago
+Staff Test Automation Engineer (Python) - Cork, Ireland
+Staff Test Automation Engineer (Python) - Cork, Ireland
+Qualcomm
+Cork, County Cork, Ireland
+1 week ago
+Quality Engineer, Employee Experience Engineering
+Quality Engineer, Employee Experience Engineering
+Apple
+Cork, County Cork, Ireland
+3 months ago
+Senior Software Engineer, Query
+Senior Software Engineer, Query
+MongoDB
+Cork, County Cork, Ireland
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Lead Automation Engineer
+Lead Automation Engineer
+
+NeoDyne
+
+Cork, County Cork, Ireland
+1 week ago
+Automations and control Engineers
+Automations and control Engineers
+
+Glanua
+
+Cork, County Cork, Ireland
+5 days ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+McAfee
+
+Cork, County Cork, Ireland
+5 days ago
+Software Engineer
+Software Engineer
+
+NetApp
+
+County Cork, Ireland
+2 days ago
+Automation Engineer
+Automation Engineer
+
+Catalyx
+
+Cork, County Cork, Ireland
+2 months ago
+Quality Assurance Test Analyst
+Quality Assurance Test Analyst
+
+Archer Recruitment
+
+Cork, County Cork, Ireland
+€69,000 - €80,500
+14 hours ago
+Automation Engineer
+Automation Engineer
+
+Douglas Control and Automation
+
+Cork, County Cork, Ireland
+3 weeks ago
+Dev Ops Senior Engineer
+Dev Ops Senior Engineer
+
+Acuity
+
+Cork, County Cork, Ireland
+1 week ago
+Automation Technical Lead
+Automation Technical Lead
+
+SimoTech
+
+Cork, County Cork, Ireland
+1 month ago
+Quality Senior Engineer
+Quality Senior Engineer
+
+Dell Technologies
+
+Cork, County Cork, Ireland
+4 days ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+You’re signed out
+Sign in for the full experience.
+Sign in Join now
