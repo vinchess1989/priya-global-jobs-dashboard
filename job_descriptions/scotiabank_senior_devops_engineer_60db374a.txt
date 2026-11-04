@@ -1,0 +1,285 @@
+Title: Senior DevOps Engineer
+Company: Scotiabank
+Location: Toronto, Ontario, Canada
+URL: https://ca.linkedin.com/jobs/view/senior-devops-engineer-at-scotiabank-4480728158
+Posted: 2026-10-22
+Deadline: Open until filled
+Reason: This Senior DevOps Engineer role matches her extensive background in CI/CD pipelines, release management, Python/PowerShell automation, and cloud platforms within a regulated enterprise environment.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer
+Scotiabank  Toronto, Ontario, Canada
+2 weeks ago  67 applicants
+  
+
+See who Scotiabank has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Requisition ID: 276322
+
+Join a purpose driven winning team, committed to results, in an inclusive and high-performing culture.
+
+Scotiabank is transforming its mission-critical Workforce Authentication platforms, and this role will help build the engineering foundation that enables those platforms to be delivered securely, reliably and at scale.
+
+As a Senior DevOps Engineer, Workforce Authentication Engineering, you will design, build and maintain the DevOps pipelines and automation supporting Microsoft Entra ID-based identity and authentication services. You will contribute across the engineering lifecycle, including infrastructure as code, CI/CD automation, release management, production reliability and site reliability engineering practices.
+
+This is an opportunity for an experienced engineer to work at the intersection of cloud identity, security engineering, automation and platform reliability in a complex, regulated enterprise environment
+
+Is this role right for you? In this role, you will:
+
+DevOps Engineering & Automation
+
+
+Design, build and maintain secure CI/CD pipelines using Azure DevOps for Microsoft Entra ID and Workforce Authentication services.
+Automate platform configuration, deployment, validation and release activities to improve engineering efficiency and consistency.
+Develop reusable deployment patterns and automation to support repeatable, controlled releases across environments.
+Drive adoption of Infrastructure as Code and configuration-as-code practices, including Terraform where appropriate.
+
+
+Release & Environment Management
+
+
+Support end-to-end release activities across development, test and production environments.
+Implement deployment controls, automated testing, validation, rollback and release practices appropriate for security-critical platforms.
+Partner with engineering teams to improve deployment reliability and reduce manual operational activities.
+Maintain clear release documentation, operational procedures and evidence required for controlled changes.
+
+
+Site Reliability Engineering
+
+
+Help define and mature SRE practices for Workforce Authentication platforms.
+Build monitoring, alerting, observability and operational automation to proactively identify service health issues.
+Participate in incident response, troubleshooting, root-cause analysis, problem management and reliability improvements.
+Develop automation and operational tooling that improve resiliency and reduce repetitive operational work.
+
+
+Identity Platform Engineering
+
+
+Work closely with IAM engineers to automate and operate Microsoft Entra ID and Active Directory capabilities.
+Support secure engineering and deployment patterns for enterprise authentication services.
+Apply security-by-design principles across CI/CD, infrastructure automation, secrets handling and platform operations.
+Contribute to engineering standards, technical documentation and continuous improvement
+
+
+Skills
+
+Do you have the skills that will enable you to succeed in this role? We'd love to work with you if you have:
+
+
+Strong experience in DevOps, platform engineering, cloud engineering or Site Reliability Engineering.
+Hands-on experience designing and maintaining Azure DevOps CI/CD pipelines.
+Strong scripting and automation skills using PowerShell, Python, Azure CLI or equivalent technologies.
+Experience with Microsoft Entra ID (Azure AD) and Active Directory.
+Experience implementing Infrastructure as Code; Terraform knowledge is a strong asset.
+Experience with production release management, monitoring, observability, incident response and SRE practices.
+Strong understanding of secure software delivery and DevSecOps principles.
+Ability to troubleshoot complex platform and deployment issues across application, infrastructure, identity and cloud environments.
+Experience with enterprise Identity and Access Management or authentication technologies is a strong asset, including OAuth 2.0, OpenID Connect, SAML, MFA, Conditional Access or passwordless authentication.
+Strong communication and collaboration skills, with the ability to work across engineering, security, architecture and operations teams.
+Comfort operating in a fast-moving environment supporting business-critical security platforms
+
+
+What's in it for you?
+
+
+Diversity, Equity, Inclusion & Allyship - We strive to create an inclusive culture where every employee is empowered to reach their fullest potential, respected for who they are, and are embraced through bias-free practices and inclusive values across Scotiabank. We embrace diversity and provide opportunities for all employee to learn, grow & participate through our various Employee Resource Groups (ERGs) that span across diverse gender identities, ethnicity, race, age, ability & veterans.
+Accessibility and Workplace Accommodations - We value the unique skills and experiences each individual brings to the Bank and are committed to creating and maintaining an inclusive and accessible environment for everyone. Scotiabank continues to locate, remove and prevent barriers so that we can build a diverse and inclusive environment while meeting accessibility requirements.
+Upskilling through online courses, cross-functional development opportunities, and tuition assistance.
+Competitive Rewards program including bonus, flexible vacation, personal, sick days and benefits will start on day one.
+Community Engagement - no matter where you choose to work from; we offer opportunities for community engagement & belonging with our various programs such as hackathons, contests, Humans of Digital and much more
+
+
+Location(s): Canada : Ontario : Toronto
+
+Scotiabank is a leading bank in the Americas. Guided by our purpose: "for every future", we help our customers, their families and their communities achieve success through a broad range of advice, products and services, including personal and commercial banking, wealth management and private banking, corporate and investment banking, and capital markets.
+
+At Scotiabank, we value the unique skills and experiences each individual brings to the Bank, and are committed to creating and maintaining an inclusive and accessible environment for everyone. If you require accommodation (including, but not limited to, an accessible interview site, alternate format documents, ASL Interpreter, or Assistive Technology) during the recruitment and selection process, please let our Recruitment team know. If you require technical assistance, please click here. Candidates must apply directly online to be considered for this role. We thank all applicants for their interest in a career at Scotiabank; however, only those candidates who are selected for an interview will be contacted.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Banking
+  
+
+Referrals increase your chances of interviewing at Scotiabank by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Database Operator jobs
+Senior DevOps Engineer
+Similar jobs
+Senior DevOps Engineer - Robotics Simulation
+Senior DevOps Engineer - Robotics Simulation
+NVIDIA
+Toronto, Ontario, Canada
+2 weeks ago
+Senior Software Developer – DevOps
+Senior Software Developer – DevOps
+General Motors
+Oshawa, Ontario, Canada
+2 weeks ago
+Senior DevOps
+Senior DevOps
+Quartermaster Inc.
+Toronto, Ontario, Canada
+6 months ago
+Senior Software Developer – DevOps
+Senior Software Developer – DevOps
+General Motors
+Markham, Ontario, Canada
+2 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+ZoomInfo
+Toronto, Ontario, Canada
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+SimCorp
+Toronto, Ontario, Canada
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Devops Engineer
+Devops Engineer
+
+I8IS - Infiniti Software Solutions
+
+Mississauga, Ontario, Canada
+18 hours ago
+Senior Software Developer (DevOps)
+Senior Software Developer (DevOps)
+
+OpenText
+
+Richmond Hill, Ontario, Canada
+2 weeks ago
+Data Platform DevOps Engineer - Senior Consultant
+Data Platform DevOps Engineer - Senior Consultant
+
+Deloitte
+
+Burlington, Ontario, Canada
+4 days ago
+DevOps Engineer
+DevOps Engineer
+
+Leap Tools
+
+Toronto, Ontario, Canada
+1 month ago
+ModiFace - DevOps Developer
+ModiFace - DevOps Developer
+
+L'Oréal
+
+Toronto, Ontario, Canada
+2 weeks ago
+Senior SRE
+Senior SRE
+
+Pigment
+
+Greater Toronto Area, Canada
+CA$100,000 - CA$180,000
+10 hours ago
+Senior DevOps / DevSecOps Engineer
+Senior DevOps / DevSecOps Engineer
+
+Capco
+
+Toronto, Ontario, Canada
+5 days ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+Scotiabank
+
+Toronto, Ontario, Canada
+5 days ago
+Senior Software Engineer - Platforms & Infrastructure
+Senior Software Engineer - Platforms & Infrastructure
+
+Tubi
+
+Toronto, Ontario, Canada
+2 weeks ago
+Senior DevOps Engineer, for AI-based Systems
+Senior DevOps Engineer, for AI-based Systems
+
+Oncoustics
+
+Toronto, Ontario, Canada
+3 months ago
+Similar Searches
+Database Operator jobs
+14,917 open jobs
+Small Business Advisor jobs
+6,008 open jobs
+Banking Advisor jobs
+5,610 open jobs
+Statistics Manager jobs
+249 open jobs
+Private Banking Associate jobs
+1,532 open jobs
+Mutual Fund Representative jobs
+454 open jobs
+Bank Executive jobs
+216 open jobs
+Personal Banking Officer jobs
+357 open jobs
+District Vice President jobs
+127 open jobs
+Senior Financial Advisor jobs
+2,915 open jobs
+Associate Investment Advisor jobs
+1,833 open jobs
+Senior Database Specialist jobs
+79 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+You’re signed out
+Sign in for the full experience.
+Sign in Join now
