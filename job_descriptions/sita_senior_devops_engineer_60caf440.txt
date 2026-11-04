@@ -1,0 +1,275 @@
+Title: Senior DevOps Engineer
+Company: SITA
+Location: Letterkenny, County Donegal, Ireland
+URL: https://ie.linkedin.com/jobs/view/senior-devops-engineer-at-sita-4485512312
+Posted: 2026-11-05
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in DevOps, CI/CD pipeline ownership, and infrastructure automation, and it is located in Ireland, which is a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer
+SITA  Letterkenny, County Donegal, Ireland
+6 hours ago   Be among the first 25 applicants
+  
+
+See who SITA has hired for this role
+
+Apply 
+Save
+Overview
+
+WELCOME TO SITA
+
+At SITA, we keep airports moving, airlines flying smoothly, and borders open. Our technology and communication innovations power the success of the global air travel industry.
+
+You'll find us in 95% of international airports, working closely with over 2,500 transportation and government clients. Each partnership brings unique challenges, and we thrive on delivering fresh solutions and cutting-edge tech to keep operations running like clockwork. We don't just move the world forward-we're proud to be recognized as a Great Place to Work® by 79% of our employees and certified in most of our growing locations. Here, we feel empowered, supported, and inspired to grow.
+
+Are you ready to love your job?The adventure begins right here, with you, at SITA.
+
+About The Role & Team
+
+Join our DevOps/Platform Engineering team as a Senior DevOps Engineer, where you will design, automate, deploy, and continuously improve the cloud infrastructure and delivery capabilities that support SITA’s platforms and services. This is a highly hands-on role spanning Microsoft Azure, Infrastructure as Code, CI/CD, Kubernetes, networking, security, and automation.
+
+Working closely with Software Engineering, Infrastructure, Architecture, Security, and Operations teams, you will help establish secure, scalable, reusable, and automated platform capabilities that enable engineering teams to deliver applications and services efficiently.
+
+
+Be at the forefront of technological advancements, contributing to a dynamic and forward-thinking Infrastructure platform team.
+Work alongside diverse and talented individuals, fostering creativity and knowledge exchange.
+Develop professionally and advance in a rapidly evolving industry.
+Contribute to the development of a platform that makes a significant impact in the industry.
+
+
+What You’ll Do
+
+
+Design, provision, configure, and maintain cloud infrastructure primarily within Microsoft Azure.
+Develop and maintain Infrastructure as Code using Terraform and/or Bicep, including reusable modules, templates, and standardized engineering patterns.
+Support Azure services including compute, networking, storage, identity, RBAC, DNS, certificates, secrets, and private connectivity.
+Build, operate, and improve container-based platforms using Docker and Kubernetes/Azure Kubernetes Service (AKS).
+Contribute to resilient, highly available, and scalable platform architectures, and troubleshoot complex infrastructure, networking, and platform issues.
+Design, implement, and maintain Azure DevOps CI/CD pipelines, reusable pipeline templates, and standardized deployment patterns.
+Automate environment provisioning, infrastructure configuration, and application deployment, integrating Infrastructure as Code into delivery pipelines.
+Develop automation using PowerShell, Python, Bash, or similar scripting technologies, replacing repetitive manual activities with sustainable automation.
+Continuously improve deployment reliability, consistency, efficiency, and the developer experience.
+Apply security-by-design principles and embed appropriate security controls and guardrails within infrastructure automation and CI/CD pipelines.
+Implement secure identity and access practices, including RBAC, managed identities, secrets, and certificate management.
+
+
+Qualifications
+
+ABOUT YOUR SKILLS
+
+
+5+ years of strong hands-on experience in a Senior DevOps, Cloud, Platform, or Infrastructure Engineering role.
+Strong practical experience with Microsoft Azure.
+Strong Infrastructure as Code experience, preferably Terraform; Bicep/ARM experience is beneficial.
+Strong experience designing, implementing, and maintaining Azure DevOps CI/CD pipelines.
+Experience with Docker and Kubernetes/Azure Kubernetes Service (AKS).
+Good understanding of Azure networking, including VNets, subnets, routing, DNS, firewalls, load balancing, and private connectivity.
+Strong understanding of cloud identity and access management, including RBAC, managed identities, secrets, and certificates.
+Experience developing automation using PowerShell, Python, Bash, or equivalent scripting languages.
+Strong working knowledge of Git, pull requests, source control, and code-review practices.
+Microsoft Azure certifications such as AZ-104, AZ-400, AZ-500, or AZ-700.
+Experience with Azure Landing Zones and enterprise-scale Azure environments.
+Experience supporting highly available or business-critical platforms.
+Experience with disaster recovery and multi-region architectures.
+Experience with monitoring and observability technologies.
+Experience with cloud cost optimisation and FinOps practices.
+Experience with policy-as-code and automated compliance.
+Experience with messaging, integration, APIs, databases, or distributed platforms.
+AWS experience, particularly where workloads are being migrated from AWS to Azure. AWS experience is useful but not mandatory.
+Experience working within Agile/Scrum engineering environments.
+At least 5 years’ experience working in a DevOps role
+Have previous experience in troubleshooting Java applications
+RHEL Linux or Equivalent
+Must know about Ansible and Kubernetes
+Should understand Microsoft Azure stack (Fundamentals)
+Dev/Test/Prod Environment support and Automation
+Experience in Linux administration
+
+
+NICE-TO-HAVE
+
+
+Familiarity with MongoDB and Elasticsearch for effective data management.
+Understanding of Kafka and Ldap.
+Knowledge of Terraform.
+Concept of Agile, HA, Resiliency, Scalability.
+ITIL, Operational requirements and Support.
+
+
+What We Offer
+
+We’re all about diversity. We operate in 200 countries and speak 60 different languages and cultures. We’re really proud of our inclusive environment. Our offices are comfortable and fun places to work, and we make sure you get to work from home too. Find out what it's like to join our team and take a step closer to your best life ever.
+
+🏡 Flex Week: Work from home up to 2 days/week (depending on your team’s needs)
+
+⏰ Flex Day: Make your workday suit your life and plans.
+
+🌎 Flex Location: Take up to 30 days a year to work from any location in the world.
+
+🌿Employee Wellbeing: We’ve got you covered with our Employee Assistance Program (EAP), for you and your dependents 24/7, 365 days/year. We also offer Champion Health – a personalized platform that supports a range of wellbeing needs.
+
+🚀Professional Development: Level up your skills with our training platforms, including LinkedIn Learning!
+
+🙌🏽 Competitive Benefits: Competitive benefits that make sense with both your local market and employment status.
+
+SITA is an Equal Opportunity Employer. We value a diverse workforce. In support of our Employment Equity Program, we encourage women, aboriginal people, members of visible minorities, and/or persons with disabilities to apply and self-identify in the application process.
+
+Salary / Compensation Note
+
+Hidden (-999)
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at SITA by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Senior DevOps Engineer | PGIM Ireland
+Senior DevOps Engineer | PGIM Ireland
+PGIM Ireland
+Letterkenny, County Donegal, Ireland
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+Tata Consultancy Services
+Letterkenny, County Donegal, Ireland
+1 month ago
+Senior GCP DevOps Engineer
+Senior GCP DevOps Engineer
+Tata Consultancy Services
+Letterkenny, County Donegal, Ireland
+3 weeks ago
+DevOps Engineer
+DevOps Engineer
+Insight Global
+Letterkenny, County Donegal, Ireland
+2 weeks ago
+Lead Cloud Infrastructure Engineer
+Lead Cloud Infrastructure Engineer
+SITA
+Letterkenny, County Donegal, Ireland
+7 hours ago
+Lead, Application Support Engineer | PGIM Ireland
+Lead, Application Support Engineer | PGIM Ireland
+PGIM Ireland
+Letterkenny, County Donegal, Ireland
+1 day ago
+Show more jobs like this 
+People also viewed
+Global Product Specialist
+Global Product Specialist
+
+Vertiv
+
+Burnfoot, County Donegal, Ireland
+1 week ago
+Manufacturing Engineer
+Manufacturing Engineer
+
+Vertiv
+
+Letterkenny, County Donegal, Ireland
+1 week ago
+Lead Software Developer (UI Tech Lead)
+Lead Software Developer (UI Tech Lead)
+
+SITA
+
+Letterkenny, County Donegal, Ireland
+6 days ago
+Process Excellence Leader EMEA
+Process Excellence Leader EMEA
+
+Vertiv
+
+Burnfoot, County Donegal, Ireland
+6 days ago
+Product Development Engineer (R&D)
+Product Development Engineer (R&D)
+
+Vertiv
+
+Burnfoot, County Donegal, Ireland
+2 weeks ago
+Maintenance Team Lead
+Maintenance Team Lead
+
+Abbott
+
+County Donegal, Ireland
+1 week ago
+Senior Testing Analyst | PGIM Ireland
+Senior Testing Analyst | PGIM Ireland
+
+PGIM Ireland
+
+Letterkenny, County Donegal, Ireland
+1 week ago
+Lead, Identity & Access Management
+Lead, Identity & Access Management
+
+PGIM Ireland
+
+Letterkenny, County Donegal, Ireland
+3 days ago
+Senior Leadership in STEM, Shape the Future of Healthcare Innovation
+Senior Leadership in STEM, Shape the Future of Healthcare Innovation
+
+Abbott
+
+County Donegal, Ireland
+11 months ago
+Quality Engineer
+Quality Engineer
+
+Vertiv
+
+Letterkenny, County Donegal, Ireland
+2 weeks ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
