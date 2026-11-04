@@ -1,0 +1,310 @@
+Title: Quality Engineer - VOIS
+Company: VOIS
+Location: Pune Division, Maharashtra, India
+URL: https://in.linkedin.com/jobs/view/quality-engineer-vois-at-vois-4483481252
+Posted: 2026-10-31
+Deadline: N/A
+Reason: The role aligns with the candidate's background in quality engineering, CI/CD, and requirements traceability, and it is located in India, which is one of the target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Quality Engineer - VOIS
+VOIS  Pune Division, Maharashtra, India
+4 days ago  194 applicants
+  
+
+See who VOIS has hired for this role
+
+Apply 
+Save
+Who We Are
+
+VOIS (Vodafone Intelligent Solutions) is a strategic arm of Vodafone Group Plc, creating value for customers by delivering intelligent solutions through Talent, Technology & Transformation.
+
+As the largest shared services organisation in the global telco industry with 30,000 FTE, our portfolio of next-generation solutions and services are designed in partnership with customers across Vodafone Group, local markets, and partner markets to simplify and drive growth. With our strategic partner Accenture, we work alongside our Vodafone customers, other Telco and tech companies to drive transformation, meet the challenges of our industry and ensure we stay relevant and resilient. This partnership is a unique, industry-first model which brings together the best of in-house and 3rd party capability.
+
+We work with customers across 28 countries from 10 VOIS locations: Albania, Egypt, Hungary, India, Romania, Spain, Turkey, UK, Germany, Ireland, and with a network of teams in Czech Republic, Italy, Greece, and Portugal.
+
+#VOIS #BeUnrivalled #CreateTheFuture
+
+About This Role
+
+We are seeking a Software Test Automation Engineer with hands-on experience across manual and automated software testing. You will analyse business requirements, user stories and acceptance criteria; design and execute functional and integration tests; build and maintain reusable automated tests; perform API testing; support CI/CD execution; and manage defects through to closure.
+
+The role requires a sound understanding of SDLC, STLC, test-design techniques and the defect lifecycle, together with practical experience working in Agile teams. You will collaborate with developers, product owners, business analysts and other stakeholders to embed quality throughout the delivery lifecycle and proactively manage quality risks.
+
+What You’ll Do
+
+
+Analyse business requirements, user stories and acceptance criteria to identify test scenarios, dependencies and quality risks
+Design, document and maintain test plans, test scenarios, test cases and test data for functional and integration testing
+Perform manual testing, including functional, integration, system, regression, smoke, sanity and exploratory testing
+Design, develop, execute and maintain automated test scripts for suitable functional and regression scenarios
+Identify appropriate automation candidates and improve automation coverage while avoiding unnecessary or low-value automation
+Perform API and integration testing, validating requests, responses, error handling and end-to-end workflows
+Execute automated test suites within CI/CD pipelines and investigate test failures
+Manage defect identification, logging, prioritisation, retesting and closure, providing clear evidence and reproducible steps
+Conduct root-cause analysis of test failures, distinguishing product defects from test-data, environment and automation issues
+Collaborate with developers, product owners, business analysts and other stakeholders to establish clear acceptance criteria and embed quality throughout delivery
+Participate in Agile ceremonies, including backlog refinement, sprint planning, daily stand-ups, reviews and retrospectives
+Maintain requirements-to-test traceability and appropriate coverage of critical business journeys
+Track and communicate test execution status, defect trends, regression results and automation coverage
+Contribute to the continuous improvement of test processes, automation frameworks, reusable components and quality-engineering standards
+Support test-environment and test-data readiness, highlighting dependencies that could affect delivery
+Proactively identify quality risks and improvement opportunities, helping teams prevent defects as well as detect them
+
+
+
+Who You Are
+
+
+You hold a Bachelor’s degree in Computer Science, Information Technology, Engineering or a related discipline, or have equivalent practical experience
+You have 5yrs- 6yrs hands-on experience in manual and automation testing across the software development lifecycle
+You understand functional, integration, regression, system and exploratory testing
+You have practical experience developing and maintaining reusable automated test scripts
+You have experience with API testing and validating system integrations
+You understand SDLC, STLC, the defect lifecycle and test-design techniques
+You have experience using defect-tracking and test-management tools
+You understand Agile/Scrum methodologies and CI/CD practices
+You can apply analytical, troubleshooting and problem-solving skills to investigate test failures and quality issues
+You communicate effectively and collaborate across development, product, business and technology teams
+You have experience with defect identification, reporting, retesting and root-cause analysis
+
+
+
+Not a perfect fit?
+
+Concerned you may not meet every requirement? Vodafone is committed to creating an inclusive workplace where everyone can thrive. If you are excited about this role but your experience does not align exactly with every aspect of the job description, you are encouraged to apply. You may be the right candidate for this or another opportunity, and the recruitment team will support you in exploring where your skills fit best.
+
+What's In It For You
+
+
+Work across manual testing, test automation, API testing and CI/CD-integrated quality engineering
+Contribute to quality throughout the software delivery lifecycle rather than focusing solely on test execution
+Collaborate across development, product, business analysis and other stakeholder groups
+Influence test automation coverage, reusable testing components and continuous improvement
+Build experience in risk-based quality practices, including defect prevention, root-cause analysis and critical business-journey validation
+
+
+
+What Skills You Will Learn
+
+
+Test automation design and maintenance, including identification of suitable automation candidates
+API and integration testing, including request, response and error-handling validation
+CI/CD test execution and failure investigation
+Advanced root-cause analysis and troubleshooting across product, data, environment and automation issues
+Requirements-to-test traceability and critical business-journey coverage
+Quality reporting using indicators such as defect trends, regression results, test status and automation coverage
+Cross-functional collaboration within Agile software delivery teams
+
+
+
+VOIS Equal Opportunity Employer Commitment
+
+Vodafone recognises and celebrates the value of diversity in building a workforce that reflects the customers and communities it serves. No form of discrimination is tolerated. This includes, but is not limited to, discrimination based on race, colour, age, veteran status, gender identity, gender expression, sexual orientation, pregnancy, maternity or parental status, ethnicity, disability, religion or belief, political affiliation, trade union membership, nationality, citizenship, indigenous status, medical condition, HIV status, neurodiversity, social origin, cultural background, marital or civil partnership status, or socio-economic background.
+
+Join Us
+
+At Vodafone, we’re working hard to build a better future. A more connected, inclusive and sustainable world. As a dynamic global community, it's our human spirit, together with technology, that empowers us to achieve this.
+
+We challenge and innovate in order to connect people, businesses, and communities across the world. Delighting our customers and earning their loyalty drive us, and we experiment, learn fast and get it done, together.
+
+With us, you can truly be yourself and belong, share inspiration, embrace new opportunities, thrive, and make a real difference.
+
+Alert
+
+Apply for Vodafone jobs only through the official Vodafone Careers website to avoid job scams and fraud.” #JDEnhancedByTARA
+
+Follow us on social media
+
+
+LinkedIn: https://www.linkedin.com/company/vois/
+Facebook: https://www.facebook.com/voisglobal
+Instagram: https://www.instagram.com/voisglobal/
+You can also chat with our employees to learn more about our projects: https://lnkd.in/dpkrcvR2
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Industries
+Information Services, IT Services and IT Consulting, and Telecommunications
+  
+
+Referrals increase your chances of interviewing at VOIS by 2x
+
+See who you know
+
+Get notified about new Quality Engineer jobs in Pune Division, Maharashtra, India.
+
+Sign in to create job alert
+Jobs
+Software Tester jobs
+Quality Engineer - VOIS
+Similar jobs
+Design Quality Engineer
+Design Quality Engineer
+Philips
+Pune Division, Maharashtra, India
+1 week ago
+Engineer, Quality
+Engineer, Quality
+Danfoss
+Pune Division, Maharashtra, India
+4 days ago
+Senior Supplier Quality Engineer
+Senior Supplier Quality Engineer
+NVIDIA
+Pune City, Maharashtra, India
+17 hours ago
+Quality Engineer
+Quality Engineer
+Cyient
+Pune Division, Maharashtra, India
+1 week ago
+Quality Engineer
+Quality Engineer
+Cyient
+Pune/Pimpri-Chinchwad Area
+6 days ago
+Quality Engineer
+Quality Engineer
+3M
+Pune City, Maharashtra, India
+3 months ago
+Show more jobs like this 
+People also viewed
+Engineer - QA
+Engineer - QA
+
+KSB Company
+
+Pune Division, Maharashtra, India
+5 months ago
+Executive - Quality Assurance
+Executive - Quality Assurance
+
+Lupin
+
+Pune/Pimpri-Chinchwad Area
+4 days ago
+QA & Support Engineer
+QA & Support Engineer
+
+Dassault Systèmes
+
+Pune/Pimpri-Chinchwad Area
+1 day ago
+Manufacturing Process Quality Engineer
+Manufacturing Process Quality Engineer
+
+XPEL
+
+Pune District, Maharashtra, India
+2 weeks ago
+Deputy Engineer - Quality
+Deputy Engineer - Quality
+
+Unison
+
+Khed, Maharashtra, India
+5 days ago
+Quality Specialist, Sr.
+Quality Specialist, Sr.
+
+Curtiss-Wright Corporation
+
+Pune/Pimpri-Chinchwad Area
+2 weeks ago
+Lead Quality Assurance Engineer
+Lead Quality Assurance Engineer
+
+Onit
+
+Pune Division, Maharashtra, India
+3 weeks ago
+Process Quality Engineer
+Process Quality Engineer
+
+One Mobility Group
+
+Shirur, Maharashtra, India
+12 hours ago
+Quality Assurance Engineer - Site Reliability Engineering
+Quality Assurance Engineer - Site Reliability Engineering
+
+Air Arabia
+
+Pune Division, Maharashtra, India
+5 days ago
+Senior Engineer - Quality Assurance
+Senior Engineer - Quality Assurance
+
+Accelya
+
+Pune/Pimpri-Chinchwad Area
+13 hours ago
+Similar Searches
+Software Tester jobs
+2,341 open jobs
+Quality Engineer jobs
+25,348 open jobs
+Engineer jobs
+71,158 open jobs
+Supplier Quality Engineer jobs
+811 open jobs
+Assistant Manager Materials jobs
+90 open jobs
+Manufacturing Quality Engineer jobs
+918 open jobs
+Senior Quality Engineer jobs
+1,424 open jobs
+Customer Quality Engineer jobs
+1,020 open jobs
+Advanced Quality Engineer jobs
+559 open jobs
+Quality System Engineer jobs
+1,825 open jobs
+Project Quality Engineer jobs
+1,123 open jobs
+Quality Assurance Quality Control Engineer jobs
+453 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at VOIS
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

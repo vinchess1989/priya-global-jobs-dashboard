@@ -20874,5 +20874,39 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": null,
     "deletion_reason": "Deadline (2025-11-10) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Project Manager - ICT",
+    "company": "Airways New Zealand",
+    "location": "Christchurch, Canterbury, New Zealand",
+    "url": "https://nz.linkedin.com/jobs/view/project-manager-ict-at-airways-new-zealand-4486038263",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job posting explicitly requires candidates to be legally eligible to work in New Zealand, and the candidate requires visa sponsorship.",
+    "id": "76ccb148",
+    "source": "linkedin_nz_release_manager",
+    "added_at": "2026-11-04T02:07:12+02:00",
+    "posted_date": "2026-11-04",
+    "deadline": "2025-11-17",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Deadline (2025-11-17) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Digital & Technology Senior Product Lead",
+    "company": "Kiwibank",
+    "location": "Wellington, Wellington, New Zealand",
+    "url": "https://nz.linkedin.com/jobs/view/digital-technology-senior-product-lead-at-kiwibank-4486014443",
+    "visited": "yes",
+    "matches_requirements": "maybe",
+    "reason": "The role is a strong fit for her product and technical coordination experience, but it is a 12-month fixed-term contract and the posting does not explicitly confirm if visa sponsorship is available for international applicants.",
+    "id": "808ebfd2",
+    "source": "linkedin_nz_release_manager",
+    "added_at": "2026-11-04T02:07:12+02:00",
+    "posted_date": "2026-11-04",
+    "deadline": "2025-11-17",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Deadline (2025-11-17) passed by more than 2 days and unreviewed"
   }
 ]

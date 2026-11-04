@@ -1,9 +1,9 @@
 {
   "pid": 22848,
   "started_at": "2026-11-04T01:13:32+02:00",
-  "heartbeat_at": "2026-11-04T02:06:33+02:00",
+  "heartbeat_at": "2026-11-04T02:09:34+02:00",
   "phase": "reviewing",
-  "detail": "Information Technology Operations Engineer",
-  "last_scrape_ok_at": "2026-11-04T02:05:19+02:00",
+  "detail": "Quality Systems Engineer",
+  "last_scrape_ok_at": "2026-11-04T02:08:14+02:00",
   "last_error": null
 }
