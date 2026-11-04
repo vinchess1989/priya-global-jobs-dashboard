@@ -1,0 +1,234 @@
+Title: Financial Services - DevOps Production Operation Engineer - HKD600K - 900K
+Company: PrimePeak Group
+Location: Hong Kong, Hong Kong SAR
+URL: https://hk.linkedin.com/jobs/view/financial-services-devops-production-operation-engineer-hkd600k-900k-at-primepeak-group-4477956667
+Posted: 2026-10-14
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in DevOps, CI/CD pipeline ownership, and production release management within a regulated environment.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Join now
+Sign in
+Financial Services - DevOps Production Operation Engineer - HKD600K - 900K
+PrimePeak Group  Hong Kong, Hong Kong SAR
+3 weeks ago  41 applicants
+  
+
+See who PrimePeak Group has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+PrimePeak Group provided pay range
+
+This range is provided by PrimePeak Group. Your actual pay will be based on your skills and experience — talk with your recruiter to learn more.
+
+Base pay range
+HK$600,000.00/yr - HK$900,000.00/yr
+
+We are seeking a DevOps & Production Operations Engineer to bridge application engineering, infrastructure, security, and support. In this role, you will own the reliability, CI/CD automation, and observability of business-critical applications, data platforms, and AI systems hosted in Azure.
+
+You’ll play a key role in enforcing segregation of duties, automating production deployments, building robust observability tools, and establishing production readiness before go-live.
+
+
+
+
+Key Responsibilities
+
+
+
+
+Production Operations & Reliability: Maintain application operability across DEV, UAT, and PROD environments in Azure. Monitor health, lead incident response, build runbooks, and engineer permanent fixes to reduce manual intervention.
+DevOps & CI/CD Automation: Design and optimize deployment pipelines via Azure DevOps and GitHub Actions (including Power Platform ALM and dbt/Snowflake). Implement Infrastructure as Code (Terraform/Bicep) and safe release/rollback mechanisms.
+Observability & Monitoring: Build an application-centric telemetry ecosystem using Azure Monitor, Application Insights, Log Analytics, OpenTelemetry, Prometheus, and Grafana to quickly diagnose cross-stack issues.
+Access & Production Controls: Work with InfoSec to manage least-privilege production access, enforce auditable release gates, and automate privileged operational tasks.
+Production Readiness: Partner with development teams pre-launch to verify monitoring, logging, health endpoints, backup/recovery, and CMDB registration.
+
+
+
+
+
+
+
+Requirements
+
+
+
+
+Production Experience: Proven background operating production applications, ideally within regulated Financial Services or Asset Management environments.
+Cloud & DevOps: Strong hands-on expertise with Azure, Azure DevOps, and GitHub Actions (including Power Platform ALM pipelines).
+Observability: Experience with Azure Monitor, Application Insights, Log Analytics, or OpenTelemetry.
+Automation & IaC: Proficiency in scripting (PowerShell, Python, or Bash) and Infrastructure as Code (Terraform or Bicep).
+Technical SDLC Foundation: Solid understanding of modern SDLC, networking/identity concepts (HTTP, DNS, TLS, RBAC), and enough coding experience (.NET, Python, TypeScript) to conduct code/pipeline reviews.
+
+
+
+
+Desirable:
+
+Experience with Azure Container Apps, API Management, Entra ID, Key Vault, Managed Identity, Kubernetes, or Prometheus.
+
+
+
+
+Interested parties please apply with resume.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Financial Services, Venture Capital and Private Equity Principals, and Investment Management
+  
+
+Referrals increase your chances of interviewing at PrimePeak Group by 2x
+
+See who you know
+
+Get notified about new Financial Services Professional jobs in Hong Kong, Hong Kong SAR.
+
+Sign in to create job alert
+Similar jobs
+Vice President, Cloud Operations
+Vice President, Cloud Operations
+Hong Kong Exchanges and Clearing Limited (HKEX)
+Hong Kong, Hong Kong SAR
+1 day ago
+Techops Engineer
+Techops Engineer
+Binance
+Central & Western District, Hong Kong SAR
+1 week ago
+SRE/DevOps/Platform Engineer
+SRE/DevOps/Platform Engineer
+Kody
+Hong Kong, Hong Kong SAR
+2 weeks ago
+Platform / Site Reliability Engineer
+Platform / Site Reliability Engineer
+Millennium
+Hong Kong, Hong Kong SAR
+1 week ago
+Production Engineer
+Production Engineer
+Anchorpoint
+Hong Kong SAR
+2 weeks ago
+Senior Staff, Platform Engineer, DevOps
+Senior Staff, Platform Engineer, DevOps
+MoneyHero Group (Nasdaq: MNY)
+Central & Western District, Hong Kong SAR
+22 hours ago
+Show more jobs like this 
+People also viewed
+Practice Customer Engineer, Migrations, Infrastructure and App (Cantonese, Mandarin, English)
+Practice Customer Engineer, Migrations, Infrastructure and App (Cantonese, Mandarin, English)
+
+Google
+
+Hong Kong, Hong Kong SAR
+2 weeks ago
+Senior DevOps Engineer (Trading Platform)
+Senior DevOps Engineer (Trading Platform)
+
+Crypto.com
+
+Hong Kong SAR
+2 days ago
+Head of Infrastructure SRE
+Head of Infrastructure SRE
+
+RedotPay
+
+Hong Kong, Hong Kong SAR
+3 weeks ago
+DevSecOps AI - Hong Kong
+DevSecOps AI - Hong Kong
+
+Intact
+
+Hong Kong, Hong Kong SAR
+3 weeks ago
+Infra Developer
+Infra Developer
+
+Millennium
+
+Hong Kong, Hong Kong SAR
+1 week ago
+REMOTE: Lead Infrastructure / SRE Engineer | AWS
+REMOTE: Lead Infrastructure / SRE Engineer | AWS
+
+BAH Partners
+
+Hong Kong SAR
+1 week ago
+DevOps and Site Reliability Engineer
+DevOps and Site Reliability Engineer
+
+Wizpresso 濃說
+
+Hong Kong, Hong Kong SAR
+1 month ago
+Senior Cloud Services Engineer - Associate - Cloud Platform Services - 12month contract
+Senior Cloud Services Engineer - Associate - Cloud Platform Services - 12month contract
+
+Hong Kong Exchanges and Clearing Limited (HKEX)
+
+Hong Kong, Hong Kong SAR
+11 hours ago
+VP, Software Engineer
+VP, Software Engineer
+
+Nomura
+
+Central, Hong Kong SAR
+4 weeks ago
+Senior DevOps Engineer - Global Trading Firm - Hong Kong
+Senior DevOps Engineer - Global Trading Firm - Hong Kong
+
+NLS Executive Search
+
+Hong Kong, Hong Kong SAR
+3 weeks ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

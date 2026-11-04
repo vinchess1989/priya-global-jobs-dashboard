@@ -1,0 +1,287 @@
+Title: Senior Cloud Services Engineer - Associate - Cloud Platform Services - 12month contract
+Company: Hong Kong Exchanges and Clearing Limited (HKEX)
+Location: Hong Kong, Hong Kong SAR
+URL: https://hk.linkedin.com/jobs/view/senior-cloud-services-engineer-associate-cloud-platform-services-12month-contract-at-hong-kong-exchanges-and-clearing-limited-hkex-4486876002
+Posted: 2026-11-04
+Deadline: N/A
+Reason: The role aligns with the candidate's DevOps/SRE and infrastructure automation expertise, and it is located in a target country (Hong Kong) without explicit visa restrictions or security clearance requirements.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Join now
+Sign in
+Senior Cloud Services Engineer - Associate - Cloud Platform Services - 12month contract
+Hong Kong Exchanges and Clearing Limited (HKEX)  Hong Kong, Hong Kong SAR
+11 hours ago   Be among the first 25 applicants
+  
+
+See who Hong Kong Exchanges and Clearing Limited (HKEX) has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Company Introduction:
+
+We’re home to Asia's most dynamic and vibrant capital markets.
+
+Connecting capital, ideas, inspiration and innovation for deeper, more diverse and liquid global capital markets; providing greater choice and opportunity for our customers, each and every day.
+
+HKEX is a purpose-driven company. Our commitment to the long-term development of our business and our markets is articulated in our purpose: "To Connect, Promote and Progress our Markets and the Communities they support for the prosperity of all."
+
+Job Summary:
+
+HKEX Cloud Platform Services team is seeking for motivated and experienced Senior Cloud Services Engineer. This team is driving the design, deployment, and ongoing operation support on cloud-based solutions. Also this team will work across different application development, infrastructure operations, and security teams to ensure stability, scalability, and security of HKEX cloud infrastructure.
+
+Job Duties:
+
+Job Responsibilities:
+
+
+Maintain platform stability and high availability by defining and monitoring key observability metrics across all cloud environments.
+Lead incident response efforts and conduct thorough Root Cause Analysis (RCA) to implement long-term preventative measures.
+Develop and govern a library of modular Terraform modules to ensure all deployments are standardized and reproducible.
+Identifying and reducing manual toil by building automation scripts and exploring intelligent tooling for repetitive operational tasks.
+Build and manage comprehensive observability stacks, including monitoring and logging, to provide deep visibility into system health.
+Enforce security standards such as CIS Benchmarks through the implementation of automated guardrails.
+Optimize cloud resource utilization and costs by using predictive insights to scale infrastructure based on real-time demand.
+
+
+Job Requirements:
+
+
+Minimum 4 years in AWS, Azure, GCP or China Brand Private Cloud, professional experience in SRE or DevOps roles managing high-availability production environments.
+Expert-level proficiency in Terraform for managing large-scale infrastructure as code.
+Strong programming skills in languages such as Python, Go, or Bash for developing robust automation tools.
+Extensive hands-on experience with observability platforms like Prometheus, Grafana, or the ELK stack.
+Demonstrate a deep understanding of cloud networking and security, including VPC design and CIS compliance standards.
+Familiar with modern automation trends, such as using AI-driven data analytics, reporting and anomaly detection to enhance incident triage.
+Proven ability to solve complex problems in distributed systems while working under high-pressure situations.
+
+
+Competencies and Behaviors Required:
+
+Analytical Thinking
+
+
+Breaks down complex cloud infrastructure challenges into manageable components.
+Identifies root causes of system issues and proposes practical, data-driven solutions.
+Applies structured thinking to evaluate cloud architecture and deployment strategies.
+
+
+Risk Awareness
+
+
+Understands and adheres to HKEX’s risk appetite when implementing cloud solutions.
+Recognizes potential vulnerabilities in cloud environments and proactively mitigates them.
+Makes informed decisions that balance innovation with operational stability.
+
+
+Intellectual Curiosity
+
+
+Actively explores emerging cloud technologies (e.g. AWS, Alibaba Cloud and China Brand Private Cloud).
+Seeks to understand the rationale behind new tools and practices such as Kubernetes, Terraform and CI/CD pipelines.
+Demonstrates a growth mindset by continuously learning and applying new knowledge.
+
+
+Resilience
+
+
+Maintains composure and adaptability when troubleshooting critical cloud system issues.
+Manages multiple tasks and shifting priorities with focus and determination.
+Responds constructively to setbacks and uses them as learning opportunities.
+
+
+Effective Communication
+
+
+Explains complex technical concepts clearly to non-technical stakeholders.
+Communicates status updates, blockers and risks in a timely and transparent manner.
+Collaborates effectively with cross-functional teams including development, operations and security.
+
+
+Teamwork
+
+
+Works collaboratively with colleagues to deliver secure and scalable cloud solutions.
+Supports team members by sharing knowledge and offering assistance during project delivery.
+Builds positive relationships across departments to ensure alignment with HKEX standards.
+
+
+HKEX is committed as an Equal Opportunity Employer. Diversity is one of our core values and we look to support, respect diverse perspectives, abilities, culture and experiences within our workplace.
+
+Location:
+
+HK-DTH 9/F
+
+Shift:
+
+Standard - 40 Hours (Hong Kong SAR)
+
+Scheduled Weekly Hours:
+
+40
+
+Worker Type:
+
+Contract
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at Hong Kong Exchanges and Clearing Limited (HKEX) by 2x
+
+See who you know
+
+Get notified about new Senior Services Engineer jobs in Hong Kong, Hong Kong SAR.
+
+Sign in to create job alert
+Similar jobs
+Principal Cloud Services Engineer - Assistant Vice President - Cloud Platform Services - IT - 12 months Contract
+Principal Cloud Services Engineer - Assistant Vice President - Cloud Platform Services - IT - 12 months Contract
+Hong Kong Exchanges and Clearing Limited (HKEX)
+Hong Kong, Hong Kong SAR
+1 day ago
+Technical Architecture Engineer
+Technical Architecture Engineer
+Sailglobal
+Hong Kong, Hong Kong SAR
+5 days ago
+Cloud Engineer
+Cloud Engineer
+Ampstek
+Hong Kong, Hong Kong SAR
+3 weeks ago
+Assistant Cloud Operations Manager (Alibaba Cloud, Multi-Cloud, Terraform, Cloud Operations, Team Leadership)  
+Assistant Cloud Operations Manager (Alibaba Cloud, Multi-Cloud, Terraform, Cloud Operations, Team Leadership)  
+Classy Wheeler Limited
+Kowloon, Hong Kong SAR
+HK$30,000 - HK$45,000
+6 days ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+SearchApi
+Hong Kong, Hong Kong SAR
+4 months ago
+Cloud Engineer - Major Financial Regulator
+Cloud Engineer - Major Financial Regulator
+PFCC Group
+Hong Kong, Hong Kong SAR
+4 days ago
+Show more jobs like this 
+People also viewed
+SRE/DevOps/Platform Engineer
+SRE/DevOps/Platform Engineer
+
+Kody
+
+Hong Kong, Hong Kong SAR
+2 weeks ago
+Technical Officer in Computing Services Centre [R/008/26]
+Technical Officer in Computing Services Centre [R/008/26]
+
+City University of Hong Kong
+
+Kowloon, Hong Kong SAR
+1 week ago
+Solution Architect & Engineer – Sustainability Technology (3-month Contract)
+Solution Architect & Engineer – Sustainability Technology (3-month Contract)
+
+Mandarin Oriental
+
+Hong Kong SAR
+2 weeks ago
+Senior Data Platform Engineer - Leading Insurer - J13286
+Senior Data Platform Engineer - Leading Insurer - J13286
+
+Pinpoint Asia
+
+Hong Kong, Hong Kong SAR
+1 week ago
+Techops Engineer
+Techops Engineer
+
+Binance
+
+Central & Western District, Hong Kong SAR
+1 week ago
+Data Platform Engineer
+Data Platform Engineer
+
+Argyll Scott
+
+Hong Kong, Hong Kong SAR
+13 hours ago
+Senior Site Reliability Engineer (SRE)
+Senior Site Reliability Engineer (SRE)
+
+GFT Technologies APAC & GCC
+
+Hong Kong, Hong Kong SAR
+3 weeks ago
+Principal Cloud Security Architect
+Principal Cloud Security Architect
+
+Alignerr
+
+Hong Kong SAR
+$40 - $80
+1 day ago
+Senior Site Reliability Engineer (SRE) / Managed Services Engineer
+Senior Site Reliability Engineer (SRE) / Managed Services Engineer
+
+Horizon Trading Solutions
+
+Hong Kong SAR
+9 hours ago
+Cloud Security Engineer
+Cloud Security Engineer
+
+CloudMile
+
+Hong Kong, Hong Kong SAR
+5 days ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
