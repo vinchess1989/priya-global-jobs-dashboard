@@ -1,0 +1,269 @@
+Title: Senior Automotive Software Requirements Engineer (Infotainment & Seating)
+Company: emagine
+Location: Pune Division, Maharashtra, India
+URL: https://in.linkedin.com/jobs/view/senior-automotive-software-requirements-engineer-infotainment-seating-at-emagine-4486356616
+Posted: 2026-11-05
+Deadline: N/A
+Reason: The role is a strong match for her background in requirements engineering, traceability, and safety-critical automotive standards (ISO 26262/ISO 21434), and it is located in India, which is one of her target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Automotive Software Requirements Engineer (Infotainment & Seating)
+emagine  Pune Division, Maharashtra, India
+13 hours ago   Be among the first 25 applicants
+  
+
+See who emagine has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Experience Required:
+
+
+Total: 7–9 years
+Relevant: Minimum 3+ years in Automotive Infotainment, Automotive Seating, or Embedded Systems, including hands-on experience with seat-control features.
+
+
+Key Responsibilities
+
+
+Perform requirement analysis and decomposition for infotainment features.
+Author and maintain software specifications with clear traceability.
+Manage traceability matrices across requirements, design, and test cases.
+Utilize DOORS DNG for requirement management and version control.
+Collaborate with cross-functional teams to define IVI architecture (head unit, middleware, apps).
+Design and validate HMI & UX principles for infotainment systems.
+Work on multimedia subsystems (audio, video, navigation).
+Integrate and validate vehicle communication protocols (CAN, LIN, Ethernet, UDS, OBD-II).
+Apply mid-level Functional Safety knowledge to software requirements, including ISO 26262 concepts, ASIL awareness, safety requirement decomposition, technical safety mechanisms, traceability, verification criteria, and support for safety analyses and reviews.
+Apply mid-level Automotive Cybersecurity knowledge to requirements engineering, including ISO/SAE 21434 concepts, Threat Analysis and Risk Assessment (TARA) awareness, cybersecurity goals and requirements, secure diagnostics, secure communication, authentication, access control, secure boot, secure update, and cybersecurity verification criteria.
+Apply AUTOSAR knowledge during software requirement analysis and interface definition, including AUTOSAR Classic and Adaptive concepts, layered architecture, application software components, RTE, basic software, communication services, diagnostics, and ECU configuration dependencies.
+Provide technical leadership in embedded systems (Linux, QNX, Android Automotive).
+Analyze and decompose requirements for automotive seating functions, including lumbar support, side bolster adjustment, cushion extension/tilt, seat position and memory, heating, ventilation, and massage.
+Define and review seat-control system architecture and interfaces, including ECUs, motors, position sensors, switches, power management, network signals, and interactions with body-control and HMI systems.
+Specify and validate seat diagnostics and safety behavior, including actuator fault handling, position plausibility, obstruction/anti-pinch protection, thermal protection, voltage-related behavior, DTCs, and UDS diagnostic services.
+Communicate effectively with stakeholders and apply system thinking to complex problems.
+
+
+Required Skills
+
+
+Requirement analysis & decomposition
+Specification writing and documentation
+Traceability management (end-to-end requirement coverage)
+DOORS DNG and version management tools
+Automotive IVI domain knowledge
+IVI architecture (head unit, middleware, apps)
+HMI & UX principles
+Multimedia systems (audio, video, navigation)
+Vehicle communication protocols: CAN, LIN, Ethernet, UDS, OBD-II
+Strong technical depth in embedded systems basics (Linux, QNX, Android Automotive)
+APIs, middleware, OS layers understanding
+AUTOSAR — mid-level proficiency: working knowledge of AUTOSAR Classic and awareness of AUTOSAR Adaptive, layered architecture, SWCs, ports and interfaces, RTE, BSW modules, COM stack, diagnostics, network management, ECU configuration, and interpretation of ARXML-based system and software descriptions.
+Functional Safety — mid-level proficiency: working knowledge of ISO 26262, safety lifecycle concepts, ASIL classification, safety requirement analysis and decomposition, safety mechanisms, dependent failure awareness, bidirectional traceability, review support, and requirement-based verification.
+Automotive Cybersecurity — mid-level proficiency: working knowledge of ISO/SAE 21434, cybersecurity lifecycle concepts, TARA outputs, cybersecurity goals and requirements, secure boot and software update, authentication and authorization, secure diagnostics and communication, key-management awareness, traceability, and cybersecurity verification.
+Automotive seating domain knowledge, including lumbar, bolster, cushion, recline, slide, height, tilt, memory, easy-entry, heating, ventilation, and massage functions.
+Seat ECU and mechatronic interface knowledge: DC/BLDC motors, Hall/position sensors, switches, motor drivers, current sensing, calibration, and end-stop learning.
+Seating communication and diagnostics: CAN/LIN signals, network management, UDS, DTC definition, diagnostic routines, and EOL/service-tool requirements.
+Seating safety and verification: anti-pinch/obstruction detection, thermal and electrical protection, degraded modes, requirement-based testing, and traceability to system and vehicle-level requirements.
+Stakeholder communication and system thinking
+
+
+Preferred Attributes
+
+
+Strong analytical and problem-solving skills.
+Ability to work independently and mentor junior engineers.
+Experience in cross-domain collaboration (hardware, software, UX).
+Exposure to OTA updates and connected services.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at emagine by 2x
+
+See who you know
+
+Get notified about new Requirements Engineer jobs in Pune Division, Maharashtra, India.
+
+Sign in to create job alert
+Jobs
+Component Design Engineer jobs
+Senior Automotive Software Requirements Engineer (Infotainment & Seating)
+Similar jobs
+Custom Software Engineering Lead
+Custom Software Engineering Lead
+Accenture in India
+Pune Division, Maharashtra, India
+1 month ago
+Principal Engineer I Systems
+Principal Engineer I Systems
+Visteon Corporation
+Pune Division, Maharashtra, India
+3 days ago
+Technical Lead
+Technical Lead
+AUO Mobility Solutions
+Pune District, Maharashtra, India
+2 months ago
+Function Owner
+Function Owner
+UST
+Pune District, Maharashtra, India
+1 week ago
+Lead Developer
+Lead Developer
+Cognizant
+Pune Division, Maharashtra, India
+1 week ago
+System Architect
+System Architect
+AUO Mobility Solutions
+Pune District, Maharashtra, India
+3 months ago
+Show more jobs like this 
+People also viewed
+Custom Software Engineering Lead
+Custom Software Engineering Lead
+
+Accenture in India
+
+Pune Division, Maharashtra, India
+3 weeks ago
+Custom Software Engineer
+Custom Software Engineer
+
+Accenture in India
+
+Pune Division, Maharashtra, India
+3 weeks ago
+Custom Software Engineering Lead
+Custom Software Engineering Lead
+
+Accenture in India
+
+Pune Division, Maharashtra, India
+1 month ago
+Custom Software Engineering Lead
+Custom Software Engineering Lead
+
+Accenture in India
+
+Pune Division, Maharashtra, India
+1 month ago
+Custom Software Engineer
+Custom Software Engineer
+
+Accenture in India
+
+Pune Division, Maharashtra, India
+1 month ago
+Custom Software Engineer
+Custom Software Engineer
+
+Accenture in India
+
+Pune Division, Maharashtra, India
+1 month ago
+Custom Software Engineering Lead
+Custom Software Engineering Lead
+
+Accenture in India
+
+Pune Division, Maharashtra, India
+1 month ago
+Custom Software Engineering Lead
+Custom Software Engineering Lead
+
+Accenture in India
+
+Pune Division, Maharashtra, India
+3 weeks ago
+Custom Software Engineering Lead
+Custom Software Engineering Lead
+
+Accenture in India
+
+Pune Division, Maharashtra, India
+1 month ago
+Custom Software Engineering Lead
+Custom Software Engineering Lead
+
+Accenture in India
+
+Pune Division, Maharashtra, India
+1 month ago
+Similar Searches
+Component Design Engineer jobs
+800 open jobs
+Senior Transportation Engineer jobs
+303 open jobs
+Senior Functional Analyst jobs
+2,972 open jobs
+System Safety Engineer jobs
+1,205 open jobs
+Usability Engineer jobs
+50,658 open jobs
+Lead Technical Analyst jobs
+10,615 open jobs
+Lead System Engineer jobs
+1,842 open jobs
+System Architect jobs
+4,468 open jobs
+System Engineer jobs
+6,122 open jobs
+Patent Engineer jobs
+44 open jobs
+Automotive Engineer jobs
+3,055 open jobs
+Verification Validation Engineer jobs
+1,616 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at emagine
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
