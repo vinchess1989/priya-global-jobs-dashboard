@@ -1,0 +1,296 @@
+Title: Release Manager
+Company: Weekday (YC W21)
+Location: Bengaluru, Karnataka, India
+URL: https://in.linkedin.com/jobs/view/release-manager-at-weekday-yc-w21-4485056760
+Posted: 2026-11-05
+Deadline: N/A
+Reason: The role is a Release Manager position matching her strong background in CI/CD pipeline ownership, release governance, and configuration management in India.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Release Manager
+Weekday (YC W21)  Bengaluru, Karnataka, India
+16 hours ago  62 applicants
+  
+
+See who Weekday (YC W21) has hired for this role
+
+Apply
+Save
+Weekday (YC W21) provided pay range
+
+This range is provided by Weekday (YC W21). Your actual pay will be based on your skills and experience — talk with your recruiter to learn more.
+
+Base pay range
+₹2,000,000.00/yr - ₹2,500,000.00/yr
+This role is for one of our clients
+Seniority level: Mid-Senior level
+
+Industry: Artificial Intelligence (AI)
+
+Min Experience: 7+ years
+
+Location: Pune, Bengaluru, Karnataka, India
+
+JobType: full-time
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+
+We are looking for a hands-on Release Manager to oversee and execute end-to-end release management activities, ensuring seamless and reliable code deployments across development, lower, and production environments.
+
+The ideal candidate will have strong technical expertise in CI/CD pipeline engineering, release governance, and deployment management. This role requires close collaboration with development, engineering, and product teams to coordinate release activities, manage dependencies, troubleshoot deployment issues, and ensure timely delivery of release artifacts.
+
+You will be responsible for maintaining robust automated deployment pipelines, enforcing established Software Development Life Cycle (SDLC) processes, and managing client communications to support high-quality software delivery and operational stability.
+
+Requirements
+Key Responsibilities
+
+
+
+Release and Deployment Management: Plan, coordinate, and execute end-to-end release activities to ensure successful code deployments across lower and production environments
+CI/CD Pipeline Engineering: Build, maintain, and optimize automated Continuous Integration and Continuous Deployment (CI/CD) pipelines to streamline release workflows, improve delivery speed, and minimize manual errors
+Process and Governance: Ensure adherence to established SDLC processes, release management methodologies, governance frameworks, and deployment protocols across internal teams and client stakeholders
+Cross-Functional Coordination: Collaborate with development, engineering, and product teams to track dependencies, manage release timelines, and ensure all required artifacts are delivered on schedule
+Deployment Troubleshooting: Diagnose and resolve complex CI/CD pipeline and deployment failures, identify root causes, and implement permanent technical solutions
+Client and Stakeholder Communication: Act as a primary point of contact for clients, providing clear and timely updates on release schedules, deployment progress, risks, dependencies, and status
+Operational Reliability: Maintain consistent release practices and deployment controls to support software quality, stability, and predictable delivery
+
+
+
+
+Required Qualifications
+
+
+Proven hands-on experience building, scaling, and maintaining CI/CD pipelines using GitLab and GitHub
+Practical experience managing and executing code deployments for Snowflake, Apache Airflow, and dbt
+Strong understanding of SDLC processes, release management methodologies, and deployment governance
+Excellent verbal and written communication skills, with demonstrated experience in client-facing communication and stakeholder management
+Strong technical troubleshooting and problem-solving abilities, including identifying infrastructure, pipeline, and code-configuration issues under tight release deadlines
+Ability to coordinate multiple releases, manage dependencies, and work effectively with cross-functional teams
+
+
+
+
+Must-Have Skills
+
+
+
+Continuous Integration and Continuous Deployment (CI/CD)
+GitLab
+GitHub
+Release Management
+Deployment Management
+SDLC Processes
+
+
+
+
+Good-to-Have Skills
+
+
+
+Cloud Data Warehouses
+Data Engineering
+Snowflake
+Apache Airflow
+dbt
+GitLab or GitHub Actions Certifications
+Cloud and DevOps Practices
+
+
+
+
+Preferred Qualifications
+
+
+Experience working with cloud data warehouse environments or data engineering release tracks
+Certifications in GitLab, GitHub Actions, or relevant cloud and DevOps technologies
+Experience managing releases across multi-tenant environments or complex enterprise client ecosystems
+
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Business Consulting and Services, IT Services and IT Consulting, and Professional Training and Coaching
+  
+
+Referrals increase your chances of interviewing at Weekday (YC W21) by 2x
+
+See who you know
+
+Get notified about new Release Manager jobs in Bengaluru, Karnataka, India.
+
+Sign in to create job alert
+Jobs
+Change And Release Manager jobs
+Release Manager
+Similar jobs
+Release Manager
+Release Manager
+GlobalLogic
+Bengaluru, Karnataka, India
+3 weeks ago
+Release Manager
+Release Manager
+Infosys
+Bengaluru East, Karnataka, India
+1 week ago
+Release Manager
+Release Manager
+Thoucentric
+Bengaluru, Karnataka, India
+8 months ago
+Release Manager
+Release Manager
+NTT DATA North America
+Bangalore Urban, Karnataka, India
+1 week ago
+Lead Release Manager
+Lead Release Manager
+Q2
+Bengaluru, Karnataka, India
+1 week ago
+Release Manager - Cutover Management [T500-30374]
+Release Manager - Cutover Management [T500-30374]
+ADM
+Bengaluru, Karnataka, India
+1 week ago
+Show more jobs like this 
+People also viewed
+Senior Project and Release Manager
+Senior Project and Release Manager
+
+WPP Enterprise Solutions
+
+Bengaluru, Karnataka, India
+5 days ago
+Environment Manager - Risk Management and GCO
+Environment Manager - Risk Management and GCO
+
+EY
+
+Bengaluru, Karnataka, India
+4 hours ago
+Senior Configuration and Delivery Manager
+Senior Configuration and Delivery Manager
+
+WSP in India
+
+Bengaluru, Karnataka, India
+1 week ago
+Ralph Lauren Senior Digital Technology Analyst, Devops & Release Management
+Ralph Lauren Senior Digital Technology Analyst, Devops & Release Management
+
+BoF Careers
+
+Bangalore Urban, Karnataka, India
+2 months ago
+Technical Program Mgr
+Technical Program Mgr
+
+NetApp
+
+Bengaluru, Karnataka, India
+1 day ago
+SAP SuccessFactors Change & Release Specialist
+SAP SuccessFactors Change & Release Specialist
+
+Artech
+
+Bengaluru, Karnataka, India
+1 week ago
+Senior Principal - RTE
+Senior Principal - RTE
+
+GSK
+
+Bengaluru, Karnataka, India
+1 week ago
+Staff Technical Program Mgr
+Staff Technical Program Mgr
+
+NetApp
+
+Bengaluru, Karnataka, India
+1 day ago
+Release Qualification Team Lead
+Release Qualification Team Lead
+
+Cerebras
+
+Bengaluru, Karnataka, India
+3 months ago
+Application Manager
+Application Manager
+
+Hitachi Energy
+
+Bengaluru, Karnataka, India
+5 days ago
+Similar Searches
+Change And Release Manager jobs
+184 open jobs
+Software Configuration Manager jobs
+7,612 open jobs
+Unix Consultant jobs
+623 open jobs
+Release Engineer jobs
+3,467 open jobs
+Deployment Manager jobs
+4,865 open jobs
+Build And Release Engineer jobs
+3,712 open jobs
+SAP Basis Team Lead jobs
+194 open jobs
+Software Release Engineer jobs
+346 open jobs
+Configuration Manager jobs
+1,407 open jobs
+Change Manager jobs
+8,241 open jobs
+Problem Manager jobs
+2,374 open jobs
+Contract Test Engineer jobs
+920 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Weekday (YC W21)
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

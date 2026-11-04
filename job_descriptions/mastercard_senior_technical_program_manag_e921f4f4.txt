@@ -1,0 +1,268 @@
+Title: Senior Technical Program Manager
+Company: Mastercard
+Location: Pune Division, Maharashtra, India
+URL: https://in.linkedin.com/jobs/view/senior-technical-program-manager-at-mastercard-4481456061
+Posted: 2026-10-29
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in release governance, CI/CD, and technical program management within complex, regulated environments.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Technical Program Manager
+Mastercard  Pune Division, Maharashtra, India
+1 week ago  98 applicants
+  
+
+See who Mastercard has hired for this role
+
+Apply 
+Save
+Our Purpose
+
+Mastercard powers economies and empowers people in 200+ countries and territories worldwide. Together with our customers, we’re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest potential.
+
+Title And Summary
+
+Senior Technical Program Manager
+
+Overview
+
+The Mastercard Authentication Program powers consumer authentication experiences across e-commerce and in-store payment ecosystems. As part of this mission, the engineering team ensures our authentication platforms remain highly available, performant, scalable, resilient, and operationally efficient while supporting rapid product innovation and growth.
+
+We are looking for a Senior Technical Program Manager to drive reliability-focused programs across our authentication products. This role sits at the intersection of Engineering, SRE, Product, Business Operations, and Platform teams and is responsible for leading strategic initiatives that improve platform health, operational maturity, release excellence, and customer experience. The ideal candidate combines deep technical program management expertise with strong understanding of cloud-scale distributed systems, operational excellence, resiliency engineering, performance management, capacity planning, and large-scale release coordination.
+
+If you are passionate about building highly reliable systems that power billions of secure transactions globally, this role is for you.
+
+Responsibilities:
+
+
+Facilitate and oversee team Agile ceremonies including backlog refinement, sprint planning, daily stand-ups, sprint reviews, retrospectives, and release planning.
+Coordinate resource planning and capacity allocation across the SRE and engineering team to balance operational commitments, incident response, technical debt reduction, and strategic initiatives.
+Drive backlog prioritization and dependency management across multiple Scrum teams to ensure delivery commitments are met.
+Own end-to-end release governance across the broader authentication program. Identify opportunities to improve release processes, planning accuracy, dependency management, and overall delivery efficiency across teams.
+Understand the needs of the engineers and teams who have to build, maintain, and operate the system.
+Identify dependencies, remove execution blockers, and ensure alignment across stakeholders.
+Drive strategic programs focused on improving platform availability, resiliency, reliability, and operational maturity.
+Partner with SRE and Engineering teams to identify reliability risks and develop mitigation strategies.
+Establish structured review mechanisms for reliability, resiliency, performance, scalability, and operational readiness.
+Champion engineering best practices including observability, automation, self-healing, disaster recovery, and operational excellence.
+Coordinate major releases, platform upgrades, migrations, and production rollouts involving multiple engineering teams.
+Manage release risks, dependencies, issue resolution, rollback planning, and stakeholder communication.
+Drive automation initiatives that improve reliability and reduce operational overhead.
+Influence technical and business stakeholders without direct authority.
+Foster a culture of continuous learning, accountability, and operational excellence.
+
+
+
+Experience
+
+
+Strong understanding of distributed systems, cloud-native architectures, microservices, APIs, and modern platform engineering practices.
+Demonstrated experience breaking down problems, organizing work, planning sprints, and delivering technical programs in agile delivery models (scrum, Kanban, etc.)
+Experience driving capacity planning, performance engineering, disaster recovery, and operational readiness initiatives.
+Proven experience managing large cross-functional release programs across multiple teams.
+Enjoys diving deep to understand of the platforms capabilities and underlying technologies.
+Proven track record of data driven decision-making and applying continuous improvement methodologies across teams.
+Can debate the delivery strategy with business teams, architects, engineers, and designers
+Can communicate to executives, peers, and staff with impact, eloquence, and authenticity
+Demonstrated experience building relationships, partnering with and influencing dependent teams while commanding the respect of the individuals you work with across the organization
+Huge plus if you have expertise in Payments, IaaS, PaaS, serverless technology, CI/CD, SQL/NoSQL databases, microservices APIs, and distributed systems operations in a DevOps model
+6+ years technical program delivery experience including time developing and testing software.
+Bachelor’s degree in Engineering, Computer Science, or related field (or equivalent experience).
+
+
+
+Corporate Security Responsibility
+
+All Activities Involving Access To Mastercard Assets, Information, And Networks Comes With An Inherent Risk To The Organization And, Therefore, It Is Expected That Every Person Working For, Or On Behalf Of, Mastercard Is Responsible For Information Security And Must:
+
+
+Abide by Mastercard’s security policies and practices;
+Ensure the confidentiality and integrity of the information being accessed;
+Report any suspected information security violation or breach, and
+Complete all periodic mandatory security trainings in accordance with Mastercard’s guidelines.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Financial Services, IT Services and IT Consulting, and Technology, Information and Internet
+  
+
+Referrals increase your chances of interviewing at Mastercard by 2x
+
+See who you know
+
+Get notified about new Senior Technical Program Manager jobs in Pune Division, Maharashtra, India.
+
+Sign in to create job alert
+Jobs
+Technical Program Manager jobs
+Senior Technical Program Manager
+Similar jobs
+Senior Technical Program Manager
+Senior Technical Program Manager
+Mastercard
+Pune Division, Maharashtra, India
+1 day ago
+Principal Technical Program Manager
+Principal Technical Program Manager
+Mastercard
+Pune Division, Maharashtra, India
+1 week ago
+Senior Technical Program Manager - SW & HW
+Senior Technical Program Manager - SW & HW
+SonicWall
+Pune Division, Maharashtra, India
+1 week ago
+Sr. Technical Program Manager, Amazon Financials Foundation Services (AFFS)
+Sr. Technical Program Manager, Amazon Financials Foundation Services (AFFS)
+Amazon
+Pune/Pimpri-Chinchwad Area
+1 week ago
+Senior Technical Project Manager
+Senior Technical Project Manager
+Cornerstone OnDemand
+Pune Division, Maharashtra, India
+2 weeks ago
+Senior Technical Project Manager
+Senior Technical Project Manager
+Accelya
+Pune District, Maharashtra, India
+6 days ago
+Show more jobs like this 
+People also viewed
+Senior Technical Support Consultant
+Senior Technical Support Consultant
+
+Armor Defense
+
+Pune City, Maharashtra, India
+1 week ago
+Program Manager
+Program Manager
+
+Philips
+
+Pune Division, Maharashtra, India
+2 days ago
+Senior Project Manager_3418
+Senior Project Manager_3418
+
+Allianz Technology
+
+Pune Division, Maharashtra, India
+3 weeks ago
+Digital Technology Senior Team Leader/Project Manager – Unified Customer Portal & ServiceNow CSM
+Digital Technology Senior Team Leader/Project Manager – Unified Customer Portal & ServiceNow CSM
+
+Baker Hughes
+
+Pune/Pimpri-Chinchwad Area
+5 hours ago
+Lead Technical Program Manager
+Lead Technical Program Manager
+
+Mastercard
+
+Pune Division, Maharashtra, India
+2 weeks ago
+Technical Program Management/ Software Engineering/ Program Management
+Technical Program Management/ Software Engineering/ Program Management
+
+Mastercard
+
+Pune Division, Maharashtra, India
+2 weeks ago
+Technical Program Manager
+Technical Program Manager
+
+Mastercard
+
+Pune Division, Maharashtra, India
+2 weeks ago
+Technical Program Manager II
+Technical Program Manager II
+
+Mastercard
+
+Pune Division, Maharashtra, India
+1 week ago
+Director, Technical Program Management’
+Director, Technical Program Management’
+
+Mastercard
+
+Pune Division, Maharashtra, India
+4 days ago
+Program Manager
+Program Manager
+
+Persistent Systems
+
+Pune Division, Maharashtra, India
+2 days ago
+Similar Searches
+Technical Program Manager jobs
+1,477 open jobs
+Senior Technical Project Manager jobs
+2,291 open jobs
+Principal Program Manager jobs
+3,330 open jobs
+Application Development Manager jobs
+2,928 open jobs
+Staff Test Engineer jobs
+588 open jobs
+General Project Manager jobs
+3,164 open jobs
+Network Security Manager jobs
+319 open jobs
+Infrastructure Program Manager jobs
+79 open jobs
+Senior Technical Product Manager jobs
+1,762 open jobs
+Wireless Manager jobs
+90 open jobs
+Program Manager jobs
+9,542 open jobs
+Staff Program Manager jobs
+453 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Mastercard
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
