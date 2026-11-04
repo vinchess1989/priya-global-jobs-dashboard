@@ -1,0 +1,238 @@
+Title: DevOps Engineer – AWS & Cloud Infrastructure
+Company: Peoplebank
+Location: Greater Sydney Area
+URL: https://au.linkedin.com/jobs/view/devops-engineer-%E2%80%93-aws-cloud-infrastructure-at-peoplebank-4487094950
+Posted: 2026-11-05
+Deadline: N/A
+Reason: The role is a DevOps Engineer position involving CI/CD pipelines, AWS, and Git workflows located in Sydney, Australia, matching her strong release management and infrastructure background.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer – AWS & Cloud Infrastructure
+Peoplebank  Greater Sydney Area
+19 hours ago   Be among the first 25 applicants
+  
+
+See who Peoplebank has hired for this role
+
+Apply 
+Save
+Our client is an established Australian software company developing technology solutions that help make workplaces safer. With a strong focus on innovation, automation and continuous improvement, they are looking to bring on a DevOps Engineer to support the ongoing development and optimisation of their cloud infrastructure and software delivery environment.
+
+This is an opportunity to join a collaborative engineering team, work with modern cloud technologies and build your capabilities across AWS, infrastructure as code, CI/CD and automation, with guidance from an experienced Senior DevOps Engineer.
+
+Reward & Benefits
+• Competitive salary package commensurate with experience
+• Work alongside experienced engineers with opportunities for technical mentoring
+• Hands-on exposure to AWS, Terraform/OpenTofu, Docker and GitOps
+• Opportunity to develop skills across cloud infrastructure, Kubernetes, security and automation
+• Be part of an innovative engineering environment embracing AI and modern development practices
+
+The Opportunity
+You'll contribute to the ongoing management and improvement of cloud infrastructure, deployment pipelines and automation processes, helping ensure reliable, scalable and efficient software delivery.
+Working with a modern technology stack including AWS, GitHub, CircleCI, Docker, Linux, Terraform/OpenTofu and Argo CD, you'll take ownership of defined infrastructure changes, pipeline improvements and repeatable deployment tasks.
+
+Your responsibilities will include:
+• Supporting and improving CI/CD pipelines across build, testing and deployment workflows.
+• Working with AWS and the AWS CLI to manage and troubleshoot cloud resources.
+• Implementing infrastructure changes using Terraform or OpenTofu.
+• Managing Git and GitHub workflows, including branches, pull requests and version control.
+• Supporting Docker-based applications and containerised deployments.
+• Using Linux command-line tools to investigate issues, review logs and troubleshoot problems.
+• Contributing to automation, monitoring and operational improvements.
+• Exploring AI-assisted development and automation tools to improve engineering efficiency.
+
+You'll initially focus on defined changes and non-production environments, with the opportunity to progressively expand your responsibilities across infrastructure, cloud security, cost management, Kubernetes and platform engineering.
+
+About the organisation & culture
+Our client is an established Australian software provider focused on developing innovative solutions that improve workplace safety, compliance and operational efficiency. Innovation, collaboration and continuous improvement are central to their engineering culture. Their teams embrace emerging technologies and modern engineering practices, with a strong focus on delivering quality solutions and improving the experience for both customers and developers. You'll join a supportive and collaborative engineering team, working closely with experienced technical professionals who value knowledge sharing, initiative and ongoing development.
+
+Skills & Experience
+To be successful in this role, you will need to meet most of the following criteria:
+• Experience in a DevOps, Cloud, Infrastructure or Software Engineering role.
+• Hands-on experience with AWS and familiarity with the AWS CLI.
+• Exposure to infrastructure as code using Terraform or OpenTofu.
+• Good working knowledge of Git and GitHub, including branching and pull requests.
+• Experience with CI/CD pipelines, ideally using CircleCI or GitHub Actions.
+• Familiarity with Docker and containerisation.
+• Confidence working in Linux environments and using command-line tools to troubleshoot issues.
+• Basic scripting skills using Python, Bash or PowerShell.
+• An understanding of cloud security fundamentals, including IAM, access controls and secure deployment practices.
+• Strong problem-solving skills, attention to detail and a willingness to learn new technologies.
+• An interest in AI coding assistants and using AI tools to support development and troubleshooting. A tertiary qualification in Computer Science, Software Engineering or IT is desirable. AWS certifications will also be viewed favourably.
+
+Apply Now
+If you're an engineer with hands-on AWS and DevOps experience looking to build your capabilities across cloud infrastructure, automation and modern deployment technologies, apply now to find out more about this opportunity
+
+Peoplebank and Leaders IT are committed to creating a diverse and inclusive workplace where everyone belongs. We welcome applications from people of all backgrounds, identities, and experiences. If you need adjustments to the recruitment process due to your circumstances, please let us know—we’re here to support you.
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Industries
+Information Services
+  
+
+Referrals increase your chances of interviewing at Peoplebank by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Greater Sydney Area.
+
+Sign in to create job alert
+Jobs
+Buyers Agent jobs
+DevOps Engineer – AWS & Cloud Infrastructure
+Similar jobs
+*AWS Cloud Engineer*
+*AWS Cloud Engineer*
+Accenture Australia
+Sydney, New South Wales, Australia
+1 month ago
+*AWS DevOps Engineer*
+*AWS DevOps Engineer*
+Accenture Australia
+Sydney, New South Wales, Australia
+1 month ago
+DevOps Engineer
+DevOps Engineer
+CORTO
+Sydney, New South Wales, Australia
+3 weeks ago
+AWS DevOps Engineer
+AWS DevOps Engineer
+CareCone Group
+Sydney, New South Wales, Australia
+2 days ago
+Platform Engineer - AWS
+Platform Engineer - AWS
+Latitude IT
+Sydney, New South Wales, Australia
+2 weeks ago
+Senior Cloud Engineer
+Senior Cloud Engineer
+White Bay
+Sydney, New South Wales, Australia
+A$170,000 - A$180,000
+19 hours ago
+Show more jobs like this 
+People also viewed
+Platform Engineer
+Platform Engineer
+
+CareCone Group
+
+Sydney, New South Wales, Australia
+6 days ago
+DevOps Engineer
+DevOps Engineer
+
+APM
+
+Sydney, New South Wales, Australia
+2 weeks ago
+Platform Specialist_Devops
+Platform Specialist_Devops
+
+XPT Software
+
+Sydney, New South Wales, Australia
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+DBiz.ai
+
+Sydney, New South Wales, Australia
+3 weeks ago
+Platform Specialist_Devops
+Platform Specialist_Devops
+
+XPT Software Australia
+
+Sydney, New South Wales, Australia
+2 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+HUB24 Limited
+
+Sydney, New South Wales, Australia
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+eJangar, Inc.
+
+Sydney, New South Wales, Australia
+17 hours ago
+Cloud DevOps Engineer - GCP
+Cloud DevOps Engineer - GCP
+
+Westpac Group
+
+Kogarah, New South Wales, Australia
+6 days ago
+Principal Cloud Platform Engineer
+Principal Cloud Platform Engineer
+
+TheDriveGroup
+
+Sydney, New South Wales, Australia
+4 days ago
+Cloud Engineer (Temporary opportunity until 30th June 2028)
+Cloud Engineer (Temporary opportunity until 30th June 2028)
+
+Transport for NSW
+
+Macquarie Park, New South Wales, Australia
+3 weeks ago
+Similar Searches
+Buyers Agent jobs
+59 open jobs
+Creative Marketing Manager jobs
+570 open jobs
+Legal Recruitment Consultant jobs
+492 open jobs
+Senior Human Resources Consultant jobs
+746 open jobs
+Software Team Lead jobs
+2,338 open jobs
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Peoplebank
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

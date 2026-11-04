@@ -1,0 +1,255 @@
+Title: Sr. DevOps Engineer
+Company: Armakuni
+Location: Ahmedabad, Gujarat, India
+URL: https://in.linkedin.com/jobs/view/sr-devops-engineer-at-armakuni-4485068718
+Posted: 2026-11-05
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in DevOps, CI/CD pipeline management, and release engineering, and it is located in India, which is one of her target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Sr. DevOps Engineer
+Armakuni  Ahmedabad, Gujarat, India
+13 hours ago  64 applicants
+  
+
+See who Armakuni has hired for this role
+
+Apply
+Save
+
+Direct message the job poster from Armakuni
+
+Umang Thakkar✔️
+Umang Thakkar✔️
+Connecting Talent With Opportunities | Technical Recruiter at Armakuni
+
+We are looking for an experienced Sr. DevOps Engineer to design, implement, and maintain scalable DevOps solutions across AWS environments. The role will focus on CI/CD, cloud infrastructure, Infrastructure as Code, containerization, deployment automation, and improving development and deployment practices across teams.
+
+The ideal candidate should have 4+ years of strong hands-on experience with DevOps tools, AWS cloud services, container technologies, and CI/CD, along with the ability to lead and drive DevOps best practices.
+
+
+
+
+Key Responsibilities
+
+Design, implement, and maintain CI/CD pipelines using tools such as Jenkins, GitHub Actions, GitLab CI, CircleCI, and AWS DevOps services.
+Manage and maintain distributed, multi-tier cloud infrastructure on AWS with a focus on performance, scalability, reliability, and availability.
+Implement Infrastructure as Code (IaC) using Terraform and AWS CloudFormation to automate and standardize infrastructure provisioning.
+Manage containerized applications using Docker, Docker Compose, and Kubernetes.
+Work with AWS CodePipeline for automated application deployments.
+Troubleshoot and resolve deployment and infrastructure issues across development, staging, and production environments.
+Manage software releases, maintenance windows, and environment configurations across the SDLC.
+Configure and maintain web servers, including IIS, Windows Server, Apache, and Nginx.
+Develop and maintain automation scripts using Python and Node.js.
+Manage version control using Git, SVN, and TFS.
+Evaluate and adopt emerging DevOps tools, technologies, and practices to improve development and deployment workflows.
+Promote knowledge sharing, collaboration, and DevOps best practices across cross-functional teams.
+Lead initiatives to improve automation, reliability, scalability, and efficiency of deployment processes.
+
+
+
+
+Requirements
+
+Bachelor’s degree in Computer Science, Information Technology, or a related discipline.
+4+ years of hands-on experience in DevOps, CI/CD, and cloud infrastructure.
+Strong hands-on knowledge of AWS cloud services and infrastructure.
+Strong experience with Docker, Docker Compose, and cloud-native container technologies.
+Intermediate proficiency in Kubernetes for container orchestration and management.
+Practical experience with AWS CodePipeline and automated deployment processes.
+Strong understanding of IIS, Windows Server, Apache, and Nginx.
+Proficiency in Python and/or Node.js scripting.
+Experience with Git, SVN, and TFS.
+Familiarity with build tools used for web and mobile application development.
+Experience working with IDEs such as Visual Studio, VS Code, and Eclipse.
+Strong troubleshooting, problem-solving, communication, and leadership skills.
+
+
+
+
+Show more 
+Seniority level
+Executive
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Armakuni by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Ahmedabad, Gujarat, India.
+
+Sign in to create job alert
+Jobs
+Computer Vision Engineer jobs
+Sr. DevOps Engineer
+Similar jobs
+Technical Lead - DevSecOps
+Technical Lead - DevSecOps
+Adani Enterprises Limited
+Ahmedabad, Gujarat, India
+3 weeks ago
+Sr. DevOps Engineer
+Sr. DevOps Engineer
+Trellance Cooperative Holdings, Inc.
+Ahmedabad, Gujarat, India
+1 month ago
+Sr. DevOps Engineer
+Sr. DevOps Engineer
+GSTSahay
+Ahmedabad, Gujarat, India
+3 months ago
+Lead Devops Engineer
+Lead Devops Engineer
+Novo
+Ahmedabad, Gujarat, India
+2 weeks ago
+Senior Devops Engineer
+Senior Devops Engineer
+Vedlogic Solutions Pvt. Ltd.
+Ahmedabad, Gujarat, India
+2 days ago
+Senior DevOps Engineer - Remote Work | REF#284055
+Senior DevOps Engineer - Remote Work | REF#284055
+BairesDev
+Ahmedabad, Gujarat, India
+1 year ago
+Show more jobs like this 
+People also viewed
+DevOps Engineer - Remote Work | REF#284448
+DevOps Engineer - Remote Work | REF#284448
+
+BairesDev
+
+Ahmedabad, Gujarat, India
+1 year ago
+Senior Site Reliability Engineer (US Hours)
+Senior Site Reliability Engineer (US Hours)
+
+Trading Technologies
+
+Greater Ahmedabad Area
+1 week ago
+Senior SRE Engineer - Azure
+Senior SRE Engineer - Azure
+
+Arrow Electronics
+
+Ahmedabad, Gujarat, India
+2 weeks ago
+Senior Site Reliability Engineer (US Hours)
+Senior Site Reliability Engineer (US Hours)
+
+Pacific Asia Tech Trade Inc
+
+Greater Ahmedabad Area
+3 months ago
+DevOps Engineer
+DevOps Engineer
+
+Krish TechnoLabs
+
+Ahmedabad, Gujarat, India
+1 week ago
+Senior Core Infrastructure Engineer
+Senior Core Infrastructure Engineer
+
+Oracle
+
+Ahmedabad, Gujarat, India
+2 weeks ago
+Cloud Platform & DevOps Manager
+Cloud Platform & DevOps Manager
+
+Codal
+
+Ahmedabad, Gujarat, India
+3 weeks ago
+Director of DevOps, SRE & Infrastructure
+Director of DevOps, SRE & Infrastructure
+
+Vagaro
+
+Ahmedabad, Gujarat, India
+9 hours ago
+DevOps Engineer (with Python)
+DevOps Engineer (with Python)
+
+Arbexor
+
+Ahmedabad, Gujarat, India
+4 months ago
+Director of DevOps, SRE and Infrastructure |(Azure)| 12+ Years | Ahmedabad
+Director of DevOps, SRE and Infrastructure |(Azure)| 12+ Years | Ahmedabad
+
+Vagaro
+
+Ahmedabad, Gujarat, India
+12 hours ago
+Similar Searches
+Computer Vision Engineer jobs
+19,404 open jobs
+Senior Quality Assurance Engineer jobs
+849 open jobs
+Network Architect jobs
+1,632 open jobs
+Senior Developer jobs
+25,860 open jobs
+Technical Recruiter jobs
+1,276 open jobs
+Sourcing Specialist jobs
+1,267 open jobs
+Delivery Manager jobs
+14,404 open jobs
+Quality Assurance Manager jobs
+2,433 open jobs
+Junior Business Analyst jobs
+5,908 open jobs
+Python Developer jobs
+12,759 open jobs
+Full Stack Engineer jobs
+4,505 open jobs
+Senior Software Engineer jobs
+18,207 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Armakuni
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

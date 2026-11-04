@@ -1,9 +1,9 @@
 {
-  "pid": 22848,
-  "started_at": "2026-11-04T01:13:32+02:00",
-  "heartbeat_at": "2026-11-04T02:27:47+02:00",
-  "phase": "run_finished",
-  "detail": "132 lower-yield targets and 0 jobs left for the next run",
-  "last_scrape_ok_at": "2026-11-04T02:27:37+02:00",
+  "pid": 45684,
+  "started_at": "2026-11-05T01:13:15+02:00",
+  "heartbeat_at": "2026-11-05T01:17:58+02:00",
+  "phase": "reviewing",
+  "detail": "Senior Cloud Engineer",
+  "last_scrape_ok_at": "2026-11-05T01:14:36+02:00",
   "last_error": null
 }

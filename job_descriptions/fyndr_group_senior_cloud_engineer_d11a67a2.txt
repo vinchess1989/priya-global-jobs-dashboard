@@ -1,0 +1,268 @@
+Title: Senior Cloud Engineer
+Company: Fyndr Group
+Location: Sydney, New South Wales, Australia
+URL: https://au.linkedin.com/jobs/view/senior-cloud-engineer-at-fyndr-group-4486347204
+Posted: 2026-11-05
+Deadline: Open until filled
+Reason: This Senior Cloud Engineer role in Sydney, Australia focuses heavily on CI/CD pipelines, release modernization, and infrastructure automation, aligning well with her DevOps, configuration management, and release engineering background.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Cloud Engineer
+Fyndr Group  Sydney, New South Wales, Australia
+18 hours ago   Be among the first 25 applicants
+  
+
+See who Fyndr Group has hired for this role
+
+Apply 
+Save
+
+Direct message the job poster from Fyndr Group
+
+Karim Benriassa
+Karim Benriassa
+Co-founder, Fyndr Group | Technology Recruitment | Software, Product, Data, AI | Sydney
+
+Senior Cloud Engineer
+
+
+
+
+AWS | Kubernetes / EKS | Terraform | SaaS Platform
+
+Take a live AWS platform from manual releases towards continuous delivery.
+Work with the Cloud Infrastructure Manager to standardise how each customer's environment is built and updated.
+Stay hands-on with Kubernetes and help run the platform you design.
+
+
+
+
+The Opportunity
+
+We're partnering with an Australian software company that runs a separate AWS environment for each enterprise customer. Those environments have been customised over time, and engineers still roll out releases by hand.
+
+
+
+
+The Cloud Infrastructure Manager has started building reusable infrastructure templates. You'll work alongside him to decide what can be standardised, what needs to stay specific to each customer and how to introduce changes safely while customers use the platform every day.
+
+
+
+
+What You Will Be Doing
+
+Build reusable infrastructure as code to provision, update and scale customer environments on AWS.
+Develop CI/CD pipelines with software engineers so tested changes can move reliably into production.
+Secure container builds and releases, from checking image sources and scanning for vulnerabilities to controlling which image reaches each environment.
+Run production Kubernetes workloads, manage upgrades and troubleshoot issues while keeping services available.
+Improve monitoring and recovery so the team can spot a failed release, stop the rollout and restore service.
+Strengthen AWS networking, access controls and secrets management across customer environments.
+
+
+
+
+What We Are Looking For
+
+Hands-on experience designing and running AWS infrastructure in production. A SaaS or product engineering background is particularly relevant.
+Experience improving how a live service is released, ideally moving manual deployments towards repeatable, automated delivery.
+Production Kubernetes experience, preferably on Amazon EKS, including upgrades, scaling or troubleshooting.
+Practical infrastructure-as-code experience with Terraform, CloudFormation or similar tooling.
+Strong Linux and scripting skills, with the judgement to diagnose production issues and make changes safely.
+
+
+
+
+Why Consider This Role?
+
+Influence the platform design while the modernisation is still at an early stage.
+See your work through from design and implementation to the releases customers rely on.
+Help grow the in-house cloud team's expertise and mentor engineers who will use what you build.
+
+
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Staffing and Recruiting
+  
+
+Referrals increase your chances of interviewing at Fyndr Group by 2x
+
+See who you know
+
+Get notified about new Cloud Engineer jobs in Sydney, New South Wales, Australia.
+
+Sign in to create job alert
+Jobs
+Digital Project Manager jobs
+Senior Cloud Engineer
+Similar jobs
+Senior Cloud Engineer- AWS
+Senior Cloud Engineer- AWS
+Versent
+Sydney, New South Wales, Australia
+2 days ago
+Senior Cloud Engineer
+Senior Cloud Engineer
+Ambition
+Sydney, New South Wales, Australia
+6 days ago
+*AWS Cloud Engineer*
+*AWS Cloud Engineer*
+Accenture Australia
+Sydney, New South Wales, Australia
+1 month ago
+Senior Azure Cloud Engineer
+Senior Azure Cloud Engineer
+Emmbr
+Sydney, New South Wales, Australia
+A$190,000 - A$220,000
+1 day ago
+Senior Cloud & Infrastructure Platform Engineer
+Senior Cloud & Infrastructure Platform Engineer
+Teachers Mutual Bank Limited
+Sydney, New South Wales, Australia
+3 weeks ago
+Cloud Engineer
+Cloud Engineer
+Macquarie Group
+Sydney, New South Wales, Australia
+2 days ago
+Show more jobs like this 
+People also viewed
+Senior Platform Engineer
+Senior Platform Engineer
+
+Latitude IT
+
+Greater Sydney Area
+6 days ago
+Cloud Integration Engineer
+Cloud Integration Engineer
+
+Ericsson
+
+Ryde, New South Wales, Australia
+2 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+CORTO
+
+Sydney, New South Wales, Australia
+3 weeks ago
+Cloud System Engineer
+Cloud System Engineer
+
+HammondCare
+
+St Leonards, New South Wales, Australia
+3 months ago
+Cloud Engineer (Temporary opportunity until 30th June 2028)
+Cloud Engineer (Temporary opportunity until 30th June 2028)
+
+Transport for NSW
+
+Macquarie Park, New South Wales, Australia
+3 weeks ago
+Founding Platform Engineer
+Founding Platform Engineer
+
+Skip Loans
+
+Sydney, New South Wales, Australia
+1 day ago
+Infrastructure Engineer
+Infrastructure Engineer
+
+Gilbert + Tobin
+
+Sydney, New South Wales, Australia
+1 week ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+
+Mitti by SafetyCulture
+
+Sydney, New South Wales, Australia
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+DeVision Recruitment
+
+Sydney, New South Wales, Australia
+A$150,000 - A$170,000
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+HUB24 Limited
+
+Sydney, New South Wales, Australia
+2 weeks ago
+Similar Searches
+Digital Project Manager jobs
+1,285 open jobs
+Cloud Architect jobs
+1,606 open jobs
+Junior Software Engineer jobs
+4,491 open jobs
+Information Technology Consultant jobs
+1,322 open jobs
+Full Stack Engineer jobs
+763 open jobs
+Project Manager jobs
+8,610 open jobs
+Junior Project Manager jobs
+2,382 open jobs
+Analyst jobs
+14,217 open jobs
+Solutions Consultant jobs
+2,329 open jobs
+Developer jobs
+5,939 open jobs
+Engineer jobs
+12,824 open jobs
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Fyndr Group
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
