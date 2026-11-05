@@ -1,9 +1,9 @@
 {
   "pid": 49720,
   "started_at": "2026-11-06T01:12:39+02:00",
-  "heartbeat_at": "2026-11-06T01:42:18+02:00",
+  "heartbeat_at": "2026-11-06T01:45:03+02:00",
   "phase": "reviewing",
-  "detail": "Security Document Writer",
-  "last_scrape_ok_at": "2026-11-06T01:40:36+02:00",
+  "detail": "Quality & Operational Compliance Leader",
+  "last_scrape_ok_at": "2026-11-06T01:44:01+02:00",
   "last_error": null
 }

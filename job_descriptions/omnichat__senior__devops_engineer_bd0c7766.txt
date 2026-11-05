@@ -1,0 +1,241 @@
+Title: (Senior) DevOps Engineer
+Company: Omnichat
+Location: Hong Kong, Hong Kong SAR
+URL: https://hk.linkedin.com/jobs/view/senior-devops-engineer-at-omnichat-4486700023
+Posted: 2026-11-06
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in DevOps, CI/CD pipeline management, and infrastructure automation, and it is located in a target country (Hong Kong).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+(Senior) DevOps Engineer
+Omnichat  Hong Kong, Hong Kong SAR
+15 hours ago   Be among the first 25 applicants
+  
+
+See who Omnichat has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Direct message the job poster from Omnichat
+
+Haze Chan
+Haze Chan
+Senior HR Business Partner 位於 Omnichat
+
+Company Highlights
+
+Omnichat is the Business Partner and WhatsApp Business Solution Provider of META.
+
+Founded in 2017, Omnichat specializes in centralizing customers’ conversations from WhatsApp Business Platform, Facebook Messenger, Instagram, LINE, WeChat and website live chat into a single platform to enhance marketing optimization.
+
+By leveraging marketing automation and AI, CRM integration and customer 360 persona mapping, Omnichat is committed to empowering brands to achieve digital transformation as well as delivering personalized shopping experience.
+
+The company has built a solid reputation in serving 5,000+ local and international retail and e-commerce brands.
+
+
+
+
+Job Description
+
+Design and maintain CI/CD pipelines to streamline software development and deployment processes, reflecting modern DevOps practices.
+Use Infrastructure-as-Code (IaC) principles to automate system configuration and scaling, improving operational efficiency.
+Work with cross-functional teams to uphold and implement security best practices, maintaining robust system integrity.
+Oversee cloud services and resources, leveraging DevOps methodologies for optimal efficiency and scalability.
+Monitor system performance and quickly troubleshoot any emerging issues to maintain high availability, a crucial aspect of DevOps.
+Partner with engineering teams to drive DevOps initiatives from design to production, including architecture decisions, evaluating new tools, and improving Developer Experience by removing workflow bottlenecks.
+Offer hands-on assistance during critical system incidents to ensure a quick resolution and minimal downtime.
+
+
+
+
+Job Requirements
+
+Bachelor’s degree in Computer Science, Information Technology, or a related field (or equivalent experience).
+At least 5 years of experience as a DevOps Engineer / Site Reliability Engineer or similar role in a high-traffic, high-availability environment.
+Strong understanding of Linux/Unix operating systems.
+Strong programming skills in languages such as Python, Shell Script, or Java.
+Hands-on experience with CI/CD tools (e.g., CircleCI, Bitbucket Pipeline or Jenkins) for automated software delivery.
+Experience with AWS cloud platform and containerization technologies (e.g. Docker, Kubernetes).
+Familiarity with monitoring tools and logging solutions (e.g., Datadog, AWS CloudWatch, Grafana).
+Proven ability to lead cross-functional projects, with strong communication and stakeholder management skills.
+Proven experience designing, implementing, and maintaining infrastructure using Terraform (or equivalent IaC tools such as AWS CloudFormation or Pulumi) in production environments.
+Strong problem-solving skills and ability to work under pressure.
+Candidates with more experience will be considered as Senior DevOps Engineer.
+
+
+
+
+Why You Should Join Us
+
+We work in a fun, collaborative open space where we encourage creativity and ideas flow freely.
+Flat structure environment, you will be able to work independently and present your own ideas.
+We provide guidance and mentorship to polish your business skills and entrepreneurship mindset.
+We are one of the standout tech startups in Hong Kong, targeting a huge opportunity in Asia.
+
+
+
+
+We offer attractive compensation packages to suitable candidates. Interested parties, please click "Apply Now" to submit your application including your present & expected salary.
+
+
+
+
+We are an equal opportunity employer and welcome applications from all qualified candidates. Personal data collected will be treated in strictest confidence and handled confidentially by authorized personnel for recruitment-related purposes
+
+Show more 
+Seniority level
+Associate
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Omnichat by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Senior DevOps Engineer
+Senior DevOps Engineer
+Qube Research & Technologies
+Hong Kong, Hong Kong SAR
+2 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Lane Crawford
+Southern District, Hong Kong SAR
+15 hours ago
+Senior DevOps Engineer (Trading Platform)
+Senior DevOps Engineer (Trading Platform)
+Crypto.com
+Hong Kong SAR
+4 days ago
+Financial Services - DevOps Production Operation Engineer - HKD600K - 900K
+Financial Services - DevOps Production Operation Engineer - HKD600K - 900K
+PrimePeak Group
+Hong Kong, Hong Kong SAR
+HK$600,000 - HK$900,000
+3 weeks ago
+Senior DevOps Engineer - Global Trading Firm - Hong Kong
+Senior DevOps Engineer - Global Trading Firm - Hong Kong
+NLS Executive Search
+Hong Kong, Hong Kong SAR
+3 weeks ago
+Core DevOps Engineer
+Core DevOps Engineer
+Selby Jennings
+Hong Kong, Hong Kong SAR
+1 week ago
+Show more jobs like this 
+People also viewed
+Cloud Engineer (Finance), 40-50K
+Cloud Engineer (Finance), 40-50K
+
+Hays
+
+Kowloon, Hong Kong SAR
+1 day ago
+Senior Cloud Services Engineer - Associate - Cloud Platform Services - 12month contract
+Senior Cloud Services Engineer - Associate - Cloud Platform Services - 12month contract
+
+Hong Kong Exchanges and Clearing Limited (HKEX)
+
+Hong Kong, Hong Kong SAR
+2 days ago
+Technical Lead, DevOps & Platform - Start Up
+Technical Lead, DevOps & Platform - Start Up
+
+ES Corporate Functions
+
+Hong Kong, Hong Kong SAR
+1 week ago
+SRE
+SRE
+
+Peak3
+
+Hong Kong, Hong Kong SAR
+2 weeks ago
+DevSecOps AI - Hong Kong
+DevSecOps AI - Hong Kong
+
+Intact
+
+Hong Kong, Hong Kong SAR
+1 day ago
+Market Access Devops Support - Global Market Activities
+Market Access Devops Support - Global Market Activities
+
+Societe Generale
+
+Hong Kong, Hong Kong SAR
+2 weeks ago
+Production Engineer
+Production Engineer
+
+Anchorpoint
+
+Hong Kong SAR
+3 weeks ago
+IT Infrastructure & DevOps Specialist
+IT Infrastructure & DevOps Specialist
+
+Crystal International
+
+Kwun Tong District, Hong Kong SAR
+2 weeks ago
+Manager, Platform Engineering
+Manager, Platform Engineering
+
+Bupa Hong Kong
+
+Hong Kong, Hong Kong SAR
+1 week ago
+Production Engineer – Trading Technology - Tier One Buy Side Firm
+Production Engineer – Trading Technology - Tier One Buy Side Firm
+
+BAH Partners
+
+Hong Kong, Hong Kong SAR
+1 day ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+You’re signed out
+Sign in for the full experience.
+Sign in Join now

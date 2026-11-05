@@ -1,0 +1,251 @@
+Title: DevOps Engineer
+Company: Leo Technology Limited
+Location: London, UK
+URL: https://www.reed.co.uk/jobs/devops-engineer/57534899
+Posted: 2026-11-05
+Deadline: N/A
+Reason: The role aligns with the candidate's expertise in DevOps, CI/CD, and compliance/governance, and it is based in the UK, which is a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Jobs
+Courses
+Career advice
+Recruiting? Post a job
+Register CV
+Saved jobs
+Sign in
+What
+Where
+Search jobs
+Browse jobs
+Search results
+Home
+Information Technology
+Engineer
+Dev Ops Engineer
+Job details
+NewEasy Apply
+DevOps Engineer
+Yesterday by Leo Technology Limited
+£75,000 - £95,000 per annum
+London
+Permanent, full-time
+Skills: 
+Kubernetes, DevOps Engineering
+ + 8 more
+Apply now
+Save
+Full job description
+
+Job Title: DevOps Engineer / Infrastructure Specialist
+
+Tech stack: GCP, Kubernetes, Docker, Chef, Terraform
+
+Location: Remote first with quarterly trips to London
+
+
+
+
+The Opportunity:
+
+
+
+
+We're working with a growing SaaS business looking to hire an Infrastructure Specialist to join its Software Engineering team.
+
+
+
+
+This is a hands-on role where you'll play a key part in maintaining the security, availability and resilience of core systems. With a strong focus on GCP, you'll take ownership of designing, deploying and maintaining cloud infrastructure, while ensuring systems meet security best practices and compliance standards.
+
+
+
+
+This opportunity would suit an experienced Infrastructure, Systems or DevOps Engineer who has solid commercial experience and is ready to take greater ownership of infrastructure operations, security and automation.
+
+
+
+
+You'll work closely with the Site Reliability Engineering and Compliance teams, helping to improve system performance, strengthen security and support the ongoing development of infrastructure and internal tooling.
+
+
+
+
+Key Responsibilities:
+
+
+
+
+Cloud Infrastructure: Design, deploy and manage secure infrastructure, with a particular focus on Google Cloud Platform (GCP).
+Systems Administration: Maintain and support Linux environments, alongside MySQL databases, Apache web servers and PHP applications.
+Infrastructure as Code: Deploy and manage infrastructure using Terraform and configuration management tools such as Chef, ensuring configurations follow security best practices.
+Security & Vulnerability Management: Monitor systems for potential threats, carry out vulnerability assessments, apply patches and support security remediation.
+Compliance & Governance: Work alongside compliance teams to maintain SOC 2 alignment, support audits and ensure security documentation and procedures remain up to date.
+SRE Collaboration: Partner with the Site Reliability Engineering team to embed security practices, resilience and disaster recovery planning into infrastructure operations.
+CI/CD & Automation: Support the development and rollout of CI/CD pipelines, automated workflows and internal tooling to improve operational efficiency and system supportability.
+
+
+
+
+What We're Looking For:
+
+
+
+
+Commercial experience in an Infrastructure, Systems Administration or DevOps Engineering role.
+Strong hands-on experience managing and maintaining Google Cloud Platform (GCP) environments.
+Solid Linux administration skills.
+Experience deploying and managing infrastructure using Terraform.
+Experience with configuration management tools such as Chef.
+Practical experience administering and optimising MySQL databases, Apache web servers and PHP/php-fpm environments.
+Working knowledge of system monitoring tools and CI workflows.
+Familiarity with security frameworks and compliance standards, ideally SOC 2.
+
+
+
+
+Important Notice:
+
+
+
+
+We are expecting a high volume of applications for this role and while we do our best to respond to as many applicants as we can, it isn't always possible to get back to everyone. With this in mind, if you've not heard from a member of our team within 2 weeks of submitting your CV, please assume that your application has not been successful on this occasion.
+
+
+
+
+Both Leo Technology and the companies we partner with are incredibly passionate about building environments where people from all backgrounds and walks of life are embraced. Our mission is to welcome everyone and create inclusive teams. We celebrate difference and encourage people from all backgrounds to apply.
+
+
+
+
+Leo Technology Limited is acting as an Employment Agency in relation to this vacancy. To understand more about what we do with your data please review our privacy policy in the privacy section of the Leo Technology website.
+
+Skills
+Amazon Web Services (AWS)Automation & Control SystemsCloud Services & InfrastructureContinuous IntegrationDevOps EngineeringDocker ContainerizationInfrastructure ManagementKubernetesPython ProgrammingTerraform (Infrastructure as Code)
+Share
+Hide
+Add skills to your profile and be found by recruiters.
+Create profile
+Similar Jobs
+Easy Apply
+DevOps Engineer
+7 October by Hays Specialist Recruitment Limited
+£400 - £425 per day
+London
+Contract, full-time
+Easy Apply
+DevOps Engineer
+14 October by FLTalent
+Competitive salary
+London
+Permanent, full-time
+Easy Apply
+DevOps Engineer
+26 October by Sphere Digital Recruitment
+£400 - £500 per day
+London
+Contract, full-time
+DevOps Engineer (C#)
+6 October by Morgan McKinley
+Salary negotiable
+London
+Permanent, full-time
+Easy Apply
+Principal DevOps Engineer- SC Cleared
+16 October by Searchability NS&D
+£95,000 - £110,000 per annum, negotiable
+London
+Permanent, full-time
+Ending Soon
+DevOps / GenAI Engineer
+25 September by Tenth Revolution Group
+£400 - £450 per day
+London
+Contract, full-time
+See more jobs like this
+Not what you are looking for?Data Engineer jobsCloud Engineer jobsDevops jobsKubernetes Engineer jobsAzure Devops Engineer jobs
+Reference: 57534899
+Please note that Reed.co.uk will only ask for passport or driving licence details where necessary and through official, secure channels.
+Report this job 
+Create alerts for similar jobs
+DevOps Engineer
+London
+Edit
+Email address
+Create alert
+By creating an alert, you agree to the Terms and conditions applicable to our service and acknowledge that your personal data will be used in accordance with our Privacy policy and you will receive emails and communications about jobs and career related topics.
+Recommended courses
+DevOps Engineer – Classroom
+Classroom
+£2,000
+HashiCorp Certified: Terraform Associate Masterclass
+Online, Self-paced
+£15
+Red Hat OpenShift With Jenkins: DevOps For Beginners
+Online, Self-paced
+£15
+View Development courses
+Posted by Leo Technology Limited
+View all jobs and profile
+JOBS
+Contact us
+Job search
+Recruiter directory
+Remote jobs
+Browse jobs
+Browse locations
+Popular searches
+Career advice
+Tax calculator
+Average salary checker
+Help
+Contact a REED office
+Sitemap
+RECRUITER
+Recruiter site
+Post a job
+CV Search
+Recruitment agencies
+Recruiter Advice
+COURSES
+Help
+Contact us
+Find a course
+View all subjects
+Discount courses
+Free courses
+Awarding body directory
+Career guides
+Advertise a course
+Courses sitemap
+MORE FROM Reed.co.uk
+About us
+Careers at Reed.co.uk
+Press office
+Corporate governance
+Modern slavery statement
+REED
+Tempzone: timesheets & holiday
+Authorise timesheets
+Reed Group Services
+Reed Specialist Recruitment
+Reed Learning
+Reed in Partnership
+Careers with REED
+James Reed - Official Site
+Podcast - James Reed: all about business
+ESG & sustainability
+Learn how Reed is leading the way in philanthropy
+Introducing our new podcast
+New
+
+James Reed: all about business
+
+Listen here
+Manage Preferences,Security, Privacy, Terms & Conditions
+
+COPYRIGHT © Reed.co.uk 2026
