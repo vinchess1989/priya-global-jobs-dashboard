@@ -1,0 +1,271 @@
+Title: Manager, Data and AI - AI Systems Integrations and Agentic technical owner
+Company: Air Canada
+Location: Toronto, Ontario, Canada
+URL: https://ca.linkedin.com/jobs/view/manager-data-and-ai-ai-systems-integrations-and-agentic-technical-owner-at-air-canada-4485873375
+Posted: 2026-11-06
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in release management, CI/CD, and quality gatekeeping within regulated industries, and it is located in a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Manager, Data and AI - AI Systems Integrations and Agentic technical owner
+Air Canada  Toronto, Ontario, Canada
+46 minutes ago   Be among the first 25 applicants
+  
+
+See who Air Canada has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Being part of Air Canada is to become part of an iconic Canadian symbol, recently ranked the best Airline in North America. Let your career take flight by joining our diverse and vibrant team at the leading edge of passenger aviation.
+
+The Manager, Data & AI leads the technical integration, deployment and production-readiness capabilities required to operationalize AI products, models, agents and supporting data pipelines across Air Canada’s enterprise environments. The role ensures that AI solutions move from approved architecture and engineering designs into development, test and production in a secure, controlled, repeatable and increasingly automated manner. The Manager leads AI Systems Integrators and Deployment Specialists, establishes reusable integration and deployment patterns, and works across AI Engineering, Data Engineering, Platform Engineering, Architecture, Cybersecurity, Cloud Operations and DataOps to deliver supportable production outcomes. The role balances engineering velocity with enterprise governance, operational stability, traceability and risk-based controls.
+
+This position may be located in Montreal or Toronto.
+
+Responsibilities
+
+
+Lead the AI Systems Integration capability and manage the specialists responsible for moving AI solutions from approved designs into enterprise environments.
+Ensure AI products, models, agents, APIs and supporting data pipelines are properly integrated with enterprise platforms and upstream and downstream systems.
+Oversee deployment and configuration of AI workloads across development, test and production environments.
+Drive approved infrastructure-as-code, CI/CD, MLOps and LLMOps patterns, including application and model promotion, versioning, rollback and environment management.
+Establish reusable integration patterns, deployment components, templates and automation to reduce solution-specific engineering effort and accelerate adoption.
+Partner with AI Product Managers, Data Scientists, AI Engineers, Solution and Enterprise Architects, Cybersecurity, Cloud Operations, Platform Engineering and DataOps to translate designs into production-ready implementations.
+Establish and enforce production-readiness criteria, including monitoring, logging, alerting, runbooks, support documentation, operational ownership and recovery procedures.
+Ensure integrations and deployments satisfy Architecture, Cybersecurity, Infrastructure, Data Governance, Privacy and operational requirements.
+Implement risk-based controls for solutions involving sensitive data, AI models, autonomous agents or material business decisions, including appropriate human approval points.
+Lead technical validation, go-live readiness, post-deployment verification and orderly transition to steady-state operational support.
+Define and track measures for deployment success, integration quality, automation, reliability, rework and operational readiness.
+Identify recurring integration and deployment issues and improve engineering practices, standards and reusable tooling upstream.
+Manage demand, priorities, capacity, dependencies and delivery commitments for the AI Systems Integration function.
+Lead, coach and develop a high-performing technical team, establish clear accountabilities and support career growth.
+Provide leadership during complex or high-risk implementations and act as an escalation point for integration and deployment issues.
+Manage relationships with external technology partners and vendors that complement internal delivery capabilities.
+Maintain current knowledge of AI, cloud, integration, deployment and production-engineering practices and assess their applicability to Air Canada.
+
+
+Qualifications
+
+
+University degree in Computer Science, Engineering, Information Technology or a related discipline, and/or equivalent relevant professional experience.
+7+ years of progressive technology experience, including 3+ years leading technical teams in a large, complex enterprise.
+Demonstrated experience in systems integration, cloud engineering, platform engineering, DevOps, software delivery or production operations.
+Strong understanding of CI/CD, Git-based source control, branching strategies, automated testing, infrastructure as code, deployment pipelines and environment promotion.
+Working knowledge of modern Data and AI ecosystems, ideally including Azure, Snowflake, Databricks, Azure DevOps or GitHub, orchestration platforms and AI/ML deployment tooling.
+Understanding of MLOps and LLMOps concepts, model and application deployment, versioning, observability and production lifecycle management.
+Experience integrating APIs, data pipelines, cloud services, identity and access controls, enterprise applications and event-driven components.
+Strong knowledge of enterprise Architecture, Cybersecurity, Change, Release and IT Service Management practices.
+Demonstrated ability to balance governance, production risk and controls with delivery velocity and automation.
+Proven people leadership, stakeholder management, communication, decision-making and problem-solving capabilities.
+Demonstrate punctuality and dependability to support overall team success in a fast-paced environment.
+Experience in aviation, transportation or another highly regulated, operationally critical industry is an asset.
+
+
+Conditions Of Employment
+
+Candidates must be eligible to work in the country of interest at the time any offer of employment is made and are responsible for obtaining any required work permits, visas, or other authorizations necessary for employment. Prior to their start date, candidates will also need to provide proof of their eligibility to work in the country of interest.
+
+Linguistic Requirements
+
+Based on equal qualifications, preference will be given to bilingual candidates.
+
+Diversity and Inclusion
+
+Air Canada is strongly committed to Diversity and Inclusion and aims to create a healthy, accessible and rewarding work environment which highlights employees’ unique contributions to our company’s success.
+
+As an equal opportunity employer, we welcome applications from all to help us build a diverse workforce which reflects the diversity of our customers, and communities, in which we live and serve.
+
+Air Canada thanks all candidates for their interest; however only those selected to continue in the process will be contacted.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Airlines and Aviation
+  
+
+Referrals increase your chances of interviewing at Air Canada by 2x
+
+See who you know
+
+Get notified about new Manager jobs in Toronto, Ontario, Canada.
+
+Sign in to create job alert
+Jobs
+Architectural Sales Representative jobs
+Manager, Data and AI - AI Systems Integrations and Agentic technical owner
+Similar jobs
+Manager, AI Platforms (Permanent)
+Manager, AI Platforms (Permanent)
+CoreFactor
+Toronto, Ontario, Canada
+6 days ago
+Manager, AI & Data Intelligence
+Manager, AI & Data Intelligence
+Pacific Smoke International Inc.
+Markham, Ontario, Canada
+5 months ago
+Manager, AI Delivery
+Manager, AI Delivery
+QuadReal Property Group
+Toronto, Ontario, Canada
+1 week ago
+Senior Director, AI and Data & Integration Platforms
+Senior Director, AI and Data & Integration Platforms
+RBC
+Mississauga, Ontario, Canada
+11 hours ago
+Forward Deployed AI Engineer - Senior Manager
+Forward Deployed AI Engineer - Senior Manager
+Accenture
+Toronto, Ontario, Canada
+1 day ago
+Technical Lead AI Delivery
+Technical Lead AI Delivery
+TechDoQuest
+Brampton, Ontario, Canada
+1 week ago
+Show more jobs like this 
+People also viewed
+Technical VP - AI Data Platform
+Technical VP - AI Data Platform
+
+Huawei Canada
+
+Markham, Ontario, Canada
+3 months ago
+Senior Manager, AI Engineering
+Senior Manager, AI Engineering
+
+Thomson Reuters
+
+Toronto, Ontario, Canada
+1 week ago
+Enterprise Architect – AI and Data
+Enterprise Architect – AI and Data
+
+BMO
+
+Toronto, Ontario, Canada
+6 days ago
+Program Manager AI Activation
+Program Manager AI Activation
+
+Canadian Tire Corporation
+
+Toronto, Ontario, Canada
+2 weeks ago
+Senior Manager, Data Engineer, Applied AI Data Ingestion & Integration
+Senior Manager, Data Engineer, Applied AI Data Ingestion & Integration
+
+BMO
+
+Toronto, Ontario, Canada
+2 weeks ago
+Principal Consultant
+Principal Consultant
+
+Lightworks
+
+Toronto, Ontario, Canada
+1 month ago
+Lead Agentic AI Solutions Architect
+Lead Agentic AI Solutions Architect
+
+McKesson
+
+Mississauga, Ontario, Canada
+2 weeks ago
+Manager - Team Lead/Product Owner- AI, Data & Analytics - AIDA (Toronto/Calgary)
+Manager - Team Lead/Product Owner- AI, Data & Analytics - AIDA (Toronto/Calgary)
+
+Deloitte
+
+Toronto, Ontario, Canada
+2 weeks ago
+AI Data Architect
+AI Data Architect
+
+7shifts
+
+Toronto, Ontario, Canada
+CA$160,000 - CA$200,000
+2 days ago
+Engineering Manager, AI
+Engineering Manager, AI
+
+Thomson Reuters
+
+Toronto, Ontario, Canada
+2 weeks ago
+Similar Searches
+Architectural Sales Representative jobs
+296 open jobs
+Workforce Manager jobs
+1,719 open jobs
+Director of Services jobs
+2,960 open jobs
+Senior Engineering Project Manager jobs
+2,216 open jobs
+Sustainability Manager jobs
+641 open jobs
+Fraud Analyst jobs
+469 open jobs
+Pharmacist jobs
+2,606 open jobs
+System Administrator jobs
+2,169 open jobs
+Computer Administrator jobs
+15,116 open jobs
+Vice President jobs
+7,759 open jobs
+Project Manager jobs
+15,352 open jobs
+Analyst jobs
+36,938 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Air Canada
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

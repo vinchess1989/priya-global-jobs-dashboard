@@ -1,0 +1,322 @@
+Title: Manager, Special Operations
+Company: Factor_
+Location: Toronto, Ontario, Canada
+URL: https://ca.linkedin.com/jobs/view/manager-special-operations-at-factor-4477436147
+Posted: 2026-10-31
+Deadline: Open until filled
+Reason: The role aligns with the candidate's background in release management, systems integration, and documentation, and it is located in Canada, which is a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Manager, Special Operations
+Factor_  Toronto, Ontario, Canada
+6 days ago  104 applicants
+  
+
+See who Factor_ has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Location: Hybrid (2 days HQ, 1 day Site, 2 days WFH)
+
+
+HQ: 110 Spadina Ave, Toronto
+Site: 3520 Laird Road, Mississauga
+
+
+Shift: Monday to Friday, 9:00 AM to 5:00 PM (may vary based on business needs)
+
+S'more About The Team
+
+We are seeking a highly skilled and versatile Manager (Ops Tech), Special Operations, to join Factor (factormeals.ca), a healthy, ready-to-heat meal delivery service under HelloFresh. This role owns the operations technology roadmap for Factor Canada, bridging the gap between operations, data engineering, and global platform teams. You will lead the design, integration, and deployment of systems that power our production, warehousing, procurement, and quality functions across multiple sites. Reporting to the General Manager, you will operate as the connective tissue between floor-level operations and the technical teams that build and maintain our systems.
+
+Lettuce Share What This Role Will Be Responsible For
+
+Platform Migrations & Go-Live Management
+
+
+Lead end-to-end platform migrations (e.g. legacy systems to modern platforms), including dual-maintenance strategies, deprecation timelines, cutover risk assessments, and go-live communications.
+Manage phased rollouts across functional areas of production, coordinating with global development teams for requirements reviews and sprint prioritization.
+
+
+Systems Architecture & Data Source Design
+
+
+Own the data architecture strategy for operational tools - mapping data flows across SKU master data management, recipe management, Warehouse Management Systems (WMS), and production tracking systems. Evaluate integration approaches and design future-state architectures that don't disrupt downstream tools during transitions.
+Compile and maintain data source requirements documentation, including source-to-target mapping and ingestion cadences.
+
+
+Operational Tool Development & Ownership
+
+
+Own the lifecycle of production floor tools - from requirements gathering and process flow mapping through development coordination, training material creation, and deployment.
+
+
+Cross-Functional Stakeholder & Vendor Coordination
+
+
+Serve as the primary liaison between local operations and global platform teams - translating operational needs into technical requirements and managing prioritization across competing roadmaps.
+Lead data inconsistency investigations - root-causing discrepancies between reporting systems, reviewing automation logic, and coordinating fixes with data engineering.
+
+
+Multi-Site Operations & New Site Launches
+
+
+Ensure systems parity across production facilities - replicating all systems, tools, and documentation, and validating readiness before go-live.
+
+
+Roadmap Management
+
+
+Define and maintain the ops tech roadmap aligned to business Objectives and Key Results (OKRs), sequencing projects based on dependencies and critical path. Run regular steering calls to communicate status and manage risk.
+Other duties assigned
+
+
+Sound a-peeling? Here's what we're looking for:
+
+
+Bachelor's degree in business, engineering, supply chain, computer science, or a similar field
+3–5 years of experience in operations technology, systems integration, tech consulting, or manufacturing/supply chain operations
+Demonstrated experience writing functional/technical specifications and leading them through development teams
+Track record of leading platform migrations or system go-lives in production environments with low tolerance for downtime
+Strong data literacy - comfortable mapping data flows across systems, reviewing data source structures, and identifying integration patterns (you don't need to write code, but you need to understand schemas and pipelines)
+Excellent stakeholder management - able to translate between floor supervisors and software engineers, and escalate effectively when blocked
+Entrepreneurial with an ownership mindset: you thrive in small teams where ambiguity is the norm
+Strong written communication - your project updates, go-live comms, and stakeholder messages are clear, structured, and drive action
+Quantitative and analytical: expertise with spreadsheet tools, data visualization, and comfort reviewing data pipelines and dashboards
+
+
+Nice to have
+
+
+Experience with Warehouse Management Systems including rollout and floor training
+Familiarity with cloud data warehouses (Snowflake, BigQuery) and orchestration tools (Airflow)
+Experience with food manufacturing traceability systems (CCP, FIFO, lot tracking)
+Background in food manufacturing, meal kit, or CPG operations
+Experience with agile sprint planning and working with distributed development teams
+
+
+Let’s cut to the cheese, this is why you'll love it here:
+
+
+Box Discount - Amazing discounts on 1 box per week! 75% discount on weekly HelloFresh and Chefs Plate meal kits AND 50% off weekly Factor meal box.
+Health & Wellness - Health & Dental benefits from day 1, a Health Spending Account, unlimited access to the Headspace app to meet your self-care needs, and 25% discount on GoodLife fitness memberships!
+RRSP Matching - Competitive RRSP matching program offered
+Vacation & PTO - Time off is also an important part of self-care! We offer generous vacation and PTO to help you create a good work-life balance.
+Family Benefits - A parental leave top-up program for expectant parents.
+Growth & Development - We support your career progression, provide development opportunities, and invest in your continued learning through our organization wide L&D fund.
+Work Hard & Have Fun - From team socials to engaging company days, you’ll have plenty of opportunity to experience the fun!
+Diversity & Inclusion Initiatives - With impactful ERG’s like FreshPride, Women Empowered and LIMES, we are committed to our diversity, equity & inclusion efforts.
+Food Puns - this one is kind of a big dill if you haven’t already noticed. We even have some punny meeting room names!
+
+
+Working Conditions
+
+It’s no surprise that as a food company, we use many ingredients that may be considered common allergens (i.e. peanuts, tree nuts, milk, etc.). Whether this role is based out of our headquarters or one of our distribution centers, it is possible that you may be exposed to such allergens in this role. If you have any concerns with being exposed to any particular food ingredients, including meat, please disclose this during the hiring process.
+
+If this sounds like you, please click the "Apply Now" button. If this role doesn't quite match what you're looking for, but you'd like to know more about joining the HelloFresh team, please visit our Jobs page to view our other vacancies. We'd love to hear from you!
+
+HelloFresh Canada uses AI-integrated technology to help us process and evaluate applications more efficiently. This includes tools that screen and assess candidate qualifications based on the requirements for this role. While these tools assist our workflow, all final selection decisions are made by our hiring team.
+
+This is a posting for an existing vacancy. We are actively seeking to fill this position.
+
+#factor
+
+#JD1008
+
+Toronto, ON Pay Range
+
+$88,200—$98,200 CAD
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Consumer Services
+  
+
+Referrals increase your chances of interviewing at Factor_ by 2x
+
+See who you know
+
+Get notified about new Manager jobs in Toronto, Ontario, Canada.
+
+Sign in to create job alert
+Jobs
+President jobs
+Manager, Special Operations
+Similar jobs
+Senior Operations Manager, Home Safety
+Senior Operations Manager, Home Safety
+Opendoor
+Toronto, Ontario, Canada
+1 week ago
+Manager - Asset Protection & Global Fulfillment, Global Security Operations Center (GSOC)
+Manager - Asset Protection & Global Fulfillment, Global Security Operations Center (GSOC)
+lululemon
+Brampton, Ontario, Canada
+1 day ago
+Senior Manager - Asset Protection & Safety | Global Fulfillment | Eastern Distribution Centres
+Senior Manager - Asset Protection & Safety | Global Fulfillment | Eastern Distribution Centres
+lululemon
+Brampton, Ontario, Canada
+1 week ago
+Sr. Manager, Business Resilience — Response Operations (Remote)
+Sr. Manager, Business Resilience — Response Operations (Remote)
+CrowdStrike
+Greater Toronto Area, Canada
+2 days ago
+Senior Manager, Regional Control
+Senior Manager, Regional Control
+Metrolinx
+Greater Toronto Area, Canada
+$140,764 - $198,828
+1 day ago
+Manager, Customer Protection
+Manager, Customer Protection
+Metrolinx
+Greater Toronto Area, Canada
+$110,854 - $153,872
+1 day ago
+Show more jobs like this 
+People also viewed
+Manager of Business Operations
+Manager of Business Operations
+
+Design Electronics
+
+Niagara Falls, Ontario, Canada
+2 weeks ago
+Sr Manager, Electronics Initiatives
+Sr Manager, Electronics Initiatives
+
+eBay
+
+Toronto, Ontario, Canada
+26 minutes ago
+Manager, Operational Foundations
+Manager, Operational Foundations
+
+Thumbtack
+
+Toronto, Ontario, Canada
+23 hours ago
+Division Chief, Inspection & Enforcement
+Division Chief, Inspection & Enforcement
+
+City of Toronto
+
+Toronto, Ontario, Canada
+7 hours ago
+Manager, OCC
+Manager, OCC
+
+Flair Airlines
+
+Toronto, Ontario, Canada
+1 week ago
+Manager, Fraud Operations
+Manager, Fraud Operations
+
+Ramp
+
+Greater Toronto Area, Canada
+1 day ago
+Manager II, District - Collection
+Manager II, District - Collection
+
+WM
+
+Brampton, Ontario, Canada
+1 day ago
+Senior Manager, Operations Excellence
+Senior Manager, Operations Excellence
+
+Oxford Properties Group
+
+Toronto, Ontario, Canada
+1 day ago
+Division Chief, Public Education and Professional Development
+Division Chief, Public Education and Professional Development
+
+City of Toronto
+
+Toronto, Ontario, Canada
+7 hours ago
+M&A Operations, Senior Manager
+M&A Operations, Senior Manager
+
+PwC Canada
+
+Toronto, Ontario, Canada
+2 weeks ago
+Similar Searches
+President jobs
+4,664 open jobs
+Vice President jobs
+7,759 open jobs
+Senior Exploration Geologist jobs
+13 open jobs
+Residency Coordinator jobs
+2,855 open jobs
+Customer Success Manager jobs
+5,790 open jobs
+Senior Brand Manager jobs
+1,730 open jobs
+Commercial Manager jobs
+4,360 open jobs
+Commercial Property Manager jobs
+293 open jobs
+Director jobs
+55,280 open jobs
+Store Director jobs
+2,704 open jobs
+Sales Manager jobs
+11,384 open jobs
+Indirect Tax Manager jobs
+373 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Factor_
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

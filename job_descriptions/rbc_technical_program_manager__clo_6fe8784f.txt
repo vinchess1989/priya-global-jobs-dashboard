@@ -1,0 +1,337 @@
+Title: Technical Program Manager (Cloud)
+Company: RBC
+Location: Toronto, Ontario, Canada
+URL: https://ca.linkedin.com/jobs/view/technical-program-manager-cloud-at-rbc-4488042873
+Posted: 2026-08-19
+Deadline: 2026-11-26
+Reason: The role aligns perfectly with the candidate's extensive experience in release management, CI/CD, and cross-team coordination within regulated environments, and it is located in a target country (Canada).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Technical Program Manager (Cloud)
+RBC  Toronto, Ontario, Canada
+1 hour ago   Be among the first 25 applicants
+  
+
+See who RBC has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Job Description
+
+What is the opportunity?
+
+We are looking for a Lead Technical Program Manager (Cloud) to own the delivery of complex, cross-team cloud programs, including migrations, platform and landing zone builds, environment and capacity readiness, and the modernization of on-prem infrastructure.
+
+You will be accountable for the outcome: the plan is complete, the dependencies are visible, the delivery path to production is understood and sequenced, and leadership knows where things stand. You will partner with engineers and architects who own the technical decisions and designs – to make sure those decisions get made, the right people are in the room, and the work lands on time and safely in a regulated environment.
+
+The successful candidate will bring technical understanding to follow an architecture diagram, know what a change has to pass through on its way to production, ask the right questions of an estimate, and set go/no-go criteria with technical leads. Scaled agile delivery and AI-enabled ways of working are table-stakes and foundational for success.
+
+What will you do?
+
+
+Program Leadership and Delivery: Own end-to-end delivery of multiple concurrent hybrid cloud programs across AWS, Azure and on-prem, from intake and business case through to release and closure. Translate strategy into measurable outcomes, and bring trade-offs on scope, timelines, capacity and budget to senior leadership.
+Resource and Cost Management: Manage the resource program allocation with finance, product and engineering partners, including the cost impact of delivery decisions.
+Technical Dependencies and Path to Production: Build and maintain a working understanding of the main components of a cloud platform (compute, networking, storage, Kubernetes/Openshift, databases), and identify where the design creates risk to the plan. Map the full route from commit to production, and plan around the lead time of each step with clear ownership and delivery targets.
+Cross-Team Dependency Management: Identify dependencies between teams, such as namespaces, landing zones, network connections, certificates or vendor and security reviews, and place them on the plan.
+Estimates and Readiness: Question engineers on what each estimate includes, and identify gaps such as environment provisioning, access requests, pipeline changes, security sign-off, integration testing, observability or rollout work.
+Release Strategy and Go/No-Go: Understand release approaches such as blue-green, canary and phased rollout, along with rollback. Set go/no-go criteria with technical leads, and lead the readiness decision.
+Technical Decision Ownership: Ensure architecture and design decisions are raised early, owned by the engineers and architects who make them, and made in time to protect the schedule.
+Reporting: Manage RAID logs and delivery health metrics (predictability, throughput and cycle time), ensure they are up to date, and provide clear status reporting to steering committees and senior stakeholders.
+Work with security, risk, architecture and compliance teams to ensure deliverables meet regulatory, resiliency and control requirements, with no surprises late in the schedule.
+
+
+What do you need to succeed?
+
+Must have:
+
+
+7+ years of experience leading technical programs, with a proven ability to identify, track and mitigate risks, dependencies and blockers proactively.
+Bachelor's degree in Computer Science, Engineering or a related technical field.
+Experience delivering cloud, infrastructure or platform programs into production, such as migrations, platform builds or environment readiness.
+Deep understanding of how cloud infrastructure works across AWS, Azure and on-prem, including key platform components and how each creates dependencies in a plan.
+Strong understanding of the path to production, including CI/CD, infrastructure as code (such as Terraform, CloudFormation, ARM/Bicep or Ansible), security scans and change approval. Able to challenge estimates that appear incomplete during refinement and planning.
+Able to explain lift-and-shift, re-platforming and re-architecting, and link each option to cost, timeline and risk. Understands blue-green, canary and phased releases, rollback and go/no-go readiness.
+Plans security and compliance into delivery from the outset, including IAM, network segmentation, encryption and audit requirements.
+Experienced in executive reporting, using delivery metrics to drive decisions and influence senior executives and technical leaders.
+Proficient in Jira and Confluence for project tracking, workflow management and reporting
+
+
+Nice to have:
+
+
+Prior banking related experience
+Experience leading cultural or organizational change in engineering organizations.
+Certifications such as PMP, PgMP, SAFe
+Familiarity with GitHub Copilot, Windsurf, Visual Studio Code or similar AI-assisted platforms
+
+
+What’s in it for you?
+
+We thrive on the challenge to be our best, progressive thinking to keep growing, and working together to deliver trusted advice to help our clients thrive and communities prosper. We care about each other, reaching our potential, making a difference to our communities, and achieving success that is mutual
+
+
+A comprehensive Total Rewards Program including bonuses and flexible benefits, competitive compensation, commissions, and stock where applicable
+Leaders who support your development through coaching and managing opportunities
+Ability to make a difference and lasting impact.
+Work in a dynamic, collaborative, progressive, and high-performing team.
+Opportunities to do challenging work
+
+
+#TECHPJ
+
+Job Skills
+
+Artificial Intelligence Techniques, Cloud DevOps, Cloud Infrastructure, IT Program Management, Planning, Strategic Objectives
+
+Additional Job Details
+
+Address:
+
+RBC CENTRE, 155 WELLINGTON ST W:TORONTO
+
+City:
+
+Toronto
+
+Country:
+
+Canada
+
+Work hours/week:
+
+37.5
+
+Employment Type:
+
+Full time
+
+Platform:
+
+TECHNOLOGY AND OPERATIONS
+
+Job Type:
+
+Regular
+
+Pay Type:
+
+Salaried
+
+Posted Date:
+
+2026-08-19
+
+Application Deadline:
+
+2026-11-26
+
+Note: Applications will be accepted until 11:59 PM on the day prior to the application deadline date above
+
+Our Employment Opportunities
+
+At RBC, we are guided by living shared values of Client First, Integrity, Collaboration, Respect and Excellence and winning together as One RBC. We believe an inclusive workplace that has diverse perspectives is core to our continued growth as one of the largest and most successful banks in the world. Maintaining a workplace where our employees feel supported to perform at their best, effectively collaborate, drive innovation, and grow professionally helps to bring our Purpose to life and create value for our clients and communities. RBC strives to deliver this through policies and programs intended to foster a workplace based on respect, belonging and opportunity for all.
+
+Join our Talent Community
+
+Stay in-the-know about great career opportunities at RBC. Sign up and get customized info on our latest jobs, career tips and Recruitment events that matter to you.
+
+Expand your limits and create a new future together at RBC. Find out how we use our passion and drive to enhance the well-being of our clients and communities at jobs.rbc.com</a/span>
+
+RBC is presently inviting candidates to apply for this existing vacancy. Applying to this posting allows you to express your interest in this current career opportunity at RBC. Qualified applicants may be contacted to review their resume in more detail.
+
+
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Industries
+Banking and Financial Services
+  
+
+Referrals increase your chances of interviewing at RBC by 2x
+
+See who you know
+
+Get notified about new Technical Program Manager jobs in Toronto, Ontario, Canada.
+
+Sign in to create job alert
+Jobs
+Senior Technical Program Manager jobs
+Technical Program Manager (Cloud)
+Similar jobs
+Senior Technical Program Manager
+Senior Technical Program Manager
+Mastercard
+North York, Ontario, Canada
+2 weeks ago
+Technical Program Manager
+Technical Program Manager
+Guidewire Software
+Toronto, Ontario, Canada
+5 days ago
+Technical Lead
+Technical Lead
+RAVL
+Toronto, Ontario, Canada
+4 months ago
+Technical Program Manager, Forward Deployed Engineering
+Technical Program Manager, Forward Deployed Engineering
+Baseten
+Toronto, Ontario, Canada
+$165,000 - $330,000
+6 days ago
+Infrastructure and Platform Enablement, Lead
+Infrastructure and Platform Enablement, Lead
+Interac Corp.
+Toronto, Ontario, Canada
+1 week ago
+Technical Program Manager , AI/ML
+Technical Program Manager , AI/ML
+Autodesk
+Toronto, Ontario, Canada
+6 days ago
+Show more jobs like this 
+People also viewed
+Senior Cloud Solution Architect Manager
+Senior Cloud Solution Architect Manager
+
+Microsoft
+
+Toronto, Ontario, Canada
+1 week ago
+Technical Delivery Lead
+Technical Delivery Lead
+
+BrainRidge Consulting
+
+Toronto, Ontario, Canada
+3 weeks ago
+Technical Program Manager
+Technical Program Manager
+
+OLIX
+
+Toronto, Ontario, Canada
+1 day ago
+Senior Technology Program Manager
+Senior Technology Program Manager
+
+Equinix
+
+Toronto, Ontario, Canada
+2 weeks ago
+Technical Program Manager
+Technical Program Manager
+
+UiPath
+
+Calgary, Alberta, Canada
+3 weeks ago
+Principal Technical Program Manager, MADS
+Principal Technical Program Manager, MADS
+
+Amazon
+
+Toronto, Ontario, Canada
+1 day ago
+Technical Program Manager, Model Performance
+Technical Program Manager, Model Performance
+
+Baseten
+
+Toronto, Ontario, Canada
+$165,000 - $330,000
+2 months ago
+Technical Program Manager / Technical Program Lead
+Technical Program Manager / Technical Program Lead
+
+Princeton IT Services, Inc
+
+Toronto, Ontario, Canada
+1 month ago
+Technology Delivery Manager
+Technology Delivery Manager
+
+Toronto Pearson International Airport
+
+Toronto, Ontario, Canada
+1 week ago
+Technical Program Manager
+Technical Program Manager
+
+PointClickCare
+
+Mississauga, Ontario, Canada
+CA$144,000 - CA$160,000
+2 days ago
+Similar Searches
+Senior Technical Program Manager jobs
+496 open jobs
+Principal Program Manager jobs
+4,151 open jobs
+Senior Manager Program Management jobs
+1,113 open jobs
+Program Manager jobs
+9,384 open jobs
+Engineering Program Manager jobs
+1,034 open jobs
+Infrastructure Program Manager jobs
+108 open jobs
+Senior Program Manager jobs
+1,923 open jobs
+Director Program Management jobs
+5,503 open jobs
+Environmental Protection Specialist jobs
+409 open jobs
+Senior Application Architect jobs
+3,616 open jobs
+Director of Hardware Engineering jobs
+148 open jobs
+Technical Project Manager jobs
+3,607 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at RBC
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
