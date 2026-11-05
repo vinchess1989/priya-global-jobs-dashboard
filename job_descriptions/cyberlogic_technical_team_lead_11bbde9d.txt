@@ -1,0 +1,382 @@
+Title: Technical Team Lead
+Company: Cyberlogic
+Location: Stellenbosch, Western Cape, South Africa
+URL: https://za.linkedin.com/jobs/view/technical-team-lead-at-cyberlogic-4486762257
+Posted: 2026-10-23
+Deadline: N/A
+Reason: The role aligns with the candidate's extensive background in CI/CD, release management, and DevOps transformation within enterprise environments, and it is located in a target country (South Africa).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Technical Team Lead
+Cyberlogic  Stellenbosch, Western Cape, South Africa
+2 weeks ago   Be among the first 25 applicants
+  
+
+See who Cyberlogic has hired for this role
+
+Apply 
+Save
+
+Job Title
+
+Technical Lead / Engineering Lead (.NET / Integration / DevOps Transformation)
+
+Location
+
+Stellenbosch (Hybrid/Remote)
+
+Who we are
+
+Scriptex is a software engineering firm delivering modular, cloud‑native systems that help scale‑ups and enterprises accelerate innovation - without compromising on reliability or quality. We build composable frameworks and platforms that offer operational maturity from day one, enabling faster delivery and scalable software solutions.
+
+Who we are looking for
+
+We are looking for a strong technical leader to join a critical engineering team operating within a large enterprise environment undergoing a significant modernisation journey.
+
+This role is ideal for someone who understands how to lead effectively in a complex, legacy-heavy enterprise landscape while helping drive a gradual transition toward modern engineering practices, Agile delivery and DevOps maturity, and modern architecture patterns.
+
+You will lead a team of engineers across software development and SRE/production support functions, providing technical direction, delivery leadership, mentorship, and hands-on engineering oversight.
+
+About the Environment
+
+This is a predominantly on-prem enterprise environment with a large portfolio of internal systems currently built on:
+
+.NET Framework 4.7
+WCF Services
+SQL Server
+Windows Services
+IIS-hosted applications
+TFS source control
+ActiveBatch v10/v12 scheduling and automation
+
+The organisation is actively modernising and transitioning toward:
+
+.NET 8 / .NET 9
+RESTful APIs
+Azure DevOps (on-prem)
+Git-based workflows
+CI/CD pipelines
+Agile delivery practices
+Improved engineering standards and DevOps maturity
+API management via Gravitee APIM
+
+This role sits directly within that transformation journey.
+
+The Opportunity
+
+You will play a key leadership role in helping evolve the engineering culture, practices, and technical standards of the team while still operating effectively within an enterprise environment that currently follows a largely waterfall-based SDLC.
+
+The successful candidate must be comfortable balancing:
+
+Legacy system support and enhancement
+Enterprise governance and project structures
+Technical leadership and mentorship
+Engineering modernisation initiatives
+Agile coaching and delivery improvements
+Hands-on architecture and development oversight
+
+This is not a “greenfield startup” environment. It requires someone pragmatic, patient, technically strong, delivery-focused, and capable of driving change incrementally and collaboratively.
+
+Responsibilities
+
+Technical Leadership
+
+Lead and mentor a team of engineers across development and SRE functions
+Conduct regular 1-on-1s, coaching, and performance feedback
+Provide technical direction across projects and production initiatives
+Review code and enforce engineering standards and best practices
+Drive improved software design, maintainability, and operational stability
+Assist in defining and implementing branching strategies and Git workflows
+
+Delivery & Agile Enablement
+
+Lead Agile ceremonies including:
+Daily standups
+Sprint planning
+Backlog refinement
+Sprint reviews
+Retrospectives
+Work closely with Business Analysts, Project Managers, Architects, and stakeholders
+Help bridge the gap between waterfall governance and Agile delivery execution
+Encourage earlier technical engagement during requirements and solution definition phases
+Assist the team in estimating, planning, and delivering work effectively
+
+DevOps & Engineering Modernisation
+
+Drive migration efforts from TFS to Azure DevOps
+Help implement and mature CI/CD pipelines
+Improve release and deployment processes
+Assist with engineering operational maturity and DevOps practices
+Work closely with SRE/production support teams on incident-driven backlog improvements
+Support migration from WCF services toward modern REST API architecture
+Contribute toward API strategy using Gravitee APIM
+
+Architecture & Solution Design
+
+Collaborate with Solution Architects on enterprise solution design
+Provide engineering input into architectural decisions
+Promote scalable, maintainable, and supportable solutions
+Identify opportunities for modernisation and technical debt reduction
+
+Required Experience and Skills
+
+Technical
+
+Strong experience with C# and the Microsoft ecosystem
+Solid experience with:
+.NET Framework
+.NET Core / .NET 8+
+REST APIs
+WCF Services
+SQL Server
+Stored procedures and database-driven systems
+IIS and Windows Server environments
+Experience with Azure DevOps and Git-based workflows
+Experience implementing CI/CD pipelines
+Strong understanding of software engineering best practices and SDLC processes
+
+Leadership
+
+Experience leading or mentoring engineering teams
+Strong stakeholder communication skills
+Comfortable working with Business Analysts, Project Managers, Architects, and Operations teams
+Experience driving engineering standards and technical direction
+Ability to guide junior and intermediate developers effectively
+
+Nice to Have
+
+Experience with enterprise modernisation/transformation initiatives
+Exposure to SRE or production support environments
+Experience with API Management platforms
+Experience migrating legacy enterprise systems
+Exposure to Agile transformation initiatives
+Understanding of DevOps operating models and release governance
+
+Attributes
+
+Understands enterprise environments and legacy system realities
+Can balance delivery with engineering environment
+Is patient and pragmatic when driving change
+Can influence teams and stakeholders positively
+Wants to help shape a more modern engineering culture
+Is comfortable being hands-on while also leading people
+Will embrace the transformation journey
+
+Team Structure
+
+You will work closely with:
+Developers
+SRE / DevOps Engineers
+Business Analysts
+Project Managers
+Solution Architects
+IT Leadership and Enterprise Stakeholders
+
+The engineering function is evolving, and this role will have significant influence in shaping future ways of work, engineering standards, and delivery practices.
+
+This is an opportunity to:
+
+Lead meaningful engineering transformation
+Influence the future engineering direction of a large enterprise environment
+Build modern engineering practices from within
+Mentor and grow engineering talent
+Help modernise a substantial legacy technology estate
+Drive real operational and delivery improvements
+
+The environment offers both complexity and opportunity for the right technical leader who enjoys solving enterprise-scale challenges while helping teams evolve toward a more mature engineering culture.
+
+Why us?
+Real Systems, Real Impact: We’re not hype-driven. We build systems people rely on.
+Modern Architecture, Day One Maturity: Help define what good looks like and how best to extend what we already have.
+End-to-End Ownership: From architecture and DevOps to deployment and evolution, you’ll see your impact through every stage.
+Hybrid Setup in Stellenbosch: Collaborate in person and remotely with a nimble, value-driven team.
+Join Us
+
+If you're passionate about crafting scalable, resilient systems - and are energised by the prospect of architecting tomorrow’s platforms – we want to hear from you.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Cyberlogic by 2x
+
+See who you know
+
+Get notified about new Technical Team Lead jobs in Stellenbosch, Western Cape, South Africa.
+
+Sign in to create job alert
+Jobs
+Rollout Engineer jobs
+Technical Team Lead
+Similar jobs
+Technical Lead
+Technical Lead
+Red Badger
+City of Cape Town, Western Cape, South Africa
+1 week ago
+Tech Lead
+Tech Lead
+Sanlam
+Cape Town, Western Cape, South Africa
+1 week ago
+Technical Lead
+Technical Lead
+WeconnectU
+Somerset West, Western Cape, South Africa
+6 months ago
+Software Engineering Team Lead (Fincore | Payments)
+Software Engineering Team Lead (Fincore | Payments)
+Bash
+Cape Town, Western Cape, South Africa
+1 month ago
+Engineering Lead
+Engineering Lead
+Explore Group
+City of Cape Town, Western Cape, South Africa
+1 day ago
+Software Engineering Team Lead - Cloud
+Software Engineering Team Lead - Cloud
+Electrum
+Cape Town, Western Cape, South Africa
+1 month ago
+Show more jobs like this 
+People also viewed
+Senior Engineering Manager - Platform Engineering
+Senior Engineering Manager - Platform Engineering
+
+Zappi
+
+Cape Town, Western Cape, South Africa
+1 week ago
+Data Engineer
+Data Engineer
+
+Air Chefs
+
+Cape Town, Western Cape, South Africa
+2 months ago
+Technical Manager (Managed Service Provider), Cape Town
+Technical Manager (Managed Service Provider), Cape Town
+
+Smart4 Cloud
+
+City of Cape Town, Western Cape, South Africa
+3 days ago
+Information Technology Service Desk Team Lead
+Information Technology Service Desk Team Lead
+
+Weaver Fintech Ltd
+
+City of Cape Town, Western Cape, South Africa
+2 weeks ago
+Technical Manager
+Technical Manager
+
+SEGULA Technologies
+
+Cape Town, Western Cape, South Africa
+1 week ago
+IT Operations Lead
+IT Operations Lead
+
+Ecowize - Southern Africa
+
+Milnerton, Western Cape, South Africa
+2 months ago
+Chief Network Technologist, Ref no. DOTP 09/2026R1
+Chief Network Technologist, Ref no. DOTP 09/2026R1
+
+Western Cape Government
+
+Cape Town, Western Cape, South Africa
+6 days ago
+Systems Architect
+Systems Architect
+
+Klipboard
+
+Stellenbosch, Western Cape, South Africa
+2 weeks ago
+Engineering Lead (Structures)
+Engineering Lead (Structures)
+
+Key Recruitment Group
+
+City of Cape Town, Western Cape, South Africa
+2 days ago
+Data Integrity Lead
+Data Integrity Lead
+
+Biovac
+
+Cape Town, Western Cape, South Africa
+1 month ago
+Similar Searches
+Rollout Engineer jobs
+3,678 open jobs
+Web Development Manager jobs
+291 open jobs
+Java Team Lead jobs
+957 open jobs
+Hydraulic Engineer jobs
+253 open jobs
+Lead Software Engineer jobs
+934 open jobs
+Exchange Administrator jobs
+51 open jobs
+Energy Auditor jobs
+29 open jobs
+Development Team Lead jobs
+908 open jobs
+Mainframe System Programmer jobs
+12 open jobs
+Senior Technical Architect jobs
+660 open jobs
+Software Team Lead jobs
+1,171 open jobs
+Software Engineering Team Lead jobs
+3,912 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Cyberlogic
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
