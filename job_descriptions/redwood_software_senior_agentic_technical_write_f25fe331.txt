@@ -1,0 +1,329 @@
+Title: Senior Agentic Technical Writer
+Company: Redwood Software
+Location: Ontario, Canada
+URL: https://ca.linkedin.com/jobs/view/senior-agentic-technical-writer-at-redwood-software-4486916545
+Posted: 2026-11-06
+Deadline: N/A
+Reason: The role perfectly aligns with the candidate's expertise in technical communication, CI/CD pipelines, and documentation-as-code, and it is located in Canada, which is a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Agentic Technical Writer
+Redwood Software  Ontario, Canada
+21 minutes ago   Be among the first 25 applicants
+  
+
+See who Redwood Software has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Our Mission
+
+At Redwood, we empower our customers with lights-out automation for their mission-critical business processes.
+
+About Us
+
+Redwood Software is the leading orchestration platform for the autonomous enterprise, driving business transformation at the lowest total cost of ownership. Redwood empowers organizations to intelligently automate and orchestrate mission-critical business and IT processes across complex ERP, hybrid cloud, data and emerging agentic AI systems. Through its SaaS-first automation fabric, with AI embedded across the automation lifecycle, Redwood accelerates the path to autonomous operations. Backed by 30 years of experience and trusted by more than 50% of the Fortune 50, Redwood helps organizations unlock human potential to focus on innovation, growth and what's next.
+
+Core Values
+
+
+One Team. One Redwood
+Make Your Own Weather
+Obsess over Customer Success
+Work the Problem
+Be Curious
+Own the Outcome
+Respect Each Other
+
+
+Your Impact
+
+Redwood is rebuilding how documentation gets made. Content lives in Git as Markdown, ships through CI/CD, is reviewed by pull request next to product code, and is increasingly drafted by AI agents working from the product requirements, the code, and a structured content model. We are retiring our legacy authoring tool and moving every writer to this way of working.
+
+You will be a senior writer who builds and runs that pipeline. You decide what an agent drafts and what a human must validate, you build the checks that catch failures, and you set the quality bar for AI-generated documentation. You also become a deep subject matter expert on Redwood's products and on the service orchestration and automation platform (SOAP) market they compete in, and you put what you learn back into the content model so every agent and writer inherits it.
+
+This is a senior individual contributor role. You own a program, not a document set: the documentation pipeline and the content for a product area. You choose the approach on new work, guide more junior writers day to day, and have a significant say in documentation decisions for the business area. Not a people manager role.
+
+Build and Run the Agentic Documentation Pipeline
+
+
+Design, build, and operate AI-assisted and agentic workflows that draft new content and update existing pages from product requirements, merged code, API specifications, Jira tickets, and release information.
+Define the handoffs: what the agent drafts, what the writer validates, how failures are detected, and how provenance is recorded. Publish the accuracy and review standards the team follows.
+Own the content model and context layer that agents read: structure, terminology, glossary, style rules, reusable components, and product knowledge, so output is consistent and machine-readable for customers, partners, and AI assistants.
+Build automated quality gates in CI: style and terminology linting, link checks, code sample and API reference validation, and an evaluation set that measures draft quality as models and prompts change.
+Detect drift: flag documentation that no longer matches the product after a code or API change.
+Measure the pipeline and report results: cycle time from release to published content, coverage, accuracy defects, reviewer edit effort, and cost per page.
+Keep an honest model of where agents fail on Redwood content, and move the human-AI boundary as models improve.
+
+
+Docs as Code
+
+
+Own the Git workflow, Markdown/MDX authoring, build, and CI/CD publishing for your product area, with pull-request review alongside engineering.
+Lead migration of legacy content into structured, versioned Markdown, including information architecture, redirects, search, and versioning.
+Embed documentation in the delivery lifecycle: docs as a release gate, updates triggered by code and API changes, and documentation work that starts when the product definition is approved, in parallel with engineering rather than after it.
+Produce OpenAPI-driven API reference and developer guides to the standard expected of a platform product.
+
+
+Become the Subject Matter Expert on the Product and SOAP
+
+
+Install, configure, and use the product yourself, and test new features before you document them.
+Build working knowledge of how customers use orchestration across ERP, cloud, data, and IT operations, and how competing platforms position and document themselves. Use it to write content that explains how to apply the product to a business need, not only how to click through it.
+Partner with product, engineering, support, and customer success to understand complex systems. Raise it early when a feature is hard to document, because that usually means it is hard to use.
+Capture what you learn in the content model, so product knowledge compounds in the system and not only in your head.
+
+
+Lead Through Craft
+
+
+Teach other writers docs-as-code and agentic drafting through pairing, templates, review checklists, and onboarding material.
+Review AI-generated and human-written content to one consistent bar.
+Work with a distributed team across time zones, with clear written handoffs.
+
+
+Your Experience
+
+
+8+ years of professional experience (6+ with a master's degree) in technical writing, documentation engineering, developer experience, or technical content for software. Open item: see the open items at the end of this document.
+Docs as code in production, which you can show: a documentation repository or platform you built, migrated to, or ran, using Git, Markdown/MDX (or AsciiDoc or reStructuredText), a static site generator or docs platform (for example Mintlify, Docusaurus, MkDocs, Hugo), CI/CD publishing, and pull-request review. You can state the size of the content estate and who contributed.
+An AI-assisted documentation pipeline in production. You can describe a specific workflow where AI drafts or updates content from a source such as a code diff, ticket, or API spec; what you validate before publishing; how the tool fails; and how your approach changed in the past six months. You can show the prompts, skills, or agent configuration and the checks around them.
+Automated quality checks in CI that you set up, such as a prose linter (Vale or similar), link checking, code sample testing, or spec validation.
+Shipped documentation for a technically complex product, and an example of getting to credible documentation in an unfamiliar, dense domain. Describe the process, not only the outcome.
+Comfort reading code, API specifications, pull requests, and Jira to verify what you write, and running the product yourself.
+Judgment about the trade-off between speed and accuracy in content that customers rely on for mission-critical systems.
+Clear writing, and the ability to explain complex technical concepts to technical and business audiences.
+
+
+Strongly Preferred
+
+
+Agentic documentation: agents that act on a repository, such as opening pull requests, updating docs on merge, running checks, or looping on review feedback, with human approval gates and evaluations you designed. Experience with tool use or MCP is a plus.
+Lead experience: you owned a documentation program, served as the technical lead for a group of writers, or guided other writers' work without a management title.
+Content modeling and structured content: taxonomy, reusable components, or migration from a legacy authoring tool or DITA-style content to Markdown.
+API documentation with OpenAPI and developer portals.
+Enterprise software in automation, ERP, integration, data pipelines, ITSM, or workload automation, or direct familiarity with the SOAP market.
+Documentation analytics used to decide what to write, fix, or retire.
+
+
+Not Required
+
+
+A long career under the title "technical writer."
+Experience with MadCap Flare or any specific legacy authoring tool.
+A machine learning background.
+
+
+What We Will Ask You To Show
+
+
+A walkthrough of an AI-assisted or agentic documentation workflow you built: the inputs, the human checkpoints, a case where it produced something wrong, and what you changed.
+A docs-as-code repository, pipeline, or migration, with its scale and results.
+A piece of documentation for a hard technical subject, and how you verified it.
+
+
+Pay Transparency: The typical base salary range for this position is CAD $100,000- $120,000 annually. The range represents base salary only, and does not include company bonus, incentive for sales roles, equity or benefits, as applicable. Final compensation will be determined based on the candidate's skills, experience, and relevant qualifications.
+
+Vacancy Status: Existing vacancy
+
+AI Transparency Disclosure: As part of our commitment to hiring transparency and in compliance with Ontario law, please be advised that we utilize artificial intelligence (AI) tools during our interview process. Specifically, we may use an AI-enabled notetaking assistant to help capture and summarize interview discussions. This tool is used solely to assist our hiring team in summarizing candidate information; all final hiring and selection decisions are made exclusively by individuals on the hiring team.
+
+If you like growth and working with happy, enthusiastic over-achievers, you'll enjoy your career with us!
+
+THE LEGAL BIT
+
+Redwood is an equal opportunity employer. Redwood prohibits unlawful discrimination based on race, colour, religion, sex, gender identity, marital or veteran status, age, national origin, ancestry, citizenship, physical or mental disability, medical condition, genetic information or characteristics (or those of a family member), sexual orientation, pregnancy or any other consideration made unlawful by regional or local laws. We also prohibit discrimination based on a perception that anyone has any of those characteristics or is associated with a person who has or is perceived as having any of those characteristics. All such discrimination is unlawful and will have a zero tolerance policy applied to it.
+
+Redwood will comply with all local data protection laws, including GDPR when it comes to the handling and processing of personal data. Should you wish for us to remove your personal data from our recruitment database, please email us directly at Privacy@Redwood.com
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Redwood Software by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Lead Technical Writer jobs
+Senior Agentic Technical Writer
+Similar jobs
+Senior Technical Writer
+Senior Technical Writer
+Okta
+Toronto, Ontario, Canada
+1 week ago
+Senior Technical Writer, Support Documentation
+Senior Technical Writer, Support Documentation
+Fullscript
+Toronto, Ontario, Canada
+2 weeks ago
+Senior Technical Writer, Support Documentation
+Senior Technical Writer, Support Documentation
+Fullscript
+Ottawa, Ontario, Canada
+2 weeks ago
+Technical Writer
+Technical Writer
+Interac Corp.
+Toronto, Ontario, Canada
+2 weeks ago
+Technical Writer
+Technical Writer
+ZenaTech Inc.
+Toronto, Ontario, Canada
+CA$60,000 - CA$70,000
+1 day ago
+Product & Technology Communications Manager
+Product & Technology Communications Manager
+Cohere
+Toronto, Ontario, Canada
+1 day ago
+Show more jobs like this 
+People also viewed
+AI Trainer
+AI Trainer
+
+Okta
+
+Toronto, Ontario, Canada
+1 week ago
+Technical Writer
+Technical Writer
+
+Compucom Staffing
+
+Ottawa, Ontario, Canada
+2 months ago
+AI Enablement Specialist
+AI Enablement Specialist
+
+Simon-Kucher
+
+Toronto, Ontario, Canada
+1 week ago
+Technical Writer
+Technical Writer
+
+Capco
+
+Toronto, Ontario, Canada
+1 week ago
+Senior AI and Agentic Developer
+Senior AI and Agentic Developer
+
+Accenture
+
+Toronto, Ontario, Canada
+1 month ago
+Content Writer
+Content Writer
+
+Paddle
+
+Toronto, Ontario, Canada
+2 weeks ago
+Technical Writer
+Technical Writer
+
+BGIS
+
+Markham, Ontario, Canada
+1 week ago
+Senior UX Writer, Design Systems
+Senior UX Writer, Design Systems
+
+The Citco Group Limited
+
+Toronto, Ontario, Canada
+4 months ago
+Senior Conversation Designer, AI & Virtual Agents
+Senior Conversation Designer, AI & Virtual Agents
+
+GFT Technologies North America
+
+Toronto, Ontario, Canada
+1 week ago
+UX Writer
+UX Writer
+
+GS1 Canada
+
+Toronto, Ontario, Canada
+CA$75,000 - CA$85,000
+2 weeks ago
+Similar Searches
+Lead Technical Writer jobs
+253 open jobs
+Contract Technical Writer jobs
+123 open jobs
+Information Developer jobs
+14,724 open jobs
+Documentation Manager jobs
+2,050 open jobs
+Technical Writer jobs
+1,614 open jobs
+Senior Content Developer jobs
+273 open jobs
+Senior Proposal Writer jobs
+261 open jobs
+Senior Business Process Analyst jobs
+1,811 open jobs
+Documentation Engineer jobs
+1,410 open jobs
+Technical Editor jobs
+323 open jobs
+Technical Illustrator jobs
+540 open jobs
+Writer jobs
+1,376 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
