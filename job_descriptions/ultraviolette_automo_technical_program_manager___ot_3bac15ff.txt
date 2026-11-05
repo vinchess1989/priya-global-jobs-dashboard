@@ -1,0 +1,260 @@
+Title: Technical Program Manager - OTA & Release Management
+Company: Ultraviolette Automotive
+Location: Bengaluru, Karnataka, India
+URL: https://in.linkedin.com/jobs/view/technical-program-manager-ota-release-management-at-ultraviolette-automotive-4486724497
+Posted: 2026-11-06
+Deadline: Open until filled
+Reason: The role perfectly aligns with the candidate's background in release management, firmware lifecycle, and configuration management within a safety-critical automotive environment.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Technical Program Manager - OTA & Release Management
+Ultraviolette Automotive  Bengaluru, Karnataka, India
+10 hours ago  46 applicants
+  
+
+See who Ultraviolette Automotive has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Direct message the job poster from Ultraviolette Automotive
+
+Anudeep Arigela
+Anudeep Arigela
+Human Resources || GTM & Strategic Talent Acquisition Professional at Ultraviolette Automotive|| Hiring - Tech/ Business Roles ||
+
+ROLE OVERVIEW
+
+You will own the full firmware lifecycle from controller software development through factory flashing, contract manufacturer (CM) flashing, and over-the-air (OTA) updates in the field. You will also serve as the Release Manager for vehicle software releases, coordinating across embedded, cloud, and operations teams.
+
+
+
+
+KEY RESPONSIBILITIES
+
+Own the program plan for all controller firmware releases across the vehicle's ECUs
+Manage the end-to-end firmware flashing lifecycle: internal flashing tools, EOL (end-of-line) tester programs, and CM flashing at contract manufacturers
+Serve as Release Manager for vehicle software — defining release gates, managing release branches, and coordinating sign-off across engineering and QA
+Coordinate with the OTA engineering team to plan and execute over-the-air firmware rollouts, including phased rollouts and rollback planning
+Track firmware defect backlogs, manage regression cycles, and drive closure before release milestones
+Maintain firmware release documentation: release notes, version matrices, and traceability from requirements to release
+Partner with contract manufacturers to ensure flashing processes are validated, documented, and reproducible
+Identify and resolve cross-team dependencies between embedded, cloud, and tooling teams
+Own the go/no-go process for each firmware release, aligning stakeholders across engineering, QA, and operations
+Work closely with the Field Firmware Reliability TPM to incorporate field defect data into release prioritisation
+
+
+
+
+REQUIREMENTS
+
+5–8 years of experience in Technical Program Management or Engineering Program Management
+Strong understanding of embedded software development cycles — familiarity with ECUs, CAN bus, or microcontrollers is highly preferred
+Experience managing software release processes, including release branching, regression testing, and sign-off workflows
+Exposure to OTA update systems or firmware-over-the-air (FOTA) concepts
+Ability to work across hardware, firmware, and cloud engineering teams
+Proficiency with Jira, Confluence, or equivalent tools for backlog and release tracking
+Strong attention to detail and ability to manage multiple concurrent release tracks
+B.E./B.Tech in Electronics, Computer Science, or related field
+
+
+
+
+NICE TO HAVE
+
+Experience with automotive software standards (AUTOSAR, ISO 26262 awareness)
+Hands-on background in embedded systems or firmware development
+Experience with contract manufacturing environments
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Motor Vehicle Manufacturing
+  
+
+Referrals increase your chances of interviewing at Ultraviolette Automotive by 2x
+
+See who you know
+
+Get notified about new Technical Program Manager jobs in Bengaluru, Karnataka, India.
+
+Sign in to create job alert
+Jobs
+Lead Program Manager jobs
+Technical Program Manager - OTA & Release Management
+Similar jobs
+Staff Technical Program Mgr
+Staff Technical Program Mgr
+NetApp
+Bengaluru, Karnataka, India
+2 days ago
+Technical Program Mgr
+Technical Program Mgr
+NetApp
+Bengaluru, Karnataka, India
+2 days ago
+Program Manager - Release
+Program Manager - Release
+JUSPAY
+Bengaluru, Karnataka, India
+1 month ago
+Technical Program Management III
+Technical Program Management III
+Cohesity
+Bangalore Rural, Karnataka, India
+2 weeks ago
+Technical Program Manager
+Technical Program Manager
+Advanced Sterilization Products
+Bengaluru East, Karnataka, India
+1 week ago
+Staff Technical Program Manager – LPI
+Staff Technical Program Manager – LPI
+GE HealthCare
+Bengaluru, Karnataka, India
+1 week ago
+Show more jobs like this 
+People also viewed
+Technical Program Manager
+Technical Program Manager
+
+Networth Corp
+
+Bengaluru, Karnataka, India
+2 days ago
+Technical Project Manager, Connectivity
+Technical Project Manager, Connectivity
+
+HARMAN India
+
+Bengaluru, Karnataka, India
+1 day ago
+Programme Delivery Manager, Forecasting Systems
+Programme Delivery Manager, Forecasting Systems
+
+Mobility Global
+
+Bengaluru, Karnataka, India
+11 hours ago
+Technical Program Manager 3
+Technical Program Manager 3
+
+Lam Research
+
+Bengaluru, Karnataka, India
+1 week ago
+Technical Program Manager
+Technical Program Manager
+
+redBus
+
+Bengaluru, Karnataka, India
+3 days ago
+Program Management Engineering Lead
+Program Management Engineering Lead
+
+Texas Instruments India
+
+Bengaluru, Karnataka, India
+1 week ago
+Release Manager
+Release Manager
+
+Weekday (YC W21)
+
+Bengaluru, Karnataka, India
+₹2,000,000 - ₹2,500,000
+1 day ago
+Technical Project Manager
+Technical Project Manager
+
+Nokia
+
+Bengaluru, Karnataka, India
+3 days ago
+Senior Program Manager - Technical Apps
+Senior Program Manager - Technical Apps
+
+Qualcomm
+
+Bengaluru, Karnataka, India
+6 days ago
+Program Manager, Senior – Voice & Music Software
+Program Manager, Senior – Voice & Music Software
+
+Qualcomm
+
+Bengaluru, Karnataka, India
+2 weeks ago
+Similar Searches
+Lead Program Manager jobs
+971 open jobs
+Mechanical Manager jobs
+2,441 open jobs
+Technical Program Manager jobs
+1,477 open jobs
+Senior Program Manager jobs
+1,726 open jobs
+Project Manager jobs
+18,687 open jobs
+Senior Technical Program Manager jobs
+944 open jobs
+Principal Program Manager jobs
+3,330 open jobs
+Senior Manager Program Management jobs
+352 open jobs
+Program Manager jobs
+9,542 open jobs
+Engineering Program Manager jobs
+1,753 open jobs
+Staff Program Manager jobs
+453 open jobs
+Infrastructure Program Manager jobs
+79 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

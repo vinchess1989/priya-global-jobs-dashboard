@@ -1,0 +1,230 @@
+Title: Sr. DevOps Engineer
+Company: Northstar Quant
+Location: Mumbai Metropolitan Region
+URL: https://in.linkedin.com/jobs/view/sr-devops-engineer-at-northstar-quant-4486572960
+Posted: 2026-11-06
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in DevOps, CI/CD pipeline ownership, and automation, and it is located in India, one of her target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Sr. DevOps Engineer
+Northstar Quant  Mumbai Metropolitan Region
+16 hours ago  90 applicants
+  
+
+See who Northstar Quant has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Job Summary
+
+We are looking for a skilled DevOps Engineer to design, build, and maintain highly reliable CI/CD pipelines and cloud infrastructure. You will work closely with the engineering & product team to ensure seamless deployments, high availability, and secure, scalable systems across our AWS and on-premises based platforms.
+
+Key Responsibilities
+
+
+Design, implement, and manage robust CI/CD pipelines for building, testing, deploying, and releasing software products.
+Automate infrastructure provisioning and configuration using Infrastructure-as-Code tools.
+Manage and optimize cloud infrastructure and on-premises for performance, security, scalability, and cost.
+Deploy, monitor, and maintain containerized applications using Docker, Kubernetes, EKS, ECS, and Fargate.
+Configure and manage web servers and process managers such as Nginx and Supervisor.
+Handle SSL/TLS certificate configuration and renewals.
+Monitor system health, troubleshoot production issues, and perform root cause analysis.
+Collaborate with development teams to improve deployment strategies, reliability, and observability.
+Ensure best practices around security, logging, monitoring, and disaster recovery.
+Strong Linux administration: networking, systemd, performance tuning, troubleshooting under pressure.
+
+
+Mandatory Skills & Experience
+
+
+5+ years of proven, hands-on experience as a DevOps Engineer, primarily in cloud environments.
+Strong experience building and maintaining complex CI/CD platforms.
+5+ years of scripting experience using Python, Shell, or Go.
+Proficiency with Git or similar source control systems.
+Solid understanding of SSL/TLS certificate fundamentals.
+Hands-on experience with Nginx and Supervisor for web server configuration and operations.
+Excellent troubleshooting and debugging skills.
+Strong experience with AWS services, including but not limited to:
+EC2, RDS, EKS, ECS, VPC, ELB, S3
+CloudFormation, CloudTrail, Route 53, SQS
+Good understanding of AWS best practices, with strong hands-on expertise in CloudFormation and Terraform.
+Proficiency with the AWS CLI.
+Strong knowledge of AWS compute and networking concepts.
+Extensive experience with Docker containers, Kubernetes, EKS, and Fargate.
+Experience in trading, broking, fintech, or other low-latency or high-availability environments.
+
+
+Nice to Have
+
+
+Experience with monitoring and logging tools (CloudWatch, Prometheus, Grafana, ELK, etc.).
+Exposure to security best practices and DevSecOps workflows.
+Experience supporting high-traffic, production-grade systems.
+Secrets management tools (Infisical, Vault) and SSO solutions like Keycloak.
+
+
+Skills: trading,devops,aws
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Professional Organizations
+  
+
+Referrals increase your chances of interviewing at Northstar Quant by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Mumbai Metropolitan Region.
+
+Sign in to create job alert
+Similar jobs
+Senior DevOps Engineer
+Senior DevOps Engineer
+Mactores
+Mumbai, Maharashtra, India
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Newfold Digital
+Mumbai Metropolitan Region
+2 weeks ago
+Devops/ Senior Devops Engineer
+Devops/ Senior Devops Engineer
+NEC Software Solutions (India)
+Mumbai, Maharashtra, India
+1 month ago
+Devops/ Senior Devops Engineer
+Devops/ Senior Devops Engineer
+NEC Software Solutions
+Mumbai Metropolitan Region
+1 month ago
+DevOps Engineer
+DevOps Engineer
+JioSaavn
+Navi Mumbai, Maharashtra, India
+6 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+OMP
+Mumbai Metropolitan Region
+1 week ago
+Show more jobs like this 
+People also viewed
+AWS DevOps Lead
+AWS DevOps Lead
+
+Fractal
+
+Mumbai, Maharashtra, India
+1 week ago
+Senior Software Engineer - DevOps
+Senior Software Engineer - DevOps
+
+LogiNext
+
+Mumbai, Maharashtra, India
+1 year ago
+Principal Engineer - DevOps/DBA
+Principal Engineer - DevOps/DBA
+
+LogiNext
+
+Mumbai, Maharashtra, India
+2 months ago
+Senior Cloud Engineer I
+Senior Cloud Engineer I
+
+Russell Investments
+
+Mumbai Metropolitan Region
+5 months ago
+Lead DevOps Engineer
+Lead DevOps Engineer
+
+Weekday (YC W21)
+
+Mumbai, Maharashtra, India
+₹2,000,000 - ₹3,500,000
+1 week ago
+Lead DevOps Engineer
+Lead DevOps Engineer
+
+Dream Cricket (formerly Dream Game Studios)
+
+Mumbai, Maharashtra, India
+15 hours ago
+DevOps / MLOps Engineer
+DevOps / MLOps Engineer
+
+Godrej Industries Group
+
+Mumbai, Maharashtra, India
+6 months ago
+Senior DevSecOps Engineer
+Senior DevSecOps Engineer
+
+Ahy Consulting
+
+Kalyan Dombivli, Maharashtra, India
+1 month ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+Priceline
+
+Mumbai, Maharashtra, India
+1 week ago
+Senior Linux DevOps Engineer - PCAP
+Senior Linux DevOps Engineer - PCAP
+
+LSEG
+
+Mumbai Metropolitan Region
+1 week ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

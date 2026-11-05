@@ -1,0 +1,263 @@
+Title: Senior DevOps Engineer
+Company: Kwanda Business Solution PTY (LTD)
+Location: Sandton, South Africa
+URL: https://www.pnet.co.za/jobs--Senior-DevOps-Engineer-Sandton-Kwanda-Business-Solution-PTY-LTD--4301803-inline.html
+Posted: 2026-11-05
+Deadline: N/A
+Reason: The role is a strong match for her DevOps and release management expertise, is located in South Africa (a target country), and does not contain any hard rejections.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Find a job
+Recruiters
+Sign in
+Tired of searching? Let’s find you the right jobs faster
+Get Started
+Find Jobs
+Senior DevOps Engineer
+Kwanda Business Solution PTY (LTD)
+Sandton
+Temp with possibility of going permanent
+Published: 1 day ago
+EE/AA, Non EE/AA
+I'm interested
+Save
+Senior DevOps Engineer
+Kwanda Business Solution PTY (LTD)
+I'm interested
+Introduction
+
+A leading telecommunications company is seeking an experienced Senior DevOps Engineer to join its team on a contractual basis.
+
+The successful candidate must have at least 5+ years of hands-on DevOps engineering experience, with strong technical expertise in cloud environments, CI/CD pipelines, infrastructure automation, scripting and containerisation.
+
+We are looking for a technically strong individual with excellent problem-solving abilities, who can work independently and contribute to complex enterprise technology environments. 
+
+Duties & Responsibilities
+
+Senior DevOps Engineer – Key Duties & Responsibilities
+
+DevOps Strategy & Implementation
+Design, implement and maintain DevOps processes and practices.
+Improve software development, deployment and release processes.
+Drive automation and continuous improvement across IT environments.
+CI/CD Pipeline Management
+Design, develop and maintain CI/CD pipelines using Azure DevOps, Jenkins and GitLab.
+Automate application builds, testing and deployments.
+Manage release processes and troubleshoot pipeline failures.
+Cloud Infrastructure Management
+Design, deploy and maintain cloud infrastructure across Azure and/or AWS.
+Manage cloud environments, configurations and resources.
+Ensure infrastructure scalability, availability, security and performance.
+Infrastructure as Code (IaC)
+Automate infrastructure provisioning using Terraform.
+Implement configuration management using Ansible.
+Maintain reusable infrastructure templates and deployment scripts.
+Containerisation & Orchestration
+Build, deploy and manage Docker containers.
+Manage Kubernetes environments and container orchestration.
+Support microservices deployments and container-based applications.
+Scripting & Automation
+Develop automation scripts using Python, Bash, PowerShell and Node.js.
+Automate repetitive operational tasks and infrastructure processes.
+Integrate systems and services through APIs.
+Monitoring & Performance Management
+Implement monitoring and observability solutions using Grafana, Prometheus and Elastic Stack.
+Monitor system performance, application availability and infrastructure health.
+Identify and proactively resolve performance bottlenecks.
+Security & Compliance
+Implement DevSecOps practices within development and deployment pipelines.
+Manage access controls, credentials and security configurations.
+Identify vulnerabilities and ensure secure deployment practices.
+Troubleshooting & Incident Management
+Investigate and resolve complex infrastructure and deployment issues.
+Perform root cause analysis.
+Support production environments and minimise service disruptions.
+Technical Leadership & Stakeholder Management
+Collaborate with software developers, architects and infrastructure teams.
+Provide technical guidance and mentor junior engineers.
+Prepare technical documentation and operational reports.
+Communicate technical challenges and solutions to management and stakeholders.
+
+11. Management Presentations & Stakeholder Engagement
+
+Prepare and deliver technical presentations to senior management and executive stakeholders.
+Translate complex technical concepts into clear, business-friendly language.
+Present DevOps strategies, project progress, implementation plans and technical recommendations.
+Provide regular reporting on infrastructure performance, system availability, deployment progress and operational risks.
+Communicate technical challenges, risks, dependencies and proposed solutions.
+Present incident reports, root cause analysis and recommendations for improvement.
+Engage confidently with senior stakeholders and participate in technical and strategic discussions.
+Desired Experience & Qualification
+
+Senior DevOps Engineer – Key Skills & Competencies
+
+1. Cloud Infrastructure & Architecture
+
+Microsoft Azure and/or AWS cloud environments.
+Cloud architecture, infrastructure provisioning and management.
+Azure infrastructure and resource management.
+Cloud security, governance and cost optimisation.
+Hybrid and multi-cloud environments.
+Infrastructure scalability, availability and resilience.
+
+2. CI/CD & DevOps Automation
+
+Azure DevOps and Azure Pipelines.
+Jenkins and GitLab CI/CD.
+GitHub Actions.
+Automated build, deployment and release pipelines.
+Continuous Integration and Continuous Deployment.
+Pipeline optimisation and troubleshooting.
+Release management and deployment automation.
+
+3. Infrastructure as Code (IaC)
+
+Terraform.
+Ansible.
+ARM Templates / Bicep.
+Infrastructure provisioning and configuration management.
+Automated environment deployment.
+Infrastructure version control and standardisation.
+
+4. Containerisation & Orchestration
+
+Docker.
+Kubernetes.
+Azure Kubernetes Service (AKS).
+Container deployment and management.
+Helm charts.
+Container security and optimisation.
+Microservices architecture.
+
+5. Scripting & Programming
+
+Python.
+Bash / Shell scripting.
+PowerShell.
+JSON and YAML.
+Automation scripting.
+API integrations and automation.
+Ability to develop scripts to eliminate manual processes.
+
+6. Monitoring, Logging & Observability
+
+Grafana.
+Prometheus.
+Elastic Stack (ELK).
+Azure Monitor.
+AWS CloudWatch.
+Application Performance Monitoring (APM).
+Log management and analysis.
+Alerting, incident detection and troubleshooting.
+
+7. Source Control & Repository Management
+
+Git.
+GitHub.
+GitLab.
+Bitbucket.
+Gitea.
+Branching strategies and version control.
+Code repository management.
+
+8. Security & DevSecOps
+
+DevSecOps principles and practices.
+Secrets and credential management.
+Vulnerability scanning.
+Identity and Access Management (IAM).
+Security automation.
+Compliance and governance.
+Secure pipeline implementation.
+
+9. Scripting & Automation
+
+Python – automation, infrastructure management and integration.
+Bash / Shell scripting – Linux administration and automation.
+PowerShell – Windows and Azure automation.
+Node.js (JavaScript) – automation scripts, API integrations and tooling.
+JSON and YAML – configuration management and pipeline definitions.
+REST API integration and automation.
+Writing scripts to automate repetitive operational tasks.
+Advanced troubleshooting and scripting for complex environments.
+I'm interested
+Kwanda Business Solution PTY (LTD)
+These jobs were popular with other job seekers
+Senior DevOps Engineer (Platform Foundations & Enablement)
+Outsource SA Solutions (Pty) Ltd
+just now
+Senior DevOps Support Engineer (Johannesburg or Cape Town)
+Elite Search & Selection
+Johannesburg
+just now
+Senior Java Full Stack Engineer - SANDTON (Hybrid) - R1.6m PA
+E-Merge IT Recruitment
+Sandton
+just now
+Senior Devops Engineer
+Tata Consultancy Services South Africa (Pty) Ltd
+Cape Town
+just now
+Cloud Platform Architect
+Goldenrule
+just now
+DevOps Engineer
+MSP Staffing Pty Ltd
+Western Cape , Gauteng
+just now
+Azure Data Engineer
+Samaha Consulting
+Johannesburg
+just now
+Senior HOGAN Developer
+Hileya Management Consulting (PTY) LTD
+Johannesburg
+just now
+DevOps
+MSP Staffing Pty Ltd
+Cape Town Or Gauteng
+just now
+Senior Developer
+The Appointment Firm
+just now
+
+Get hired.
+Find success.
+
+Get started
+Pnet
+About us
+Privacy policy
+Disclaimer
+Terms and conditions
+PAIA
+Jobseekers
+Career advice
+Blog
+Recruiters
+Post job ads
+Contact us – recruiters
+Products and Services
+Download
+App Store
+Google Play
+Pnet © 2026
+We use cookies
+
+We transmit personal data to third-party providers who help us to improve our web services. In this context, we also create and enrich usage profiles (e.g., on the basis of cookie IDs), which may also be transferred outside the Republic of South Africa and outside the EU and EEA.
+
+For this and to be able to use certain services for the purposes listed below, we require your consent. By clicking "Accept all", you agree to these (revocable at any time). This also includes your consent to the transmission of certain personal data to third countries, including the USA*, in accordance with Section 72 (1) (b) POPIA. You can change your settings or refuse data processing under "Settings or reject". You can change your selection at any time under "Privacy Statement" at the bottom of the page.
+
+Storing and/or retrieving information on a device
+Cookies, device identifiers or other information may be stored on or retrieved from your device for the processing purposes shown to you.
+Personalised ads and content, ad and content measurement, audience insights and product development
+Ads and content can be personalised based on a profile. More data can be added to better personalise ads and content. The performance of ads and content can be measured. Insights about audiences who have viewed the ads and content can be extracted. Data can be used to build or improve user experience, systems and software.
+Display third-party content (social networks, videos)
+Content from social networks and embedded content from third-party providers can be displayed.
+Settings or reject
+Accept All
+You can also exercise your right to object to data processing based on legitimate interests under “Privacy Statement”.
+Privacy Statement
