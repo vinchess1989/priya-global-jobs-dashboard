@@ -22387,5 +22387,22 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": null,
     "deletion_reason": "Deadline (2025-11-11) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Quality Systems Engineer - Manufacturing",
+    "company": "Fisher & Paykel Healthcare",
+    "location": "Auckland, Auckland, New Zealand",
+    "url": "https://nz.linkedin.com/jobs/view/quality-systems-engineer-manufacturing-at-fisher-paykel-healthcare-4486097566",
+    "visited": "yes",
+    "matches_requirements": "yes",
+    "reason": "The role is a perfect match for her background in medical device quality/regulatory compliance (ISO 13485/MDR) and the company explicitly offers immigration and relocation support.",
+    "id": "34ab1582",
+    "source": "linkedin_nz_quality_engineer",
+    "added_at": "2026-11-06T01:51:49+02:00",
+    "posted_date": "2026-11-04",
+    "deadline": "2026-10-30",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": "job_descriptions/fisher___paykel_heal_quality_systems_engineer___man_34ab1582.txt",
+    "deletion_reason": "Deadline (2026-10-30) passed by more than 2 days and unreviewed"
   }
 ]
