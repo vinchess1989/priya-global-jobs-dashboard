@@ -1,0 +1,247 @@
+Title: Production Engineer – Trading Technology - Tier One Buy Side Firm
+Company: BAH Partners
+Location: Hong Kong, Hong Kong SAR
+URL: https://hk.linkedin.com/jobs/view/production-engineer-%E2%80%93-trading-technology-tier-one-buy-side-firm-at-bah-partners-4486321767
+Posted: 2026-11-05
+Deadline: Open until filled
+Reason: The role aligns with the candidate's expertise in CI/CD, automation, and release reliability, and it is located in a target country (Hong Kong) with no US-based restrictions.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Production Engineer – Trading Technology - Tier One Buy Side Firm
+BAH Partners  Hong Kong, Hong Kong SAR
+22 hours ago   Be among the first 25 applicants
+  
+
+See who BAH Partners has hired for this role
+
+Apply
+Save
+
+
+
+Hong Kong | Leading Global Quantitative Trading Firm
+
+
+
+
+We are working with a leading global quantitative trading firm specialising in derivatives, market making and systematic trading. Technology sits at the heart of its business, with engineers working closely alongside traders and quantitative researchers to build and maintain sophisticated trading platforms.
+
+
+
+
+The firm is looking for an experienced Senior Production Engineer to join its APAC Sales & Trading technology team, supporting critical trading applications, order management, connectivity and post-trade systems.
+
+
+
+
+This is an engineering-focused role, not traditional application support. The emphasis is on building automation, improving release quality and strengthening production reliability rather than simply responding to incidents.
+
+
+
+
+What You'll Be Doing
+
+Develop Python-based automation tools to improve production stability, efficiency and system resilience.
+Design and enhance CI/CD pipelines, automated deployments and rollback processes.
+Build automated integration and regression testing frameworks in collaboration with software engineering teams.
+Improve monitoring, alerting and observability across trading applications and connectivity.
+Investigate complex production issues, identify root causes and engineer long-term solutions.
+Automate pre-market checks, environment configuration, system recovery and reconciliation processes.
+Work closely with trading and technology teams across the front-to-back trading lifecycle, including OMS, market data, execution connectivity and post-trade processing.
+
+
+
+
+What We're Looking For
+
+10+ years of experience in Production Engineering, SRE, DevOps or Software Engineering with significant production ownership.
+Strong Python development skills, with experience building reliable, maintainable automation solutions.
+Hands-on experience with CI/CD, deployment automation and automated testing.
+Strong troubleshooting capabilities across applications, Linux/Windows, networking and messaging systems.
+Experience with monitoring, logging, incident management and production reliability.
+Exposure to FIX, OMS, RFQ workflows or post-trade systems is advantageous.
+Familiarity with GitLab, Docker, Kubernetes, Kafka, Grafana or Elasticsearch is beneficial.
+
+
+
+
+Candidates from outside financial services are welcome, provided they have strong software engineering and production automation experience.
+
+
+
+
+Why Consider This Opportunity?
+
+Engineering ownership: Focus on solving underlying problems through automation rather than repetitive production support.
+Direct business exposure: Work closely with trading teams on business-critical systems where reliability and performance matter.
+Technical challenges: Improve sophisticated trading infrastructure through development, testing and automation.
+Collaborative environment: Join a small, experienced engineering team within a globally established quantitative trading firm.
+Long-term impact: Drive meaningful improvements to platform resilience, release processes and operational efficiency.
+
+
+
+
+If you're an experienced engineer who enjoys building solutions, improving complex systems and taking ownership of production reliability, we'd be interested in speaking with you.
+
+
+
+
+Get in touch for a confidential discussion.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Staffing and Recruiting
+  
+
+Referrals increase your chances of interviewing at BAH Partners by 2x
+
+See who you know
+
+Get notified about new Production Engineer jobs in Hong Kong, Hong Kong SAR.
+
+Sign in to create job alert
+Similar jobs
+Trading Platform Engineer, Systematic Technology
+Trading Platform Engineer, Systematic Technology
+Balyasny Asset Management L.P.
+Hong Kong, Hong Kong SAR
+3 weeks ago
+Production Support Engineer
+Production Support Engineer
+Millennium
+Hong Kong, Hong Kong SAR
+2 weeks ago
+Trading SRE / Production Support Engineer | Equities Trading | Global Hedge Fund | Python | Linux / Unix | Trading Systems | Equities | SRE | Production Support | Front Office Technology
+Trading SRE / Production Support Engineer | Equities Trading | Global Hedge Fund | Python | Linux / Unix | Trading Systems | Equities | SRE | Production Support | Front Office Technology
+Mondrian Alpha
+Hong Kong, Hong Kong SAR
+2 weeks ago
+Trading Systems Production Support Specialist, Assistant Vice President
+Trading Systems Production Support Specialist, Assistant Vice President
+State Street
+Hong Kong, Hong Kong SAR
+3 weeks ago
+Senior Production Engineer
+Senior Production Engineer
+Susquehanna International Group
+Hong Kong, Hong Kong SAR
+1 week ago
+Trade Support for Equity Desk - VP
+Trade Support for Equity Desk - VP
+Jefferies
+Hong Kong SAR
+1 week ago
+Show more jobs like this 
+People also viewed
+Front Office Application Support Lead - Global Investment Bank - Hong Kong
+Front Office Application Support Lead - Global Investment Bank - Hong Kong
+
+NLS Executive Search
+
+Hong Kong, Hong Kong SAR
+5 days ago
+Ultra-low latency Trading Solution Developer, Vice President, Institutional Securities Technology
+Ultra-low latency Trading Solution Developer, Vice President, Institutional Securities Technology
+
+Morgan Stanley
+
+Hong Kong, Hong Kong SAR
+7 hours ago
+Global Banking & Markets, Equity Electronic Market Making Quant Trader, Associate/ Vice President, Hong Kong
+Global Banking & Markets, Equity Electronic Market Making Quant Trader, Associate/ Vice President, Hong Kong
+
+Goldman Sachs
+
+Hong Kong, Hong Kong SAR
+1 week ago
+AVP / Associate (Systems Development) – Post-Trade Systems – IT (Permanent/12 months Contract)
+AVP / Associate (Systems Development) – Post-Trade Systems – IT (Permanent/12 months Contract)
+
+Hong Kong Exchanges and Clearing Limited (HKEX)
+
+Hong Kong, Hong Kong SAR
+3 months ago
+Lead Engineer, Trading Product Engineering
+Lead Engineer, Trading Product Engineering
+
+Bullish
+
+Hong Kong SAR
+2 weeks ago
+Low Latency MM Engineer
+Low Latency MM Engineer
+
+G-20 Group
+
+Hong Kong, Hong Kong SAR
+2 months ago
+Sr. Support Manager, Wealth Management, IT
+Sr. Support Manager, Wealth Management, IT
+
+CITIC Securities International
+
+Hong Kong, Hong Kong SAR
+3 weeks ago
+VP, Software Engineer
+VP, Software Engineer
+
+Nomura
+
+Central, Hong Kong SAR
+4 weeks ago
+Trading Systems Engineer - Quantitative Execution - J13214
+Trading Systems Engineer - Quantitative Execution - J13214
+
+Pinpoint Asia
+
+Hong Kong, Hong Kong SAR
+HK$80,000 - HK$145,000
+19 hours ago
+Data Engineer
+Data Engineer
+
+Tower Research Capital
+
+Hong Kong SAR
+1 week ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
