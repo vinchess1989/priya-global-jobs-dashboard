@@ -1,9 +1,9 @@
 {
   "pid": 45684,
   "started_at": "2026-11-05T01:13:15+02:00",
-  "heartbeat_at": "2026-11-05T02:12:25+02:00",
+  "heartbeat_at": "2026-11-05T02:16:48+02:00",
   "phase": "reviewing",
-  "detail": "Senior Project Manager",
-  "last_scrape_ok_at": "2026-11-05T02:11:02+02:00",
+  "detail": "Professionnel en Syst\u00e8mes \u00c9lectriques - Gestion des requis et V&V / Electrical Systems Professional - Requirement manage",
+  "last_scrape_ok_at": "2026-11-05T02:14:35+02:00",
   "last_error": null
 }
