@@ -1,9 +1,9 @@
 {
   "pid": 45684,
   "started_at": "2026-11-05T01:13:15+02:00",
-  "heartbeat_at": "2026-11-05T02:25:45+02:00",
-  "phase": "scraped",
-  "detail": "0 new jobs",
+  "heartbeat_at": "2026-11-05T02:25:55+02:00",
+  "phase": "run_finished",
+  "detail": "141 lower-yield targets and 0 jobs left for the next run",
   "last_scrape_ok_at": "2026-11-05T02:25:45+02:00",
   "last_error": null
 }
