@@ -1,0 +1,141 @@
+Title: Apply on company site
+Company: Telstra
+Location: Australia (Flexible)
+URL: https://au.jora.com/job/rd/740ad76b4e1eb43cbd4b5f4dfcfeae2c
+Posted: 2026-11-06
+Deadline: 2026-11-09
+Reason: The role perfectly aligns with the candidate's extensive experience in release management, quality engineering, and CI/CD governance within a large-scale enterprise environment.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Skip to main content
+
+Our website uses cookies to improve your user experience. More information can be found on cookies and your privacy on our privacy policy pages:   
+
+https://www.telstra.com.au/careers/privacy
+
+Decline
+Accept Cookies
+Telstra Careers
+Sign In
+Return to Telstra Careers Website
+Search for Jobs
+Senior Test & Release Manager page is loaded
+Senior Test & Release Manager
+Apply
+locations
+Australia (Flexible)
+time type
+Full time
+posted on
+Posted Today
+time left to apply
+End Date: November 10, 2026 (3 days left to apply)
+job requisition id
+JR-10176305
+Employment Type
+Permanent
+
+Closing Date
+9 Nov 2026 11:59pm
+
+Job Title
+Senior Test & Release Manager
+
+Job Summary
+
+Job Description
+
+
+
+What You'll Do:
+
+
+
+Lead test planning, test strategy execution, and quality engineering activities across the TNI transformation portfolio.
+Define and govern release schedules, release readiness assessments, and production deployment activities.
+Coordinate end-to-end testing across business, architecture, engineering, DevOps, and operations teams.
+Oversee quality assurance for large-scale Inventory platform migrations, transformations, and system modernisation initiatives.
+Drive test automation, performance testing, and continuous testing practices within CI/CD pipelines using tools such as JMeter.
+Manage release governance processes, including risk identification, dependency management, change control, and stakeholder approvals.
+Validate inventory and graph data migrations, ensuring data quality, integrity, and reconciliation using Neo4j expertise.
+Monitor platform performance, stability, and operational health through observability and monitoring solutions such as New Relic.
+Partner with solution architects and engineering teams to review solution designs and ensure testability, scalability, and operational readiness.
+Lead production readiness reviews and ensure successful implementation of releases into live environments.
+Facilitate defect triage, issue resolution, root cause analysis, and remediation activities throughout the delivery lifecycle.
+Provide leadership, mentoring, and direction to testing, release, and delivery teams across complex transformation programs.
+Engage regularly with business stakeholders to communicate delivery status, risks, quality metrics, and release outcomes.
+Maintain delivery documentation, governance artefacts, and reporting using Jira, Confluence, and Microsoft Copilot.
+Drive continuous improvement initiatives across testing, release management, quality assurance, and operational support processes.
+
+ 
+
+About You:
+
+
+
+At least 5 years' experience as Senior Test and Release Manager
+Deep expertise in TNI, NNI, NDSD and OSS/BSS Inventory platforms and transformation initiatives
+Leadership of test strategy, quality engineering, release governance and production readiness for enterprise platforms
+Proven delivery of large-scale data migration and transformation programs
+Strong Neo4j expertise, including graph data modelling, migration and validation
+Hands-on JMeter performance engineering and CI/CD testing experience
+Expertise in New Relic monitoring, observability and operational support
+Experience in solution design, architecture reviews, APIs, microservices and platform optimisation
+Strong stakeholder management across business, architecture, engineering, DevOps and operations teams
+Proficient in Microsoft Copilot, Jira and Confluence for delivery governance and productivity
+Leadership of complex cross-functional transformation programs, including risk, dependency and release management
+Similar Jobs (5)
+Security Capabilities Lead
+locations
+Australia (Flexible)
+time type
+Full time
+posted on
+Posted Today
+time left to apply
+End Date: November 13, 2026 (6 days left to apply)
+Senior Network Software Engineering Specialist
+locations
+Australia (Flexible)
+time type
+Full time
+posted on
+Posted Yesterday
+time left to apply
+End Date: November 7, 2026 (13 hours left to apply)
+Senior Software Engineering Lead
+locations
+Australia (Flexible)
+time type
+Full time
+posted on
+Posted 6 Days Ago
+time left to apply
+End Date: November 7, 2026 (13 hours left to apply)
+View All 5 Jobs
+About Us
+
+We're an iconic Aussie brand with a global footprint. From our earliest days in the Postmaster General’s Office to the Australian icon we are today, the heart of Telstra has never changed. We’ve always been committed to being a great place to work as we make the world a better place too.  
+
+Working at Telstra, we all have a why.  Whether it’s endless career opportunities, an amazing work-life balance or being able to make a difference, we all know why we’re motivated to be our best here. Our people find purpose and pride in being part of Telstra, because we support the things that matter most.
+
+Read More
+Recruitment Support
+
+We are committed to making it easy for everyone to apply. If you require accessibility support or adjustments during the recruitment process, please send an email to Disability and Accessibility inbox.
+
+disabilityandaccessibility@team.telstra.com.
+
+Read More
+Our Teams
+
+In a business as big and diverse as ours, there’s a huge breadth of career paths available. Uncover opportunities, broaden your experience, and discover the many areas of our organization there is to explore. 
+
+> Explore our teams https://www.telstra.com.au/careers/our-teams
+
+Read More
+Follow Us
+© 2026 Workday, Inc. All rights reserved.
