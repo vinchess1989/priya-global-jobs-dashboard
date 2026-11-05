@@ -1,0 +1,243 @@
+Title: Cloud Devops Engineer
+Company: Randstad Digital
+Location: Dublin, County Dublin, Ireland
+URL: https://ie.linkedin.com/jobs/view/cloud-devops-engineer-at-randstad-digital-4485855171
+Posted: 2026-11-06
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in DevOps, CI/CD, and infrastructure automation, and it is located in an eligible country (Ireland) with no stated restrictions on sponsorship.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Cloud Devops Engineer
+Randstad Digital  Dublin, County Dublin, Ireland
+5 hours ago  33 applicants
+  
+
+See who Randstad Digital has hired for this role
+
+Apply
+Save
+
+Direct message the job poster from Randstad Digital
+
+Carla Ivanik
+Carla Ivanik
+Recruiter | Building Long-Term Talent Pipelines | Helping Companies Hire Smarter & Faster
+
+We are looking for a Cloud Platform & Reliability Engineer to help design, scale, and maintain our enterprise infrastructure across multi-cloud environments. In this role, you will focus on system up time, automate core operational processes, and ensure our platforms remain resilient, secure, and observable.
+
+
+
+
+Key Responsibilities
+
+Cloud Infrastructure & Platform Engineering
+
+Work with Azure and AWS cloud platforms.
+Manage Kubernetes and container orchestration (Docker).
+Build Infrastructure as Code using Terraform, Bicep, or CloudFormation.
+Handle platform scalability, resiliency, and capacity planning.
+Design and support multi-regional and high availability architectures.
+
+Reliability Engineering & Production Operations
+
+Design and maintain highly available, resilient platforms.
+Define and track SLIs, SLOs, and SLAs.
+Plan and execute disaster recovery and business continuity plans.
+
+Observability, Monitoring & Performance Engineering
+
+Implement monitoring and alerting strategies.
+Work with observability platforms: Dynatrace, Datadog, Splunk, AppDynamics, Prometheus, and Grafana.
+Manage log aggregation and performance analysis.
+
+Automation & DevOps Engineering
+
+Implement and support CI/CD pipelines.
+Automate tasks using Python, PowerShell, Shell scripting, or Go.
+Build auto-remediation and self-healing solutions.
+
+Technical Leadership & Operational Excellence
+
+Partner with Developers, Architects, Product Owners, Cloud Engineers, and Operations teams.
+Lead incident reviews, RCAs, and operational readiness assessments.
+Establish operational standards, runbooks, and playbooks.
+Drive continuous improvement using reliability engineering principles.
+
+Skills & Requirements
+
+Mandatory Skills: Azure Cloud Architecture
+Good to Have Skills: AWS Cloud
+Containers & Orchestration: Kubernetes, Docker, Helm Charts, Istio
+Infrastructure as Code (IaC): Terraform, Bicep, CloudFormation
+CI/CD Tools: GitHub Actions, Jenkins, Argo CD
+Observability & Monitoring: Dynatrace, Datadog, Splunk, AppDynamics, Prometheus, Grafana
+Scripting: Python, PowerShell, Shell Scripting, Go
+Core Fundamentals: Linux Administration, Networking Fundamentals, Incident Management & RCA
+
+
+
+
+
+
+
+
+
+
+Show more 
+Seniority level
+Associate
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting and IT System Custom Software Development
+  
+
+Referrals increase your chances of interviewing at Randstad Digital by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Dublin, County Dublin, Ireland.
+
+Sign in to create job alert
+Similar jobs
+Cloud Infrastructure/Engineer
+Cloud Infrastructure/Engineer
+Mars Capital
+Dublin, County Dublin, Ireland
+2 weeks ago
+Cloud Infrastructure/Engineer
+Cloud Infrastructure/Engineer
+Mars Capital
+Dublin 4, County Dublin, Ireland
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+Susquehanna International Group
+Dublin, County Dublin, Ireland
+1 week ago
+Site Reliability Engineer, Dublin
+Site Reliability Engineer, Dublin
+Apple
+Dublin, County Dublin, Ireland
+5 months ago
+Cloud Engineer II
+Cloud Engineer II
+Sprinklr
+Dublin, County Dublin, Ireland
+11 hours ago
+Site Reliability Engineer
+Site Reliability Engineer
+Apple
+Dublin, County Dublin, Ireland
+3 months ago
+Show more jobs like this 
+People also viewed
+DevOps Engineer
+DevOps Engineer
+
+Intuition IT Solutions
+
+Dublin, County Dublin, Ireland
+1 week ago
+DevOps Engineer | AWS Cloud & Architecture | Artificial Intelligence
+DevOps Engineer | AWS Cloud & Architecture | Artificial Intelligence
+
+RECRUITERS
+
+Dublin, County Dublin, Ireland
+€75,000 - €80,000
+1 day ago
+Release Engineer
+Release Engineer
+
+Cisco
+
+Dublin, County Dublin, Ireland
+1 week ago
+AI Platform DevOps Engineer
+AI Platform DevOps Engineer
+
+The Clorox Company
+
+Dublin, County Dublin, Ireland
+1 week ago
+Software Engineer - Cloud Infrastructure
+Software Engineer - Cloud Infrastructure
+
+eBay
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+Sr Devops Engineer
+Sr Devops Engineer
+
+Fulcrum Digital Inc
+
+Dublin, County Dublin, Ireland
+1 week ago
+Cloud Platform Consultant
+Cloud Platform Consultant
+
+Version 1
+
+Dublin, County Dublin, Ireland
+1 day ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+MCS Group | Your Specialist Recruitment Consultancy
+
+Dublin, County Dublin, Ireland
+€80,000 - €90,000
+1 week ago
+Platform Engineer
+Platform Engineer
+
+Pepper Advantage
+
+Dublin, County Dublin, Ireland
+1 week ago
+Quantitative Development - DevOps Engineer
+Quantitative Development - DevOps Engineer
+
+Millennium
+
+Dublin, County Dublin, Ireland
+1 week ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

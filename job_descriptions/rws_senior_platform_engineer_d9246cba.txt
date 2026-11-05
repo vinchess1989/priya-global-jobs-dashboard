@@ -1,0 +1,272 @@
+Title: Senior Platform Engineer
+Company: RWS
+Location: Dublin, County Dublin, Ireland
+URL: https://ie.linkedin.com/jobs/view/senior-platform-engineer-at-rws-4485841942
+Posted: 2026-11-06
+Deadline: N/A
+Reason: The role is a strong match for her DevOps, CI/CD, and infrastructure automation expertise, and it is located in Ireland, which is one of her target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Platform Engineer
+RWS  Dublin, County Dublin, Ireland
+5 hours ago   Be among the first 25 applicants
+  
+
+See who RWS has hired for this role
+
+Apply 
+Save
+About RWS
+
+RWS is a global leader in content, translation, and intellectual property services. With more than 60 years of experience, RWS helps the world’s top brands grow by ensuring they are understood anywhere, in any language. The company combines proprietary technology with deep human expertise to deliver high-quality, compliant, and scalable solutions across industries such as life sciences, technology, finance, and legal.
+
+About TrainAI
+
+Training or fine-tuning artificial intelligence (AI) requires data. LOTS of data. However, not just any data will do – our clients need responsible AI data that’s targeted, accurate and reliable to ensure machine learning (ML) success. But preparing AI training data is a monumental task that can take up the vast majority of AI project time, leaving AI teams with precious little time to focus on developing, deploying and evaluating ML models. TrainAI by RWS helps our clients address this challenge head-on.
+
+With a seamless blend of technological understanding and human intelligence, TrainAI provides complete, end-to-end data collection and content generation, data annotation or labelling, human-in-the-loop data validation and generative AI data services for all types of AI, in any language, at any scale, based on the principles of responsible AI. Today, TrainAI supports four of the world’s top five technology companies, enhancing the performance of their generative AI by providing services such as prompt engineering, response refinement and red teaming with locale-specific domain experts across a broad range of topic areas and educational levels.
+
+Job Purpose
+
+As a Senior Platform Engineer in TrainAI, your job is to make our engineers faster. You’ll build and run the AWS platform, tooling and paved paths that let our product teams go from idea to production quickly, safely and on their own. You’ll treat the platform as a product and our developers as its customers.
+
+You’ll own the developer experience end to end: local development, CI/CD, preview environments, infrastructure as code, observability and the guardrails around them. You’ll work in the team, alongside the engineers who use what you build, and in line with the wider RWS platform reference architecture.
+
+Job Overview
+
+Responsibilities
+
+Developer Enablement
+
+
+Build paved paths for creating, deploying and running a service, such as service templates and golden pipelines, so engineers can ship without asking for help.
+Own and improve CI/CD (GitHub Actions). Make builds and tests fast, reliable and easy to understand.
+Provide self-service environments, including per-branch or preview environments and easy, repeatable local development setups.
+Measure and improve developer experience using DORA metrics, build times and developer feedback. Remove the friction you find.
+Write clear documentation and run onboarding so new engineers are productive in their first week.
+Act as an internal consultant. Pair with engineers, review designs and help teams adopt platform patterns.
+
+
+Cloud Platform & Infrastructure as Code
+
+
+Design and run TrainAI’s AWS foundations, including accounts, networking, identity and access, and security controls.
+Build reusable Terraform modules and templates that product engineers can use directly.
+Automate provisioning, secrets management and environment setup.
+
+
+Reliability & Observability
+
+
+Provide observability out of the box, including logs, metrics, tracing, dashboards and alerting (Dynatrace).
+Build guardrails such as policy-as-code, cost visibility and secure defaults, so the safe path is also the easy one.
+
+
+Requirements
+
+
+Developer enablement track record: Has built internal platforms, tooling or paved paths that other engineers adopted. Can show how they made a team measurably faster.
+Software engineering background: Writes production-quality code in at least one language (for example Python, TypeScript or Go) and understands what application developers need.
+CI/CD expertise: Has designed and run CI/CD pipelines (ideally GitHub Actions), including caching, parallelisation and safe deployment strategies.
+AWS: Strong hands-on experience building and running infrastructure on AWS.
+Infrastructure as Code: Strong Terraform, including writing reusable modules for others to consume.
+Containers: Experience with Docker and a container platform such as ECS or Kubernetes.
+Communication: Explains things clearly, writes good docs and enjoys helping other engineers succeed.
+
+
+Nice to have
+
+
+Experience with internal developer portals (for example Backstage) or service catalogues.
+Ephemeral or preview environments per pull request.
+AI-assisted development tooling (for example Claude Code or GitHub Copilot), and making it work well across a team.
+Observability platforms such as Dynatrace, Datadog or OpenTelemetry.
+Policy-as-code (OPA, Checkov) and cloud cost management.
+Supporting data platforms such as Databricks on AWS.
+
+
+Why Is This Role Different?
+
+
+Your customers sit next to you. You’ll be embedded in the TrainAI engineering team, so you’ll see the impact of every improvement you ship straight away.
+You set the standard. You’ll shape how TrainAI builds and ships software, with real ownership of the developer experience.
+Your work has an impact. Faster, safer delivery for a platform that supports four of the world’s top five technology companies.
+
+
+Life at RWS
+
+Life at RWS - If you like the idea of working with smart people who are passionate about growing the value of ideas, data and content by making sure organizations are understood , then you’ll love life at RWS.
+
+Our purpose is to unlock global understanding. This means our work fundamentally recognizes the value of every language and culture. So, we celebrate difference, we are inclusive and believe that diversity makes us strong. We want every employee to grow as an individual and excel in their career.
+
+In return, we expect all our people to live by the values that unite us: to partner, putting clients fist and winning together, to pioneer, innovating fearlessly and leading with vision and courage, to progress, aiming high and growing through actions and to deliver, owning the outcome and building trust with our colleagues and clients.
+
+RWS embraces DEI and promotes equal opportunity, we are an Equal Opportunity Employer and prohibit discrimination and harassment of any kind. RWS is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at RWS are based on business needs, job requirements and individual qualifications, without regard to race, religion, nationality, ethnicity, sex, age, disability, or sexual orientation. RWS will not tolerate discrimination based on any of these characteristics.
+
+RWS Values
+
+Get the 3Ps right – Partner, Pioneer, Progress – and we´ll Deliver together as RWS.
+
+Recruitment Agencies: RWS Holdings PLC does not accept agency resumes. Please do not forward any unsolicited resumes to any RWS employees. Any unsolicited resume received will be treated as the property of RWS and Terms & Conditions associated with the use of such resume will be considered null and void.
+
+,
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Business Content
+  
+
+Referrals increase your chances of interviewing at RWS by 2x
+
+See who you know
+
+Get notified about new Platform Engineer jobs in Dublin, County Dublin, Ireland.
+
+Sign in to create job alert
+Similar jobs
+Senior Platform Engineer
+Senior Platform Engineer
+Pepper Advantage
+Dublin, County Dublin, Ireland
+1 week ago
+Senior Platform Engineer
+Senior Platform Engineer
+Fidelity Investments
+Dublin, County Dublin, Ireland
+6 hours ago
+Senior Software Engineer - Platform Engineering
+Senior Software Engineer - Platform Engineering
+Bloomberg
+Dublin, County Dublin, Ireland
+1 week ago
+Staff Platform Engineer - EU
+Staff Platform Engineer - EU
+Ashby
+Greater Dublin
+€154,000 - €250,000
+5 days ago
+Senior Principal Platform Lead || AI & Agentic Systems
+Senior Principal Platform Lead || AI & Agentic Systems
+IFS
+Dublin, County Dublin, Ireland
+3 weeks ago
+Test Job 3
+Test Job 3
+Mark Middleware Test Company
+Dublin, County Dublin, Ireland
+1 month ago
+Show more jobs like this 
+People also viewed
+Senior Software Engineer - Infrastructure
+Senior Software Engineer - Infrastructure
+
+Toast
+
+Dublin, County Dublin, Ireland
+6 days ago
+Senior Manager, Platform Engineering
+Senior Manager, Platform Engineering
+
+Prove
+
+Dublin, County Dublin, Ireland
+1 week ago
+Senior Cloud Engineer
+Senior Cloud Engineer
+
+Sprinklr
+
+Dublin, County Dublin, Ireland
+3 days ago
+Senior Site Reliability Engineer — Platform Engineering
+Senior Site Reliability Engineer — Platform Engineering
+
+Guidewire Software
+
+Dublin, County Dublin, Ireland
+6 days ago
+Sr Lead Infrastructure Engineer (Workplace Solutions)
+Sr Lead Infrastructure Engineer (Workplace Solutions)
+
+JPMorganChase
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+Senior Linux Platform Development Engineer
+Senior Linux Platform Development Engineer
+
+Susquehanna International Group
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+SRE Lead
+SRE Lead
+
+Fiserv
+
+Dublin, County Dublin, Ireland
+3 weeks ago
+Senior Site Reliability Engineer - Dublin
+Senior Site Reliability Engineer - Dublin
+
+RapidRatings
+
+Dublin, County Dublin, Ireland
+1 week ago
+Staff Systems Engineer
+Staff Systems Engineer
+
+Inscribe AI
+
+Dublin, County Dublin, Ireland
+€118,000 - €145,000
+3 weeks ago
+Senior Capacity Planning Engineer
+Senior Capacity Planning Engineer
+
+eBay
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

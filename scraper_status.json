@@ -1,9 +1,9 @@
 {
   "pid": 49720,
   "started_at": "2026-11-06T01:12:39+02:00",
-  "heartbeat_at": "2026-11-06T01:23:02+02:00",
+  "heartbeat_at": "2026-11-06T01:26:43+02:00",
   "phase": "reviewing",
-  "detail": "Manager, Special Operations",
-  "last_scrape_ok_at": "2026-11-06T01:21:12+02:00",
+  "detail": "Project Change Manager",
+  "last_scrape_ok_at": "2026-11-06T01:25:47+02:00",
   "last_error": null
 }
