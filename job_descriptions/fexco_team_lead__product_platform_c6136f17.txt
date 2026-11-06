@@ -1,0 +1,341 @@
+Title: Team Lead, Product Platform
+Company: Fexco
+Location: County Kerry, Ireland
+URL: https://ie.linkedin.com/jobs/view/team-lead-product-platform-at-fexco-4488148599
+Posted: 2026-11-07
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in DevOps, CI/CD, and regulated environments (PCI DSS), and it is located in Ireland, which is a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Team Lead, Product Platform
+Fexco  County Kerry, Ireland
+11 hours ago   Be among the first 25 applicants
+  
+
+See who Fexco has hired for this role
+
+Apply 
+Save
+
+We are seeking an experienced Team Lead to lead the product platform team behind Fexco's payUnite payment platforms. This is a hands-on technical and delivery leadership role: you will make engineering decisions independently, set the team's priorities, and keep the workload and on-call arrangements sustainable.
+
+
+
+
+You will keep a PCI DSS scoped, Azure-hosted payments platform reliable and secure, and help build the team that runs it.
+
+
+
+
+About the Role
+
+As Team Lead, you will lead the delivery and operation of the payUnite product platform on Azure: private Kubernetes clusters across several regions and environments, Git-driven deployment, a layered infrastructure-as-code estate, CI/CD pipelines and the monitoring and alerting that keep cloud infrastructure healthy. You will build on the shared tooling provided by the core platform team, and the product platform team owns everything that sits between that tooling and the payment applications. Networking and Security are owned by specialist teams, so you will work with them rather than run them. The platform processes payment card data, so security, change control and compliance are part of everyday engineering.
+
+
+
+
+You review designs and unblock engineers without escalating. You turn a stream of requests from product owners and project managers into a sequenced, realistic plan. You assign work and plan capacity, and you stay close enough to the platform to step in on a complex incident. You will be hands-on in the early life of the team, with the balance moving towards leadership as the team grows.
+
+
+
+
+You will collaborate with application teams, the core platform team, security, networking, architecture and DBA colleagues, and report on delivery, reliability and risk to senior stakeholders. You line manage the engineers in the team, alongside providing technical and delivery leadership. Your hierarchical manager supports your people leadership and career development, and your functional manager sets the day-to-day priorities with you.
+
+
+
+
+This role is based in Ireland and offers a hybrid working arrangement, with occasional travel to The Fexco Innovation Centre in Kerry as required.
+
+
+
+
+What You'll Be Doing
+
+
+
+
+Technical Leadership and Decision-Making
+
+Make and own platform decisions across Kubernetes, deployment, infrastructure as code, observability and data services, weighing reliability, security, cost and delivery time
+Agree requirements with stakeholders outside the team, such as Service Delivery managers, application teams, network and security, and hold the line on what the platform needs from them
+Review infrastructure-as-code, deployment and pipeline changes and set engineering standards for the team
+Lead technical design discussions and architecture reviews for new capabilities, migrations and infrastructure changes
+Act as the senior technical escalation point for complex incidents and lead investigation, containment and remediation
+Decide when to invest in simplification, resilience and removal of technical debt alongside new project work
+
+
+
+
+Kubernetes, GitOps and Infrastructure as Code
+
+Own the delivery and operation of private, multi-zone Kubernetes clusters across regions and environments, including upgrades, capacity and workload security settings
+Run a GitOps delivery model: platform and application configuration declared in Git, synced automatically, with image and chart changes promoted through merge requests
+Maintain a layered infrastructure-as-code estate (thin deployable projects, composed modules, per-environment configuration) with pipeline-driven plan and apply
+Keep workload identity, secrets and in-cluster policy (pod security, network policy, admission control) defined as code
+Maintain the metrics, alerting and log routing for the platform infrastructure, within the data-handling rules for payment systems
+Onboard new tenants and applications onto the shared platform in a repeatable way
+
+
+
+
+Prioritisation and Delivery
+
+Take in work from product owners, project managers and other teams, clarify scope, and turn it into a sequenced plan with clear owners
+Weigh competing requests against reliability, compliance and delivery commitments, and say no or not yet with a reason
+Keep delivery visible: maintain the team's plan and board, track progress, flag risk early, and report to stakeholders
+Make sure each piece of work has a clear definition of done, including documentation and runbooks
+
+
+
+
+Workload Allocation and Capacity Planning
+
+Assign work according to skills, development goals and availability, and avoid single points of knowledge
+Plan team capacity across delivery, business-as-usual support, on-call load, leave and training
+Forecast demand against capacity and make the case for headcount, contractors or reduced scope when the two diverge
+Track effort and time spent so planning improves over time
+
+
+
+
+On-Call and Operational Ownership
+
+Take part in on-call for technical issues and act as an escalation point, with the balance changing as the team grows
+Organise the on-call rota with the team: keep it fair, cover swaps and leave, and keep escalation paths clear
+Own alert quality: page only for what is worth waking someone up for, and give every alert a tier, a route and a runbook
+Run post-incident reviews, publish postmortems and drive the follow-up actions to completion
+Lead business-as-usual support and ongoing maintenance for the platform and adjacent PCI applications, and keep the boundary between planned work and support clear
+
+
+
+
+Security, Compliance and Change Control
+
+Make sure platform changes meet PCI DSS requirements and the change approval process for production
+Work with the security team on vulnerability remediation, scanning, penetration test findings and policy enforcement in CI/CD
+Record any manual production change as infrastructure-as-code debt when it happens and drive it to closure
+
+
+
+
+People and Mentorship
+
+Line manage the engineers in the team, including one-to-ones, performance reviews and development planning
+Coach and mentor engineers and grow their technical depth and independence
+Provide input into hiring, onboarding and the development of the team
+Build a team culture of ownership, clear writing and blameless review
+
+
+
+
+Documentation and Continuous Improvement
+
+Own runbooks, operating procedures and architecture documentation, and keep them current
+Set and track delivery and reliability measures for the team (for example SLOs, incident volume, alert noise) and report on them
+Drive automation and simplification to reduce toil
+
+
+
+
+What We're Looking For
+
+
+
+
+Essential
+
+Significant experience at senior level in cloud platform, DevOps or site reliability engineering, including experience leading engineers with line management responsibility
+Strong hands-on production experience with Kubernetes: operating clusters and upgrades, configuring workloads and ingress, and applying workload security controls (pod security, network policy, admission policy)
+Experience running GitOps delivery with tools such as ArgoCD or Flux, plus Helm or Kustomize, including how to structure configuration across multiple environments
+Strong Infrastructure as Code skills, ideally Terraform, including module design, state management and pipeline-driven change
+Solid working knowledge of at least one major public cloud (Azure, AWS or GCP), enough to design infrastructure on it and to work effectively with the DBA, application, network and security teams. You do not need Azure experience, but you need the willingness to learn it and to coach others as you do
+Experience designing and operating CI/CD pipelines
+Experience with observability and alerting, and with running a production on-call rotation, including alert tiering and incident management
+Proven ability to prioritise competing demands from multiple stakeholders and to plan team capacity and allocate work
+Experience working in a regulated or security-sensitive environment (PCI DSS or comparable), including formal change control
+Sound independent judgement on architecture and trade-offs, with the confidence to make and explain decisions
+Scripting and automation capability (for example Python, Bash or PowerShell)
+Excellent communication skills with experience engaging technical and non-technical stakeholders, including senior management
+
+
+
+
+Desirable
+
+Experience with Microsoft Azure
+Experience with workload identity and secrets management for Kubernetes workloads
+Experience running managed database services alongside a platform
+Relevant cloud or Kubernetes certifications
+Experience in payments, financial services or other regulated industries
+Experience with PCI DSS scoped environments and audit evidence
+Experience with incident tooling such as Jira Service Management and structured postmortem practice
+
+
+
+
+Why Join Us?
+
+Lead the product platform team for a live, PCI DSS scoped payments platform on Azure
+Shape how a newly formed team plans, supports and improves its platforms
+Work on a modern stack: private Kubernetes, GitOps and infrastructure as code
+Grow a team and mentor engineers, with the autonomy to decide how the work gets done
+
+
+
+
+If you take ownership of outcomes, make sound technical decisions and help the people around you grow, we'd love to hear from you.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at Fexco by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+ServiceNow Product Analyst
+ServiceNow Product Analyst
+SMBC Group
+Tralee, County Kerry, Ireland
+2 weeks ago
+Head of Data & AI
+Head of Data & AI
+Kinisla
+Tralee, County Kerry, Ireland
+2 months ago
+SDLC Process and Governance Specialist
+SDLC Process and Governance Specialist
+SMBC Group
+Tralee, County Kerry, Ireland
+2 weeks ago
+CSV Lead
+CSV Lead
+Morgan McKinley
+Tralee, County Kerry, Ireland
+2 months ago
+Product Development Engineer
+Product Development Engineer
+Tricel
+Killarney, County Kerry, Ireland
+2 weeks ago
+Team Leader-Mechanical (Rope Drives)
+Team Leader-Mechanical (Rope Drives)
+Liebherr Maritime Cranes
+Killarney, County Kerry, Ireland
+11 hours ago
+Show more jobs like this 
+People also viewed
+General Operative
+General Operative
+
+Kepak Group
+
+Caherdaniel, County Kerry, Ireland
+1 month ago
+Line Manager - Kerry Area
+Line Manager - Kerry Area
+
+Tesco Ireland
+
+County Kerry, Ireland
+1 week ago
+Manager Audit
+Manager Audit
+
+Scotiabank
+
+Abbeydorney, County Kerry, Ireland
+39 minutes ago
+QA Engineering Lead
+QA Engineering Lead
+
+SMBC Group
+
+Tralee, County Kerry, Ireland
+3 days ago
+QA Data Engineering Lead
+QA Data Engineering Lead
+
+SMBC Group
+
+Tralee, County Kerry, Ireland
+3 days ago
+Full Stack Application Developer (Azure)
+Full Stack Application Developer (Azure)
+
+SMBC Group
+
+Tralee, County Kerry, Ireland
+3 days ago
+QC Systems Engineer
+QC Systems Engineer
+
+Astellas Pharma
+
+Tralee, County Kerry, Ireland
+1 week ago
+Technology Business Management Associate
+Technology Business Management Associate
+
+SMBC Group
+
+Tralee, County Kerry, Ireland
+1 week ago
+Senior Software Engineer (Python)
+Senior Software Engineer (Python)
+
+SMBC Group
+
+Tralee, County Kerry, Ireland
+1 week ago
+Virtualization Engineer
+Virtualization Engineer
+
+SMBC Group
+
+Tralee, County Kerry, Ireland
+1 week ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

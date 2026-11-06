@@ -1,9 +1,9 @@
 {
   "pid": 37188,
   "started_at": "2026-11-07T01:13:52+02:00",
-  "heartbeat_at": "2026-11-07T01:27:57+02:00",
+  "heartbeat_at": "2026-11-07T01:31:31+02:00",
   "phase": "reviewing",
-  "detail": "Senior DevOps Engineer",
-  "last_scrape_ok_at": "2026-11-07T01:26:52+02:00",
+  "detail": "IT Project Manager",
+  "last_scrape_ok_at": "2026-11-07T01:30:08+02:00",
   "last_error": null
 }
