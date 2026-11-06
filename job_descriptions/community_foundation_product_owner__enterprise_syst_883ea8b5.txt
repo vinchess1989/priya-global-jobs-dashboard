@@ -1,0 +1,258 @@
+Title: Product Owner (Enterprise Systems)
+Company: Community Foundation of Singapore
+Location: Singapore, Singapore
+URL: https://sg.linkedin.com/jobs/view/product-owner-enterprise-systems-at-community-foundation-of-singapore-4486580884
+Posted: 2026-11-06
+Deadline: N/A
+Reason: The role aligns with the candidate's experience in release management, documentation, and quality governance, and it is located in a target country (Singapore) with no explicit visa restrictions mentioned.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Product Owner (Enterprise Systems)
+Community Foundation of Singapore  Singapore, Singapore
+13 hours ago   Be among the first 25 applicants
+  
+
+See who Community Foundation of Singapore has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Responsibilities
+
+The Product Owner is accountable for maximizing the business value delivered by the product. This includes owning the product vision, strategy, roadmap, and backlog, and shaping business priorities across product-enabled processes.
+
+The role focuses on the "why", "what" and "when" of the product — value outcomes, user experience, and prioritization — while partnering with product administrators, developers, and integration teams on the "how" of solution delivery. The Product Owner also ensures appropriate approval and governance of product changes based on risk, compliance, and business impact.
+
+Key Responsibilities
+
+
+Own Product Vision, Strategy & Roadmap
+Define and communicate the product vision, goals, and success measures (e.g., data accuracy and integrity, error rates, automation levels, cycle times, user adoption).
+Align product strategy with business objectives, operating model, and technology standards.
+Maintain and socialize a multi-year product roadmap, including sequencing, dependencies, and expected value outcomes.
+Backlog & Pipeline Ownership
+Own, prioritize, and continuously refine the product backlog/pipeline to maximize value, balancing regulatory/compliance needs, risk reduction, technical health, and business outcomes.
+Ensure backlog items are well-defined (scope, dependencies, non-functional requirements where relevant, and acceptance criteria) and transparent to stakeholders and delivery teams.
+Define and maintain working agreements (e.g., Definition of Ready, Definition of Done), including UAT approach and sign-off criteria.
+Translate Business Needs into Functional Solutions
+Lead discovery with business stakeholders to understand pain points, define desired outcomes, and translate needs into user stories / functional requirements with measurable acceptance criteria.
+Drive functional solution decisions (e.g., configure vs. customize vs. integrate) in partnership with technical SMEs, optimizing for speed, operational efficiency, maintainability, security/auditability, and total cost of ownership.
+Own functional standards for the product (e.g., common ways of working, master data rules) and manage exceptions through agreed governance.
+Partner with Product Admins, Developers & Integration Teams
+Collaborate closely with product administrators, developers, integration teams, and vendors to deliver changes (configuration, scripting, reporting, integrations, etc.).
+Review technical solution designs to ensure alignment to business intent and standards.
+Coordinate UAT and functional sign-off; confirm release readiness, including training, communications, support handover, and documentation.
+Drive Data Integrity & Process Consistency (Business Ownership)
+Define and maintain business rules, controls, and process standards to drive consistency across subsidiaries/business units and prevent one-off decisions that reduce scalability and reporting integrity.
+Partner with process owners to drive the process changes needed to fully leverage product capabilities, improve productivity, and reduce operational and control risks.
+Partner with administrators to ensure role-based access, segregation of duties, and validations that will enable clean operations and compliant reporting.
+Own or co-own master data standards (e.g., customers, vendors, items, chart of accounts) and champion data quality practices with business/process owners.
+Data, Architecture & User Experience (UX) Stewardship
+Champion a user-centric approach to product decisions, ensuring that workflows, interfaces, and content are intuitive, accessible, and aligned to how end users actually work.
+Define and maintain UX guidelines and patterns for the product (e.g., navigation standards, form layouts, error messaging, terminology) in partnership with design and technical teams.
+Leverage qualitative and quantitative data (e.g., usage analytics, funnel/drop-off analysis, CSAT/NPS, support tickets, time-on-task) to identify pain points and opportunities to simplify and streamline the user experience.
+Establish and manage feedback loops with end users (e.g., interviews, surveys, usability testing, beta programs, office hours) and translate insights into clear product requirements and backlog items.
+Define, track, and report experience-focused KPIs (e.g., task completion rates, user adoption, time to complete key flows, error/rework rates) and incorporate findings into roadmap and prioritization decisions.
+Partner with data and analytics lead to align product data models, integrations, and reporting structures with target-state data architecture and reference architectures.
+Define and maintain conceptual and logical data views for the product (e.g., key entities, relationships, and flows) to support scalable integrations, analytics, and downstream systems.
+Ensure that data captured through the product (e.g., required fields, validation rules, defaults, and reference data) balances user effort with downstream needs for reporting, analytics, and controls.
+Own or contribute to data management practices for the product, including data lifecycle rules (creation, updates, retention, archival), data ownership, and stewardship responsibilities across business teams.
+Partner with data, analytics, and reporting teams to align on metric definitions, critical data elements, and master/transactional data usage, ensuring data is fit for purpose and enabling self-service insights where possible.
+Support compliance with data-related policies (e.g., privacy, retention, protection, segregation of data) by ensuring product features, configurations, and processes reflect required controls.
+Stakeholder Management & Governance
+Identify, engage, and manage stakeholders to align priorities, manage expectations, and secure required sponsorship and sign-offs.
+Act as the primary point of contact and decision facilitator for product demand, providing clear rationale for prioritization decisions.
+Establish and operate governance practices (intake, prioritization forums, approval thresholds, release cadence, and change control) to ensure a stable, transparent, and auditable change pipeline.
+Oversee user enablement (training materials, communications, office hours) to drive adoption and effective use of the product.
+Release, Testing, and Change Management
+Plan releases with delivery teams; coordinate UAT; publish release notes; and drive training and adoption for product changes and vendor updates.
+Provide post-release hypercare, triage issues, and prioritize fixes and enhancements.
+Track and report outcomes after go-live (e.g., adoption, time savings, defect trends, control effectiveness, user feedback) and feed insights into backlog prioritization and roadmap refinement.
+
+
+Qualifications
+
+
+Bachelor's degree in Business, Information Systems, Computer Science, Engineering, or a related discipline.
+3 - 5 years of relevant experience in product ownership, business analysis, project management, or process improvement.
+Demonstrated experience managing product roadmaps and backlogs and delivering cross-functional system or process changes.
+Experience working with business stakeholders, technology teams, vendors, and governance forums.
+Experience with Agile or hybrid delivery methods.
+Experience with NetSuite is advantageous.
+
+
+Skills
+
+
+Product strategy, roadmap development, and value-based prioritization.
+Business analysis, requirements elicitation, user story development, acceptance criteria definition and process re-engineering.
+Backlog management, release planning, UAT coordination, and change management.
+Strong stakeholder engagement, facilitation, negotiation, and decision-making skills.
+Ability to translate business needs into practical functional solutions in collaboration with technical teams.
+Analytical and problem-solving capability, including the use of data and user insights to guide decisions.
+Working knowledge of data governance, internal controls, access management, system integrations, and user experience principles.
+Clear written and verbal communication, with the ability to present complex issues to business and technical audiences.
+
+
+Other Information
+
+We regret that only shortlisted candidates will be notified.
+Show more 
+Seniority level
+Associate
+Employment type
+Full-time
+Industries
+Non-profit Organizations
+  
+
+Referrals increase your chances of interviewing at Community Foundation of Singapore by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Product Owner, Agentic Workflow Automation (AWA) APAC
+Product Owner, Agentic Workflow Automation (AWA) APAC
+BMW Group
+Singapore, Singapore
+1 day ago
+Technical Product Owner - Engineering & Enablement
+Technical Product Owner - Engineering & Enablement
+Resmed
+Singapore, Singapore
+2 days ago
+Technical Product Owner
+Technical Product Owner
+Resmed
+Singapore, Singapore
+2 days ago
+Product Owner
+Product Owner
+Thales
+Singapore, Singapore
+6 days ago
+Senior Technical Product Owner
+Senior Technical Product Owner
+Liberty in Asia Pacific
+Singapore, Singapore
+6 days ago
+Senior Product Owner
+Senior Product Owner
+Yara International
+Singapore, Singapore
+3 days ago
+Show more jobs like this 
+People also viewed
+Product Manager
+Product Manager
+
+Ocean Technologies Group
+
+Singapore
+4 weeks ago
+Product Manager (Technical)
+Product Manager (Technical)
+
+AvePoint
+
+Singapore
+2 weeks ago
+Senior Agile Business Analyst / Product Owner
+Senior Agile Business Analyst / Product Owner
+
+Mavericks Consulting
+
+Singapore, Singapore
+1 week ago
+Frontier Offers Architect
+Frontier Offers Architect
+
+Microsoft
+
+Singapore, Singapore
+2 weeks ago
+AVP/VP, Product Owner - GR TMRW
+AVP/VP, Product Owner - GR TMRW
+
+UOB
+
+Singapore, Singapore
+2 days ago
+Product Owner
+Product Owner
+
+Titansoft Pte Ltd
+
+Singapore
+3 months ago
+AVP, Business Analyst, Technology Group
+AVP, Business Analyst, Technology Group
+
+GIC
+
+Singapore, Singapore
+2 days ago
+Corporate Senior Business Analyst (IT)
+Corporate Senior Business Analyst (IT)
+
+Marina Bay Sands
+
+Singapore, Singapore
+3 weeks ago
+Razer Gold Product Owner – Razer Pay
+Razer Gold Product Owner – Razer Pay
+
+Razer
+
+Singapore
+5 months ago
+Product Functional Lead
+Product Functional Lead
+
+Accenture Southeast Asia
+
+Singapore, Singapore
+1 week ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
