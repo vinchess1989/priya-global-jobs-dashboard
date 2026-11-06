@@ -1,9 +1,9 @@
 {
   "pid": 49720,
   "started_at": "2026-11-06T01:12:39+02:00",
-  "heartbeat_at": "2026-11-06T02:21:35+02:00",
+  "heartbeat_at": "2026-11-06T02:23:32+02:00",
   "phase": "reviewing",
-  "detail": "Engineering and Maintenance Accounting Manager",
-  "last_scrape_ok_at": "2026-11-06T02:19:35+02:00",
+  "detail": "Principal Manager, EUC & Digital Workspace",
+  "last_scrape_ok_at": "2026-11-06T02:22:39+02:00",
   "last_error": null
 }
