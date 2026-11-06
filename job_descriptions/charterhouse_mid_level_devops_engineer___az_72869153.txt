@@ -1,0 +1,90 @@
+Title: Mid level DevOps Engineer | Azure DevOps, Jenkins & JFrog
+Company: Charterhouse
+Location: Sydney CBD, NSW, Australia
+URL: https://au.jora.com/job/DevOps-Engineer-cf35f493cc891b657753345cdf2ed7d2
+Posted: 2026-11-06
+Deadline: N/A
+Reason: The role is a strong match for the candidate's extensive experience in CI/CD, release management, and regulated environments, and it is located in Australia, which is a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Search
+Sign in
+What
+Where
+Search jobs
+Mid level DevOps Engineer | Azure DevOps, Jenkins & JFrog
+Charterhouse
+–
+Sydney CBD NSW
+Contract, Casual/Temporary
+1d ago, from seek.com.au
+Apply on company site
+
+Build, secure and optimise enterprise CI/CD platforms in a complex, business-critical environment.
+
+We are looking for an experienced Senior DevOps Engineer to support the design, implementation and ongoing optimisation of enterprise CI/CD infrastructure within a highly regulated environment.
+
+This is a hands-on engineering role, with a strong focus on Azure DevOps Server, Jenkins, JFrog Artifactory and Xray, platform automation, security and operational resilience.
+
+Experience supporting banking, payments or other business-critical platforms will be highly regarded.
+
+Key Responsibilities
+
+
+Design, configure and maintain secure CI/CD pipelines using Azure DevOps Server, Jenkins and JFrog.
+Develop YAML pipelines, reusable templates and automated deployment processes.
+Manage Artifactory repositories, access controls, artifact promotion and migration.
+Automate platform provisioning, monitoring, configuration and remediation.
+Troubleshoot CI/CD, authentication, infrastructure and deployment issues.
+Support platform upgrades, disaster recovery, high availability and production releases.
+Implement DevSecOps practices, vulnerability scanning and security controls.
+Produce technical documentation, implementation plans and operational runbooks.
+Skills & Experience
+
+8+ years in IT, including at least 5 years in DevOps or CI/CD engineering.
+Strong hands-on expertise in Azure DevOps Server, Jenkins and YAML pipelines.
+Practical experience with JFrog Artifactory and Xray, including repository administration and artifact management.
+Strong scripting skills using PowerShell, Python or shell.
+Experience across Windows/Linux environments, Git, databases and networking.
+Solid understanding of DevSecOps, access management and infrastructure security.
+Experience with high availability, disaster recovery and production support.
+Exposure to banking, payments or regulated enterprise environments.
+Nice to have: Docker, Maven, NuGet, npm, REST APIs and observability tools such as Splunk, Grafana or Prometheus.
+
+Interested?
+If you have strong enterprise CI/CD engineering experience and enjoy working on complex, business-critical platforms, I'd love to hear from you.
+
+Please apply directly or contact Marianne at ********@charterhouse.com.au for a confidential chat.
+
+Apply on company site
+Be careful - Don’t provide your bank or credit card details when applying for jobs. Don't transfer any money or complete suspicious online surveys. If you see something suspicious, report this job ad.
+Email to yourself or a friend
+Email job
+Discover Jora
+Browse jobs
+Browse salaries
+Find recruiter
+About
+FAQ
+Blog
+Reviews
+Browse Jobs in Australia
+Jobs in Sydney
+Jobs in Melbourne
+Jobs in Hobart
+Jobs in Brisbane
+Jobs in Perth
+Jobs in Darwin
+Jobs in Adelaide
+Connect with us
+TikTok
+Facebook
+Linkedin
+Get Jora app
+Contact us
+Privacy
+Terms & Conditions
+©2026 Job Seeker Pty Ltd
