@@ -1,9 +1,9 @@
 {
   "pid": 37188,
   "started_at": "2026-11-07T01:13:52+02:00",
-  "heartbeat_at": "2026-11-07T01:46:54+02:00",
+  "heartbeat_at": "2026-11-07T01:51:10+02:00",
   "phase": "reviewing",
-  "detail": "Documentor",
-  "last_scrape_ok_at": "2026-11-07T01:44:06+02:00",
+  "detail": "Group Information and Management Systems (IMS) Manager",
+  "last_scrape_ok_at": "2026-11-07T01:48:44+02:00",
   "last_error": null
 }
