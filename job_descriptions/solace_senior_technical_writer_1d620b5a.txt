@@ -1,0 +1,290 @@
+Title: Senior Technical Writer
+Company: Solace
+Location: Ottawa, Ontario, Canada
+URL: https://ca.linkedin.com/jobs/view/senior-technical-writer-at-solace-4488169894
+Posted: 2026-11-07
+Deadline: Open until filled
+Reason: The role is a strong match for her technical writing and documentation background, and it is located in Canada, which is one of her target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Technical Writer
+Solace  Ottawa, Ontario, Canada
+7 hours ago   Be among the first 25 applicants
+  
+
+See who Solace has hired for this role
+
+Apply 
+Save
+Enterprise AI is moving from pilots to production, and the constraint is no longer the model — it's the data. Agents are only as good as what they can sense, trust, and act on in the moment, and real-time, event-driven data is becoming the foundation every serious AI system runs on.
+
+Solace is the leading real-time data platform for the enterprise AI era. Established enterprises worldwide — including RBC Capital Markets, Bosch, Heineken, PSA Singapore, United Airlines, Schwarz Group, and hundreds more — have built their business around Solace to enable intelligent, real-time experiences, modernize their application and integration landscape, and create seamless digital journeys for their customers, partners, and employees.
+
+So, the next time you drive a car, order furniture online, fly in a plane, check your bank balance on your phone, your positive experience could be a direct result of our technology—and your hard work!
+
+About The Role
+
+This position is for a Senior Technical Writer in a highly technical role. You'll write and deliver documentation for docs.solace.com that's closely aligned with developer documentation: APIs, configuration references, and procedures for engineers and developers. You're expected to read code and to use AI-assisted coding or automation in your work. You'll represent customers in conversations with engineering and help define how we write content for AI agents while keeping it clear for human readers.
+
+We're looking for a systems thinker with opinionated product taste and real command of the technical writing craft: someone who blends traditional writing with AI-native techniques and solves documentation problems at scale, not one page at a time.
+
+What You’ll Do
+
+Content
+
+
+Create and modify existing customer-facing documentation for Solace event brokers, Solace Agent Mesh, APIs, and other Solace products.
+Deliver documentation on the release schedule to docs.solace.com in MadCap Flare (XML) and Markdown.
+Ensure content provides a positive experience for both human readers and AI agents.
+Collaborate with content providers and senior members of the writing team to update, revise, reorganize, and restructure existing documentation.
+Improve the style guide with the writing team and enforce it through automated checks and guardrails including contributions to quality metrics.
+
+
+Product and Engineering Enablement
+
+
+Interview PLM/POs, SMEs, and contributors to understand features and fill knowledge gaps, and verify details against the source code.
+Work closely with product management, UX, and architecture teams to ensure information is presented in a clear, user-friendly manner.
+Mentor and train writers and other documentation contributors, including guiding developers on how to structure their documentation for reusability and clarity.
+
+
+AI and Documentation Systems
+
+
+Use AI daily in content development and engineering workflows, including drafting new topics where the content suits it.
+Use AI-assisted coding or automation to build scripts and tools that solve content problems at scale.
+Help shape the structure and navigation of docs.solace.com to align with SEO and AEO best practices.
+
+
+What You’ll Bring to the Role
+
+
+7+ years writing technical documentation for software/cloud products with delivery in an Agile environment.
+Experience defining editorial standards or site structure for a large documentation set.
+Hands-on experience to set up environments and configure features, with working knowledge of IP networking and operating systems, enterprise software (installation, configuration, administration and API) to ensure accurate documentation.
+Strong technical aptitude, with the ability to converse with engineers and sort through complex information. This includes the ability to read and review code.
+A track record of scaling documentation through templates, reuse, contributor guidelines, or automation. Experience writing AI prompts or skills that improve a content workflow.
+Docs-as-code Git, GitHub, pull requests, Jenkins, and GitHub Actions.
+
+
+Why You’ll Love Working at Solace
+
+At Solace, we’re all about smart people, meaningful work, and good vibes.
+
+
+Work with brilliance – Our team is packed with some of the sharpest minds in the industry.
+Balance matters – We believe work should fit into your life, not the other way around.
+Hybrid-first – Flexibility is built into how we work, so everyone feels included and empowered.
+Values-driven – We live and breathe our core values: craftsmanship, trust, courage, freedom, momentum, humility, and human experience.
+Growth mindset – Our training programs are designed to help you level up, fast.
+Customer Obsessed – We’re proud of our world-class customer lineup (we’re not shy about it).
+Keep it fun – We’re social, we keep things simple, and we know how to have a good time.
+Creative culture – We’ve got a great sense of humour and we make cool videos on topics like MITT and this (check them out!).
+
+
+Role Status: EXISTING
+
+Expected Salary Range: Expected salary range for this role is from $100,000 to $130,000 per year. The final offer within this range will reflect the successful candidate’s skills and experience.
+
+At Solace, we are committed to a fair, inclusive, and transparent recruitment process.
+
+To help identify candidates whose qualifications best align with the role, we use artificial intelligence (AI) tools during the initial stage of resume screening. These tools compare submitted resumes to the job description, focusing on education, experience, and skills.
+
+Importantly, all decisions beyond this initial screening—including interviews and final hiring—are made by our human recruitment team. AI is never used to make final hiring decisions.
+
+Let’s Talk
+
+Not sure you meet every requirement? That’s okay — we’re more interested in your potential and passion. If this role excites you, we’d love to hear from you.
+
+Need accommodations during the hiring process? Just let us know — we’re here to support you.
+
+Thanks to everyone who applies! While we wish we could connect with every candidate, only those selected to move forward will be contacted.
+
+At Solace, we believe that diversity and inclusion drive innovation and growth, both in business and in life. We strive to create an enriching and safe workplace where you can be who you are. If you want to do the best work of your career and feel supported every step of the way, we encourage you to join us!
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Solace by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Lead Technical Writer jobs
+Senior Technical Writer
+Similar jobs
+Senior Technical Writer, Support Documentation
+Senior Technical Writer, Support Documentation
+Fullscript
+Ottawa, Ontario, Canada
+2 weeks ago
+Technical Writer
+Technical Writer
+Raytheon
+Ottawa, Ontario, Canada
+3 weeks ago
+Technical Writer, User Terminal (UT) Engineering
+Technical Writer, User Terminal (UT) Engineering
+Telesat
+Ottawa, Ontario, Canada
+1 day ago
+Technical Writer
+Technical Writer
+Compucom Staffing
+Ottawa, Ontario, Canada
+2 months ago
+Software Developer II (Technical Writing)
+Software Developer II (Technical Writing)
+CNN
+Kanata, Ontario, Canada
+4 days ago
+Technical Writer
+Technical Writer
+Avanciers Inc.
+Ottawa, Ontario, Canada
+CA$50 - CA$60
+1 week ago
+Show more jobs like this 
+People also viewed
+Technical Support Manager
+Technical Support Manager
+
+Work in Ottawa
+
+Ottawa, Ontario, Canada
+1 month ago
+Customer Success Engineer
+Customer Success Engineer
+
+Adobe
+
+Ottawa, Ontario, Canada
+1 day ago
+Technical Support Engineer
+Technical Support Engineer
+
+CrashPlan
+
+Ottawa, Ontario, Canada
+4 weeks ago
+Submarine Technical Training SME-EN
+Submarine Technical Training SME-EN
+
+CAE
+
+Ottawa, Ontario, Canada
+2 weeks ago
+Senior Consultant, Change Management - R8dius
+Senior Consultant, Change Management - R8dius
+
+Deloitte
+
+Ottawa, Ontario, Canada
+1 week ago
+Communications Officer, Adaptation
+Communications Officer, Adaptation
+
+Federation of Canadian Municipalities
+
+Greater Ottawa Metropolitan Area
+3 days ago
+Sr Field Support Representative
+Sr Field Support Representative
+
+Platinum Technologies Inc
+
+Ottawa, Ontario, Canada
+1 week ago
+Senior Requirements Engineer
+Senior Requirements Engineer
+
+Thales
+
+Ottawa, Ontario, Canada
+1 week ago
+Developer Advocate, AI Enablement
+Developer Advocate, AI Enablement
+
+BDO Canada
+
+Ottawa, Ontario, Canada
+7 months ago
+Senior Support Specialist
+Senior Support Specialist
+
+MSP Corp
+
+Ottawa, Ontario, Canada
+1 week ago
+Similar Searches
+Lead Technical Writer jobs
+253 open jobs
+Contract Technical Writer jobs
+123 open jobs
+Information Developer jobs
+14,724 open jobs
+Documentation Manager jobs
+2,050 open jobs
+Technical Writer jobs
+1,614 open jobs
+Senior Content Developer jobs
+273 open jobs
+Senior Proposal Writer jobs
+261 open jobs
+Senior Business Process Analyst jobs
+1,811 open jobs
+Documentation Engineer jobs
+1,410 open jobs
+Technical Editor jobs
+323 open jobs
+Technical Illustrator jobs
+540 open jobs
+Writer jobs
+1,376 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
