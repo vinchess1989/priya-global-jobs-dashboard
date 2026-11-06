@@ -1,0 +1,260 @@
+Title: IT & Security Team Lead (EMEA Remote)
+Company: Pragmatike
+Location: Malta
+URL: https://mt.linkedin.com/jobs/view/it-security-team-lead-emea-remote-at-pragmatike-4485925187
+Posted: 2026-11-01
+Deadline: Open until filled
+Reason: The role aligns with the candidate's background in IT operations, security compliance, and documentation, and it is based in Malta, which is a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+IT & Security Team Lead (EMEA Remote)
+Pragmatike  Malta
+5 days ago  31 applicants
+  
+
+See who Pragmatike has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Location: Fully remote, EMEA timezone
+
+Start date: ASAP
+
+Duration: 6 months with opportunity to extend
+
+Languages: Fluent English required
+
+About The Opportunity
+
+Pragmatike is hiring an IT Manager to support the company's day-to-day IT operations and ensure employees have the equipment, accounts, and technical resources they need to work efficiently.
+
+This is a hands-on operational role focused on equipment preparation, device configuration, user account management, access permissions, and basic IT support.
+
+You'll be responsible for managing practical IT needs across the organization, supporting employee onboarding and offboarding, and ensuring that internal systems and workplace tools are properly configured and accessible.
+
+What You’ll Do
+
+
+IT Operations: Own the administration and day-to-day management of the company's SaaS ecosystem, including Google Workspace, messaging, collaboration tools, GitHub, password managers, cloud platforms, and HR and finance systems.
+Device Management: Manage the lifecycle of company devices across macOS, Windows, and Linux, including procurement, configuration, deployment, monitoring, and offboarding.
+IT Asset Management: Maintain an inventory of company software, hardware, licences, subscriptions, costs, and renewal dates, ensuring critical tools remain operational and properly maintained.
+Identity & Access Management: Own employee provisioning and deprovisioning, SSO configuration, authentication policies, access permissions, and regular access reviews across company systems.
+Network Security: Manage secure remote access to internal systems and infrastructure through VPNs, zero-trust access solutions, and appropriate device and network security controls.
+Security Policies & Procedures: Develop, implement, and maintain company-wide security policies covering access control, acceptable use, data handling, incident response, and vendor risk management.
+Security Monitoring & Incident Response: Establish security monitoring and alerting across identity, endpoints, and SaaS applications, and coordinate incident response when security issues arise.
+Security Awareness: Implement security awareness initiatives, including onboarding training, phishing simulations, and best practices around password management and data protection.
+Compliance & Audits: Drive the company's compliance roadmap, supporting frameworks such as ISO 27001, SOC 2, and NIS2. Coordinate internal controls, documentation, evidence collection, and audit preparation.
+Customer Security Requirements: Prepare and maintain security documentation, policies, technical overviews, and reusable responses to enterprise customer security questionnaires and assessments.
+Vendor Risk Management: Evaluate the security practices of external software providers and IT vendors, ensuring they meet the company's operational and security requirements.
+Internal IT Support: Act as the primary point of contact for internal IT issues, troubleshooting technical problems and coordinating with external providers when necessary.
+
+
+What We’re Looking For
+
+
+5+ years of experience in IT administration, IT operations, information security, or a related field.
+At least 2 years of experience owning IT operations and security responsibilities within a company of approximately 50–500 employees, ideally in a cloud, SaaS, or infrastructure environment.
+Strong hands-on experience administering Google Workspace, including SSO, SAML/OIDC, two-factor authentication, groups, organizational units, and data protection controls.
+Experience managing devices across macOS, Windows, and Linux using MDM or endpoint management solutions such as Jamf, Kandji, Microsoft Intune, or similar.
+Strong understanding of identity and access management, including SCIM provisioning, least-privilege access, access reviews, and password management.
+Experience securing remote workforce access through VPNs, zero-trust network access solutions, DNS, and related technologies.
+Practical experience implementing or maintaining at least one security and compliance framework, such as ISO 27001, SOC 2, or NIS2.
+Understanding of endpoint security, identity monitoring, security alerting, and incident response processes.
+Ability to automate IT administration and operational tasks using scripting languages such as Python, Bash, or PowerShell.
+Strong documentation and communication skills, with the ability to write clear security policies, operational procedures, and customer-facing security responses.
+Comfortable taking ownership of an IT and security function, establishing processes, and working independently in a fast-paced environment.
+Fluent English.
+
+
+Nice to Have
+
+
+Certifications such as CISSP, CISM, or ISO 27001 Lead Implementer.
+Experience securing production environments, bare-metal infrastructure, or GPU fleets within a cloud or hosting provider.
+Experience handling enterprise and public-sector security reviews, security questionnaires, and third-party risk assessments.
+Familiarity with security requirements and standards such as SecNumCloud and HDS.
+Experience with EDR, SIEM, and security monitoring platforms.
+Knowledge of confidential computing, tenant isolation, AMD SEV-SNP, Intel TDX, or hardware-based attestation.
+Experience building IT and security processes within a startup or scale-up experiencing rapid growth.
+Strong familiarity with AI tools and their practical application in IT administration and security operations.
+
+
+Why Join Us
+
+
+100% remote with the flexibility to work from anywhere in the EMEA region.
+Hands-on ownership of day-to-day IT operations and employee technical support.
+International environment working with a distributed team across different locations.
+Varied responsibilities across equipment management, IT administration, and user support.
+Immediate impact by ensuring employees have the tools and access they need to work effectively.
+Six-month contract with the opportunity to contribute to the company's operational setup.
+
+
+Pragmatike is committed to a fair, transparent, and inclusive recruitment process. We do not discriminate based on age, disability, gender, gender identity or expression, marital or civil partner status, pregnancy or maternity, race, religion or belief, sex, or sexual orientation.
+
+In accordance with GDPR, your personal data will be processed lawfully, fairly, and securely, and used solely for recruitment purposes, including sharing it with our client(s) for employment consideration.
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Pragmatike by 2x
+
+See who you know
+
+Get notified about new Security Team Lead jobs in Malta.
+
+Sign in to create job alert
+Similar jobs
+Information Security GRC Team Lead
+Information Security GRC Team Lead
+LeoVegas Group
+Sliema, Sliema, Malta
+2 weeks ago
+Head of Information Security
+Head of Information Security
+Moneybase
+Birkirkara, Malta
+6 days ago
+Head of Information Security
+Head of Information Security
+Calamatta Cuschieri
+Birkirkara, Malta
+6 days ago
+Security Operations Manager
+Security Operations Manager
+Platin Gaming Ltd.
+Malta
+3 weeks ago
+Senior Security Engineer
+Senior Security Engineer
+The Mill Adventure
+Malta
+3 weeks ago
+SOC Specialist
+SOC Specialist
+Axiom Recruit
+Malta
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Senior Service Delivery Manager
+Senior Service Delivery Manager
+
+Stott and May
+
+Valletta, Malta
+2 days ago
+Chief Technology Officer
+Chief Technology Officer
+
+BettingJobs
+
+Malta
+2 weeks ago
+Security Operations Analyst (SIEM Operations and Threat Detection)
+Security Operations Analyst (SIEM Operations and Threat Detection)
+
+Talan
+
+Valletta, Valletta, Malta
+2 weeks ago
+Head of Operations
+Head of Operations
+
+ARRISE
+
+Sliema, Sliema, Malta
+2 weeks ago
+𝐇𝐞𝐚𝐝 𝐨𝐟 𝐈𝐓 𝐎𝐩𝐞𝐫𝐚𝐭𝐢𝐨𝐧𝐬 - 𝑾𝒊𝒕𝒉 𝑰𝑻 𝑪𝑪𝑶 𝑺𝒖𝒄𝒄𝒆𝒔𝒔𝒊𝒐𝒏 𝑷𝒂𝒕𝒉𝒘𝒂𝒚
+𝐇𝐞𝐚𝐝 𝐨𝐟 𝐈𝐓 𝐎𝐩𝐞𝐫𝐚𝐭𝐢𝐨𝐧𝐬 - 𝑾𝒊𝒕𝒉 𝑰𝑻 𝑪𝑪𝑶 𝑺𝒖𝒄𝒄𝒆𝒔𝒔𝒊𝒐𝒏 𝑷𝒂𝒕𝒉𝒘𝒂𝒚
+
+Heroix
+
+Birkirkara, Malta
+2 days ago
+Information Security Specialist
+Information Security Specialist
+
+Calamatta Cuschieri
+
+Birkirkara, Malta
+1 week ago
+Infrastructure Technical Lead | Drive & Deliver
+Infrastructure Technical Lead | Drive & Deliver
+
+Archer - The IT Recruitment Consultancy (Malta)
+
+Burmarrad, Saint Paul's Bay, Malta
+€50,000 - €58,000
+1 day ago
+IT System Engineer
+IT System Engineer
+
+TOPPAN Security
+
+Zejtun, Malta
+4 weeks ago
+Senior Security Governance Specialist
+Senior Security Governance Specialist
+
+Betsson Group
+
+Ta' Xbiex, Ta' Xbiex, Malta
+3 days ago
+Compliance Operations Manager
+Compliance Operations Manager
+
+TripleEh Gaming Limited
+
+Malta
+1 month ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
