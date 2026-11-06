@@ -1,0 +1,285 @@
+Title: Tech Delivery Manager (AWS Cloud & DevOps)
+Company: Korn Ferry
+Location: London, England, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/tech-delivery-manager-aws-cloud-devops-at-korn-ferry-4488155942
+Posted: 2026-11-07
+Deadline: N/A
+Reason: The role aligns perfectly with the candidate's extensive experience in release management, CI/CD pipeline ownership, and technical delivery within regulated environments.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Tech Delivery Manager (AWS Cloud & DevOps)
+Korn Ferry  London, England, United Kingdom
+8 hours ago  46 applicants
+  
+
+See who Korn Ferry has hired for this role
+
+Apply
+Save
+Korn Ferry provided pay range
+
+This range is provided by Korn Ferry. Your actual pay will be based on your skills and experience — talk with your recruiter to learn more.
+
+Base pay range
+£550.00/daily - £640.00/daily
+
+Role: Tech Delivery Manager (AWS Cloud & DevOps)
+
+Rate: £640 per day
+
+Duration: 12 months
+
+Location: Remote (possible travel to site once or twice per month, London)
+
+IR35 determination: Inside
+
+Responsibilities:
+
+Cloud & AWS Delivery
+
+Overseeing delivery of platform capabilities and services built on AWS, ensuring secure, scalable, and well‑architected solutions.
+Coordinating technical planning and roadmap delivery within the product team.
+Ensuring cloud infrastructure, deployments, and environments are appropriately managed and maintained.
+
+DevOps & Engineering Enablement
+
+Championing DevOps practices including CI/CD, observability, automation, infrastructure‑as‑code and shift‑left testing.
+Supporting the team to mature the build‑run‑improve cycle, including release automation, incident response, monitoring and alerting.
+Improving and maintaining IaC standards (Terraform/CloudFormation), operational runbooks, and deployment pipelines.
+
+Delivery & Governance
+
+Maintaining delivery plans, sprint goals and release schedules for a long‑lived product team.
+Managing risks, issues, blockers and dependencies related to the platform.
+Ensuring platform changes meet agreed quality, security and operational controls.
+
+Stakeholder & Cross‑Team Engagement
+
+Acting as the main delivery contact point for team stakeholders including product leads, architects, business owners and other platform consumers.
+Translating technical information into clear delivery decisions and communicating progress effectively.
+Collaborating with adjacent teams (e.g., security, networks, shared services) where cross‑cutting decisions or approvals are required.
+
+Requirements:
+
+Hands‑on delivery experience in a cloud environment, ideally AWS, including working with teams building or running cloud‑native services.
+Strong understanding of AWS fundamentals (IAM, VPC, EC2, Lambda, S3, CloudWatch, CloudFormation/Terraform).
+Demonstrated experience with DevOps practices, CI/CD pipelines and automation tools (GitHub Actions, Jenkins, GitLab CI, Azure DevOps etc.).
+Experience working within a single multi‑disciplinary agile team delivering continuous increments of value.
+Ability to manage a product backlog, delivery plans, risks and dependencies.
+Strong communication skills, able to translate between technical and non‑technical stakeholders
+
+Desirable:
+
+AWS certifications (Solutions Architect, DevOps Engineer etc.).
+Experience with Kubernetes/EKS, containerisation (Docker), or serverless patterns.
+Understanding of SRE concepts (SLIs/SLOs, error budgets) and operational excellence.
+Participation in platform engineering or DevOps communities of practice.
+
+Qualifications:
+
+Essential: certification in a delivery methodology (Scrum, Kanban) and proven technical delivery experience.
+Desirable: AWS and DevOps‑related certifications
+
+
+
+
+
+
+
+
+About Korn Ferry
+
+
+
+
+Korn Ferry unleashes potential in people, teams, and organizations. We work with our clients to design optimal organization structures, roles, and responsibilities. We help them hire the right people and advise them on how to reward and motivate their workforce while developing professionals as they navigate and advance their careers. To learn more, please visit Korn Ferry at www.Kornferry.com
+
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Contract
+Industries
+Government Administration
+  
+
+Referrals increase your chances of interviewing at Korn Ferry by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Technical Project Engineer jobs
+Tech Delivery Manager (AWS Cloud & DevOps)
+Similar jobs
+DevOps Team lead
+DevOps Team lead
+Deel
+United Kingdom
+$70,000 - $120,000
+3 days ago
+Tech Lead
+Tech Lead
+Nearform
+United Kingdom
+1 week ago
+Senior Cloud Engineering Manager
+Senior Cloud Engineering Manager
+Worldwide Flight Services (WFS)
+United Kingdom
+1 week ago
+Head of Cloud Platform Engineering
+Head of Cloud Platform Engineering
+develop
+United Kingdom
+4 weeks ago
+Technology Lead (Remote - UK)
+Technology Lead (Remote - UK)
+Altus Group
+London, England, United Kingdom
+5 days ago
+Engineering Manager - Infrastructure
+Engineering Manager - Infrastructure
+Camunda
+United Kingdom
+10 hours ago
+Show more jobs like this 
+People also viewed
+Lead and Principal Platform & Infrastructure Engineering – United Kingdom
+Lead and Principal Platform & Infrastructure Engineering – United Kingdom
+
+Myn
+
+United Kingdom
+3 days ago
+Cloud Capability Lead
+Cloud Capability Lead
+
+Anson McCade
+
+England, United Kingdom
+£110,000 - £140,000
+2 weeks ago
+Engineering Manager - Core Infrastructure (Remote)
+Engineering Manager - Core Infrastructure (Remote)
+
+CrowdStrike
+
+London, England, United Kingdom
+2 weeks ago
+Head of Platform (Infrastructure & DevOps)
+Head of Platform (Infrastructure & DevOps)
+
+Mimica
+
+United Kingdom
+2 weeks ago
+Senior Manager, Core Infrastructure Engineering
+Senior Manager, Core Infrastructure Engineering
+
+Oracle
+
+United Kingdom
+2 weeks ago
+Engineering Manager
+Engineering Manager
+
+Runtime
+
+United Kingdom
+£115,000 - £150,000
+3 weeks ago
+Senior Platform Engineer (AWS)
+Senior Platform Engineer (AWS)
+
+Delaney & Bourton
+
+England, United Kingdom
+£65,000 - £75,000
+2 weeks ago
+Engineering Manager, Dedicated Integrations
+Engineering Manager, Dedicated Integrations
+
+GitLab
+
+United Kingdom
+1 day ago
+Platform Operations Manager
+Platform Operations Manager
+
+Fruition Group
+
+London, England, United Kingdom
+£55,000 - £74,000
+1 week ago
+Manager, Cloud Integrations
+Manager, Cloud Integrations
+
+11:11 Systems
+
+United Kingdom
+2 months ago
+Similar Searches
+Technical Project Engineer jobs
+2,834 open jobs
+Senior Technical Project Manager jobs
+2,810 open jobs
+Project Planning Engineer jobs
+625 open jobs
+Production Technologist jobs
+87 open jobs
+Mechanical System Engineer jobs
+4,192 open jobs
+Failure Analysis Engineer jobs
+2,046 open jobs
+Technical Program Manager jobs
+1,108 open jobs
+Escalation Engineer jobs
+2,836 open jobs
+Technology Project Manager jobs
+2,496 open jobs
+Customer Service Project Manager jobs
+3,376 open jobs
+Security Risk Manager jobs
+741 open jobs
+Networking Manager jobs
+10,651 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

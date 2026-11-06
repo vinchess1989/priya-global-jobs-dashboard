@@ -1,0 +1,295 @@
+Title: Delivery Manager
+Company: Exclaimer
+Location: London, England, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/delivery-manager-at-exclaimer-4486225407
+Posted: 2026-11-07
+Deadline: N/A
+Reason: The role aligns perfectly with the candidate's Salesforce expertise, release management background, and leadership experience, and it is located in the UK.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Delivery Manager
+Exclaimer  London, England, United Kingdom
+13 hours ago  34 applicants
+  
+
+See who Exclaimer has hired for this role
+
+Apply 
+Save
+Exclaimer provided pay range
+
+This range is provided by Exclaimer. Your actual pay will be based on your skills and experience — talk with your recruiter to learn more.
+
+Base pay range
+£80,000.00/yr - £85,000.00/yr
+When you join Exclaimer you will join a global award-winning SaaS provider with an exceptional revenue rate, ambitious growth plans, and an inclusive and outcomes-driven culture.
+
+Exclaimer is a high-growth SaaS company with 300+ colleagues across the UK, US, Europe, and Asia-Pacific. We promote a people-first culture built on fairness, inclusion, psychological safety, and continuous learning. As we evolve into a multi-channel platform for branded business communications, we offer employees the opportunity to shape the future of global communication—while growing their careers in a culture where curiosity, creativity, and accountability thrive.
+
+We’re officially Great Place To Work Certified™
+
+Exclaimer has been recognised by Great Place To Work® for our culture of collaboration, trust, and growth. This certification reflects our commitment to creating an environment where every voice matters and people genuinely enjoy coming to work. See our accreditations to learn more: Great Place to Work® UK | Great Place To Work® USA
+
+About The Opportunity 👇
+
+The Engineering Delivery Manager is accountable for both engineering leadership and end-to-end delivery across the Business Operations ecosystem. This role combines people management, engineering excellence, and delivery ownership into a single, accountable leader responsible for turning business priorities into high-quality, scalable solutions. Owning delivery outcomes and the development of technical talent, the Engineering Delivery Manager ensures work is delivered predictably, built to high standards, and aligned with Exclaimer's transformation and growth strategy.
+
+Key Responsibilities
+
+
+End-to-End Delivery Ownership
+Own the full delivery lifecycle, including backlog from scoping through to post-deployment support.
+Align team backlogs, priorities, and capacity with Business Operations objectives.
+Ensure delivery practices promote transparency, predictability, and value-based outcomes.
+Proactively manage risks, dependencies, and trade-offs across technical and business teams.
+Ensure delivery outcomes translate into measurable business impact, not just shipped work.
+Team Leadership & Performance Management
+Line manages Salesforce Admins, Developers and QA, or adjacent delivery roles.
+Own and report on OKRs and KPIs relevant to engineering and delivery performance.
+Build a high-performing, psychologically safe team culture grounded in accountability and continuous improvement.
+Balance delivery demands with sustainable workload and team wellbeing.
+Own resourcing, onboarding, capability development, and succession planning for the team.
+Stakeholder Communication & Collaboration
+Translate complex delivery progress into clear updates for business and transformation leaders.
+Work closely with Business Partners, Solutions Architect, and Business Analysts to align priorities and expectations.
+Facilitate cross-team planning and communication to reduce silos and increase transparency.
+Escalate blockers early with solutions-focused dialogue across stakeholders.
+Engineering Excellence & Standards
+Own and enforce SDLC standards including CI/CD, testing practices, code reviews, environments, and documentation.
+Champion scalable, secure, and maintainable engineering practices across all solutions.
+Partner closely with the Solutions Architect to ensure alignment with architectural standards and integration patterns.
+Identify, prioritise, and actively reduce technical debt rather than allowing it to accumulate.
+Promote continuous technical improvement and pragmatic innovation.
+Agile & Delivery Practices
+Use delivery metrics (throughput, cycle time, predictability, quality) to inform planning and improvement.
+Facilitate effective sprint planning, retrospectives, and prioritisation forums that lead to tangible change.
+Act as the single accountable owner for delivery progress, risks, and outcomes.
+
+
+Skills And Experience
+
+This is a Salesforce-specific delivery role. Candidates must have substantial, hands-on experience of the Salesforce platform, its architecture and its tooling. General delivery management experience without a Salesforce background will not be sufficient.
+
+Salesforce Experience (essential)
+
+
+Experience as a delivery manager, technical lead, release manager or equivalent on a large, multi-team Salesforce org (Sales Cloud, Service Cloud and/or Experience Cloud).
+Deep working knowledge of the Salesforce platform structure: the data model (objects, fields, relationships), security and sharing model (profiles, permission sets, roles, sharing rules), declarative automation (Flow, validation rules) and custom development (Apex, Lightning Web Components).
+Proven ownership of the Salesforce release lifecycle: sandbox and environment strategy, source control, change sets and metadata deployments, and CI/CD using Salesforce DX and tooling such as Copado, Gearset or Flosum.
+Experience enforcing Salesforce engineering standards, including Apex test coverage, code review, governor limit awareness, regression and UAT practices, and the management of Salesforce technical debt.
+Experience delivering Salesforce integrations and data work, including REST/SOAP APIs, middleware or MuleSoft, data migration, and data quality.
+Experience line managing Salesforce Admins, Developers and QA analysts, and planning their capacity around release cycles, including Salesforce's seasonal releases.
+Working knowledge of Salesforce backlog and delivery tooling, such as Jira or Azure DevOps, alongside Salesforce reporting and dashboards for delivery metrics.
+
+
+Leadership And Delivery Skills
+
+
+Proven experience leading cross-functional technical teams delivering complex Salesforce implementations, enhancements, or transformation initiatives.
+Strong people management capability with a track record of developing and retaining high-performing engineers.
+Deep understanding of engineering best practices and delivery frameworks, with the ability to apply them pragmatically.
+Excellent stakeholder management and communication skills, with the ability to bridge technical and business perspectives.
+Data-driven, delivery-focused, and comfortable making trade-offs in fast-moving environments.
+
+
+Salesforce certifications
+
+
+Essential: Salesforce Certified Administrator.
+Highly desirable: Salesforce Certified Platform App Builder and Salesforce Certified Platform Developer I.
+Highly desirable: Salesforce Certified Agile Accredited Professional.
+Desirable: Salesforce Certified Sales Cloud Consultant and/or Service Cloud Consultant, Salesforce Certified Business Analyst, or Salesforce Certified Platform Developer II.
+
+
+At Exclaimer, we’re proud to offer a benefits package that reflects our commitment to supporting you professionally, personally, and wherever life takes you.
+
+Alongside competitive pay, you’ll have access to generous paid time off, flexible working options including our XFlex programme and a “work from anywhere” allowance - plus enhanced leave for all new parents, regardless of gender, family structure, or path to parenthood. Our wellbeing offering includes comprehensive healthcare coverage, fully funded insurance and income protection, access to 24/7 virtual care, and mental health, legal and financial support through employee assistance programmes. We help you plan for the future with contributory retirement plans and savings support, and back your day-to-day wellbeing with perks like subscriptions to Calm and Blinkist, fitness and lifestyle credits, global travel assistance and a wide range of discounts. Wherever you're based, you'll find that Exclaimer’s benefits are designed to help you thrive: at work and beyond.
+
+At Exclaimer, inclusion is more than a policy - it’s part of who we are.
+
+We’re proud to be an equal opportunity employer and welcome applications from people of all backgrounds, experiences, and identities. We consider all candidates fairly and without discrimination irrespective of ethnicity, race, religion, nationality, age, gender, marital status, disability, neurodivergence, caring responsibilities, sexual orientation, or gender identity. We’re building a culture where everyone feels they belong and can thrive, and we’d love for you to be part of it. If you require any reasonable adjustments or support through the application or hiring process, please email the team in confidence via Work@Exclaimer.com to let us know.
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Exclaimer by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Head of Faculty jobs
+Delivery Manager
+Similar jobs
+Delivery Manager
+Delivery Manager
+Methods
+London, England, United Kingdom
+2 days ago
+Delivery Manager
+Delivery Manager
+Burberry
+London, England, United Kingdom
+2 weeks ago
+Delivery Manager
+Delivery Manager
+Northrop Grumman UK
+London, England, United Kingdom
+1 week ago
+Delivery Manager
+Delivery Manager
+Version 1
+London, England, United Kingdom
+2 weeks ago
+Minor Works Delivery Team Lead
+Minor Works Delivery Team Lead
+SITA
+London, England, United Kingdom
+2 weeks ago
+Delivery Lead – Networks, Infrastructure & Service Desk
+Delivery Lead – Networks, Infrastructure & Service Desk
+Nando's UK & IRE
+London Area, United Kingdom
+3 weeks ago
+Show more jobs like this 
+People also viewed
+Delivery Manager
+Delivery Manager
+
+UBDS Digital
+
+London, England, United Kingdom
+1 day ago
+Delivery Manager
+Delivery Manager
+
+Vega
+
+London, England, United Kingdom
+2 months ago
+Deployment Manager
+Deployment Manager
+
+HIVE
+
+London, England, United Kingdom
+2 weeks ago
+Delivery Manager - Future Opportunities
+Delivery Manager - Future Opportunities
+
+Seriös Group
+
+London, England, United Kingdom
+3 weeks ago
+Delivery Lead
+Delivery Lead
+
+eMed Healthcare UK
+
+London, England, United Kingdom
+6 hours ago
+Delivery Manager (12 month FTC)
+Delivery Manager (12 month FTC)
+
+Kaluza
+
+London, England, United Kingdom
+2 days ago
+Delivery Lead
+Delivery Lead
+
+Experis UK
+
+London Area, United Kingdom
+1 week ago
+Senior Project Manager
+Senior Project Manager
+
+Deltatre
+
+London Area, United Kingdom
+3 weeks ago
+Technical Delivery Manager
+Technical Delivery Manager
+
+Aristocrat Interactive
+
+London, England, United Kingdom
+1 week ago
+Delivery Manager
+Delivery Manager
+
+TRIA
+
+Hertfordshire, England, United Kingdom
+£85,000 - £95,000
+2 weeks ago
+Similar Searches
+Head of Faculty jobs
+166 open jobs
+Change And Configuration Manager jobs
+386 open jobs
+Agile Coach jobs
+3,225 open jobs
+Delivery Director jobs
+5,011 open jobs
+Global Network Manager jobs
+797 open jobs
+Scrum Master jobs
+15,217 open jobs
+Global Service Delivery Manager jobs
+551 open jobs
+Service Project Manager jobs
+4,000 open jobs
+Release Manager jobs
+5,967 open jobs
+Release Engineer jobs
+2,904 open jobs
+Portfolio Architect jobs
+2,395 open jobs
+Senior Software Project Manager jobs
+2,086 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
