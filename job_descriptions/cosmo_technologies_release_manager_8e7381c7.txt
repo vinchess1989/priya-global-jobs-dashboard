@@ -1,0 +1,268 @@
+Title: Release Manager
+Company: Cosmo Technologies
+Location: Toronto, Ontario, Canada
+URL: https://ca.linkedin.com/jobs/view/release-manager-at-cosmo-technologies-4488185922
+Posted: 2026-11-07
+Deadline: Open until filled
+Reason: The role is a perfect match for her background in release management, firmware/IoT release coordination, and configuration management, and it is located in a target country (Canada).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Release Manager
+Cosmo Technologies  Toronto, Ontario, Canada
+6 hours ago   Be among the first 25 applicants
+  
+
+See who Cosmo Technologies has hired for this role
+
+Apply
+Save
+Cosmo Technologies provided pay range
+
+This range is provided by Cosmo Technologies. Your actual pay will be based on your skills and experience — talk with your recruiter to learn more.
+
+Base pay range
+CA$95,000.00/yr - CA$115,000.00/yr
+Location: Greater Toronto Area preferred (remote with periodic on-sites)
+
+The role
+
+You'll own how Cosmo ships. Every release has to land across firmware, software, and cloud services, and you'll be the person who makes that happen on time and correctly. You'll run the release calendar, readiness reviews and go/no-go calls, manage staged firmware rollouts to devices in the field, and keep our release tooling working. You'll partner closely with our Senior TPM, who owns program health and the overall operating rhythm.
+
+What you'll do
+
+
+Own the release calendar and versioning for firmware OTA updates, mobile app releases and backend deployments
+Run release readiness reviews and go/no-go calls, and coordinate release-night execution with engineering, QA, support and our offshore teams
+Manage staged FOTA rollouts: define cohorts and stages, monitor device health, and pause or roll back when needed
+Own code freezes, including holiday freezes, and the exception process
+Own pre-release builds and distribution for UAT, internal testing, influencers and media
+Own the release configuration in Jira: fix versions, release workflows and automated release notes
+Plan release and incident coverage for holidays and high-risk launches, with clear escalation paths
+Write and maintain release runbooks so anyone on the team can follow the process
+Track release quality after every release and share what you learn with the Sr TPM and engineering leads
+
+
+What success looks like
+
+
+In 30 days, you've run a release alongside the interim owner and documented every manual step
+By 90 days, you own the release calendar and FOTA rollouts, and release runbooks are written for firmware, app and backend
+By six months, releases ship on a predictable cadence, release notes are fully automated and rollbacks are rare and fast
+
+
+Requirements
+
+What you bring
+
+
+4+ years in release management, release coordination or a closely related role
+Hands-on experience releasing software for connected devices, consumer electronics, wearables or IoT, including firmware updates in the field
+Working knowledge of branching and release strategies, CI/CD pipelines and QA cycles. You partner with engineers on pipelines rather than building them
+Experience with app store review cycles and staged rollouts
+Strong Jira skills, including versions, release workflows and automation rules
+Calm, clear communication when a release is at risk, and the confidence to call a no-go
+
+
+Nice to have
+
+
+Experience with wearables and vertical integration
+Experience coordinating releases with offshore teams across time zones
+
+
+Benefits
+
+What We Offer
+
+
+Competitive salary and benefits including 100% employer paid supplemental medical policy
+Remote working environment
+An opportunity to make a significant impact in a fast-growing company
+Generous PTO
+Collaborative, creative, and supportive work environment
+Show more 
+Seniority level
+Associate
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Cosmo Technologies by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Change And Release Manager jobs
+Release Manager
+Similar jobs
+Sr. Release Manager
+Sr. Release Manager
+PAR Technology
+Markham, Ontario, Canada
+1 week ago
+Sr. Release Manager
+Sr. Release Manager
+PAR Technology
+Toronto, Ontario, Canada
+1 week ago
+Portfolio Release Manager, Developer Experience Platform
+Portfolio Release Manager, Developer Experience Platform
+Priceline
+Toronto, Ontario, Canada
+3 days ago
+Lead, Release and Change Management
+Lead, Release and Change Management
+McKesson
+Mississauga, Ontario, Canada
+2 weeks ago
+Senior Portfolio Release Manager — Flights Acquisition & Retention
+Senior Portfolio Release Manager — Flights Acquisition & Retention
+Priceline
+Toronto, Ontario, Canada
+1 week ago
+Incident and Release Manager FCC
+Incident and Release Manager FCC
+Fidelity Canada
+Toronto, Ontario, Canada
+6 days ago
+Show more jobs like this 
+People also viewed
+Manager, DevOps
+Manager, DevOps
+
+Michael Page
+
+Markham, Ontario, Canada
+CA$110,000 - CA$115,000
+3 days ago
+Sr. Software Release Project Manager (Scaled Agile /Device Development, Systems Integration)
+Sr. Software Release Project Manager (Scaled Agile /Device Development, Systems Integration)
+
+SCIEX
+
+Vaughan, Ontario, Canada
+1 week ago
+Technical Project Manager
+Technical Project Manager
+
+Bally’s Corporation
+
+Toronto, Ontario, Canada
+1 month ago
+Engineer II / Managing Technology Partner
+Engineer II / Managing Technology Partner
+
+TD
+
+Toronto, Ontario, Canada
+2 weeks ago
+AI Inference Core - Technical Lead Manager, Release Qual & Integration
+AI Inference Core - Technical Lead Manager, Release Qual & Integration
+
+Cerebras
+
+Toronto, Ontario, Canada
+2 weeks ago
+Software Engineer, Simulation Scalability - Sim RIM (Release and Incident Management) Focus
+Software Engineer, Simulation Scalability - Sim RIM (Release and Incident Management) Focus
+
+General Motors
+
+Markham, Ontario, Canada
+5 days ago
+Technical Program Manager (Cloud)
+Technical Program Manager (Cloud)
+
+RBC
+
+Toronto, Ontario, Canada
+1 day ago
+DevOps Manager
+DevOps Manager
+
+Rightsline
+
+Toronto, Ontario, Canada
+CA$100,000 - CA$125,000
+1 week ago
+Technical Project Manager
+Technical Project Manager
+
+Intralot
+
+Toronto, Ontario, Canada
+2 weeks ago
+Senior Release Engineer
+Senior Release Engineer
+
+Questrade Financial Group
+
+North York, Ontario, Canada
+1 week ago
+Similar Searches
+Change And Release Manager jobs
+167 open jobs
+Release Engineer jobs
+1,158 open jobs
+Deployment Manager jobs
+4,679 open jobs
+Build And Release Engineer jobs
+1,070 open jobs
+Configuration Manager jobs
+487 open jobs
+Change Manager jobs
+8,343 open jobs
+Problem Manager jobs
+2,369 open jobs
+Assistant Professor of Mathematics jobs
+67 open jobs
+Delivery Manager jobs
+11,325 open jobs
+Game Producer jobs
+87 open jobs
+Incident Manager jobs
+585 open jobs
+SAP Basis Manager jobs
+124 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

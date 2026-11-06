@@ -1,9 +1,9 @@
 {
   "pid": 37188,
   "started_at": "2026-11-07T01:13:52+02:00",
-  "heartbeat_at": "2026-11-07T01:24:38+02:00",
+  "heartbeat_at": "2026-11-07T01:27:57+02:00",
   "phase": "reviewing",
-  "detail": "Design Quality Engineer",
-  "last_scrape_ok_at": "2026-11-07T01:22:57+02:00",
+  "detail": "Senior DevOps Engineer",
+  "last_scrape_ok_at": "2026-11-07T01:26:52+02:00",
   "last_error": null
 }

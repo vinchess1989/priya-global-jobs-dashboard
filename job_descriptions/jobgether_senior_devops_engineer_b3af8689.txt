@@ -1,0 +1,231 @@
+Title: Senior DevOps Engineer
+Company: Jobgether
+Location: Ireland
+URL: https://ie.linkedin.com/jobs/view/senior-devops-engineer-at-jobgether-4486966480
+Posted: 2026-11-07
+Deadline: Open until filled
+Reason: The role aligns with the candidate's DevOps and automation expertise, is located in an eligible country (Ireland), and does not violate any hard rejection criteria.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer
+Jobgether  Ireland
+14 hours ago  31 applicants
+  
+
+See who Jobgether has hired for this role
+
+Apply
+Save
+This position is listed on behalf of a partner company, which manages all applications and next steps. Our partner is looking for a Senior DevOps Engineer based in Ireland.
+
+Join a Cloud Product Operations team supporting a leading platform for electronic agreements. In this senior role, you will take ownership of customer sandbox environments, ensuring they remain secure, scalable, and cost-efficient. You will design and implement automated solutions for environment provisioning, access management, resource lifecycle policies, and subscription tiering. Your work will help optimize cloud resource consumption while maintaining compliance with organizational policies and licensing agreements. Working closely with Product, Support, and Engineering teams, you will improve operational workflows and help deliver reliable customer experiences. This opportunity offers a collaborative, technically driven environment with room for professional growth.
+
+Accountabilities
+
+
+Design and implement automated policies governing customer access to sandbox environments, including timed evictions and automatic teardown, to improve resource efficiency and maintain security and compliance.
+Architect and automate the provisioning, assignment, and decommissioning of sandbox environments, ensuring customer usage aligns with organizational policies and licensing agreements.
+Develop and maintain a resource-tagging strategy for sandboxes and associated cloud resources to support tracking, billing, and auditing.
+Build automation and tooling to enable dynamic upgrades and downgrades of customer subscription tiers, including controls for feature access and sandbox capacity.
+Create dashboards, monitoring systems, and alerts to track sandbox usage, identify quota breaches, notify relevant users, and provide customers and administrators with actionable usage insights.
+Collaborate with Product, Support, and Engineering teams to troubleshoot issues, improve operational processes, and integrate new product features into DevOps workflows.
+
+
+Requirements
+
+
+Bachelor's degree in Computer Science, Engineering, or a related field, or equivalent practical experience.
+At least 4 years of experience as a DevOps Engineer, Cloud Engineer, or in Product Operations within SaaS environments.
+Hands-on experience managing sandbox or ephemeral environments for external customers.
+Strong knowledge of at least one major cloud platform: AWS, Azure, or Google Cloud Platform.
+Proficiency with Infrastructure as Code tools such as Terraform or CloudFormation.
+Practical experience with automation and orchestration technologies, including Python, Bash, or Ansible.
+Experience designing resource-tagging strategies, IAM policies, and automated user-access workflows.
+Good understanding of SaaS subscription models, billing mechanisms, and service-tier management.
+Strong communication and collaboration skills, with professional proficiency in English.
+Familiarity with cloud cost optimization and environment security best practices is an advantage.
+Experience working with CI/CD pipelines is considered a plus.
+
+
+Benefits
+
+
+Flexible working arrangements, including remote, office-based, or hybrid options.
+Competitive salary and compensation package.
+Personalized career development and growth opportunities.
+Professional development resources, including mentorship, technical talks, training programs, and Centers of Excellence.
+Active technical communities that encourage knowledge sharing and collaboration.
+Education reimbursement.
+Anniversary gifts and recognition.
+Corporate events and team-building activities.
+Additional benefits that may vary by location.
+
+
+How Jobgether Works
+
+We use an AI-powered matching process to ensure your application is reviewed quickly, objectively, and fairly against the role's core requirements. Our system identifies the top-fitting candidates, and this shortlist is then shared directly with the hiring company. The final decision and next steps (interviews, assessments) are managed by their internal team.
+
+We appreciate your interest and wish you the best!
+
+Why Apply Through Jobgether?
+
+Data Privacy Notice: By submitting your application, you acknowledge that Jobgether will process your personal data to evaluate your candidacy and share relevant information with the hiring employer. This processing is based on legitimate interest and pre-contractual measures under applicable data protection laws (including GDPR). You may exercise your rights (access, rectification, erasure, objection) at any time.
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Internet Marketplace Platforms
+  
+
+Referrals increase your chances of interviewing at Jobgether by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Senior DevOps Engineer, EMEA
+Senior DevOps Engineer, EMEA
+Keeper Security, Inc.
+Ireland
+1 week ago
+Senior Platform Engineer
+Senior Platform Engineer
+Attio
+Ireland
+1 week ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+Camunda
+County Galway, Ireland
+2 weeks ago
+Platform Engineer — Senior
+Platform Engineer — Senior
+EggAI Technologies
+Ireland
+1 month ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+SearchApi
+Ireland
+4 months ago
+Lead CI/CD Platform Engineer
+Lead CI/CD Platform Engineer
+Merative
+Ireland
+6 days ago
+Show more jobs like this 
+People also viewed
+Senior AI Compute Infrastructure Engineer
+Senior AI Compute Infrastructure Engineer
+
+Kraken
+
+Ireland
+1 week ago
+Senior Cloud Engineer
+Senior Cloud Engineer
+
+Optum
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+Staff Engineer
+Staff Engineer
+
+Solance
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+Staff Platform Engineer - EU
+Staff Platform Engineer - EU
+
+Ashby
+
+Greater Dublin
+€154,000 - €250,000
+6 days ago
+Platform Engineering Manager
+Platform Engineering Manager
+
+Precisely
+
+Ireland
+6 days ago
+Sr Devops Engineer
+Sr Devops Engineer
+
+Fulcrum Digital Inc
+
+Dublin, County Dublin, Ireland
+1 week ago
+Engineering Manager - Infrastructure
+Engineering Manager - Infrastructure
+
+Camunda
+
+County Galway, Ireland
+2 weeks ago
+Senior Engineer SRE
+Senior Engineer SRE
+
+General Motors
+
+Limerick, County Limerick, Ireland
+2 weeks ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+Rent The Runway
+
+Galway, County Galway, Ireland
+2 weeks ago
+Senior Cloud Engineer - Kubernetes Platform
+Senior Cloud Engineer - Kubernetes Platform
+
+Medtronic
+
+Galway, County Galway, Ireland
+1 week ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

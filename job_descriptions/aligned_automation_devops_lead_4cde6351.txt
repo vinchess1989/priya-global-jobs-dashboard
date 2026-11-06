@@ -1,0 +1,245 @@
+Title: DevOps Lead
+Company: Aligned Automation
+Location: Limerick, County Limerick, Ireland
+URL: https://ie.linkedin.com/jobs/view/devops-lead-at-aligned-automation-4486271858
+Posted: 06/26/2026
+Deadline: Open until filled
+Reason: The role is a perfect match for her background in DevOps, release management, and quality/compliance in regulated environments (GxP/CSV), and it is located in Ireland, which is a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Lead
+Aligned Automation  Limerick, County Limerick, Ireland
+3 hours ago   Be among the first 25 applicants
+  
+
+See who Aligned Automation has hired for this role
+
+Apply 
+Save
+Aligned Automation Services Pvt Ltd | Full time
+
+Limerick, Ireland | Posted on 06/26/2026
+
+Role Overview
+
+We are looking for a talented and driven DevOps Lead to own the engineering practices, toolchain, and delivery infrastructure underpinning our Manufacturing Execution System (MES) programme. This role is central to enabling fast, reliable, and compliant delivery of MES capabilities — bridging development, operations, and quality in a regulated manufacturing environment. Candidates with direct experience deploying, configuring, or maintaining off‑the‑shelf MES platforms such as Syncade are strongly preferred.
+
+Key Responsibilities
+
+Design, implement, and maintain CI/CD pipelines to support reliable and repeatable MES deployments across development, test, and production environments.
+
+Own the DevOps toolchain — source control, build automation, release management, environment provisioning, monitoring, and observability.
+
+Define and enforce branching strategies, code review processes, and release management standards appropriate to a regulated manufacturing environment.
+
+Work closely with MES vendors, system integrators, and internal teams to understand platform architecture and translate this into maintainable infrastructure-as-code and deployment automation.
+
+Lead environment management for MES platforms including Syncade, ensuring environments are correctly configured, version‑controlled, and fit for purpose across all lifecycle stages.
+
+Implement and maintain monitoring, alerting, and logging solutions to provide operational visibility of MES platform health and performance.
+
+Drive shift‑left quality practices — working with the testing team to embed automated testing into pipelines and ensuring quality gates are robust.
+
+Support computer system validation (CSV) activities, maintaining audit trails, deployment records, and change control documentation in compliance with GxP requirements.
+
+Manage infrastructure provisioning supporting MES workloads, ensuring security, resilience, and scalability.
+
+Identify and resolve bottlenecks in the delivery pipeline, continuously improving deployment frequency, lead time, and recovery metrics (DORA).
+
+Act as a technical authority and escalation point for infrastructure and deployment issues across the MES programme.
+
+Contribute to disaster recovery and business continuity planning for MES platforms.
+
+Proven experience in a DevOps Lead or Senior DevOps Engineer role on complex enterprise software programmes.
+
+Strong hands‑on experience with CI/CD tooling — Azure DevOps, Jenkins, GitHub Actions, or equivalent.
+
+Solid understanding of infrastructure-as-code (Terraform, Ansible, or similar) and configuration management practices.
+
+Experience managing environments for large-scale enterprise applications, including environment promotion strategies and configuration management.
+
+Proficiency in scripting languages (PowerShell, Bash, Python, or similar) for automation and tooling.
+
+Strong understanding of software delivery lifecycle, release management, and change control in enterprise settings.
+
+Experience working in regulated industries (pharmaceutical, life sciences, food & beverage, or similar) with awareness of compliance and validation requirements.
+
+Excellent problem‑solving skills with the ability to diagnose and resolve complex infrastructure and deployment issues under pressure.
+
+Direct experience deploying, maintaining, or supporting off‑the‑shelf MES platforms — ideally Syncade (Emerson) — including patch management, configuration, and upgrade activities.
+
+Familiarity with GxP computer system validation (CSV), GAMP 5 lifecycle, and associated documentation requirements (IQ, OQ, PQ).
+
+Knowledge of containerisation technologies (Docker, Kubernetes) and their applicability within regulated manufacturing environments.
+
+Understanding of MES integration patterns — ERP (SAP), LIMS, historian, and shop‑floor device connectivity.
+
+Experience with security hardening, vulnerability management, and operational security in manufacturing environments.
+
+Familiarity with OT/IT convergence and the specific constraints of deploying technology close to manufacturing operations.
+
+Personal Attributes
+
+Technically hands‑on and solutions‑oriented, with a drive to build things that are simple, reliable, and maintainable.
+
+Strong communicator — able to translate complex infrastructure topics for non‑technical stakeholders including QA and operations.
+
+Collaborative team player who can work effectively with vendors, system integrators, and cross‑functional internal teams.
+
+Comfortable operating with a degree of ambiguity in a programme environment, shaping approach as understanding develops.
+
+Committed to continuous improvement — staying current with DevOps practices and identifying opportunities to improve delivery performance.
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Industries
+Information Technology & Services
+  
+
+Referrals increase your chances of interviewing at Aligned Automation by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+DevOps Lead
+DevOps Lead
+EFOR
+Limerick, County Limerick, Ireland
+4 days ago
+Senior Engineer SRE
+Senior Engineer SRE
+General Motors
+Limerick, County Limerick, Ireland
+2 weeks ago
+Site Reliability Engineering Technical Lead
+Site Reliability Engineering Technical Lead
+AMCS Group
+Limerick, County Limerick, Ireland
+2 weeks ago
+DevOps Lead – MES & Regulatory Compliance
+DevOps Lead – MES & Regulatory Compliance
+Aligned Automation
+Limerick, County Limerick, Ireland
+3 hours ago
+Senior Software Engineer
+Senior Software Engineer
+General Motors
+Limerick, County Limerick, Ireland
+1 week ago
+Azure DevOps Engineer
+Azure DevOps Engineer
+Analog Devices
+Limerick, County Limerick, Ireland
+23 hours ago
+Show more jobs like this 
+People also viewed
+Engineering Manager
+Engineering Manager
+
+Ohshima Ireland Limited
+
+Shannon, County Clare, Ireland
+2 months ago
+Sr Engineer, Technical Onboarding
+Sr Engineer, Technical Onboarding
+
+Analog Devices
+
+Limerick, County Limerick, Ireland
+2 weeks ago
+Senior Azure Security Engineer
+Senior Azure Security Engineer
+
+Northern Trust
+
+Limerick, County Limerick, Ireland
+5 days ago
+Engineering Quality & Excellence Manager
+Engineering Quality & Excellence Manager
+
+AMCS Group
+
+Limerick, County Limerick, Ireland
+1 week ago
+Senior Associate, Cloud Security
+Senior Associate, Cloud Security
+
+Northern Trust
+
+Limerick, County Limerick, Ireland
+5 hours ago
+Principal, Security Engineering and Operations
+Principal, Security Engineering and Operations
+
+Northern Trust
+
+Limerick, County Limerick, Ireland
+6 hours ago
+Engineering Quality & Excellence Manager
+Engineering Quality & Excellence Manager
+
+AMCS Group
+
+Limerick, County Limerick, Ireland
+1 week ago
+Engineering Quality & Excellence Manager
+Engineering Quality & Excellence Manager
+
+AMCS Group
+
+Limerick, County Limerick, Ireland
+1 week ago
+Engineering Quality & Excellence Manager
+Engineering Quality & Excellence Manager
+
+AMCS Group
+
+Limerick, County Limerick, Ireland
+1 week ago
+Engineering Quality & Excellence Manager
+Engineering Quality & Excellence Manager
+
+AMCS Group
+
+Limerick, County Limerick, Ireland
+1 week ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

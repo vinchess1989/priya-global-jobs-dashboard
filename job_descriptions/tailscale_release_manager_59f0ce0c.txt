@@ -1,0 +1,280 @@
+Title: Release Manager
+Company: Tailscale
+Location: Canada
+URL: https://ca.linkedin.com/jobs/view/release-manager-at-tailscale-4485881382
+Posted: 2026-11-07
+Deadline: Open until filled
+Reason: The role is a perfect match for the candidate's extensive experience in release management, CI/CD, and process improvement, and it is located in Canada, which is a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Release Manager
+Tailscale  Canada
+23 hours ago  39 applicants
+  
+
+See who Tailscale has hired for this role
+
+Apply 
+Save
+Thank you for considering Tailscale. If this job description resonates with you, please apply. Frequently cited statistics show that people who identify with historically marginalized groups are likely to apply to jobs only if they meet 100% of the qualifications. We encourage you to help us break that statistic!
+
+About Tailscale
+
+Tailscale is making safe connection effortless by delivering software that makes it easy to securely interconnect people and their devices, no matter where they are. From hobbyists to multinational corporations, teams of every size use Tailscale each day to protect their networks, share access to internal tools, and more. We're building a future for the Internet that's easy, sensible, and safe, like it used to be. Founded in 2019 and fully distributed, we're backed by Accel, CRV, Insight, Heavybit, and Uncork Capital.
+
+About The Role
+
+We’re looking for a Release Manager to own how Tailscale ships our product, both internally and to customers. You’ll build and run our release coordination process and create the operational practices that coordinate product and engineering.
+
+You’ll work closely with engineering leads, product managers, TPMs and support. At first you’ll focus on building release management from the ground up: setting the release cadence, defining roles, building tooling, and agreeing on norms with the teams involved in releases. Later, it will grow into creating processes around other parts of how product and engineering collaborate, like operational metrics.
+
+You should understand how software gets shipped, including branching strategies, build pipelines, feature flags, and rollout mechanics. Your technical aptitude will allow you to design release processes that engineers trust and use.
+
+Tailscale moves fast and your processes should help us maintain our speed. When a process works well, it is nearly invisible - it keeps the right people informed, stays out of engineers’ way, and gives the team a plan.
+
+Key Responsibilities
+
+
+Design, implement, and continuously improve Tailscale’s release management process: including release cadence, readiness criteria, rollout coordination, and go/no-go decisions
+Build and maintain the tooling, templates, runbooks, and documentation that make release processes repeatable and low-friction
+Partner with engineering leads and product managers to surface risk early and drive resolution before it becomes a crisis
+Define and track operational metrics that reflect the health of our release practices (e.g., release frequency, change failure rate)
+Keep releases on schedule by facilitating cross-team planning rituals that keep engineering and product coordinated
+Identify and drive systemic improvements to how we operate, using data and judgment to prioritize what actually matters
+
+
+What We Are Looking For
+
+
+5+ years in engineering operations, release management, or a closely related role at a software company
+Direct experience building or significantly improving release management processes
+Technical fluency: you understand software development deeply enough to have credible conversations with engineers about build systems, deployment pipelines, branching strategies, and production operations
+Strong instincts for what process is worth having and what’s just overhead, and optimizing process for trust and adoption
+Comfort with ambiguity and the ability to build structure from scratch
+
+
+Nice to Have
+
+
+Experience with both client and server software release processes
+Experience at a developer tools, infrastructure, or security-focused SaaS company
+Familiarity with DORA metrics and how to use them to drive meaningful improvement
+Experience with feature flag systems, progressive rollouts, or canary deployments as release tools
+Experience scaling operational practices through periods of rapid team or product growth
+Hands-on experience with Tailscale at work or home
+
+
+As a company, we strive to maintain fair and equitable compensation practices within our team across all roles and all levels. Tailscale's compensation package includes base salary, equity, and comprehensive benefits. The salary range displayed on each job posting represents the target range for a new hire's base salary. Individual offers may vary based on experience and skill set.
+
+CAN Pay Range
+
+$242,540—$302,840 CAD
+
+What We Offer
+
+
+An inclusive, flexible environment where you can be your authentic self. We recognize the impact of diverse voices and backgrounds on the growth of our people, product, and company. And that flexibility in how and when you work empowers our team to integrate work and life.
+A competitive total compensation package. This includes a base salary, an equity incentive plan and variable commission (for quota-based roles).
+Comprehensive group benefits with no waiting period. Take advantage of coverage for health, vision, dental, and more for you and your family!
+Remote first company—most of our teams work fully remotely. Enjoy a change of scenery wherever you can get wifi, participate in virtual and in-person social events, and leverage our corporate co-working program to visit WeWork (or other similar spaces near you). Some roles require in-office collaboration depending on team needs, which will be clearly noted in the job description.
+Employer-funded retirement contributions. Tailscale will match your retirement contributions dollar-for-dollar, up to a maximum annual employer contribution equal to 0.75% of your eligible compensation.
+Connect with other Tailscalars IRL. Attend our annual company retreat, participate in team off-sites, and collaborate in person with teammates across Canada, the United States, the United Kingdom, and Singapore. We support intentional in-person connection through team travel and distributed collaboration.
+Support for your personal and professional development. Grow your career thoughtfully with $1500 USD annually for professional development, or take advantage of mentorship, coaching, and internal promotion opportunities.
+Paid time off and a healthy work-life integration. Our flexible, paid time off program supports you for any situation life throws your way, whether moving homes or travelling the world!
+A build-your-own home office setup. You choose your own company-owned laptop (Mac or PC), receive a monthly home internet reimbursement, and $500 USD to customize your workstation to make it your own.
+Paid parental leave program. We care about your life outside of work and encourage new parents to take advantage of parental leave top-ups (20 weeks for birthing parents, 16 weeks for non-birthing parents).
+
+
+Tailscale is committed to providing an accessible and inclusive hiring process. If you require an accommodation at any stage of the recruitment process or related to any aspect of this role, please contact your recruiter.
+
+Our hiring process uses AI-assisted tools to help screen and assess candidates. All hiring decisions are made by people.
+
+Please be aware that legitimate emails from Tailscale's talent team will only originate from @tailscale.com, @greenhouse.io, and @interviews.modernloop.io email addresses. For more information about protecting yourself from impersonators and scams, please visit https://tailscale.com/scam-awareness.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Tailscale by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Change And Release Manager jobs
+Release Manager
+Similar jobs
+Sr. Release Manager
+Sr. Release Manager
+PAR Technology
+Toronto, Ontario, Canada
+1 week ago
+Release Manager
+Release Manager
+Cosmo Technologies
+Toronto, Ontario, Canada
+CA$95,000 - CA$115,000
+6 hours ago
+Incident and Release Manager FCC
+Incident and Release Manager FCC
+Fidelity Canada
+Toronto, Ontario, Canada
+6 days ago
+Sr. Release Manager
+Sr. Release Manager
+PAR Technology
+Markham, Ontario, Canada
+1 week ago
+Release Manager (French Services) (Telework/Hybrid)
+Release Manager (French Services) (Telework/Hybrid)
+CBC/Radio-Canada
+Montreal, Quebec, Canada
+1 week ago
+Release Manager (French Services) (Telework/Hybrid)
+Release Manager (French Services) (Telework/Hybrid)
+Radio-Canada
+Montreal, Quebec, Canada
+1 week ago
+Show more jobs like this 
+People also viewed
+SAP Release Manager
+SAP Release Manager
+
+Accenture
+
+Montreal, Quebec, Canada
+2 weeks ago
+Senior Project Manager (PMO)
+Senior Project Manager (PMO)
+
+Irth
+
+Canada
+$145,000 - $150,000
+4 weeks ago
+Project Manager
+Project Manager
+
+TELUS Digital
+
+Ontario, Canada
+CA$88,000 - CA$110,000
+8 hours ago
+Program Manager, Customer Programs
+Program Manager, Customer Programs
+
+Dropbox
+
+Canada
+2 days ago
+Product Manager
+Product Manager
+
+Goji Labs
+
+Canada
+1 month ago
+Senior Portfolio Release Manager — Flights Acquisition & Retention
+Senior Portfolio Release Manager — Flights Acquisition & Retention
+
+Priceline
+
+Toronto, Ontario, Canada
+1 week ago
+Release Manager – 7 Days to Die
+Release Manager – 7 Days to Die
+
+Behaviour Interactive
+
+Montreal, Quebec, Canada
+1 week ago
+Product Manager, CMS (Remote)
+Product Manager, CMS (Remote)
+
+Forbes Advisor
+
+Ontario, Canada
+2 weeks ago
+Change & Release Management Specialist
+Change & Release Management Specialist
+
+Alberta Pensions Services Corporation (APS)
+
+Edmonton, Alberta, Canada
+CA$81,567 - CA$120,020
+2 weeks ago
+Release Manager - 7 Days to Die | Responsable du Déploiement - 7 Days to Die
+Release Manager - 7 Days to Die | Responsable du Déploiement - 7 Days to Die
+
+Behaviour Interactive
+
+Montreal, Quebec, Canada
+1 month ago
+Similar Searches
+Change And Release Manager jobs
+167 open jobs
+Release Engineer jobs
+1,158 open jobs
+Deployment Manager jobs
+4,679 open jobs
+Build And Release Engineer jobs
+1,070 open jobs
+Configuration Manager jobs
+487 open jobs
+Change Manager jobs
+8,343 open jobs
+Problem Manager jobs
+2,369 open jobs
+Assistant Professor of Mathematics jobs
+67 open jobs
+Delivery Manager jobs
+11,325 open jobs
+Game Producer jobs
+87 open jobs
+Incident Manager jobs
+585 open jobs
+SAP Basis Manager jobs
+124 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
