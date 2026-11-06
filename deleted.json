@@ -23033,5 +23033,22 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": null,
     "deletion_reason": "Deadline (2026-11-05) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Implementation Project Manager",
+    "company": "SELMA SIS",
+    "location": "Auckland, New Zealand",
+    "url": "https://nz.linkedin.com/jobs/view/implementation-project-manager-at-selma-sis-4488125968",
+    "visited": "yes",
+    "matches_requirements": "yes",
+    "reason": "The role aligns perfectly with the candidate's experience in release management, configuration management, and quality gatekeeping within regulated environments, and it is located in a target country.",
+    "id": "f92541bd",
+    "source": "linkedin_nz_release_manager",
+    "added_at": "2026-11-07T01:57:00+02:00",
+    "posted_date": "2026-11-07",
+    "deadline": "2024-11-23",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": "job_descriptions/selma_sis_implementation_project_manager_f92541bd.txt",
+    "deletion_reason": "Deadline (2024-11-23) passed by more than 2 days and unreviewed"
   }
 ]
