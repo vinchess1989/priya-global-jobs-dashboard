@@ -1,0 +1,274 @@
+Title: Senior DevOps Engineer - EA Sports Technology
+Company: EA SPORTS
+Location: Vancouver, British Columbia, Canada
+URL: https://ca.linkedin.com/jobs/view/senior-devops-engineer-ea-sports-technology-at-ea-sports-4486284786
+Posted: 2026-11-07
+Deadline: Open until filled
+Reason: The role is a strong match for her DevOps and CI/CD expertise, is located in a target country (Canada), and does not violate any hard rejection criteria.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer - EA Sports Technology
+EA SPORTS  Vancouver, British Columbia, Canada
+25 minutes ago   Be among the first 25 applicants
+  
+
+See who EA SPORTS has hired for this role
+
+Apply 
+Save
+Description & Requirements
+
+Electronic Arts creates next-level entertainment experiences that inspire players and fans around the world. Here, everyone is part of the story. Part of a community that connects across the globe. A place where creativity thrives, new perspectives are invited, and ideas matter. A team where everyone makes play happen.
+
+The DevOps team is looking for an experienced DevOps Engineer to join our team. We’re looking for candidates with experience designing, deploying, and operating solutions in a public cloud environment that interacts with corporate backend infrastructure and services. A DevOps Engineer can design a solution from the ground up, troubleshoot problems at both the network and Linux operating system level, and be able to collaborate across multiple teams of differing capabilities, a passion for technology.
+
+You will partner with the Operations Development Director and Technical Lead to estimate and complete projects and deliver excellent results. You have demonstrated the ability to work with large-scale systems and prioritize. We ask that you have a focus on uptime and predictability. You are passionate about building automation to reduce manual tasks. You will also involve some on-call support duties.
+
+Your Responsibilities
+
+
+Directly help deploy public cloud hosted services in an automated and operationally maintainable way.
+Troubleshoot deployment issues, connectivity challenges, performance problems, and availability outages.
+Establish a deployment and support model that adheres to the DevOps security standards.
+Design productivity enhancing tools to automate common system administration tasks.
+Maintain documentation of systems configurations and procedures, including runbooks for live support.
+Support an always-on gaming server infrastructure.
+Provide on-call support when needed for feature launches, live events, and emergency escalations.
+Troubleshoot and correct issues raised from production and live services operations.
+Evaluate and adopt technologies that improve the team efficiency and platform capabilities.
+Work with a global team to implement technologies and provide support within a follow the sun model.
+Mentor junior engineers, new hires, and interns.
+Partner with Development and QA teams for implementation of new game features, other operations teams, IT, and external hosting providers to maintain secure and scalable infrastructure.
+
+
+Your Qualifications
+
+
+Bachelor's degree from an accredited education institution in computer engineering, computer science, information systems or equivalent.
+4+ years of relevant experience with public cloud services (especially Azure, AWS, and GCP), including design, implementation, and operational support of critical systems.
+Practical experience with multiple DevOps tools and methodologies:
+Infrastructure as Code solutions such as Terraform.
+Container workload technologies such as Kubernetes, Helm, and Docker.
+Configuration management systems such as Chef and Ansible.
+Monitoring/observability systems such as Prometheus and Grafana.
+Pipeline automation systems such as Jenkins, GitLab, and GitHub.
+Analytical aligned with enthusiasm, experience and attitude.
+Experience developing automated solutions with at least one of the following languages: Python, Ruby, Go.
+Working knowledge of the Git distributed version control system.
+Demonstrated expertise in operating system and network security fundamentals for publicly accessible services hosted on Linux servers.
+Experience implementing network resources in public cloud context, including DNS, subnetting, route tables, NAT, and firewalls.
+Working knowledge of database concepts such as schema design, relational database management systems, NoSQL/Key-Value stores, performance tuning, client security and configuration.
+Experience porting large applications from a physical data center into a public cloud environment.
+
+Pay Transparency - North America
+
+Compensation And Benefits
+
+The ranges listed below are what EA in good faith expects to pay applicants for this role in these locations at the time of this posting. If you reside in a different location, a recruiter will advise on the applicable range and benefits. Pay offered will be determined based on a number of relevant business and candidate factors (e.g. education, qualifications, certifications, experience, skills, geographic location, or business needs).
+
+PAY RANGES
+
+
+British Columbia (depending on location e.g. Vancouver vs. Victoria) *$141,400 - $204,400 CAD
+
+
+Pay is just one part of the overall compensation at EA.
+
+For Canada, we offer a package of benefits including vacation (3 weeks per year to start), 10 days per year of sick time, paid top-up to EI/QPIP benefits up to 100% of base salary when you welcome a new child (12 weeks for maternity, and 4 weeks for parental/adoption leave), extended health/dental/vision coverage, life insurance, disability insurance, retirement plan to regular full-time employees. Certain roles may also be eligible for bonus and other incentive programs.
+
+About Electronic Arts
+
+We’re proud to have an extensive portfolio of games and experiences, locations around the world, and opportunities across EA. We value adaptability, resilience, creativity, and curiosity. From leadership that brings out your potential, to creating space for learning and experimenting, we empower you to do great work and pursue opportunities for growth.
+
+We adopt a holistic approach to our benefits programs, emphasizing physical, emotional, financial, career, and community wellness to support a balanced life. Our packages are tailored to meet local needs and may include healthcare coverage, mental well-being support, retirement savings, paid time off, family leaves, complimentary games, and more. We nurture environments where our teams can always bring their best to what they do.
+
+Electronic Arts is an equal opportunity employer. All employment decisions are made without regard to race, color, national origin, ancestry, sex, gender, gender identity or expression, sexual orientation, age, genetic information, religion, disability, medical condition, pregnancy, marital status, family status, veteran status, or any other characteristic protected by law. We will also consider employment qualified applicants with criminal records in accordance with applicable law. EA also makes workplace accommodations for qualified individuals with disabilities as required by applicable law.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Computer Games
+  
+
+Referrals increase your chances of interviewing at EA SPORTS by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Executive Assistant Project Manager jobs
+Senior DevOps Engineer - EA Sports Technology
+Similar jobs
+DevOps Engineer - EA SPORTS™ TECHNOLOGY
+DevOps Engineer - EA SPORTS™ TECHNOLOGY
+EA SPORTS
+Vancouver, British Columbia, Canada
+3 weeks ago
+Senior Software Engineer (Devops)
+Senior Software Engineer (Devops)
+Electronic Arts (EA)
+Vancouver, British Columbia, Canada
+1 week ago
+Site Reliability Engineer
+Site Reliability Engineer
+Electronic Arts (EA)
+Vancouver, British Columbia, Canada
+6 hours ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+Walt Disney Animation Studios
+Vancouver, British Columbia, Canada
+3 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Pixieset
+Vancouver, British Columbia, Canada
+6 days ago
+Site Reliability Engineer
+Site Reliability Engineer
+Punt
+Vancouver, British Columbia, Canada
+CA$120,000 - CA$170,000
+1 week ago
+Show more jobs like this 
+People also viewed
+Intermediate/Senior DevOps, Site Reliability (Linux)
+Intermediate/Senior DevOps, Site Reliability (Linux)
+
+Global Relay
+
+Vancouver, British Columbia, Canada
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Varonis
+
+Vancouver, British Columbia, Canada
+1 day ago
+Sr Linux DevOps Engineer
+Sr Linux DevOps Engineer
+
+Enexus Global Inc.
+
+Vancouver, British Columbia, Canada
+3 weeks ago
+Staff CloudOps Developer
+Staff CloudOps Developer
+
+Corpay
+
+Vancouver, British Columbia, Canada
+1 week ago
+DevOps Manager
+DevOps Manager
+
+Delta Controls
+
+Surrey, British Columbia, Canada
+2 months ago
+DevOps Engineer
+DevOps Engineer
+
+Benchmark Recruitment
+
+Greater Vancouver Metropolitan Area
+CA$113,900 - CA$147,400
+1 week ago
+Senior AI Platform Engineer
+Senior AI Platform Engineer
+
+Cactus Club Cafe
+
+Vancouver, British Columbia, Canada
+CA$170,000 - CA$195,000
+1 day ago
+Senior Site Reliability Engineer (SRE) – CloudVision as a Service (CVaaS)
+Senior Site Reliability Engineer (SRE) – CloudVision as a Service (CVaaS)
+
+Arista Networks
+
+Vancouver, British Columbia, Canada
+1 week ago
+Senior DevOps Engineer (SRE / Platform Engineering)
+Senior DevOps Engineer (SRE / Platform Engineering)
+
+TLNT Bridge Recruiting
+
+Vancouver, British Columbia, Canada
+CA$113,900 - CA$147,000
+2 days ago
+DevSecops Engineer
+DevSecops Engineer
+
+Fortiv Technical Inc.
+
+Vancouver, British Columbia, Canada
+CA$160,000 - CA$230,000
+1 week ago
+Similar Searches
+Executive Assistant Project Manager jobs
+144 open jobs
+International Student Advisor jobs
+554 open jobs
+Accounting Services Manager jobs
+819 open jobs
+Director of Administration jobs
+835 open jobs
+Director of Estimating jobs
+231 open jobs
+Vice President Administration jobs
+231 open jobs
+Corporate Business Manager jobs
+624 open jobs
+Deputy Chief of Staff jobs
+45 open jobs
+Personnel Officer jobs
+3,527 open jobs
+Senior Web Application Developer jobs
+3,046 open jobs
+Quality Assurance Chemist jobs
+61 open jobs
+Payroll Benefits Administrator jobs
+293 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at EA SPORTS
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

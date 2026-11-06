@@ -1,0 +1,259 @@
+Title: Senior DevOps Engineer
+Company: Activate Interactive
+Location: Singapore, Singapore
+URL: https://sg.linkedin.com/jobs/view/senior-devops-engineer-at-activate-interactive-4488139555
+Posted: 2026-11-07
+Deadline: Open until filled
+Reason: The role is a strong match for her DevOps, release management, and configuration management expertise in a regulated environment, and it is located in Singapore, which is one of her target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer
+Activate Interactive  Singapore, Singapore
+12 hours ago   Be among the first 25 applicants
+  
+
+See who Activate Interactive has hired for this role
+
+Apply 
+Save
+Activate Interactive Pte Ltd (“Activate”) is a leading technology consultancy headquartered in Singapore with a presence in Malaysia and Indonesia. Our clients are empowered with quality, cost-effective, and impactful end-to-end application development, like mobile and web applications, and cloud technology that remove technology roadblocks and increase their business efficiency.
+
+We believe in positively impacting the lives of people around us and the environment we live in through the use of technology. Hence, we are committed to providing a conducive environment for all employees to realise their full potential, who in turn have the opportunity to continuously drive innovation.
+
+We are searching for our next team members to join our growing team.
+
+If you love the idea of being part of a growing company with exciting prospects in mobile and web technologies that create positive impact on people’s lives, then we would love to hear from you.
+
+What will you do?
+
+
+Develop automation and processes to enable application teams to deploy, manage, scale and monitor their applications on the case management application platform (built on OutSystems)
+Take ownership of platform-level solutions, and coordinate with the infrastructure team on hosting, network and infrastructure issues
+Manage platform configuration, including user and role management, access control, integration endpoints (e.g. APIs, SSO) and platform settings
+Own the CI/CD pipelines and release management process for applications hosted on the case management platform, including deployment plans, versioning and rollback, and approve production release readiness
+Implement platform and application observability (metrics, logs, traces) with defined SLIs/SLOs, dashboards and alert tuning, and report availability and performance against service levels
+Deploy and manage platform and application monitoring for performance, availability, errors and usage, and identify bottlenecks to maximise service availability
+Conduct performance and load testing, capacity planning and performance tuning with application teams to keep the case management platform responsive under enterprise workloads
+Lead system troubleshooting and problem solving across platform and application domains, run incident and problem management including root cause analysis and post-incident reviews, and lead on-call escalations for customer facing issues
+Support business continuity at the platform level, including application backup, restore and disaster recovery testing, in coordination with the infrastructure team
+Track and report OutSystems licence utilisation (e.g. application objects, users, environments) to support central governance and license cost optimisation
+Implement and maintain platform and application security controls, such as secure configuration, secrets management and access policies
+Perform threat and risk assessments at the platform and application level, and apply secure configuration profiles
+Employ best practices when implementing security controls within the platform and applications
+Implement security practices that comply with standards (e.g. IM8) to protect the organisation’s data and applications
+Maintain security and compliance evidence for ICT&SS / IM8 and the System Security Plan (SSP), such as configuration baselines, access reviews, scan results and change records
+Extend CI/CD pipelines and environment controls to promote agentic AI components (e.g. agent configurations, prompts, guardrail settings) consistently with the same approvals, scanning and rollback as application releases
+Provide technical guidance and peer review to other DevSecOps engineers and relevant application teams.
+
+
+What are we looking for?
+
+
+Degree or Diploma in Computer Science, Computer or Electronics Engineering, Information Technology or related disciplines.
+At least 4 years of experience relevant to DevSecOps engineering, preferably at the application platform level
+Experience operating the OutSystems platform (O11 or OutSystems Developer Cloud), including LifeTime deployment, environment management and platform monitoring
+Passion for automation, standardisation and best practices
+Excellent understanding of Software Development Life Cycle, Test Driven Development, Continuous Integration and Continuous Delivery
+Experience supporting high availability, high performance and high security applications in cloud and hybrid environments
+Demonstrable skills in scripting languages such as Bash, PowerShell or Python
+Experience with version control systems such as Git
+Experience with cloud platforms such as GCC (e.g. AWS, Azure, Google Cloud)
+Ability to troubleshoot complex issues ranging from platform configuration to application stack traces
+Experience with application performance monitoring and logging tools (e.g. OutSystems monitoring, Elastic, Grafana, CloudWatch)
+Knowledge of application security testing tools (e.g. HP Fortify, SonarQube, Sonatype Nexus IQ) and secure coding practices
+Knowledge of platform-level backup, restore and disaster recovery
+Knowledge of container technologies such as Docker, Kubernetes
+Experience with DevOps toolset like GitLab, JIRA, BitBucket, Confluence
+Working knowledge of Government ICT&SS management policies (IM8) and SSP requirements, and has applied them to security controls, monitoring and release processes
+Experience with observability practices (SLIs/SLOs, distributed tracing, alert design, e.g. OpenTelemetry) and performance testing tools (e.g. JMeter, k6)
+Comfortable with Agile methodologies and working closely with product development teams
+Strong on collaboration and communication including documentation
+OutSystems certifications
+Experience with security assessments pertaining to government projects
+Worked for an organisation which succeeded DevSecOps transformation
+Basic understanding of network infrastructure and Linux, to work effectively with the infrastructure team.
+
+
+What do we offer in return?
+
+Competitive Compensation: Market competitive salary and variable performance bonus aligned to your skills, impact, and contribution.
+
+Benefits: Outpatient medical, specialist medical coverage and generous customisable flexi benefits, or flexi allowance; life and health insurance, thoughtful perks like special occasions “red packet” and CNY goodies, etc.
+
+Employee Wellness: Support for your physical, mental, and overall well-being through year-round initiatives.
+
+Growth & Development: Learning programmes, certification support, and a dedicated staff development budget. (We are a “SHRI 2025 Gold winner” in “Learning & Development; Coaching & Mentoring”)
+
+Career Progression: Structured career pathways that enable you to grow along a technical/domain expert track or a leadership track.
+
+Competency Framework: A structured and practical framework to support you to develop, perform, and succeed.
+
+Flexible Work Arrangement: Staff may choose to work flexi-place, flexi-time, and flexi-load based on existing framework
+
+Why you'll love working with us?
+
+If you are looking for opportunities to collaborate with leading industry experts and be surrounded by highly motivated and talented peers, we welcome you to join us. We provide all employees with equal opportunities to grow and develop with us. We believe your success is our success.
+
+Does it sound like something you are interested in exploring further? Please be in touch with our team for an initial chat at careers@activate.sg
+
+Activate Interactive Singapore is an equal opportunity employer. Employment decisions will be based on merit, qualifications and abilities. Activate Interactive Pte Ltd does not discriminate in employment opportunities or practices on the basis of race, colour, religion, gender, sexuality, national origin, age, disability, marital status or any other characteristics protected by law.
+
+Protecting your privacy and the security of your data are longstanding top priorities for Activate Interactive Pte Ltd.
+
+Your personal data will be processed for the purposes of managing Activate Interactive Pte Ltd’s recruitment related activities, which include setting up and conducting interviews and tests for applicants, evaluating and assessing the results, and as is otherwise needed in the recruitment and hiring processes.
+
+Please consult our Privacy Notice () to know more about how we collect, use, and transfer the personal data of our candidates. Here you can find how you can request for access, correction and/or withdrawal of your Personal Data.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Activate Interactive by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Senior Devops Engineer
+Senior Devops Engineer
+Grab
+Singapore, Singapore
+2 days ago
+DevOps Engineer
+DevOps Engineer
+Accenture Southeast Asia
+Singapore, Singapore
+1 month ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+Apple
+Singapore, Singapore
+3 months ago
+Platform Engineer (Cloud & DevSecOps)
+Platform Engineer (Cloud & DevSecOps)
+National University of Singapore
+Singapore, Singapore
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+StarHub
+Singapore, Singapore
+1 week ago
+DevOps & Kubernetes Engineer
+DevOps & Kubernetes Engineer
+Accenture Southeast Asia
+Singapore, Singapore
+1 month ago
+Show more jobs like this 
+People also viewed
+Senior DevOps Engineer (Trading Platform)
+Senior DevOps Engineer (Trading Platform)
+
+Crypto.com
+
+Singapore
+5 days ago
+DevOps Engineer
+DevOps Engineer
+
+Encora Inc.
+
+Singapore
+3 months ago
+DevOps Engineer
+DevOps Engineer
+
+TENTEN Partners
+
+Singapore, Singapore
+21 hours ago
+[LTA-ITCD] LEAD / PRINCIPAL / SENIOR CLOUD / DEVOPS ENGINEER
+[LTA-ITCD] LEAD / PRINCIPAL / SENIOR CLOUD / DEVOPS ENGINEER
+
+Land Transport Authority (LTA) Singapore
+
+Singapore, Singapore
+18 hours ago
+Cloud Senior DevOps Engineer
+Cloud Senior DevOps Engineer
+
+Bitdeer (NASDAQ: BTDR)
+
+Singapore
+2 weeks ago
+Infra DevOps Engineer
+Infra DevOps Engineer
+
+BIT Official
+
+Singapore, Singapore
+3 days ago
+Senior Site Reliability (DevOps) Engineer
+Senior Site Reliability (DevOps) Engineer
+
+Rakuten Asia Pte Ltd
+
+Singapore
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Native
+
+Singapore, Singapore
+3 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Manus AI
+
+Singapore, Singapore
+19 hours ago
+DevSecOps Engineer
+DevSecOps Engineer
+
+Virtusa
+
+Singapore, Singapore
+3 weeks ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Activate Interactive
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

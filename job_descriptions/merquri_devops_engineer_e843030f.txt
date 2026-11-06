@@ -1,0 +1,224 @@
+Title: DevOps Engineer
+Company: Merquri
+Location: Singapore, Singapore
+URL: https://sg.linkedin.com/jobs/view/devops-engineer-at-merquri-4488126558
+Posted: 2026-11-07
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in DevOps, CI/CD pipeline ownership, and release management, and it is located in a target country (Singapore).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+Merquri  Singapore, Singapore
+14 hours ago  28 applicants
+  
+
+See who Merquri has hired for this role
+
+Apply
+Save
+
+We have a great opportunity for a talented and self-motivated DevOps Engineer to join our team. You will work together in a team that are responsible for automated deployments, ensuring highest reliability and scalability processes for serving the needs from different departments.
+
+
+
+
+Roles and Responsibilities
+
+Collaborate with various teams that includes Development/Infra/Products to ensure successful delivery, maintenance planning and correction of build errors.
+Day-to-day monitoring, backup, deployment and maintenance of systems
+Develop/build/maintain continuous integration/deployment (CI/CD) pipelines and automated testing to support high quality software build in a continuous build/deploy environment (Jenkins Pipeline/Library)
+Writing scripts/programs for service monitoring and health check of systems which perform automated integration flow and alerting.
+Automate and build up scalable systems/environment using latest technologies (e.g. Kubernetes) with infrastructure-as-code and GitOps strategy
+Automate security hardening in testing, deployment and production setup based on industrial best practices
+Provide technical insights for the design and implementation of solutions.
+Promote a Dev Ops culture through building relationships with Development & Operations and driving enhancements to the end-to-end release process (workstation to production).
+Continuously identifying new tools, ideas to improve whole process of Production systems. Strong self learning ability, motivation to work on new Technologies.
+Any other duties assigned by the Team Lead/Solution Architect
+
+
+
+
+Requirements
+
+
+
+
+Degree in Computer Science or equivalent with 5 years of relevant experience in the below areas:
+
+Ability to troubleshoot problems and solve abstract issues during system administration.
+Experience with load balancing setup for TCP/IP, HTTP, DNS, routings.
+Experience in documentation for manuals, guides, troubleshooting and system design.
+Experience in computing platforms such as AWS/GCP/Azure (e.g. AWS: EC2, RDS, ELB, EFS, ELK, ElasticCache, S3, VPC, IAM, CloudWatch, KMS, AMK, EKS, MSK)
+Experienced with building and setting up high velocity and reliable CI/CD pipeline using tools/platforms such as Jenkins, Gitlab, Nexus, Maven, Spinnaker
+Knowledge on Quality Tools and Management tools like Sonar and Jira
+Proficiency with containers and cloud orchestration tools such as Docker, Kubernetes
+Hands on Infrastructure-as-Code control using tools such as Ansible AWX/Tower, RunDeck, Chef, Terraform, Puppet, Cloudformation and so on
+Familiarity with deployment of application performance monitoring (APM), Jeager, Open Tracing, App Mesh, AWS X-ray
+Hands on in depth experience in some of the following technologies:
+Vault/Grafana/Prometheus/Keycloak
+Ability to automate repeatable processes via scripts (e.g. via Terraform, bash, Powershell, Ruby, JS, Python, Groovy, etc.)
+Excellent experience with system administration (Ubuntu/Debian)
+Experienced with the latest DevSecOps orchestration tools, designing DevSecOps environment and Docker containers which are application-centric rather than component-specific
+AWS certification will be an added advantage
+Good to have experience with micro-services and event-driven systems (e.g. Kafka)
+Recognise, troubleshoot and resolve and system issues without supervision.
+Self-starter with the ability to appropriately priorities and plan complex work in a rapidly changing environment.
+Excellent spoken and written communication skill, and interpersonal skills
+
+
+
+
+Show more 
+Seniority level
+Executive
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Merquri by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+Accenture Southeast Asia
+Singapore, Singapore
+1 month ago
+DevOps & Kubernetes Engineer
+DevOps & Kubernetes Engineer
+Accenture Southeast Asia
+Singapore, Singapore
+1 month ago
+DevOps Engineer
+DevOps Engineer
+Capgemini
+Singapore, Singapore
+2 months ago
+DevOps Engineer
+DevOps Engineer
+StarHub
+Singapore, Singapore
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+Capgemini Engineering
+Singapore
+1 month ago
+DevOps Engineer
+DevOps Engineer
+Merquri
+Singapore, Singapore
+2 weeks ago
+Show more jobs like this 
+People also viewed
+DevOps Engineer
+DevOps Engineer
+
+Newtone consulting
+
+Singapore, Singapore
+1 day ago
+Site Reliability/DevOps Engineer
+Site Reliability/DevOps Engineer
+
+First Fun
+
+Singapore, Singapore
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Total eBiz Solutions
+
+Singapore, Singapore
+2 days ago
+DevOps Engineer
+DevOps Engineer
+
+Metaverse Cloud Solution Pte Ltd.
+
+Central Singapore Community Development Council, Singapore
+4 months ago
+DevOps Engineer
+DevOps Engineer
+
+HashWhale
+
+Singapore
+1 year ago
+DevSecOps Engineer
+DevSecOps Engineer
+
+Virtusa
+
+Singapore, Singapore
+3 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+JSIT for WST (Wholesale Trade) by Singapore Business Federation (SBF)
+
+Singapore, Singapore
+2 weeks ago
+App DevOps
+App DevOps
+
+StarHub
+
+Singapore, Singapore
+2 weeks ago
+DevOps-DevSecOps Engineer
+DevOps-DevSecOps Engineer
+
+Astek
+
+Singapore, Singapore
+3 weeks ago
+DevSecOps Engineer
+DevSecOps Engineer
+
+Kyndryl
+
+Singapore, Singapore
+2 weeks ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Merquri
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

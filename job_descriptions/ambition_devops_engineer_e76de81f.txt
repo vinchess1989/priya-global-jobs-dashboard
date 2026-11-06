@@ -1,0 +1,257 @@
+Title: DevOps Engineer
+Company: Ambition
+Location: Singapore, Singapore
+URL: https://sg.linkedin.com/jobs/view/devops-engineer-at-ambition-4485873960
+Posted: 2026-11-07
+Deadline: Open until filled
+Reason: The role aligns with the candidate's expertise in DevOps, CI/CD, and infrastructure automation, and it is located in a target country (Singapore) with no explicit visa restrictions mentioned.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+Ambition  Singapore, Singapore
+20 hours ago  45 applicants
+  
+
+See who Ambition has hired for this role
+
+Apply
+Save
+Ambition provided pay range
+
+This range is provided by Ambition. Your actual pay will be based on your skills and experience — talk with your recruiter to learn more.
+
+Base pay range
+SGD 7,000.00/mo - SGD 7,500.00/mo
+
+Direct message the job poster from Ambition
+
+Aadia Pillai
+Aadia Pillai
+Tech Recruiter @ Ambition Group
+
+Our client is a well-established digital payments company undergoing significant platform and infrastructure growth. They are seeking a Junior DevOps Engineer to support cloud operations, automation initiatives, and the ongoing development of scalable, secure, and highly available technology platforms in a collaborative engineering environment.
+
+
+
+
+Job Requirements:
+
+
+
+
+Bachelor’s degree in computer science, Engineering, or related field.
+At least 3 years of experience with DevOps tools and cloud environments.
+Hands-on experience with GitOps, IaC, and containerized applications.
+Familiarity with Terraform or CloudFormation.
+Knowledge of Docker and containerization principles.
+Exposure to Kubernetes or container orchestration concepts.
+Experience with AWS, Azure, or GCP.
+Strong understanding of Linux and shell scripting.
+Proficiency with Git and version control workflows.
+Understanding of DevOps automation practices.
+
+
+
+
+Responsibilities:
+
+
+
+
+CI/CD & Automation
+
+Build and maintain CI/CD pipelines for automated build, test, and deployment.
+Integrate automated testing into development workflows.
+Improve delivery speed, reliability, and overall deployment efficiency.
+
+Infrastructure as Code (IaC)
+
+Develop and maintain IaC using Terraform, CloudFormation, or Ansible.
+Automate provisioning and management of cloud infrastructure.
+
+Cloud Infrastructure
+
+Deploy and manage cloud environments ensuring scalability, availability, and reliability.
+
+Containerization & Orchestration
+
+Build and maintain containerized applications using Docker.
+Deploy and manage workloads using Kubernetes or other orchestration platforms.
+
+Monitoring & Logging
+
+Implement monitoring, logging, and alerting solutions.
+Analyze performance data to identify and resolve system issues.
+
+Collaboration & Support
+
+Work closely with development teams to streamline deployments.
+Troubleshoot infrastructure and environment-related issues.
+
+Security & Compliance
+
+Apply security best practices across infrastructure and CI/CD.
+Manage secrets, access control, and vulnerability scanning tools.
+
+Continuous Improvement
+
+Identify opportunities to automate manual tasks.
+Evaluate and adopt modern DevOps tools and practices.
+
+
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at Ambition by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+Accenture Southeast Asia
+Singapore, Singapore
+1 month ago
+DevOps & Kubernetes Engineer
+DevOps & Kubernetes Engineer
+Accenture Southeast Asia
+Singapore, Singapore
+1 month ago
+DevOps Engineer
+DevOps Engineer
+Capgemini
+Singapore, Singapore
+2 months ago
+DevOps Engineer
+DevOps Engineer
+StarHub
+Singapore, Singapore
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+Capgemini Engineering
+Singapore
+1 month ago
+DevOps Engineer
+DevOps Engineer
+Merquri
+Singapore, Singapore
+2 weeks ago
+Show more jobs like this 
+People also viewed
+DevOps Engineer
+DevOps Engineer
+
+Newtone consulting
+
+Singapore, Singapore
+1 day ago
+Site Reliability/DevOps Engineer
+Site Reliability/DevOps Engineer
+
+First Fun
+
+Singapore, Singapore
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Total eBiz Solutions
+
+Singapore, Singapore
+2 days ago
+DevOps Engineer
+DevOps Engineer
+
+Metaverse Cloud Solution Pte Ltd.
+
+Central Singapore Community Development Council, Singapore
+4 months ago
+DevOps Engineer
+DevOps Engineer
+
+HashWhale
+
+Singapore
+1 year ago
+DevSecOps Engineer
+DevSecOps Engineer
+
+Virtusa
+
+Singapore, Singapore
+3 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+JSIT for WST (Wholesale Trade) by Singapore Business Federation (SBF)
+
+Singapore, Singapore
+2 weeks ago
+App DevOps
+App DevOps
+
+StarHub
+
+Singapore, Singapore
+2 weeks ago
+DevOps-DevSecOps Engineer
+DevOps-DevSecOps Engineer
+
+Astek
+
+Singapore, Singapore
+3 weeks ago
+DevSecOps Engineer
+DevSecOps Engineer
+
+Kyndryl
+
+Singapore, Singapore
+2 weeks ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Ambition
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
