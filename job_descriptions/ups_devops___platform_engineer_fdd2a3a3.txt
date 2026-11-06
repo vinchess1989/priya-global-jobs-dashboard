@@ -1,0 +1,264 @@
+Title: DevOps / Platform Engineer
+Company: UPS
+Location: Chennai, Tamil Nadu, India
+URL: https://in.linkedin.com/jobs/view/devops-platform-engineer-at-ups-4475484456
+Posted: 2026-11-07
+Deadline: N/A
+Reason: The role aligns perfectly with the candidate's extensive experience in CI/CD, release management, and infrastructure automation, and it is located in India, one of her target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps / Platform Engineer
+UPS  Chennai, Tamil Nadu, India
+18 hours ago   Over 200 applicants
+  
+
+See who UPS has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Before you apply to a job, select your language preference from the options available at the top right of this page.
+
+Explore your next opportunity at a Fortune Global 500 organization. Envision innovative possibilities, experience our rewarding culture, and work with talented teams that help you become better every day. We know what it takes to lead UPS into tomorrow—people with a unique combination of skill + passion. If you have the qualities and drive to lead yourself or teams, there are roles ready to cultivate your skills and take you to the next level.
+
+Job Description
+
+Role Summary
+
+The DevOps / Platform Engineer enables engineering productivity by building scalable CI/CD pipelines, improving deployment automation, enhancing observability, and managing cloud infrastructure.
+
+Responsibilities
+
+
+Design, implement, and maintain CI/CD pipelines.
+Improve deployment safety and rollback mechanisms.
+Manage Azure and GCP cloud infrastructure.
+Support Infrastructure-as-Code implementations.
+Enhance monitoring and observability platforms.
+Automate infrastructure provisioning and operational tasks.
+Ensure release processes comply with SoD and governance requirements.
+Partner with engineering teams to improve developer experience.
+
+
+Required Skills
+
+
+4–8 years of DevOps or Platform Engineering experience.
+Strong CI/CD experience (Azure DevOps, GitHub Actions, Jenkins, etc.).
+Experience with Azure and/or GCP.
+Infrastructure-as-Code (Terraform, Bicep, ARM, etc.).
+Containerization (Docker, Kubernetes preferred).
+Monitoring tools such as Grafana, Splunk, Prometheus.
+Scripting experience (PowerShell, Bash, or Python).
+Strong understanding of cloud networking and security.
+
+
+As part of the Site Reliability Engineering (SRE) organization, every team member plays a critical role in maintaining the reliability and availability of our production systems.
+
+This role supports a 24x7 production environment supporting business-critical applications.
+
+All engineers are expected to participate in an on-call support rotation, including evenings, weekends, and public holidays as scheduled.
+
+During on-call periods, you will be expected to respond to production incidents within defined response time objectives, troubleshoot issues, and work collaboratively to restore service as quickly as possible.
+
+Candidates should be comfortable diagnosing complex production issues across applications, cloud infrastructure, databases, messaging systems, and integrations.
+
+Participation in post-incident reviews, root cause analysis (RCA), and implementation of permanent corrective actions is an essential part of the role.
+
+Team members are expected to continuously improve operational processes through automation, monitoring enhancements, and proactive reliability improvements to reduce recurring incidents.
+
+Flexibility to collaborate with globally distributed teams, including occasional overlap with US business hours, is expected to support production operations and major releases.
+
+A strong sense of ownership, accountability, and customer focus is essential, as ensuring platform stability and business continuity is a shared responsibility across the entire team.
+
+Employee Type
+
+Permanent
+
+UPS is committed to providing a workplace free of discrimination, harassment, and retaliation.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at UPS by 2x
+
+See who you know
+
+Get notified about new Platform Engineer jobs in Chennai, Tamil Nadu, India.
+
+Sign in to create job alert
+Jobs
+Site Reliability Engineer jobs
+DevOps / Platform Engineer
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+DHL
+Chennai, Tamil Nadu, India
+2 days ago
+DevOps Engineer
+DevOps Engineer
+Accenture in India
+Chennai, Tamil Nadu, India
+1 month ago
+DevOps / Cloud Engineer
+DevOps / Cloud Engineer
+India Health Link
+Chennai, Tamil Nadu, India
+2 months ago
+Devops Engineer
+Devops Engineer
+Larsen & Toubro
+Chennai, Tamil Nadu, India
+4 weeks ago
+Technology Platform Engineer
+Technology Platform Engineer
+Accenture in India
+Chennai, Tamil Nadu, India
+1 month ago
+Senior Platform Engineer - Hybrid (Chennai)
+Senior Platform Engineer - Hybrid (Chennai)
+Tensure
+Chennai, Tamil Nadu, India
+8 months ago
+Show more jobs like this 
+People also viewed
+Cloud Platform Engineer
+Cloud Platform Engineer
+
+Accenture in India
+
+Chennai, Tamil Nadu, India
+1 month ago
+Cloud Platform Engineer
+Cloud Platform Engineer
+
+Accenture in India
+
+Chennai, Tamil Nadu, India
+2 weeks ago
+Cloud Platform Engineer
+Cloud Platform Engineer
+
+Accenture in India
+
+Chennai, Tamil Nadu, India
+1 month ago
+Cloud Platform Engineer
+Cloud Platform Engineer
+
+Accenture in India
+
+Chennai, Tamil Nadu, India
+1 month ago
+DevOps Engineer
+DevOps Engineer
+
+DHL
+
+Chennai, Tamil Nadu, India
+2 days ago
+Devops Engineer
+Devops Engineer
+
+DHL
+
+Chennai, Tamil Nadu, India
+1 month ago
+DevOps Engineer
+DevOps Engineer
+
+Accenture in India
+
+Chennai, Tamil Nadu, India
+1 month ago
+DevOps Engineer
+DevOps Engineer
+
+Accenture in India
+
+Chennai, Tamil Nadu, India
+1 month ago
+DevOps Engineer
+DevOps Engineer
+
+Accenture in India
+
+Chennai, Tamil Nadu, India
+1 month ago
+DevOps Engineer
+DevOps Engineer
+
+Accenture in India
+
+Chennai, Tamil Nadu, India
+1 month ago
+Similar Searches
+Site Reliability Engineer jobs
+25,766 open jobs
+Unix Consultant jobs
+623 open jobs
+Platform Architect jobs
+11,170 open jobs
+Build And Release Engineer jobs
+3,712 open jobs
+Infrastructure Engineer jobs
+6,499 open jobs
+Data Management Coordinator jobs
+2,864 open jobs
+Linux Engineer jobs
+4,338 open jobs
+Senior Infrastructure Engineer jobs
+2,434 open jobs
+Lead Infrastructure Engineer jobs
+1,352 open jobs
+Software Configuration Management Engineer jobs
+2,961 open jobs
+Portal Developer jobs
+6,717 open jobs
+Virtualization Engineer jobs
+2,053 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+You’re signed out
+Sign in for the full experience.
+Sign in Join now

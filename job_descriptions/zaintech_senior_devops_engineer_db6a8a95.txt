@@ -1,0 +1,247 @@
+Title: Senior DevOps Engineer
+Company: ZainTECH
+Location: Kochi, Kerala, India
+URL: https://in.linkedin.com/jobs/view/senior-devops-engineer-at-zaintech-4479785929
+Posted: 2026-10-17
+Deadline: N/A
+Reason: The role aligns perfectly with the candidate's extensive background in CI/CD, release management, and infrastructure automation, and it is located in a target country (India) without any restrictive citizenship or clearance requirements.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer
+ZainTECH  Kochi, Kerala, India
+3 weeks ago   Be among the first 25 applicants
+  
+
+See who ZainTECH has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+The Senior DevOps Engineer is responsible for supporting Linux-based systems, cloud infrastructure, automation, and secure software delivery across Microsoft Azure and Kubernetes environments.
+
+This role focuses on Linux administration, infrastructure as code, CI/CD pipelines, and implementing basic DevSecOps practices to ensure secure, reliable, and efficient infrastructure operations.
+
+Responsibilities:
+
+
+Manage and troubleshoot Linux-based systems, including system administration, user permissions, services, processes, logs, networking, and basic shell scripting
+Support cloud infrastructure management and automation using Terraform, primarily within Microsoft Azure
+Manage Azure resources, Microsoft Entra applications, role-based access control (RBAC), and identity permissions
+Support Kubernetes environments, including private clusters, and manage application deployments using Helm and Kustomize
+Maintain and improve CI/CD pipelines using Jenkins, GitHub Actions, and GitLab CI/CD
+Support GitOps-based deployment and configuration management using Argo CD
+Implement and maintain cloud networking components, including virtual networks, routing, network security, DNS, VPNs, and private connectivity
+Apply DevSecOps best practices, including least-privilege access, secrets management, identity security, zero-trust principles, and single sign-on (SSO)
+Support application security practices, including static application security testing (SAST) and software composition analysis (SCA)
+Collaborate with multiple teams to troubleshoot issues, support production environments, and maintain business-critical services
+Follow Agile delivery practices using Jira and Confluence, including sprint planning, backlog refinement, user stories, and knowledge transfer
+Use AI-assisted engineering tools responsibly, ensuring sensitive information is not exposed and generated outputs are reviewed before implementation
+
+
+Our Culture & Code of Conduct:
+
+At ZainTECH, we take pride in a culture built on collaboration, innovation, and uncompromising integrity. We are looking for individuals who share these values and are committed to customer-centricity and ethical excellence. All employees are expected to uphold our Code of Conduct, which serves as a guiding framework for responsible behavior across everything we do — from ho we work with each other to how we engage with clients and partners globally.
+
+Requirements
+
+
+Linux Administration: Strong core knowledge of Linux, including package management, command-line operations, permissions, services, process management, log analysis, troubleshooting, and basic shell scripting
+Infrastructure as Code: Strong hands-on experience with Terraform for provisioning and managing infrastructure, including reusable modules, state management, and troubleshooting
+Microsoft Azure: Understanding of Azure resources, subscriptions, Microsoft Entra ID, application registrations, identity management, and role-based access control (RBAC)
+Containers and Orchestration: Hands-on experience with containers and Kubernetes, including deploying applications, managing clusters, troubleshooting workloads, and operating private clusters
+Version Control: Working experience with GitHub, GitLab, or equivalent version control platforms, including branching, code reviews, and pull or merge requests
+CI/CD: Good hands-on experience building, maintaining, and troubleshooting CI/CD pipelines using Jenkins, GitHub Actions, or GitLab CI/CD
+Continuous Delivery and GitOps: Familiarity with Argo CD, Helm, and Kustomize for application deployment and configuration management
+Networking Fundamentals: Basic understanding of VLANs, VPNs, CIDR notation, subnetting, routing, DNS, and network security
+Security Fundamentals: Knowledge of DevSecOps principles, zero-trust security, identity and access management, secrets management, and least-privilege access
+Application Security: Basic awareness of static application security testing (SAST), software composition analysis (SCA), and secure software delivery practices
+Enterprise Identity: Familiarity with single sign-on (SSO) and enterprise identity providers
+Yocto Project: Experience building and customizing embedded Linux distributions using Yocto
+Ansible: Experience automating configuration management and infrastructure tasks using Ansible
+Air-Gapped Environments:Experience deploying, maintaining, and troubleshooting infrastructure and applications in air-gapped environments
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at ZainTECH by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Kochi, Kerala, India.
+
+Sign in to create job alert
+Jobs
+Telecommunications Manager jobs
+Senior DevOps Engineer
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+Fingent
+Kochi, Kerala, India
+3 months ago
+Cloud DevOps Engineer
+Cloud DevOps Engineer
+Accenture in India
+Kochi, Kerala, India
+1 month ago
+Sr Devops engineer
+Sr Devops engineer
+Kaizen Pay
+Kochi, Kerala, India
+6 hours ago
+Devops Engineer
+Devops Engineer
+Litmus7
+Kochi, Kerala, India
+1 month ago
+Devops Engineer
+Devops Engineer
+L7Commerce
+Kochi, Kerala, India
+1 month ago
+Lead - Cloud DevOps
+Lead - Cloud DevOps
+Accenture in India
+Kochi, Kerala, India
+1 month ago
+Show more jobs like this 
+People also viewed
+Principal Engineer
+Principal Engineer
+
+People Equation
+
+Kochi, Kerala, India
+1 week ago
+Product Platform Engineer
+Product Platform Engineer
+
+Experion Technologies
+
+Kochi, Kerala, India
+1 week ago
+Azure Engineer
+Azure Engineer
+
+Kott Software Pvt.Ltd
+
+Kochi, Kerala, India
+3 months ago
+Senior System Engineer
+Senior System Engineer
+
+Nuventure Connect
+
+Kochi, Kerala, India
+9 hours ago
+System administrator /Senior System administrator
+System administrator /Senior System administrator
+
+Brennan
+
+Kochi, Kerala, India
+3 weeks ago
+Lead - Cloud DevOps 2
+Lead - Cloud DevOps 2
+
+Accenture in India
+
+Kochi, Kerala, India
+1 month ago
+Lead - Cloud DevOps 3
+Lead - Cloud DevOps 3
+
+Accenture in India
+
+Kochi, Kerala, India
+1 month ago
+Cloud Platform Engineer
+Cloud Platform Engineer
+
+Accenture in India
+
+Kochi, Kerala, India
+1 month ago
+Site Reliability Engineer Specialist
+Site Reliability Engineer Specialist
+
+Accenture in India
+
+Kochi, Kerala, India
+1 month ago
+Tech S and T-Resilience and Reliability Engineer-Senior-GDSF02
+Tech S and T-Resilience and Reliability Engineer-Senior-GDSF02
+
+EY
+
+Kochi, Kerala, India
+3 days ago
+Similar Searches
+Telecommunications Manager jobs
+465 open jobs
+Information Technology Operations Manager jobs
+41 open jobs
+Process Improvement Lead jobs
+3,193 open jobs
+Agile Coach jobs
+1,905 open jobs
+Network Security Engineer jobs
+2,384 open jobs
+Presales Engineer jobs
+1,888 open jobs
+Assistant Director jobs
+6,912 open jobs
+Chief Information Security Officer jobs
+331 open jobs
+Dentist jobs
+375 open jobs
+SAP Project Manager jobs
+2,826 open jobs
+Project Director jobs
+3,461 open jobs
+Senior Scientist jobs
+625 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+You’re signed out
+Sign in for the full experience.
+Sign in Join now

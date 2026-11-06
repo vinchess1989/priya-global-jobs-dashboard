@@ -1,0 +1,247 @@
+Title: DevOps Engineer
+Company: Amura Health
+Location: Chennai, Tamil Nadu, India
+URL: https://in.linkedin.com/jobs/view/devops-engineer-at-amura-health-4486253230
+Posted: 2026-11-07
+Deadline: N/A
+Reason: The role aligns with the candidate's DevOps and CI/CD expertise, is located in an eligible country (India), and does not violate any hard rejection criteria.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+Amura Health  Chennai, Tamil Nadu, India
+8 hours ago  59 applicants
+  
+
+See who Amura Health has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Amura Health provided pay range
+
+This range is provided by Amura Health. Your actual pay will be based on your skills and experience — talk with your recruiter to learn more.
+
+Base pay range
+₹1,000,000.00/yr - ₹2,000,000.00/yr
+Role Overview
+
+We are looking for a DevOps / Platform Engineer with 3–4 years of experience to help manage AWS cloud infrastructure, automation, and AI-ready platform operations. You will work closely with engineering and AI teams to ensure scalable, secure, and reliable deployments.
+
+Key Responsibilities
+
+
+AWS & Infrastructure: Manage core AWS services (EC2, EKS, Lambda, RDS, S3, VPC) using Infrastructure-as-Code (Terraform, CloudFormation, or CDK).
+AI/ML Workflows: Support infra for AI applications, model serving, vector databases, and GPU-based workloads.
+CI/CD & Automation: Build and maintain deployment pipelines using GitHub Actions, GitLab CI, or Jenkins.
+Containers & Kubernetes: Deploy and maintain containerized applications using Docker and Kubernetes (EKS) or ECS.
+Observability & Incident Support: Maintain dashboards and alerts with CloudWatch, Prometheus, or Grafana, and participate in on-call response.
+Security & FinOps: Apply AWS security best practices (IAM, encryption, secrets) and assist with cloud cost optimization.
+
+
+Must-Have Skills & Qualifications
+
+
+3–4 years of experience in DevOps, SRE, or Cloud Infrastructure Engineering.
+AWS & Containers: Good working knowledge of core AWS services, Docker, and Kubernetes (EKS).
+Infrastructure-as-Code: Practical experience with Terraform, CloudFormation, or AWS CDK.
+Linux & Networking: Solid fundamentals in Linux systems, DNS, routing, and load balancing.
+Scripting: Hands-on scripting proficiency in Python, Bash, or Go.
+CI/CD & Observability: Experience building CI/CD pipelines (GitHub Actions, GitLab CI, or Jenkins) and using monitoring tools (CloudWatch, Prometheus, Grafana, or Datadog).
+
+
+Nice-to-Have Skills
+
+
+Basic exposure to AI/ML infrastructure, model serving, or GPU-based compute.
+Experience with event-driven messaging systems (Kafka, Redis, or SQS).
+Familiarity with GitOps tools and Helm (ArgoCD, Flux, or OpenTelemetry).
+AWS Certifications (Solutions Architect Associate, SysOps Administrator, or DevOps Engineer).
+
+
+Skills:- Amazon Web Services (AWS), Kubernetes, Docker, CI/CD, Linux administration and Scripting
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Hospitals and Health Care
+  
+
+Referrals increase your chances of interviewing at Amura Health by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Chennai, Tamil Nadu, India.
+
+Sign in to create job alert
+Jobs
+Medical Officer jobs
+DevOps Engineer
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+Accenture in India
+Chennai, Tamil Nadu, India
+1 month ago
+DevOps Engineer
+DevOps Engineer
+DHL
+Chennai, Tamil Nadu, India
+2 days ago
+Devops Engineer
+Devops Engineer
+Qube Cinema
+Chennai, Tamil Nadu, India
+4 months ago
+Devops Engineer
+Devops Engineer
+Larsen & Toubro
+Chennai, Tamil Nadu, India
+4 weeks ago
+DevOps Engineer
+DevOps Engineer
+HCLTech
+Chennai, Tamil Nadu, India
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+Quest Global
+Chennai, Tamil Nadu, India
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Custom Software Engineer
+Custom Software Engineer
+
+Accenture in India
+
+Chennai, Tamil Nadu, India
+1 month ago
+Cloud Platform Engineer
+Cloud Platform Engineer
+
+Accenture in India
+
+Chennai, Tamil Nadu, India
+1 month ago
+Custom Software Engineer
+Custom Software Engineer
+
+Accenture in India
+
+Chennai, Tamil Nadu, India
+1 month ago
+Custom Software Engineer
+Custom Software Engineer
+
+Accenture in India
+
+Chennai, Tamil Nadu, India
+1 month ago
+Custom Software Engineer
+Custom Software Engineer
+
+Accenture in India
+
+Chennai, Tamil Nadu, India
+1 month ago
+DevOps Engineer
+DevOps Engineer
+
+Accenture in India
+
+Chennai, Tamil Nadu, India
+1 month ago
+DevOps Engineer
+DevOps Engineer
+
+Accenture in India
+
+Chennai, Tamil Nadu, India
+1 month ago
+DevOps Engineer
+DevOps Engineer
+
+Accenture in India
+
+Chennai, Tamil Nadu, India
+1 month ago
+DevOps Engineer
+DevOps Engineer
+
+Accenture in India
+
+Chennai, Tamil Nadu, India
+1 month ago
+DevOps Engineer
+DevOps Engineer
+
+Accenture in India
+
+Chennai, Tamil Nadu, India
+1 month ago
+Similar Searches
+Medical Officer jobs
+345 open jobs
+Lead Recruiter jobs
+895 open jobs
+Service Designer jobs
+2,427 open jobs
+Medical Doctor jobs
+679 open jobs
+Videographer jobs
+249 open jobs
+Financial Planning and Analysis Manager jobs
+1,511 open jobs
+Management Consultant jobs
+9,410 open jobs
+Human Resources Intern jobs
+1,301 open jobs
+Health And Wellness Coach jobs
+20 open jobs
+Video Editor jobs
+686 open jobs
+Content Writer jobs
+3,741 open jobs
+Wellness Coach jobs
+65 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+You’re signed out
+Sign in for the full experience.
+Sign in Join now

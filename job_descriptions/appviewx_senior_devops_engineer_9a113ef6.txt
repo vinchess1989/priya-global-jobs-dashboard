@@ -1,0 +1,285 @@
+Title: Senior DevOps Engineer
+Company: AppViewX
+Location: Coimbatore, Tamil Nadu, India
+URL: https://in.linkedin.com/jobs/view/senior-devops-engineer-at-appviewx-4470253904
+Posted: 2026-10-08
+Deadline: N/A
+Reason: The role aligns perfectly with the candidate's extensive experience in DevOps, CI/CD pipeline ownership, and release governance, and it is located in India, which is a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer
+AppViewX  Coimbatore, Tamil Nadu, India
+1 month ago  163 applicants
+  
+
+See who AppViewX has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Job Title: Senior DevOps Engineer
+
+Department: DevOps
+
+Location: Bengaluru/ Coimbatore
+
+Experience: 5-10 Years
+
+About AppViewX:
+
+AppViewX is the only machine and agent identity security company built for the AI and quantum era, bringing together discovery, automation, control, and intelligence. The AVX Platform helps enterprises reduce risk by providing complete visibility and governance over every machine and AI agent identity, automating their lifecycle, controlling their access, and proving compliance at the speed business demands. Trusted by global enterprises across financial services, healthcare, and technology, AppViewX is recognized as a leader in the IDC 2026 MarketScape for Certificate Lifecycle Management and KuppingerCole’s 2025 Non-Human Identity Management Leadership Compass. For more information, users can visit appviewx.com.
+
+Our Values
+
+Our values define how we work, make decisions, and deliver for our customers and each other. Some reflect strengths deeply engrained in how we work. Others represent the standards we are committed to building together.
+
+
+We Do What We Say: We own our commitments, communicate honestly about progress, and measure success by results, not activity.
+We Are Trusted Experts: We continuously build our expertise, offer candid guidance, and focus on the outcomes our customers and colleagues need.
+We Raise the Bar: We stay curious, challenge the status quo, take smart risks, and turn better ideas into meaningful results.
+We Win Together: We share information, debate openly, commit together, and recognize that our success is connected to the success of our customers and teammates.
+
+
+If these values reflect how you want to work and contribute, you will find an opportunity to make a meaningful impact at AppViewX.
+
+Role Overview
+
+Technical and Platform Responsibilities
+
+
+Lead collaboration with Product Engineering teams to architect and deliver scalable, secure, and reliable SaaS platform solutions.
+Own end-to-end DevOps and platform engineering initiatives from design through production readiness.
+Design and lead AI-driven automation for cloud-native infrastructure and DevOps workflows.
+Lead AIOps capabilities for proactive monitoring, incident detection, root cause analysis, and automated remediation.
+Architect self-healing infrastructure and validated automated recovery workflows.
+Establish AI-assisted CI/CD practices for faster, secure, traceable, and reliable delivery.
+Drive Kubernetes reliability, predictive scaling, capacity planning, and intelligent resource management.
+Define automation patterns and operational standards across AWS, Azure, and GCP environments.
+Set and improve platform reliability, scalability, performance, security, and cost-efficiency standards.
+Evaluate emerging DevOps and AI-driven operational technologies and guide production adoption based on measurable value and risk.
+
+
+Ownership and Collaboration Responsibilities
+
+
+Provide technical leadership for the design and delivery of key platform components and DevOps initiatives.
+Partner with architects, engineering leaders, senior engineers, and tech leads to deliver high-impact projects.
+Plan, prioritize, and deliver strategic projects with clear ownership, milestones, risk management, and accountability.
+Drive cross-functional alignment across Product, Engineering, Security, SRE, and customer-facing teams.
+Translate business and operational challenges into scalable platform designs, standards, and implementation roadmaps.
+Define and uphold high standards for architecture, engineering quality, security, reliability, and operational excellence.
+Take full ownership of outcomes, including technical decisions, delivery quality, production readiness, and continuous improvement.
+
+
+What You Bring/Qualifications:
+
+
+Strong Linux/Unix administration skills, preferably Red Hat or Ubuntu.
+Strong programming skills in Python, with the ability to design maintainable automation frameworks and review production-quality code.
+Hands-on experience with AWS, Azure, and/or GCP.
+Deep understanding of container platforms and Kubernetes architecture, operations, networking, storage, and security.
+Proven hands-on experience designing and operating Kubernetes platforms in SaaS or production environments.
+Advanced experience with Helm, Terraform, and reusable Infrastructure as Code patterns.
+Hands-on experience implementing GitOps using Argo CD, Flux CD, or equivalent tools.
+Strong experience designing and governing CI/CD platforms using Jenkins, GitLab CI/CD, or equivalent tools.
+Experience implementing secure automation, quality controls, policy enforcement, and release governance within CI/CD workflows.
+Strong understanding of microservices, distributed systems, failure modes, and resilient design patterns.
+Strong experience with observability platforms and standards, including Prometheus, Grafana, ELK, and OpenTelemetry.
+Advanced troubleshooting and root cause analysis skills across distributed, cloud-native environments.
+Proven experience architecting or operating highly available, resilient, and recoverable systems.
+Working knowledge of AI/ML platforms, Generative AI infrastructure, model observability, and safe operational integration.
+Strong knowledge of DevSecOps, supply chain security, secrets management, vulnerability management, and security automation frameworks.
+
+
+Why AppViewX?
+
+AppViewX caters to a wide range of customers from Fortune 1000 companies, including six of the top ten global commercial banks, five of the top ten global media companies, and five of the top ten managed healthcare providers. Over the years, we grew our diverse team, perfected our automation platform, and expanded our global footprint to India, North America, United Kingdom, and Australia. Today, we are headquartered in New York City and have come a long way by optimizing opportunities to create lasting relationships with enterprises, gaining unshakable customer trust along the way.
+
+AppViewX is proud to be an Equal Employment Opportunity Employer. It is AppViewX’s policy to afford equal employment opportunities to all employees regardless of race, color, national origin, ancestry, religion, citizenship status, gender, gender expression or identity, sexual orientation, age, marital status, military or veteran status, pregnancy, disability, genetic information, arrest record, or other protected class under state, federal, or local law.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Computer and Network Security
+  
+
+Referrals increase your chances of interviewing at AppViewX by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Coimbatore, Tamil Nadu, India.
+
+Sign in to create job alert
+Jobs
+Channel Sales Manager jobs
+Senior DevOps Engineer
+Similar jobs
+Senior DevOps Engineer
+Senior DevOps Engineer
+Foxsense Innovations
+Coimbatore, Tamil Nadu, India
+3 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Responsive
+Greater Coimbatore Area
+2 days ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+Responsive
+Coimbatore, Tamil Nadu, India
+1 day ago
+Senior Specialist - Cloud Engineering
+Senior Specialist - Cloud Engineering
+LTM
+Coimbatore, Tamil Nadu, India
+1 day ago
+Senior Cloud Engineer
+Senior Cloud Engineer
+LTM
+Coimbatore, Tamil Nadu, India
+2 days ago
+DevOps Engineer
+DevOps Engineer
+HARMAN technology Ltd
+Coimbatore, Tamil Nadu, India
+₹1,000,000 - ₹2,200,000
+8 months ago
+Show more jobs like this 
+People also viewed
+Operations Engineer
+Operations Engineer
+
+Accenture in India
+
+Coimbatore, Tamil Nadu, India
+2 weeks ago
+Application Developer
+Application Developer
+
+Accenture in India
+
+Coimbatore, Tamil Nadu, India
+1 month ago
+Specialist - Cloud & Infra Management
+Specialist - Cloud & Infra Management
+
+LTM
+
+Coimbatore, Tamil Nadu, India
+1 week ago
+Technology Architect
+Technology Architect
+
+Accenture in India
+
+Coimbatore, Tamil Nadu, India
+1 month ago
+Senior Cloud Engineer
+Senior Cloud Engineer
+
+Vivantify Technology Solutions India Pvt. Ltd.
+
+Coimbatore, Tamil Nadu, India
+2 months ago
+Specialist - System Management
+Specialist - System Management
+
+LTM
+
+Coimbatore, Tamil Nadu, India
+1 week ago
+Senior Deployment Manager
+Senior Deployment Manager
+
+Eurofins
+
+Coimbatore, Tamil Nadu, India
+4 months ago
+Custom Software Engineer
+Custom Software Engineer
+
+Accenture in India
+
+Coimbatore, Tamil Nadu, India
+1 month ago
+Custom Software Engineer
+Custom Software Engineer
+
+Accenture in India
+
+Coimbatore, Tamil Nadu, India
+1 month ago
+Quality Engineer
+Quality Engineer
+
+Accenture in India
+
+Coimbatore, Tamil Nadu, India
+2 weeks ago
+Similar Searches
+Channel Sales Manager jobs
+3,205 open jobs
+Client Account Manager jobs
+1,587 open jobs
+Supply Chain Analyst jobs
+3,223 open jobs
+Customer Success Manager jobs
+9,142 open jobs
+Talent Director jobs
+605 open jobs
+Head of Recruitment jobs
+993 open jobs
+Software Test Engineer jobs
+3,583 open jobs
+Marketing Associate jobs
+5,322 open jobs
+Vice President Human Resources jobs
+81 open jobs
+Principal Security Engineer jobs
+467 open jobs
+Channel Account Manager jobs
+7,751 open jobs
+Cyber Security Specialist jobs
+1,231 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+You’re signed out
+Sign in for the full experience.
+Sign in Join now

@@ -1,0 +1,386 @@
+Title: Sr. Software Engineer - DevOps
+Company: Ecolab
+Location: Bengaluru East, Karnataka, India
+URL: https://in.linkedin.com/jobs/view/sr-software-engineer-devops-at-ecolab-4488145289
+Posted: 2026-11-07
+Deadline: N/A
+Reason: The role is a strong match for her DevOps, CI/CD, and release management expertise, and it is located in India, which is one of her target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Sr. Software Engineer - DevOps
+Ecolab  Bengaluru East, Karnataka, India
+11 hours ago  59 applicants
+  
+
+See who Ecolab has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Senior DevOps Engineer
+
+4–7 Years of Experience
+
+Job Summary
+
+We are looking for a Senior DevOps Engineer with 4–7 years of hands-on experience designing, implementing, and supporting enterprise-grade DevOps and CI/CD solutions. The ideal candidate will have strong expertise in Microsoft Azure, Azure DevOps, YAML-based multi-stage pipelines, Git/GitHub workflows, DevSecOps, Docker, Kubernetes, infrastructure automation, and production release management.
+
+The candidate should be capable of owning DevOps solutions end-to-end—from source control and build automation through security validation, artifact management, deployment, approvals, monitoring, troubleshooting, and rollback. Experience with DataOps, Snowflake CI/CD, Azure Data Factory (ADF), Terraform/Bicep/ARM, and Azure cloud services is highly desirable.
+
+Role Overview
+
+Role
+
+Senior DevOps Engineer
+
+Experience
+
+4–7 Years
+
+Primary Focus
+
+Azure DevOps, CI/CD, DevSecOps, Cloud & Infrastructure Automation
+
+Cloud
+
+Microsoft Azure
+
+Source Control
+
+Git / GitHub / Azure Repos
+
+Containers
+
+Docker / Kubernetes
+
+Automation
+
+YAML, PowerShell, Bash, Python
+
+Infrastructure as Code
+
+Terraform / Bicep / ARM Templates
+
+Preferred Domain Experience
+
+DataOps, Snowflake, ADF, Azure Cloud
+
+Key Responsibilities
+
+
+Design, develop, implement, and maintain end-to-end CI/CD pipelines using Azure DevOps.
+Create reusable, parameterized, and secure multi-stage YAML pipelines for build, test, validation, deployment, and release automation.
+Own DevOps solutions across development, test/QA, staging, and production environments.
+Implement deployment strategies such as rolling, blue-green, canary, and controlled/manual promotion where appropriate.
+Implement branch policies, pull-request validation, build validation, approvals, and environment protection mechanisms.
+Manage Git/GitHub/Azure Repos workflows, branching strategies, merge policies, tagging, and release/versioning practices.
+Integrate automated quality and security checks into CI/CD pipelines, including static analysis, dependency scanning, secret detection, and compliance gates.
+Manage build artifacts, package/version management, artifact retention, and promotion across environments.
+Implement infrastructure provisioning and configuration management using Terraform, Bicep, or ARM templates.
+Automate operational activities using PowerShell, Bash, Python, or equivalent scripting languages.
+Containerize applications using Docker and manage image build, tagging, scanning, storage, and deployment processes.
+Deploy and manage containerized workloads on Kubernetes/AKS, including deployments, services, config maps, secrets, ingress, scaling, and troubleshooting.
+Implement secure authentication and authorization using Azure service connections, managed identities, Key Vault, secrets, and least-privilege access.
+Integrate Azure Key Vault and other secret-management mechanisms into CI/CD pipelines without exposing credentials in logs or source control.
+Monitor pipeline execution, application deployments, infrastructure health, and production issues; perform root-cause analysis and corrective actions.
+Support production releases, change management, deployment approvals, release coordination, rollback, and recovery activities.
+Design reliable rollback and recovery mechanisms for failed or partially completed deployments.
+Collaborate with developers, QA, architects, security teams, and operations teams to improve deployment reliability and developer experience.
+Identify opportunities to eliminate manual steps and continuously improve automation, deployment frequency, reliability, and lead time.
+Create and maintain technical documentation, deployment standards, runbooks, troubleshooting guides, and operational procedures.
+Mentor junior DevOps engineers and contribute to DevOps standards, reusable templates, and best practices.
+
+
+Technical Skills – Azure DevOps & CI/CD
+
+
+Strong hands-on experience with Azure DevOps Services: Repos, Pipelines, Boards, Test Plans, Artifacts, Environments, and Service Connections.
+Advanced understanding of YAML pipeline concepts: stages, jobs, steps, templates, parameters, variables, variable groups, conditions, expressions, dependencies, and outputs.
+Experience designing reusable pipeline templates and centralized CI/CD frameworks for multiple applications/projects.
+Experience with CI triggers, PR validation, path filters, scheduled/manual triggers, branch policies, and gated deployments.
+Hands-on experience with environment approvals, checks, deployment gates, and production release controls.
+Strong understanding of pipeline agents, agent pools, self-hosted agents, Microsoft-hosted agents, caching, workspaces, and artifacts.
+Ability to troubleshoot pipeline failures involving authentication, permissions, agents, dependencies, scripts, artifacts, and deployment tasks.
+
+
+DevSecOps & Security
+
+
+Implement security controls throughout the software delivery lifecycle rather than treating security as a final release step.
+Integrate SAST, dependency scanning, container image scanning, secret scanning, and policy/compliance checks into CI/CD.
+Apply least-privilege access, secure service connections, managed identities, and controlled production permissions.
+Protect secrets using Azure Key Vault or equivalent secret-management platforms.
+Understand secure handling of credentials, tokens, certificates, private keys, and pipeline variables.
+Support vulnerability remediation, security findings triage, and release blocking based on defined severity thresholds.
+
+
+Git, GitHub & Release Management
+
+
+Strong understanding of Git commands, branching, merging, rebasing, cherry-picking, tagging, and conflict resolution.
+Experience with GitHub/Azure Repos pull requests, code reviews, branch protection, reviewers, and merge strategies.
+Experience with GitFlow, trunk-based development, or equivalent enterprise branching strategies.
+Ability to define versioning and release strategies suitable for multiple environments.
+Experience supporting hotfixes, emergency releases, rollback, and release recovery.
+
+
+Docker & Kubernetes / AKS
+
+
+Build optimized Docker images using Dockerfiles and multi-stage builds.
+Understand image tagging, registries, image lifecycle, vulnerabilities, and immutable release practices.
+Deploy and troubleshoot workloads in Kubernetes/AKS environments.
+Hands-on understanding of Pods, Deployments, ReplicaSets, Services, ConfigMaps, Secrets, Namespaces, Ingress, probes, requests/limits, and autoscaling.
+Troubleshoot common Kubernetes issues such as CrashLoopBackOff, ImagePullBackOff, pending pods, service connectivity, failed probes, and configuration issues.
+Understand Kubernetes rollout, rollback, scaling, and deployment health validation.
+
+
+Infrastructure as Code & Azure
+
+
+Hands-on experience with Terraform, Bicep, or ARM templates for repeatable Azure infrastructure provisioning.
+Understand Terraform state, remote state, modules, variables, outputs, workspaces, plan/apply, and state locking.
+Experience provisioning and managing Azure resources such as Resource Groups, Storage Accounts, Key Vault, VNets, NSGs, Azure Kubernetes Service, App Services, and monitoring components.
+Understand Azure RBAC, subscriptions, resource groups, managed identities, service principals, and network/security fundamentals.
+Implement infrastructure changes through CI/CD with validation, plan/review, approval, and controlled deployment.
+
+
+Preferred / Added Advantage – DataOps & Data Platforms
+
+
+Knowledge of DataOps processes and CI/CD patterns for data engineering and analytics workloads.
+Hands-on experience with Snowflake deployment and CI/CD, including SQL versioning, deployment ordering, validation, dry runs, approvals, and controlled execution.
+Experience with Snowflake objects such as databases, schemas, tables, views, procedures, roles, and warehouse-related deployment considerations.
+Knowledge of Azure Data Factory (ADF), pipelines, linked services, datasets, triggers, integration runtimes, and CI/CD promotion.
+Exposure to Databricks CI/CD, Databricks Asset Bundles (DABs), notebooks/jobs/pipelines, and environment promotion is an advantage.
+
+
+Scripting & Automation
+
+
+Strong scripting ability in at least one of PowerShell, Bash, or Python.
+Ability to write maintainable automation scripts for deployment, validation, environment checks, housekeeping, and operational tasks.
+Ability to parse files, process JSON/YAML, consume REST APIs, handle exit codes, and implement robust error handling.
+
+
+Monitoring, Troubleshooting & Reliability
+
+
+Strong troubleshooting mindset across CI/CD, cloud infrastructure, containers, Kubernetes, networking, authentication, and application deployment issues.
+Experience with Azure Monitor, Log Analytics, Application Insights, or equivalent monitoring and logging platforms.
+Perform root-cause analysis and document corrective/preventive actions.
+Understand deployment health checks, operational metrics, alerting, incident response, and service reliability.
+
+
+Senior-Level Expectations
+
+
+Own DevOps deliverables independently from requirement gathering through implementation, testing, production rollout, and support.
+Make sound technical decisions around pipeline architecture, security, deployment strategy, and automation.
+Build reusable frameworks and templates instead of creating one-off pipelines.
+Proactively identify risks and bottlenecks in the software delivery lifecycle.
+Lead troubleshooting of complex CI/CD and production deployment incidents.
+Review pipeline code and infrastructure changes and provide technical guidance to team members.
+Mentor junior engineers and promote engineering standards and automation best practices.
+Communicate clearly with technical and non-technical stakeholders, especially during production releases and incidents.
+
+
+Preferred Qualifications
+
+
+Bachelor’s degree in Computer Science, Information Technology, Engineering, or a related field.
+4–7 years of professional experience in DevOps, Cloud Engineering, Platform Engineering, or a related role.
+Azure certifications such as AZ-400, AZ-104, or relevant Microsoft certifications are an advantage.
+Experience working in Agile/Scrum environments.
+Experience working with enterprise change-management and production release processes.
+
+
+Our Commitment to a Culture of Inclusion & Belonging
+
+Ecolab is committed to fair and equal treatment of associates and applicants and furthering the principles of Equal Opportunity to Employment. We will recruit, hire, promote, transfer and provide opportunities for advancement based on individual qualifications and job performance in all matters affecting employment, compensation, benefits, working conditions, and opportunities for advancement. Ecolab will not discriminate against any associate or applicant for employment because of race, religion, color, creed, national origin,citizenship status, sex, sexual orientation, gender identity and expressions, genetic information, marital status, age, or disability.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Chemical Manufacturing
+  
+
+Referrals increase your chances of interviewing at Ecolab by 2x
+
+See who you know
+
+Get notified about new Senior Software Engineer jobs in Bengaluru East, Karnataka, India.
+
+Sign in to create job alert
+Jobs
+Staff Software Engineer jobs
+Sr. Software Engineer - DevOps
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+Apple
+Bengaluru, Karnataka, India
+2 months ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+NVIDIA
+Bengaluru, Karnataka, India
+2 days ago
+Devops Engineer
+Devops Engineer
+Thales
+Bengaluru, Karnataka, India
+3 days ago
+Senior Engineer - DevOps
+Senior Engineer - DevOps
+3M
+Bengaluru, Karnataka, India
+4 months ago
+Senior Software Development Engineer - DevOps
+Senior Software Development Engineer - DevOps
+Nokia
+Bengaluru, Karnataka, India
+1 day ago
+Sr Software Engineer-Devops
+Sr Software Engineer-Devops
+Motorola Solutions
+Bengaluru, Karnataka, India
+2 days ago
+Show more jobs like this 
+People also viewed
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+YouTrip
+
+Bengaluru, Karnataka, India
+3 days ago
+Sr. Software Engineer - DevOps
+Sr. Software Engineer - DevOps
+
+Allegion
+
+Bengaluru, Karnataka, India
+1 month ago
+DevOps Engineer
+DevOps Engineer
+
+Accenture in India
+
+Bengaluru, Karnataka, India
+1 month ago
+Engineer 2
+Engineer 2
+
+Catalyst Brands India
+
+Bengaluru, Karnataka, India
+2 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Bureau
+
+Bengaluru, Karnataka, India
+2 days ago
+Staff Engineer, Software
+Staff Engineer, Software
+
+Thermo Fisher Scientific
+
+Bengaluru East, Karnataka, India
+1 week ago
+Cloud Software Development Engineer
+Cloud Software Development Engineer
+
+Intel
+
+Bengaluru, Karnataka, India
+2 weeks ago
+System Software Engineer - Infrastructure
+System Software Engineer - Infrastructure
+
+NVIDIA
+
+Bengaluru, Karnataka, India
+1 day ago
+Application Reliability Engineer
+Application Reliability Engineer
+
+Apple
+
+Bengaluru, Karnataka, India
+1 month ago
+Operations Engineer
+Operations Engineer
+
+Accenture in India
+
+Bengaluru, Karnataka, India
+1 month ago
+Similar Searches
+Staff Software Engineer jobs
+11,667 open jobs
+Lead Software Engineer jobs
+14,294 open jobs
+Principal Software Engineer jobs
+12,675 open jobs
+Senior Java Software Engineer jobs
+14,340 open jobs
+Senior Staff Software Engineer jobs
+9,357 open jobs
+Senior System Software Engineer jobs
+8,592 open jobs
+Java Software Engineer jobs
+11,988 open jobs
+Software Engineering Team Lead jobs
+56,362 open jobs
+Full Stack Engineer jobs
+4,505 open jobs
+Senior Dotnet Developer jobs
+11,806 open jobs
+Senior Software Architect jobs
+10,429 open jobs
+Senior Information Developer jobs
+176 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+You’re signed out
+Sign in for the full experience.
+Sign in Join now

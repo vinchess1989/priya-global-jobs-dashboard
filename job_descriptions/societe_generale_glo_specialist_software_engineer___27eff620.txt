@@ -1,0 +1,298 @@
+Title: Specialist Software Engineer - Public Cloud DevOps
+Company: Societe Generale Global Solution Centre
+Location: Chennai, Tamil Nadu, India
+URL: https://in.linkedin.com/jobs/view/specialist-software-engineer-public-cloud-devops-at-societe-generale-global-solution-centre-4479557429
+Posted: 2026-11-06
+Deadline: N/A
+Reason: The role aligns with her extensive experience in CI/CD, DevOps, and infrastructure automation, and it is located in India, which is one of her target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Specialist Software Engineer - Public Cloud DevOps
+Societe Generale Global Solution Centre  Chennai, Tamil Nadu, India
+1 day ago   Over 200 applicants
+  
+
+See who Societe Generale Global Solution Centre has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Responsibilities
+
+We are seeking a Public Cloud DevOps Engineer with expertise in both Azure and AWS, with one being the primary platform and the other as secondary. Proficiency in Infrastructure as Code (IaC) is essential, as it is our primary approach to infrastructure management. Strong scripting skills in any programming language are also required. Strong hands-on skills required on:
+
+
+AWS:
+Responsible for the creation and management of endpoints, building and maintaining Amazon Machine Images (AMIs), and patching EC2 instances.
+Expertise in deploying, configuring, and managing EC2 instances and related services.
+Ability to handle and manage reverse proxy configurations to ensure efficient routing and load balancing.
+Familiarity with network activities, including VPC configurations, security groups, and network ACLs, is highly desirable.
+Azure:
+Responsible for the creation and management of endpoints, building and maintaining Azure Virtual Machine images, and patching Azure Virtual Machines,
+Expertise in deploying, configuring, and managing Azure Virtual Machines and related services.
+Ability to handle and manage reverse proxy configurations using Azure Application Gateway or Azure Front Door for efficient routing and load balancing.
+Familiarity with network activities, including Azure Virtual Network configurations, Network Security Groups (NSGs), and Azure Firewall, is highly desirable.
+Containerization: Experience with Docker, particularly in deploying and managing applications on Kubernetes.
+Infrastructure as Code (IaC): Proficient in using Ansible and Terraform, including the ability to write Terraform configurations and manage them from the ground up.
+Continuous Integration/Continuous Deployment (CI/CD): Skilled in writing Jenkins or Github Actions pipelines and YAML configuration files.
+CI/CD Solution Implementation: Capable of setting up complete CI/CD solutions to streamline development and deployment processes.
+Operating Systems: Proficient in troubleshooting OS issues, with a strong focus on Linux and networking.
+
+
+Candidates should have a proven track record of successful experiences in production within cloud environments, along with strong written and verbal communication skills.
+
+Mastery of Agile methodology is essential, as is the ability to collaborate effectively within a distributed, cross-country team
+
+Required
+
+Profile required
+
+Detailed skills requirements:
+
+« : knowledge
+
+«« practiced
+
+««« confirmed
+
+«««« expert
+
+AWS Infra & Services (particularly network)
+
+««««
+
+Terraform
+
+««««
+
+Kubernetes
+
+«««
+
+Ansible
+
+«««
+
+CICD with Jenkins [Pipeline setup]
+
+«««
+
+Docker
+
+«««
+
+Azure
+
+«««
+
+GIT
+
+«««
+
+Linux
+
+«««
+
+Windows
+
+«««
+
+Why join us
+
+We are committed to creating a diverse environment and are proud to be an equal opportunity employer. All qualified applicants receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status”.
+
+Business insight
+
+At Société Générale, we are convinced that people are drivers of change, and that the world of tomorrow will be shaped by all their initiatives, from the smallest to the most ambitious. Whether you’re joining us for a period of months, years or your entire career, together we can have a positive impact on the future. Creating, daring, innovating, and taking action are part of our DNA. If you too want to be directly involved, grow in a stimulating and caring environment, feel useful on a daily basis and develop or strengthen your expertise, you will feel right at home with us!
+
+Still hesitating?
+
+You should know that our employees can dedicate several days per year to solidarity actions during their working hours, including sponsoring people struggling with their orientation or professional integration, participating in the financial education of young apprentices, and sharing their skills with charities. There are many ways to get involved.
+
+We are committed to support accelerating our Group’s ESG strategy by implementing ESG principles in all our activities and policies. They are translated in our business activity (ESG assessment, reporting, project management or IT activities), our work environment and in our responsible practices for environment protection.
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at Societe Generale Global Solution Centre by 2x
+
+See who you know
+
+Get notified about new Cloud Engineer jobs in Chennai, Tamil Nadu, India.
+
+Sign in to create job alert
+Jobs
+Senior Manager Information Security jobs
+Specialist Software Engineer - Public Cloud DevOps
+Similar jobs
+Custom Software Engineer
+Custom Software Engineer
+Accenture in India
+Chennai, Tamil Nadu, India
+1 month ago
+DevOps Engineer
+DevOps Engineer
+Accenture in India
+Chennai, Tamil Nadu, India
+1 month ago
+Staff/Senior Operations Engineer
+Staff/Senior Operations Engineer
+CloudBees
+Greater Chennai Area
+3 weeks ago
+Infrastructure DevOps Specialist
+Infrastructure DevOps Specialist
+Celestica
+Guindy, Tamil Nadu, India
+9 hours ago
+Cloud Platforms Infrastructure Engineer
+Cloud Platforms Infrastructure Engineer
+Guidehouse
+Chennai, Tamil Nadu, India
+2 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Five9
+Greater Chennai Area
+1 week ago
+Show more jobs like this 
+People also viewed
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Mako IT Lab
+
+Chennai, Tamil Nadu, India
+6 months ago
+Technology Platform Engineer
+Technology Platform Engineer
+
+Accenture in India
+
+Chennai, Tamil Nadu, India
+1 month ago
+Cloud Platform Engineer
+Cloud Platform Engineer
+
+Accenture in India
+
+Chennai, Tamil Nadu, India
+1 month ago
+Technology Platform Engineer
+Technology Platform Engineer
+
+Accenture in India
+
+Chennai, Tamil Nadu, India
+1 month ago
+Custom Software Engineer
+Custom Software Engineer
+
+Accenture in India
+
+Chennai, Tamil Nadu, India
+1 month ago
+Custom Software Engineer
+Custom Software Engineer
+
+Accenture in India
+
+Chennai, Tamil Nadu, India
+1 month ago
+Custom Software Engineer
+Custom Software Engineer
+
+Accenture in India
+
+Chennai, Tamil Nadu, India
+1 month ago
+Custom Software Engineer
+Custom Software Engineer
+
+Accenture in India
+
+Chennai, Tamil Nadu, India
+1 month ago
+DevOps Engineer
+DevOps Engineer
+
+Accenture in India
+
+Chennai, Tamil Nadu, India
+1 month ago
+Custom Software Engineer
+Custom Software Engineer
+
+Accenture in India
+
+Chennai, Tamil Nadu, India
+1 month ago
+Similar Searches
+Senior Manager Information Security jobs
+166 open jobs
+Head of Corporate Banking jobs
+600 open jobs
+Finance Management Trainee jobs
+72 open jobs
+General Surgeon jobs
+115 open jobs
+Senior Financial Specialist jobs
+1,352 open jobs
+Associate Financial Analyst jobs
+262 open jobs
+Senior Technical Business Analyst jobs
+322 open jobs
+French Translator jobs
+38 open jobs
+Warranty Analyst jobs
+22 open jobs
+Database Manager jobs
+2,772 open jobs
+Functional Business Analyst jobs
+3,818 open jobs
+Storage Administrator jobs
+1,497 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+You’re signed out
+Sign in for the full experience.
+Sign in Join now
