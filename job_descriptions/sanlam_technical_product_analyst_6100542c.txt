@@ -1,0 +1,378 @@
+Title: Technical Product Analyst
+Company: Sanlam
+Location: Cape Town, Western Cape, South Africa
+URL: https://za.linkedin.com/jobs/view/technical-product-analyst-at-sanlam-4485753544
+Posted: 2026-11-04
+Deadline: 2026-10-12
+Reason: The role aligns with the candidate's experience in requirements traceability, technical documentation, and working within regulated enterprise environments, and it is located in a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Technical Product Analyst
+Sanlam  Cape Town, Western Cape, South Africa
+2 days ago  64 applicants
+  
+
+See who Sanlam has hired for this role
+
+Apply 
+Save
+Who are we?
+
+Sanlam Life and Savings (SLS) is focused on serving our retail and corporate clients in South Africa and further developing our strategic advantages in the South African market. Sanlam Life and Savings consists of the following business units Retail Mass, Corporate, Risk and Savings, Glacier and various business enabling functions. The Sanlam Life and Savings Office provides strategic direction, coordination and support to the four clusters, as well as performing governance oversight that includes assurance provided by second line of defense functions in SLS, to enable us to meet our business objectives.
+
+What will you do?
+
+Sanlam Life & Savings is seeking to appoint a Technical Product Analyst within BTSS to support delivery across our PolicyOps and Fund Admin squads.
+
+The successful candidate will play a pivotal role in working with product owners and managers to define the technical requirements and to deliver high-quality, scalable, and well-documented software and solutions.
+
+This role is suited to an analytical, detail-oriented professional with strong experience in functional analysis, system design, API mapping, and data interpretation, within complex enterprise environments.
+
+Key Responsibilities Include
+
+
+Produce functional decomposition specifications, translating business requirements into structured system-level deliverables.
+Develop and maintain system documentation, including:
+Sequence diagrams
+Activity diagrams
+Use case diagrams
+Data flow diagrams
+Create and manage user stories and supporting artefacts aligned to Agile delivery practices.
+Perform mapping of APIs to stored procedures within existing application landscapes.
+Analyze and document business rules and map them to system APIs, e.g. SARS validation rules
+Perform mapping and integration analysis for internal end third-party APIs, including:
+Current-state (As-Is) analysis
+Future-state (To-Be) integration design
+Conduct integration analysis for systems, ensuring alignment with architecture and regulatory requirements.
+Collaborate with cross-functional teams to ensure accurate translation of business needs into technical solutions.
+Drive and own the solution design activities, through collaboration with Technical Leads, Solution Architects and Quality Assurance Leads while ensuring alignment with architectural and integration standards.
+Specify and refine key business outcomes that influence the quality assurance practices across the delivery lifecycle
+
+
+Output/Core Tasks
+
+
+Develop detailed functional and system specifications supporting policy operations and fund administration processes.
+Produce high-quality technical diagrams and documentation using tools such as Visio and Draw.io.
+Drive API and data mapping activities, ensuring alignment between systems, stored procedures, and regulatory rules.
+Support Agile delivery cycles, including backlog refinement, sprint planning, and user story development.
+Ensure traceability between business requirements, system design, and delivered solutions.
+Facilitate collaboration between:
+Business analysts
+Developers
+Testers
+Architects
+Support integration and validation efforts, particularly related to third parties, amongst others and includes tax (SARS) and EBTax services.
+Contribute to continuous improvement of documentation standards, analysis practices, and delivery processes.
+
+
+What will make you successful in this role?
+
+Requirements
+
+Qualifications:
+
+
+Relevant degree or diploma in:
+Computer Science
+Information Systems
+Software Engineering
+Or related discipline
+Certification in Business Analysis (e.g., CBAP, CCBA) or equivalent is advantageous.
+
+
+Experience
+
+
+5+ years’ experience in:
+Systems analysis
+Technical product analysis
+Software delivery environments
+Software Engineering design
+Experience in insurance, financial services, or fund administration domains is strongly preferred.
+Proven experience working in Agile delivery teams and delivering high quality software
+Experience with system integration and API-driven environments.
+
+
+Technical & Functional Skills
+
+Analysis & Design
+
+
+Strong capability in:
+Functional decomposition
+System analysis and design
+Requirements traceability
+Experience producing structured technical documentation and models.
+
+
+API & Integration
+
+
+Experience mapping:
+APIs to backend services or stored procedures
+Business rules (e.g., SARS validation rules) to system services
+Exposure to integration patterns and service-based architectures.
+
+
+Data & SQL
+
+
+Strong working knowledge of SQL and relational databases.
+Ability to analyze data flows and validate business rules within system processes.
+
+
+Tools & Technologies
+
+Experience Using
+
+
+Visio / Draw.io – for modelling and diagrams
+Visual Studio Code with GitHub Copilot
+Confluence – for documentation and collaboration
+Microsoft Office Suite
+GitHub – source control and collaboration
+
+
+Domain Knowledge (Advantageous)
+
+
+Insurance Policy Administration systems
+Fund Administration environments
+Tax-related integrations and compliance (e.g., SARS, EBTax)
+Regulatory-driven system design and validation rules
+
+
+Knowledge
+
+
+Understanding of:
+System analysis methodologies
+API-driven architectures
+Data modelling and flow analysis
+Knowledge of Agile frameworks and artefacts (user stories, backlog management).
+Familiarity with enterprise integration and service design principles.
+
+
+Competencies
+
+
+Strong analytical and problem-solving capability.
+Exceptional attention to detail and documentation quality.
+Ability to translate business needs into clear technical artefacts.
+Effective stakeholder communication across business and technical teams.
+High level of ownership, accountability, and delivery focus.
+Ability to operate in complex, regulated enterprise environments.
+Continuous improvement mindset and adaptability to evolving requirements.
+
+
+Working Relationships
+
+The Role Collaborates Closely With
+
+
+Business Analysts
+Developers
+Testers
+Architecture Teams
+
+
+Build a successful career with us
+
+We’re all about building strong, lasting relationships with our employees. We know that you have hopes for your future – your career, your personal development and of achieving great things. We pride ourselves in helping our employees to realise their worth. Through its five business clusters – Sanlam Fintech, Sanlam Life and Savings, Sanlam Investment Group, Sanlam Allianz, Santam, as well as MiWay and the Group Office – the group provides many opportunities for growth and development.
+
+Turnaround time
+
+The shortlisting process will only start once the application due date has been reached. The time taken to complete this process will depend on how far you progress and the availability of managers.
+
+Closing Date: 12 October 2026
+
+Our commitment to transformation
+
+The Sanlam Group is committed to achieving transformation and embraces diversity. This commitment is what drives us to achieve a diverse, inclusive and equitable workplace as we believe that these are key components to ensuring a thriving and sustainable business in South Africa. The Group's Employment Equity plan and targets will be considered as part of the selection process.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at Sanlam by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Equity Derivatives Trader jobs
+Technical Product Analyst
+Similar jobs
+Technical Business Analyst
+Technical Business Analyst
+Explore Group
+City of Cape Town, Western Cape, South Africa
+ZAR 65,000 - ZAR 120,000
+4 weeks ago
+Software Support Analyst
+Software Support Analyst
+Unifi Africa
+Stellenbosch, Western Cape, South Africa
+6 days ago
+Senior Technical Product Specialist
+Senior Technical Product Specialist
+Octave
+Cape Town, Western Cape, South Africa
+2 weeks ago
+Business Analyst
+Business Analyst
+Unifi Africa
+Stellenbosch, Western Cape, South Africa
+1 month ago
+Application Support Analyst (Middle East Hours)
+Application Support Analyst (Middle East Hours)
+MRI Software
+City of Cape Town, Western Cape, South Africa
+4 weeks ago
+Application Support Analyst (SQL)
+Application Support Analyst (SQL)
+MRI Software
+City of Cape Town, Western Cape, South Africa
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Research Analyst, Upstream Asset Valuation
+Research Analyst, Upstream Asset Valuation
+
+S&P Global
+
+Cape Town, Western Cape, South Africa
+1 week ago
+Laboratory Analyst
+Laboratory Analyst
+
+SGS
+
+Cape Town, Western Cape, South Africa
+4 months ago
+Intermediate Quantitative Analyst - Customer Analytics
+Intermediate Quantitative Analyst - Customer Analytics
+
+Air Chefs
+
+Cape Town, Western Cape, South Africa
+2 months ago
+RPA Business Analyst - South Africa
+RPA Business Analyst - South Africa
+
+WNS
+
+Cape Town, Western Cape, South Africa
+4 months ago
+Junior Analytics Specialist
+Junior Analytics Specialist
+
+Spiralyze
+
+Cape Town, Western Cape, South Africa
+$800 - $1,200
+1 month ago
+Lead Business Analyst
+Lead Business Analyst
+
+Network Recruitment
+
+Stellenbosch, Western Cape, South Africa
+3 weeks ago
+Salesforce Business Analyst
+Salesforce Business Analyst
+
+Optimal Growth Technologies
+
+Cape Town, Western Cape, South Africa
+2 months ago
+Engineering Services Data Analyst
+Engineering Services Data Analyst
+
+Mediclinic
+
+Stellenbosch, Western Cape, South Africa
+1 day ago
+Business Analyst
+Business Analyst
+
+UWC Sport
+
+Bellville, Western Cape, South Africa
+17 hours ago
+Business Intelligence Analyst
+Business Intelligence Analyst
+
+Sigma Connected Group
+
+City of Cape Town, Western Cape, South Africa
+4 weeks ago
+Similar Searches
+Equity Derivatives Trader jobs
+21 open jobs
+Software Analyst jobs
+4,303 open jobs
+Technical Business Analyst jobs
+459 open jobs
+Technology Analyst jobs
+796 open jobs
+Learning Technology Manager jobs
+25 open jobs
+Technical Sales Assistant jobs
+96 open jobs
+Information Technology Analyst jobs
+4,255 open jobs
+Financial Market Analyst jobs
+234 open jobs
+Proprietary Trader jobs
+20 open jobs
+Help Desk Administrator jobs
+24 open jobs
+Equity Strategist jobs
+42 open jobs
+Stock Analyst jobs
+233 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Sanlam
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

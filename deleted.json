@@ -22421,5 +22421,22 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": null,
     "deletion_reason": "Deadline (2026-03-12) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Technical Product Analyst",
+    "company": "Sanlam",
+    "location": "Cape Town, Western Cape, South Africa",
+    "url": "https://za.linkedin.com/jobs/view/technical-product-analyst-at-sanlam-4485753544",
+    "visited": "yes",
+    "matches_requirements": "yes",
+    "reason": "The role aligns with the candidate's experience in requirements traceability, technical documentation, and working within regulated enterprise environments, and it is located in a target country.",
+    "id": "6100542c",
+    "source": "linkedin_za_technical_writer",
+    "added_at": "2026-11-06T02:17:02+02:00",
+    "posted_date": "2026-11-04",
+    "deadline": "2026-10-12",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": "job_descriptions/sanlam_technical_product_analyst_6100542c.txt",
+    "deletion_reason": "Deadline (2026-10-12) passed by more than 2 days and unreviewed"
   }
 ]
