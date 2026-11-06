@@ -1,0 +1,298 @@
+Title: Cutover & Deployment Manager — Phi Migration
+Company: Advance Delivery Consulting
+Location: Haymarket, New South Wales, Australia
+URL: https://au.linkedin.com/jobs/view/cutover-deployment-manager-%E2%80%94-phi-migration-at-advance-delivery-consulting-4486284258
+Posted: 2026-11-07
+Deadline: N/A
+Reason: The role aligns perfectly with her extensive experience in release management, cutover strategy, and regulated compliance, and it is located in an eligible country (Australia).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Cutover & Deployment Manager — Phi Migration
+Advance Delivery Consulting  Haymarket, New South Wales, Australia
+3 hours ago   Be among the first 25 applicants
+  
+
+See who Advance Delivery Consulting has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Position Summary
+
+Lead the end‑to‑end transition of member, policy, claims, and provider data—and the supporting business processes from client’s current platform to target state ensuring data integrity, security, and compliance under Australian privacy law. Own the cutover strategy, coordinate technical and business readiness, and deliver a controlled go‑live with minimal disruption to operations and members.
+
+Lead the end‑to‑end transition of member, policy, claims, and provider data—and the supporting business processes from client’s current platform to target state ensuring data integrity, security, and compliance under Australian privacy law. Own the cutover strategy, coordinate technical and business readiness, and deliver a controlled go‑live with minimal disruption to operations and members.
+
+Key Responsibilities
+
+Cutover Strategy & Governance
+
+Define cutover strategy, scope, success criteria, decision gates, rollback approach, and detailed cutover runbook (including rehearsals and mock cutovers).
+
+Establish go/no‑go governance and readiness checkpoints across technology, operations, contact centre, finance, compliance, and vendor partners
+
+Align platform capabilities and integrations (e.g., HICAPS, HealthPoint, ECLIPSE) with cutover sequencing.
+
+Data Migration & PHI Protection
+
+Liaise with Data Migration team for data cutover.
+
+Lead data validation (record counts, referential integrity, claim totals, product rates, benefit limits) and parallel run comparisons to prove outcome equivalence.
+
+Platform Deployment & Integrations
+
+Orchestrate environment readiness (dev/test/pre‑prod/prod), release schedules, and configuration of modules—membership, policy/product, claims, billing/contributions, reporting.
+
+Coordinate open‑system integrations and industry services to deliver end‑to‑end journeys
+
+Manage performance, resilience, and disaster recovery tests consistent with managed services expectations.
+
+Business Readiness & Member Experience
+
+Plan operational day‑1 readiness: contact centre scripts, claims assessing rules, provider eligibility, contribution cycles, arrears handling, transfer certificates, and complaints processes.
+
+Coordinate training for front‑line, claims, finance, and back‑office teams; ensure hypercare and knowledge base updates.
+
+Partner with change management to communicate member impacts (policy references, portals, digital claims, new statements) and minimise disruption—leveraging Ensure’s reporting and member‑journey features.
+
+Risk, Compliance & Audit
+
+Maintain a risk register for cutover and data privacy/security; run privacy impact assessments; document APP‑aligned consent/notice and data handling; ensure traceability for audit.
+
+Define and test rollback/fallback to legacy platform for critical scenarios; ensure appropriate contingency staffing through go‑live.
+
+Provide board/executive reporting on readiness, incidents, defects, and regulatory compliance.
+
+Post‑Go‑Live Stabilisation
+
+Lead hypercare (defect triage SLAs, RPA/workarounds, minor releases), benefit realisation tracking, and a structured handover to BAU (ops & IT).
+
+Execute lessons learned and embed continuous improvement for future releases (e.g., products, rate changes, claims rules).
+
+Required Experience & Skills
+
+Domain Expertise
+
+Proven delivery of core PHI system migrations or large‑scale platform replacements in Australia
+
+Familiarity with industry transaction flows (HICAPS, HealthPoint, Medicare Two‑Way, ECLIPSE) and transfer certificate automation.
+
+Delivery Leadership
+
+10+ years in cutover/deployment/release management for mission‑critical systems; strong stakeholder and vendor management.
+
+Excellent runbook design, dependency management, risk mitigation, and executive communication skills.
+
+Comfortable leading dry‑runs, parallel runs, and go/no‑go boards under tight timelines.
+
+Preferred Qualifications
+
+Prior work with cloud‑enabled PHI platforms and successful cloud migrations
+
+Experience integrating Ensure with best‑of‑breed CRM/data platforms to enhance member and provider experiences.
+
+Deliverables & Milestones (Illustrative)
+
+Migration Blueprint and Privacy Impact Assessment approved.
+
+Data mapping specs and ETL pipelines baselined.
+
+Cutover rehearsal #1: end‑to‑end dry run with parallel reconciliation of claims/contributions.
+
+Operational Readiness: training complete; support model & on‑call rosters set; member communications scheduled.
+
+Go‑Live: controlled cutover window; command centre; incident/defect SLAs.
+
+Hypercare exit: stability metrics met; audit artefacts complete; BAU handover signed‑off.
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Industries
+Information Technology & Services
+  
+
+Referrals increase your chances of interviewing at Advance Delivery Consulting by 2x
+
+See who you know
+
+Get notified about new Deployment Manager jobs in Haymarket, New South Wales, Australia.
+
+Sign in to create job alert
+Jobs
+Change And Release Manager jobs
+Cutover & Deployment Manager — Phi Migration
+Similar jobs
+Cutover &amp; Deployment Manager — PHI Migration
+Cutover &amp; Deployment Manager — PHI Migration
+Advance Delivery Consulting
+Hornsby, New South Wales, Australia
+3 months ago
+Cutover & Deployment Lead — Data Migration & Go‑Live
+Cutover & Deployment Lead — Data Migration & Go‑Live
+Advance Delivery Consulting
+Hornsby, New South Wales, Australia
+2 days ago
+Release Lead
+Release Lead
+Zone IT Solutions
+Sydney, New South Wales, Australia
+2 weeks ago
+Program Manager
+Program Manager
+NSW Department of Communities and Justice
+Parramatta, New South Wales, Australia
+12 hours ago
+Senior Project Manager
+Senior Project Manager
+eHealth NSW
+Chatswood, New South Wales, Australia
+1 week ago
+Microsoft Intune Migration Lead
+Microsoft Intune Migration Lead
+NRI Australia & New Zealand
+Sydney, New South Wales, Australia
+A$120 - A$145
+3 weeks ago
+Show more jobs like this 
+People also viewed
+Senior Project Manager
+Senior Project Manager
+
+Lockton
+
+Sydney, New South Wales, Australia
+3 weeks ago
+Digital Project Manager
+Digital Project Manager
+
+HammondCare
+
+St Leonards, New South Wales, Australia
+1 week ago
+Project Manager
+Project Manager
+
+Kapital Consulting
+
+Greater Sydney Area
+3 weeks ago
+Solutions and Delivery Manager
+Solutions and Delivery Manager
+
+Cloud Assess
+
+Sydney, New South Wales, Australia
+3 weeks ago
+AI Delivery Manager
+AI Delivery Manager
+
+x15ventures
+
+Sydney, New South Wales, Australia
+1 week ago
+Environment and Delivery Manager, 12 MFTC
+Environment and Delivery Manager, 12 MFTC
+
+ASX
+
+Sydney, New South Wales, Australia
+1 week ago
+Onboarding Delivery Manager - Group Digital
+Onboarding Delivery Manager - Group Digital
+
+TAL Australia
+
+Sydney, New South Wales, Australia
+1 week ago
+Senior Technical Onboarding & Engagement Manager
+Senior Technical Onboarding & Engagement Manager
+
+Algolia
+
+Sydney, New South Wales, Australia
+2 weeks ago
+Manager, Customer Deployments
+Manager, Customer Deployments
+
+Axon
+
+Sydney, New South Wales, Australia
+2 weeks ago
+Delivery Manager
+Delivery Manager
+
+White Bay
+
+Sydney, New South Wales, Australia
+1 week ago
+Similar Searches
+Change And Release Manager jobs
+67 open jobs
+Release Manager jobs
+1,681 open jobs
+Senior Executive Engineer jobs
+661 open jobs
+Configuration Manager jobs
+256 open jobs
+Customer Project Manager jobs
+2,415 open jobs
+Facilities Security Officer jobs
+35 open jobs
+Test Director jobs
+27 open jobs
+Geology Manager jobs
+53 open jobs
+Migration Manager jobs
+1,185 open jobs
+Project Support Coordinator jobs
+1,221 open jobs
+Principal Enterprise Architect jobs
+104 open jobs
+Website Content Manager jobs
+126 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Advance Delivery Consulting
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
