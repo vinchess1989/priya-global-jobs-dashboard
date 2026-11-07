@@ -1,0 +1,289 @@
+Title: Quality Engineering Lead
+Company: CloudMarc
+Location: Melbourne, Victoria, Australia
+URL: https://au.linkedin.com/jobs/view/quality-engineering-lead-at-cloudmarc-4486930659
+Posted: 2026-11-07
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in quality engineering, CI/CD, and process improvement within complex technical environments, and it is located in an eligible country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Quality Engineering Lead
+CloudMarc  Melbourne, Victoria, Australia
+1 day ago  51 applicants
+  
+
+See who CloudMarc has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Quality Engineering Lead
+
+HANDS-ON QE LEADERSHIP | DIGITAL & ENTERPRISE RETAIL
+
+
+
+
+CloudMarc is seeking an experienced, hands-on Quality Engineering (QE) Lead to help a major Australian retailer improve the speed, quality and predictability of delivering complex digital solutions. You will work across web, mobile, APIs, services and third-party platforms, leading better approaches to integrated testing, automation and test data.
+
+
+
+
+This is not a traditional test execution or people-management role. We need a technically credible problem solver who can see the bigger picture, remove delivery bottlenecks, introduce practical improvements and influence multiple teams to achieve measurable outcomes.
+
+
+
+
+The opportunity
+
+Own and improve the end-to-end QE approach for complex, cross-platform digital initiatives, from early planning through integrated validation.
+Work closely with product, engineering, QEs and external technology partners to identify integration risks, dependencies and delivery blockers early.
+Build repeatable, scalable ways of testing integrated customer journeys rather than reinventing the approach for every release.
+Drive improvements in test cycle time, automation coverage, quality confidence and overall delivery efficiency.
+
+
+
+
+Key responsibilities
+
+Assess systems, interfaces, data flows, environments and dependencies to design an effective end-to-end test strategy.
+Lead and coordinate quality outcomes across teams, clearly separating effective system-level testing from integration-focused end-to-end testing.
+Identify manual or inefficient testing processes and implement practical improvements with measurable results.
+Design and implement reliable test data creation and management approaches for complex, data-dependent scenarios, including API-driven data setup.
+Build and extend automated checks across web, services and APIs, with a focus on integration, data accuracy and customer-facing outcomes.
+Promote shared automation frameworks, maintainable suites and shift-left techniques such as mocking and service virtualisation.
+Apply risk-based testing principles and improve reporting through business-critical journey coverage, integration risk and meaningful quality indicators.
+Use AI-assisted engineering and QE tools to improve productivity, while ensuring appropriate validation and human judgement.
+Coach and influence QEs and engineering teams, challenge ineffective practices constructively, and escalate blockers with recommended solutions.
+
+
+
+
+Essential skills and experience
+
+Substantial experience in senior Quality Engineering, Test Automation or QE Lead roles involving complex enterprise platforms and integrations.
+Proven track record of diagnosing root causes of slow or ineffective testing and delivering tangible process or technical improvements.
+Demonstrated leadership of end-to-end testing across multiple applications, teams and technology providers, without necessarily having direct reports.
+Strong practical understanding of REST and GraphQL APIs, service-layer validation, integration points and API gateways or middleware.
+Hands-on test automation using Playwright and TypeScript, or advanced experience in a comparable modern automation stack with the ability to ramp up quickly.
+Experience designing and operationalising test data strategies, including complex dependencies, repeatable setup and automation opportunities.
+Knowledge of risk-based test design, integration testing, shift-left quality practices and fit-for-purpose test coverage.
+Confidence working directly with developers, product owners, QE specialists and senior stakeholders to influence technical decisions and ways of working.
+Practical, current use of AI tools to support software engineering, test design, automation or quality activities.
+Strong analytical thinking, initiative, communication and ownership, with a preference for solving problems rather than simply reporting them.
+
+
+
+
+Highly regarded experience
+
+Azure API Management, Kafka, event-driven architectures or other middleware and integration technologies.
+Azure DevOps pipelines, Jira, Xray, Confluence and modern CI/CD quality practices.
+Adobe Experience Manager, Adobe Target, Adobe Analytics or other content and personalisation platforms.
+Retail, retail media, advertising technology, digital customer experience or e-commerce environments.
+Validation of tracking events, targeting, content placements or other cross-channel digital behaviours.
+Service virtualisation, mocking, visual regression testing and mobile automation technologies.
+AI coding assistants, agentic QE approaches or Model Context Protocol (MCP) connections to engineering and test tools.
+
+
+
+
+What will make you successful
+
+You combine strong technical capability with curiosity, sound judgement and a bias for action. You can take a complex, poorly understood testing challenge, make it clear, bring people together and implement an approach that is faster, more repeatable and trusted by delivery teams. Your impact will be measured through improvements in quality and delivery outcomes, not the volume of test cases produced.
+
+
+
+
+Interested? If you are a hands-on QE leader who enjoys solving difficult engineering problems and making lasting improvements, we would welcome your application.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Contract
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at CloudMarc by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Automation Lead jobs
+Quality Engineering Lead
+Similar jobs
+Quality Assurance Manager
+Quality Assurance Manager
+Thales
+Melbourne, Victoria, Australia
+2 weeks ago
+Expression of Interest – Technology, Quality Engineering, Project and Program Management Professionals
+Expression of Interest – Technology, Quality Engineering, Project and Program Management Professionals
+KJR
+Melbourne, Victoria, Australia
+1 month ago
+Quality Engineer
+Quality Engineer
+ARB Corporation Ltd
+Melbourne, Victoria, Australia
+4 days ago
+Assistant Quality Assurance Manager
+Assistant Quality Assurance Manager
+KBR, Inc.
+Melbourne, Victoria, Australia
+2 weeks ago
+Quality & Operational Excellence Manager
+Quality & Operational Excellence Manager
+ABB
+Notting Hill, Victoria, Australia
+5 days ago
+Quality Surveillance Officer
+Quality Surveillance Officer
+Melbourne Airport
+Docklands, Victoria, Australia
+2 days ago
+Show more jobs like this 
+People also viewed
+QA Specialist
+QA Specialist
+
+CAI
+
+Melbourne, Victoria, Australia
+2 weeks ago
+Test Manager / Verification and Validation Manager
+Test Manager / Verification and Validation Manager
+
+Leidos Australia
+
+Melbourne, Victoria, Australia
+2 weeks ago
+Principal Specialist QA Tech Ops
+Principal Specialist QA Tech Ops
+
+Moderna
+
+Melbourne, Victoria, Australia
+2 weeks ago
+Quality Manager
+Quality Manager
+
+Samsung C&T Corporation Australia
+
+Melbourne, Victoria, Australia
+2 weeks ago
+Quality Manager
+Quality Manager
+
+Buildcorp
+
+Melbourne, Victoria, Australia
+2 weeks ago
+Lead QA - Automation & Manual & Performance
+Lead QA - Automation & Manual & Performance
+
+Credera
+
+Melbourne, Victoria, Australia
+5 months ago
+Senior Quality Improvement Specialist
+Senior Quality Improvement Specialist
+
+The Royal Melbourne Hospital
+
+Melbourne, Victoria, Australia
+5 days ago
+Quality Manager
+Quality Manager
+
+IonOpticks
+
+Collingwood, Victoria, Australia
+1 week ago
+Quality Supervisor
+Quality Supervisor
+
+AkzoNobel
+
+Melbourne, Victoria, Australia
+2 weeks ago
+Senior Quality Engineer
+Senior Quality Engineer
+
+Slater and Gordon Lawyers
+
+Melbourne, Victoria, Australia
+2 days ago
+Similar Searches
+Automation Lead jobs
+690 open jobs
+Quality Engineering Manager jobs
+560 open jobs
+Software Tester jobs
+120 open jobs
+Chief Information Security Officer jobs
+63 open jobs
+Software Automation Engineer jobs
+778 open jobs
+Senior Quality Engineer jobs
+138 open jobs
+Platform Engineer jobs
+1,859 open jobs
+Quality Assurance Manager jobs
+424 open jobs
+Salesforce Administrator jobs
+198 open jobs
+Technical Recruiter jobs
+212 open jobs
+Quality Assurance Engineer jobs
+425 open jobs
+Dotnet Developer jobs
+690 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at CloudMarc
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
