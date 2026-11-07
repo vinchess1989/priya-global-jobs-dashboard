@@ -1,0 +1,223 @@
+Title: Platform Ops Lead (24-month Contract)
+Company: Cathay Pacific
+Location: Hong Kong, Hong Kong SAR
+URL: https://hk.linkedin.com/jobs/view/platform-ops-lead-24-month-contract-at-cathay-pacific-4488739012
+Posted: 2026-11-08
+Deadline: N/A
+Reason: The role is a strong match for her DevOps, CI/CD, and platform operations expertise, and it is located in a target country (Hong Kong) with no explicit exclusion of visa sponsorship.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Platform Ops Lead (24-month Contract)
+Cathay Pacific  Hong Kong, Hong Kong SAR
+6 hours ago   Be among the first 25 applicants
+  
+
+See who Cathay Pacific has hired for this role
+
+Apply 
+Save
+Role Introduction
+
+Reports to: Platform Ops Senior Lead
+
+Lead the platforms that power how Cathay builds, tests and releases digital products. As Platform Ops Lead, you are responsible for delivering, running and continually improving DevOps Continuous Integration and Continuous Delivery (CI/CD) platforms that allow web and mobile application teams to move quickly, securely and at scale.
+
+Working closely with application teams, you translate real business needs into reliable platform services, combining CI/CD toolchains, container platforms and hybrid cloud infrastructure. The role blends hands-on technical leadership with service ownership — from automation and self-healing capabilities, to performance testing, proactive monitoring and secure access controls — all built in line with Cathay’s infrastructure strategy and roadmap.
+
+This is a role for someone who enjoys shaping platforms that others rely on every day. By guiding engineers, partnering with vendors and applying FinOps practices to optimise cost, you help create a stable, modern DevOps environment that supports innovation, resilience and long-term value for the business.
+
+Key Responsibilities
+
+
+Build, operate and continuously enhance automation, CI/CD and self-healing hybrid cloud container platforms to deliver high availability and scalable infrastructure services, supporting web and mobile application development
+Maintain Observability platform's stability and self-service automations for application team. ie Elastic Stack (ElasticSearch, Logstash, Kibana)
+Ensure reliable day-to-day operations of DevOps platforms, covering continuous integration, test automation, environment configuration and version control
+Partner with application teams to translate requirements into a clear Platform Ops service catalogue
+Govern the quality and compliance of base images, libraries, CI/CD pipelines and container platforms against corporate security and quality standards
+Evaluate, retire and replace obsolete or redundant CI/CD toolsets to maintain market-aligned solutions
+Enable secure segregation of duties through tailored access controls across DevOps toolsets
+Apply FinOps practices to optimise cloud and DevOps platform cost efficiency at scale
+Lead, mentor and support platform engineers in daily operations, performance improvement and career development
+Communicate infrastructure designs, risks, dependencies and delivery progress clearly with project managers, stakeholders, vendors and delivery partners, including availability for 24/7 support when required
+
+
+Requirements
+
+
+Bachelor’s degree or above in Information Technology, Computer Science, Engineering, or a related field
+Minimum 8 years of IT experience, including at least 5 years in IT infrastructure roles
+Proven experience working in complex enterprise IT infrastructure environments.
+Strong ability to design solutions and make technical decisions with minimal supervision
+Demonstrated experience influencing stakeholders and building relationships at senior levels
+Solid understanding of DevOps, Continuous Integration / Continuous Delivery (CI/CD), and Agile or Lean methodologies
+Hands-on knowledge of cloud operations, DevOps, DevSecOps, and FinOps practices
+Broad technical exposure to cloud platforms (Azure and/or AWS), container platforms, microservices, and Infrastructure as Code
+Strong analytical, problem‑solving and root cause analysis skills, with clear written and verbal communication
+Ability to manage multiple initiatives in a cross‑functional environment, align technology with business needs, and support 24/7 operations when required
+
+
+Personal & Application Information
+
+Equal Opportunity
+
+Cathay Pacific is committed to fostering an environment that values Diversity, Equity, Inclusion and Belonging. As an equal opportunity employer, we are committed to attracting and hiring qualified individuals from diverse backgrounds, experiences and abilities. We strive to create a respectful, inclusive workplace free from discrimination, harassment and bullying.
+
+Privacy
+
+Personal data provided by job applicants will be used strictly in accordance with our Applicant Personal Information Collection Statement and for recruitment purposes only. Candidates not notified within eight weeks may consider their application unsuccessful. We keep records of your data for no longer than is necessary for the purpose for which we obtained them and any other permitted linked purposes. If your application is unsuccessful, we will keep your details on file for as long as is necessary to process your application or for the purposes of further job opportunities if you agree to such longer periods.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Contract
+Industries
+Airlines and Aviation
+  
+
+Referrals increase your chances of interviewing at Cathay Pacific by 2x
+
+See who you know
+
+Get notified about new Operations Lead jobs in Hong Kong, Hong Kong SAR.
+
+Sign in to create job alert
+Similar jobs
+Manager, Data Delivery & Management
+Manager, Data Delivery & Management
+CTF Life
+Hong Kong SAR
+10 hours ago
+Manager, Data Delivery and Management
+Manager, Data Delivery and Management
+CTF Life
+Hong Kong SAR
+1 day ago
+Assistant Manager, IT Operations Project Management
+Assistant Manager, IT Operations Project Management
+ASTRI - Hong Kong Applied Science and Technology Research Institute
+Hong Kong, Hong Kong SAR
+1 day ago
+Temporary Officer - Information Technology (Digital Workplace)
+Temporary Officer - Information Technology (Digital Workplace)
+Hong Kong Examinations and Assessment Authority (HKEAA) 香港考試及評核局 (考評局)
+Hong Kong, Hong Kong SAR
+1 week ago
+Senior Cloud Services Engineer - Associate - Cloud Platform Services - 12month contract
+Senior Cloud Services Engineer - Associate - Cloud Platform Services - 12month contract
+Hong Kong Exchanges and Clearing Limited (HKEX)
+Hong Kong, Hong Kong SAR
+4 days ago
+Operation Supervisor, IT
+Operation Supervisor, IT
+Airport Authority Hong Kong
+Hong Kong, Hong Kong SAR
+1 day ago
+Show more jobs like this 
+People also viewed
+Project Manager (Contract)
+Project Manager (Contract)
+
+Societe Generale
+
+Hong Kong, Hong Kong SAR
+1 week ago
+Technical Officer in Computing Services Centre [R/008/26]
+Technical Officer in Computing Services Centre [R/008/26]
+
+City University of Hong Kong
+
+Kowloon, Hong Kong SAR
+1 week ago
+Technical Lead, DevOps & Platform - Start Up
+Technical Lead, DevOps & Platform - Start Up
+
+ES Corporate Functions
+
+Hong Kong, Hong Kong SAR
+1 week ago
+DevOps Engineer (Game Production)
+DevOps Engineer (Game Production)
+
+Nex
+
+Sham Shui Po District, Hong Kong SAR
+1 month ago
+Manager - Platform Services & Application System
+Manager - Platform Services & Application System
+
+CLP
+
+Hong Kong SAR
+1 week ago
+Network Operations Support (24x7 Shift) I Up to 22K
+Network Operations Support (24x7 Shift) I Up to 22K
+
+Peoplebank Asia
+
+Kowloon, Hong Kong SAR
+3 days ago
+Principal IT Specialist (Project Support & Shared Services) (Ref: IT-INT-PS-PITS-LI)
+Principal IT Specialist (Project Support & Shared Services) (Ref: IT-INT-PS-PITS-LI)
+
+The Hongkong Electric Co., Ltd. (HK Electric)
+
+Hong Kong, Hong Kong SAR
+3 days ago
+Assistant Manager, Data Analytics Operations
+Assistant Manager, Data Analytics Operations
+
+West Kowloon Cultural District Authority
+
+Hong Kong SAR
+5 days ago
+Manager (Banking Supervision) (Supervisory Technology)
+Manager (Banking Supervision) (Supervisory Technology)
+
+Hong Kong Monetary Authority (HKMA)
+
+Hong Kong, Hong Kong SAR
+1 day ago
+Assistant Manager, Cloud Infrastructure
+Assistant Manager, Cloud Infrastructure
+
+West Kowloon Cultural District Authority
+
+Hong Kong SAR
+4 days ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
