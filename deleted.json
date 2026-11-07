@@ -23084,5 +23084,22 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": null,
     "deletion_reason": "Deadline (2025-11-13) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Test Engineer",
+    "company": "New Zealand Trade and Enterprise",
+    "location": "Auckland, Auckland, New Zealand",
+    "url": "https://nz.linkedin.com/jobs/view/test-engineer-at-new-zealand-trade-and-enterprise-4486933441",
+    "visited": "yes",
+    "matches_requirements": "maybe",
+    "reason": "The role is a strong fit for her quality and testing background, but it is a fixed-term contract and does not explicitly mention visa sponsorship, which is required for her to work in New Zealand.",
+    "id": "3ea2a7ab",
+    "source": "linkedin_nz_quality_engineer",
+    "added_at": "2026-11-07T02:18:35+02:00",
+    "posted_date": "2026-11-07",
+    "deadline": "2024-11-12",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Deadline (2024-11-12) passed by more than 2 days and unreviewed"
   }
 ]
