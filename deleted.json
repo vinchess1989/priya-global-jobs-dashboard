@@ -23764,5 +23764,22 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": "job_descriptions/omnigame_qa_developer_4803416b.txt",
     "deletion_reason": "Deadline (2026-11-06) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Quality, Risk & Accreditation Manager",
+    "company": "St Vincent's Private Hospital",
+    "location": "Dublin, County Dublin, Ireland",
+    "url": "https://ie.linkedin.com/jobs/view/quality-risk-accreditation-manager-at-st-vincent-s-private-hospital-4481951005",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role requires a clinical/healthcare-specific qualification and experience in a clinical hospital environment, which falls under the hard rejection for clinical/medical license requirements.",
+    "id": "90ecbcff",
+    "source": "linkedin_ie_quality_manager",
+    "added_at": "2026-11-08T01:35:03+02:00",
+    "posted_date": "2026-10-25",
+    "deadline": "2025-11-13",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Deadline (2025-11-13) passed by more than 2 days and unreviewed"
   }
 ]

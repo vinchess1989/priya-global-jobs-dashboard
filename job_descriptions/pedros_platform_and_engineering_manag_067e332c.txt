@@ -1,0 +1,305 @@
+Title: Platform and Engineering Manager
+Company: Pedros
+Location: Durban, KwaZulu-Natal, South Africa
+URL: https://za.linkedin.com/jobs/view/platform-and-engineering-manager-at-pedros-4488462923
+Posted: 2026-10-25
+Deadline: Open until filled
+Reason: The role aligns perfectly with her extensive experience in DevOps, CI/CD pipeline ownership, release management, and quality/change control in a professional, English-speaking environment.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Platform and Engineering Manager
+Pedros  Durban, KwaZulu-Natal, South Africa
+2 weeks ago   Be among the first 25 applicants
+  
+
+See who Pedros has hired for this role
+
+Apply 
+Save
+Pedros builds its digital products in-house, and every one of them has to be hosted, deployed and paid for. The Platform and Engineering Manager is the deeply technical owner of that whole chain: the hosting infrastructure across AWS, Azure and Private Hosted Environments, the applications that run on it, how they are deployed, and the risks that come with running it.
+
+The role leads the software development team and is expected to stay hands-on. It is a technical leadership role with people responsibility, and suits a senior engineer taking a first step into management. The risks the role exists to control are cost, security, resource use and monitoring, consumption forecasting, and the ability to recover when something fails.
+
+Responsibilities
+
+Hosting Infrastructure and Platform
+
+
+Own hosting end to end for Pedros applications and internal systems across AWS, Azure and private hosting, from design and deployment to availability, backup and recovery, including the applications that run on it.
+Make sure every application is deployed correctly for its hosted environment: configuration, dependencies, scaling, security and performance.
+Decide where each workload should run and why, weighing cost, performance, security and data-protection requirements, within the standards set by the Head of Enterprise Technology and GRC.
+Keep architecture, runbook and configuration documentation accurate and current.
+
+
+Deployment and DevOps
+
+
+Own container orchestration, environments and the CI/CD pipelines used to deploy Pedros software.
+Automate provisioning and deployment with infrastructure-as-code so releases are repeatable, reviewed and reversible.
+Set the technical release standard, including testing and rollback, and hold the team to it.
+Build security checks (dependency, secrets and code scanning) into the pipeline instead of adding them at the end.
+
+
+Change Control
+
+
+Act as first approver for changes to hosted systems and deployments raised through the change control process run by IT Operations.
+Assess technical risk, rollback and cost impact before approving, and decline or send back changes that are not ready.
+Keep change records for deployments complete so they can be evidenced for audit.
+
+
+Cost Awareness and Spend Motivation
+
+
+Keep sight of the hosting and cloud budget and how it is being consumed against plan.
+Identify where spend is needed, such as capacity, resilience, security tooling or platform changes, and motivate for it with a clear business case.
+Design and deploy systems cost-effectively: choose the right size, service and hosting option for each workload and avoid over-provisioning.
+Estimate the running cost of new deployments and vendor proposals before commitment, and raise cost concerns early.
+Apply cost controls in every deployment across AWS and Azure: resource tagging, alerts, right-sizing and clean-up of unused resources.
+Forecast consumption for compute, storage, data transfer and licences, and report cost trends, consumption against budget and options to reduce cost to the Head of Enterprise Technology and GRC.
+
+
+Resource Monitoring and Capacity
+
+
+Run monitoring, alerting and logging for hosted platforms and applications, with clear capacity and performance thresholds and escalation paths, and keep IT Operations informed so they can support users.
+Plan capacity ahead of demand, such as promotions, new brands and peak trading periods.
+Lead the technical response when hosted systems fail, and run post-incident reviews.
+
+
+Business Continuity and Recovery
+
+
+Maintain the classification of every system by criticality (for example, tiers based on business impact and data sensitivity), and keep the register current as systems are added or retired.
+Keep each system's hosting, backup and failover design aligned with its agreed Recovery Point Objective (RPO) and Recovery Time Objective (RTO), and flag where the design cannot meet them.
+Own the technical side of business continuity and disaster recovery planning: recovery runbooks, backup verification and scheduled restore and failover tests.
+Report test results, gaps and remediation plans to the Head of Enterprise Technology and GRC. RPO and RTO targets are agreed with the business and the Head of Enterprise Technology and GRC, not set by this role alone.
+
+
+Security Standards Implementation
+
+
+Implement the security standards, policies and baselines set by the Head of Enterprise Technology and GRC across infrastructure, containers, pipelines and cloud.
+Manage vulnerability and patch remediation, and keep evidence that controls are operating for audit and POPIA-related requirements.
+Report control gaps and exceptions to the Head of Enterprise Technology and GRC. Exceptions to standards are not self-approved.
+
+
+Vendor Relationship Management
+
+
+Manage hosting, cloud, tooling and development-house vendors day to day: performance against SLAs, escalations and value for money.
+Make sure vendors meet Pedros security and data-protection requirements, and provide technical input to vendor assessments and agreements.
+
+
+Team and Technical Leadership
+
+
+Lead the software development team: set priorities, agree objectives, and run performance conversations and appraisals.
+Set engineering standards for code review, testing, documentation and deployment, and make sure they are followed.
+Coach engineers and build a development path from Junior to Intermediate to Senior.
+Manage workload, on-call cover for hosted systems and leave cover, and contribute to headcount planning.
+Reduce single-person dependency on critical systems by documenting them and sharing ownership across the team.
+
+
+NOTE: This role designs, deploys and implements controls and owns delivery. It has sight of the cloud budget and motivates for spend, but does not own it. IT Operations owns user support and the change control process, and this role is the first approver of changes. Policy, risk acceptance and assurance over those controls sit with the Head of Enterprise Technology and GRC. Changes to systems this role has built need an independent approver after this role's first approval.
+
+Requirements
+
+
+7+ years in infrastructure, DevOps, software or security engineering, with recent hands-on ownership of production systems.
+Proven experience designing, building and running a production system end to end.
+Working experience with AWS, Azure and private hosting environments, including deciding where workloads should run.
+Experience running containerised workloads and CI/CD pipelines in production.
+Practical secure-SDLC knowledge: dependency, secrets and code scanning in pipelines, and vulnerability triage.
+Practical cost and capacity management: budgeting, forecasting consumption and controlling spend on cloud or hosted infrastructure.
+Solid monitoring and alerting practice, and security fundamentals including vulnerability management.
+Experience with backup, disaster recovery and business continuity: designing to RPO and RTO targets, classifying systems by criticality, and running recovery tests.
+Experience leading or mentoring engineers, formal or informal. Formal line management is not required, but the appetite and aptitude for it are.
+Experience working with vendors, including SLAs, renewals and cost.
+Clear written and verbal communication, and the ability to explain technical risk and cost to non-technical stakeholders.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Restaurants
+  
+
+Referrals increase your chances of interviewing at Pedros by 2x
+
+See who you know
+
+Get notified about new Engineering Manager jobs in Durban, KwaZulu-Natal, South Africa.
+
+Sign in to create job alert
+Jobs
+Senior Engineering Manager jobs
+Platform and Engineering Manager
+Similar jobs
+Data Engineering Manager
+Data Engineering Manager
+Derivco
+Durban, KwaZulu-Natal, South Africa
+2 weeks ago
+Head of Technology: Spot (Durban)
+Head of Technology: Spot (Durban)
+Ignition Group
+Umhlanga, KwaZulu-Natal, South Africa
+4 weeks ago
+Program Team Leader - Development and Solutions
+Program Team Leader - Development and Solutions
+BC Technologies
+Durban, KwaZulu-Natal, South Africa
+5 months ago
+Innovation Hub Manager
+Innovation Hub Manager
+Kaelo
+Durban, KwaZulu-Natal, South Africa
+4 days ago
+Software Delivery Lead
+Software Delivery Lead
+BETSoftware
+Durban, KwaZulu-Natal, South Africa
+4 days ago
+Technical Lead - Live
+Technical Lead - Live
+BETSoftware
+Durban, KwaZulu-Natal, South Africa
+1 week ago
+Show more jobs like this 
+People also viewed
+Data Engineer
+Data Engineer
+
+iKhokha
+
+Umhlanga, KwaZulu-Natal, South Africa
+5 days ago
+Principal Engineer - Highways
+Principal Engineer - Highways
+
+AECOM
+
+Durban, KwaZulu-Natal, South Africa
+2 weeks ago
+Maintenance Manager (Racing)
+Maintenance Manager (Racing)
+
+Hollywoodbets
+
+Durban, KwaZulu-Natal, South Africa
+1 week ago
+Maintenance & Asset Care Lead
+Maintenance & Asset Care Lead
+
+Energy Drive
+
+Durban, KwaZulu-Natal, South Africa
+2 weeks ago
+Senior Applied AI Engineer – Prompting & Evaluation
+Senior Applied AI Engineer – Prompting & Evaluation
+
+Klipboard
+
+Durban, KwaZulu-Natal, South Africa
+2 weeks ago
+R&D Manager - Formulation and Production
+R&D Manager - Formulation and Production
+
+ExecutivePlacements.com
+
+Durban, KwaZulu-Natal, South Africa
+1 week ago
+Senior Systems Test & Validation Engineer (12 month FTC)
+Senior Systems Test & Validation Engineer (12 month FTC)
+
+HID
+
+Durban, KwaZulu-Natal, South Africa
+3 days ago
+Senior Engineer - Structures, Data Center
+Senior Engineer - Structures, Data Center
+
+AECOM
+
+Durban, KwaZulu-Natal, South Africa
+3 months ago
+Technical Learning and Development Manager
+Technical Learning and Development Manager
+
+Hollywoodbets
+
+Durban, KwaZulu-Natal, South Africa
+1 week ago
+Senior Project Manager
+Senior Project Manager
+
+Turner & Townsend
+
+Durban Metropolitan Area
+4 days ago
+Similar Searches
+Senior Engineering Manager jobs
+126 open jobs
+Software Engineering Manager jobs
+519 open jobs
+Senior Software Engineering Manager jobs
+484 open jobs
+Director of Engineering jobs
+61 open jobs
+Mechanical Engineering Manager jobs
+261 open jobs
+Manufacturing Engineering Manager jobs
+478 open jobs
+Process Engineering Manager jobs
+392 open jobs
+Assistant Chief Engineer jobs
+91 open jobs
+Production Engineering Manager jobs
+270 open jobs
+Engineering Project Manager jobs
+463 open jobs
+Principal Software Engineer jobs
+669 open jobs
+Head of Software Engineering jobs
+121 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Pedros
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
