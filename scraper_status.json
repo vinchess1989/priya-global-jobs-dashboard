@@ -1,9 +1,9 @@
 {
   "pid": 22472,
   "started_at": "2026-11-08T01:13:21+02:00",
-  "heartbeat_at": "2026-11-08T01:48:52+02:00",
+  "heartbeat_at": "2026-11-08T01:51:03+02:00",
   "phase": "reviewing",
-  "detail": "Functional & Business Analyst",
-  "last_scrape_ok_at": "2026-11-08T01:47:55+02:00",
+  "detail": "Salesforce Administrator",
+  "last_scrape_ok_at": "2026-11-08T01:50:04+02:00",
   "last_error": null
 }
