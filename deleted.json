@@ -23050,5 +23050,39 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": "job_descriptions/selma_sis_implementation_project_manager_f92541bd.txt",
     "deletion_reason": "Deadline (2024-11-23) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Principal Business Systems Advisor",
+    "company": "Ministry of Business, Innovation and Employment",
+    "location": "Wellington, Wellington, New Zealand",
+    "url": "https://nz.linkedin.com/jobs/view/principal-business-systems-advisor-at-ministry-of-business-innovation-and-employment-4488108615",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job posting explicitly requires candidates to have the legal right to live and work in New Zealand, which the candidate does not currently possess.",
+    "id": "5b212280",
+    "source": "linkedin_nz_configuration_manager",
+    "added_at": "2026-11-07T02:06:57+02:00",
+    "posted_date": "2026-11-07",
+    "deadline": "2025-10-23",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Deadline (2025-10-23) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Information and Data Governance Lead",
+    "company": "K\u0101inga Ora - Homes and Communities",
+    "location": "Wellington, Wellington, New Zealand",
+    "url": "https://nz.linkedin.com/jobs/view/information-and-data-governance-lead-at-k%C4%81inga-ora-homes-and-communities-4486201260",
+    "visited": "yes",
+    "matches_requirements": "maybe",
+    "reason": "The role aligns with her experience in governance and compliance, but it is a government position in New Zealand which may have implicit residency or citizenship requirements for security vetting that are not explicitly stated.",
+    "id": "6b35dd53",
+    "source": "linkedin_nz_configuration_manager",
+    "added_at": "2026-11-07T02:06:57+02:00",
+    "posted_date": "2026-11-07",
+    "deadline": "2025-11-13",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Deadline (2025-11-13) passed by more than 2 days and unreviewed"
   }
 ]
