@@ -1,10 +1,10 @@
 {
   "pid": 37188,
   "started_at": "2026-11-07T01:13:52+02:00",
-  "heartbeat_at": "2026-11-07T02:20:19+02:00",
+  "heartbeat_at": "2026-11-07T02:24:19+02:00",
   "phase": "reviewing",
-  "detail": "Programme Manager: Development Finance",
-  "last_scrape_ok_at": "2026-11-07T02:18:53+02:00",
+  "detail": "Business Analyst (Distribution)",
+  "last_scrape_ok_at": "2026-11-07T02:21:32+02:00",
   "last_error": {
     "at": "2026-11-07T02:01:46+02:00",
     "message": "jobbank_ca_technical_writer: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.jobbank.gc.ca/jobsearch/jobsearch?searchstring=Technical+Writer&sort=D\", waiting until \"load\"\n"
