@@ -1,0 +1,312 @@
+Title: Software Configuration & Release Management Engineer
+Company: Hays Technology
+Location: Manchester, UK
+URL: https://www.cv-library.co.uk/job/225794988/software-configuration-release-management-engineer
+Posted: 2026-11-03
+Deadline: N/A
+Reason: The role is a perfect match for the candidate's extensive experience in configuration management, release management, and CI/CD within regulated environments, and it is located in the UK.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+ 
+ 
+Skip to main content
+Search Jobs
+Job Alerts
+Career Advice
+Employer A-Z
+Search Jobs
+Job Alerts
+Career Advice
+Employer A-Z
+Login
+Register
+Recruiting?
+Keywords
+Location
+1 mile
+2 miles
+5 miles
+7 miles
+10 miles
+15 miles
+20 miles
+25 miles
+35 miles
+50 miles
+75 miles
+100 miles
+250 miles
+500 miles
+750 miles
+Find Jobs
+Search Jobs
+>
+IT
+>
+Software Engineer
+>
+England
+>
+Greater Manchester
+>
+Manchester Jobs
+Software Configuration & Release Management Engineer
+
+Posted 4 days ago by Hays Technology
+
+Manchester, Greater Manchester
+£300 per day Inside IR35
+Contract
+Easy Apply
+Apply Now
+
+Software Configuration & Release Management Engineer
+
+Location: Manchester
+Rate: £300 per day
+IR35: Inside IR35
+Working arrangement: Hybrid, 80% office / 20% home
+Contract length: 6 months
+
+
+Your new company
+
+Our client is seeking a Software Configuration & Release Management Engineer to support the delivery of critical applications and infrastructure services across its Financial Services technology landscape. You will work across Development, QA, Infrastructure, Cloud Engineering, Security and Operations teams, supporting controlled software releases, configuration management, deployment activity and CI/CD improvements within a regulated banking environment.
+
+
+Your new role
+
+You will take responsibility for software configuration and release management across development, testing and production environments. The role combines hands-on configuration, build and deployment responsibilities with release planning, governance, risk management and stakeholder coordination.A key focus will be maintaining release integrity, improving deployment reliability and ensuring releases comply with established change, security, audit and regulatory controls.
+
+
+Key responsibilities
+
+Software Configuration Management
+
+Manage source code repositories, version control practices, branching strategies and configuration baselines.
+Maintain software configuration records and code traceability across environments.
+Govern repository management using enterprise version control platforms.
+Support configuration audits and adherence to established standards.
+
+
+Release Management
+
+Plan, coordinate, schedule and execute application and infrastructure releases across Development, QA, UAT, Pre-Production and Production.
+Facilitate release planning meetings and deployment readiness reviews.
+Maintain release calendars and communicate schedules to relevant stakeholders.
+Ensure releases follow change management and governance processes.
+
+
+Build & Deployment Management
+
+Manage and optimise build processes to improve reliability, consistency and deployment efficiency.
+Support automated deployments across cloud and on-premises platforms.
+Coordinate implementation, rollback and recovery plans for production releases.
+Maintain accurate deployment documentation and runbooks.
+
+
+CI/CD & Automation
+
+Support the implementation and enhancement of CI/CD pipelines.
+Identify opportunities to automate manual release and deployment activities.
+Work with engineering teams to improve release frequency, quality and deployment success rates.
+Support the adoption of DevOps best practices.
+
+
+Governance, Risk & Compliance
+
+Ensure compliance with release governance, audit, security and regulatory requirements relevant to Financial Services.
+Conduct release risk assessments and mitigate deployment risks.
+Support internal and external audits relating to configuration and release management controls.
+Ensure releases are appropriately documented, approved and tracked.
+
+
+Incident & Post-Release Support
+
+Monitor application and infrastructure performance following production deployments.
+Investigate and resolve release-related incidents and deployment failures.
+Coordinate post-implementation reviews and lessons-learned activities.
+Drive continuous improvement to enhance release stability and operational resilience.
+
+
+What you'll need to succeed
+
+Essential skills and experience
+
+Proven Software Configuration Management (SCM) and Release Management experience.
+Strong knowledge of source code management and branching strategies.
+Experience managing releases within complex enterprise environments.
+Knowledge of CI/CD principles and automated deployment practices.
+Experience within regulated environments, preferably Banking or Financial Services.
+Strong stakeholder management and cross-functional coordination skills.
+Experience with change management and release governance.
+Strong documentation, planning and organisational skills.
+Ability to manage multiple concurrent releases and delivery timelines.
+
+
+Desirable skills and experience
+
+Experience with some of the following would be beneficial:
+
+Git, GitHub, GitLab, Bitbucket or equivalent version control tooling.
+Jenkins, Azure DevOps, GitLab CI/CD, Bamboo or similar CI/CD platforms.
+ServiceNow Change Management.
+Azure, AWS or Google Cloud.
+Infrastructure as Code tooling including Terraform, Ansible or ARM Templates.
+PowerShell, Bash, Python or similar scripting technologies.
+DevOps and Site Reliability Engineering (SRE) practices.
+Banking and Financial Services, Investment Banking, Custody Banking or Financial Market Infrastructure experience.
+Experience in regulatory and compliance-driven technology environments.
+
+
+
+What you need to do now
+
+
+If you're interested in this role, click 'apply now' to forward an up-to-date copy of your CV, or call us now.
+If this job isn't quite right for you, but you are looking for a new position, please contact us for a confidential discussion about your career.
+
+Hays Specialist Recruitment Limited acts as an employment agency for permanent recruitment and employment business for the supply of temporary workers. By applying for this job you accept the T&C's, Privacy Policy and Disclaimers which can be found at (url removed)
+
+Apply Now
+Company: Hays Technology
+Job Type: Contract
+Contact name: Login or Register to view
+Telephone: Login or Register to view
+Contract Length: 3 Months
+Job Reference: 4842380_1793718054
+Job ID: 225794988
+
+Remember: You should never send money to a prospective employer or disclose any financial information. Should you encounter any job listings requesting payments or financial details, please reach out to us immediately. For further guidance, visit jobsaware.co.uk.
+
+Related Sectors
+Engineering
+|
+Construction
+|
+IT
+|
+Manufacturing
+|
+Automotive
+|
+Science
+|
+Aviation
+|
+Energy
+|
+Oil & Gas
+|
+Agriculture
+|
+Part Time
+|
+Cleaning
+|
+Marketing
+|
+Retail
+|
+Civil Service
+Related by job title
+Bms Commissioning Engineer Jobs
+|
+Devops Engineer Jobs
+|
+Principal Structural Engineer Jobs
+|
+Project Manager Jobs
+|
+Sprinkler Design Engineer Jobs
+|
+Structural Engineer Jobs
+|
+Tooling Design Engineer Jobs
+|
+Arb Architect ( High Rise Buildings ) Jobs
+|
+Bim Technician Jobs
+|
+C# / C++ Software Engineer Jobs
+Similar Jobs
+Software Engineer
+
+Posted 20th Oct by Randstad Technologies Recruitment
+
+Manchester, Greater Manchester
+£65 - £73 per hour
+Contract
+Easy Apply
+Graduate Software Engineer
+
+Posted 3 days ago by Ross-shire Engineering Limited
+
+Warrington
+Permanent
+Featured
+Software Engineer - Java
+
+Posted 22nd Oct by Spencer Rose
+
+Manchester, Greater Manchester
+£380 - £400 per day
+Contract
+Easy Apply
+Principal Software Engineer
+
+Posted 22nd Oct by Cathcart Technology
+
+Manchester, Greater Manchester
+Permanent
+Easy Apply
+Embedded Software Engineer
+
+Posted 2 days ago by H Squared Talent Ltd
+
+Cheshire
+£40,000 - £55,000 per annum
+Permanent
+Easy Apply
+Jobseekers
+Register
+Login
+Home
+Jobseeker Tools
+Search Jobs
+Career Advice
+Employer A-Z
+Recruiters
+Recruiting?
+Recruiter Login
+Advertise Jobs
+Search CVs
+Recruiter Blog
+About CV-Library
+About Us
+Contact Us
+Work for Us
+Meet the Team
+Help
+Support links
+Terms & Conditions
+Privacy
+Cookies
+Site Map
+Partners
+
+© Copyright 2000 - 2026 CV-Library Ltd. 
+All rights reserved
+
+Download the CV-Library app for iOS
+Download the CV-Library app for Android
+Social media links
+Like our Facebook page
+Follow us on Twitter
+Follow us on LinkedIn
+Follow us on Instagram
+Join us on Youtube
+Follow us on TikTok
