@@ -1,0 +1,236 @@
+Title: Software Engineer
+Company: Global-e
+Location: Dublin, County Dublin, Ireland
+URL: https://ie.linkedin.com/jobs/view/software-engineer-at-global-e-4401329570
+Posted: 2026-05-12
+Deadline: Open until filled
+Reason: The role is a DevOps/SRE position that aligns perfectly with the candidate's extensive experience in CI/CD pipelines, infrastructure automation, and release management, and it is located in an eligible country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Software Engineer
+Global-e  Dublin, County Dublin, Ireland
+6 months ago   Over 200 applicants
+  
+
+See who Global-e has hired for this role
+
+Apply
+Save
+
+Global-e (Nasdaq: GLBE) is the world’s leading platform for global direct-to-consumer e-commerce, enabling brands and retailers to seamlessly sell worldwide, delivering localized experiences across markets. 
+
+Trusted by some of the world’s most recognized brands including Adidas, Alo Yoga, Logitech, Hugo Boss, Marc Jacobs, and Victoria’s Secret, we operate on a massive global scale through dynamic teams across North America, EMEA, and APAC. 
+
+Our technology-based end-to-end solution combines advanced localisation capabilities, streamlined global operations and extensive big-data analytics, covering everything merchants need to scale worldwide. We’re a fast-moving, highly collaborative company where innovation, creativity, ownership, and impact are part of everyday work. 
+
+As a DevOps/SRE Engineer on our Foundation team, you will help build, operate, and continuously improve the platform infrastructure that underpins all of Global-e's microservices. You'll work at the intersection of infrastructure engineering and reliability — automating deployments, hardening systems, and ensuring our platform scales reliably to handle millions of transactions worldwide.
+
+This is a mid-level role for someone who is hands-on with cloud infrastructure and eager to grow their skills across a modern, high-traffic production environment. You'll collaborate closely with software engineers, platform architects, and product teams to keep our systems fast, resilient, and operationally excellent.
+
+This role reports to the Engineering Manager for the Foundation team and is based out of our Dublin, Ireland office.
+
+You Will:
+
+Own Infrastructure as Code: Write, maintain, and improve Terraform modules to provision and manage cloud resources on AWS (EKS, RDS, Kinesis, and more).
+Support and Improve CI/CD Pipelines: Build and maintain reliable deployment pipelines that enable engineering teams to ship with speed and confidence.
+Ensure Platform Reliability: Define and track SLOs/SLAs, respond to incidents, conduct post-mortems, and drive systemic improvements to reduce toil and prevent recurrence.
+Monitor and Observe: Implement and maintain observability tooling — metrics, logging, alerting, and dashboards — to provide clear visibility into system health.
+Scale Kubernetes Workloads: Help manage and evolve our EKS clusters, ensuring workloads are performant, cost-efficient, and fault-tolerant.
+Embrace AI-Augmented Operations: Leverage and help expand our growing use of AI tooling — from AIOps and anomaly detection to AI-assisted incident response and infrastructure optimisation — as we invest heavily in bringing AI into our day-to-day engineering workflows.
+Collaborate Across Teams: Partner with software engineers to bridge the gap between development and operations — advising on best practices, reviewing infrastructure changes, and supporting teams during rollouts.
+Improve Security Posture: Contribute to hardening cloud environments, managing secrets, and enforcing least-privilege access controls.
+Automate Everything: Identify manual processes and replace them with robust, repeatable automation.
+
+You Are:
+
+Pragmatic and Reliable: You take ownership of the systems you build and prioritize stability without sacrificing velocity.
+Curious and Hands-On: You enjoy digging into production issues, understanding root causes, and learning how complex distributed systems behave under pressure.
+A Clear Communicator: You can articulate technical tradeoffs and incident timelines to both engineering peers and non-technical stakeholders.
+Collaborative: You thrive working alongside software engineers and understand that great infrastructure enables great products.
+Growth-Oriented: You're actively developing your skills and excited to take on increasing ownership over time.
+
+
+
+
+
+Requirements:
+
+
+
+
+You Have:
+
+2+ Years of Experience in a DevOps, SRE, or platform/infrastructure engineering role.
+Solid Cloud Experience: Hands-on with AWS services (EKS, RDS, Kinesis, S3, IAM, and related services).
+Terraform Proficiency: Comfortable writing and maintaining production-grade infrastructure as code.
+Kubernetes Familiarity: Experience deploying, debugging, and operating containerised workloads on Kubernetes.
+CI/CD Experience: Familiarity with pipeline tooling (e.g. GitHub Actions, ArgoCD, Jenkins, or similar).
+Observability Skills: Experience with monitoring and alerting tools (e.g. Datadog, Prometheus/Grafana, or equivalent).
+Scripting Ability: Comfortable with Python, Bash, or similar for automation and tooling tasks.
+A Reliability Mindset: Understanding of SRE principles — SLOs, error budgets, incident management, and blameless post-mortems.
+
+Why Join Global-e?
+
+Impact at Global Scale: Build infrastructure used by millions of shoppers and hundreds of global brands.
+Modern Technology Stack: Work on a cloud-native platform leveraging AWS, Kubernetes, Terraform, and best-in-class engineering practices.
+Be Part of Our AI Journey: We're actively integrating AI into how we build and operate our platform, and we're just getting started. You'll have a real seat at the table in shaping how we use AI to make our systems smarter, our operations leaner, and our engineers more effective.
+Growth & Development: Expand your expertise through challenging projects, mentorship, and professional development programmes.
+
+Global-e is an equal opportunity employer. Our team is made up of people from a wide variety of backgrounds and lifestyles. We embrace diversity and welcome applications from people of all walks of life.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Technology, Information and Internet
+  
+
+Referrals increase your chances of interviewing at Global-e by 2x
+
+See who you know
+
+Get notified about new Software Engineer jobs in Dublin, County Dublin, Ireland.
+
+Sign in to create job alert
+Similar jobs
+Software Eng II
+Software Eng II
+Sony Interactive Entertainment
+Dublin, County Dublin, Ireland
+2 weeks ago
+Software Engineer
+Software Engineer
+Sony Interactive Entertainment
+Dublin, County Dublin, Ireland
+11 hours ago
+Software Engineer - Windows & Devices
+Software Engineer - Windows & Devices
+Microsoft
+Dublin, County Dublin, Ireland
+7 hours ago
+Software Engineer - League of Legends
+Software Engineer - League of Legends
+Riot Games
+Dublin, County Dublin, Ireland
+4 days ago
+Software Engineer - Network Segmentation
+Software Engineer - Network Segmentation
+eBay
+Dublin, County Dublin, Ireland
+1 week ago
+Software Engineer, Network Software & Services
+Software Engineer, Network Software & Services
+SpaceX Super Intelligence
+Dublin, County Dublin, Ireland
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Software Engineer 3, Query Optimization
+Software Engineer 3, Query Optimization
+
+MongoDB
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+Backend Developer
+Backend Developer
+
+Version 1
+
+Dublin, County Dublin, Ireland
+3 days ago
+Software Development Engineer , CADENCE Team
+Software Development Engineer , CADENCE Team
+
+Amazon
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+Software Engineer - Observability
+Software Engineer - Observability
+
+Microsoft
+
+Dublin, County Dublin, Ireland
+6 hours ago
+Software Development Engineer, Lambda Runtimes, AWS
+Software Development Engineer, Lambda Runtimes, AWS
+
+Amazon Web Services (AWS)
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+Software Development Engineer (open-source), Runtimes
+Software Development Engineer (open-source), Runtimes
+
+Amazon Web Services (AWS)
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+Software Development Engineer, AWS Direct Connect
+Software Development Engineer, AWS Direct Connect
+
+Amazon Web Services (AWS)
+
+Dublin, County Dublin, Ireland
+4 days ago
+Software Engineer - Cloud Infrastructure
+Software Engineer - Cloud Infrastructure
+
+eBay
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+Software Development Engineer, AWS Networking
+Software Development Engineer, AWS Networking
+
+Amazon Web Services (AWS)
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+Software Development Engineer, Lambda - Experience
+Software Development Engineer, Lambda - Experience
+
+Amazon Web Services (AWS)
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
