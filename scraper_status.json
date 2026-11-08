@@ -1,9 +1,9 @@
 {
   "pid": 22472,
   "started_at": "2026-11-08T01:13:21+02:00",
-  "heartbeat_at": "2026-11-08T02:07:58+02:00",
+  "heartbeat_at": "2026-11-08T02:10:41+02:00",
   "phase": "reviewing",
-  "detail": "Business Analyst (Life Claims)",
-  "last_scrape_ok_at": "2026-11-08T02:06:46+02:00",
+  "detail": "Business Systems Analyst",
+  "last_scrape_ok_at": "2026-11-08T02:09:44+02:00",
   "last_error": null
 }
