@@ -1,9 +1,9 @@
 {
   "pid": 22472,
   "started_at": "2026-11-08T01:13:21+02:00",
-  "heartbeat_at": "2026-11-08T02:25:56+02:00",
-  "phase": "reviewing",
-  "detail": "Business Analyst (Market Risk)",
-  "last_scrape_ok_at": "2026-11-08T02:25:25+02:00",
+  "heartbeat_at": "2026-11-08T02:26:13+02:00",
+  "phase": "scraped",
+  "detail": "0 new jobs",
+  "last_scrape_ok_at": "2026-11-08T02:26:13+02:00",
   "last_error": null
 }
