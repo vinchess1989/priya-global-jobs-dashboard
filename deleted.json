@@ -24053,5 +24053,39 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": null,
     "deletion_reason": "Deadline (2025-11-20) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Head of Engineering Excellence",
+    "company": "ANZ",
+    "location": "Wellington, Wellington, New Zealand",
+    "url": "https://nz.linkedin.com/jobs/view/head-of-engineering-excellence-at-anz-4488810473",
+    "visited": "yes",
+    "matches_requirements": "maybe",
+    "reason": "The role is a strong fit for her senior-level experience in DevOps and engineering standards, but it is a leadership position that may lean more toward strategic management than her core hands-on release/CM/documentation focus, and visa sponsorship is not explicitly mentioned.",
+    "id": "9fc3fdd5",
+    "source": "linkedin_nz_release_manager",
+    "added_at": "2026-11-09T01:35:55+02:00",
+    "posted_date": "2026-11-09",
+    "deadline": "2025-11-18",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Deadline (2025-11-18) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Senior Systems Analyst",
+    "company": "Air New Zealand",
+    "location": "Auckland, Auckland, New Zealand",
+    "url": "https://nz.linkedin.com/jobs/view/senior-systems-analyst-at-air-new-zealand-4488811175",
+    "visited": "yes",
+    "matches_requirements": "yes",
+    "reason": "The role aligns with the candidate's background in systems analysis, configuration management, and documentation, and it is located in a target country (New Zealand) without explicit restrictions against visa sponsorship.",
+    "id": "0cf1d9f1",
+    "source": "linkedin_nz_configuration_manager",
+    "added_at": "2026-11-09T01:39:13+02:00",
+    "posted_date": "2026-11-09",
+    "deadline": "2025-12-06",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": "job_descriptions/air_new_zealand_senior_systems_analyst_0cf1d9f1.txt",
+    "deletion_reason": "Deadline (2025-12-06) passed by more than 2 days and unreviewed"
   }
 ]
