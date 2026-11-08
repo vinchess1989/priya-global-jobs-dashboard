@@ -1,9 +1,9 @@
 {
   "pid": 10376,
   "started_at": "2026-11-09T01:09:32+02:00",
-  "heartbeat_at": "2026-11-09T01:41:20+02:00",
+  "heartbeat_at": "2026-11-09T01:47:02+02:00",
   "phase": "reviewing",
-  "detail": "Sr. Platform Admin",
-  "last_scrape_ok_at": "2026-11-09T01:39:57+02:00",
+  "detail": "Production Supervisor - Eastern Cape",
+  "last_scrape_ok_at": "2026-11-09T01:45:46+02:00",
   "last_error": null
 }
