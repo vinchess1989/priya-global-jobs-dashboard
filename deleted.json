@@ -23866,5 +23866,22 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": null,
     "deletion_reason": "Deadline (2026-08-15) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Business Lending Operations Specialist",
+    "company": "Kiwibank",
+    "location": "Hamilton, Waikato, New Zealand",
+    "url": "https://nz.linkedin.com/jobs/view/business-lending-operations-specialist-at-kiwibank-4485780130",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is a banking operations position focused on loan documentation and financial services, which does not align with the candidate's technical background in DevOps, release management, or software quality engineering.",
+    "id": "c0578c25",
+    "source": "linkedin_nz_documentation_specialist",
+    "added_at": "2026-11-08T02:14:09+02:00",
+    "posted_date": "2026-11-03",
+    "deadline": "2025-11-17",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Deadline (2025-11-17) passed by more than 2 days and unreviewed"
   }
 ]
