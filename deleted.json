@@ -23849,5 +23849,22 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": null,
     "deletion_reason": "Deadline (2026-04-12) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Quality Assurance Manager for HC",
+    "company": "Mygration Pty Ltd",
+    "location": "Somerville, VIC, Australia",
+    "url": "https://au.jora.com/job/Quality-Assurance-Manager-b680fae37d9376025a607e70ca8925c9",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role requires a specific degree in Food Science, Agricultural Science, or related fields, which does not align with the candidate's background in Electronics and Telecommunications.",
+    "id": "74fcf5aa",
+    "source": "jora_au_quality_manager",
+    "added_at": "2026-11-08T02:00:59+02:00",
+    "posted_date": "2026-11-05",
+    "deadline": "2026-08-15",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-08-15) passed by more than 2 days and unreviewed"
   }
 ]
