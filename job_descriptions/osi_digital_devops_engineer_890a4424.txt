@@ -1,0 +1,268 @@
+Title: DevOps Engineer
+Company: OSI Digital
+Location: Hyderabad, Telangana, India
+URL: https://in.linkedin.com/jobs/view/devops-engineer-at-osi-digital-4478540111
+Posted: 2026-10-19
+Deadline: N/A
+Reason: The role aligns perfectly with the candidate's extensive experience in CI/CD, DevOps, and release automation, and it is located in India, which is one of her target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+OSI Digital  Hyderabad, Telangana, India
+3 weeks ago   Over 200 applicants
+  
+
+See who OSI Digital has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Job Title : Devops Engineer
+
+Location : Hyderabad
+
+Experience : 3+ years
+
+OSI Digital is looking for a hands-on DevOps Engineer with 3+ years of experience in cloud infrastructure, CI/CD, automation, and observability, who is eager to leverage AI-powered tools and intelligent automation to improve engineering productivity, operational reliability, and incident resolution.
+
+Responsibilities
+
+
+Configure, manage, and monitor container orchestration platforms (Docker, Kubernetes).
+Manage source code repositories (Git/GitHub/GitLab/Bitbucket) and branching strategies.
+Implement, manage, and monitor CI/CD pipelines for application and infrastructure deployments.
+Set up and maintain monitoring, alerting, and logging solutions (Prometheus, Grafana, ELK, CloudWatch, etc.).
+Maintain a good understanding of networking concepts.
+Automate repetitive tasks using scripting languages such as Bash, Python, or PowerShell.
+Provision and maintain cloud resources primarily on Azure and manage infrastructure as code (Terraform/ARM).
+Collaborate with development, QA, and support teams to streamline build, deployment, and release processes.
+Troubleshoot and resolve infrastructure, build, and deployment issues in a timely manner.
+Document configurations, procedures, and environments for future reference.
+
+
+AI-Enabled DevOps and Intelligent Automation
+
+
+Leverage AI-powered tools and coding assistants to accelerate infrastructure automation, scripting, troubleshooting, and CI/CD pipeline development.
+Use AI-assisted analysis of application logs, infrastructure metrics, alerts, and deployment failures to identify potential root causes and recommend corrective actions.
+Explore and implement AI-driven automation for incident triage, root cause analysis (RCA), operational reporting, and repetitive operational tasks.
+Integrate AI capabilities with existing DevOps tools and workflows through APIs, webhooks, and automation frameworks.
+Validate AI-generated scripts, configurations, and remediation recommendations for correctness, security, reliability, and operational impact before implementation.
+Follow security best practices when using AI tools, ensuring sensitive information, credentials, and production data are handled appropriately.
+
+
+Required Skills
+
+
+Hands-on experience with CI/CD tools (Jenkins, GitLab CI, Azure DevOps, etc.).
+Experience in at least one scripting language (Bash, Python, or PowerShell).
+Experience with cloud platforms (preferably Azure).
+Good understanding of infrastructure as code (Terraform/CloudFormation/Ansible).
+Good background in Linux/Unix administration.
+Working knowledge of Kubernetes concepts.
+Familiarity with source code management and version control systems.
+Knowledge of monitoring and logging tools.
+Good problem-solving skills and the ability to troubleshoot complex issues.
+Excellent communication and collaboration skills.
+
+
+AI And Intelligent Automation Skills
+
+
+Hands-on experience using AI-powered development assistants or coding tools to improve scripting, infrastructure automation, and troubleshooting productivity.
+Familiarity with AI-assisted log analysis, incident investigation, root cause analysis, and operational problem-solving.
+Understanding of Python scripting, REST APIs, and automation workflows for integrating DevOps tools with AI-powered services.
+Awareness of the limitations of AI-generated outputs, including the need for validation, security checks, and human approval for production-impacting changes.
+Willingness to learn and experiment with AI agents, AI-powered observability, and intelligent automation in DevOps environments.
+
+
+Good to Have
+
+
+Familiarity with AI agents and integrations with DevOps tools such as Jenkins, GitHub, Azure DevOps, Jira, or observability platforms through APIs or integration protocols such as MCP.
+Awareness of AI security practices, including least-privilege access, audit logging, protection of secrets, and approval controls for production-impacting actions.
+
+
+We Are Not Looking For Someone Who
+
+
+Has only theoretical knowledge without hands-on practical experience.
+Lacks willingness to learn new tools, automation, AI-assisted workflows, or adapt to changing technologies.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at OSI Digital by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Hyderabad, Telangana, India.
+
+Sign in to create job alert
+Jobs
+Associate System Engineer jobs
+DevOps Engineer
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+Ascendion
+Hyderabad, Telangana, India
+1 week ago
+DevOps Engineer
+DevOps Engineer
+Tark Innovation Private Limited
+Hyderabad, Telangana, India
+1 week ago
+DevOps Engineer
+DevOps Engineer
+vidaXL
+Hyderabad, Telangana, India
+3 weeks ago
+DevOps Engineer
+DevOps Engineer
+[x]cube LABS
+Hyderabad, Telangana, India
+₹1,100,000 - ₹1,400,000
+1 year ago
+DEVOPS ENGINEER
+DEVOPS ENGINEER
+Nextenti Tech Private Limited
+Hyderabad, Telangana, India
+1 week ago
+DevOps Engineer - Marcom
+DevOps Engineer - Marcom
+Apple
+Hyderabad, Telangana, India
+1 month ago
+Show more jobs like this 
+People also viewed
+DevOps Engineer
+DevOps Engineer
+
+Persistent Systems
+
+Hyderabad, Telangana, India
+5 days ago
+AWS DevOps Engineer
+AWS DevOps Engineer
+
+DataBeat
+
+Hyderabad, Telangana, India
+2 months ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+Ivanti
+
+Hyderabad, Telangana, India
+1 week ago
+DevOps Engineer - Manager
+DevOps Engineer - Manager
+
+State Street
+
+Hyderabad, Telangana, India
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+Delta Technology and Management Services Pvt. Ltd.
+
+Hyderabad, Telangana, India
+₹1,000,000 - ₹2,100,000
+1 month ago
+Devops Engineer
+Devops Engineer
+
+TRC Companies, Inc.
+
+Hyderabad, Telangana, India
+1 week ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+Apple
+
+Hyderabad, Telangana, India
+5 months ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+Apple
+
+Hyderabad, Telangana, India
+1 month ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+Apple
+
+Hyderabad, Telangana, India
+5 months ago
+Sr. DevOps Engineer
+Sr. DevOps Engineer
+
+Apple
+
+Hyderabad, Telangana, India
+1 month ago
+Similar Searches
+Associate System Engineer jobs
+2,377 open jobs
+Ruby on Rails Developer jobs
+10,683 open jobs
+Graduate Engineer jobs
+1,592 open jobs
+Operations Analyst jobs
+9,890 open jobs
+Qualification Engineer jobs
+1,453 open jobs
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

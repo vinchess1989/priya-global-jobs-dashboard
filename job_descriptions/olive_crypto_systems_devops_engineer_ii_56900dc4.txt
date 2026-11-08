@@ -1,0 +1,222 @@
+Title: DevOps Engineer II
+Company: Olive Crypto Systems Pvt. Ltd.
+Location: Gurugram, Haryana, India
+URL: https://in.linkedin.com/jobs/view/devops-engineer-ii-at-olive-crypto-systems-pvt-ltd-4485709638
+Posted: 2026-11-03
+Deadline: Open until filled
+Reason: This DevOps Engineer role in India matches her strong background in CI/CD pipelines, release management, automation, and infrastructure tooling.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer II
+Olive Crypto Systems Pvt. Ltd.  Gurugram, Haryana, India
+6 days ago   Over 200 applicants
+  
+
+See who Olive Crypto Systems Pvt. Ltd. has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Job Summary
+
+We are looking for an experienced Senior DevOps Engineer with strong expertise in cloud infrastructure, Kubernetes, Docker, CI/CD automation, Infrastructure as Code, monitoring, and production troubleshooting. The candidate will be responsible for managing and optimizing cloud infrastructure, designing scalable and secure deployment solutions, implementing automation, improving system reliability, and driving DevOps best practices across development and operations teams.
+
+Roles And Responsibilities
+
+
+Design, implement, manage, and maintain scalable, highly available, and secure infrastructure across cloud platforms such as AWS, Microsoft Azure, and Google Cloud Platform (GCP).
+Provision, configure, maintain, and troubleshoot infrastructure components, including virtual machines, networking, storage, load balancers, firewalls, and access management.
+Develop, maintain, and optimize CI/CD pipelines for automated application builds, testing, deployments, and release management.
+Deploy, manage, and troubleshoot containerized applications using Docker and Kubernetes.
+Implement deployment strategies such as rolling updates, blue-green deployments, canary releases, and automated rollbacks.
+Automate infrastructure provisioning and configuration management using Terraform, Infrastructure as Code tools, and shell scripting.
+Configure and manage cloud networking, including VPCs or virtual networks, subnets, routing, DNS, security rules, and load balancing.
+Implement monitoring, centralized logging, dashboards, and alerting solutions using Prometheus, Grafana, ELK Stack, Loki, and cloud-native monitoring tools.
+Perform advanced troubleshooting and root cause analysis for production incidents involving cloud infrastructure, Kubernetes, networking, storage, applications, and CI/CD pipelines.
+Implement DevSecOps practices, including vulnerability scanning, container security, secrets management, access control, and secure deployment processes.
+Design and support highly available infrastructure, backup and recovery strategies, disaster recovery, and business continuity processes.
+Optimize infrastructure utilization, application performance, scalability, and cloud costs.
+Establish infrastructure standards, reusable automation frameworks, deployment procedures, and operational documentation.
+Collaborate with development, QA, security, architecture, and infrastructure teams to improve software delivery and operational reliability.
+Provide technical guidance, review infrastructure configurations and automation code, and mentor engineers on DevOps best practices.
+Participate in solution design, infrastructure assessments, technical consulting, and continuous improvement initiatives.
+Participate in Agile/Scrum ceremonies, including sprint planning, daily stand-ups, sprint reviews, and retrospectives.
+Collaborate with development, QA, and infrastructure teams to plan and deliver DevOps tasks within sprint timelines.
+
+
+Required Skills
+
+
+Minimum 5+ years of experience in DevOps engineering, cloud infrastructure management, automation, and production support.
+Experience with CI/CD tools (e.g., GitLab, Jenkins) and version control system (e.g., Git)
+Hands-on experience with at least one major cloud platform, such as AWS, Microsoft Azure, or Google Cloud Platform (GCP).
+Strong experience in Kubernetes, Docker, container orchestration, Helm, cluster administration, and troubleshooting.
+Hands-on experience with Terraform or equivalent Infrastructure as Code tools.
+Strong knowledge of monitoring and logging tools such as Prometheus, Grafana, ELK Stack, Loki, and cloud-native monitoring solutions.
+Proficiency in Linux administration, shell scripting, networking, DNS, load balancing, and application connectivity troubleshooting.
+Experience in production incident management, root cause analysis, performance optimization, and service reliability improvement.
+Good understanding of cloud security, identity and access management, network security, container security, and DevSecOps practices.
+Knowledge of Python or shell scripting, infrastructure cost optimization, disaster recovery planning, and high-availability architecture.
+Experience with security tools such as Trivy, SonarQube, and cloud security monitoring solutions.
+Strong communication, analytical, consulting, problem-solving, and technical leadership skills.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT System Custom Software Development
+  
+
+Referrals increase your chances of interviewing at Olive Crypto Systems Pvt. Ltd. by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Gurugram, Haryana, India.
+
+Sign in to create job alert
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+EXL
+Gurugram, Haryana, India
+2 days ago
+Devops Engineer
+Devops Engineer
+Comviva
+Gurugram, Haryana, India
+1 month ago
+DevOps Engineer
+DevOps Engineer
+Optum India
+Gurgaon, Haryana, India
+2 days ago
+DevOps Engineer
+DevOps Engineer
+Srijan: Now Material
+Gurugram, Haryana, India
+3 months ago
+DevOps Engineer
+DevOps Engineer
+Nitro Commerce
+Gurugram, Haryana, India
+1 week ago
+Devops Engineer
+Devops Engineer
+Impronics Digitech
+Gurugram, Haryana, India
+1 year ago
+Show more jobs like this 
+People also viewed
+Dev Ops Engineer
+Dev Ops Engineer
+
+WapHire
+
+Noida, Uttar Pradesh, India
+2 weeks ago
+Senior Devops Engineer
+Senior Devops Engineer
+
+Bennett Coleman & Co. Ltd. (The Times of India)
+
+Delhi, India
+1 week ago
+DevOps Engineer, India
+DevOps Engineer, India
+
+AlgoSec
+
+New Delhi, Delhi, India
+20 hours ago
+Cloud DevOps Engineer
+Cloud DevOps Engineer
+
+OneSpan
+
+Noida, Uttar Pradesh, India
+1 day ago
+Software Engineer - Infrastructure
+Software Engineer - Infrastructure
+
+Sun King
+
+Gurugram, Haryana, India
+2 days ago
+Cloud DevOps Engineer
+Cloud DevOps Engineer
+
+Solutionara
+
+Sadar, Uttar Pradesh, India
+3 months ago
+Cloud Ops Engineer
+Cloud Ops Engineer
+
+Mobility Global
+
+Gurugram, Haryana, India
+2 weeks ago
+DevOps / Platform Engineer (Remote, Full-Time) [AS348]
+DevOps / Platform Engineer (Remote, Full-Time) [AS348]
+
+Smart Working
+
+Greater Delhi Area
+5 days ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+RedHolt
+
+Delhi, India
+5 days ago
+Devops Engineer
+Devops Engineer
+
+Promaynov Advisory Services Pvt. Ltd
+
+Bawana, Delhi, India
+5 months ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

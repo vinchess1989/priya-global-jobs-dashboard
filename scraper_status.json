@@ -1,9 +1,9 @@
 {
-  "pid": 22472,
-  "started_at": "2026-11-08T01:13:21+02:00",
-  "heartbeat_at": "2026-11-08T02:26:22+02:00",
-  "phase": "run_finished",
-  "detail": "90 lower-yield targets and 0 jobs left for the next run",
-  "last_scrape_ok_at": "2026-11-08T02:26:13+02:00",
+  "pid": 10376,
+  "started_at": "2026-11-09T01:09:32+02:00",
+  "heartbeat_at": "2026-11-09T01:18:55+02:00",
+  "phase": "reviewing",
+  "detail": "Technical Lead (Product Configurator NSO)",
+  "last_scrape_ok_at": "2026-11-09T01:15:48+02:00",
   "last_error": null
 }
