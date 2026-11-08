@@ -24087,5 +24087,22 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": "job_descriptions/air_new_zealand_senior_systems_analyst_0cf1d9f1.txt",
     "deletion_reason": "Deadline (2025-12-06) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Senior Operations Manager \u2013 Greater China (Sales & Middle Office Operations)",
+    "company": "NexusSearch",
+    "location": "Hong Kong, Hong Kong SAR",
+    "url": "https://hk.linkedin.com/jobs/view/senior-operations-manager-%E2%80%93-greater-china-sales-middle-office-operations-at-nexussearch-4486703108",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role requires mandatory fluency in Mandarin and explicitly states that no visa sponsorship is provided, both of which violate the candidate's requirements.",
+    "id": "16fa78ed",
+    "source": "linkedin_hk_configuration_manager",
+    "added_at": "2026-11-09T01:51:22+02:00",
+    "posted_date": "2026-11-06",
+    "deadline": "Open until filled",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
