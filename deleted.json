@@ -24036,5 +24036,22 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": "job_descriptions/kamo_placements_head__technology_demand_and_de_8b0dffd2.txt",
     "deletion_reason": "Deadline (2026-11-07) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Engineer - Data Platforms",
+    "company": "Kiwibank",
+    "location": "Wellington, Wellington, New Zealand",
+    "url": "https://nz.linkedin.com/jobs/view/engineer-data-platforms-at-kiwibank-4470068959",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is a pure feature-development data engineering position focused on building data solutions and writing code, which violates the hard rejection against pure feature-development software engineering roles.",
+    "id": "addd07d8",
+    "source": "linkedin_nz_devops_engineer",
+    "added_at": "2026-11-09T01:32:49+02:00",
+    "posted_date": "2026-11-02",
+    "deadline": "2025-11-20",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Deadline (2025-11-20) passed by more than 2 days and unreviewed"
   }
 ]
