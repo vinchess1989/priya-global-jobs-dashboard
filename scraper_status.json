@@ -1,9 +1,9 @@
 {
   "pid": 42548,
   "started_at": "2026-11-10T01:13:07+02:00",
-  "heartbeat_at": "2026-11-10T01:28:25+02:00",
+  "heartbeat_at": "2026-11-10T01:32:04+02:00",
   "phase": "reviewing",
-  "detail": "Senior DevOps Engineer",
-  "last_scrape_ok_at": "2026-11-10T01:27:08+02:00",
+  "detail": "Apply on company site",
+  "last_scrape_ok_at": "2026-11-10T01:30:15+02:00",
   "last_error": null
 }
