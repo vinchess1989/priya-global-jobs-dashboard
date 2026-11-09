@@ -24104,5 +24104,22 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Business Analyst",
+    "company": "Badger Holdings (Pty) Ltd",
+    "location": "Cape Town, Western Cape, South Africa",
+    "url": "https://za.linkedin.com/jobs/view/business-analyst-at-badger-holdings-pty-ltd-4488163060",
+    "visited": "yes",
+    "matches_requirements": "yes",
+    "reason": "The role aligns with her requirements engineering and traceability experience in regulated environments, and it is located in South Africa, which is one of her target countries.",
+    "id": "218e59ad",
+    "source": "linkedin_za_requirements_engineer",
+    "added_at": "2026-11-09T02:04:16+02:00",
+    "posted_date": "2026-11-06",
+    "deadline": "2025-12-05",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": "job_descriptions/badger_holdings__pty_business_analyst_218e59ad.txt",
+    "deletion_reason": "Deadline (2025-12-05) passed by more than 2 days and unreviewed"
   }
 ]

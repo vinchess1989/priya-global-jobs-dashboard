@@ -1,9 +1,9 @@
 {
   "pid": 10376,
   "started_at": "2026-11-09T01:09:32+02:00",
-  "heartbeat_at": "2026-11-09T02:03:00+02:00",
+  "heartbeat_at": "2026-11-09T02:05:28+02:00",
   "phase": "reviewing",
-  "detail": "ICT Helpdesk Technician",
-  "last_scrape_ok_at": "2026-11-09T02:02:15+02:00",
+  "detail": "Business Analyst",
+  "last_scrape_ok_at": "2026-11-09T02:04:17+02:00",
   "last_error": null
 }
