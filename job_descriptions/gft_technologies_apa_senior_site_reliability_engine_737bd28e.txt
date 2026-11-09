@@ -1,0 +1,293 @@
+Title: Senior Site Reliability Engineer (SRE)
+Company: GFT Technologies APAC & GCC
+Location: Hong Kong, Hong Kong SAR
+URL: https://hk.linkedin.com/jobs/view/senior-site-reliability-engineer-sre-at-gft-technologies-apac-gcc-4488837457
+Posted: 2026-11-10
+Deadline: Open until filled
+Reason: The role aligns with her extensive experience in DevOps, CI/CD, and production operations within regulated environments, and Hong Kong is a target location.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Site Reliability Engineer (SRE)
+GFT Technologies APAC & GCC  Hong Kong, Hong Kong SAR
+14 hours ago   Be among the first 25 applicants
+  
+
+See who GFT Technologies APAC & GCC has hired for this role
+
+Apply 
+Save
+Job description:
+
+
+
+About GFT
+
+ 
+
+GFT Technologies is an AI-centric global digital transformation company. We design advanced data and AI transformation solutions, modernize technology architectures and develop next-generation core systems for industry leaders in Banking, Insurance, Manufacturing and Robotics. Partnering closely with our clients, we push boundaries to unlock their full potential. With deep industry expertise, cutting-edge technology, and a strong partner ecosystem, GFT delivers responsible AI-centric solutions that combine engineering excellence, high-performance delivery, and cost efficiency. Our team of 12,000+ technology experts operate in 20+ countries worldwide offering career opportunities at the forefront of software innovation.
+
+ 
+
+ 
+
+Overview 
+
+ 
+
+We are seeking an experienced Senior Site Reliability Engineer (SRE) / Production Operations Engineer to support the production operations and operational readiness of a next-generation Stablecoin and Digital Assets Platform.
+
+This role is focused on ensuring the platform operates securely, reliably, and efficiently in production while enhancing observability, monitoring, alerting, and operational support capabilities.
+
+The successful candidate will work closely with Product, Engineering, Infrastructure, Security, Compliance, Risk, and Operations teams to support production environments, troubleshoot issues, improve operational processes, and continuously improve platform reliability and resilience.
+
+ 
+
+Key Responsibilities 
+
+ 
+
+Production Operations
+
+Own day-to-day production support activities across platform environments.
+Monitor platform availability, performance, and operational health.
+Investigate and troubleshoot production issues across application, infrastructure, third-party services, and blockchain components.
+Coordinate incident management, root cause analysis, and issue resolution.
+Participate in after-hours production support and critical incident response when required.
+
+Observability & Reliability
+
+Design and enhance platform observability, monitoring, and alerting capabilities.
+Implement centralized dashboards, logging, and operational visibility across platform components.
+Improve incident detection, troubleshooting, and root cause analysis through effective use of logs, metrics, and telemetry.
+Identify reliability risks and drive improvements in platform resilience and operational maturity.
+
+Infrastructure & Platform Operations
+
+Support cloud infrastructure and production environments.
+Support deployment processes, CI/CD pipelines, and infrastructure automation.
+Work closely with engineering teams to improve operational stability and release quality.
+Assist in diagnosing infrastructure and performance-related issues.
+
+Security, Compliance & Stakeholder Coordination
+
+Support operational controls required for a regulated financial platform.
+Participate in security reviews, audits, disaster recovery exercises, and operational readiness activities.
+Collaborate with Engineering, Product, Operations, Compliance, Risk, and external technology providers.
+Provide clear operational reporting and incident updates to stakeholders.
+
+Required Experience
+
+7+ years of experience in Site Reliability Engineering (SRE), Production Support, Platform Operations, DevOps, Infrastructure Engineering, or similar roles.
+Experience supporting business-critical production systems.
+Strong experience with monitoring, observability, alerting, incident management, and production troubleshooting.
+Experience with cloud platforms, preferably AWS.
+Familiarity with CI/CD pipelines and infrastructure automation.
+Strong troubleshooting and problem-solving skills.
+Experience working in financial services, fintech, payments, digital banking, or other regulated environments.
+
+Preferred Experience
+
+Experience supporting blockchain, digital asset, stablecoin, payment, or fintech platforms.
+Experience with observability tools such as Grafana, OpenTelemetry, CloudWatch, ELK, Datadog, Splunk, or similar platforms.
+Experience with Kubernetes and containerized workloads.
+Experience with Linux administration.
+Experience with scripting and automation (Python, Bash, PowerShell, or similar).
+Experience operating or supporting 24x7 production services.
+
+ 
+
+(Note: Due to the high volume of applications we receive, we are unable to respond to every candidate individually. If you have not received a response from GFT regarding your application within 10 workdays, please consider that we have decided to proceed with other candidates. We truly appreciate your interest in GFT and thank you for your understanding)
+
+ 
+
+
+
+Profile description:
+
+
+
+Required Experience
+
+7+ years of experience in Site Reliability Engineering (SRE), Production Support, Platform Operations, DevOps, Infrastructure Engineering, or similar roles.
+Experience supporting business-critical production systems.
+Strong experience with monitoring, observability, alerting, incident management, and production troubleshooting.
+Experience with cloud platforms, preferably AWS.
+Familiarity with CI/CD pipelines and infrastructure automation.
+Strong troubleshooting and problem-solving skills.
+Experience working in financial services, fintech, payments, digital banking, or other regulated environments.
+
+Preferred Experience
+
+ 
+
+Experience supporting blockchain, digital asset, stablecoin, payment, or fintech platforms.
+Experience with observability tools such as Grafana, OpenTelemetry, CloudWatch, ELK, Datadog, Splunk, or similar platforms.
+Experience with Kubernetes and containerized workloads.
+Experience with Linux administration.
+Experience with scripting and automation (Python, Bash, PowerShell, or similar).
+Experience operating or supporting 24x7 production services.
+
+
+
+We offer:
+
+
+We build a professional & fun working environment.
+We focus on your growth, yes the long-term growth.
+We develop the future-ready digital bank platform.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at GFT Technologies APAC & GCC by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Senior Site Reliability Engineer (APAC)
+Senior Site Reliability Engineer (APAC)
+Reap
+Hong Kong, Hong Kong SAR
+1 month ago
+SRE/DevOps/Platform Engineer
+SRE/DevOps/Platform Engineer
+Kody
+Hong Kong, Hong Kong SAR
+3 weeks ago
+Senior Site Reliability Engineer (SRE) / Managed Services Engineer
+Senior Site Reliability Engineer (SRE) / Managed Services Engineer
+Horizon Trading Solutions
+Hong Kong SAR
+6 days ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+SearchApi
+Hong Kong, Hong Kong SAR
+4 months ago
+Senior Infrastructure & Reliability Engineer (AWS & Low Latency Trading Platform)
+Senior Infrastructure & Reliability Engineer (AWS & Low Latency Trading Platform)
+Rock Bund Capital
+Hong Kong, Hong Kong SAR
+2 weeks ago
+Senior Linux Engineer / SRE
+Senior Linux Engineer / SRE
+BNP Paribas
+Hong Kong, Hong Kong SAR
+16 hours ago
+Show more jobs like this 
+People also viewed
+Senior Staff, Platform Engineer
+Senior Staff, Platform Engineer
+
+MoneyHero Group (Nasdaq: MNY)
+
+Central & Western District, Hong Kong SAR
+22 hours ago
+Infrastructure Architect
+Infrastructure Architect
+
+OKX
+
+Hong Kong, Hong Kong SAR
+1 week ago
+Financial Services - DevOps Production Operation Engineer - HKD600K - 900K
+Financial Services - DevOps Production Operation Engineer - HKD600K - 900K
+
+PrimePeak Group
+
+Hong Kong, Hong Kong SAR
+HK$600,000 - HK$900,000
+3 weeks ago
+Production Support Engineer / SRE
+Production Support Engineer / SRE
+
+TEKsystems
+
+Hong Kong SAR
+5 days ago
+Techops Engineer
+Techops Engineer
+
+Binance
+
+Central & Western District, Hong Kong SAR
+2 weeks ago
+[LPS] Senior System Specialist (Kubernetes)
+[LPS] Senior System Specialist (Kubernetes)
+
+LPS
+
+Hong Kong, Hong Kong SAR
+11 hours ago
+(f2pool) DevOps Engineer
+(f2pool) DevOps Engineer
+
+stakefish
+
+Hong Kong, Hong Kong SAR
+$130,000 - $180,000
+1 month ago
+Trading Systems Devops Engineer
+Trading Systems Devops Engineer
+
+Susquehanna International Group
+
+Hong Kong, Hong Kong SAR
+1 week ago
+Core DevOps Engineer
+Core DevOps Engineer
+
+Selby Jennings
+
+Hong Kong, Hong Kong SAR
+1 week ago
+SRE/ DevOps Lead- Financial Services
+SRE/ DevOps Lead- Financial Services
+
+Captar Partners
+
+Hong Kong SAR
+1 month ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at GFT Technologies APAC & GCC
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

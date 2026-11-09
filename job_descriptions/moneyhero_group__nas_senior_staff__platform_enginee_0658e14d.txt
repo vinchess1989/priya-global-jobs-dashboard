@@ -1,0 +1,248 @@
+Title: Senior Staff, Platform Engineer
+Company: MoneyHero Group (Nasdaq: MNY)
+Location: Central & Western District, Hong Kong SAR
+URL: https://hk.linkedin.com/jobs/view/senior-staff-platform-engineer-at-moneyhero-group-nasdaq-mny-4470917265
+Posted: 2026-11-10
+Deadline: Open until filled
+Reason: The role is a strong match for her DevOps and CI/CD expertise, is located in a target country (Hong Kong), and does not violate any hard rejection criteria.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Staff, Platform Engineer
+MoneyHero Group (Nasdaq: MNY)  Central & Western District, Hong Kong SAR
+22 hours ago  45 applicants
+  
+
+See who MoneyHero Group (Nasdaq: MNY) has hired for this role
+
+Apply 
+Save
+
+Direct message the job poster from MoneyHero Group (Nasdaq: MNY)
+
+Ahisha Ku
+Ahisha Ku
+About Us
+
+MoneyHero Limited (NASDAQ: MNY) is a leading tech- and AI-powered personal finance aggregation and comparison platform that provides consumers with actionable insights to discover, compare, and choose the best financial products with confidence — bringing data intelligence and seamless digital access across insurance and banking solutions. The Company operates in Singapore, Hong Kong, Taiwan and the Philippines. Its brand portfolio includes B2C platforms MoneyHero, SingSaver, Money101, Moneymax and Seedly, as well as the B2B platform Creatory. The Company also holds a preference share investment in Jirnexu Pte. Ltd. MoneyHero had over 280 commercial partner relationships as at June 30, 2026, and had approximately 3.7 million Monthly Unique Users across its platform for the three months ended June 30, 2026.
+
+The Senior Staff, Platform Engineer Will Be Responsible For
+
+
+Platform Architecture & Technical Direction: Own the architecture and roadmap of our cloud platform. Drive key infrastructure decisions, set engineering standards, and mentor engineers across teams.
+Cloud Infrastructure Management: Design, implement, and manage scalable, secure, and cost-efficient AWS infrastructure (EC2, S3, Lambda, RDS, VPCs), with high availability, fault tolerance, and disaster recovery built in. AWS is our primary cloud, with exposure to GCP and Azure.
+Infrastructure as Code (IaC): Develop and maintain Terraform configurations to automate provisioning and management of cloud resources, ensuring consistency and repeatability across environments.
+Kubernetes & Container Orchestration: Manage and scale Kubernetes (EKS) clusters, overseeing deployment, scaling, and operation of containerized workloads across multiple environments.
+GitOps & Continuous Delivery: Use ArgoCD to manage GitOps workflows and fully automated deployments to Kubernetes clusters.
+CI/CD Pipelines: Build and optimize CI/CD pipelines to automate testing, deployment, and monitoring of applications.
+Networking: Own core networking, including VPC design, routing and peering, DNS, load balancing, and network security controls.
+Monitoring & Observability: Implement monitoring, logging, and alerting (Prometheus, Grafana, CloudWatch, or similar) to track infrastructure health and surface issues before they impact the business.
+AI Infrastructure: Provision and operate the infrastructure behind our AI-powered products, including managed AI services (e.g., AWS Bedrock), secure API key and secrets management, and usage and cost monitoring, with the access controls and audit logging needed to meet AI governance expectations in our markets.
+Security & Compliance: Implement cloud security best practices, manage IAM roles and policies, safeguard sensitive data through encryption and access controls, and support compliance with industry standards and regulations.
+Collaboration & Optimization: Work closely with development and operations teams to continuously improve infrastructure processes, performance, and automation, including cost optimization as business demands evolve.
+Troubleshooting & Support: Provide expert-level support for infrastructure and cloud issues and lead incident response for platform-level problems, ensuring fast resolution and minimal downtime.
+
+
+
+In this role, we are looking for someone with :
+
+
+12-15 years of DevOps/Platform engineering experience, including 5+ years of hands-on Kubernetes design, build, and operation.
+Deep hands-on experience with AWS services (EC2, S3, Lambda, RDS, VPC) and cloud infrastructure management (required).
+Experience with ArgoCD and GitOps workflows and other Kubernetes-native CD tools a plus.
+Proficiency in Infrastructure as Code with Terraform.
+Solid experience managing Kubernetes clusters (EKS and/or self-managed) and deploying containerized applications at scale, with strong Docker expertise.
+Strong networking fundamentals: VPC design, routing, DNS, load balancing, and network security controls.
+Experience with modern CI/CD tooling (e.g., GitHub Actions, GitLab CI) and deployment pipeline automation.
+Experience with observability platforms such as Prometheus, Grafana, or CloudWatch.
+Strong understanding of cloud security best practices, including IAM and network security.
+Exposure to running AI/LLM workloads in production (managed AI services such as AWS Bedrock, API and secret management, cost monitoring), strongly preferred.
+Experience with Azure and GCP a plus.
+Excellent problem-solving and troubleshooting skills, with the ability to quickly resolve complex infrastructure issues.
+High degree of autonomy, comfortable owning initiatives end-to-end from design through operation.
+Strong communication skills in English and the ability to collaborate effectively with cross-functional teams.
+
+
+
+#MoneyHeroGroup
+
+What can you expect from us?
+
+Impact: We are actively empowering and connecting people to a better financial future. Join us if you want to help us achieve our mission.
+
+Work: We have a team of over 350 talented individuals in 4 markets who are hyper passionate about building innovative financial solutions and making an impact on people’s lives.
+
+Culture: We take our work seriously but don’t hesitate to keep things light. We can only create magic when we have a little bit of fun.
+
+Thrive: We launched in 2014, and now help over 10 million monthly users make the best financial decisions. Accelerate your career and become a pioneer in your field with a leading fintech company that seeks to push the boundaries of your imagination and is committed to growing your career.
+
+Reputation: We are backed by world-class organizations and companies and have raised over US$110 million from investors including Experian, Pacific Century Group, IFC - a member of the World Bank Group
+
+EEO Statement
+
+MoneyHero Group is an equal opportunity employer. We value, support and respect all individuals and is committed to maintaining an inclusive and diverse working environment. Decisions in hiring are based on business needs, requirements of the job and individual qualifications and shall not be influenced by any consideration of race, ethnic or national origin, religion, sex (including gender identity and/or expression), age, sexual orientation, marital status, parental status, disability, genetic information, political affiliation or other applicable legally protected characteristics.
+
+Important Information for Job Applicants
+
+Recruitment fraud and fake job postings have become increasingly common and sophisticated. At MoneyHero Group, we are committed to maintaining a fair, transparent, and secure hiring process, and we take candidate trust and safety seriously.
+
+Most legitimate opportunities at MoneyHero Group are published on our official careers portals, and our Talent Acquisition team will contact candidates only through authorized channels and official MoneyHero Group email addresses. For selected executive-level or confidential searches, we may partner with trusted recruitment firms, and candidates may be contacted by authorized recruitment partners engaged by MoneyHero Group.
+
+MoneyHero Group will never request payment or ask candidates to share sensitive personal or financial information, such as banking details, during the recruitment process.
+
+If you are contacted by someone claiming to represent MoneyHero Group and are unsure whether the communication is genuine, or if you receive a message about a MoneyHero Group opportunity that is not listed on our official careers portals, please contact us directly at recruitment@moneyherogroup.com to verify.
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at MoneyHero Group (Nasdaq: MNY) by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Senior/Staff Engineer, R&D Efficiency Platform
+Senior/Staff Engineer, R&D Efficiency Platform
+OKX
+Hong Kong, Hong Kong SAR
+2 weeks ago
+Senior Staff Engineer, HR Platform
+Senior Staff Engineer, HR Platform
+OKX
+Hong Kong, Hong Kong SAR
+2 weeks ago
+Senior Platform Engineer
+Senior Platform Engineer
+dtcpay
+Hong Kong, Hong Kong SAR
+2 weeks ago
+Senior Site Reliability Engineer (APAC)
+Senior Site Reliability Engineer (APAC)
+Reap
+Hong Kong, Hong Kong SAR
+1 month ago
+Staff Software Engineer
+Staff Software Engineer
+BJAK
+Hong Kong, Hong Kong SAR
+2 months ago
+Tech Lead (Full Stack & Infrastructure)
+Tech Lead (Full Stack & Infrastructure)
+SoFi Hong Kong
+Hong Kong, Hong Kong SAR
+1 month ago
+Show more jobs like this 
+People also viewed
+Infrastructure Architect
+Infrastructure Architect
+
+OKX
+
+Hong Kong, Hong Kong SAR
+1 week ago
+Staff Engineer, Middleware
+Staff Engineer, Middleware
+
+OKX
+
+Hong Kong, Hong Kong SAR
+2 weeks ago
+Senior/Staff Engineer, Liquidity Platform, Structured OTC
+Senior/Staff Engineer, Liquidity Platform, Structured OTC
+
+OKX
+
+Hong Kong, Hong Kong SAR
+2 weeks ago
+Senior/Staff Engineer - Blockchain Parsing
+Senior/Staff Engineer - Blockchain Parsing
+
+OKX
+
+Hong Kong, Hong Kong SAR
+1 week ago
+Senior/Staff Engineer, Liquidity Platform, Trading Service
+Senior/Staff Engineer, Liquidity Platform, Trading Service
+
+OKX
+
+Hong Kong, Hong Kong SAR
+2 weeks ago
+Senior/Staff Software Engineer, Liquidity Platform
+Senior/Staff Software Engineer, Liquidity Platform
+
+OKX
+
+Hong Kong, Hong Kong SAR
+2 weeks ago
+Senior/Staff Engineer, Decentralize Exchange (DEX)
+Senior/Staff Engineer, Decentralize Exchange (DEX)
+
+OKX
+
+Hong Kong, Hong Kong SAR
+2 weeks ago
+Senior Staff Software Engineer, Mobile Infrastructure
+Senior Staff Software Engineer, Mobile Infrastructure
+
+OKX
+
+Hong Kong, Hong Kong SAR
+2 weeks ago
+Senior Staff Software Engineer, Trading Services
+Senior Staff Software Engineer, Trading Services
+
+OKX
+
+Hong Kong, Hong Kong SAR
+2 weeks ago
+AI Native Platform Architect
+AI Native Platform Architect
+
+OKX
+
+Hong Kong, Hong Kong SAR
+2 weeks ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at MoneyHero Group (Nasdaq: MNY)
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
