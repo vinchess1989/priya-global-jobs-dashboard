@@ -1,0 +1,285 @@
+Title: Senior DevOps Engineer
+Company: DHL
+Location: Chennai, Tamil Nadu, India
+URL: https://in.linkedin.com/jobs/view/senior-devops-engineer-at-dhl-4488857779
+Posted: 2026-11-10
+Deadline: N/A
+Reason: The role aligns with her DevOps and CI/CD expertise, is located in India (a target country), and does not violate any hard rejection criteria.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer
+DHL  Chennai, Tamil Nadu, India
+7 hours ago  50 applicants
+  
+
+See who DHL has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Your IT Future, Delivered
+
+DevOps Engineer - GCP
+
+With a global team of 6000+ IT professionals, DHL IT Services connects people and keeps the global economy running by continuously innovating and creating sustainable digital solutions. We work beyond global borders and push boundaries across all dimensions of logistics. You can leave your mark shaping the technology backbone of the biggest logistics company of the world. Our offices in Cyberjaya, Prague, and Chennai have earned #GreatPlaceToWork certification, reflecting our commitment to exceptional employee experiences.
+
+Digitalization. Simply delivered.
+
+About the Project - Diana: Step into Diana, DHL’s central hub for shipment data. Named after the goddess of crossroads, Diana is where the many roads of shipment data become one. It collects shipment data from multiple business units in different formats, transforms it into one common model, and serves it back through REST APIs in real time whenever a 2D Data Matrix code is scanned.
+
+#DHL #DHLITServices #GreatPlace #DigitalPlatforms #API #Diana
+
+Ready to embark on the journey? Here’s what we are looking for:
+
+As a DevOps Engineer, you will build, run and improve the cloud infrastructure behind Diana, our API integration platform, on Google Cloud. You will play a key role in automating our deployments with Terraform and CI/CD pipelines, running workloads on Kubernetes, and keeping our services reliable through proactive monitoring. We are looking for a hands-on engineer who is passionate about learning new technologies, building new projects, and going the extra mile to ensure project success.
+
+You are a communication & technology aficionado; therefore, you have a good understanding of related technologies and communication styles. You can work independently, prioritize and organize your tasks under time and workload pressure. Working in a multinational environment, you can expect cross-region collaboration with teams around the globe, thus being advanced in spoken and written English will be certainly useful.
+
+Technical competencies
+
+
+
+3+ years of experience with Google Cloud Platform
+2+ years of experience with Kubernetes (GKE preferred)
+Experience with Infrastructure as Code (Terraform)
+Proficiency in CI/CD and version control systems (Jenkins, GitHub Actions, Argo CD, Git)
+Experience with monitoring tools (Prometheus, Grafana, Zabbix)
+Experience with NoSQL databases such as MongoDB and Firestore
+
+
+
+Soft Skills
+
+
+
+Excellent verbal and written English
+Experience working in an Agile framework (Scrum preferred)
+Interest in working in a multicultural, dynamic environment
+Passion for learning new things and building new projects
+
+
+
+Nice to have
+
+
+
+Experience with Apigee or other API management tools
+Experience with Helm
+Knowledge of MySQL
+Scripting skills (Bash, Python)
+
+
+
+An array of benefits for you:
+
+
+
+Annual Leave – 42 days off apart from Public / National Holidays
+Medical Insurance - Self + Spouse + 2 children. An option to opt for Voluntary Parental Insurance (Parents / Parent -in-laws) at a nominal premium covering preexisting diseases
+In House training programs - professional and technical training certifications
+Flexible Work options
+
+
+
+Great Team
+
+Hello! I'm Ana. I joined DHL in 2021, starting in the Service Desk team, where I quickly advanced to a Team Leader position and remained for almost a year and a half. In 2024, I embraced a new challenge by joining the API department in Digital Solutions as a Scrum Master, and since 2025, I had the exciting opportunity to take on a managerial role, leading one of our teams.
+
+Leadership has always been at the heart of what I do. I love bringing people together, fostering collaboration, and creating an environment where teams can thrive. At DHL, I have the privilege of working with an incredibly talented group of API developers and DevOps engineers, all dedicated to shaping the future of digital connectivity.
+
+Our digital landscape is constantly evolving, and our team plays a key role in shaping how developers interact with our APIs. My goal is to nurture an environment where innovation thrives, challenges are tackled efficiently, and we continuously improve the way we work.
+
+If you're into APIs, digital transformation, or just love solving complex problems, let’s connect—there’s plenty of exciting work ahead!
+
+DHL is an equal opportunity employer. We evaluate qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status or any other protected characteristic.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Transportation, Logistics, Supply Chain and Storage
+  
+
+Referrals increase your chances of interviewing at DHL by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Chennai, Tamil Nadu, India.
+
+Sign in to create job alert
+Jobs
+Internet Marketer jobs
+Senior DevOps Engineer
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+Accenture in India
+Chennai, Tamil Nadu, India
+1 month ago
+Senior DevOps Engineer – Observability Platform
+Senior DevOps Engineer – Observability Platform
+Qualcomm
+Chennai, Tamil Nadu, India
+2 weeks ago
+Senior Engineer - DevOPs
+Senior Engineer - DevOPs
+CBTS
+Chennai, Tamil Nadu, India
+2 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+IDFC FIRST Bank
+Chennai, Tamil Nadu, India
+1 week ago
+Senior DevOps
+Senior DevOps
+TEGNA
+Chennai, Tamil Nadu, India
+1 month ago
+Sr. Dev Ops Engineer
+Sr. Dev Ops Engineer
+Neurealm
+Chennai, Tamil Nadu, India
+5 days ago
+Show more jobs like this 
+People also viewed
+Staff/Senior Operations Engineer
+Staff/Senior Operations Engineer
+
+CloudBees
+
+Greater Chennai Area
+2 days ago
+Lead I - DevOps Engineering
+Lead I - DevOps Engineering
+
+UST
+
+Chennai, Tamil Nadu, India
+1 week ago
+Senior DevSecOps and Cloud Engineer
+Senior DevSecOps and Cloud Engineer
+
+INRY
+
+Chennai, Tamil Nadu, India
+3 months ago
+Devops Engineer
+Devops Engineer
+
+Inchcape Shipping Services
+
+Chennai, Tamil Nadu, India
+1 week ago
+Lead DevOps Engineer
+Lead DevOps Engineer
+
+Ericsson
+
+Chennai, Tamil Nadu, India
+2 days ago
+DevOps Engineer
+DevOps Engineer
+
+Quest Global
+
+Chennai, Tamil Nadu, India
+2 weeks ago
+DevOps Lead Engineer
+DevOps Lead Engineer
+
+TransUnion
+
+Chennai, Tamil Nadu, India
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+DHL
+
+Chennai, Tamil Nadu, India
+5 days ago
+DevOps Engineer
+DevOps Engineer
+
+Accenture in India
+
+Chennai, Tamil Nadu, India
+1 month ago
+DevOps Engineer
+DevOps Engineer
+
+Accenture in India
+
+Chennai, Tamil Nadu, India
+1 month ago
+Similar Searches
+Internet Marketer jobs
+2,955 open jobs
+Import Agent jobs
+54 open jobs
+General Manager Distribution jobs
+113 open jobs
+Assistant Account Officer jobs
+1,885 open jobs
+Air Export Manager jobs
+422 open jobs
+Supply Chain Team Lead jobs
+1,275 open jobs
+Logistics Account Executive jobs
+2,434 open jobs
+Industrial Sales Manager jobs
+975 open jobs
+Freight Manager jobs
+401 open jobs
+Logistics Supervisor jobs
+233 open jobs
+Foreign Trade Analyst jobs
+91 open jobs
+General Manager Logistics jobs
+11 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at DHL
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

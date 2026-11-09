@@ -1,0 +1,271 @@
+Title: Senior Technical Release Manager
+Company: Sureify
+Location: Hyderabad, Telangana, India
+URL: https://in.linkedin.com/jobs/view/senior-technical-release-manager-at-sureify-4487671384
+Posted: 2026-11-10
+Deadline: Open until filled
+Reason: The role is a strong match for her extensive experience in technical release management, configuration governance, and quality gatekeeping within complex, regulated environments.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Technical Release Manager
+Sureify  Hyderabad, Telangana, India
+22 hours ago  33 applicants
+  
+
+See who Sureify has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+About Sureify
+
+Sureify is dedicated to modernizing the life insurance and annuity industry. We provide cutting-edge digital solutions that empower insurers to easily engage with, sell to, and service their customers. Our mission is to drive meaningful digital transformation by offering scalable technology that enhances customer engagement and streamlines carrier operations. Sureify's products deliver the advanced digital experiences that life insurance carriers, agents, employees, and consumers now expect in this rapidly evolving technological landscape. At Sureify, we cultivate a culture that prioritizes innovation, collaboration, and continuous learning.
+
+Role Overview
+
+We are looking for a Senior Technical Release Manager to join our Hyderabad office. This role will be responsible for managing all production releases across our enterprise platform and customer-specific solutions. Unlike traditional release roles, this position serves as a Technical Release Governor in a complex hybrid environment consisting of both multi-tenant products and multi-instance siloed environments.
+
+As we scale our carrier customer base, we are looking to adopt best of the breed release practices. You will be the single point of accountability for replacing high-intensity manual interventions in releases with a systematic, technically rigorous process. You will ensure releases are delivered with quality, predictability, and efficiency while bridging the gap between engineering, QA, product, and client support teams.
+
+Key Responsibilities
+
+Release Lifecycle Leadership: Own and manage the end-to-end release lifecycle for all production deployments, including core platform production updates and customer-specific customizations. Define, document, and enforce release management processes and standards. Create and maintain the release calendar, ensuring transparency and alignment across teams.
+
+Technical Gatekeeping: Conduct deep-dive release readiness reviews. You will audit "Release Manifests" by validating steps such as SQL migrations or PDF template migrations, Temporal workflow versioning, Kafka schemas, and AWS resource configurations. A good overall understanding of deployment architecture in AWS is essential for this role.
+
+Environment Governance: Manage "Instance Parity" across our AWS multi-instance architecture to prevent "Environmental Drift" and ensure customer-specific secrets and variables match our global standards.
+
+Cross-Functional Orchestration: Facilitate formal "Go/No-Go" decisions by tracking a global checklist that includes technical and non-technical readiness.
+
+Risk Mitigation: Identify, document, and mitigate technical sequencing risks (e.g., database locks or stateful workflow conflicts) associated with production releases.
+
+Continuous Improvement: Monitor release performance, generate and provide metrics and reports and drive the transition from manual coordination to Automated Production Quality Gates within our release pipelines.
+
+Required Qualifications & Experience
+
+10+ years of overall technical experience, with a background in software engineering, SRE, or backend operations.
+
+5+ years of direct release management experience in a complex, enterprise hybrid SaaS environment (Multi-tenant & Multi-instance).
+
+Cloud-Native Expertise: Expert-level knowledge of AWS (EKS, RDS, Secrets Manager, IAM, S3, MSK) and the ability to audit infrastructure-level configurations.
+
+Stack Fluency: Demonstrated familiarity with Typescript, PHP, Go-lang, and Node.js ecosystems. You must understand the deployment nuances of each.
+
+Modern Orchestration: Hands-on experience or strong knowledge of Temporal (stateful workflows) and Kafka (event streaming). You understand the risks of deploying to "in-flight" asynchronous processes.
+
+Database Proficiency: Strong proficiency in MySQL and Postgres, specifically in auditing complex migration scripts and data sequencing.
+
+Containerization Mastery: Deep understanding of Kubernetes (K8s) manifest auditing and deployment patterns (Canary, Blue-Green, or Rolling Updates).
+
+Communication & Gravitas: Excellent stakeholder management skills with the professional authority to enforce discipline and halt releases if technical or business criteria are not met.
+
+Preferred / Nice-to-Have Skills
+
+Experience in the insurance or financial services domain (or other regulated industries).
+
+Knowledge of security, compliance (SOC2/ISO), or audit processes as they relate to release operations.
+
+Experience with Infrastructure as Code (IaC) tools like Terraform or CloudFormation.
+
+Familiarity with Site Reliability Engineering (SRE) principles such as Error Budgets and SLIs/SLOs.
+
+Why Join Sureify?
+
+At Sureify, you’ll be part of a collaborative, innovation-driven culture where your expertise will directly influence the quality and success of products, transforming the life insurance landscape. You’ll work alongside passionate technologists and industry experts, tackling complex challenges with cutting-edge technologies while helping shape the future of digital insurance.
+
+Our Guiding Principles
+
+Our products are for nothing if their creators are not fulfilled in their work. We want our employees to flourish at Sureify. We do not fawn over status or titles; instead, we honour effort and intelligence. The best idea wins, no matter which colleague proposed it. We do not shortcut our mission with overblown claims or false promises. Sticking to the truth is both a strategy and a principle for us.
+
+Sureify is an Equal Opportunity Employer committed to diversity. Qualified applicants will receive consideration for employment without regard to race, color, national origin, citizenship, ancestry, religion, sex, sexual orientation, gender perception or identity, age, disability, veteran or military status, or any other basis prohibited by law.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Insurance
+  
+
+Referrals increase your chances of interviewing at Sureify by 2x
+
+See who you know
+
+Get notified about new Release Manager jobs in Hyderabad, Telangana, India.
+
+Sign in to create job alert
+Jobs
+Change And Release Manager jobs
+Senior Technical Release Manager
+Similar jobs
+Release Delivery Lead
+Release Delivery Lead
+Opella
+Hyderabad, Telangana, India
+2 weeks ago
+Integration Release Manager
+Integration Release Manager
+Opella
+Hyderabad, Telangana, India
+1 week ago
+Technical Delivery Manager
+Technical Delivery Manager
+IC
+Hyderabad, Telangana, India
+3 weeks ago
+Release Manager
+Release Manager
+Blue Spire Inc
+Hyderabad, Telangana, India
+2 weeks ago
+Release Lead
+Release Lead
+Agivant Technologies
+Hyderabad, Telangana, India
+2 days ago
+Operations & Release Architect
+Operations & Release Architect
+Mattel, Inc.
+Hyderabad, Telangana, India
+1 week ago
+Show more jobs like this 
+People also viewed
+Technology Project Manager - Product & Delivery
+Technology Project Manager - Product & Delivery
+
+BeeHyv Software
+
+Hyderabad, Telangana, India
+1 week ago
+Release Train Engineer (RTE)
+Release Train Engineer (RTE)
+
+NxtGen Innovative Technology Solutions
+
+Hyderabad, Telangana, India
+1 year ago
+Deployment Lead
+Deployment Lead
+
+Accenture in India
+
+Hyderabad, Telangana, India
+3 weeks ago
+Alpha Environments & Batch Manager, Senior Manager
+Alpha Environments & Batch Manager, Senior Manager
+
+State Street
+
+Hyderabad, Telangana, India
+1 month ago
+Application deployment Engineer
+Application deployment Engineer
+
+Luxoft
+
+Hyderabad, Telangana, India
+6 days ago
+Technical Manager (Java Platform, Engineering Delivery & Warehouse Automation)
+Technical Manager (Java Platform, Engineering Delivery & Warehouse Automation)
+
+Quest Global
+
+Hyderabad, Telangana, India
+6 days ago
+PC-1507 - Tech Delivery Lead
+PC-1507 - Tech Delivery Lead
+
+Softobiz
+
+Hyderabad, Telangana, India
+1 month ago
+Senior Manager, Engineering Operations
+Senior Manager, Engineering Operations
+
+Abbott
+
+Greater Hyderabad Area
+2 months ago
+Senior Technical Program Manager , TITANS
+Senior Technical Program Manager , TITANS
+
+Amazon
+
+Hyderabad, Telangana, India
+5 days ago
+Senior Manager, Software Development & Engineering Lead (PL) SRE
+Senior Manager, Software Development & Engineering Lead (PL) SRE
+
+Charles Schwab India
+
+Hyderabad, Telangana, India
+3 weeks ago
+Similar Searches
+Change And Release Manager jobs
+184 open jobs
+Software Configuration Manager jobs
+7,612 open jobs
+Unix Consultant jobs
+623 open jobs
+Release Engineer jobs
+3,467 open jobs
+Deployment Manager jobs
+4,865 open jobs
+Build And Release Engineer jobs
+3,712 open jobs
+SAP Basis Team Lead jobs
+194 open jobs
+Software Release Engineer jobs
+346 open jobs
+Configuration Manager jobs
+1,407 open jobs
+Change Manager jobs
+8,241 open jobs
+Problem Manager jobs
+2,374 open jobs
+Contract Test Engineer jobs
+920 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Sureify
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

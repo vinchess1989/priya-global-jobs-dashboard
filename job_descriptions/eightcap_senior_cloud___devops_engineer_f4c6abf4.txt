@@ -1,0 +1,274 @@
+Title: Senior Cloud / DevOps Engineer
+Company: Eightcap
+Location: Melbourne, Victoria, Australia
+URL: https://au.linkedin.com/jobs/view/senior-cloud-devops-engineer-at-eightcap-4487119697
+Posted: 2026-11-10
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in CI/CD, release management, and compliance in regulated environments, and it is located in an eligible country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Cloud / DevOps Engineer
+Eightcap  Melbourne, Victoria, Australia
+18 hours ago   Be among the first 25 applicants
+  
+
+See who Eightcap has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Eightcap operates at the intersection of cutting-edge technology and global financial markets. Headquartered in Melbourne with a global footprint spanning the UK, Cyprus, and Bulgaria, we build the high-performance infrastructure that connects the world to CFD markets - reliably, securely and with precision.
+
+
+
+
+We're after an engineer who treats infrastructure as software: versioned, reviewed, tested and released. Someone who is as comfortable reviewing a Terraform pull request as they are tracing a production latency spike, and who leaves every codebase, pipeline and security posture better than they found it. The Senior Cloud / DevOps Engineer will own the health, security and evolution of the AWS estate that our trading services, client-facing applications and internal systems run on.
+
+
+
+
+To drive real impact in this role, you will:
+
+Own the Cloud Platform: Design, build and operate our multi-account AWS environments, with Terraform as the backbone for every change, from modules to drift detection to plan-and-review.
+Build the Paved Road: Own CI/CD in GitHub Actions and build boilerplates for .NET, Go and Python so teams can ship standardised, production-ready environments with minimal friction.
+Engineer Security In: Apply least-privilege IAM, secrets management, network controls and CSPM tooling like Wiz, and embed scanning and policy-as-code directly into pipelines.
+Automate Compliance: Build continuous evidence and controls against SOC 2, ISO 27001 and the AWS Well-Architected Framework, so audit readiness is always on, not a scramble.
+Own Observability and Reliability: Run the CloudWatch stack, define SLOs, lead incident response and post-incident reviews, and keep runbooks sharp enough for another engineer to follow.
+Lead Without the Title: Set platform standards, review infrastructure and pipeline changes from other engineers, mentor the team on cloud and security practice and help shape the roadmap.
+Partner Across the Business: Work closely with Infrastructure and Security, Product Engineering squads and Trading Platform Operations to keep the estate secure, resilient and easy to build on.
+
+
+
+
+What You'll Bring:
+
+Significant hands-on experience designing, building and operating production AWS workloads, including multi-account setups, VPC networking, IAM, EC2, Lambda, Fargate, RDS and CloudWatch.
+Expert-level Terraform, including authoring reusable modules, managing remote state and refactoring live infrastructure without downtime.
+Strong GitHub Actions experience across application and infrastructure pipelines, with secure credential handling.
+A genuine software engineering background in at least one general-purpose language (Python, Go, TypeScript or C#), with tests, code review and release discipline as habit.
+Demonstrable cloud security engineering, including least-privilege IAM, RBAC, SSO, MFA, secrets management and remediation using CSPM tooling such as Wiz.
+Experience automating compliance evidence against ISO 27001, SOC 2 and the AWS Well-Architected Framework.
+A track record leading incidents and post-incident reviews under real change control.
+Clear communication skills, including writing design docs and explaining trade-offs to technical and non-technical stakeholders.
+Availability for an on-call rotation and occasional out-of-hours maintenance.
+Bonus if you hold an AWS Professional or Security certification, have worked in a regulated financial services environment (ASIC, FCA or CySEC), have exposure to trading platforms, low-latency systems or market data, or have contributed to a pen test remediation or certification cycle.
+
+
+
+
+Benefits
+
+What's it like to work at Eightcap?
+
+We have built a performance-driven environment where you're given the autonomy to drive change and the accountability to own the results. We provide a space for the ambitious, adaptable and collaborative to deliver outcomes that fuel our success while building the skills and experience that defines a career.
+
+
+
+
+We also support you through:
+
+Ongoing investment in your career development, including technical and professional training
+Wellness and lifestyle perks, such as monthly corporate massages
+Drinks every Friday
+Parental leave entitlements
+Staff referral bonus programme
+Annual flu vaccinations
+Purchased leave
+Novated leasing options for vehicle financing and management
+A great CBD location with easy access to public transport
+A multicultural, collaborative and supportive team culture
+Being part of exciting new projects for the company
+Regular social activities
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at Eightcap by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Melbourne, Victoria, Australia.
+
+Sign in to create job alert
+Jobs
+Real Estate Broker jobs
+Senior Cloud / DevOps Engineer
+Similar jobs
+Senior DevOps Engineer
+Senior DevOps Engineer
+Australia Post
+Cremorne, Victoria, Australia
+5 days ago
+Platform Engineer
+Platform Engineer
+Flybuys
+Melbourne, Victoria, Australia
+2 weeks ago
+Senior Cloud Engineer
+Senior Cloud Engineer
+Capgemini
+Melbourne, Victoria, Australia
+1 week ago
+Senior AWS Cloud Engineer
+Senior AWS Cloud Engineer
+Maurice Blackburn Lawyers
+Melbourne, Victoria, Australia
+4 days ago
+Senior DevOps
+Senior DevOps
+Publicis Sapient
+Melbourne, Victoria, Australia
+2 weeks ago
+Cloud Engineer
+Cloud Engineer
+iterate
+Melbourne, Victoria, Australia
+A$130,000 - A$160,000
+3 weeks ago
+Show more jobs like this 
+People also viewed
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+Blinq
+
+Melbourne, Victoria, Australia
+3 weeks ago
+Senior DevOps Engineer - TSPV
+Senior DevOps Engineer - TSPV
+
+Leidos Australia
+
+Scoresby, Victoria, Australia
+13 hours ago
+Tech Lead
+Tech Lead
+
+Squiz
+
+Melbourne, Victoria, Australia
+1 week ago
+senior AWS Platform Engineer
+senior AWS Platform Engineer
+
+FR Consultancy
+
+Melbourne, Victoria, Australia
+20 hours ago
+Cloud Services Engineer III
+Cloud Services Engineer III
+
+Pearson
+
+Melbourne, Victoria, Australia
+6 days ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+SS&C Technologies
+
+Melbourne, Victoria, Australia
+11 hours ago
+Azure Infrastructure Engineer
+Azure Infrastructure Engineer
+
+XPT Software Australia
+
+Carlton, Victoria, Australia
+1 week ago
+Cloud Engineer (AWS / DevOps)- AU Citizen with Security Clearance
+Cloud Engineer (AWS / DevOps)- AU Citizen with Security Clearance
+
+Accenture Australia
+
+Melbourne, Victoria, Australia
+1 month ago
+Lead Platform Engineer
+Lead Platform Engineer
+
+Fractal
+
+Melbourne, Victoria, Australia
+2 weeks ago
+Senior Systems Engineer - Hawthorn East
+Senior Systems Engineer - Hawthorn East
+
+Coles Group
+
+Hawthorn East, Victoria, Australia
+1 week ago
+Similar Searches
+Real Estate Broker jobs
+53 open jobs
+Foreign Exchange Trader jobs
+13 open jobs
+Commercial Finance Manager jobs
+501 open jobs
+Director of Revenue Management jobs
+112 open jobs
+Senior Commercial Analyst jobs
+1,338 open jobs
+Information Security Consultant jobs
+176 open jobs
+Fund Analyst jobs
+702 open jobs
+Consulting Analyst jobs
+8,027 open jobs
+Security Administrator jobs
+868 open jobs
+Fund Manager jobs
+374 open jobs
+Head of Commercial Finance jobs
+137 open jobs
+Financial Planning and Analysis Manager jobs
+577 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Eightcap
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

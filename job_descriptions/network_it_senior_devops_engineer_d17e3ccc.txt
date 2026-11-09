@@ -1,0 +1,225 @@
+Title: Senior DevOps Engineer
+Company: Network IT
+Location: Johannesburg North, South Africa
+URL: https://www.pnet.co.za/jobs--Senior-DevOps-Engineer-Johannesburg-North-Network-IT--4304001-inline.html
+Posted: 2026-11-10
+Deadline: N/A
+Reason: The role aligns with the candidate's extensive experience in DevOps, CI/CD, and configuration management, and it is located in South Africa, which is one of the target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Find a job
+Recruiters
+Sign in
+Tired of searching? Let’s find you the right jobs faster
+Get Started
+Find Jobs
+Senior DevOps Engineer
+Network IT
+Johannesburg North
+Permanent
+Full Time
+Published: 14 hours ago
+I'm interested
+Save
+Senior DevOps Engineer
+Network IT
+I'm interested
+Reference: ITE008264-Sfund-1
+
+We are seeking an experienced Senior DevOps Engineer / Site Reliability Engineer (SRE) to provide technical leadership across modern Kubernetes-based platforms operating in both cloud and on-premise environments.
+This role is ideal for a seasoned infrastructure professional who is passionate about platform engineering, automation, reliability, and operational excellence. You will play a key role in improving system stability, scalability, deployment processes, and engineering standards while mentoring other team members and collaborating across multiple technical disciplines.
+Duties & Responsibilities
+Key Responsibilities
+Platform Engineering & Operations
+Design, manage, and continuously improve Kubernetes platforms across cloud and on-premise environments.
+Ensure the reliability, availability, performance, and scalability of critical production systems.
+Support and maintain live production platforms while driving ongoing operational improvements.
+Participate in incident investigation, root-cause analysis, and reliability enhancement initiatives.
+Develop and implement best practices for platform operations and system resilience.
+Infrastructure as Code & Automation
+Build and maintain infrastructure using Infrastructure as Code (IaC) tools.
+Develop reusable automation frameworks and standardized deployment patterns.
+Improve provisioning, upgrade, and lifecycle management processes.
+Drive automation initiatives that reduce manual operational effort and improve efficiency.
+Enhance deployment consistency and operational repeatability across environments.
+Kubernetes & Platform Management
+Provide technical leadership on Kubernetes architecture, administration, and optimization.
+Manage GitOps-based deployment workflows and release management processes.
+Support application deployment and configuration management within containerized environments.
+Improve deployment safety, rollback strategies, and environment consistency.
+Manage stateful workloads and storage solutions within Kubernetes ecosystems.
+Production Support & Reliability Engineering
+Support platforms with demanding uptime and availability requirements.
+Improve backup, disaster recovery, and system recovery processes.
+Implement monitoring, alerting, and observability best practices.
+Ensure platform stability through proactive performance tuning and reliability initiatives.
+Contribute to service availability and operational maturity.
+Technical Leadership & Mentorship
+Mentor junior and intermediate engineers within the DevOps function.
+Promote engineering excellence through documentation, knowledge sharing, and coaching.
+Support onboarding and technical skills development.
+Establish and maintain operational standards and best practices across teams.
+Collaboration & Architecture
+Partner with software engineering, data, and integration teams to deliver robust platform solutions.
+Contribute to platform strategy, technical roadmaps, and architectural decisions.
+Communicate technical risks, recommendations, and design considerations to stakeholders.
+Drive continuous improvement and innovation across infrastructure and platform services.
+Required Skills & Experience
+Cloud, Infrastructure & Kubernetes
+Strong hands-on experience operating Kubernetes in production environments.
+Proven experience managing cloud-native platforms.
+Extensive experience with Terraform and Infrastructure as Code methodologies.
+Experience implementing and managing GitOps practices.
+Strong Linux systems administration skills.
+Experience supporting stateful applications and workloads.
+Experience using automation tools such as Ansible.
+Knowledge of containerisation technologies and deployment pipelines.
+Operational & Reliability Engineering
+Experience supporting mission-critical production environments.
+Strong understanding of infrastructure reliability and operational excellence.
+Experience implementing monitoring, alerting, and observability solutions.
+Solid knowledge of:
+DNS
+TLS/SSL
+Load Balancing
+Ingress Controllers
+Networking Fundamentals
+Platform Engineering
+Experience working across both cloud and on-premise infrastructure environments.
+Strong understanding of scaling, performance optimisation, and high-availability architectures.
+Experience developing and improving deployment, recovery, and operational procedures.
+Preferred Skills
+Experience with one or more of the following will be highly advantageous:
+
+AWS
+Azure
+ArgoCD
+Helm
+Kustomize
+Docker
+Cloudflare
+Kubernetes Storage Solutions
+CSI Drivers
+Longhorn
+EBS
+Site Reliability Engineering (SRE) practices and Service Level Objectives (SLOs)
+Software Development experience
+Customer-hosted platform support
+Certifications
+The following certifications would be beneficial:
+
+Certified Kubernetes Administrator (CKA)
+Certified Kubernetes Application Developer (CKAD)
+Other cloud or infrastructure-related certifications
+Key Competencies
+Strong analytical and problem-solving abilities.
+Ability to work independently and take ownership of platform outcomes.
+Excellent communication and stakeholder engagement skills.
+Strong mentoring and leadership capabilities.
+Meticulous attention to detail and commitment to operational excellence.
+Passion for automation, continuous improvement, and modern engineering practices.
+Ability to thrive in complex and fast-paced technical environments.
+Apply now!
+
+For more IT jobs, please visit www.networkrecruitmentinternational.com/
+
+I also specialise in recruiting in the following:
+
+Software Development
+Data Engineer
+Data Analyst
+Infrastructure
+Architecture
+... and more!
+
+If you have not had any response in two weeks, please consider the vacancy application unsuccessful. Your profile will be kept on our database for any other suitable roles / positions.
+
+For more information contact:
+Sfundo Shoba
+Recruitment Consultant
+https://www.linkedin.com/in/sfundo-shoba-500ab4202/
+I'm interested
+Network IT
+216 Jobs
+These jobs were popular with other job seekers
+Intermediate DevOps Engineer
+Network IT
+Johannesburg North
+just now
+DevOps Engineer | AWS or Azure | Docker | Kubernetes | CI/CD | Your Next Career Move Starts Here
+Network IT
+Johannesburg North
+just now
+Cyber Security Consultant
+Network IT
+Johannesburg North
+just now
+Data Engineer | Microsoft Fabric | Azure | SQL | Python | Data Engineering | Your Next Career Move S
+Network IT
+Johannesburg North
+just now
+Python Developer
+Network IT
+Johannesburg North
+just now
+Web Developer - KEW
+Headhunters
+Johannesburg North
+just now
+Software Support Consultant
+Network IT
+Johannesburg North
+just now
+Software Support Consultant
+Network IT
+Johannesburg North
+just now
+Senior Actuarial Specialist: Product Development & Pricing (Life Insurance)
+Network Finance.
+Johannesburg North
+just now
+PHP Developer
+Network IT
+Johannesburg North
+just now
+
+Get hired.
+Find success.
+
+Get started
+Pnet
+About us
+Privacy policy
+Disclaimer
+Terms and conditions
+PAIA
+Jobseekers
+Career advice
+Blog
+Recruiters
+Post job ads
+Contact us – recruiters
+Products and Services
+Download
+App Store
+Google Play
+Pnet © 2026
+We use cookies
+
+We transmit personal data to third-party providers who help us to improve our web services. In this context, we also create and enrich usage profiles (e.g., on the basis of cookie IDs), which may also be transferred outside the Republic of South Africa and outside the EU and EEA.
+
+For this and to be able to use certain services for the purposes listed below, we require your consent. By clicking "Accept all", you agree to these (revocable at any time). This also includes your consent to the transmission of certain personal data to third countries, including the USA*, in accordance with Section 72 (1) (b) POPIA. You can change your settings or refuse data processing under "Settings or reject". You can change your selection at any time under "Privacy Statement" at the bottom of the page.
+
+Storing and/or retrieving information on a device
+Cookies, device identifiers or other information may be stored on or retrieved from your device for the processing purposes shown to you.
+Personalised ads and content, ad and content measurement, audience insights and product development
+Ads and content can be personalised based on a profile. More data can be added to better personalise ads and content. The performance of ads and content can be measured. Insights about audiences who have viewed the ads and content can be extracted. Data can be used to build or improve user experience, systems and software.
+Display third-party content (social networks, videos)
+Content from social networks and embedded content from third-party providers can be displayed.
+Settings or reject
+Accept All
+You can also exercise your right to object to data processing based on legitimate interests under “Privacy Statement”.
+Privacy Statement
