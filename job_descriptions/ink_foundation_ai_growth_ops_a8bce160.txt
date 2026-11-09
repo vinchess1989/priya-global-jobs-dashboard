@@ -1,0 +1,287 @@
+Title: AI Growth Ops
+Company: Ink Foundation
+Location: South Africa
+URL: https://za.linkedin.com/jobs/view/ai-growth-ops-at-ink-foundation-4489134944
+Posted: 2026-11-10
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's background in QA, release documentation, and operational gatekeeping within a regulated environment, and it is located in a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+AI Growth Ops
+Ink Foundation  South Africa
+1 hour ago   Be among the first 25 applicants
+  
+
+See who Ink Foundation has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Building the Future of Open Finance
+
+Payward - the parent company behind Kraken, NinjaTrader, Breakout, xStocks, Payward Services and CF Benchmarks - has spent the last 15 years building one of the most modern and globally accessible financial infrastructure platforms in the industry, built to advance an open, global financial system.
+
+The team
+
+Founded in 2011, Kraken is one of the world's longest-standing crypto platforms, trusted by over 10 million individuals and institutions across the globe. It offers spot trading, margin, futures, staking, and OTC services, with products built for both individual investors and institutional clients.
+
+Growth at Kraken is being rebuilt around an AI-native platform. Instead of people manually building audiences, writing copy, adjusting budgets, and scheduling sends, agents find opportunities, make decisions, and execute across paid, organic, and lifecycle channels. They learn from every result and keep going.
+
+People still run the system. Operators use a central hub to set the rules the agents follow, review and approve what they produce, and handle exceptions when something doesn’t fit. The platform also has to work across many markets and languages, and it operates in a regulated industry, so there are compliance checks and approval steps built in.
+
+The team is a small, cross-functional group of growth, product, and engineering people who build this platform and run it day to day. We ship often, learn fast, and raise the quality bar with every release. You will work most closely with the engineers building the platform, the product team defining how operators use it, and the operators who rely on it every day. QA and operations is how the whole team knows the platform can be trusted.
+
+The opportunity
+
+You will own day-to-day operations and QA for our internal growth platform. You test it, catch problems before our customers do, keep approvals and exception queues moving, and report on how it’s performing. You will work closely with product, engineering and operators to make sure the platform works and keeps working.
+
+
+This is a hands-on, detail-focused role. You will spend your days in the product, testing what’s new, checking what should already work, and writing up what you find so it gets fixed.
+Test the platform regularly. Cover new releases, rule changes, and edge cases, and run regression checks to make sure existing features still work.
+Find bugs and document them clearly, with steps to reproduce, severity, and impact. Follow them through until engineering fixes them and you’ve verified the fix.
+Monitor platform performance and agent activity, flag anything that looks wrong, and escalate it to the right person.
+Work the approval queues daily. Keep items moving and make sure nothing is left unreviewed.
+Check agent output against defined checklists and standards, and escalate anything unclear or risky.Note where flows are confusing or inconsistent, and flag them to the team.
+Write and maintain documentation: test plans, QA checklists, runbooks, and release notes.
+
+
+What You Bring
+
+
+Experience in QA, testing, operations, support, or analytics, ideally on a software product or complex system
+Exceptional attention to detail. You notice what others miss and double-check your work.
+A structured approach to testing. You can create and follow a test plan, and think about what could break.
+Clear written communication. Your bug reports and documentation should be easy for anyone to follow.
+Comfort with data. You can read a dashboard and tell when a number looks off.
+Fast learner. You pick up new tools and systems quickly and ask thoughtful questions.
+AI-native habits. You use AI tools in your own work every day, and you’re curious about where they get things wrong.
+Prompt engineering curiosity, you don't need to be an engineer, but you are willing to learn how to communicate with AI systems precisely and improve their outputs
+Reliability. You keep to a routine, keep your queues clear, and tell people early when something is stuck.
+
+
+Nice to haves
+
+
+Experience testing software products or AI and LLM-based tools
+Familiarity with Jira, Mixpanel, or similar tools
+Exposure to marketing, CRM, or lifecycle messaging workflows
+Interest in fintech or crypto
+
+
+Unless a specific application deadline is stated in the job posting, applications are accepted on an ongoing basis.
+
+Please note, applicants are permitted to redact or remove information on their resume that identifies age, date of birth, or dates of attendance at or graduation from an educational institution.
+
+We consider qualified applicants with criminal histories for employment on our team, assessing candidates in a manner consistent with the requirements of the San Francisco Fair Chance Ordinance.
+
+Our commitment
+
+Payward is powered by people from around the world and we celebrate the diverse talents, backgrounds, contributions, and unique perspectives that everyone brings to the table. We hire based on merit, seeking out people with the right abilities, knowledge, and skills for the job. We encourage you to apply for roles where you don't fully meet the listed requirements, especially if you're passionate or knowledgeable about crypto.
+
+We may ask candidates to complete job-related skills or work-style assessments as part of our hiring process. These assessments evaluate competencies relevant to the role and are applied consistently across candidates for similar positions. Results are considered alongside experience and interviews, and are not the sole basis for any employment decision.
+
+As an equal opportunity employer, we don't tolerate discrimination or harassment of any kind, whether based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status, or any other protected characteristic as outlined by federal, state, or local laws.
+
+Stay connected
+
+Follow us on Twitter
+
+Learn on the Kraken Blog
+
+Connect on LinkedIn
+
+Candidate Privacy Notice
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Blockchain Services
+  
+
+Referrals increase your chances of interviewing at Ink Foundation by 2x
+
+See who you know
+
+Get notified about new Operational Specialist jobs in South Africa.
+
+Sign in to create job alert
+Jobs
+Customer Development Director jobs
+AI Growth Ops
+Similar jobs
+Founding Growth Marketer
+Founding Growth Marketer
+The Flex
+South Africa
+1 month ago
+Growth Specialist - GTM
+Growth Specialist - GTM
+HIREXE
+South Africa
+6 days ago
+Revenue Operations & Growth Systems Architect
+Revenue Operations & Growth Systems Architect
+Cooperidge Consulting Firm
+South Africa
+$24,000 - $144,000
+5 months ago
+AI Growth Ops
+AI Growth Ops
+Kraken
+South Africa
+2 days ago
+Churn Specialist (US) | DTC E-commerce
+Churn Specialist (US) | DTC E-commerce
+Foxelli Group
+Cape Town, Western Cape, South Africa
+2 months ago
+Operations Lead (Remote - Global) - (UK Timezone +-2 hrs)
+Operations Lead (Remote - Global) - (UK Timezone +-2 hrs)
+Pickle
+South Africa
+1 week ago
+Show more jobs like this 
+People also viewed
+CRO Content Manager, AI-First
+CRO Content Manager, AI-First
+
+Puffy
+
+City of Cape Town, Western Cape, South Africa
+3 weeks ago
+Audience Growth Specialist
+Audience Growth Specialist
+
+Prime System Solutions
+
+Cape Town, Western Cape, South Africa
+2 months ago
+Revenue Operations Manager
+Revenue Operations Manager
+
+RemoFirst
+
+South Africa
+3 months ago
+Founders Associate
+Founders Associate
+
+Jobgether
+
+South Africa
+6 days ago
+Country Manager (m/w/d)
+Country Manager (m/w/d)
+
+Gusti Leder GmbH
+
+South Africa
+2 months ago
+Implementation & Solutions Lead
+Implementation & Solutions Lead
+
+hotsourced
+
+South Africa
+4 days ago
+Head of Organic Growth, Kraken Pro
+Head of Organic Growth, Kraken Pro
+
+Kraken
+
+South Africa
+3 days ago
+Organic Growth Manager (Remote, Fourways)
+Organic Growth Manager (Remote, Fourways)
+
+Blacksmith Agency
+
+South Africa
+5 hours ago
+Organic Growth Manager (Remote, Cape Town)
+Organic Growth Manager (Remote, Cape Town)
+
+Blacksmith Agency
+
+South Africa
+1 week ago
+Organic Growth Manager (Remote, East London)
+Organic Growth Manager (Remote, East London)
+
+Blacksmith Agency
+
+South Africa
+4 days ago
+Similar Searches
+Customer Development Director jobs
+47 open jobs
+Sales Operations Specialist jobs
+58 open jobs
+Human Resources Operations Specialist jobs
+75 open jobs
+Web Content Administrator jobs
+94 open jobs
+Human Resources Generalist jobs
+154 open jobs
+Sales Operations Manager jobs
+92 open jobs
+Human Resources Specialist jobs
+117 open jobs
+Advertising Production Manager jobs
+42 open jobs
+Network Operations Technician jobs
+51 open jobs
+Data Operations Manager jobs
+39 open jobs
+Human Resources Business Partner jobs
+109 open jobs
+Operations Analyst jobs
+1,002 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

@@ -1,9 +1,9 @@
 {
   "pid": 42548,
   "started_at": "2026-11-10T01:13:07+02:00",
-  "heartbeat_at": "2026-11-10T01:36:55+02:00",
+  "heartbeat_at": "2026-11-10T01:40:51+02:00",
   "phase": "reviewing",
-  "detail": "Quality Manager - Aerospace",
-  "last_scrape_ok_at": "2026-11-10T01:35:41+02:00",
+  "detail": "AI Growth Ops",
+  "last_scrape_ok_at": "2026-11-10T01:38:58+02:00",
   "last_error": null
 }

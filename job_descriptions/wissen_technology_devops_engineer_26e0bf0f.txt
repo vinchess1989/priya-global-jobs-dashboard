@@ -1,0 +1,249 @@
+Title: Devops Engineer
+Company: Wissen Technology
+Location: Glasgow, UK
+URL: https://www.reed.co.uk/jobs/devops-engineer/57544666
+Posted: 2026-11-09
+Deadline: N/A
+Reason: The role aligns with the candidate's DevOps and configuration management expertise in a regulated environment, and the location (Glasgow, UK) is within the target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Jobs
+Courses
+Career advice
+Recruiting? Post a job
+Register CV
+Saved jobs
+Sign in
+What
+Where
+Search jobs
+Browse jobs
+Search results
+Home
+Information Technology
+Engineer
+Dev Ops Engineer
+Job details
+PromotedNew
+Devops Engineer
+Yesterday by Wissen Technology
+£50,000 - £65,000 per annum
+Glasgow, Lanarkshire
+Permanent, full-time
+Apply now
+Save
+Full job description
+
+The Wissen team continues to expand its footprint in the USA, Canada, UK, Australia, and India. More openings to come as we continue to grow the team!
+
+Please read below for a brilliant career opportunity.
+
+Senior DevOps Engineer – Data Protection Services (Cyber)
+
+Client: Tier-1 Investment Bank, Cyber Division, Data Protection Services
+
+Positions: 2
+
+Location: Glasgow, UK (client office, hybrid at manager discretion)
+
+Experience: 6+ years in infrastructure or DevOps, with at least 3 years in security or data protection tooling
+
+Role summary
+
+Hands-on DevOps engineer in the bank's Cyber Data Protection team. You will engineer, automate and scale the platforms that discover, classify and protect sensitive data across the enterprise, and onboard new data protection tools into the bank's global ecosystem.
+
+Key responsibilities
+
+Engineer and operate data scanning platforms covering file shares, SharePoint/O365, databases and cloud storage.
+Rapidly prototype and evaluate new data protection tools, and take the chosen ones through to production.
+Integrate tools with the enterprise ecosystem, including AD/LDAP, SIEM, ticketing (ServiceNow) and the CMDB.
+Automate deployment, configuration, upgrades and patching of scanning infrastructure.
+Build and maintain CI/CD pipelines for tooling and policy deployments.
+Monitor scan coverage, performance and failures, and tune the platforms for scale.
+Support DLP and classification policy rollout with the Cyber and business teams.
+Take part in design and code reviews.
+Keep all work aligned with security policy, regulatory requirements and the risk control framework.
+Share knowledge across global teams and contribute to monthly status reporting.
+
+Must-have skills
+
+Strong Windows Server and Linux administration in a large enterprise.
+Automation using Python and PowerShell.
+Configuration management and infrastructure-as-code with Ansible and/or Terraform.
+CI/CD and Git, using Jenkins, GitLab or Azure DevOps.
+Integrating systems through REST APIs, with working knowledge of AD/LDAP and service accounts.
+Understanding of data protection concepts: DLP, data discovery and classification, data at rest versus data in motion.
+Operating in a regulated environment, including change management and audit evidence.
+
+Good-to-have skills
+
+Hands-on with one or more data protection platforms: Microsoft Purview, Symantec/Broadcom DLP, BigID, Varonis, Netskope, or a classification tool such as Titus or Boldon James.
+SIEM and logging with Splunk or ELK.
+Docker and Kubernetes/OpenShift.
+Azure or AWS, particularly scanning storage and SaaS.
+Prior experience in the cyber function of a bank or other BFSI organisation.
+Certifications such as CISSP, Security+, or a vendor certification for any of the platforms above.
+
+Schedule: Monday to Friday
+
+Work Mode: Hybrid
+
+Job Type: Full-time
+
+We are: A high end technical consulting firm built and run by highly qualified technologists. Our workforce consists of 5000+ highly skilled professionals, with leadership from Wharton, MIT, IITs, IIMs, and NITs and decades of experience at Goldman Sachs, Morgan Stanley, MSCI, Deutsche Bank, Credit Suisse, Verizon, British Telecom, ISRO etc. Without any external funding or investments, Wissen Technology has grown its revenues by 100% every other year since it started as a subsidiary of Wissen Group in 2015. We have a global presence with offices in the US, India, UK, Australia, Mexico, and Canada.
+
+About Wissen Technology:
+
+The Wissen Group was founded in the year 2000. Wissen Technology, a part of Wissen Group, was established in the year 2015. Wissen Technology is a specialized technology company that delivers high-end consulting for diverse industries, including Banking, E-commerce, Telecom, Healthcare, Manufacturing, and Energy. We help clients build world-class products. We have offices in the US, India (Bangalore, Hyderabad, Chennai, Gurugram, Mumbai, Pune), UK, Australia, Mexico, Vietnam, and Canada.
+
+We empower businesses with a dynamic portfolio of services and accelerators tailored to today’s digital demands and based on future ready technology stack. Our services include Industry Leading Custom Software Development, AI-Driven Software Engineering, Generative AI & Machine Learning, Real-Time Data Analytics & Insights, Interactive Data Visualization & Decision Intelligence, Intelligent Process Automation, Multi-Cloud & Hybrid Cloud Strategies, Cross-Platform Mobile Experiences, CI/CD-Powered Agile DevOps, Automated Quality Engineering, and cutting-edge integrations.
+
+Latest in Wissen in CIO Insider:
+
+Wissen Technology: Setting New Benchmarks in Technology Consulting | CIOInsider Vendor
+
+Employee Speak:
+
+Life at Wissen Technology: Culture, Salary, Reviews, Interviews & more
+
+LinkedIn: Wissen Technology | LinkedIn
+
+About Wissen Interview Process:
+
+We work on highly complex technology projects – here is how it changes whom we hire | Wissen
+
+Wissen: A Great Place to Work
+
+Wissen is a great place to work – says the great place to work institute (india) | Wissen
+
+Here is what ownership and commitment mean to Wissenites | Wissen
+
+Wissen | Driving Digital Transformation
+
+A technology consultancy that drives digital innovation by connecting strategy and execution, helping global clients to strengthen their core technology.
+
+
+
+Share
+Hide
+Add skills to your profile and be found by recruiters.
+Create profile
+Similar Jobs
+Promoted
+Cyber Data Engineer
+20 October by FDM Group
+Salary negotiable
+Glasgow, Lanarkshire
+Permanent, full-time
+Cloud Security Analyst
+2 November by Newto Training
+£10,000 - £50,000 per annum
+United Kingdom
+Permanent, full-time or part-time
+IT Security Engineer
+5 days ago by Newto Training
+£10,000 - £50,000 per annum
+United Kingdom
+Permanent, full-time or part-time
+Easy Apply
+.NET Developer
+2 November by Noir
+£45,000 - £65,000 per annum
+Glasgow, Lanarkshire
+Permanent, full-time
+Cloud Technical Specialist - AWS / Cloud Engineering
+1 week ago by eFinancialCareers
+Competitive salary
+Glasgow, Lanarkshire
+Permanent, full-time
+Cloud Technical Specialist
+1 week ago by eFinancialCareers
+Competitive salary
+Glasgow, Lanarkshire
+Permanent, full-time
+See more jobs like this
+Not what you are looking for?Data Engineer jobs
+Reference: 57544666
+Please note that Reed.co.uk will only ask for passport or driving licence details where necessary and through official, secure channels.
+Report this job 
+Create alerts for similar jobs
+Devops Engineer
+Glasgow
+Edit
+Email address
+Create alert
+By creating an alert, you agree to the Terms and conditions applicable to our service and acknowledge that your personal data will be used in accordance with our Privacy policy and you will receive emails and communications about jobs and career related topics.
+Recommended courses
+AWS CodePipeline: DevOps CI/CD Masterclass 2023
+Online, Self-paced
+£15
+Maters in DevOps Engineer IT Program job ready | Bundle 13 Courses | Live Projects
+Online with live classes
+£3,999.99
+Mastering Jenkins CI with Amazon AWS: Build DevOps Pipeline
+Online, Self-paced
+£15
+View Software testing courses
+Posted by Wissen Technology
+View all jobs and profile
+JOBS
+Contact us
+Job search
+Recruiter directory
+Remote jobs
+Browse jobs
+Browse locations
+Popular searches
+Career advice
+Tax calculator
+Average salary checker
+Help
+Contact a REED office
+Sitemap
+RECRUITER
+Recruiter site
+Post a job
+CV Search
+Recruitment agencies
+Recruiter Advice
+COURSES
+Help
+Contact us
+Find a course
+View all subjects
+Discount courses
+Free courses
+Awarding body directory
+Career guides
+Advertise a course
+Courses sitemap
+MORE FROM Reed.co.uk
+About us
+Careers at Reed.co.uk
+Press office
+Corporate governance
+Modern slavery statement
+REED
+Tempzone: timesheets & holiday
+Authorise timesheets
+Reed Group Services
+Reed Specialist Recruitment
+Reed Learning
+Reed in Partnership
+Careers with REED
+James Reed - Official Site
+Podcast - James Reed: all about business
+ESG & sustainability
+Learn how Reed is leading the way in philanthropy
+Introducing our new podcast
+New
+
+James Reed: all about business
+
+Listen here
+Manage Preferences,Security, Privacy, Terms & Conditions
+
+COPYRIGHT © Reed.co.uk 2026
