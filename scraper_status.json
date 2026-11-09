@@ -1,9 +1,9 @@
 {
   "pid": 42548,
   "started_at": "2026-11-10T01:13:07+02:00",
-  "heartbeat_at": "2026-11-10T01:52:48+02:00",
+  "heartbeat_at": "2026-11-10T01:57:53+02:00",
   "phase": "reviewing",
-  "detail": "Quality Manager (NSW)",
-  "last_scrape_ok_at": "2026-11-10T01:51:10+02:00",
+  "detail": "Project Manager (Agile expert)",
+  "last_scrape_ok_at": "2026-11-10T01:56:25+02:00",
   "last_error": null
 }
