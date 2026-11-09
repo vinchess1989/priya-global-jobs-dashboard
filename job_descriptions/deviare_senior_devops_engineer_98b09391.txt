@@ -1,0 +1,219 @@
+Title: Senior DevOps Engineer
+Company: Deviare
+Location: South Africa
+URL: https://za.linkedin.com/jobs/view/senior-devops-engineer-at-deviare-4487409733
+Posted: 2026-11-10
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in DevOps, CI/CD pipeline ownership, and infrastructure automation within a regulated industry context.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer
+Deviare  South Africa
+1 hour ago   Be among the first 25 applicants
+  
+
+See who Deviare has hired for this role
+
+Apply
+Save
+
+Overview
+
+We are seeking a Senior DevOps Engineer with deep Kubernetes and cloud expertise to join a leading Financial Services and Insurance organisation in Johannesburg. This permanent role starts immediately and reports to the Head of Cloud & Infrastructure. The role designs, automates and operates secure, highly available platforms. It drives the infrastructure-as-code, CI/CD and observability practices that let engineering teams release software reliably and quickly.
+
+Context & Impact
+
+Financial services and insurance platforms must be highly available, secure and compliant, and outages or security weaknesses directly affect customers. This role owns the platform foundations that the engineering teams depend on. That includes running production Kubernetes clusters, building cloud infrastructure as code, and delivering CI/CD and GitOps workflows that support zero-downtime releases.
+
+The Senior DevOps Engineer also leads incident response and root-cause analysis. They embed DevSecOps controls across the platform, optimise cloud cost and performance, and support disaster recovery planning. Beyond the technical work, the role mentors engineers and builds a stronger DevOps culture across teams.
+
+Why This Role Is Exciting
+
+Production Kubernetes ownership: design, deploy and manage clusters on AKS, EKS or GKE, including Helm, operators, autoscaling and upgrades.
+Zero-downtime delivery: build and optimise CI/CD pipelines and GitOps workflows using Argo CD or Flux.
+Security by default: embed secrets management, RBAC, network policies and image scanning into the platform.
+Reliability leadership: lead incident response and root-cause analysis in a high-availability environment.
+Cost and resilience: optimise cloud cost, performance and scalability, and contribute to disaster recovery planning.
+
+What We’re Looking For
+
+The ideal candidate has at least 7 years of experience in DevOps or infrastructure engineering, including 3+ years running Kubernetes in production. They have a proven record of leading incident response in high-availability environments.
+
+Core strengths include:
+
+Kubernetes in depth: Helm, operators, ingress, autoscaling and cluster upgrades
+Strong Azure and/or AWS skills; GCP experience is an advantage
+Infrastructure-as-code with Terraform and Ansible, and GitOps with Argo CD or Flux
+CI/CD with GitHub Actions, GitLab CI, Azure DevOps or Jenkins
+Observability with Prometheus, Grafana, ELK/EFK, Datadog or similar
+Bash and Python scripting, with strong Linux and networking fundamentals
+
+The right person automates as a matter of course and stays calm under pressure during incidents. They treat security and reliability as core requirements. They are comfortable owning critical platforms end to end, mentoring other engineers and promoting good DevOps practice across teams. A Bachelor’s degree in Computer Science, Engineering or a related field is preferred, but equivalent experience is also considered. CKA/CKAD, Azure DevOps Engineer Expert, AWS DevOps Engineer Professional or HashiCorp Terraform Associate certification is an advantage.
+
+How to apply
+
+Apply at https://talent.deviare.africa
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Internship
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Deviare by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in South Africa.
+
+Sign in to create job alert
+Jobs
+Full Stack Engineer jobs
+Senior DevOps Engineer
+Similar jobs
+Senior AWS DevOps Engineer
+Senior AWS DevOps Engineer
+RELX
+Western Cape, South Africa
+3 months ago
+Senior AWS DevOps Engineer
+Senior AWS DevOps Engineer
+LexisNexis
+City of Cape Town, Western Cape, South Africa
+3 weeks ago
+Senior AWS DevOps Engineer
+Senior AWS DevOps Engineer
+LexisNexis
+Western Cape, South Africa
+3 months ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Confluence
+Cape Town, Western Cape, South Africa
+1 week ago
+Senior Cloud DevOps Engineer
+Senior Cloud DevOps Engineer
+Ikue
+South Africa
+10 months ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Upstream
+Johannesburg, Gauteng, South Africa
+1 week ago
+Show more jobs like this 
+People also viewed
+Site Reliability Engineer (SRE)
+Site Reliability Engineer (SRE)
+
+Impronics Digitech
+
+Johannesburg, Gauteng, South Africa
+1 year ago
+Azure Cloud Engineer L3
+Azure Cloud Engineer L3
+
+NTT DATA, Inc.
+
+Cape Town, Western Cape, South Africa
+1 week ago
+Senior AWS Cloud Consultant - NM
+Senior AWS Cloud Consultant - NM
+
+DVT
+
+South Africa
+1 month ago
+Cloud & Infrastructure Engineer (Senior)
+Cloud & Infrastructure Engineer (Senior)
+
+Parvana
+
+Cape Town, Western Cape, South Africa
+3 days ago
+Sr. Staff Platform Operations Engineer (with OpenStack)
+Sr. Staff Platform Operations Engineer (with OpenStack)
+
+Cloudera
+
+South Africa
+2 weeks ago
+Senior AI Compute Infrastructure Engineer
+Senior AI Compute Infrastructure Engineer
+
+Kraken
+
+South Africa
+4 days ago
+Application Developer - DevOps
+Application Developer - DevOps
+
+Blue Pearl HQ
+
+Johannesburg, Gauteng, South Africa
+1 week ago
+Azure Cloud Expert Engineer
+Azure Cloud Expert Engineer
+
+Cloud Direct
+
+City of Cape Town, Western Cape, South Africa
+6 days ago
+Senior AI Compute Infrastructure Engineer
+Senior AI Compute Infrastructure Engineer
+
+Ink Foundation
+
+South Africa
+1 hour ago
+Cloud Engineer
+Cloud Engineer
+
+Acuity Consultants
+
+City of Cape Town, Western Cape, South Africa
+1 week ago
+Similar Searches
+Full Stack Engineer jobs
+162 open jobs
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
