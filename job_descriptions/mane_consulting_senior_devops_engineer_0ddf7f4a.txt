@@ -1,0 +1,80 @@
+Title: Senior DevOps Engineer
+Company: Mane Consulting
+Location: Melbourne, VIC, Australia
+URL: https://au.jora.com/job/DevOps-Engineer-49569d54c030e353d88f2fdf36ec1683
+Posted: 22h ago
+Deadline: N/A
+Reason: The role aligns with the candidate's DevOps and CI/CD expertise, is located in an eligible country (Australia), and does not trigger any hard rejections.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Search
+Sign in
+What
+Where
+Search jobs
+Senior DevOps Engineer
+Mane Consulting
+–
+Melbourne VIC
+Contract
+22h ago, from Mane Consulting
+Apply on company site
+
+Be part of a team that’s not just improving processes but redefining the future. This is more than a role; it’s a chance to be at the forefront of a transformative initiative that will reshape the technology landscape. This is a key role in a multi-disciplinary team driving the bank’s transition from a legacy Hadoop/Cloudera platform to a modern AWS-based data platform. You’ll work closely with data engineers, architects, and cloud specialists to support scalable, secure, and automated infrastructure.
+
+? Key Responsibilities
+
+Manage, maintain, and evolve cloud infrastructure on AWS
+Develop and maintain CI/CD pipelines for automated deployment and testing
+Build and support Infrastructure as Code (IaC) using Terraform or CloudFormation
+Collaborate with the Data Engineering team to support data pipeline delivery
+Assist in the migration from Cloudera/Hadoop to AWS-native services (e.g., S3, EMR, Glue, Redshift, Lambda)
+Implement monitoring, logging, and alerting across the cloud environment
+Support platform security, compliance, and cost optimisation in line with financial services standards
+Troubleshoot and resolve infrastructure and deployment issues across dev, test, and prod environments
+
+Your Skills & Experience
+
+Proven experience as a DevOps Engineer or Cloud Engineer in enterprise environments
+Hands-on experience with AWS services (e.g., EC2, S3, Lambda, EMR, Glue, CloudWatch, IAM, VPC)
+Strong scripting skills (e.g., Python, Bash)
+Experience with CI/CD tools (Jenkins, GitLab CI/CD, AWS CodePipeline, etc.)
+Proficiency in IaC tools – Terraform preferred
+Experience supporting big data platforms or working with data engineering teams
+Exposure to Hadoop/Cloudera environments and understanding of migration challenges
+Familiarity with cloud security and compliance in the banking/financial sector is highly desirable
+
+For more information on this role or others like this in the market apply below or contact ***************@mane.com.au
+
+Apply on company site
+Be careful - Don’t provide your bank or credit card details when applying for jobs. Don't transfer any money or complete suspicious online surveys. If you see something suspicious, report this job ad.
+Email to yourself or a friend
+Email job
+Discover Jora
+Browse jobs
+Browse salaries
+Find recruiter
+About
+FAQ
+Blog
+Reviews
+Browse Jobs in Australia
+Jobs in Sydney
+Jobs in Melbourne
+Jobs in Hobart
+Jobs in Brisbane
+Jobs in Perth
+Jobs in Darwin
+Jobs in Adelaide
+Connect with us
+TikTok
+Facebook
+Linkedin
+Get Jora app
+Contact us
+Privacy
+Terms & Conditions
+©2026 Job Seeker Pty Ltd

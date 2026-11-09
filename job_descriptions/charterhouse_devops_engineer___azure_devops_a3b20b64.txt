@@ -1,0 +1,90 @@
+Title: DevOps Engineer | Azure DevOps & JFrog Artifactory
+Company: Charterhouse
+Location: Sydney or Melbourne, Australia
+URL: https://au.jora.com/job/DevOps-Engineer-a2c973f132ab48da3ff4b5c1ee30d3fb
+Posted: 10h ago
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in DevOps, CI/CD pipeline management, and configuration management, and it is located in Australia, which is a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Search
+Sign in
+What
+Where
+Search jobs
+DevOps Engineer | Azure DevOps & JFrog Artifactory
+Charterhouse
+–
+Sydney CBD NSW
+Contract, Casual/Temporary
+10h ago, from seek.com.au
+Apply on company site
+
+
+I'm recruiting an experienced DevOps Engineer supporting a major banking client on a business-critical DevOps platform initiative.
+
+Sydney or Melbourne
+
+This is a hands-on engineering role focused on Azure DevOps, JFrog Artifactory, Xray and CI/CD automation, with a strong emphasis on implementation, configuration and technical delivery.
+
+You'll work within an established engineering team, alongside a Technical Lead who will provide the technical specifications and direction.
+
+Key Responsibilities
+
+Build, configure and maintain CI/CD pipelines using Azure DevOps, including YAML pipelines and deployment automation.
+Configure and support JFrog Artifactory repositories, permissions, service accounts and artifact management.
+Implement and support JFrog Xray vulnerability scanning, policies and security controls.
+Implement established DevSecOps patterns within CI/CD pipelines.
+Automate platform configuration, provisioning and operational activities using scripting.
+Support artifact migration, repository configuration and integration across environments.
+Troubleshoot CI/CD pipelines, authentication, permissions and deployment issues.
+Work closely with the Technical Lead, internal engineering teams and JFrog product specialists.
+Support platform upgrades, production releases, testing and operational stability.
+Skills & Experience
+Around 5+ years of relevant hands-on DevOps or CI/CD engineering experience. Practical capability matters more than years of experience.
+Strong hands-on Azure DevOps experience, particularly CI/CD pipeline development, configuration and automation.
+Practical JFrog Artifactory experience, including repository management, configuration or integration.
+Experience with JFrog Xray and vulnerability scanning within CI/CD environments.
+Experience implementing DevSecOps practices and security controls.
+Good scripting skills using PowerShell, Python or Bash.
+Understanding of authentication, RBAC, permissions, service accounts and secure deployment practices.
+Experience with Jenkins, observability tools or regulated enterprise environments would be advantageous.
+
+Interested? If you're a hands-on DevOps Engineer with Azure DevOps and JFrog experience, I'd love to hear from you.
+
+I've been directly briefed by the hiring manager and know exactly what the team is looking for, so I'm happy to share further details about the opportunity.
+
+Apply directly or get in touch for a confidential discussion : ********@charterhouse.com.au
+
+Apply on company site
+Be careful - Don’t provide your bank or credit card details when applying for jobs. Don't transfer any money or complete suspicious online surveys. If you see something suspicious, report this job ad.
+Email to yourself or a friend
+Email job
+Discover Jora
+Browse jobs
+Browse salaries
+Find recruiter
+About
+FAQ
+Blog
+Reviews
+Browse Jobs in Australia
+Jobs in Sydney
+Jobs in Melbourne
+Jobs in Hobart
+Jobs in Brisbane
+Jobs in Perth
+Jobs in Darwin
+Jobs in Adelaide
+Connect with us
+TikTok
+Facebook
+Linkedin
+Get Jora app
+Contact us
+Privacy
+Terms & Conditions
+©2026 Job Seeker Pty Ltd
