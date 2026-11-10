@@ -1,9 +1,9 @@
 {
   "pid": 42548,
   "started_at": "2026-11-10T01:13:07+02:00",
-  "heartbeat_at": "2026-11-10T02:17:20+02:00",
+  "heartbeat_at": "2026-11-10T02:20:16+02:00",
   "phase": "reviewing",
-  "detail": "EA ERP Finance and PPM-Fusion Finance -Manager",
-  "last_scrape_ok_at": "2026-11-10T02:16:13+02:00",
+  "detail": "Quality Manager",
+  "last_scrape_ok_at": "2026-11-10T02:19:10+02:00",
   "last_error": null
 }
