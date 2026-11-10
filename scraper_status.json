@@ -1,9 +1,9 @@
 {
   "pid": 42548,
   "started_at": "2026-11-10T01:13:07+02:00",
-  "heartbeat_at": "2026-11-10T02:23:07+02:00",
+  "heartbeat_at": "2026-11-10T02:25:39+02:00",
   "phase": "reviewing",
-  "detail": "Legal Technical Content Support",
-  "last_scrape_ok_at": "2026-11-10T02:21:32+02:00",
+  "detail": "R&D Product Specialist",
+  "last_scrape_ok_at": "2026-11-10T02:24:25+02:00",
   "last_error": null
 }
