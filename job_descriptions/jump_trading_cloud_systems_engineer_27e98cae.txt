@@ -1,0 +1,218 @@
+Title: Cloud Systems Engineer
+Company: Jump Trading
+Location: Central & Western District, Hong Kong SAR
+URL: https://hk.linkedin.com/jobs/view/cloud-systems-engineer-at-jump-trading-4487458551
+Posted: 2026-11-11
+Deadline: Open until filled
+Reason: The role aligns with the candidate's DevOps and infrastructure engineering background, and it is located in a target country (Hong Kong) with no explicit visa restrictions mentioned.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Cloud Systems Engineer
+Jump Trading  Central & Western District, Hong Kong SAR
+15 hours ago   Be among the first 25 applicants
+  
+
+See who Jump Trading has hired for this role
+
+Apply 
+Save
+Jump Trading Group is committed to world class research. We empower exceptional talents in Mathematics, Physics, and Computer Science to seek scientific boundaries, push through them, and apply cutting edge research to global financial markets. Our culture is unique. Constant innovation requires fearlessness, creativity, intellectual honesty, and a relentless competitive streak. We believe in winning together and unlocking unique individual talent by incenting collaboration and mutual respect.
+
+At Jump, research outcomes drive more than superior risk adjusted returns. We design, develop, and deploy technologies that change our world, fund start-ups across industries, and partner with leading global research organizations and universities to solve problems. We are building a small, high-impact team to design and run infrastructure that operates outside Jump's primary environment. This is a broad remit: cloud, production systems, and HPC-style workloads all fall within scope, with sound security practices built in throughout. We are looking for a true generalist who can design systems from the ground up, operate them with little direction, and dig deep when things break.
+
+What you’ll do:
+
+
+Design, build, and maintain cloud infrastructure that operates independently of Jump's on-premises environment.
+Architect resilient, reliable systems, with security considered as part of good design from the start.
+Build independent infrastructure and controls that strengthen Jump's overall resilience.
+Support production and HPC-style compute workloads in the cloud, including provisioning, scaling, performance, and cost.
+Own a wide range of systems end to end, from networking and identity to compute, storage, and monitoring.
+Lead root cause analysis on incidents until the true cause is found and fixed.
+Improve monitoring, logging, and alerting so problems are detected and resolved quickly.
+Apply infrastructure security best practices, including access management, secrets management, server hardening, and audit logging.
+Pivot quickly to whatever needs fixing across the infrastructure, balancing competing priorities with minimal oversight.
+Work with a globally distributed team to maintain high availability.
+Other duties as assigned or needed.
+
+
+Skills you’ll need:
+
+
+Broad, hands-on experience as an infrastructure generalist, such as Linux administration, DevOps, systems engineering, or SRE.
+Deep understanding of Linux internals and networking fundamentals, including TCP/IP, DNS, TLS, HTTP, routing, and load balancing.
+Strong experience with at least one major cloud provider (AWS, GCP, or Azure), including networking, IAM, and compute services.
+Working knowledge of infrastructure security fundamentals, such as IAM, secrets management, system hardening, and logging/audit.
+A proven track record of troubleshooting complex systems and driving root cause analysis across multiple layers of the stack.
+Experience designing and architecting systems, not just operating them.
+Experience with infrastructure-as-code and configuration management tools such as Terraform, Ansible, or Salt.
+Experience with monitoring and alerting tools such as Prometheus, Alertmanager, or Grafana.
+Proficiency in Bash and Python scripting. Deep software engineering experience is not required.
+Comfort working in a flat, fast-paced team.
+Reliable and predictable availability.
+
+
+Bonus points:
+
+
+Exposure to HPC environments or large-scale compute clusters.
+Experience with Kubernetes and containerized workloads.
+Experience with bare-metal and hybrid infrastructure.
+Additional depth in security, such as incident response or secure architecture design.
+Experience in trading, financial services, or other high-availability environments.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Technology, Information and Internet
+  
+
+Referrals increase your chances of interviewing at Jump Trading by 2x
+
+See who you know
+
+Get notified about new System Engineer jobs in Central & Western District, Hong Kong SAR.
+
+Sign in to create job alert
+Similar jobs
+System Engineer / System Administrator
+System Engineer / System Administrator
+Sportshouse Limited
+Hong Kong SAR
+3 days ago
+Systems Engineer
+Systems Engineer
+Hong Kong International School
+Southern District, Hong Kong SAR
+4 days ago
+Linux System Engineer
+Linux System Engineer
+Hactl - Hong Kong Air Cargo Terminals Limited
+Hong Kong SAR
+1 month ago
+AliCloud Engineer
+AliCloud Engineer
+ConnectedGroup
+Hong Kong, Hong Kong SAR
+1 week ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+SearchApi
+Hong Kong, Hong Kong SAR
+4 months ago
+Cloud Engineer
+Cloud Engineer
+TEKsystems
+Central, Hong Kong SAR
+5 days ago
+Show more jobs like this 
+People also viewed
+Manager, Platform Engineering
+Manager, Platform Engineering
+
+Bupa Hong Kong
+
+Hong Kong, Hong Kong SAR
+2 weeks ago
+Cloud Engineer (AWS Infrastructure & Compute Architect)
+Cloud Engineer (AWS Infrastructure & Compute Architect)
+
+Selby Jennings
+
+Hong Kong, Hong Kong SAR
+1 week ago
+(Senior) System Administration Manager (Cloud)
+(Senior) System Administration Manager (Cloud)
+
+Bank of China (Hong Kong)
+
+Hong Kong SAR
+4 months ago
+[LPS] Senior System Specialist (Kubernetes)
+[LPS] Senior System Specialist (Kubernetes)
+
+LPS
+
+Hong Kong, Hong Kong SAR
+1 day ago
+System Engineer - Associate - Critical Services Engineering - IT
+System Engineer - Associate - Critical Services Engineering - IT
+
+Hong Kong Exchanges and Clearing Limited (HKEX)
+
+Hong Kong, Hong Kong SAR
+1 day ago
+Technology Infrastructure Specialist
+Technology Infrastructure Specialist
+
+OCBC
+
+Hong Kong SAR
+8 hours ago
+Infra DevOps Engineer
+Infra DevOps Engineer
+
+BIT Official
+
+Hong Kong, Hong Kong SAR
+1 week ago
+REMOTE: Lead Infrastructure / SRE Engineer | AWS
+REMOTE: Lead Infrastructure / SRE Engineer | AWS
+
+BAH Partners
+
+Hong Kong SAR
+2 weeks ago
+Senior Officer, Infrastructure & Service Management
+Senior Officer, Infrastructure & Service Management
+
+Prudential Hong Kong
+
+Hong Kong, Hong Kong SAR
+19 hours ago
+Trading Systems Devops Engineer
+Trading Systems Devops Engineer
+
+Susquehanna International Group
+
+Hong Kong, Hong Kong SAR
+2 weeks ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
