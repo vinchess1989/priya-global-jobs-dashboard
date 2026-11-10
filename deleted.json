@@ -24835,5 +24835,39 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": null,
     "deletion_reason": "Deadline (2026-11-08) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Customer Billing Establishment Lead",
+    "company": "Tiaki Wai",
+    "location": "Wellington, Wellington, New Zealand",
+    "url": "https://nz.linkedin.com/jobs/view/customer-billing-establishment-lead-at-tiaki-wai-4489166835",
+    "visited": "yes",
+    "matches_requirements": "maybe",
+    "reason": "The role aligns with her experience in operational readiness, testing, and process transformation, but it is a business-transformation lead role rather than a direct technical release or configuration management position.",
+    "id": "cd2a56df",
+    "source": "linkedin_nz_requirements_manager",
+    "added_at": "2026-11-10T02:20:54+02:00",
+    "posted_date": "2026-11-10",
+    "deadline": "2025-11-25",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Deadline (2025-11-25) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Senior Product Lead - 2x Roles",
+    "company": "Kiwibank",
+    "location": "Wellington, Wellington, New Zealand",
+    "url": "https://nz.linkedin.com/jobs/view/senior-product-lead-2x-roles-at-kiwibank-4486334219",
+    "visited": "yes",
+    "matches_requirements": "maybe",
+    "reason": "The role aligns with her requirements engineering and product-specialist experience, but it is a product-management-focused role rather than a technical-release or quality-gatekeeping role, and it does not explicitly mention visa sponsorship.",
+    "id": "1a175c6b",
+    "source": "linkedin_nz_requirements_manager",
+    "added_at": "2026-11-10T02:20:54+02:00",
+    "posted_date": "2026-11-05",
+    "deadline": "2025-11-22",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Deadline (2025-11-22) passed by more than 2 days and unreviewed"
   }
 ]
