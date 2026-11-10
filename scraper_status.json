@@ -1,9 +1,9 @@
 {
   "pid": 42548,
   "started_at": "2026-11-10T01:13:07+02:00",
-  "heartbeat_at": "2026-11-10T02:04:45+02:00",
+  "heartbeat_at": "2026-11-10T02:10:57+02:00",
   "phase": "reviewing",
-  "detail": "Business Systems Analyst - Guidewire",
-  "last_scrape_ok_at": "2026-11-10T02:02:59+02:00",
+  "detail": "Quality Assurance Manager",
+  "last_scrape_ok_at": "2026-11-10T02:09:41+02:00",
   "last_error": null
 }
