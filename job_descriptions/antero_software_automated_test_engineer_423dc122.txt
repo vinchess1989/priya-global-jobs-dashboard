@@ -1,0 +1,280 @@
+Title: Automated Test Engineer
+Company: Antero Software
+Location: Brisbane, Queensland, Australia
+URL: https://au.linkedin.com/jobs/view/automated-test-engineer-at-antero-software-4431087809
+Posted: 2026-07-14
+Deadline: Open until filled
+Reason: The role aligns with the candidate's expertise in CI/CD, quality engineering, and technical documentation, and it is located in an eligible country without explicit visa restrictions.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Automated Test Engineer
+Antero Software  Brisbane, Queensland, Australia
+4 months ago  106 applicants
+  
+
+See who Antero Software has hired for this role
+
+Apply 
+Save
+Location: Fortitude Valley (Brisbane) / Hybrid
+
+Position Description
+
+Role Overview
+
+As a Test Automation Engineer at Antero, you will play a crucial role in building SaaS products and supporting bespoke software for our clients. Reporting to the CTO, you will sit within our technology team here in Brisbane at our Fortitude Valley office, collaborating with developers, product owners, and our QA team to give us the confidence to release across our growing array of code bases.
+
+The key to success in this role is a genuine passion for quality, clean, well-tested code, meaningful coverage, and automation that lets the whole team ship without fear. You will define and champion the “Antero way” of testing: the standards, patterns, and practices that make our test suites something the team trusts and acts on.
+
+Core Competencies
+
+
+A software development background with the ability to design, write, and maintain automated test suites across the front end and back end.
+A passion for quality code, test coverage, and automation, with the judgement to know what is worth testing and how.
+Ability to translate testing best practice into clear, repeatable standards, and to mentor and upskill others in applying them.
+An aptitude for understanding and interpreting the logic and process that sits behind data driven technology systems and testing the parameters they should operate within.
+
+
+Key Responsibilities
+
+
+Release Confidence Across Our Code Bases:
+Defining the “Antero Way” of Testing:
+Establish and document testing standards, patterns, and conventions for our projects.
+Define what good coverage looks like at each layer of the stack, and embed these standards into our day-to-day development workflow.
+Upskilling and Mentoring the QA Team:
+Work alongside our technical QA team to grow their automation and software development capability.
+Run training, pairing, and review sessions that lift the team’s confidence in writing and maintaining automated tests.
+Tooling and CI/CD Integration:
+Build and maintain automated tests across TypeScript, React, Jest, React Testing Library, and Playwright. Apply the same rigour across PHP, Laravel, PHPUnit, and Docker.
+Integrate automated testing into our CI/CD pipelines (Buddy and GitHub) so tests run reliably as part of every change.
+Keep test suites fast, stable, and trustworthy, so results are believed and acted on rather than ignored.
+Communication and Documentation:
+Document standards and present them clearly to the wider technology team.
+Communicate coverage, gaps, and quality risks to developers, product owners, and the CTO using Jira and Confluence.
+Quality Assurance Methodology and Best Practices:
+Contribute to and continuously improve Antero’s quality engineering methodology and best-practice framework.
+Stay ahead of industry trends in test automation and bring better ways of working back to the team.
+
+A Little About Us
+
+Antero is a SaaS product and bespoke software provider which is part of the Flip Group, including weareflip our creative agency partner, and Khemistry, our behaviour change partner. Antero develops its own SaaS products specific to FinTech and financial markets in addition to providing software consultation and bespoke software development for our clients. Our flagship product Incept is used by several Asset Finance companies within Australia providing a FinTech platform in a box to accelerate loan origination, credit decisioning, settlements, doc gen, etc.
+
+Our Workplace
+
+
+we have a development team alongside a highly talented creative team, keeping the work interesting and of incredible quality
+we have a hybrid work from home policy usually 3 or 2 days in the office, but we are flexible
+we offer training opportunities for staff who are interested in upskilling
+we’re a genuinely good bunch of folks with an interest in high quality results
+we’re growing year on year
+our office is a plant-filled oasis with amazing food and coffee a stone’s throw away
+this is the place to do good work and learn new things
+
+
+What else can I expect from this role?
+
+In addition to the core responsibilities, the Test Automation Engineer may engage in performance and load testing to evaluate the scalability and responsiveness of our platforms, analysing results and recommending improvements. You may help shape how we use AI tooling such as Claude to write, review, and accelerate testing, and continuously identify and implement process improvements while staying updated with industry trends. As the most senior testing voice in the team, you will mentor QA team members and lead training sessions on new tools, techniques, and standards.
+
+How do I know if I qualify for this role?
+
+Capability in this role will be measured through the following activities:
+
+
+Demonstrating hands-on experience designing, building, and maintaining automated test suites across a modern web stack.
+Showcasing a software development background, including familiarity with TypeScript/React and PHP/Laravel ecosystems, developer tooling, and CI/CD pipelines.
+Writing or reviewing automated tests for a given feature, explaining your coverage decisions and the trade-offs behind them.
+Walking us through how you would introduce and document a testing standard, and how you would bring an existing team along with you.
+
+
+If this sounds like your kind of place the next steps for you to follow are:
+
+
+email a copy of your CV / Portfolio / GoPro video to careers@antero.com.au
+within a few days you’ll receive a tech test which helps us to better understand your skill level and where you’ll fit in the team
+for those who successfully complete the tech test you will receive an interview where we can discuss your results and where you might fit within our team
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Information Technology & Services
+  
+
+Referrals increase your chances of interviewing at Antero Software by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+System Test Engineer jobs
+Automated Test Engineer
+Similar jobs
+Software Test Engineer
+Software Test Engineer
+Rheinmetall
+Brisbane, Queensland, Australia
+2 weeks ago
+Test Engineer
+Test Engineer
+Compare the Market Australia
+Brisbane, Queensland, Australia
+4 days ago
+Software Test Engineer
+Software Test Engineer
+BiVACOR
+Gold Coast, Queensland, Australia
+A$75,000 - A$85,000
+4 weeks ago
+Test Automation Engineer
+Test Automation Engineer
+RPMGlobal
+Brisbane, Queensland, Australia
+1 day ago
+Test Automation Engineer
+Test Automation Engineer
+Nitro Solutions Pty Ltd (Acquired by RPMGlobal)
+Brisbane, Queensland, Australia
+19 hours ago
+Senior Test Engineer
+Senior Test Engineer
+Tabcorp
+Brisbane, Queensland, Australia
+1 week ago
+Show more jobs like this 
+People also viewed
+Support Engineer - Automation Systems
+Support Engineer - Automation Systems
+
+Saunders
+
+Greater Brisbane Area
+2 weeks ago
+Technical Analyst, Sparked Digital Health
+Technical Analyst, Sparked Digital Health
+
+CSIRO
+
+Brisbane, Queensland, Australia
+1 week ago
+Adviser Data and Testing
+Adviser Data and Testing
+
+Rio Tinto
+
+Brisbane, Queensland, Australia
+5 days ago
+Engineer - SRE
+Engineer - SRE
+
+Xero
+
+Brisbane, Queensland, Australia
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+LPA
+
+Brisbane, Queensland, Australia
+2 weeks ago
+Automation API Test Engineer
+Automation API Test Engineer
+
+Talent
+
+Brisbane, Queensland, Australia
+1 week ago
+Quality Engineer - Automated Warehousing / DC
+Quality Engineer - Automated Warehousing / DC
+
+Dematic
+
+Acacia Ridge, Queensland, Australia
+1 week ago
+Test & Evaluation Engineering Services
+Test & Evaluation Engineering Services
+
+Amentum
+
+Brisbane, Queensland, Australia
+4 days ago
+Associate Cloud Engineer
+Associate Cloud Engineer
+
+Slalom
+
+Brisbane, Queensland, Australia
+2 weeks ago
+Automation Specialist
+Automation Specialist
+
+Primo Foods
+
+Greater Brisbane Area
+2 weeks ago
+Similar Searches
+System Test Engineer jobs
+4,254 open jobs
+Network Test Engineer jobs
+4,162 open jobs
+Electrical Test Engineer jobs
+426 open jobs
+Senior Software Tester jobs
+637 open jobs
+Software Test Engineer jobs
+213 open jobs
+Drive Test Engineer jobs
+38 open jobs
+Validation Engineer jobs
+4,435 open jobs
+Senior Test Engineer jobs
+312 open jobs
+Junior Test Engineer jobs
+152 open jobs
+Principal Test Engineer jobs
+682 open jobs
+Automotive Engineer jobs
+268 open jobs
+Performance Test Engineer jobs
+84 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
