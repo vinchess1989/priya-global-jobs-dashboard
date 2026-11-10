@@ -1,0 +1,325 @@
+Title: Senior Manager, Release and Deployment - Credit
+Company: TD
+Location: Toronto, Ontario, Canada
+URL: https://ca.linkedin.com/jobs/view/senior-manager-release-and-deployment-credit-at-td-4489173304
+Posted: 2026-11-11
+Deadline: Open until filled
+Reason: The role is a perfect match for her extensive experience in release management, CI/CD, and governance within highly regulated environments, and it is located in a target country (Canada).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Manager, Release and Deployment - Credit
+TD  Toronto, Ontario, Canada
+18 hours ago  27 applicants
+  
+
+See who TD has hired for this role
+
+Apply 
+Save
+Work Location:
+
+Toronto, Ontario, Canada
+
+Hours
+
+37.5
+
+Line Of Business
+
+Technology Solutions
+
+Pay Details
+
+$115,600 - $163,200 CAD
+
+TD is committed to providing fair and equitable compensation opportunities to all colleagues. Growth opportunities and skill development are defining features of the colleague experience at TD. Our compensation policies and practices have been designed to allow colleagues to progress through the salary range over time as they progress in their role. The base pay actually offered may vary based upon the candidate's skills and experience, job-related knowledge, geographic location, and other specific business and organizational needs.
+
+As a candidate, you are encouraged to ask compensation related questions and have an open dialogue with your recruiter who can provide you more specific details for this role.
+
+Job Description
+
+TD is seeking a Senior Manager, Release & Deployment to lead how technology change is planned, governed, and safely deployed across the Credit Platform. Reporting to the AVP, Platform Technology, you will lead a team of release and deployment professionals and work across Cards, Lending, Lines of Credit, Origination, Servicing, Loyalty, Product and Pricing, and shared enterprise services.
+
+You will bring together business priorities, product roadmaps, engineering delivery, quality assurance, environments, infrastructure, cybersecurity, operations, and external partners to deliver reliable releases. This role is ideal for a senior technology leader who combines strong delivery discipline, production judgment, people leadership, and a passion for automation and continuous improvement.
+
+What You Will Do
+
+
+Own the integrated release and deployment strategy and calendar for the Credit Platform, balancing delivery pace with customer outcomes, operational stability, regulatory commitments, and technology risk.
+Lead complex, multi-platform release planning across business, product, engineering, quality engineering, infrastructure, security, operations, enterprise services, and third-party providers.
+Oversee production implementation planning, cutover, command-centre execution, validation, recovery, stabilization, and operational handover.
+Establish risk-based readiness criteria, governance, evidence requirements, decision points, and escalation paths for releases of varying size and complexity.
+Provide objective challenge and recommend go, conditional-go, no-go, postponement, rollback, recovery, or escalation decisions to the accountable authority.
+Lead response and follow-up for release-related incidents, failed deployments, root-cause reviews, and corrective actions.
+Advance CI/CD, deployment automation, automated validation, observability, evidence capture, and release tooling to reduce manual effort and failure risk.
+Lead, coach, and develop a high-performing team; set clear objectives, manage performance and capacity, and build succession and critical skills.
+Manage applicable vendors, contractors, professional services, tooling, and operating expenses.
+Communicate release confidence, risks, options, decisions, and production outcomes clearly to senior business and technology leaders.
+
+
+What You Bring
+
+
+An undergraduate degree, college diploma, or equivalent experience in technology, engineering, information systems, business, or a related discipline.
+Typically 10 or more years of progressive experience in technology delivery, release management, deployment management, program delivery, or production operations.
+Five or more years leading complex, multi-system releases or production deployments and three or more years of formal people leadership.
+Experience in banking, financial services, or another large, complex, highly regulated environment.
+Strong knowledge of SDLC, Agile, DevOps, IT service management, change enablement, production operations, and operational readiness.
+Demonstrated experience with implementation planning, deployment execution, rollback or recovery, production validation, and stabilization.
+Proven ability to manage cross-platform dependencies, delivery risk, third-party partners, and high-visibility executive escalations.
+Excellent executive communication, facilitation, influence, and decision-support skills.
+
+
+Assets
+
+
+Experience with credit cards, lending, lines of credit, origination, servicing, loyalty, product and pricing, or related banking platforms.
+Experience across mainframe, distributed, cloud, SaaS, packaged, vendor, and hybrid technology environments.
+Familiarity with Azure DevOps, GitLab, Jenkins, ServiceNow, IBM UrbanCode Deploy, or comparable tools.
+Experience with infrastructure-as-code, automated testing, observability, progressive deployment, automated controls, or operational resilience.
+ITIL, SAFe, PMP, Scrum, DevOps, AWS, Microsoft Azure, or comparable certification.
+
+
+How Success Will Be Measured
+
+
+Safe, predictable releases with strong schedule adherence and transparent risk management.
+Improved deployment success and post-release stability, with fewer release-related incidents, failures, and rollbacks.
+Increased automation across deployments, validation, controls, and reporting.
+Strong control compliance, audit readiness, and sustainable remediation of issues.
+A capable, engaged team with effective succession, development, and capacity planning.
+High stakeholder confidence in release readiness, decision quality, and executive communication.
+
+
+Leadership Profile
+
+You are a calm, credible, and outcomes-focused technology leader. You use evidence to make risk-based decisions, create clarity in complex environments, and build alignment across business and technology partners. You develop people, encourage constructive challenge, and improve the system rather than treating each release as a standalone event.
+
+The Impact
+
+You will help the Credit Platform deliver customer and business change at pace while protecting production stability, operational resilience, regulatory commitments, and TD’s risk and control objectives.
+
+Who We Are
+
+TD is one of the world's leading global financial institutions and is the fifth largest bank in North America by branches/stores. Every day, we strive to make every interaction, product, and experience remarkably human and refreshingly simple for over 27 million households and businesses in Canada, the United States and around the world. More than 95,000 TD colleagues bring their skills, talent, and creativity to foster deeper relationships, ensure disciplined execution, and build a simpler, faster banking experience. TD is deeply committed to being a leader in client experience, that is why we believe that all colleagues, no matter where they work, are client facing. Together, we are reimagining what banking can be for our clients, colleagues and communities.
+
+Our Total Rewards Package
+
+Our Total Rewards package reflects the investments we make in our colleagues to help them and their families achieve their financial, physical, and mental well-being goals. Total Rewards at TD includes a base salary, variable compensation, and several other key plans such as health and well-being benefits, savings and retirement programs, paid time off, banking benefits and discounts, career development, and reward and recognition programs. Learn more
+
+Additional Information
+
+We’re delighted that you’re considering building a career with TD. Through regular development conversations, training programs, and a competitive benefits plan, we’re committed to providing the support our colleagues need to thrive both at work and at home.
+
+Please be advised that this job opportunity is subject to provincial regulation for employment purposes. It is imperative to acknowledge that each province or territory within the jurisdiction of Canada may have its own set of regulations, requirements.
+
+Colleague Development
+
+If you’re interested in a specific career path or are looking to build certain skills, we want to help you succeed. You’ll have regular career, development, and performance conversations with your manager, as well as access to an online learning platform and a variety of mentoring programs to help you unlock future opportunities.
+
+If you’re passionate about helping clients and building deep, lasting relationships, TD offers diverse career paths where you can grow your expertise and make a meaningful impact.
+
+We're committed to your success and foster a respectful workplace where diverse perspectives are valued, everyone has fair opportunities to grow, and you can unlock your full potential to achieve your career goals. Here at TD, we hire and develop the best.
+
+Training & Onboarding
+
+We will provide training and onboarding sessions to ensure that you’ve got everything you need to succeed in your new role.
+
+Interview Process
+
+We’ll reach out to candidates of interest to schedule an interview. We do our best to communicate outcomes to all applicants by email or phone call.
+
+Accommodation
+
+Your accessibility is important to us. Please let us know if you’d like accommodations (including accessible meeting rooms, captioning for virtual interviews, etc.) to help us remove barriers so that you can participate throughout the interview process.
+
+We look forward to hearing from you!
+
+Language Requirement (Quebec Only)
+
+Sans Objet
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Banking
+  
+
+Referrals increase your chances of interviewing at TD by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Senior Treasury Manager jobs
+Senior Manager, Release and Deployment - Credit
+Similar jobs
+Senior Manager, Counterparty Credit Risk Analytics
+Senior Manager, Counterparty Credit Risk Analytics
+BMO
+Toronto, Ontario, Canada
+3 weeks ago
+Senior Manager, Counterparty Credit Risk Analytics & Reporting
+Senior Manager, Counterparty Credit Risk Analytics & Reporting
+BMO
+Toronto, Ontario, Canada
+1 week ago
+Senior Manager, Credit Modeling and Strategy
+Senior Manager, Credit Modeling and Strategy
+Flexiti
+North York, Ontario, Canada
+5 hours ago
+Manager, Unsecured Development & Control
+Manager, Unsecured Development & Control
+Scotiabank
+Toronto, Ontario, Canada
+2 weeks ago
+Senior Manager, Credit Modeling and Strategy (Flexiti)
+Senior Manager, Credit Modeling and Strategy (Flexiti)
+Questrade Financial Group
+North York, Ontario, Canada
+1 day ago
+Senior Manager, Advanced Credit Risk Modelling (Questbank)
+Senior Manager, Advanced Credit Risk Modelling (Questbank)
+Questrade Financial Group
+North York, Ontario, Canada
+1 week ago
+Show more jobs like this 
+People also viewed
+Market Risk Manager
+Market Risk Manager
+
+CIBC Mellon
+
+Toronto, Ontario, Canada
+1 week ago
+Release Lead
+Release Lead
+
+Cognizant
+
+Toronto, Ontario, Canada
+1 day ago
+Senior Manager, Corporate Commercial Credit
+Senior Manager, Corporate Commercial Credit
+
+Moneris
+
+Toronto, Ontario, Canada
+1 week ago
+Lead, Release and Change Management
+Lead, Release and Change Management
+
+McKesson
+
+Mississauga, Ontario, Canada
+3 days ago
+Senior Manager, Liquidity
+Senior Manager, Liquidity
+
+Ontario Public Service Leadership | Leadership dans la fonction publique de l’Ontario
+
+Toronto, Ontario, Canada
+CA$190,055 - CA$201,420
+6 days ago
+Credit Analytics Risk Manager
+Credit Analytics Risk Manager
+
+HomeEquity Bank
+
+Toronto, Ontario, Canada
+3 days ago
+Senior Manager, Credit Risk Strategy Oversight
+Senior Manager, Credit Risk Strategy Oversight
+
+BMO
+
+Toronto, Ontario, Canada
+6 days ago
+Senior Manager, Collateral & Margining Technology (Capital Markets Technology)
+Senior Manager, Collateral & Margining Technology (Capital Markets Technology)
+
+Scotiabank
+
+Toronto, Ontario, Canada
+1 week ago
+Senior Manager, Balance Transfer and Risk Reduction Programs, Credit Cards
+Senior Manager, Balance Transfer and Risk Reduction Programs, Credit Cards
+
+BMO
+
+Toronto, Ontario, Canada
+1 week ago
+Senior Manager, Business Banking Lending Acquisition
+Senior Manager, Business Banking Lending Acquisition
+
+BMO
+
+Toronto, Ontario, Canada
+4 days ago
+Similar Searches
+Senior Treasury Manager jobs
+493 open jobs
+Director Credit Risk jobs
+52 open jobs
+Associate Vice President jobs
+666 open jobs
+Risk Director jobs
+8,361 open jobs
+Data Steward jobs
+1,631 open jobs
+Regional Engineer jobs
+439 open jobs
+Senior Quantitative Analyst jobs
+849 open jobs
+Senior Engineer jobs
+8,729 open jobs
+Assistant Vice President jobs
+1,791 open jobs
+Director of Information Technology jobs
+247 open jobs
+Financial Risk Manager jobs
+242 open jobs
+Risk Specialist jobs
+12,807 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
