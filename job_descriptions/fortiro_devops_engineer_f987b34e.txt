@@ -1,0 +1,259 @@
+Title: DevOps Engineer
+Company: Fortiro
+Location: Melbourne, Victoria, Australia
+URL: https://au.linkedin.com/jobs/view/devops-engineer-at-fortiro-4489415661
+Posted: 2026-11-11
+Deadline: N/A
+Reason: The role is a strong match for her extensive background in DevOps engineering, CI/CD pipelines, release management, and infrastructure automation within the target location of Melbourne, Australia.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+Fortiro  Melbourne, Victoria, Australia
+17 hours ago   Be among the first 25 applicants
+  
+
+See who Fortiro has hired for this role
+
+Apply 
+Save
+About Us
+
+Fortiro is a growing fintech with a highly experienced team, backed by significant investment, and giving you the opportunity to contribute to an award-winning enterprise SaaS platform. Our technology uses emerging technologies and AI to help detect financial crime and enable automation in processes like lending and insurance claim verification. It is trusted by leading banks and financial services businesses in Australia, New Zealand, and globally.
+
+About The Role
+
+Keep Fraud Fighters Fast, Safe and Always On
+
+Our platform helps stop financial crime for leading banks and financial services businesses around the world. Behind it sits infrastructure that has to be secure, scalable and dependable. As our DevOps Engineer, you'll own it.
+
+Using your deep AWS and CI/CD expertise, you'll automate what can be automated, strengthen what needs strengthening, and make sure we scale securely as our customer base grows.
+
+What you'll be doing
+
+
+Run the platform: Design, build and manage a secure, highly available SaaS platform on AWS, owning the infrastructure lifecycle end to end.
+Ship with confidence: Build and refine Azure DevOps pipelines that take code from commit to production reliably.
+Code your infrastructure: Use CloudFormation or Terraform to create consistent, repeatable environments.
+Lead with security: Champion a security-first mindset using tools like Security Hub, Inspector and Patch Manager, in line with standards such as CIS and OWASP.
+See problems early: Build monitoring, alerting and logging (CloudWatch, OpenSearch) that catches issues before customers do.
+Scale smartly: Find bottlenecks, tune performance and keep costs in check as we grow.
+Plan for the unexpected: Develop and test backup and disaster recovery strategies that keep us resilient.
+
+
+What you'll bring to the role
+
+
+5+ years in a DevOps or similar role
+Experience running a commercial SaaS platform in a secure, scalable, multi-tenant AWS environment (essential)
+Deep, hands-on AWS knowledge, including VPC, IAM and CloudFormation
+Strong experience building and managing CI/CD pipelines, ideally in Azure DevOps
+Proficiency with infrastructure-as-code tools such as CloudFormation or Terraform
+Solid scripting and automation skills (e.g. Bash)
+Experience with monitoring and logging tools such as OpenSearch
+Strong grounding in networking, system administration and security principles, including frameworks like CIS Benchmarks or OWASP
+A degree in Computer Science, Engineering or a related field, or equivalent hands-on experience
+Sharp problem-solving skills, an ownership mindset, and the ability to collaborate in a fast-paced, agile team
+
+
+Nice to have
+
+
+AWS Certified DevOps Engineer (or similar certifications)
+Experience with containers and orchestration (e.g. Docker)
+
+
+Why join Fortiro?
+
+
+Be yourself: We value individuality and encourage you to work in ways that make you most productive.
+Make an impact: Your work directly supports fraud detection for major enterprise customers.
+Work on cutting-edge solutions: Join a team building products that are changing how financial crime is prevented.
+Inclusive culture: An open, diverse and fun workplace with flexible remote and in-person options.
+Grow with us: We value curiosity and a growth mindset. You'll get chances to learn, take on new challenges and build your skills as the business grows.
+
+
+No recruitment agencies please. We have this covered and will reach out if we need support. Thank you.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Fortiro by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Senior Architect jobs
+DevOps Engineer
+Similar jobs
+DevOps Engineer, myprosperity
+DevOps Engineer, myprosperity
+HUB24 Limited
+Melbourne, Victoria, Australia
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+Launch Group
+Melbourne, Victoria, Australia
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+Open Universities Australia
+Docklands, Victoria, Australia
+1 week ago
+DevSecOps Engineer
+DevSecOps Engineer
+Jetstar Airways
+Melbourne, Victoria, Australia
+1 hour ago
+DevOps Engineer
+DevOps Engineer
+Red Energy
+Richmond, Victoria, Australia
+1 week ago
+Cloud Engineer (AWS / DevOps)- AU Citizen with Security Clearance
+Cloud Engineer (AWS / DevOps)- AU Citizen with Security Clearance
+Accenture Australia
+Melbourne, Victoria, Australia
+1 month ago
+Show more jobs like this 
+People also viewed
+Platform Engineer
+Platform Engineer
+
+Leidos Australia
+
+Melbourne, Victoria, Australia
+5 days ago
+Azure DevOps Engineer
+Azure DevOps Engineer
+
+XPT Software Australia
+
+Carlton, Victoria, Australia
+3 weeks ago
+AWS Engineer
+AWS Engineer
+
+Capgemini
+
+Melbourne, Victoria, Australia
+1 week ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+Atlassian
+
+Carlton, Victoria, Australia
+5 days ago
+Systems Engineer, Region Services
+Systems Engineer, Region Services
+
+Amazon Web Services (AWS)
+
+Melbourne, Victoria, Australia
+2 weeks ago
+Azure Devops Engineer
+Azure Devops Engineer
+
+Persistent Systems
+
+Melbourne, Victoria, Australia
+1 day ago
+Search Engineer
+Search Engineer
+
+Xero
+
+Melbourne, Victoria, Australia
+1 week ago
+Senior Cloud / DevOps Engineer
+Senior Cloud / DevOps Engineer
+
+Eightcap
+
+Melbourne, Victoria, Australia
+1 day ago
+Cloud Engineer
+Cloud Engineer
+
+Macquarie Group
+
+Melbourne, Victoria, Australia
+1 week ago
+Architect
+Architect
+
+Virtusa
+
+Melbourne, Victoria, Australia
+1 week ago
+Similar Searches
+Senior Architect jobs
+1,160 open jobs
+Lead Scientist jobs
+169 open jobs
+Solutions Architect jobs
+2,410 open jobs
+Architect jobs
+3,023 open jobs
+Sales Director jobs
+1,241 open jobs
+Account Executive jobs
+2,265 open jobs
+Ecommerce Manager jobs
+1,750 open jobs
+Machine Learning Engineer jobs
+2,634 open jobs
+Chief Technology Officer jobs
+132 open jobs
+Engineering Manager jobs
+3,371 open jobs
+Social Media Manager jobs
+998 open jobs
+Scientist jobs
+515 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

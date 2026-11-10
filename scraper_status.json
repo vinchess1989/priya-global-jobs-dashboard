@@ -1,9 +1,9 @@
 {
-  "pid": 42548,
-  "started_at": "2026-11-10T01:13:07+02:00",
-  "heartbeat_at": "2026-11-10T02:26:09+02:00",
-  "phase": "run_finished",
-  "detail": "99 lower-yield targets and 0 jobs left for the next run",
-  "last_scrape_ok_at": "2026-11-10T02:25:58+02:00",
+  "pid": 24368,
+  "started_at": "2026-11-11T01:12:54+02:00",
+  "heartbeat_at": "2026-11-11T01:18:54+02:00",
+  "phase": "reviewing",
+  "detail": "Senior DevOps Engineer",
+  "last_scrape_ok_at": "2026-11-11T01:16:20+02:00",
   "last_error": null
 }

@@ -1,0 +1,254 @@
+Title: Senior DevOps Engineer
+Company: Alpaca
+Location: Singapore
+URL: https://sg.linkedin.com/jobs/view/senior-devops-engineer-at-alpaca-4489417100
+Posted: 2026-11-11
+Deadline: Open until filled
+Reason: This Senior DevOps Engineer role in Singapore aligns perfectly with her extensive background in CI/CD pipelines, release management, and infrastructure automation.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer
+Alpaca  Singapore
+18 hours ago  48 applicants
+  
+
+See who Alpaca has hired for this role
+
+Apply 
+Save
+Who We Are:
+
+Alpaca is a US-headquartered, global leader in agent-first brokerage infrastructure for stocks, ETFs, options, crypto, fixed income, 24/5 trading, and more.
+
+Amongst our subsidiaries, Alpaca is a licensed financial services company, serving hundreds of financial institutions across 40 countries with our institutional-grade APIs. This includes broker-dealers, investment advisors, wealth managers, hedge funds, and crypto exchanges, totalling over 10 million brokerage accounts.
+
+Our global team is a diverse group of experienced engineers, traders, and brokerage professionals who are working to achieve our mission of opening financial services to everyone on the planet. We're deeply committed to open-source contributions and fostering a vibrant community, continuously enhancing our award-winning, developer-friendly API and the robust infrastructure behind it.
+
+Alpaca is proudly backed by $400 million in funding from top-tier global investors including Portage Ventures, Spark Capital, Tribe Capital, Social Leverage, Horizons Ventures, Opera Tech Ventures, SBI Group, Derayah Financial, Unbound, Peak XV, Elefund, and Y Combinator.
+
+Our Team Members:
+
+We're a dynamic team of 400+ globally distributed members who thrive working from our favorite places around the world, with teammates spanning the USA, Canada, Japan, Hungary, Nigeria, Brazil, the UK, and beyond!
+
+We're searching for passionate individuals eager to contribute to Alpaca's rapid growth. If you align with our core values—Stay Curious, Have Empathy, and Be Accountable—and are ready to make a significant impact, we encourage you to apply.
+
+Role
+
+As a Senior DevOps Engineer you will design, build and operate the platforms behind software delivery, edge and L7 networking, platform access, and the application-facing parts of our observability stack. Alpaca is expanding fast and our needs grow with it, so we run a follow-the-sun model that keeps those systems covered around the clock. This role is the team's presence in its own region: supporting and owning that platform in your timezone.
+
+While we are not looking for a specialist in a single tool, deep expertise in one of the tools we use alongside a broad skillset would be an advantage. What we care about most is judgement: thinking in terms of delivery and the request path, understanding business priorities and the pressure that comes with fast growth, and carrying a piece of work across quarters to a high standard without needing supervision. The engineers who do well here choose the simple solution over the easy one, even when the simple one takes longer to find.
+
+Things You Get To Do
+
+
+Help the engineers who build on our platform: troubleshoot problems across the stack, advise teams on how to use what we run, and take your share of the support rotation during your region's hours.
+Participate in our Follow-The-Sun on-call model: watch and triage alerts, join and declare incidents, lead structured debugging and escalation, and drive blameless post-mortems and the post-actions that actually close the loop.
+Own the path a change takes to production - GitHub Actions into Argo CD, with Helm underneath - and the release tooling that has to work across multiple clusters and regions.
+Run high-traffic edge and API gateway infrastructure serving hundreds of millions of requests a day globally, where performance, availability and safe change all matter at once.
+Operates the internal tooling the rest of engineering depends on - Grafana, Sentry, Teleport, Metabase, Atlantis and others - as production services with real users rather than one-off installations.
+Advance Platform-as-a-Product: build self-serve capabilities and paved paths so engineers can get what they need through a golden path rather than a hand-off, measured by how quickly and safely the rest of engineering can ship.
+Take improvement projects end to end, from a problem nobody has framed yet through to something running in production that other teams rely on.
+
+
+Who You Are (Must-Haves)
+
+
+5+ years in a DevOps, Platform/Infrastructure, or SRE role, with a proven track record operating large-scale, high-availability, high-performance systems in production.
+A track record of carrying multi-quarter platform work end to end in a complex environment running multiple Kubernetes clusters.
+Deep production Kubernetes experience across multiple clusters - upgrades, debugging and day-to-day operational ownership - including packaging and deploying workloads with Helm.
+Strong Infrastructure-as-Code skills with Terraform, structuring codebases across multiple environments, with GitOps as a first principle and least-privilege as a default mindset.
+Proven experience building and owning CI/CD pipelines at scale, for example with GitHub Actions, including releases that deploy to multiple production locations rather than only promoting through environments.
+GitOps continuous delivery with Argo CD, or a comparable tool you can transfer from.
+Working production experience on Google Cloud, ideally GKE. You do not need to have designed landing zones or cloud topology, but you should be fluent operating on GCP day to day.
+Solid L7 networking fundamentals - load balancing, DNS, TLS and HTTP routing - and comfort debugging the request path from edge to workload.
+A Platform-as-a-Product mindset, treating what the team runs as products with real users rather than internal installations.
+Able and willing to take part in a Follow-The-Sun on-call rotation from APAC or EMEA hours, and to work effectively in a distributed, async-first team with strong written communication.
+
+
+Who You Might Be (Bonus Points)
+
+You can succeed in this role without all of the below, but any of these will help you ramp faster:
+
+
+Policy-as-code and IaC quality tooling (OPA/Conftest, Checkov, tflint, Atlantis, or similar).
+Experience managing Terraform state, module registries and versioning at scale across many teams.
+Running secret management at scale (HashiCorp Vault, OpenBao, or similar) as a service other teams depend on.
+Internal PKI and certificate lifecycle management (private CAs, issuance and rotation, mTLS between services).
+Experience building self-serve developer platforms and internal golden paths (e.g. with Backstage, Tilt, or similar).
+Production experience on Azure alongside GCP.
+Working proficiency in Go for automation and tooling.
+Strong Linux (Debian/Ubuntu) and container (Docker/containerd) fundamentals.
+Security and compliance experience in a regulated environment (SOC 2, audit logging).
+Familiarity with trading, brokerage, or other regulated fintech domains.
+
+
+How We Take Care of You:
+
+
+Competitive Salary & Stock Options
+Health Benefits
+New Hire Home-Office Setup: One-time USD $500
+Monthly Stipend: USD $150 per month via a Brex Card
+
+
+Alpaca is proud to be an equal opportunity workplace dedicated to pursuing and hiring a diverse workforce.
+
+Recruitment Privacy Policy
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at Alpaca by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+SearchApi
+Singapore
+4 months ago
+Senior Site Reliability / Gitops Engineer
+Senior Site Reliability / Gitops Engineer
+Canonical
+Singapore
+4 hours ago
+DevOps Engineer
+DevOps Engineer
+stakefish
+Singapore
+$130,000 - $180,000
+1 month ago
+DevOps Engineer
+DevOps Engineer
+Openhill Global
+Singapore, Singapore
+3 months ago
+DevOps Engineer
+DevOps Engineer
+HashWhale
+Singapore
+1 year ago
+(f2pool) DevOps Engineer
+(f2pool) DevOps Engineer
+stakefish
+Singapore
+$130,000 - $180,000
+1 month ago
+Show more jobs like this 
+People also viewed
+DevOps Engineer
+DevOps Engineer
+
+Ambition
+
+Singapore, Singapore
+SGD 7,000 - SGD 8,000
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+Merquri
+
+Singapore, Singapore
+4 days ago
+Site Reliability Engineer | Quant Trading Firm | Singapore | up to SGD 250K Base + Bonus
+Site Reliability Engineer | Quant Trading Firm | Singapore | up to SGD 250K Base + Bonus
+
+Hunter Bond
+
+Singapore, Singapore
+2 days ago
+Senior Cloud Platform Engineer
+Senior Cloud Platform Engineer
+
+SPH Media
+
+Singapore, Singapore
+1 week ago
+Infrastructure Deployment Engineer (AI Factory Delivery)
+Infrastructure Deployment Engineer (AI Factory Delivery)
+
+Sharon AI, Inc
+
+Singapore, Singapore
+1 week ago
+Senior CI/CD DevSecOps Engineer [20261042355]
+Senior CI/CD DevSecOps Engineer [20261042355]
+
+Beyondsoft Singapore
+
+Singapore, Singapore
+5 days ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+Albert Bow
+
+Singapore, Singapore
+SGD 250,000 - SGD 300,000
+2 weeks ago
+Senior Cloud Engineer
+Senior Cloud Engineer
+
+EC1 Partners
+
+Singapore, Singapore
+2 weeks ago
+Senior Site Reliability Engineer (APAC)
+Senior Site Reliability Engineer (APAC)
+
+Reap
+
+Singapore, Singapore
+1 month ago
+DevOps Engineer
+DevOps Engineer
+
+Native
+
+Singapore, Singapore
+3 weeks ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

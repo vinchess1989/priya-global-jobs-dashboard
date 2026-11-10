@@ -1,0 +1,265 @@
+Title: DevOps Engineer
+Company: Wipro
+Location: Greater Sydney Area
+URL: https://au.linkedin.com/jobs/view/devops-engineer-at-wipro-4487438371
+Posted: 2026-11-11
+Deadline: N/A
+Reason: This DevOps Engineer role is located in Sydney, Australia, matches her extensive CI/CD and release pipeline experience, and does not mention any visa restrictions or clearance requirements.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+Wipro  Greater Sydney Area
+18 hours ago  29 applicants
+  
+
+See who Wipro has hired for this role
+
+Apply
+Save
+
+As a Senior DevOps Engineer, you will be responsible for maintaining, optimizing, and scaling our organization's infrastructure systems. Your primary focus will be to ensure the reliability and performance of our infrastructure & DevOps, including Kubernetes, other critical components in Hybrid cloud environment. You will work closely with development teams to design and implement solutions that enhance system stability and automate operational tasks.
+
+Key Responsibilities
+
+EKS Platform Engineering:
+
+· Design, implement, and maintain highly available and secure Kubernetes clusters using Amazon EKS, including node pool management, upgrade strategies, and disaster recovery.
+
+· Ensure Kubernetes security best practices (RBAC, pod security, network policies).
+
+· Configure Kubernetes networking, ingress, autoscaling (HPA, Karpenter/Cluster Autoscaler).
+
+· Manage secrets and configuration (Vault)
+
+
+
+
+CI/CD Pipeline Management: Build and optimize CI/CD pipelines (Bitbucket, Jenkins, Ansible) to automate code deployment and infrastructure changes, ensuring safe, rapid, and reliable releases.
+
+Automation: Develop and maintain automation tools and scripts (Python/Shell/Bash),Optimize deployment strategies (blue-green, canary, rolling updates)
+
+Observability & Monitoring: Implement and enhance monitoring, alerting, and logging solutions to gain real-time visibility into system health.
+
+Performance & Cost Optimization: Proactively analyse system capacity and optimize AWS resource utilization, balancing performance with cost-efficiency.
+
+Security & Compliance: Implement security best practices, including RBAC, network policies, secrets management, and image scanning within EKS.
+
+Collaboration: Collaborate with cross-functional teams to align infrastructure goals with business objectives.
+
+Continuous Improvement: Identify areas for optimization and efficiency improvements within the infrastructure and automation processes. Stay up-to-date with industry trends and emerging technologies to recommend enhancements.
+
+
+
+
+Required Skills
+
+Technical Skills
+
+
+
+
+· Deep knowledge of Kubernetes (EKS) and container orchestration
+
+· Strong experience with AWS Cloud
+
+· Proficiency in Docker and container lifecycle management
+
+· Hands-on experience with Terraform (preferred)
+
+· Experience with CI/CD tools (Git, Jenkins, Ansible, etc.)
+
+· scripting skills (Python, Bash, or Go)
+
+· SRE & DevOps Practices
+
+· Familiarity with incident response and on-call rotation
+
+· understanding of networking
+
+· Knowledge of security and compliance in cloud environments
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Wipro by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Process Associate jobs
+DevOps Engineer
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+CORTO
+Sydney, New South Wales, Australia
+4 weeks ago
+DevOps Engineer
+DevOps Engineer
+CMSN Group Pty Ltd
+Greater Sydney Area
+3 months ago
+DevOps Engineer
+DevOps Engineer
+TMGM
+Sydney, New South Wales, Australia
+A$125,000 - A$145,000
+1 week ago
+DevOps Engineer
+DevOps Engineer
+Shift
+North Sydney, New South Wales, Australia
+2 days ago
+*AWS DevOps Engineer*
+*AWS DevOps Engineer*
+Accenture Australia
+Sydney, New South Wales, Australia
+1 month ago
+DevOps Engineer
+DevOps Engineer
+Macquarie Group
+Sydney, New South Wales, Australia
+9 hours ago
+Show more jobs like this 
+People also viewed
+DevOps Engineer
+DevOps Engineer
+
+eJangar, Inc.
+
+Sydney, New South Wales, Australia
+1 day ago
+DevOps Engineer
+DevOps Engineer
+
+DBiz.ai
+
+Sydney, New South Wales, Australia
+4 weeks ago
+Engineer - SRE
+Engineer - SRE
+
+Xero
+
+Sydney, New South Wales, Australia
+1 week ago
+Platform Specialist_Devops
+Platform Specialist_Devops
+
+XPT Software
+
+Sydney, New South Wales, Australia
+3 weeks ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+HUB24 Limited
+
+Sydney, New South Wales, Australia
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+eJAmerica
+
+Sydney, New South Wales, Australia
+6 days ago
+Azure Devops Engineer
+Azure Devops Engineer
+
+Tech Mahindra
+
+Greater Sydney Area
+4 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+CORTO
+
+Sydney, New South Wales, Australia
+3 weeks ago
+Site Reliability Engineer (Australia, Remote)
+Site Reliability Engineer (Australia, Remote)
+
+Axon
+
+Sydney, New South Wales, Australia
+1 week ago
+Platform Specialist_Devops
+Platform Specialist_Devops
+
+XPT Software Australia
+
+Sydney, New South Wales, Australia
+3 weeks ago
+Similar Searches
+Process Associate jobs
+840 open jobs
+Senior Software Test Engineer jobs
+68 open jobs
+Institutional Sales Trader jobs
+53 open jobs
+Java Software Engineer jobs
+760 open jobs
+Automation Test Analyst jobs
+266 open jobs
+Backup Administrator jobs
+482 open jobs
+Business System Consultant jobs
+643 open jobs
+Group Credit Manager jobs
+20 open jobs
+Regional Financial Controller jobs
+506 open jobs
+SQL Developer jobs
+208 open jobs
+Citrix Administrator jobs
+485 open jobs
+Windows Administrator jobs
+494 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

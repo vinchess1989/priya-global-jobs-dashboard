@@ -1,0 +1,263 @@
+Title: Devops - Terraform
+Company: Wipro
+Location: Pune Division, Maharashtra, India
+URL: https://in.linkedin.com/jobs/view/devops-terraform-at-wipro-4489443613
+Posted: 2026-11-11
+Deadline: N/A
+Reason: This DevOps Engineer role in India matches her extensive experience with CI/CD pipelines, GitHub Actions, and release/infrastructure management.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Devops - Terraform
+Wipro  Pune Division, Maharashtra, India
+12 hours ago  47 applicants
+  
+
+See who Wipro has hired for this role
+
+Apply 
+Save
+Job description:
+
+Job Description
+
+Terraform & AWS EKS DevOps Engineer
+
+PROJECT CITADEL / APERTURE  |  SPGI  |  ENGINEERING JOB DESCRIPTION
+
+Seniority: L3/L4 hands-on engineer    
+
+Role focus: Infrastructure-as-code, EKS and CI/CD engineering for Citadel/Aperture migration delivery.
+
+Core responsibilities and requirements
+
+1.  Design, review, refactor and execute Terraform modules for AWS infrastructure and EKS workloads; write production-quality code from day one.
+
+2.  Build and troubleshoot EKS clusters, node groups, Kubernetes workloads, deployments, ingress, networking, IAM/IRSA and storage integrations.
+
+3.  Migrate application deployment pipelines and reusable automation to GitHub Actions with secure runners and environment approvals.
+
+4.  Integrate Terraform planning/apply workflows with GitHub organizations, repositories, pull-request reviews and change approval controls.
+
+5.  Update Dockerfiles, container-image references and build scripts to use approved ChainGuard images and internal Artifactory package endpoints.
+
+6.  Configure AWS integrations including VPC, ECR, load balancers, IAM, certificates/TLS, Secrets Manager and observability as required.
+
+͏
+
+7.Troubleshoot Terraform state, provider/module errors, EKS node readiness, pods, rollout failures and CI/CD runner connectivity.
+
+8.  Work hands-on with Linux (RHEL/Ubuntu), Git, Bash/Python, VS Code, GitHub Copilot and Infrastructure-as-Code testing.
+
+9.  Plan migration validation, disaster recovery/rollback procedures, configuration drift remediation and release readiness checks.
+
+10.  Join daily scrum and repository-owner calls; own engineering deliverables, ServiceNow changes/tasks, customer sign-off, P1/P2 recovery and RCA actions.
+
+Delivery expectations: Independent hands-on coding, direct customer/repository-owner collaboration, flexible overlap with 4–10 PM IST meetings, clear documentation and completed migration validation.
+
+Preferred: Relevant GitHub, Azure, AWS, Terraform or Kubernetes certifications; financial-services change-control experience.
+
+͏ ͏ ͏
+
+Deliver
+
+No.Performance ParameterMeasure1.Continuous Integration, Deployment & Monitoring100% error free on boarding & implementation2.CSATManage service tools 
+Troubleshoot queries
+Customer experience3.Capability Building & Team Management% trained on new age skills, Team attrition %, Employee satisfaction score
+
+ 
+
+ 
+
+Mandatory Skills: DevOps-Terraform
+.
+
+ 
+
+Experience: 5-8 Years
+.
+
+ 
+
+Reinvent your world. We are building a modern Wipro. We are an end-to-end digital transformation partner with the boldest ambitions. To realize them, we need people inspired by reinvention. Of yourself, your career, and your skills. We want to see the constant evolution of our business and our industry. It has always been in our DNA - as the world around us changes, so do we. Join a business powered by purpose and a place that empowers you to design your own reinvention.
+
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Wipro by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Websphere Specialist jobs
+Devops - Terraform
+Similar jobs
+DevOps Engineer- 1
+DevOps Engineer- 1
+Platform9
+Pune City, Maharashtra, India
+6 days ago
+DevOps Engineer
+DevOps Engineer
+Comviva
+Pune Division, Maharashtra, India
+1 month ago
+Devops Engineer
+Devops Engineer
+Barclays
+Pune Division, Maharashtra, India
+1 week ago
+DevOps Architect
+DevOps Architect
+Accenture in India
+Pune Division, Maharashtra, India
+1 month ago
+DevOps Engineer
+DevOps Engineer
+Particle41
+Pune/Pimpri-Chinchwad Area
+6 months ago
+DevOps Engineer
+DevOps Engineer
+Armstrong Dematic
+Pune District, Maharashtra, India
+2 weeks ago
+Show more jobs like this 
+People also viewed
+DevOps Engineer
+DevOps Engineer
+
+Aumni
+
+Pune Division, Maharashtra, India
+4 months ago
+AWS Cloud Engineer
+AWS Cloud Engineer
+
+ACS International India Pvt. Ltd. (ACSII)
+
+Pune Division, Maharashtra, India
+7 months ago
+Devops Engineer- INDIA
+Devops Engineer- INDIA
+
+BMC Helix
+
+Pune Division, Maharashtra, India
+3 days ago
+Application Support Engineer
+Application Support Engineer
+
+Accenture in India
+
+Pune Division, Maharashtra, India
+1 month ago
+Devops Engineer
+Devops Engineer
+
+Citi
+
+Pune Division, Maharashtra, India
+4 days ago
+DevOps & Azure Cloud Engineer
+DevOps & Azure Cloud Engineer
+
+Netrix Global
+
+Pune Division, Maharashtra, India
+5 days ago
+Technical Lead
+Technical Lead
+
+Infinite Computer Solutions
+
+Pune Division, Maharashtra, India
+4 days ago
+Consultant - DevOps Administrator/ India: Pune, Maharashtra
+Consultant - DevOps Administrator/ India: Pune, Maharashtra
+
+Rotary International
+
+Pune/Pimpri-Chinchwad Area
+1 week ago
+Devops Engineer
+Devops Engineer
+
+Qloron Pvt Ltd
+
+Pune Division, Maharashtra, India
+2 months ago
+Staff DevOps Engineer
+Staff DevOps Engineer
+
+HMH
+
+Pune Division, Maharashtra, India
+2 weeks ago
+Similar Searches
+Websphere Specialist jobs
+138 open jobs
+SAP Basis Team Lead jobs
+194 open jobs
+Process Associate jobs
+5,599 open jobs
+SAP Workflow Consultant jobs
+2,962 open jobs
+Document Management Consultant jobs
+38 open jobs
+Senior Software Test Engineer jobs
+1,321 open jobs
+Vice President Service Delivery jobs
+119 open jobs
+Web Production Specialist jobs
+1,572 open jobs
+Lead Technical Consultant jobs
+8,807 open jobs
+Senior Application Developer jobs
+13,891 open jobs
+Institutional Sales Trader jobs
+126 open jobs
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
