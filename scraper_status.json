@@ -1,9 +1,9 @@
 {
   "pid": 24368,
   "started_at": "2026-11-11T01:12:54+02:00",
-  "heartbeat_at": "2026-11-11T01:54:52+02:00",
+  "heartbeat_at": "2026-11-11T01:58:21+02:00",
   "phase": "reviewing",
-  "detail": "Clinical Documentation Specialist",
-  "last_scrape_ok_at": "2026-11-11T01:52:29+02:00",
+  "detail": "Diagnostics Systems Team Leader",
+  "last_scrape_ok_at": "2026-11-11T01:57:12+02:00",
   "last_error": null
 }
