@@ -1,0 +1,258 @@
+Title: Dev Ops Engineer
+Company: Acuity
+Location: Cork, County Cork, Ireland
+URL: https://ie.linkedin.com/jobs/view/dev-ops-engineer-at-acuity-4489653333
+Posted: 2026-11-11
+Deadline: N/A
+Reason: The role is a strong match for her DevOps, CI/CD, and release management background in an electronics/manufacturing domain, and it is located in Ireland, which is a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Dev Ops Engineer
+Acuity  Cork, County Cork, Ireland
+19 minutes ago   Be among the first 25 applicants
+  
+
+See who Acuity has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Acuity Inc. (NYSE: AYI) is a market-leading industrial technology company. We use technology to solve problems in spaces, light and more things to come. Through our two business segments, Acuity Brands Lighting (ABL) and Acuity Intelligent Spaces (AIS), we design, manufacture, and bring to market products and services that make a valuable difference in people’s lives.
+
+We achieve growth through the development of innovative new products and services, including lighting, lighting controls, building management solutions, and an audio, video and control platform. We focus on customer outcomes and drive growth and productivity to increase market share and deliver superior returns. We look to aggressively deploy capital to grow the business and to enter attractive new verticals.
+
+Acuity Inc. is based in Atlanta, Georgia, with operations across North America, Europe and Asia. The Company is powered by approximately 13,000 dedicated and talented associates. Visit us at www.acuityinc.com .
+
+Job Summary
+
+You will contribute to the design, development, and implementation of robust DevOps practices that
+
+keep us ahead of the curve using Azure technologies. You will work in close collaboration with an
+
+experienced team of software and firmware engineers to develop and support our Q-SYS platform. Our
+
+customer applications range from the boardrooms of Fortune 100 companies to the vast expanses of
+
+airports, sports stadiums, and theme parks. Your contributions will support our Q-SYS Reflect
+
+Enterprise Manager, a state-of-the-art remote monitoring and management web platform that
+
+harnesses the latest AI technologies, as well as our overall Q-SYS platform.
+
+This position is based in Cork, Ireland.
+
+Key Tasks & Responsibilities (Essential Functions)
+
+
+Assist in development of our automated build and test infrastructure, with a strong focus on scalability, performance, and reliability
+Improve and streamline the development and deployment workflow for our software Dev and SQA teams
+Continuous improvements to the deployment process to increase efficiency and reduce downtime
+Stay up to date with emerging trends and technologies in DevOps and automation
+Collaborate with development teams to ensure smooth integration of new features and releases
+Develop and maintain documentation for deployment processes and procedures
+Core responsibilities will include supporting decisions on releasing our software to the public and coordinating with the broader release team
+
+
+Skills And Minimum Experience Required
+
+
+B.S. in Computer Science, Electrical Engineering, Computer Engineering or equivalent
+Excellent scripting skills in Groovy, JavaScript, Python and Linux shell script
+Automation-focused DevOps perspective
+Background in Linux software development workflow and tools
+Background in Linux administration and application deployment
+Strong background in Azure cloud platform
+Excellent knowledge in Azure DevOps
+Experience with containerization technologies such as Docker, Kubernetes and Helm to manage Kubernetes
+Experience with IaC tool - Bicep/Terraform (Bicep preferred)
+Experience with automation tools such as Ansible, Puppet, and Chef
+Experience in SCM tools like GitHub, Bitbucket or any git-based tools
+Experience in integration and implementation of security tools in pipelines for SAST, SCA, and DAST is preferred
+Experience in Grafana, Prometheus, Elasticsearch, or other monitoring/logging tools
+Experience with continuous integration and deployment of a microservice-based enterprise cloud application. Our platform is based on Azure Cloud, Docker, Kubernetes, Terraform, Bicep, Jenkins, RabbitMQ, and other standard tools.
+
+
+We value diversity and are an equal opportunity employer.  All qualified applicants will be considered for employment without regards to race, color, age, gender, sexual orientation, gender identity and expression, ethnicity or national origin, disability, pregnancy, religion, covered veteran status, protected genetic information, or any other characteristic protected by law. 
+
+Please click here and here for more information.
+
+Accommodation in the Application Process: Acuity Inc. is an equal opportunity employer. It complies with the Americans with Disabilities Act (ADA) and other applicable laws requiring reasonable accommodation of persons with disabilities in employment. This includes the provision of reasonable accommodation in the application process. If you believe you need reasonable accommodation to assist with our online application system or any aspect of the application process, please contact Human Resources at (770) 922-9000, and select option 4.  Please be prepared to identify the requisition / position applied for and the aspect of the application process for which you believe accommodation is needed. The company will engage in an interactive process with you to better understand the request and to determine whether reasonable accommodation is needed and available.
+
+Any unsolicited resumes sent to Acuity Inc. from a third party, such as an Agency recruiter, including unsolicited resumes sent to an Acuity Inc. mailing address, fax machine or email address, directly to Acuity Inc. employees, or to Acuity Inc. resume database will be considered Acuity Inc. property. Acuity Inc. will NOT pay a fee for any placement resulting from the receipt of an unsolicited resume.
+
+Acuity Inc. will consider any candidate for whom an Agency has submitted an unsolicited resume to have been referred by the Agency free of any charges or fees. This includes any Agency that is an approved/engaged vendor, but does not have the appropriate approvals to be engaged on a search.
+
+E-Verify Participation Poster
+
+e-verify.gov
+
+eeoc.gov
+
+Protecting Yourself from Recruitment Scams: Acuity is committed to maintaining the integrity of our Talent Acquisition process and the security of our candidates. We are aware of phishing and fraudulent schemes in which individuals impersonate Acuity representatives or recruiting partners to solicit payments or sensitive personal information.
+
+As you navigate your job search, please keep the following in mind:
+
+
+No Financial Requests: Acuity will never ask candidates for payment, credit card information, banking details or other financial information during the interview process.
+Verify Recruiter Communications: Legitimate communications from Acuity recruiters will come from an “@acuityinc.com” email address. If you are contacted by a recruiting agency regarding a role with Acuity, the agency should clearly identify itself and its relationship to Acuity. If you suspect any suspicious activity, verify the agency legitimacy by contacting +1 877-584-1411, option# 0.
+Be Alert for Suspicious Activity: Exercise caution if you receive unsolicited outreach with unusual requests, grammatical errors, requests for personal or financial information, or pressure to act quickly. Always verify the sender before sharing information or clicking links.
+Report Suspected Fraud: If you receive a suspicious message or believe someone is impersonating Acuity or one of our recruiting partners, please contact +1 877-584-141, option# 0, report the incident to the FTC at ReportFraud.ftc.gov , or to your state attorney general .
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Appliances, Electrical, and Electronics Manufacturing
+  
+
+Referrals increase your chances of interviewing at Acuity by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+DevOps Engineer, Radar Engineering
+DevOps Engineer, Radar Engineering
+Apple
+Cork, County Cork, Ireland
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+Motorola Solutions
+Cork, County Cork, Ireland
+1 week ago
+DevOps Engineer
+DevOps Engineer
+The Citco Group Limited
+Cork, County Cork, Ireland
+11 hours ago
+Site Reliability Engineer, Enterprise Technology Services
+Site Reliability Engineer, Enterprise Technology Services
+Apple
+Cork, County Cork, Ireland
+3 weeks ago
+Site Reliability Engineer
+Site Reliability Engineer
+McAfee
+Cork, County Cork, Ireland
+1 week ago
+Dev Ops Senior Engineer
+Dev Ops Senior Engineer
+Acuity
+Cork, County Cork, Ireland
+1 week ago
+Show more jobs like this 
+People also viewed
+Software Engineer — Triage Intelligence and Debug Engineering
+Software Engineer — Triage Intelligence and Debug Engineering
+
+Apple
+
+Cork, County Cork, Ireland
+4 months ago
+Lead Site Reliability Engineer
+Lead Site Reliability Engineer
+
+OpenText
+
+Cork, County Cork, Ireland
+2 weeks ago
+Sr. Site Reliability Engineer | Cork
+Sr. Site Reliability Engineer | Cork
+
+OpenText
+
+Cork, County Cork, Ireland
+2 weeks ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+OpenText
+
+Cork, County Cork, Ireland
+1 week ago
+Sr. Site Reliability Administrator
+Sr. Site Reliability Administrator
+
+OpenText
+
+Cork, County Cork, Ireland
+1 week ago
+Lead Site Reliability Engineer | Cork
+Lead Site Reliability Engineer | Cork
+
+OpenText
+
+Cork, County Cork, Ireland
+1 week ago
+Lead Site Reliability Engineer
+Lead Site Reliability Engineer
+
+OpenText
+
+Cork, County Cork, Ireland
+1 week ago
+Full Stack Engineer, Employee Engagement Engineering
+Full Stack Engineer, Employee Engagement Engineering
+
+Apple
+
+Cork, County Cork, Ireland
+1 month ago
+Software Automation Engineer, Localisation & Release Engineering
+Software Automation Engineer, Localisation & Release Engineering
+
+Apple
+
+Cork, County Cork, Ireland
+6 months ago
+Performance Engineer, Radar Engineering
+Performance Engineer, Radar Engineering
+
+Apple
+
+Cork, County Cork, Ireland
+1 week ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Acuity
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

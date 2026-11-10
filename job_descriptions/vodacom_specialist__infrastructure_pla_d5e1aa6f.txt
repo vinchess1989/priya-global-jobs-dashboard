@@ -1,0 +1,279 @@
+Title: Specialist: Infrastructure Platform Engineering
+Company: Vodacom
+Location: Bellville, Western Cape, South Africa
+URL: https://za.linkedin.com/jobs/view/specialist-infrastructure-platform-engineering-at-vodacom-4489616798
+Posted: 2026-11-11
+Deadline: 2026-11-16
+Reason: The role aligns with her DevOps and infrastructure automation expertise, is located in a target country (South Africa), and does not violate any hard rejection criteria.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Specialist: Infrastructure Platform Engineering
+Vodacom  Bellville, Western Cape, South Africa
+1 hour ago   Be among the first 25 applicants
+  
+
+See who Vodacom has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+When it comes to putting people first, we're number 1.
+
+The number 1 Top Employer in South Africa.
+
+Certified by the Top Employer Institute 2026.
+
+Role Purpose/Business Unit
+
+To design, operate and continuously improve secure, resilient and automated Kubernetes/OpenShift platforms for containerised and virtualised workloads through infrastructure automation, observability and Zero Touch Operations practices.
+
+Your Responsibilities Will Include
+
+
+Platform Operations and Lifecycle Management: Deploy, operate, scale, upgrade and maintain Kubernetes/OpenShift platforms across production and non-production environments, ensuring platform availability, performance, capacity, resilience and operational stability.
+Infrastructure Automation and Zero Touch Operations: Develop and maintain infrastructure automation, orchestration and run book automation using Ansible Automation Platform, Terraform, GitOps and approved automation frameworks to standardise provisioning, configuration, patching, remediation, self-service enablement and repeatable operational workflows.
+Platform Security, Compliance and Governance: Implement and maintain platform security controls, RBAC, vulnerability management, image governance, compliance monitoring, hardening and configuration consistency across Kubernetes/OpenShift environments.
+Observability, Reliability and Service Continuity: Maintain monitoring, alerting, logging, dashboarding, backup and recovery capabilities that provide visibility into platform health, service continuity and operational risk, enabling proactive detection, incident prevention and event-driven remediation.
+Continuous Improvement and Technology Enablement: Work with infrastructure, cybersecurity, cloud and application teams to improve platform services, support CI/CD and approved deployment practices, enable self-service consumption patterns and support responsible use of emerging technology and AI-enabled operational improvements.
+
+
+
+The Ideal Candidate For This Role Will Have
+
+
+Grade 12 is essential.
+A 3 year bachelor's degree/diploma in Computer Science, Information Systems, or a related technology field is essential.
+3-5 years’ relevant experience with Red Hat OpenShift Container Platform, Kubernetes and OpenShift Virtualization.
+Experience with infrastructure automation using Ansible Automation Platform, Terraform, GitOps or similar tooling.
+
+
+
+Preferred Certifications
+
+
+Red Hat Certified Specialist in OpenShift Administration or Red Hat Certified OpenShift Administrator (EX280).
+Certified Kubernetes Administrator (CKA).
+
+
+
+Core Competencies, Knowledge, And Experience
+
+
+Advanced Kubernetes knowledge (OpenShift preferred), including architecture, lifecycle management, virtualisation, networking, storage, scheduling, troubleshooting and platform operations.
+Strong infrastructure automation and orchestration experience using Ansible Automation Platform, Terraform, GitOps and scripting to support provisioning, configuration, patching, remediation and self-service workflows.
+Experience managing platform reliability, availability, performance, capacity, resilience, observability, backup and disaster recovery in enterprise production environments.
+Strong understanding of Linux, containers, registries, CI/CD practices, platform security, RBAC, vulnerability management, hardening and configuration governance.
+AI-Enabled Leadership and Delivery advantageous.
+Demonstrates the ability to identify, evaluate and implement technology, automation and AI opportunities that improve team performance, operational efficiency and business outcomes.
+Creates an environment that encourages innovation, experimentation, continuous learning and responsible adoption of emerging technologies.
+Leads teams through evolving operating models and technology-enabled transformation, building capability and readiness for future workforce requirements.
+Tracks and delivers measurable business outcomes from digital, automation and AI initiatives through effective prioritisation, governance and benefits realisation.
+Demonstrates AI fluency and literacy through the ability to effectively use, evaluate and govern AI-enabled tools and solutions, applying them responsibly to improve business outcomes, productivity and decision-making.
+
+
+
+We Make An Impact By Offering
+
+
+Enticing incentive programs and competitive benefit packages
+Retirement funds, risk benefits, and medical aid benefits
+Cell phone and data benefits, advantages fibre connection discounts, and exclusive staff discounts offered in collaboration with partner companies
+
+
+
+Closing date for Applications: 16 November 2026.
+
+The base location for this role is Cape Town.
+
+The company's approved Employment Equity Plan and Targets will be considered as part of the recruitment process. As an Equal Opportunities employer, we actively encourage and welcome people with various disabilities to apply.
+
+Vodacom is committed to an organisational culture that recognises, appreciates, and values diversity & inclusion.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Telecommunications
+  
+
+Referrals increase your chances of interviewing at Vodacom by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Civil Design Engineer jobs
+Specialist: Infrastructure Platform Engineering
+Similar jobs
+Platform Engineer
+Platform Engineer
+Share
+Cape Town, Western Cape, South Africa
+1 month ago
+Senior Platform Engineer
+Senior Platform Engineer
+DigiOutsource
+Cape Town, Western Cape, South Africa
+1 week ago
+Senior Cloud Engineer
+Senior Cloud Engineer
+impact.com
+Cape Town, Western Cape, South Africa
+1 week ago
+Cloud & Infrastructure Engineer (Senior)
+Cloud & Infrastructure Engineer (Senior)
+Parvana
+Cape Town, Western Cape, South Africa
+4 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Confluence
+Cape Town, Western Cape, South Africa
+1 week ago
+Principal Platform Engineer, Enablement
+Principal Platform Engineer, Enablement
+impact.com
+Cape Town, Western Cape, South Africa
+5 days ago
+Show more jobs like this 
+People also viewed
+Cloud Operations Engineer (Azure) | N1 City, Cape Town
+Cloud Operations Engineer (Azure) | N1 City, Cape Town
+
+Crimson Line
+
+Goodwood, Western Cape, South Africa
+3 weeks ago
+Tech Lead
+Tech Lead
+
+Sanlam
+
+Cape Town, Western Cape, South Africa
+1 day ago
+Java Engineer - Platform (Pipeline)
+Java Engineer - Platform (Pipeline)
+
+Electrum
+
+Cape Town, Western Cape, South Africa
+1 month ago
+Data Principal Engineer
+Data Principal Engineer
+
+takealot.com
+
+Cape Town, Western Cape, South Africa
+3 months ago
+Senior Data Engineer
+Senior Data Engineer
+
+mothers2mothers
+
+Cape Town, Western Cape, South Africa
+2 weeks ago
+Principal Engineer
+Principal Engineer
+
+The Rank Group plc
+
+Cape Town, Western Cape, South Africa
+1 week ago
+Junior NetOps Cloud Engineer
+Junior NetOps Cloud Engineer
+
+Clickatell
+
+Cape Town, Western Cape, South Africa
+2 weeks ago
+Staff Backend Engineer
+Staff Backend Engineer
+
+Boam AI
+
+Cape Town, Western Cape, South Africa
+3 months ago
+Chief Engineer, DCEO, Data Center Engineering Operations
+Chief Engineer, DCEO, Data Center Engineering Operations
+
+Amazon Web Services (AWS)
+
+Cape Town, Western Cape, South Africa
+7 hours ago
+Senior Water Infrastructure Engineer
+Senior Water Infrastructure Engineer
+
+AECOM
+
+Bellville, Western Cape, South Africa
+1 week ago
+Similar Searches
+Civil Design Engineer jobs
+206 open jobs
+Electronic Technologist jobs
+20 open jobs
+Hydraulic Engineer jobs
+253 open jobs
+Civil Environmental Engineer jobs
+163 open jobs
+Civil Structural Engineer jobs
+192 open jobs
+Digital Planner jobs
+11 open jobs
+Senior Services Engineer jobs
+69 open jobs
+Petroleum Engineer jobs
+66 open jobs
+Section Engineer jobs
+438 open jobs
+Process Engineering Specialist jobs
+174 open jobs
+Contract Mechanical Engineer jobs
+74 open jobs
+Engineering Designer jobs
+139 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Vodacom
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

@@ -1,0 +1,267 @@
+Title: DevOps Engineer
+Company: The Citco Group Limited
+Location: Cork, County Cork, Ireland
+URL: https://ie.linkedin.com/jobs/view/devops-engineer-at-the-citco-group-limited-4487494028
+Posted: 2026-11-11
+Deadline: N/A
+Reason: The role aligns perfectly with the candidate's extensive experience in CI/CD, Jenkins, and release infrastructure, and it is located in Ireland, which is a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+The Citco Group Limited  Cork, County Cork, Ireland
+11 hours ago  30 applicants
+  
+
+See who The Citco Group Limited has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Direct message the job poster from The Citco Group Limited
+
+Amanda Radice
+Amanda Radice
+Talent Acquisition Professional | Program & Project Leader | Financial Services & Technology | Citco
+Job Description
+
+DevOps Engineer
+
+About Citco
+
+Since the 1940s Citco has provided specialist financial services to alternative investment funds, investors, multinationals and private clients worldwide. With close to 12,000 employees in 45 countries we pioneer innovative solutions that meet our clients’ evolving needs, and deliver exceptional service.
+
+Our continuous investment in learning means our people are among the best in the industry. And our corporate social responsibility programs provide meaningful and fulfilling work in the community.
+
+A career at Citco isn’t just a job – it’s an opportunity to excel in an environment that genuinely supports your personal and professional development.
+
+About The Role
+
+The DevOps Engineer will design, deploy, and maintain the Jenkins CI/CD platform and supporting infrastructure tools that enable Citco's multi-cloud deployments across AWS and on-premise environments. This role combines hands-on technical execution with mentoring junior engineers, driving Infrastructure as Code practices (Terraform, CloudFormation), and collaborating closely with Jenkins users and platform stakeholders to ensure reliable, scalable, and secure deployments.
+
+The DevOps Engineer will work with the Platform Services teams, Development Teams, and IT Operations to translate business requirements into robust platform capabilities.
+
+Job Duties In Brief
+
+Design, deploy, and maintain the Jenkins platform; manage Jenkins controllers, agents, and scaling across AWS and on-premises environments
+
+
+Support Jenkins users; troubleshoot pipeline failures, agent connectivity issues, and plugin/configuration problems
+Develop and maintain Infrastructure as Code using Terraform and CloudFormation; drive adoption of IaC best practices across teams
+Manage and optimize AWS CodePipeline integrations; ensure seamless CI/CD workflows across AWS services
+Manage platform tools and services (SonarQube, JFrog, Octopus Deploy, Kong, Kiro), including configuration, upgrades, troubleshooting, and documentation
+Oversee Code Assistant (Kiro) management (Licensing, usage metrics, user support, and optimization)
+Design and implement centralized logging, monitoring, and tracing solutions (Prometheus, Grafana, Loki, CloudWatch, Jaeger, OpenTelemetry) across all platforms
+Migrate and manage platform tools to Kubernetes environments; design Helm charts and manage Kubernetes deployments
+Automate operational procedures and infrastructure improvements using scripting and IaC; identify and implement automation opportunities
+Participate in on-call rotations; respond to and resolve critical platform incidents with minimal customer impact
+Collaborate with development teams to capture requirements and translate them into platform improvements
+Document architecture, runbooks, and operational procedures; maintain up-to-date knowledge base
+Participate in capacity planning, cost optimization, and vendor management discussions
+
+
+About You
+
+You are a hands-on DevOps engineer with strong AWS expertise and solid experience building and maintaining CI/CD platforms. You are comfortable diving deep into Jenkins troubleshooting, writing Infrastructure as Code, and optimizing cloud deployments. You have growing Kubernetes experience and understand how to migrate workloads to containerized environments. You are also beginning to think beyond just "making things work" and you are interested in how systems scale, how teams operate, and how to mentor others. You communicate clearly with both technical and non-technical stakeholders and take ownership of the platforms you support.
+
+Experience And Technical Skills
+
+
+4–6 years of professional hands-on experience with CI/CD platforms, cloud infrastructure, or DevOps engineering
+Strong hands-on experience with deploying, configuring, troubleshooting, and scaling Jenkins controllers and agents
+Strong AWS background, particularly EC2, VPC, IAM, auto-scaling, CloudWatch; ability to architect and optimize cloud infrastructure
+Proven hands-on experience with Terraform and CloudFormation; ability to write, review, and refactor Infrastructure as Code
+Solid experience with AWS CodePipeline and CI/CD pipeline design; understanding of pipeline optimization and best practices
+Hands-on experience with deploying applications, managing Helm charts, understanding networking and storage to Kubernetes; experience migrating workloads to Kubernetes
+Hands-on experience with SonarQube, JFrog, and/or Octopus Deploy; ability to configure, troubleshoot, and support these tools
+Familiarity with Kong infrastructure management and API gateway concepts
+Experience managing or supporting Code Assistant tools (Kiro or similar); understanding of licensing and usage metrics
+Strong experience with monitoring and observability stacks, such as Prometheus, Grafana, Loki, CloudWatch; ability to design dashboards and alerts
+Solid understanding of Linux/Unix administration and container concepts
+Scripting experience (Bash, Python, or similar) to automate operational procedures and infrastructure improvements
+Experience participating in on-call rotations supporting production systems
+Strong problem-solving and troubleshooting skills; ability to work through ambiguous issues methodically
+Good communication skills; ability to document decisions and explain technical concepts to non-technical stakeholders
+Willingness to mentor junior engineers and contribute to team knowledge-sharing
+
+
+Education
+
+
+Bachelor's degree in Information Technology, Computer Science, or equivalent hands-on experience
+Relevant certifications (AWS Solutions Architect Associate, AWS DevOps Engineer, CKA, Terraform Associate) are a plus but not required
+
+
+What We Offer
+
+
+A challenging and rewarding role in an award-winning global business.
+Opportunities for personal and professional career development.
+Great working environment, competitive salary and benefits, and opportunities for educational support.
+Be part of an industry leading global team, renowned for excellence.
+
+
+Remuneration
+
+A highly competitive salary package will be awarded the successful candidate.
+
+Confidentiality Assured.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at The Citco Group Limited by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Dev Ops Engineer
+Dev Ops Engineer
+Acuity
+Cork, County Cork, Ireland
+19 minutes ago
+DevOps Engineer, Radar Engineering
+DevOps Engineer, Radar Engineering
+Apple
+Cork, County Cork, Ireland
+2 weeks ago
+Site Reliability Engineer
+Site Reliability Engineer
+McAfee
+Cork, County Cork, Ireland
+1 week ago
+Site Reliability Engineer, Enterprise Technology Services
+Site Reliability Engineer, Enterprise Technology Services
+Apple
+Cork, County Cork, Ireland
+3 weeks ago
+Dev Ops Senior Engineer
+Dev Ops Senior Engineer
+Acuity
+Cork, County Cork, Ireland
+1 week ago
+Lead DevOps Engineer
+Lead DevOps Engineer
+The Citco Group Limited
+Cork, County Cork, Ireland
+1 week ago
+Show more jobs like this 
+People also viewed
+Lead Cloud Systems Engineer | Cork
+Lead Cloud Systems Engineer | Cork
+
+OpenText
+
+Cork, County Cork, Ireland
+2 weeks ago
+Sr. Site Reliability Engineer | Cork
+Sr. Site Reliability Engineer | Cork
+
+OpenText
+
+Cork, County Cork, Ireland
+2 weeks ago
+Sr. Site Reliability Administrator
+Sr. Site Reliability Administrator
+
+OpenText
+
+Cork, County Cork, Ireland
+1 week ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+Acuity
+
+Cork, County Cork, Ireland
+5 days ago
+Sr. Cloud Applications Engineer (SRE) | Cork
+Sr. Cloud Applications Engineer (SRE) | Cork
+
+OpenText
+
+Cork, County Cork, Ireland
+2 weeks ago
+Senior Cloud Applications Engineer - Monitoring & Observability
+Senior Cloud Applications Engineer - Monitoring & Observability
+
+OpenText
+
+Cork, County Cork, Ireland
+7 hours ago
+Software Engineer — Triage Intelligence and Debug Engineering
+Software Engineer — Triage Intelligence and Debug Engineering
+
+Apple
+
+Cork, County Cork, Ireland
+4 months ago
+Software Automation Engineer, Localisation & Release Engineering
+Software Automation Engineer, Localisation & Release Engineering
+
+Apple
+
+Cork, County Cork, Ireland
+6 months ago
+Software Engineer 3
+Software Engineer 3
+
+MongoDB
+
+Cork, County Cork, Ireland
+4 days ago
+Cloud Applications Consultant
+Cloud Applications Consultant
+
+OpenText
+
+Cork, County Cork, Ireland
+5 days ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at The Citco Group Limited
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

@@ -1,0 +1,267 @@
+Title: Senior DevOps Engineer
+Company: The Citco Group Limited
+Location: Cork, County Cork, Ireland
+URL: https://ie.linkedin.com/jobs/view/senior-devops-engineer-at-the-citco-group-limited-4487483586
+Posted: 2026-11-11
+Deadline: N/A
+Reason: The role is a strong match for her extensive experience in CI/CD, Jenkins, and DevOps architecture, and it is located in Ireland, which is one of her target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer
+The Citco Group Limited  Cork, County Cork, Ireland
+11 hours ago   Be among the first 25 applicants
+  
+
+See who The Citco Group Limited has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Direct message the job poster from The Citco Group Limited
+
+Amanda Radice
+Amanda Radice
+Talent Acquisition Professional | Program & Project Leader | Financial Services & Technology | Citco
+Job Description
+
+Senior DevOps Engineer
+
+About Citco
+
+Since the 1940s Citco has provided specialist financial services to alternative investment funds, investors, multinationals and private clients worldwide. With close to 12,000 employees in 45 countries we pioneer innovative solutions that meet our clients’ evolving needs, and deliver exceptional service.
+
+Our continuous investment in learning means our people are among the best in the industry. And our corporate social responsibility programs provide meaningful and fulfilling work in the community.
+
+A career at Citco isn’t just a job – it’s an opportunity to excel in an environment that genuinely supports your personal and professional development.
+
+About The Role
+
+The Senior DevOps Engineer will drive the architecture, strategy, and technical direction of the Jenkins CI/CD platform and the broader EPE toolset that enables Citco's multi-cloud deployments across AWS and on-premise environments. This role blends deep technical ownership with mentoring and technical leadership, driving Infrastructure as Code practices (Terraform, CloudFormation) at scale, and acting as the primary technical escalation point for complex platform issues.
+
+The Senior DevOps Engineer will work closely with Platform Services leadership, Development Teams, and IT Operations to shape the technical roadmap and ensure platform capabilities scale with business needs.
+
+Job Duties In Brief
+
+
+Own the technical architecture and strategic direction for the Jenkins platform, including scaling strategy, worker migration to Kubernetes, and long-term platform design
+Act as the primary escalation point for complex Jenkins, pipeline, and platform issues, driving root cause analysis and permanent fixes
+Lead the design and implementation of Infrastructure as Code standards (Terraform, CloudFormation) across the team; review and guide IaC architecture decisions
+Design and optimize AWS CodePipeline integrations and broader CI/CD strategy across AWS services
+Drive technical ownership across platform tools and services (SonarQube, JFrog, Octopus Deploy, Kong, Kiro), including architecture decisions, major upgrades, and technical roadmap
+Lead the strategy and execution for Code Assistant (Kiro) management, including licensing optimization, adoption, and usage governance
+Architect and drive centralized logging, monitoring, and tracing solutions (Prometheus, Grafana, Loki, CloudWatch, Jaeger, OpenTelemetry) across all platforms
+Lead the migration of platform tools to Kubernetes; design and review Helm charts, cluster architecture, and Kubernetes deployment strategy
+Identify, design, and lead automation initiatives that reduce manual operational overhead across the team
+Participate in and provide senior-level support for on-call rotations; lead major incident response and post-incident reviews
+Mentor and coach mid-level and junior engineers; provide technical guidance, code/design reviews, and career development support
+Partner with Development Teams and stakeholders to translate business requirements into platform capabilities and long-term technical strategy
+Own architecture documentation, runbooks, and knowledge base standards for the team
+Contribute to capacity planning, cost optimization strategy, and vendor management/licensing discussions
+
+
+About You
+
+You are a seasoned DevOps engineer who has moved beyond "keeping the lights on" into owning platform architecture and driving technical strategy. You have deep, hands-on expertise across Jenkins, AWS, and Infrastructure as Code, and you're equally comfortable diving into a gnarly production issue as you are designing the long-term roadmap for a platform. You have solid Kubernetes experience and can lead migrations, not just participate in them. You naturally mentor others, elevate the technical bar for the team, and are seen as a trusted technical voice by both your peers and stakeholders. You communicate clearly across technical and non-technical audiences and take ownership beyond your immediate tasks.
+
+Experience And Technical Skills
+
+
+7+ years of professional hands-on experience with CI/CD platforms, cloud infrastructure, or DevOps engineering, including experience providing technical leadership or mentoring within a team
+Deep, hands-on expertise with architecture, scaling, controller/agent management, plugin ecosystem, and advanced troubleshooting of Jenkins
+Strong AWS background, particularly EC2, VPC, IAM, auto-scaling, CloudWatch, and broader architecture design; ability to make and defend infrastructure design decisions
+Advanced experience with Terraform and CloudFormation, with ability to define IaC standards, review complex modules, and guide teams on best practices
+Strong experience with AWS CodePipeline and CI/CD architecture; ability to design pipeline strategy at scale
+Strong experience with designing Helm charts, cluster architecture, networking, storage, and leading workload migrations to Kubernetes
+Hands-on experience with SonarQube, JFrog, and/or Octopus Deploy; ability to make architecture and upgrade decisions for these platforms
+Experience with Kong infrastructure management and API gateway architecture
+Experience managing or overseeing Code Assistant tools (Kiro or similar), including licensing strategy and adoption planning
+Strong experience with monitoring and observability architecture of Prometheus, Grafana, Loki, CloudWatch, Jaeger, OpenTelemetry; ability to design observability strategy, not just dashboards
+Solid understanding of Linux/Unix administration, networking, and container concepts at an architectural level
+Strong scripting/automation experience (Bash, Python, or similar); track record of building automation that reduces operational toil
+Experience leading or heavily participating in on-call rotations and major incident response for production systems
+Excellent problem-solving and troubleshooting skills; comfortable navigating ambiguity and driving resolution on complex, cross-system issues
+Strong communication skills; experience presenting technical decisions and roadmaps to both technical and non-technical stakeholders
+Demonstrated experience mentoring engineers and elevating team technical capability
+
+
+Education
+
+
+Bachelor's degree in Information Technology, Computer Science, or equivalent hands-on experience
+Relevant certifications (AWS Solutions Architect Associate/Professional, AWS DevOps Engineer Professional, CKA, CKS, Terraform Associate) are a plus but not required
+
+
+What We Offer
+
+
+A challenging and rewarding role in an award-winning global business.
+Opportunities for personal and professional career development.
+Great working environment, competitive salary and benefits, and opportunities for educational support.
+Be part of an industry leading global team, renowned for excellence.
+
+
+Remuneration
+
+A highly competitive salary package will be awarded the successful candidate.
+
+Confidentiality Assured.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at The Citco Group Limited by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Dev Ops Senior Engineer
+Dev Ops Senior Engineer
+Acuity
+Cork, County Cork, Ireland
+1 week ago
+DevOps Engineer
+DevOps Engineer
+The Citco Group Limited
+Cork, County Cork, Ireland
+11 hours ago
+Lead DevOps Engineer
+Lead DevOps Engineer
+The Citco Group Limited
+Cork, County Cork, Ireland
+1 week ago
+Sr. Site Reliability Engineer
+Sr. Site Reliability Engineer
+OpenText
+Cork, County Cork, Ireland
+3 days ago
+Site Reliability Engineer, Enterprise Technology Services
+Site Reliability Engineer, Enterprise Technology Services
+Apple
+Cork, County Cork, Ireland
+3 weeks ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+OpenText
+Cork, County Cork, Ireland
+1 week ago
+Show more jobs like this 
+People also viewed
+Lead Site Reliability Engineer
+Lead Site Reliability Engineer
+
+OpenText
+
+Cork, County Cork, Ireland
+2 weeks ago
+Sr. Cloud Applications Engineer (SRE) | Cork
+Sr. Cloud Applications Engineer (SRE) | Cork
+
+OpenText
+
+Cork, County Cork, Ireland
+2 weeks ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+Acuity
+
+Cork, County Cork, Ireland
+5 days ago
+Sr. Site Reliability Administrator
+Sr. Site Reliability Administrator
+
+OpenText
+
+Cork, County Cork, Ireland
+1 week ago
+Lead Site Reliability Engineer
+Lead Site Reliability Engineer
+
+OpenText
+
+Cork, County Cork, Ireland
+1 week ago
+Lead Cloud Systems Engineer | Cork
+Lead Cloud Systems Engineer | Cork
+
+OpenText
+
+Cork, County Cork, Ireland
+2 weeks ago
+Lead Site Reliability Engineer | Cork
+Lead Site Reliability Engineer | Cork
+
+OpenText
+
+Cork, County Cork, Ireland
+1 week ago
+Senior Cloud Applications Engineer - Monitoring & Observability
+Senior Cloud Applications Engineer - Monitoring & Observability
+
+OpenText
+
+Cork, County Cork, Ireland
+7 hours ago
+Cloud Applications Engineer - Monitoring & Observability
+Cloud Applications Engineer - Monitoring & Observability
+
+OpenText
+
+Cork, County Cork, Ireland
+6 days ago
+Site Reliability Engineering, Radar Engineering
+Site Reliability Engineering, Radar Engineering
+
+Apple
+
+Cork, County Cork, Ireland
+2 weeks ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at The Citco Group Limited
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
