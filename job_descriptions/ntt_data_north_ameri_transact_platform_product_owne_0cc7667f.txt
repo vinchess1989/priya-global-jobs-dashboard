@@ -1,0 +1,292 @@
+Title: Transact Platform Product Owner
+Company: NTT DATA North America
+Location: Dublin, County Dublin, Ireland
+URL: https://ie.linkedin.com/jobs/view/transact-platform-product-owner-at-ntt-data-north-america-4487829809
+Posted: 2026-11-11
+Deadline: N/A
+Reason: The role is a strong match for her expertise in release management, build/deployment automation, and configuration management within a complex, regulated-adjacent environment in Ireland.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Transact Platform Product Owner
+NTT DATA North America  Dublin, County Dublin, Ireland
+1 hour ago   Be among the first 25 applicants
+  
+
+See who NTT DATA North America has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Req ID: 397609
+
+NTT DATA strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now.
+
+We are currently seeking a Transact Platform Product Owner to join our team in Dublin, Dublin (IE-D), Ireland (IE).
+
+Summary
+
+We are seeking an experienced Transact Platform Product Owner to take end-to-end ownership of a critical Transact platform and its supporting technology stack.
+
+The successful candidate will bring 10+ years of experience working with and running Transact, with a strong understanding of how the constituent parts of the platform operate together, including JBoss, Linux, Oracle and Java, alongside operational monitoring and observability tooling such as Splunk and Wily.
+
+This is a role for a proactive, technically credible leader who understands what it takes to operate a complex, business-critical production platform. The Product Owner will set direction, lead the team, maintain strong operational and technology controls, and identify emerging risks before they become incidents.
+
+This individual will be expected to see around corners, challenge assumptions, and maintain a firm grip on platform health, technical debt, resilience, risk and delivery.
+
+A key accountability will be maintaining end-to-end oversight of the build and deployment of all Transact packages across the environment estate, ensuring changes are built, tested, promoted and deployed through a controlled, repeatable and increasingly automated process.
+
+Key Responsibilities
+
+
+End-to-End Platform Ownership
+Own the Transact platform end to end, with accountability for its health, stability, resilience, supportability and ongoing evolution.
+Maintain a detailed understanding of the complete technology stack and the dependencies between Transact, JBoss, Linux, Oracle, Java and associated infrastructure.
+Understand the platform at sufficient depth to identify weaknesses, challenge technical proposals and make informed prioritisation decisions.
+Balance business change with the engineering investment required to keep the platform secure, resilient and supportable.
+Maintain a clear view of platform capacity, lifecycle, technical debt, vulnerabilities and emerging technology risks.
+Operational & Control Excellence
+Establish and maintain strong operational and technology controls across the platform.
+Use Splunk, Wily and other monitoring and observability capabilities to understand platform behaviour, performance, trends and emerging issues.
+Ensure recurring incidents are investigated to root cause rather than repeatedly treated as isolated production problems.
+Drive effective problem management and preventative action.
+Ensure vulnerabilities, obsolescence, technical debt, capacity and resilience risks have clear ownership and remediation plans.
+Maintain strong disciplines around production readiness, change quality and operational acceptance.
+Continually assess where existing controls can be strengthened or automated.
+Build, Package & Deployment Management
+Own the build, packaging and deployment process for all Transact changes across all environments, from development through test and production.
+Ensure application code, Java components, Transact changes and configuration packages follow a consistent, controlled and repeatable deployment approach.
+Drive automation of build and deployment activities wherever practical, reducing manual intervention, deployment risk and dependency on individual knowledge.
+Maintain clear traceability of every package, including what it contains, its source, version, approvals, target environment and deployment status.
+Ensure packages are promoted consistently through environments, with the appropriate testing and control gates before production.
+Maintain strong governance around release sequencing, dependencies, rollback and production readiness.
+Work closely with engineering, testing and service teams to continually improve the reliability and efficiency of the build and deployment process.
+Ensure build and deployment failures are understood, root causes addressed and recurring manual activities progressively engineered out.
+
+
+The objective is straightforward: at any point the team should be able to establish what is being deployed, what it contains, where it has already been deployed and whether it is ready to progress to the next environment.
+
+
+Technical Leadership
+Lead and provide direction to the multidisciplinary team responsible for engineering and running the Transact platform.
+Bring together application, middleware, database, operating system and infrastructure perspectives, avoiding siloed ownership of platform issues.
+Be technically credible enough to challenge specialists while empowering engineers to make sound technical decisions.
+Create clarity around priorities and ensure the team understands both what needs to be delivered and why it matters.
+Establish high standards of engineering discipline, accountability and technical ownership.
+Challenge recurring work, manual processes and accepted technical constraints to identify opportunities for improvement and automation.
+Develop engineering capability within the team and reduce dependency on individual subject-matter experts.
+Product Ownership & Strategy
+Own and communicate a clear strategic and engineering roadmap for the Transact platform.
+Translate business priorities into an achievable technology roadmap while protecting the investment necessary for platform health and resilience.
+Prioritise across business change, engineering improvement, resilience, technical debt, lifecycle management and control requirements.
+Understand strategic business requirements and assess their implications for the underlying platform.
+Make informed trade-offs between short-term delivery commitments and long-term platform sustainability.
+Ensure technical debt and resilience work are treated as genuine product priorities rather than discretionary activity.
+Proactive Risk Management
+
+
+The Product Owner is expected to look beyond today's issues and see around corners.
+
+This includes:
+
+
+Identifying emerging capacity, performance, resilience and lifecycle risks before they result in service impact.
+Identifying single points of failure across technology, process and knowledge.
+Recognising recurring patterns across incidents and driving systemic remediation.
+Understanding upcoming changes and their potential cumulative impact on the platform.
+Surfacing risks early, with clear articulation of the business impact, options and recommended action.
+Maintaining a forward-looking view of platform health rather than relying solely on current operational status.
+
+
+Experience
+
+Essential
+
+
+10+ years' experience working with Transact, ideally including significant responsibility for operating the platform in production.
+Deep understanding of the architecture and operational characteristics of the Transact ecosystem.
+Strong practical understanding of:
+Transact
+JBoss / middleware
+Linux
+Oracle
+Java
+Significant experience operating complex, high-availability, business-critical technology platforms.
+Strong understanding of incident, problem, change, release, capacity, resilience and lifecycle management.
+Strong knowledge of software build, packaging, environment promotion and production deployment disciplines.
+Experience improving and automating build and deployment processes.
+Experience leading multidisciplinary engineering and technology teams.
+Ability to operate effectively across application, database, middleware and infrastructure disciplines.
+Ability to translate between complex technical considerations, operational risk and business impact.
+
+
+About NTT DATA
+
+NTT DATA is a $30 billion business and technology services leader, serving 75% of the Fortune Global 100. We are committed to accelerating client success and positively impacting society through responsible innovation. We are one of the world's leading AI and digital infrastructure providers, with unmatched capabilities in enterprise-scale AI, cloud, security, connectivity, data centers and application services. our consulting and Industry solutions help organizations and society move confidently and sustainably into the digital future. As a Global Top Employer, we have experts in more than 50 countries. We also offer clients access to a robust ecosystem of innovation centers as well as established and start-up partners. NTT DATA is a part of NTT Group, which invests over $3 billion each year in R&D.
+
+Whenever possible, we hire locally to NTT DATA offices or client sites. This ensures we can provide timely and effective support tailored to each client’s needs. While many positions offer remote or hybrid work options, these arrangements are subject to change based on client requirements. For employees near an NTT DATA office or client site, in-office attendance may be required for meetings or events, depending on business needs. At NTT DATA, we are committed to staying flexible and meeting the evolving needs of both our clients and employees. NTT DATA recruiters will never ask for payment or banking information and will only use @nttdata.com, @nttdatafed.com and @talent.nttdataservices.com email addresses. If you are requested to provide payment or disclose banking information, please submit a contact us form, https://us.nttdata.com/en/contact-us.
+
+NTT DATA endeavors to make https://us.nttdata.com accessible to any and all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please contact us at https://us.nttdata.com/en/contact-us. This contact information is for accommodation requests only and cannot be used to inquire about the status of applications. NTT DATA is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status. For our EEO Policy Statement, please click here. If you'd like more information on your EEO rights under the law, please click here. For Pay Transparency information, please click here.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at NTT DATA North America by 2x
+
+See who you know
+
+Get notified about new Product Owner jobs in Dublin, County Dublin, Ireland.
+
+Sign in to create job alert
+Similar jobs
+Product Manager - Platform Applications
+Product Manager - Platform Applications
+Morgan McKinley
+Dublin, County Dublin, Ireland
+€80,000 - €90,000
+2 weeks ago
+Product Owner (Deposits)
+Product Owner (Deposits)
+Robert Walters
+Dublin, County Dublin, Ireland
+€100,000 - €120,000
+1 week ago
+Product Owner (Technical)
+Product Owner (Technical)
+Revolut
+Greater Dublin
+2 weeks ago
+Product Owner
+Product Owner
+ESW
+County Dublin, Ireland
+5 days ago
+Product Owner
+Product Owner
+Fruition Group Ireland
+Dublin, County Dublin, Ireland
+1 day ago
+Product Owner
+Product Owner
+Cubic³
+Dublin, County Dublin, Ireland
+1 week ago
+Show more jobs like this 
+People also viewed
+Product Manager, E-Invoicing
+Product Manager, E-Invoicing
+
+Stripe
+
+Dublin, County Dublin, Ireland
+2 months ago
+Product Owner - Trade Finance
+Product Owner - Trade Finance
+
+IT Search
+
+Dublin, County Dublin, Ireland
+1 day ago
+Senior Product Manager
+Senior Product Manager
+
+Brightwater Recruitment
+
+Dublin, County Dublin, Ireland
+€90,000 - €125,000
+1 week ago
+Product Manager: B2B2C
+Product Manager: B2B2C
+
+Holafly
+
+Dublin, County Dublin, Ireland
+1 month ago
+Technical Product Manager
+Technical Product Manager
+
+Atrium (EMEA)
+
+Dublin, County Dublin, Ireland
+1 week ago
+Senior Product Manager
+Senior Product Manager
+
+Sony Interactive Entertainment
+
+Dublin, County Dublin, Ireland
+4 days ago
+e-Commerce Product Owner
+e-Commerce Product Owner
+
+daa
+
+Dublin, County Dublin, Ireland
+1 week ago
+Senior Product Manager 🇫🇷
+Senior Product Manager 🇫🇷
+
+Pennylane
+
+Dublin, County Dublin, Ireland
+3 days ago
+App Project Manager
+App Project Manager
+
+Ryanair - Europe's Favourite Airline
+
+Swords, County Dublin, Ireland
+4 weeks ago
+Principal Technical Product Manager
+Principal Technical Product Manager
+
+Toast
+
+Dublin, County Dublin, Ireland
+6 days ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at NTT DATA North America
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

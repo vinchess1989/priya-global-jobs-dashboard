@@ -1,0 +1,245 @@
+Title: Engineering Manager, Site Reliability Engineering
+Company: General Motors
+Location: Limerick, County Limerick, Ireland
+URL: https://ie.linkedin.com/jobs/view/engineering-manager-site-reliability-engineering-at-general-motors-4489609544
+Posted: 2026-11-11
+Deadline: Open until filled
+Reason: The role aligns with the candidate's extensive background in CI/CD, configuration management, and infrastructure reliability within a safety-critical automotive context, and it is located in an eligible country with relocation support mentioned.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Engineering Manager, Site Reliability Engineering
+General Motors  Limerick, County Limerick, Ireland
+6 hours ago   Be among the first 25 applicants
+  
+
+See who General Motors has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Job Description
+
+General Motors is transforming the automotive landscape through its next-generation Software-Defined Vehicle (SDV) platform. At the core of this transformation is data — powering advanced safety, personalization, energy optimization, and seamless user experiences. To support this, we’re scaling our Site Reliability Engineering (SRE) organization, responsible for keeping our data platform resilient, performant, and scalable across millions of connected vehicles.
+
+We are seeking an experienced, hands-on Engineering Manager with a deep background in SRE, cloud operations, and project ownership to help define, build, and evolve the backbone of our data-driven future. This role is expected to be approximately 80% engineering and 20% people leadership — leading a small team of 8 engineers while remaining highly technical and contributing directly to the reliability and operability of customer-facing systems.
+
+What You’ll Be Doing
+
+
+Lead the design and implementation of scalable, fault-tolerant, and observable infrastructure supporting vehicle telemetry, data ingestion, and platform operations.
+Remain deeply hands-on: contribute code, review designs and pull requests, and unblock delivery on critical reliability work.
+Champion configuration management, infrastructure refactoring, and testing frameworks to strengthen system resilience.
+Partner across SRE, development, and product teams to improve service reliability, deployment safety, and incident response practices.
+Drive internal consultation and strategic planning on reliability standards for new product initiatives and customer-facing applications; communicate trade-offs with strong executive function.
+Define and evolve observability strategy using tools such as Prometheus, Grafana, and Datadog, with automated alerting and actionable SLO dashboards.
+Own and improve on-call practices, manage blameless postmortems, and guide root cause analysis to eliminate recurring failures.
+Lead and develop a team of 8 engineers through coaching, feedback, and growth planning; cultivate a high-performance culture rooted in extreme ownership and operational excellence.
+Support hiring and onboarding for the team; build psychological safety and leverage high EQ to navigate ambiguity and change.
+Support compliance and privacy-driven engineering initiatives, with potential crossover into areas like data retention and safety certification tooling.
+
+
+
+What You Bring
+
+
+8+ years in SRE, DevOps, or systems engineering, including experience leading teams through mentoring, technical direction, and people leadership.
+Track record of building and maintaining high-scale, cloud-native systems (preferably AWS, GCP, or Azure).
+Expertise in container orchestration and deployment strategies using Kubernetes and CI/CD pipelines.
+Proficiency in Python, Go, or Java, with strong code review and readability standards; comfortable staying hands-on in production code.
+Experience leading cross-functional infrastructure projects and setting technical direction while balancing reliability, performance, and cost.
+Ability to think and act under pressure — whether debugging a live incident or prioritizing work across competing stakeholder needs.
+Familiarity with privacy engineering, data security, or experience supporting compliance frameworks is a plus.
+Exceptional communication skills and executive presence — able to influence across levels, translate technical risk into business impact, and drive alignment.
+Demonstrated people leadership with high EQ: coaching, feedback, conflict navigation, and creating an inclusive, accountable team environment.
+
+
+
+Why Join Us?
+
+This is more than an engineering role — it’s an opportunity to shape the future of mobility. At GM, you’ll join a team committed to cutting-edge technology, sustainability, and inclusive innovation. With meaningful projects, a collaborative culture, and a global mission, your impact will be tangible and far-reaching.
+
+Ready to lead reliability at scale? Join our SRE team in Limerick and drive the future of connected mobility.
+
+This role is categorized as hybrid. This means the selected candidate is expected to report to a specific location at least 3 times a week {or other frequency dictated by their manager}. Relocation benefits are available for candidates who qualify under company policy.
+
+About GM
+
+Our vision is a world with Zero Crashes, Zero Emissions and Zero Congestion and we embrace the responsibility to lead the change that will make our world better, safer and more equitable for all.
+
+Why Join Us
+
+We believe we all must make a choice every day – individually and collectively – to drive meaningful change through our words, our deeds and our culture. Every day, we want every employee to feel they belong to one General Motors team.
+
+Non-Discrimination and Equal Employment Opportunities
+
+General Motors is committed to being a workplace that is not only free of unlawful discrimination, but one that genuinely fosters inclusion and belonging. We strongly believe that providing an inclusive workplace creates an environment in which our employees can thrive and develop better products for our customers.
+
+We encourage interested candidates to review the key responsibilities and qualifications for each role and apply for any positions that match their skills and capabilities. Applicants in the recruitment process may be required, where applicable, to successfully complete a role-related assessment(s) and/or a pre-employment screening prior to beginning employment. To learn more, visit How we Hire.
+
+Accommodations
+
+General Motors offers opportunities to all job seekers including individuals with disabilities. If you need a reasonable accommodation to assist with your job search or application for employment, email us or call us at 1-800-865-7580. In your email, please include a description of the specific accommodation you are requesting as well as the job title and requisition number of the position for which you are applying.
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Industries
+Motor Vehicle Manufacturing, Appliances, Electrical, and Electronics Manufacturing, and IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at General Motors by 2x
+
+See who you know
+
+Get notified about new Engineering Manager jobs in Limerick, County Limerick, Ireland.
+
+Sign in to create job alert
+Similar jobs
+Platform Engineering Manager
+Platform Engineering Manager
+Precisely
+Ireland
+1 week ago
+Software Engineering Manager, Release of Information Delivery
+Software Engineering Manager, Release of Information Delivery
+Datavant Ireland
+Galway, County Galway, Ireland
+1 week ago
+Site Reliability Engineering Technical Lead
+Site Reliability Engineering Technical Lead
+AMCS Group
+Limerick, County Limerick, Ireland
+1 day ago
+Engineering Manager | Kubernetes Automation
+Engineering Manager | Kubernetes Automation
+Cast AI
+Ireland
+1 month ago
+Head of Platform (Infrastructure & DevOps)
+Head of Platform (Infrastructure & DevOps)
+Mimica
+Ireland
+3 weeks ago
+Engineering Manager – Developer Infrastructure
+Engineering Manager – Developer Infrastructure
+nineDots.io
+Ireland
+3 weeks ago
+Show more jobs like this 
+People also viewed
+Software Engineering Manager
+Software Engineering Manager
+
+Sterling Engineering Ltd - Ireland & Europe
+
+County Clare, Ireland
+2 weeks ago
+Senior Software Engineer
+Senior Software Engineer
+
+General Motors
+
+Limerick, County Limerick, Ireland
+1 day ago
+Engineering Manager
+Engineering Manager
+
+Ohshima Ireland Limited
+
+Shannon, County Clare, Ireland
+2 months ago
+Senior Manager Hardware Engineering
+Senior Manager Hardware Engineering
+
+BD
+
+Limerick, County Limerick, Ireland
+2 months ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+Attio
+
+Ireland
+1 week ago
+Engineering Manager
+Engineering Manager
+
+Noel Group
+
+Shannon, County Clare, Ireland
+€75,000 - €90,000
+1 week ago
+Lead Engineer, AI Platform
+Lead Engineer, AI Platform
+
+Circle
+
+Ireland
+$170,000 - $170,000
+6 days ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+FIS
+
+Ireland
+1 week ago
+Software Engineering Manager - IAM Team - Control Plane - Platform
+Software Engineering Manager - IAM Team - Control Plane - Platform
+
+Elastic
+
+Ireland
+€87,300 - €138,100
+2 weeks ago
+Senior Cloud Engineer - Kubernetes Platform
+Senior Cloud Engineer - Kubernetes Platform
+
+Medtronic
+
+Galway, County Galway, Ireland
+2 weeks ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at General Motors
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

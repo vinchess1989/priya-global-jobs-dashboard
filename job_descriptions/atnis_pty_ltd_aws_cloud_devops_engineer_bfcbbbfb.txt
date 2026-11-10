@@ -1,0 +1,75 @@
+Title: AWS Cloud DevOps Engineer
+Company: ATNIS Pty Ltd
+Location: Sydney, NSW, Australia
+URL: https://au.jora.com/job/Cloud-DevOps-Engineer-4e4053bee344a51681ef6f5e7aa4bec9
+Posted: 12h ago
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in CI/CD, automation, and configuration management, and it is located in an eligible country (Australia) with no explicit visa restrictions mentioned.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Search
+Sign in
+What
+Where
+Search jobs
+AWS Cloud DevOps Engineer
+ATNIS Pty Ltd
+–
+Sydney NSW
+$147,000 - $147,000 a year
+Full time, Permanent
+12h ago, from Workforce Australia
+Apply on company site
+Atnis Pty Ltd is looking for an experienced Cloud DevOps Engineer responsible for designing, automating, securing, and maintaining scalable, reliable, highly available AWS infrastructure and application platforms. Collaborates with development, security, and SRE teams to deliver CI/CD automation, Infrastructure as Code (IaC), secure deployments, monitoring, vulnerability management, and disaster recovery, improving developer productivity and platform reliability.
+
+KEY RESPONSIBILITIES
+• Design, deploy, and manage secure, highly available AWS infrastructure, cloud services, and integrated SaaS platforms such as Databricks.
+• Develop and manage CI/CD pipelines using Jenkins, GitHub Actions, AWS CodeBuild, and AWS CodePipeline; automate provisioning and deployments with Terraform, AWS CloudFormation, Ansible, Python, Bash, and PowerShell.
+• Plan and execute AWS account-to-account, application, and data migrations, infrastructure integrations, and disaster recovery solutions while maintaining security, data integrity, and service continuity.
+• Deploy and maintain containerized workloads on AWS ECS and core AWS services, including EC2, S3, RDS, Lambda, and networking components.
+• Implement monitoring and alerting using AWS CloudWatch, Splunk, and Datadog; strengthen cloud security through vulnerability assessments and remediation using Qualys and Nessus.
+• Collaborate with development, SRE, security, and infrastructure teams to standardize deployment practices, improve developer productivity and platform reliability, and resolve production incidents.
+
+TECHNICAL SKILLS AND COMPETENCIES
+• 5+ years of enterprise IT experience, including AWS cloud engineering, DevOps, application delivery, and infrastructure operations.
+• Strong hands-on experience in AWS account, application, and data migrations, high availability, disaster recovery, troubleshooting, and stakeholder collaboration.
+• Experience building and managing CI/CD pipelines using Jenkins, GitHub Actions, AWS CodeBuild, AWS CodePipeline, Nexus, and SonarQube.
+• Proficiency in Infrastructure as Code and configuration management using Terraform, AWS CloudFormation, and Ansible.
+• Strong scripting and operational automation skills using Python, Bash, and PowerShell.
+• Knowledge of cloud networking and security, including security groups, IAM, AWS WAF, CloudFront, PrivateLink, and load balancing.
+• Experience implementing observability, logging, performance monitoring, and alerting using Splunk, Datadog, and AWS CloudWatch.
+• Experience assessing vulnerabilities and implementing security remediation using Qualys, Nessus and knowledge of NIST CSF and PCI DSS.
+
+Salary: $147,000 per annum + Superannuation
+Apply on company site
+Be careful - Don’t provide your bank or credit card details when applying for jobs. Don't transfer any money or complete suspicious online surveys. If you see something suspicious, report this job ad.
+Email to yourself or a friend
+Email job
+Discover Jora
+Browse jobs
+Browse salaries
+Find recruiter
+About
+FAQ
+Blog
+Reviews
+Browse Jobs in Australia
+Jobs in Sydney
+Jobs in Melbourne
+Jobs in Hobart
+Jobs in Brisbane
+Jobs in Perth
+Jobs in Darwin
+Jobs in Adelaide
+Connect with us
+TikTok
+Facebook
+Linkedin
+Get Jora app
+Contact us
+Privacy
+Terms & Conditions
+©2026 Job Seeker Pty Ltd
