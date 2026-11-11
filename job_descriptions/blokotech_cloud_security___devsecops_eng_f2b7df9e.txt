@@ -1,0 +1,392 @@
+Title: Cloud Security & DevSecOps Engineer (AWS)
+Company: Blokotech
+Location: Valletta, Malta
+URL: https://mt.linkedin.com/jobs/view/cloud-security-devsecops-engineer-aws-at-blokotech-4489601381
+Posted: 2026-11-11
+Deadline: Open until filled
+Reason: The role aligns with the candidate's extensive experience in CI/CD, automation, and security/compliance in regulated environments, and it is located in a target country (Malta) with no US restrictions.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Cloud Security & DevSecOps Engineer (AWS)
+Blokotech  Valletta, Malta
+7 hours ago   Be among the first 25 applicants
+  
+
+See who Blokotech has hired for this role
+
+Apply
+Save
+
+Cloud Security & DevSecOps Engineer (AWS)
+
+Company: Blokotech
+
+Department: Engineering & Infrastructure
+
+Position: Full-Time
+
+Level: Senior / Strong Mid-Senior
+
+Location: Malta (Hybrid) / Europe (Remote)
+
+About Blokotech
+
+Blokotech is a technology company specializing in B2B iGaming platforms, casino aggregation, sportsbook integrations, and scalable gaming technology solutions.
+
+As we continue to expand our infrastructure, products, and international operations, we are looking for an experienced Cloud Security & DevSecOps Engineer to strengthen our cybersecurity posture, secure our AWS environments, and implement robust security practices across our engineering operations.
+
+Role Overview
+
+The successful candidate will take ownership of improving the security, resilience, and operational protection of Blokotech’s cloud infrastructure and applications.
+
+This is a hands-on technical role focused on identifying vulnerabilities, reducing infrastructure risks, implementing security controls, and embedding security into our development and deployment processes.
+
+The primary objective is to establish a proactive, automated, and continuously monitored security framework across our AWS infrastructure.
+
+Key Responsibilities
+
+1.     AWS Cloud Security
+
+
+
+
+Conduct comprehensive security assessments of existing AWS environments.
+Identify and remediate security vulnerabilities, misconfigurations, and potential attack vectors.
+Strengthen AWS IAM policies, permissions, roles, and access controls.
+Implement least-privilege principles and secure access management.
+Review and improve VPC architecture, network segmentation, security groups, and network access controls.
+Secure AWS services including EC2, ECS, Fargate, RDS, S3, CloudFront, and other relevant infrastructure components.
+Implement and optimize AWS security services such as GuardDuty, Security Hub, Inspector, CloudTrail, Config, WAF, and KMS.
+Strengthen encryption, secrets management, and credential rotation.
+Improve protection against DDoS attacks and unauthorized infrastructure access.
+
+
+
+
+2.     Vulnerability Management & Threat Detection
+
+
+
+
+Establish continuous vulnerability scanning across cloud infrastructure and applications.
+Identify, prioritize, and coordinate remediation of security vulnerabilities.
+Implement automated security alerts and threat detection mechanisms.
+Monitor suspicious activities, unauthorized access attempts, and abnormal infrastructure behavior.
+Coordinate periodic penetration testing and security assessments.
+Develop incident response procedures and security remediation playbooks.
+Support security investigations and root-cause analysis.
+
+
+
+
+3.     DevSecOps & CI/CD Security
+
+
+
+
+Integrate security checks into development and deployment pipelines.
+Implement automated code security scanning (SAST), dependency scanning (SCA), secrets detection, and container image scanning.
+Secure CI/CD workflows, deployment credentials, and build environments.
+Work closely with developers to identify and resolve application security vulnerabilities.
+Establish secure deployment standards across staging and production environments.
+Improve container security for Docker, ECS, and Fargate workloads.
+Promote secure coding practices and security-by-design principles.
+
+
+
+
+4.     Infrastructure Hardening & Operational Security
+
+
+
+
+Review and strengthen server, container, database, and network configurations.
+Implement secure patch management and infrastructure hardening procedures.
+Improve backup protection, disaster recovery security, and infrastructure resilience.
+Establish appropriate access controls for employees, developers, and third-party partners.
+Review external integrations, APIs, and third-party connectivity from a security perspective.
+Support infrastructure automation and Infrastructure as Code security practices.
+
+
+
+
+5.     Security Monitoring & Incident Response
+
+
+
+
+Establish centralized security monitoring and logging.
+Integrate security events with existing observability and monitoring tools.
+Develop actionable security dashboards and alerts.
+Implement incident detection, escalation, containment, and recovery procedures.
+Maintain audit trails and security event records.
+Regularly test incident response and disaster recovery readiness.
+
+
+
+
+
+
+
+6.     Security Governance & Compliance
+
+
+
+
+Develop and maintain practical cloud security policies and operational procedures.
+Align infrastructure security with recognized industry standards such as AWS Well-Architected Security Pillar, CIS Benchmarks, and OWASP.
+Support relevant security audits, regulatory requirements, and compliance initiatives.
+Document infrastructure risks, remediation actions, and security improvements.
+Provide regular security posture reports to engineering leadership and management.
+
+
+
+
+Required Skills & Experience
+
+
+
+
+4+ years of experience in Cloud Security, DevSecOps, Infrastructure Security, or related engineering roles.
+Strong hands-on experience with AWS infrastructure and security services.
+Solid understanding of IAM, VPC networking, encryption, logging, and cloud security architecture.
+Practical experience securing Linux servers, Docker containers, and cloud-native applications.
+Experience with AWS ECS/Fargate and EC2 environments.
+Experience implementing security automation within CI/CD pipelines.
+Familiarity with vulnerability assessment, threat detection, and incident response.
+Experience with Terraform or other Infrastructure as Code tools.
+Scripting experience with Python, Bash, or similar languages.
+Strong understanding of web application security, API security, and OWASP Top 10.
+Ability to independently identify security risks and implement practical solutions.
+
+
+
+
+
+
+
+
+
+
+Nice to Have
+
+
+
+
+AWS Certified Security – Specialty or equivalent certifications.
+Experience securing high-traffic transactional platforms.
+Experience in iGaming, fintech, payments, or other regulated industries.
+Familiarity with New Relic, SIEM platforms, and security observability solutions.
+Experience with Kubernetes or advanced container orchestration.
+Knowledge of ISO 27001, SOC 2, PCI DSS, or relevant regulatory security requirements.
+Experience with penetration testing tools and security assessment methodologies.
+
+
+
+
+First 90 Days – Expected Deliverables
+
+First 30 Days – Assessment & Risk Identification
+
+Perform an initial security assessment of the AWS environments.
+Identify critical vulnerabilities, misconfigurations, and security gaps.
+Review IAM permissions, network exposure, logging, and security monitoring.
+Deliver a prioritized security risk assessment and remediation roadmap.
+
+
+
+
+Days 31–60 – Security Hardening
+
+Remediate high-priority infrastructure vulnerabilities.
+Improve access controls, network security, and credential management.
+Implement or optimize automated vulnerability scanning and threat detection.
+Introduce initial DevSecOps security controls into CI/CD pipelines.
+
+
+
+
+Days 61–90 – Automation & Continuous Protection
+
+Establish continuous security monitoring and reporting.
+Implement automated security checks and remediation workflows where appropriate.
+Formalize incident response and security escalation procedures.
+Deliver an ongoing security improvement roadmap with measurable KPIs.
+
+
+
+
+Success Metrics
+
+Performance will be evaluated through measurable security improvements, including:
+
+Reduction in critical and high-severity security vulnerabilities.
+Improved AWS security posture and configuration compliance.
+Increased security monitoring and threat detection coverage.
+Faster vulnerability remediation and incident response.
+Successful implementation of automated security checks in CI/CD pipelines.
+Reduction in excessive permissions and exposed infrastructure.
+Improved security documentation and operational readiness.
+
+
+
+
+What We Are Looking For
+
+We are looking for a proactive, technically strong, and execution-oriented engineer who can take ownership of cloud security improvements.
+
+This is not a purely advisory or compliance-focused position.
+
+We need someone who can assess risks, design solutions, implement security controls, automate processes, and continuously improve the protection of our infrastructure and applications.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT System Custom Software Development
+  
+
+Referrals increase your chances of interviewing at Blokotech by 2x
+
+See who you know
+
+Get notified about new Security Engineer jobs in Valletta, Malta.
+
+Sign in to create job alert
+Similar jobs
+Platform Core DevOps Engineer - Infra
+Platform Core DevOps Engineer - Infra
+Betsson Group
+Valletta, Valletta, Malta
+1 week ago
+Payments - DevOps Engineer
+Payments - DevOps Engineer
+Betsson Group
+Valletta, Valletta, Malta
+2 weeks ago
+Principal Security Architect (On-Chain security & Custody)
+Principal Security Architect (On-Chain security & Custody)
+BTSE
+Valletta, Valletta, Malta
+1 week ago
+Security Operations Analyst (SIEM Operations and Threat Detection)
+Security Operations Analyst (SIEM Operations and Threat Detection)
+Talan
+Valletta, Valletta, Malta
+3 days ago
+IT Systems Administrator
+IT Systems Administrator
+Lombard Bank Malta plc
+Valletta, Valletta, Malta
+1 month ago
+System & Network Engineer
+System & Network Engineer
+EUROPEAN DYNAMICS
+Valletta, Valletta, Malta
+1 week ago
+Show more jobs like this 
+People also viewed
+Senior Fullstack Engineer - Node.js/TypeScript
+Senior Fullstack Engineer - Node.js/TypeScript
+
+Twin Harbour Interactive
+
+Valletta, Malta
+2 weeks ago
+Quality Engineer
+Quality Engineer
+
+Crane Currency
+
+Valletta, Valletta, Malta
+2 weeks ago
+Managing Director
+Managing Director
+
+GCS Malta
+
+Valletta, Malta
+1 day ago
+IT Internal Auditor, Senior
+IT Internal Auditor, Senior
+
+Shift4
+
+Valletta, Valletta, Malta
+5 days ago
+Observability Engineer - Infra
+Observability Engineer - Infra
+
+Betsson Group
+
+Valletta, Valletta, Malta
+2 weeks ago
+Platform Database Engineer - Infra
+Platform Database Engineer - Infra
+
+Betsson Group
+
+Valletta, Valletta, Malta
+2 days ago
+Incident Engineer
+Incident Engineer
+
+Betsson Group
+
+Valletta, Valletta, Malta
+2 weeks ago
+Gaming Architect
+Gaming Architect
+
+Betsson Group
+
+Valletta, Valletta, Malta
+2 weeks ago
+Sportsbook - Backend Software Engineer
+Sportsbook - Backend Software Engineer
+
+Betsson Group
+
+Valletta, Valletta, Malta
+6 days ago
+Second Engineer
+Second Engineer
+
+MSC Cruises
+
+Valletta, Valletta, Malta
+5 days ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+You’re signed out
+Sign in for the full experience.
+Sign in Join now

@@ -1,0 +1,286 @@
+Title: IT System Engineer
+Company: TOPPAN Security
+Location: Zejtun, Malta
+URL: https://mt.linkedin.com/jobs/view/it-system-engineer-at-toppan-security-4487484619
+Posted: 2026-11-11
+Deadline: N/A
+Reason: The role aligns perfectly with the candidate's background in release management, change management, and regulated environments (ISO/eIDAS), and Malta is a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+IT System Engineer
+TOPPAN Security  Zejtun, Malta
+11 hours ago   Be among the first 25 applicants
+  
+
+See who TOPPAN Security has hired for this role
+
+Apply 
+Save
+
+Direct message the job poster from TOPPAN Security
+
+Emese Balázs
+Emese Balázs
+
+ABOUT US
+
+At TOPPAN Security, our mission is to shape a meaningful, technology-driven future by being a global leader in mission-critical identity and payment technologies.
+
+We serves as the international development arm of the TOPPAN Group in the security domain founded in 1900. TOPPAN is a trusted Japanese brand renowned for its commitment to exceptional quality. Building on this legacy, we combine bold ideas, deep sector expertise, and collaborative intelligence to deliver secure, future-ready solutions.
+
+Our culture is grounded in four core values: Agility, Ownership, Resilience, and a Sense of Fun. We move fast, lead with accountability, grow through challenges, and bring positive energy into everything we do.
+
+Join us and be part of a global, collaborative team where trust and innovation drive everything we do.
+
+
+
+
+About the role and what you’ll do
+
+The role involves deploying, configuring, and maintaining software packages for various high-profile IT systems, including the Public Key Infrastructure (PKI). This includes supporting and improving the underlying systems to ensure optimal operation across the entire solution.
+
+Deployments & Change Management
+
+· Lead the software deployment lifecycle, ensuring effective planning, implementation, maintenance, and retirement of software packages
+· Provide technical leadership for system design, integration, and architecture, ensuring quality, security, scalability, and compliance with agreed standards
+· Manage change processes, ensuring changes are planned, tested, documented, approved, and supported by appropriate rollback procedures
+· Oversee testing and quality assurance throughout the project lifecycle to ensure reliable hardware, software, and documentation deliverables
+
+
+
+
+Support & Maintenance
+
+· Provide technical leadership for the support and maintenance of Windows Server environments, PKI infrastructure, backup, networking, and other critical systems
+· Lead Incident and Problem Management activities, including root cause analysis, resolution of complex issues, and implementation of preventive measures in line with ITIL practices
+· Collaborate with internal teams and third-party vendors to support system integrations, Level 3 escalations, and business-critical operations
+
+Support PKI operations and Trusted Roles, ensuring compliance with ICAO, eIDAS, and other applicable security and regulatory standards
+
+Stakeholder and Knowledge Management
+
+· Lead technical meetings and communicate effectively with internal and external stakeholders
+· Act as Technical Lead on project teams, providing updates on technical deliverables and work packages
+· Maintain technical documentation, knowledge bases, and training materials, ensuring accuracy, version control, and compliance with IT standards
+· Develop and maintain expert knowledge of end-to-end solutions to provide technical guidance and troubleshoot complex issues
+· Promote best practices, support compliance requirements, and coach less experienced team members
+
+About you
+
+The successful candidate will be focused on integrating new services and improvements whilst ensuring stability and performance of the system is maintained, by troubleshooting issues to root cause resolutions. This includes improving the security posture to ensure compliance with current and recently introduced security standards. In addition, the successful candidate should be a mentor for fellow support teams personnel.
+
+Experience and knowledge
+
+· Higher level education in IT or a related degree
+· Minimum of 5 years’ experience successfully supporting, maintenance and operations in windows enterprise environments
+· Experience in audits and certifications such as ISO27001, EIDAS, ICAO
+
+
+
+
+How you work
+
+
+
+
+Focus Areas (at least 2 years of hands-on practical experience in 2 of the below areas)
+
+DevOps & Cloud Engineering:
+· Containerization & Orchestration (Docker, Kubernetes)
+· CI/CD Pipeline Development (GitHub Actions, Jenkins)
+· Persistent Storage for Containerized Environments (NFS and SMB)
+
+
+
+
+Networking & Security:
+· Configuration and troubleshooting of Cisco and Cloudflare devices
+· DNS, CDN, and WAF management with Cloudflare
+· Firewall configuration, VPN setup, and SSL/TLS certificate management
+· Network diagnostics using tools like Wireshark for performance and threat analysis
+
+
+
+
+Windows Domain Administration:
+· Setup and configuration on physical and virtual machines
+· General Windows Server Configurations with Server 2022/5 features, including Active Directory (AD), DNS, DHCP, Group Policy Objects (GPO), Hyper-V, and Failover Clustering
+· Experience with Backup solutions (Preferred VEAM)
+· Experience with the patch management process, specifically involving WSUS deployments
+
+
+
+
+Database Administration:
+· Design, setup, and configuration of MSSQL, MariaDB, and PostgreSQL for performance, reliability, and security
+· Performance tuning and resource optimization across database environments.
+· Implementation of security best practices, including access control and data protection
+· Development of automation jobs for backups, monitoring, and maintenance to support business continuity
+· Experience with high availability and disaster recovery setups
+
+
+
+
+Certifications
+
+· Docker Certified Associate, Certified Kubernetes Administrator, Azure Administrator Associate
+· Cisco Certified Network Associate (CCNA), Cloudflare Fundamentals Certificate,
+· Microsoft Certified: Windows Server Hybrid Administrator Associate and Microsoft Certified: Azure Solutions Architect Expert
+
+
+
+
+Skills & Competencies
+
+· Strong communication and customer-facing skills, with the ability to tailor messaging for diverse audiences and cultures
+· Excellent troubleshooting, problem-solving, and critical thinking skills, with experience identifying root causes, sharing knowledge, and preventing recurring issues
+· Ability to interpret technical documentation, including schematics, wiring diagrams, specifications, and international standards; additional European language is an advantage
+· Experience with Incident and Change Management using service management tools
+· Highly organized, proactive, and goal-oriented, with the ability to plan, prioritize, and perform effectively in a fast-paced environment
+· Strong leadership and interpersonal skills, capable of inspiring teams, supporting development, and communicating confidently at all organizational levels
+· Logical and analytical approach to decision-making, with the confidence to challenge ideas constructively, anticipate risks, and develop effective solutions
+· Flexible regarding work location and hours to meet business needs
+
+
+
+
+✨Location, travel and eligibility
+
+· Some travel abroad may be required (implementation, training, FATs, UATs, SATs, CATs, occasional Level 3 support visits etc.) up to 30%. Therefore must possess, or be able to acquire, a valid passport and the required VISAs for international travel.
+
+Ready to take the next step?
+
+Join a global, collaborative, and fast-moving environment where people, trust, and innovation matter.
+
+We’d love to hear from you 😉
+
+TOPPAN Security is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, gender, sexual orientation, age, color, religion, national origin, veteran status, or disability.
+
+
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Computer and Network Security
+  
+
+Referrals increase your chances of interviewing at TOPPAN Security by 2x
+
+See who you know
+
+Get notified about new Information Technology System Engineer jobs in Zejtun, Malta.
+
+Sign in to create job alert
+Similar jobs
+IT Systems Administrator
+IT Systems Administrator
+TOPPAN Security
+Żejtun, Zejtun, Malta
+3 weeks ago
+IT Systems Administrator
+IT Systems Administrator
+TOPPAN Security
+Żejtun, Zejtun, Malta
+€32,000 - €35,000
+1 week ago
+IT Support & System Admin
+IT Support & System Admin
+Konnekt
+Zejtun, Malta
+€28,000 - €30,000
+1 week ago
+Systems Administrator
+Systems Administrator
+Crane Authentication (NXT)
+Zejtun, Malta
+1 week ago
+IT End User Support Analyst
+IT End User Support Analyst
+Crane Authentication (NXT)
+Zejtun, Malta
+1 day ago
+Maintenance Professional 1
+Maintenance Professional 1
+Teva Pharmaceuticals
+Żejtun, Zejtun, Malta
+1 month ago
+Show more jobs like this 
+People also viewed
+Associate Manager, Engineering
+Associate Manager, Engineering
+
+Crane Authentication (NXT)
+
+Zejtun, Malta
+14 hours ago
+People Success and Development Specialist
+People Success and Development Specialist
+
+GO plc
+
+Zejtun, Malta
+1 week ago
+Shipping Administrator
+Shipping Administrator
+
+Crane Authentication (NXT)
+
+Zejtun, Malta
+11 hours ago
+Customer Support Coordinator
+Customer Support Coordinator
+
+Crane Authentication (NXT)
+
+Zejtun, Malta
+1 week ago
+Customer Support Coordinator (Customer Facing)
+Customer Support Coordinator (Customer Facing)
+
+Crane Authentication (NXT)
+
+Zejtun, Malta
+1 week ago
+Associate Manager, Logistics
+Associate Manager, Logistics
+
+Crane Authentication (NXT)
+
+Zejtun, Malta
+1 day ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+You’re signed out
+Sign in for the full experience.
+Sign in Join now
