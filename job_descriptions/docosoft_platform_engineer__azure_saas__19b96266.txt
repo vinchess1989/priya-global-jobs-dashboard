@@ -1,0 +1,233 @@
+Title: Platform Engineer (Azure SaaS)
+Company: DOCOsoft
+Location: Dublin, County Dublin, Ireland
+URL: https://ie.linkedin.com/jobs/view/platform-engineer-azure-saas-at-docosoft-4489984682
+Posted: 2026-11-12
+Deadline: N/A
+Reason: The role aligns perfectly with the candidate's expertise in CI/CD, release engineering, and platform automation, and it is located in an eligible country (Ireland) with no stated restrictions on sponsorship.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Platform Engineer (Azure SaaS)
+DOCOsoft  Dublin, County Dublin, Ireland
+5 hours ago   Be among the first 25 applicants
+  
+
+See who DOCOsoft has hired for this role
+
+Apply 
+Save
+Platform Engineering exists to make product delivery fast, safe and repeatable.
+
+We are seeking a Platform Engineer to evolve and operate the Azure foundations that power our single-tenant SaaS platform. This role focuses on enabling engineering teams to ship reliably through automation, self-service capabilities and strong platform guardrails.
+
+You will treat the platform as a product, with engineering teams as customers, measurable adoption and continuous improvement. This is not a ticket-driven infrastructure role it is a product-minded engineering role focused on delivery enablement and operational excellence.
+
+Responsibilities
+
+
+Design, build, and operate core Azure infrastructure across networking, identity, compute, and storage within a single-tenant SaaS model.
+Improve platform scalability, governance, and reliability while embedding Infrastructure as Code as the default approach.
+Own and evolve shared CI/CD platform capabilities, including build, test, security scanning, and deployment strategies.
+Enable progressive delivery patterns such as blue/green, canary, and automated rollback approaches.
+Create reusable templates, paved roads, and standardised engineering patterns that accelerate safe product delivery.
+Reduce operational toil through automation and standardisation, addressing root causes rather than recurring symptoms.
+Expand self-service capabilities that allow product teams to provision and deploy independently within clear guardrails.
+Provide and evolve shared observability capabilities, including logging, metrics, tracing, and alerting.
+Design platform resilience, performance, and availability capabilities, supporting SLO definition and error budget practices.
+Embed security by design, including identity, secrets management, least-privilege access, policy enforcement, and vulnerability management.
+Contribute clear documentation, platform standards, and engineering guidance that improve adoption and consistency.
+
+
+Key Requirements
+
+
+Strong experience building and operating Azure-based cloud platforms in production environments.
+Deep understanding of cloud networking, identity, governance, and Azure PaaS services.
+Proven Infrastructure as Code expertise using Terraform, Bicep, or similar tooling.
+Experience with containerisation and orchestration concepts in modern cloud environments.
+Strong CI/CD pipeline design and release engineering experience, including progressive delivery and rollback strategies.
+Practical experience implementing observability solutions, including logging, metrics, tracing, and alerting.
+Solid understanding of reliability practices, incident response, SLOs, and error budgets.
+Strong grasp of identity and access management concepts (OAuth2 / OIDC), secrets management, least-privilege principles, and secure supply chain practices.
+Strong scripting and automation capability (PowerShell, Bash, Python or similar).
+Experience working with Git-based workflows and peer-reviewed infrastructure changes.
+Ability to write clear technical documentation and define platform standards that enable adoption at scale.
+
+
+Who We Are
+
+DOCOsoft is a leading software and services provider to Lloyd’s of London and the broader London insurance market. Since our foundation, we have grown to become one of the leading insurance software specialists in the London Insurance Market. We are a growing team of over 105 colleagues based in Dublin, London, Tokyo, Portugal, Spain, India and Poland.
+
+Here’s What We Have To Offer
+
+DOCOsoft aspires to be a market leader in the technology sector and we are always looking for new ways to improve how we deliver value. We hire people who bring hard work, enthusiasm and their own ideas.
+
+We Offer
+
+
+25 days Annual Leave
+Private pension
+Bonus scheme
+Private health
+Life assurance
+
+
+Equal Opportunity Employer
+
+DOCOsoft is committed to building an inclusive and diverse team that represents a variety of backgrounds, experiences and perspectives. We welcome applications from all suitably qualified candidates and do not discriminate on any legally protected grounds. If you require reasonable accommodation during any stage of the recruitment process, please let us know.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at DOCOsoft by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Platform Engineer
+Platform Engineer
+Pepper Advantage
+Dublin, County Dublin, Ireland
+2 weeks ago
+Senior Platform Engineer
+Senior Platform Engineer
+Pepper Advantage
+Dublin, County Dublin, Ireland
+2 weeks ago
+Senior Cloud Engineer
+Senior Cloud Engineer
+Optum
+Dublin, County Dublin, Ireland
+2 weeks ago
+Senior Cloud Engineer,
+Senior Cloud Engineer,
+Optum
+Dublin, County Dublin, Ireland
+13 hours ago
+Cloud Engineer II
+Cloud Engineer II
+Sprinklr
+Dublin, County Dublin, Ireland
+6 days ago
+Azure DevOps Engineer
+Azure DevOps Engineer
+Analog Devices
+Dublin, County Dublin, Ireland
+1 week ago
+Show more jobs like this 
+People also viewed
+Cloud Devops Engineer
+Cloud Devops Engineer
+
+Randstad Digital
+
+Dublin, County Dublin, Ireland
+7 hours ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+LexisNexis Risk Solutions
+
+County Dublin, Ireland
+€51,400 - €85,700
+1 week ago
+Site Reliability Engineer - Security
+Site Reliability Engineer - Security
+
+Docusign
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+RWS
+
+Dublin, County Dublin, Ireland
+6 days ago
+Cloud Platform Consultant
+Cloud Platform Consultant
+
+Version 1
+
+Dublin, County Dublin, Ireland
+1 week ago
+Site Reliability Engineer III
+Site Reliability Engineer III
+
+RELX
+
+Dublin, County Dublin, Ireland
+1 month ago
+Staff Platform Engineer - EU
+Staff Platform Engineer - EU
+
+Ashby
+
+Greater Dublin
+€154,000 - €250,000
+1 week ago
+Sr Lead Infrastructure Engineer (Workplace Solutions)
+Sr Lead Infrastructure Engineer (Workplace Solutions)
+
+JPMorganChase
+
+Dublin, County Dublin, Ireland
+2 days ago
+VP- Azure Cloud Platform Engineer (Terraform/ K8S/ IaC)
+VP- Azure Cloud Platform Engineer (Terraform/ K8S/ IaC)
+
+Robert Walters
+
+Dublin, County Dublin, Ireland
+5 hours ago
+Site Reliability Engineer III
+Site Reliability Engineer III
+
+LexisNexis Risk Solutions
+
+Dublin, County Dublin, Ireland
+1 month ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at DOCOsoft
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

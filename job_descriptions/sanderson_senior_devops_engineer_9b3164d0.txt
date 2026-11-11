@@ -1,0 +1,333 @@
+Title: Senior DevOps Engineer
+Company: Sanderson
+Location: Leicestershire, England, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/senior-devops-engineer-at-sanderson-4489917740
+Posted: 2026-11-12
+Deadline: Open until filled
+Reason: The role is a strong match for her DevOps and CI/CD expertise, is located in the UK, and does not require security clearance or US work authorization.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer
+Sanderson  Leicestershire, England, United Kingdom
+13 hours ago  30 applicants
+  
+
+See who Sanderson has hired for this role
+
+Apply
+Save
+Sanderson provided pay range
+
+This range is provided by Sanderson. Your actual pay will be based on your skills and experience — talk with your recruiter to learn more.
+
+Base pay range
+£65,000.00/yr - £75,000.00/yr
+Additional compensation types
+
+Annual Bonus
+
+Role: Senior DevOps Engineer
+
+Location: Hybrid - Leicester
+
+Employment Type: Full-time
+
+Salary: £65,000 - £75,000 + Benefits
+
+
+
+
+Are you a passionate DevOps Engineer with extensive experience in cloud technologies, automation, and modern software delivery practices? We're looking for a Senior DevOps Engineer to play a key role in driving platform innovation, enabling development teams, and delivering scalable, secure, and highly automated cloud solutions.
+
+
+
+
+This is an opportunity to work within a technology-focused environment where continuous improvement, experimentation, and automation are at the heart of everything we do. You'll collaborate with Software Engineers, Architects, QA teams, and Security specialists to build and enhance cloud-native platforms that enable rapid and reliable product delivery.
+
+
+
+
+We're seeking an experienced engineer who thrives in a fast-paced environment, enjoys solving complex technical challenges, and wants to influence the future direction of cloud and DevOps practices.
+
+
+
+
+What You'll Do
+
+
+
+
+Design, build and maintain enterprise-scale CI/CD pipelines using Azure DevOps and YAML
+Automate infrastructure provisioning and configuration through Infrastructure-as-Code using Terraform
+Develop, manage and support cloud environments across Development, Test, Pre-Production and Production
+Drive automation initiatives that improve deployment speed, reliability and operational efficiency
+Implement automated testing and quality controls throughout the software delivery lifecycle
+Manage source control repositories, branching strategies and release processes
+Build and maintain containerised platforms using Docker and Kubernetes
+Support cloud migration and application modernisation initiatives
+Implement DevSecOps practices and embed security throughout development and deployment pipelines
+Monitor, troubleshoot and optimise application and infrastructure performance
+Work closely with development teams to improve application reliability, scalability and resilience
+Create and maintain technical documentation, architectural designs and operational standards
+Collaborate with Architects and stakeholders to define and deliver cloud solutions
+Mentor junior engineers and promote DevOps best practices across engineering teams
+Participate in on-call support for critical business systems and services
+Identify opportunities for continuous improvement, automation and platform enhancement
+
+
+
+
+Required Experience
+
+
+
+
+5+ years' experience in DevOps, Platform Engineering, Cloud Engineering or Site Reliability Engineering
+Strong experience designing and managing CI/CD pipelines using Azure DevOps
+Extensive Infrastructure-as-Code experience using Terraform
+Strong commercial experience with Microsoft Azure cloud services
+Experience deploying and managing Docker containers and Kubernetes platforms
+Knowledge of cloud-native architectures and microservices-based applications
+Experience implementing DevSecOps principles and security-focused automation
+Strong scripting skills using PowerShell and Bash
+Experience working with Git and source control best practices
+Experience supporting Windows and Linux server environments
+Strong understanding of networking principles, application hosting and cloud infrastructure
+Experience with SQL Server and NoSQL database platforms
+Excellent troubleshooting, analytical and problem-solving skills
+Strong communication skills with the ability to work effectively across technical and non-technical teams
+Experience working within Agile delivery environments
+
+
+
+
+Key Technologies
+
+
+
+
+Microsoft Azure
+Azure DevOps
+Terraform
+Docker
+Kubernetes
+Git
+YAML Pipelines
+PowerShell
+Bash
+.NET / .NET Core
+ASP.NET Core
+C#
+Node.js
+React
+Windows Server
+Linux
+SQL Server
+NoSQL Databases
+Helm Charts
+Docker Compose
+Microservices
+DevSecOps Tooling
+CI/CD Automation
+
+
+
+
+Nice to Have
+
+
+
+
+Experience delivering on-premise to cloud migration projects
+Exposure to AWS or Google Cloud Platform environments
+Experience with monitoring and observability platforms such as Dynatrace, Grafana or OpenTelemetry
+Experience using security tooling including SonarCloud, Prisma Cloud or CrowdStrike
+Azure certifications such as AZ-104, AZ-305 or AZ-400
+Exposure to Platform Engineering and self-service infrastructure models
+Experience within large-scale, high-availability environments
+Cloud cost optimisation and FinOps experience
+Experience driving engineering best practices and technical transformation initiatives
+
+
+
+
+This role is ideal for a Senior DevOps Engineer who enjoys combining hands-on technical delivery with strategic platform improvement. You'll be given the opportunity to shape cloud adoption, influence engineering standards, and build modern, automated solutions that enable development teams to deliver software faster, safer and more efficiently.
+
+
+
+
+If you're passionate about cloud technologies, automation, Kubernetes, DevOps culture and continuous improvement, we'd love to hear from you.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Retail, IT Services and IT Consulting, and Retail Apparel and Fashion
+  
+
+Referrals increase your chances of interviewing at Sanderson by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Director Service Management jobs
+Senior DevOps Engineer
+Similar jobs
+Senior DevOps Engineer - eComm Tech
+Senior DevOps Engineer - eComm Tech
+Next
+Leicester, England, United Kingdom
+1 day ago
+DevSecOps Engineer
+DevSecOps Engineer
+Dunelm
+Leicester, England, United Kingdom
+3 weeks ago
+Senior AWS DevOps Engineer - eSC or eDV Clearance Required
+Senior AWS DevOps Engineer - eSC or eDV Clearance Required
+IBM
+Leicester, England, United Kingdom
+1 week ago
+DevOps Engineer - HR Tech
+DevOps Engineer - HR Tech
+Next
+Leicester, England, United Kingdom
+1 week ago
+DevOps Engineer - Public Sector | Active eSC or eDV Clearance Required
+DevOps Engineer - Public Sector | Active eSC or eDV Clearance Required
+IBM
+Leicester, England, United Kingdom
+2 weeks ago
+Cloud Security Engineer
+Cloud Security Engineer
+Hastings Direct
+Leicester, England, United Kingdom
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Architect
+Architect
+
+IBM
+
+Leicester, England, United Kingdom
+6 days ago
+Solution Architect
+Solution Architect
+
+IBM
+
+Leicester, England, United Kingdom
+1 day ago
+Senior Security Engineer
+Senior Security Engineer
+
+Next
+
+Leicester, England, United Kingdom
+1 week ago
+MLOps Engineer
+MLOps Engineer
+
+Hastings Direct
+
+Leicester, England, United Kingdom
+1 week ago
+Senior Cloud FinOps Analyst
+Senior Cloud FinOps Analyst
+
+Next
+
+Leicester, England, United Kingdom
+2 weeks ago
+AWS Solution Architect - SC MOD Clearance Required
+AWS Solution Architect - SC MOD Clearance Required
+
+IBM
+
+Leicester, England, United Kingdom
+1 day ago
+Site Operations AI & Automation Manager
+Site Operations AI & Automation Manager
+
+Next
+
+Leicester, England, United Kingdom
+1 week ago
+Technical Architect - UK Public Sector | eSC/eDV
+Technical Architect - UK Public Sector | eSC/eDV
+
+IBM
+
+Leicester, England, United Kingdom
+1 week ago
+Quality Engineer - eDV Cleared
+Quality Engineer - eDV Cleared
+
+IBM
+
+Leicester, England, United Kingdom
+2 weeks ago
+Senior AWS Cloud Fullstack Developer - eSC or eDV Clearance Required
+Senior AWS Cloud Fullstack Developer - eSC or eDV Clearance Required
+
+IBM
+
+Leicester, England, United Kingdom
+2 weeks ago
+Similar Searches
+Director Service Management jobs
+1,292 open jobs
+Network Security Manager jobs
+453 open jobs
+Regional Sales Director jobs
+4,718 open jobs
+Head of Data Management jobs
+1,601 open jobs
+Integration Developer jobs
+4,704 open jobs
+Estate Director jobs
+707 open jobs
+Interim Chief Information Officer jobs
+107 open jobs
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Sanderson
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
