@@ -1,9 +1,9 @@
 {
   "pid": 47988,
   "started_at": "2026-11-12T01:12:42+02:00",
-  "heartbeat_at": "2026-11-12T01:52:12+02:00",
+  "heartbeat_at": "2026-11-12T01:55:53+02:00",
   "phase": "reviewing",
-  "detail": "Document Controller",
-  "last_scrape_ok_at": "2026-11-12T01:51:16+02:00",
+  "detail": "Workday Student Advising and Curriculum Management Principal Consultant",
+  "last_scrape_ok_at": "2026-11-12T01:54:49+02:00",
   "last_error": null
 }

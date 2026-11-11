@@ -1,0 +1,253 @@
+Title: Senior Business Systems Analyst - Insurtech
+Company: Stelfox Tech Recruitment
+Location: Dublin, County Dublin, Ireland
+URL: https://ie.linkedin.com/jobs/view/senior-business-systems-analyst-insurtech-at-stelfox-tech-recruitment-4489974096
+Posted: 2026-11-12
+Deadline: Open until filled
+Reason: The role aligns with the candidate's experience in requirements engineering, traceability, and technical documentation within a platform-delivery context, and it is located in an eligible country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Business Systems Analyst - Insurtech
+Stelfox Tech Recruitment  Dublin, County Dublin, Ireland
+8 hours ago  31 applicants
+  
+
+See who Stelfox Tech Recruitment has hired for this role
+
+Apply
+Save
+
+Stelfox is exclusively partnering with an international financial services organisation who is establishing a new technology subsidiary in Dublin from the ground up to partner with HQ on a variety of new platform modernisation programme as they company embraces AI-native thinking to shifting legacy platforms into the future.
+
+
+
+
+One of the first engineering projects we will be undertaking is the design, architecture and buildout of a new AI-native Insurance/Insurtech platform that will be Cloud-native, API-led and embrace agentic AI as we re-imagine an existing insurance platform for the future.
+
+
+
+
+As part of this new team in Dublin, we will be hiring in across the following areas:
+
+Head of Product / Product Lead - hands-on and own the product roadmap/strategy while working closely with the CEO of the new fintech and the Key executives stakeholders in HQ.
+Lead Software / Technical Architect (own the end to end technology architecture for the new platform in partnership with the executive stakeholder in HQ)
+AI/ML Lead - own the AI/ML strategy and delivery for the platform
+Data Lead - own data architecture and governance for this new platform and lead the data engineering function.
+Other roles will include - Software engineers, Data engineers, QA, and a Senior Business Systems Analyst for the initial 1-2 squads/team aligned to this project.
+
+
+
+
+We are looking to build a config-driven, multi-tenant, product-agnostic insurance system, so insurer customers can configure their own products, underwriting rules, pricing and workflows rather than commissioning bespoke development. This role sits inside the engineering & delivery organisation building and operating that platform.
+
+
+
+
+As a Senior Business System Analyst, you will act as the bridge between business stakeholders - underwriting, product, pricing, operations and compliance - and the engineering team building the platform. The role translates business and regulatory need into requirements that developers and testers can build and test against, and does so in a way that stays generic across tenants rather than encoding one customer's way of working into the shared platform.
+
+
+
+
+Responsibilities
+
+Elicit and document business requirements from underwriting, pricing, product, claims and operations stakeholders.
+Translate requirements into user stories, process/workflow diagrams and detailed, testable acceptance criteria.
+Maintain the requirements backlog and traceability from business need through to delivered feature.
+Facilitate requirement workshops and backlog refinement sessions with business and engineering stakeholders.
+Identify where a requirement reflects one tenant's specific way of working rather than a genuinely generic platform capability, and flag it before it is built into the core model.
+Define and own test scenarios and user acceptance criteria, and support UAT sign-off with business stakeholders.
+Produce functional specifications, data flow diagrams and process documentation for configuration-driven features.
+Act as a point of escalation between business and engineering when requirements are ambiguous or contested.
+Support change-impact analysis for new tenant onboarding and new product configuration.
+Maintain current-state and target-state process documentation as the platform evolves.
+
+
+
+
+What the role requires
+
+Proven experience as a business/system analyst on a software delivery or platform engineering team, ideally in insurance or financial services.
+Strong facilitation and stakeholder management skills across both business and technical audiences.
+Experience writing user stories, acceptance criteria and process documentation in an Agile/SAFe delivery environment.
+Working knowledge of insurance product, underwriting, pricing or claims processes.
+Experience with requirements and backlog tooling (e.g. Jira, Confluence or equivalent).
+Ability to read and critique basic data models, API contracts or configuration schemas (not expected to write production code).
+Comfortable working across multiple concurrent squads/workstreams at once.
+Exposure to multi-tenant or SaaS platform delivery specifically, as opposed to single-customer bespoke delivery.
+
+
+
+
+Qualifications and background
+
+Bachelor's degree in business, information systems, commerce or a related field, or equivalent demonstrable experience.
+8+ years as a business analyst or systems analyst in software/platform delivery.
+Insurance domain exposure (Life, P&C, or both) strongly preferred.
+Business analysis certification (e.g. IIBA/CBAP) advantageous.
+
+
+
+
+We are starting the interview process from this week and over the next 3-4 weeks, with the timeline for this initial team to be in place by early Q1 2027.
+
+
+
+
+For further insights and to discuss in confidence, please feel free to apply and we will review your application within 24-48 hours.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development, IT System Custom Software Development, and Insurance
+  
+
+Referrals increase your chances of interviewing at Stelfox Tech Recruitment by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Business Analyst
+Business Analyst
+Fruition Group Ireland
+County Dublin, Ireland
+13 hours ago
+Senior Business Analyst
+Senior Business Analyst
+Fruition Group Ireland
+Dublin, County Dublin, Ireland
+€45 - €60
+7 hours ago
+Senior Business System Analyst
+Senior Business System Analyst
+Foxit
+Dublin, County Dublin, Ireland
+1 week ago
+Service Transformation Manager
+Service Transformation Manager
+Allianz Ireland
+Dublin, County Dublin, Ireland
+2 weeks ago
+Senior Business Systems Analyst
+Senior Business Systems Analyst
+Darwin Hawkins
+Dublin, County Dublin, Ireland
+€80,000 - €90,000
+1 week ago
+Business Process Analyst
+Business Process Analyst
+CyberSentriq
+Greater Dublin
+1 week ago
+Show more jobs like this 
+People also viewed
+Technical Business Analyst - Global Brand - 80K
+Technical Business Analyst - Global Brand - 80K
+
+IT Search
+
+Dublin, County Dublin, Ireland
+1 day ago
+Customer and Business Transformation - Insurance Sector - Senior Manager
+Customer and Business Transformation - Insurance Sector - Senior Manager
+
+PwC Ireland
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+Innovation Consultant (Hybrid / Permanent)
+Innovation Consultant (Hybrid / Permanent)
+
+Arthur Cox LLP
+
+Dublin, County Dublin, Ireland
+1 month ago
+UKI Technology Consulting - Business Analyst, Senior Consultant
+UKI Technology Consulting - Business Analyst, Senior Consultant
+
+EY
+
+Dublin 2, County Dublin, Ireland
+8 hours ago
+Senior Business Analyst
+Senior Business Analyst
+
+NTT DATA North America
+
+Dublin, County Dublin, Ireland
+5 days ago
+Technical Lead
+Technical Lead
+
+BJAK
+
+Greater Dublin
+2 months ago
+UKI Technology Consulting - Senior Business Analyst, Manager
+UKI Technology Consulting - Senior Business Analyst, Manager
+
+EY
+
+Dublin 2, County Dublin, Ireland
+5 days ago
+Business Analysis Consultant - Analytics, Products, Data
+Business Analysis Consultant - Analytics, Products, Data
+
+Atrium (EMEA)
+
+Dublin, County Dublin, Ireland
+1 week ago
+Senior Technical Business Analyst - Fenergo
+Senior Technical Business Analyst - Fenergo
+
+Albany Beck
+
+Dublin, County Dublin, Ireland
+1 week ago
+Business Analyst
+Business Analyst
+
+Davy
+
+Dublin, County Dublin, Ireland
+2 days ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
