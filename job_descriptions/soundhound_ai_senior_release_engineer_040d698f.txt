@@ -1,0 +1,254 @@
+Title: Senior Release Engineer
+Company: SoundHound AI
+Location: London, England, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/senior-release-engineer-at-soundhound-ai-4489928273
+Posted: 2026-11-12
+Deadline: N/A
+Reason: The role is a strong match for her background in release management, process coordination, and documentation, and it is located in a target country (UK) without any restrictive citizenship or clearance requirements.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Release Engineer
+SoundHound AI  London, England, United Kingdom
+5 hours ago  25 applicants
+  
+
+See who SoundHound AI has hired for this role
+
+Apply 
+Save
+
+Direct message the job poster from SoundHound AI
+
+Monica Quiroz
+Monica Quiroz
+Your Career, our Future—Together.
+
+Ready to join something big? At SoundHound AI, we bring voice, generative, and conversational AI together to transform how people interact with products and services. From voice-enabled vehicles to food ordering and customer support, our multilingual, omnichannel technology already impacts hundreds of millions worldwide.
+
+The Opportunity
+
+The Release Management (aka Service Technology) team is the backbone of our product delivery, responsible for the "1Click" installation and upgrade of our enterprise AI solutions. As our Release Operations Manager, you will be the "air traffic controller" for the team.
+
+While the engineers focus on the "brilliant brains" of automation, you will focus on the organizational pulse. You will track every moving part of the release cycle—from R&D handoffs to final "White Glove" client delivery—ensuring no task falls through the cracks and every partner interaction is seamless
+
+What You'll Do
+
+
+Workflow Coordination: Track the end-to-end lifecycle of product installations and upgrades, ensuring engineers are meeting deadlines for L3/L4 support and client-specific deployments.
+Release Tracking & Reporting: Utilize Jira and Slack integrations to monitor upgrade success/failure rates and provide high-level status reports to leadership.
+Process Architecture: Design and implement organizational systems or "trackers" to manage client-specific git repositories, inventory configurations, and environment-specific overrides.
+Stakeholder Liaison: Act as the primary point of contact between Release Management, R&D, and external Partners to ensure smooth transitions during the release management process.
+Documentation Oversight: Ensure that Confluence documentation for both internal teams and external partners remains up-to-date and "customer-friendly".
+Resource Management: Coordinate "White Glove" support schedules, ensuring senior and junior engineers are appropriately allocated for long-duration partner installs.
+
+
+What You'll Bring
+
+
+Exceptional Organization: Proven ability to manage multiple high-stakes projects simultaneously in a fast-paced SaaS or AI environment.
+Technical Literacy: While not a coding role, you must understand the "language" of the team, including concepts like CI/CD pipelines, Kubernetes, and Cloud infrastructure (AWS/GCP/Azure).
+Tool Proficiency: Advanced experience with project management and tracking tools, specifically Jira, Confluence, and Bitbucket/Git.
+Strategic Thinking: A mindset of continuous improvement—if a tracking process is manual or inefficient, you have the drive to "automate" the workflow.
+Communication: Elite verbal and written communication skills, capable of translating technical hurdles into clear business updates for partners.
+
+
+Let's Start the Conversation
+
+Join SoundHound AI and collaborate with colleagues worldwide who are shaping the future of voice AI. Guided by our values—supportive, open, undaunted, nimble, and determined to win—we strive to build breakthrough AI experiences together.
+
+We provide reasonable accommodations for individuals with disabilities throughout the hiring process and employment. To view our job applicant privacy policy, please visit https://static.soundhound.com/corpus/ta/applicantprivacynotice.html.
+
+Discover more about our philosophy, benefits, and culture at https://www.soundhound.com/careers.
+
+
+Please beware of agency recruiters falsely stating that they represent SoundHound AI on job posts. Our job post above will note if we are utilizing a specific agency to assist with the search. Our recruiters use @soundhound.com email addresses exclusively.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at SoundHound AI by 2x
+
+See who you know
+
+Get notified about new Senior Release Engineer jobs in London, England, United Kingdom.
+
+Sign in to create job alert
+Jobs
+Build And Release Engineer jobs
+Senior Release Engineer
+Similar jobs
+Site Reliability Engineer
+Site Reliability Engineer
+Haven
+Hemel Hempstead, England, United Kingdom
+1 month ago
+Site Reliability Engineer
+Site Reliability Engineer
+McAfee
+London, England, United Kingdom
+1 week ago
+Release, Environments, and Change Engineer (C2)
+Release, Environments, and Change Engineer (C2)
+Kaluza
+London, England, United Kingdom
+1 week ago
+Senior Platform Engineer
+Senior Platform Engineer
+Attio
+London, England, United Kingdom
+£105,000 - £125,000
+1 week ago
+Senior Platform Engineer
+Senior Platform Engineer
+Attio
+United Kingdom
+£105,000 - £125,000
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Osprey Flight Solutions
+United Kingdom
+5 days ago
+Show more jobs like this 
+People also viewed
+Senior Cloud Platform Engineer
+Senior Cloud Platform Engineer
+
+Xplor Technologies
+
+London, England, United Kingdom
+1 week ago
+Site Reliability Engineer (Forward Deployed)
+Site Reliability Engineer (Forward Deployed)
+
+Teleport
+
+United Kingdom
+$189,000 - $326,000
+1 week ago
+Release Manager - SC cleared
+Release Manager - SC cleared
+
+Amber Labs
+
+London Area, United Kingdom
+5 days ago
+Senior Site Reliability Engineer - (EMEA-Remote)
+Senior Site Reliability Engineer - (EMEA-Remote)
+
+ClickHouse
+
+London, England, United Kingdom
+1 day ago
+DevOps Engineer | Luma
+DevOps Engineer | Luma
+
+Dotmatics
+
+United Kingdom
+11 hours ago
+Senior Site Reliability / Gitops Engineer
+Senior Site Reliability / Gitops Engineer
+
+Canonical
+
+London, England, United Kingdom
+22 hours ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+Canonical
+
+London, England, United Kingdom
+22 hours ago
+Platform Software Engineer
+Platform Software Engineer
+
+Harris Computer
+
+United Kingdom
+£45,000 - £65,000
+6 days ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+Prima
+
+London, England, United Kingdom
+1 week ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+Camunda
+
+United Kingdom
+4 days ago
+Similar Searches
+Build And Release Engineer jobs
+2,631 open jobs
+Release Engineer jobs
+2,904 open jobs
+Configuration Management Engineer jobs
+181 open jobs
+Performance Test Lead jobs
+297 open jobs
+Change And Release Manager jobs
+228 open jobs
+Design Release Engineer jobs
+1,964 open jobs
+Senior Firmware Engineer jobs
+616 open jobs
+Release Manager jobs
+5,967 open jobs
+Performance Test Engineer jobs
+305 open jobs
+Portfolio Assistant jobs
+7,439 open jobs
+Automation Test Analyst jobs
+483 open jobs
+Senior Server Engineer jobs
+1,884 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at SoundHound AI
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

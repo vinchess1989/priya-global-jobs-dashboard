@@ -1,0 +1,315 @@
+Title: DevOps Engineer
+Company: Persistent Systems
+Location: Melbourne, Victoria, Australia
+URL: https://au.linkedin.com/jobs/view/devops-engineer-at-persistent-systems-4487896348
+Posted: 2026-11-12
+Deadline: Open until filled
+Reason: The role is a strong match for her DevOps and release management background, is located in an eligible country (Australia), and does not contain any hard rejections.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+Persistent Systems  Melbourne, Victoria, Australia
+16 hours ago   Be among the first 25 applicants
+  
+
+See who Persistent Systems has hired for this role
+
+Apply
+Save
+
+We are an AI-led, platform-driven Digital Engineering and Enterprise Modernization partner, combining deep technical expertise and industry experience to help our clients anticipate what?s next. Our offerings and proven solutions create a unique competitive advantage for our clients by giving them the power to see beyond and rise above. We work with many industry-leading organizations across the world, including 20 Fortune 50 companies and 4 of the 5 top banks in both the US and India, and numerous innovators across the healthcare ecosystem.
+
+Our disruptor’s mindset, commitment to client success, and agility to thrive in the dynamic environment have enabled us to sustain our growth momentum. Persistent has been recognized across top industry platforms for innovation, leadership, and inclusion. We reported $1,654.4M FY26 revenue with 17.4% Y-o-Y growth. We have delivered 24 sequential quarters of growth with $436.0M in Q4 FY26 revenue, up 3.2% Q-o-Q and 16.2% Y-o-Y growth. Our 27,500+ global team members, located in 18 countries, have been instrumental in helping the market leaders transform their industries. We have been recognized as the Fastest Growing IT Services Brand Globally in the 2026 Brand Finance IT Services 25 Report. We named a Leader in the Everest Group Private Equity (PE) Services PEAK Matrix? Assessment 2026 and Software Product Engineering PEAK Matrix? Assessment 2026.
+
+
+
+
+Role: Azure DevOps Engineer
+
+Location: Melbourne, Australia
+
+Experience: 12 + Years
+
+Job Type: Full-Time Employment
+
+Mandatory Mention 3 skills: Azure, Kubernetes, DevSecOps
+
+
+
+
+What You'll Do:
+
+Must have:
+
+We are looking for a Senior Azure DevOps and Kubernetes Engineer to design, build and support cloud-native platforms and delivery pipelines. You will work closely with development, platform and security teams to automate deployments, improve reliability and help teams ship faster with confidence. This role suits someone who enjoys hands-on engineering as much as improving the way teams work.
+
+
+
+
+Key responsibilities
+
+Own the design and architecture of CI/CD platforms in Azure DevOps, defining reusable YAML pipeline templates, release gates and environment strategies used across multiple teams.
+Lead the design, build and operation of production Kubernetes platforms on AKS, including cluster topology, upgrade strategy, scaling, node pool design and cost optimisation.
+Define and drive GitOps and release practices using Helm, Kustomize, Argo CD or Flux.
+Set infrastructure as code standards and build modular Terraform or Bicep frameworks for consistent, repeatable Azure provisioning.
+Architect ingress, service networking and traffic management using controllers such as NGINX or Traefik, and lead platform migrations with minimal disruption to production.
+Establish observability standards across Azure Monitor, Prometheus, Grafana and Log Analytics, and drive SLOs, alerting and incident response maturity.
+Champion DevSecOps by embedding secrets management, image scanning, RBAC, network policies and policy as code across the delivery lifecycle.
+Act as the senior escalation point for complex production issues, lead root cause analysis and drive long-term remediation.
+Partner with architects, product owners and client stakeholders to shape technical roadmaps, estimate effort and translate business needs into platform solutions.
+Mentor and guide engineers through code reviews, pairing and knowledge sharing, and help lift engineering standards across the team.
+Contribute to change management, release planning and governance processes, including ServiceNow change requests and production readiness reviews.
+Produce and maintain architecture documentation, runbooks and decision records.
+
+
+
+
+Expertise You'll Bring:
+
+Required skills and experience
+
+Experience in DevOps, platform or cloud engineering roles, with at least 3 years running Kubernetes in production.
+Strong hands-on experience with Azure DevOps Services, particularly multi-stage YAML pipelines.
+Solid production experience running Kubernetes, ideally AKS.
+Proficiency with Docker and container image lifecycle management.
+Infrastructure as code experience with Terraform
+Good understanding of Azure core services: networking (VNets, private endpoints, load balancers), identity (Entra ID, managed identities) and storage.
+Scripting ability in PowerShell, Bash or Python.
+Experience with GitOps (Argo CD or Flux) and service mesh technologies (Istio or Linkerd).
+Working knowledge of Git workflows and release management.
+Strong troubleshooting skills and a calm approach to production incidents.
+
+
+
+
+Desirable
+
+Microsoft certifications such as AZ-400 (DevOps Engineer Expert) or AZ-104, and CNCF certifications such as CKA or CKAD.
+Exposure to Redis, message brokers or other stateful workloads on Kubernetes.
+Experience in retail, consulting or large enterprise environments.
+Familiarity with ITIL change processes and ServiceNow.
+Multi-cloud exposure across AWS or GCP.
+
+
+
+
+Benefits:
+
+Competitive salary and benefits package
+Culture focused on talent development with quarterly growth opportunities and company-sponsored higher education and certifications
+Opportunity to work with cutting-edge technologies
+Employee engagement initiatives such as project parties, flexible work hours, and Long Service awards
+Annual health check-ups
+Insurance coverage: group term life, personal accident, and Mediclaim hospitalization for self, spouse, two children, and parents
+
+
+
+
+Values-Driven, People-Centric & Inclusive Work Environment:
+
+
+
+
+Persistent is dedicated to fostering diversity and inclusion in the workplace. We invite applications from all qualified individuals, including those with disabilities, and regardless of gender or gender preference. We welcome diverse candidates from all backgrounds. We support hybrid work and flexible hours to fit diverse lifestyles. Our office is accessibility-friendly, with ergonomic setups and assistive technologies to support employees with physical disabilities.
+
+
+
+
+If you are a person with disabilities and have specific requirements, please inform us during the application process or at any time during your employment
+
+
+
+
+Let’s unleash your full potential at Persistent - persistent.com/careers
+
+
+
+
+Persistent is an Equal Opportunity Employer and prohibits discrimination and harassment of any kind.?
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Persistent Systems by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Melbourne, Victoria, Australia.
+
+Sign in to create job alert
+Jobs
+Senior Energy Analyst jobs
+DevOps Engineer
+Similar jobs
+DevOps Engineer, myprosperity
+DevOps Engineer, myprosperity
+HUB24 Limited
+Melbourne, Victoria, Australia
+10 hours ago
+DevOps Engineer
+DevOps Engineer
+Launch Group
+Melbourne, Victoria, Australia
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+Open Universities Australia
+Docklands, Victoria, Australia
+1 week ago
+DevSecOps Engineer
+DevSecOps Engineer
+Jetstar Airways
+Melbourne, Victoria, Australia
+1 day ago
+DevOps Engineer
+DevOps Engineer
+Red Energy
+Richmond, Victoria, Australia
+1 week ago
+Cloud Engineer (AWS / DevOps)- AU Citizen with Security Clearance
+Cloud Engineer (AWS / DevOps)- AU Citizen with Security Clearance
+Accenture Australia
+Melbourne, Victoria, Australia
+1 month ago
+Show more jobs like this 
+People also viewed
+DevSecOps Engineer
+DevSecOps Engineer
+
+Leidos Australia
+
+Melbourne, Victoria, Australia
+6 days ago
+Platform Engineer
+Platform Engineer
+
+Leidos Australia
+
+Melbourne, Victoria, Australia
+6 days ago
+Azure DevOps Engineer
+Azure DevOps Engineer
+
+XPT Software Australia
+
+Carlton, Victoria, Australia
+3 weeks ago
+AWS Engineer
+AWS Engineer
+
+Capgemini
+
+Melbourne, Victoria, Australia
+1 week ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+Atlassian
+
+Carlton, Victoria, Australia
+6 days ago
+Systems Engineer, Region Services
+Systems Engineer, Region Services
+
+Amazon Web Services (AWS)
+
+Melbourne, Victoria, Australia
+2 weeks ago
+Azure Devops Engineer
+Azure Devops Engineer
+
+Persistent Systems
+
+Melbourne, Victoria, Australia
+2 days ago
+Search Engineer
+Search Engineer
+
+Xero
+
+Melbourne, Victoria, Australia
+1 week ago
+Senior Cloud / DevOps Engineer
+Senior Cloud / DevOps Engineer
+
+Eightcap
+
+Melbourne, Victoria, Australia
+2 days ago
+Cloud Engineer
+Cloud Engineer
+
+Macquarie Group
+
+Melbourne, Victoria, Australia
+1 week ago
+Similar Searches
+Senior Energy Analyst jobs
+765 open jobs
+Citrix Engineer jobs
+358 open jobs
+Assistant Software Engineer jobs
+22 open jobs
+Automation Test Lead jobs
+188 open jobs
+Automation Test Analyst jobs
+266 open jobs
+Network Lead jobs
+1,265 open jobs
+Mainframe System Programmer jobs
+22 open jobs
+Mainframe Developer jobs
+1,279 open jobs
+Test Architect jobs
+568 open jobs
+Java Architect jobs
+186 open jobs
+Software Engineering Team Lead jobs
+4,616 open jobs
+Java Software Engineer jobs
+760 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Persistent Systems
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

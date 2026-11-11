@@ -1,0 +1,283 @@
+Title: DevOps Engineering
+Company: Fiserv
+Location: Pune City, Maharashtra, India
+URL: https://in.linkedin.com/jobs/view/devops-engineering-at-fiserv-4488678738
+Posted: 2026-11-12
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in DevOps, CI/CD pipeline ownership, and configuration management, and it is located in India, which is one of her target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineering
+Fiserv  Pune City, Maharashtra, India
+12 hours ago   Over 200 applicants
+  
+
+See who Fiserv has hired for this role
+
+Apply 
+Save
+Calling all innovators – find your future at Fiserv.
+
+We’re Fiserv, a global leader in Fintech and payments, and we move money and information in a way that moves the world. We connect financial institutions, corporations, merchants, and consumers to one another millions of times a day – quickly, reliably, and securely. Any time you swipe your credit card, pay through a mobile app, or withdraw money from the bank, we’re involved. If you want to make an impact on a global scale, come make a difference at Fiserv.
+
+Job Title
+
+DevOps Engineering
+
+What does a great “DevOps Engineer” do?
+
+We are looking for an Experienced DevOps Engineer responsible for effective working of DevOps & CI/CD throughout the development life cycle and delivery
+
+What You Will Do
+
+
+Design, build, and maintain CI/CD pipelines for multiple environments.
+Adhere the processes followed for development in the program.
+Track progress against assigned tasks, report status, and proactively identify issues to the Tech Lead and management team.
+Personal ownership and accountability for delivering assigned tasks and deliverables within the established schedule.
+Facilitate a strong and supportive team environment that enables the team as well as individual team members to overcome any political, bureaucratic and/or resource barriers to participation.
+Recommend and Implement solutions. Be totally hands on and can work independently.
+Ready to work 24*7 for any technical support required as a DevOps person.
+Continuously improve the existing deployment plan to automate all the activities and make it efficient.
+Stay updated with emerging DevOps tools and practices
+
+
+What You Will Need To Have
+
+
+Linux operating system experience; possibly RedHat Certified Engineer (RHCE)
+Good knowledge and hands on experience on tools like Git, GitHub Actions, Bamboo/Jenkins, Maven/Ant, Artifactory
+Strong experience with AWS cloud platform (EKS, EC2, RDS, S3, Route53, IAM, ELB, API Gateway, CloudWatch)
+Manage and optimize deployments on AWS.
+Expertise in CI/CD tools (Jenkins, GitLab CI, ArgoCD, Azure DevOps, etc.).
+Familiarity with version control systems (Git) and branching strategies.
+Proficiency in containerization (Docker) and orchestration (Kubernetes).
+Knowledge of security best practices in cloud and DevOp
+Experience with monitoring and logging tools (Prometheus, Grafana, ELK).
+Automate infrastructure provisioning using Infrastructure as Code (IaC) tools (Terraform, Ansible, etc.).
+Ensure system reliability, scalability, and security across environments.
+Strong scripting skills in Python, Bash, or PowerShell.
+Experience in the automatic package management with Helm to deploy in the Openshift/Kubernetes
+Knowledge of Integration and unit test and Behavior Driven Development
+Need to have good problem-solving skills.
+Knowledge of serverless computing and event-driven architecture.
+
+
+What Would Be Great To Have
+
+
+Experience integrating to third party applications
+Agile knowledge
+Certifications in AWS or Kubernetes.
+Good understanding of the configuration management
+Financial Industry and Core Banking integration experience
+Strong collaboration and stakeholder management.
+Ability to work in a fast-paced, agile environment.
+Proactive approach to automation and continuous improvement.
+Good communication skills both written and verbal
+
+
+Thank You For Considering Employment With Fiserv. Please
+
+
+Apply using your legal name
+Complete the step-by-step profile and attach your resume (either is acceptable, both are preferable).
+
+
+Our Commitment To Diversity And Inclusion
+
+Fiserv is proud to be an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, gender, gender identity, sexual orientation, age, disability, protected veteran status, or any other category protected by law.
+
+Note To Agencies
+
+Fiserv does not accept resume submissions from agencies outside of existing agreements. Please do not send resumes to Fiserv associates. Fiserv is not responsible for any fees associated with unsolicited resume submissions.
+
+Warning About Fake Job Posts
+
+Please be aware of fraudulent job postings that are not affiliated with Fiserv. Fraudulent job postings may be used by cyber criminals to target your personally identifiable information and/or to steal money or financial information. Any communications from a Fiserv representative will come from a legitimate Fiserv email address.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Fiserv by 2x
+
+See who you know
+
+Get notified about new DevOps Specialist jobs in Pune City, Maharashtra, India.
+
+Sign in to create job alert
+Jobs
+Vice President Shared Services jobs
+DevOps Engineering
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+Accenture in India
+Pune Division, Maharashtra, India
+3 weeks ago
+Devops Engineer
+Devops Engineer
+Citi
+Pune Division, Maharashtra, India
+5 days ago
+Dev Ops Engineer
+Dev Ops Engineer
+Barclays
+Pune Division, Maharashtra, India
+4 months ago
+DevOps Engineer
+DevOps Engineer
+Barclays
+Pune Division, Maharashtra, India
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+Particle41
+Pune/Pimpri-Chinchwad Area
+6 months ago
+DevOps Architect
+DevOps Architect
+Accenture in India
+Pune Division, Maharashtra, India
+1 month ago
+Show more jobs like this 
+People also viewed
+DevOps Engineer
+DevOps Engineer
+
+Fold Health
+
+Pune Division, Maharashtra, India
+1 month ago
+DevOps
+DevOps
+
+NTT DATA North America
+
+Pune Division, Maharashtra, India
+1 week ago
+DEVOPS ENGINEER L4
+DEVOPS ENGINEER L4
+
+Wipro
+
+Pune Division, Maharashtra, India
+1 week ago
+AWS Devops-Devops Engineer II
+AWS Devops-Devops Engineer II
+
+Deloitte
+
+Pune Division, Maharashtra, India
+11 hours ago
+DevOps Engineer
+DevOps Engineer
+
+Peoplefy
+
+Pune District, Maharashtra, India
+3 weeks ago
+DevOps Lead, AVP
+DevOps Lead, AVP
+
+Deutsche Bank
+
+Pune Division, Maharashtra, India
+2 months ago
+DevSecOps Engineer
+DevSecOps Engineer
+
+Flexiple
+
+Pune/Pimpri-Chinchwad Area
+7 hours ago
+DevOps Engineer
+DevOps Engineer
+
+Armstrong Dematic
+
+Pune District, Maharashtra, India
+3 weeks ago
+SRE Engineer
+SRE Engineer
+
+Siemens Digital Industries Software
+
+Pune Division, Maharashtra, India
+2 weeks ago
+Infrastructure Cloud and DevOps Engineer
+Infrastructure Cloud and DevOps Engineer
+
+Barclays
+
+Pune Division, Maharashtra, India
+1 week ago
+Similar Searches
+Vice President Shared Services jobs
+78 open jobs
+Storage System Engineer jobs
+1,100 open jobs
+Enterprise Network Engineer jobs
+832 open jobs
+Card Manager jobs
+3,001 open jobs
+Exchange Engineer jobs
+1,233 open jobs
+Principal Application Engineer jobs
+7,645 open jobs
+Business Solutions Consultant jobs
+3,401 open jobs
+Loss Mitigation Specialist jobs
+126 open jobs
+Human Capital Analyst jobs
+299 open jobs
+Channel Program Manager jobs
+335 open jobs
+Senior Treasury Analyst jobs
+605 open jobs
+Foreign Correspondent jobs
+47 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Fiserv
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
