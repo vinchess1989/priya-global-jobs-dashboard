@@ -25396,5 +25396,22 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": null,
     "deletion_reason": "Deadline (2026-03-13) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "SHEQ Superintendent",
+    "company": "Samancor Chrome",
+    "location": "Kh\u00e2i-Ma, Northern Cape, South Africa",
+    "url": "https://za.linkedin.com/jobs/view/sheq-superintendent-at-samancor-chrome-4489436770",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role requires a specific degree or diploma in Occupational Health, Hygiene, or Safety and focuses on mining-site physical safety management, which does not align with the candidate's software/firmware/technical-documentation background.",
+    "id": "ad965a39",
+    "source": "linkedin_za_quality_manager",
+    "added_at": "2026-11-11T02:16:39+02:00",
+    "posted_date": "2026-11-11",
+    "deadline": "2026-08-13",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-08-13) passed by more than 2 days and unreviewed"
   }
 ]
