@@ -1,0 +1,258 @@
+Title: Senior DevOps Specialist
+Company: CIRA
+Location: Ottawa, Ontario, Canada
+URL: https://ca.linkedin.com/jobs/view/senior-devops-specialist-at-cira-4489001788
+Posted: 2026-11-12
+Deadline: N/A
+Reason: The role aligns perfectly with the candidate's extensive background in DevOps, CI/CD, and infrastructure automation, and it is located in Canada, which is a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Specialist
+CIRA  Ottawa, Ontario, Canada
+6 hours ago  33 applicants
+  
+
+See who CIRA has hired for this role
+
+Apply 
+Save
+Join the team that is building a trusted internet for Canadians! CIRA may be best known for managing the .CA domain but our impact reaches far beyond that. We’re at the forefront of advancing cybersecurity technologies and leading projects that improve the digital experience for users across Canada and the world. Our broad scope of activities is driven by one central goal: to strengthen and secure Canada’s digital landscape.  
+
+By working with the CIRA registry team, you’ll play a part in advancing the CIRA Registry Platform, which supports a wide range of domains globally. Help us drive innovation and maintain the high standards of stability and security that our platform is known for. Join us in advancing digital identity and technology in Canada and beyond. 
+
+Who You Are
+
+As a Senior DevOps Specialist, you will collaborate with development, security and product teams to build and maintain critical internet infrastructure. You are passionate about designing secure, reliable and scalable systems through automation, cloud-native technologies and operational best practices.
+
+You are a hands-on engineer who takes ownership of complex technical challenges, drives initiatives independently and shares knowledge to strengthen the team's engineering capabilities.
+
+What You'll Do
+
+
+Design, implement and maintain secure, scalable Amazon Web Services (AWS) infrastructure across multiple environments using Terraform and infrastructure as code best practices.
+Manage the lifecycle of Amazon Elastic Kubernetes Service (EKS) clusters and platform components, including upgrades, networking, ingress, storage, security, autoscaling and infrastructure releases.
+Collaborate with development teams to support and troubleshoot Kubernetes deployments and improve deployment workflows using Helm and GitOps tools such as Argo CD.
+Design and improve observability solutions, including metrics, logging and alerting, to optimize platform reliability, performance, resource utilization and cost efficiency.
+Build reusable platform tooling, standardize deployment workflows and automate infrastructure operations to improve developer experience, reliability and efficiency.
+Independently own and deliver complex infrastructure and platform engineering initiatives, from technical design through implementation and production deployment.
+Collaborate with development and security teams to implement automated security controls, identity and access management (IAM), secrets management and infrastructure security best practices.
+Support on-premises infrastructure and hybrid cloud environments, including disaster recovery and business continuity.
+Share knowledge through code reviews, mentoring and technical documentation.
+Participate in a 24/7 on-call rotation, including production incident response, troubleshooting and root-cause analysis.
+
+
+What You'll Bring
+
+
+5+ years of experience in DevOps, cloud engineering, site reliability engineering or platform engineering.
+Strong hands-on experience with AWS services, particularly EKS, Amazon Elastic Compute Cloud (EC2), IAM, Amazon Virtual Private Cloud (VPC), Amazon Simple Storage Service (S3), load balancing and cloud networking.
+Extensive experience operating and troubleshooting production Kubernetes environments.
+Strong proficiency with Terraform, infrastructure as code practices and Helm.
+Demonstrated expertise in at least one of the following:
+GitOps and deployment automation using tools such as Argo CD or Flux.
+Observability and monitoring using technologies such as Prometheus, Grafana, Loki or equivalent solutions.
+Strong Linux administration, networking fundamentals (Transmission Control Protocol/Internet Protocol (TCP/IP), Domain Name System (DNS), Transport Layer Security (TLS) and troubleshooting skills.
+Proficiency in scripting and automation using Bash and/or Python.
+Experience with continuous integration and continuous delivery (CI/CD) practices, cloud security and infrastructure automation.
+Experience operating, troubleshooting and improving the reliability of business-critical production infrastructure.
+Ability to independently own technical initiatives, evaluate architectural trade-offs and collaborate effectively across teams.
+
+Who We Are
+
+At CIRA, we’re driven by a passion to make a positive impact on Canada’s digital future. We’re not just asking, ‘What more can we do?’—we’re actively exploring new frontiers to enhance and secure the internet for all Canadians. Our recognition as one of the National Capital Region’s Top Employers for ten years is a testament to our vibrant culture. We believe in fostering an environment where collaboration and candour are second nature and where diverse perspectives are integral to our success, because we know that great ideas come from everywhere. If you’re passionate about innovation and ready to make a difference in a dynamic field, join us and help shape the future of the internet!
+
+CIRA embraces a blend of remote and IRL in-office work to keep our team connected and engaged. Our Ottawa headquarters is a hub for regular events and social activities that bring our team together, encouraging a strong sense of community within our organization. No matter where you work from, you'll always feel part of our vibrant team and our shared mission.
+
+At CIRA, people remain at the centre of our recruitment process. While CIRA uses recruitment platforms that include artificial intelligence-enabled features, which may be used to support administrative processes or skills-based assessments, these features are intended to assist our recruitment activities and do not replace human judgment. All applicant screenings, interviews, evaluations and selection decisions are conducted by our staff. Artificial intelligence is not used to make autonomous or final hiring decisions.
+
+This posting is for an existing vacancy. CIRA is committed to fair, inclusive and accessible recruitment practices. Accommodations are available upon request throughout the recruitment, assessment and selection process. If you require any assistance or accommodation, please contact us at accessibility@cira.ca.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at CIRA by 2x
+
+See who you know
+
+Get notified about new DevOps Specialist jobs in Ottawa, Ontario, Canada.
+
+Sign in to create job alert
+Jobs
+Design Researcher jobs
+Senior DevOps Specialist
+Similar jobs
+Platform Developer
+Platform Developer
+Canadian Bank Note Company, Limited
+Ottawa, Ontario, Canada
+CA$74,000 - CA$93,000
+1 day ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Aptiv
+Ottawa, Ontario, Canada
+1 week ago
+Senior Specialist, Software Engineering (CI/CD & Automation Engineering)
+Senior Specialist, Software Engineering (CI/CD & Automation Engineering)
+Canada Mortgage and Housing Corporation (CMHC) Société canadienne d'hypothèques et de logement(SCHL)
+Ottawa, Ontario, Canada
+2 weeks ago
+Senior Specialist, Cloud Infrastructure Operations Engineering
+Senior Specialist, Cloud Infrastructure Operations Engineering
+Canada Mortgage and Housing Corporation (CMHC) Société canadienne d'hypothèques et de logement(SCHL)
+Ottawa, Ontario, Canada
+1 week ago
+DevOps Engineer
+DevOps Engineer
+Kongsberg Geospatial
+Ottawa, Ontario, Canada
+8 hours ago
+System Administrator, DevOps and Infrastructure
+System Administrator, DevOps and Infrastructure
+Sander Geophysics
+Ottawa, Ontario, Canada
+5 months ago
+Show more jobs like this 
+People also viewed
+Software Developer
+Software Developer
+
+Cisco
+
+Ottawa, Ontario, Canada
+3 weeks ago
+Secure System Platform Engineer
+Secure System Platform Engineer
+
+IBM
+
+Ottawa, Ontario, Canada
+CA$129,200 - CA$167,200
+3 weeks ago
+Software Engineer
+Software Engineer
+
+Cisco
+
+Ottawa, Ontario, Canada
+CA$130,400 - CA$181,400
+6 days ago
+Senior System Administrator
+Senior System Administrator
+
+Harris Computer
+
+Ottawa, Ontario, Canada
+3 months ago
+Forward Deployed Engineer, Infrastructure Specialist (Public Sector)
+Forward Deployed Engineer, Infrastructure Specialist (Public Sector)
+
+Cohere
+
+Ottawa, Ontario, Canada
+1 day ago
+Forward Deployed Engineer, Infrastructure Specialist (North America)
+Forward Deployed Engineer, Infrastructure Specialist (North America)
+
+Cohere
+
+Ottawa, Ontario, Canada
+1 week ago
+Spécialiste DevOps / DevOps Specialist (CitizenOne)
+Spécialiste DevOps / DevOps Specialist (CitizenOne)
+
+Portage CyberTech
+
+Gatineau, Quebec, Canada
+3 months ago
+Senior DevOps & Infrastructure-as-Code Engineer, Databricks Enablement
+Senior DevOps & Infrastructure-as-Code Engineer, Databricks Enablement
+
+49 Solutions
+
+Ottawa, Ontario, Canada
+CA$150,000 - CA$200,000
+3 hours ago
+Bilingual Senior Specialist, Software Engineering (Environment Management - DEVOPS)
+Bilingual Senior Specialist, Software Engineering (Environment Management - DEVOPS)
+
+Canada Mortgage and Housing Corporation (CMHC) Société canadienne d'hypothèques et de logement(SCHL)
+
+Ottawa, Ontario, Canada
+2 weeks ago
+Advisor, Cloud Infrastructure Engineering
+Advisor, Cloud Infrastructure Engineering
+
+Canada Mortgage and Housing Corporation (CMHC) Société canadienne d'hypothèques et de logement(SCHL)
+
+Ottawa, Ontario, Canada
+1 week ago
+Similar Searches
+Design Researcher jobs
+713 open jobs
+Project Analyst jobs
+6,736 open jobs
+Visual Designer jobs
+893 open jobs
+Director of Technology jobs
+1,225 open jobs
+User Interface Designer jobs
+1,147 open jobs
+Product Designer jobs
+3,089 open jobs
+User Experience Designer jobs
+1,152 open jobs
+Software Quality Assurance Tester jobs
+514 open jobs
+Information Security Analyst jobs
+367 open jobs
+Security Analyst jobs
+1,342 open jobs
+Junior Software Engineer jobs
+15,782 open jobs
+Machine Learning Engineer jobs
+6,508 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
