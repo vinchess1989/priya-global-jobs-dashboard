@@ -1,0 +1,317 @@
+Title: DevOps Engineer
+Company: Communicate Recruitment
+Location: Johannesburg Metropolitan Area
+URL: https://za.linkedin.com/jobs/view/devops-engineer-at-communicate-recruitment-4488229267
+Posted: 2026-11-12
+Deadline: N/A
+Reason: The role aligns with the candidate's extensive experience in CI/CD, release pipelines, and infrastructure automation, and it is located in South Africa, which is a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+Communicate Recruitment  Johannesburg Metropolitan Area
+10 hours ago  30 applicants
+  
+
+See who Communicate Recruitment has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Direct message the job poster from Communicate Recruitment
+
+Stef Pretorius (ISP)
+Stef Pretorius (ISP)
+Actuarial, Quants, Tech and Data: Professional Talent Sourcer during the day ★Youtuber/Streamer at night
+
+Senior Cloud DevOps Engineer (AWS) | Johannesburg
+
+
+
+
+Are you passionate about building scalable cloud infrastructure and ensuring high-performance systems run seamlessly at scale? We’re looking for a Senior Cloud DevOps Engineer to join a fast-growing technology business where you'll play a critical role in shaping and maintaining modern cloud environments that support innovative SaaS solutions.
+
+
+
+
+This is an opportunity for a hands-on engineer who enjoys automating processes, improving reliability, and collaborating closely with development teams to deliver robust, secure, and scalable applications.
+
+
+
+
+What You'll Be Doing
+
+Design, implement, and maintain scalable, highly available cloud infrastructure on AWS.
+Build and manage CI/CD pipelines to enable efficient and reliable software delivery.
+Administer and support containerized applications using Docker and Kubernetes.
+Deploy, monitor, and optimize applications across cloud environments.
+Implement infrastructure automation to reduce manual processes and improve operational efficiency.
+Strengthen platform security through best practices, hardening, monitoring, and access controls.
+Monitor system health, availability, and performance, proactively identifying areas for improvement.
+Support and manage databases, including PostgreSQL and emerging NoSQL solutions.
+Establish and maintain backup, disaster recovery, and business continuity processes.
+Collaborate with engineering and data teams to troubleshoot, resolve, and prevent production issues.
+Identify cloud cost-saving opportunities and drive infrastructure optimisation initiatives.
+Create and maintain clear technical documentation and operational procedures.
+
+
+
+
+What We're Looking For
+
+Education & Certifications
+
+Degree in Computer Science, Engineering, Information Systems, Mathematics, or a related field preferred.
+AWS certifications advantageous.
+
+
+
+
+Technical Skills
+
+Strong experience with AWS, including services such as ECS, EC2, RDS, S3, CloudFront, and Lambda.
+Solid understanding of Docker and container orchestration with Kubernetes.
+Experience building CI/CD pipelines using tools such as GitHub Actions, Jenkins, or similar.
+Familiarity with Infrastructure as Code tools including Terraform, CloudFormation, or Ansible.
+Experience with monitoring and logging solutions such as Prometheus, Grafana, and CloudWatch.
+Strong working knowledge of Git/GitHub workflows.
+Scripting experience using Python, Bash, Ruby, or similar languages.
+Experience integrating systems, APIs, and automation workflows.
+Sound understanding of networking, security, cloud architecture, and infrastructure management.
+
+
+
+
+Personal Attributes
+
+Strong problem-solving and troubleshooting skills.
+High attention to detail.
+Ability to work independently while collaborating effectively across teams.
+Passion for building reliable, scalable, and secure systems.
+Comfortable working in a dynamic, fast-paced environment.
+
+
+
+
+Bonus Points
+
+Contributions to open-source projects or active involvement in the DevOps community.
+Experience with hybrid cloud environments.
+Previous experience in a SaaS or high-growth technology business.
+
+
+
+
+Interested?
+
+
+
+
+If you're excited about cloud infrastructure, automation, and enabling engineering teams to deliver exceptional products, we'd love to hear from you.
+
+
+
+
+Stefan Pretorius
+
+Recruiter
+
+stpretorius@communicate.co.za
+
+
+
+
+#DevOps #AWS #CloudEngineering #Kubernetes #Docker #Terraform #PlatformEngineering #SiteReliabilityEngineering #TechJobs #Hiring #LinkedInJobs #JohannesburgJobs #StellenboschJobs #DevOpsEngineer #AWSJobs
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Staffing and Recruiting
+  
+
+Referrals increase your chances of interviewing at Communicate Recruitment by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Johannesburg Metropolitan Area.
+
+Sign in to create job alert
+Jobs
+Access Developer jobs
+DevOps Engineer
+Similar jobs
+DevOps Engineer - (AML Platform)
+DevOps Engineer - (AML Platform)
+Optimal Growth Technologies
+Johannesburg, Gauteng, South Africa
+2 months ago
+DevOps Engineer
+DevOps Engineer
+Resourgenix (Pty) Ltd
+Johannesburg Metropolitan Area
+ZAR 550 - ZAR 600
+2 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Upstream
+Johannesburg, Gauteng, South Africa
+1 week ago
+Platform Engineer
+Platform Engineer
+Share
+City of Johannesburg, Gauteng, South Africa
+1 month ago
+Site Reliability Engineer (SRE)
+Site Reliability Engineer (SRE)
+Impronics Digitech
+Johannesburg, Gauteng, South Africa
+1 year ago
+SRE Platform Engineer (Microsoft Azure)
+SRE Platform Engineer (Microsoft Azure)
+Syspro
+Johannesburg, Gauteng, South Africa
+1 month ago
+Show more jobs like this 
+People also viewed
+System & Network Engineer (Level-I)
+System & Network Engineer (Level-I)
+
+Prime System Solutions
+
+Johannesburg, Gauteng, South Africa
+3 months ago
+Application Developer
+Application Developer
+
+Penta Consulting
+
+Johannesburg Metropolitan Area
+2 weeks ago
+Founding Engineer
+Founding Engineer
+
+Share
+
+City of Johannesburg, Gauteng, South Africa
+5 months ago
+Data Engineer
+Data Engineer
+
+Decision Inc.
+
+Johannesburg, Gauteng, South Africa
+2 months ago
+Data Engineer (Mid-level)
+Data Engineer (Mid-level)
+
+WPP Media
+
+Johannesburg, Gauteng, South Africa
+4 months ago
+Hosting Engineer
+Hosting Engineer
+
+Jurumani Solutions
+
+Midrand, Gauteng, South Africa
+1 week ago
+Gemstone DevOps Engineer
+Gemstone DevOps Engineer
+
+Concord EFS
+
+Johannesburg, Gauteng, South Africa
+1 month ago
+Senior System Engineer
+Senior System Engineer
+
+AnywhereNow
+
+Johannesburg Metropolitan Area
+11 hours ago
+Test Automation Engineer
+Test Automation Engineer
+
+Klipboard
+
+Johannesburg, Gauteng, South Africa
+1 week ago
+NiFi Developer
+NiFi Developer
+
+Tata Consultancy Services
+
+City of Johannesburg, Gauteng, South Africa
+3 weeks ago
+Similar Searches
+Access Developer jobs
+18 open jobs
+Senior Credit Controller jobs
+95 open jobs
+Credit Controller jobs
+823 open jobs
+English Second Language Teacher jobs
+21 open jobs
+Engineer in Training jobs
+721 open jobs
+Sap Materials Management Consultant jobs
+36 open jobs
+Test Architect jobs
+201 open jobs
+Assistant Audit Manager jobs
+797 open jobs
+Financial Accountant jobs
+913 open jobs
+Management Consultant jobs
+834 open jobs
+Underwriter jobs
+118 open jobs
+Financial Advisor jobs
+478 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Communicate Recruitment
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
