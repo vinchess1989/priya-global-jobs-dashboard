@@ -1,0 +1,126 @@
+Title: Cloud & DevOps Engineer
+Company: Duress
+Location: Melbourne, VIC, Australia
+URL: https://au.jora.com/job/Cloud-and-DevOps-Engineer-e240e34566a6aebf231fcc362157678d
+Posted: 2h ago
+Deadline: Open until filled
+Reason: The role aligns with the candidate's extensive experience in CI/CD, DevOps, and infrastructure management, and it is located in Australia, which is a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Search
+Sign in
+What
+Where
+Search jobs
+Cloud & DevOps Engineer
+Duress
+–
+Melbourne VIC
+$130,000 - $150,000 a year
+Full time
+Hybrid
+2h ago, from seek.com.au
+Apply on company site
+
+About the role
+
+We're looking for a Cloud & DevOps Engineer to join our AI-native engineering team and take ownership of the cloud infrastructure, deployment pipelines, reliability and operational capability that underpin the Duress platform. This is a hands-on engineering role working across AWS infrastructure, CI/CD, observability, security and production operations. You'll maintain and improve our existing cloud environment while helping us automate infrastructure, simplify deployments and improve the reliability and resilience of our systems. You'll work closely with Software, Mobile and Platform engineers to support reliable delivery from development through to production. You'll also play a key role in production support and incident response, including participation in our on-call rotation. This is a Melbourne-based hybrid role, with four days per week working from our St Kilda Road office and one day working from home.
+
+Key responsibilities
+
+Build, maintain and improve our AWS cloud infrastructure
+
+Manage production workloads across AWS compute, data, messaging and IoT services
+
+Manage AWS networking including VPCs, Security Groups, Network ACLs and VPC Endpoints
+
+Build and maintain infrastructure using Terraform
+
+Build, maintain and improve CI/CD pipelines using GitLab
+
+Maintain monitoring, logging, distributed tracing and alerting through New Relic and related tooling
+
+Investigate and resolve infrastructure and production issues
+
+Apply cloud security best practices across IAM, secrets management, networking, patching and vulnerability management
+
+Work closely with Software, Mobile, Product and Platform teams
+
+Take ownership of infrastructure and DevOps work from planning through to production
+
+About you
+
+5+ years of experience in Cloud, DevOps, Platform Engineering or a similar role
+
+Strong hands-on experience managing production workloads in AWS
+
+Experience with core AWS services such as ECS, EC2, RDS, Lambda, S3 and CloudWatch
+
+Solid understanding of AWS networking including VPCs, Security Groups, Network ACLs, Internet Gateways and VPC Endpoints
+
+Strong experience with Infrastructure as Code, particularly Terraform
+
+Experience building and maintaining CI/CD pipelines using GitLab CI/CD
+
+Strong Docker experience and experience deploying containerised workloads to AWS ECS
+
+Experience with New Relic, including distributed tracing and centralised logging
+
+Strong understanding of cloud security including IAM, secrets management, network security, patching and vulnerability management
+
+Experience supporting production systems and responding to operational incidents
+
+Benefits
+
+On the job training and mentoring
+
+Annual salary reviews
+
+One day working from home
+
+Employee Assistance Program (extended to family members)
+
+Salary Sacrificing options, e.g. Laptop, Phone, Superannuation, etc.
+
+Fun and Friendly Team Culture with plenty of social events, such as trivia, special-day lunches, etc.
+
+Modern, light-filled offices located on St Kilda Road near ANZAC station
+
+Fully functional dedicated workstation that includes the latest MacBook (or PC), Dual high-res monitors and Height adjustable ergonomic desk and chair
+
+About us
+
+Duress is a Melbourne-based technology company on a mission to make workplaces safer through real-time, connected safety solutions. Founded to provide a fast and discreet way for people to call for help in critical situations, Duress has grown into a global platform protecting frontline, lone, and high-risk workers across government, healthcare, retail, and community services. Our platform combines mobile applications, wearable devices, and cloud-native infrastructure to deliver real-time alerts, live video and audio streaming, and precise location tracking. All monitored by a 24/7 operations centre capable of rapid escalation to emergency services.
+
+Apply on company site
+Be careful - Don’t provide your bank or credit card details when applying for jobs. Don't transfer any money or complete suspicious online surveys. If you see something suspicious, report this job ad.
+Email to yourself or a friend
+Email job
+Discover Jora
+Browse jobs
+Browse salaries
+Find recruiter
+About
+FAQ
+Blog
+Reviews
+Browse Jobs in Australia
+Jobs in Sydney
+Jobs in Melbourne
+Jobs in Hobart
+Jobs in Brisbane
+Jobs in Perth
+Jobs in Darwin
+Jobs in Adelaide
+Connect with us
+TikTok
+Facebook
+Linkedin
+Get Jora app
+Contact us
+Privacy
+Terms & Conditions
+©2026 Job Seeker Pty Ltd

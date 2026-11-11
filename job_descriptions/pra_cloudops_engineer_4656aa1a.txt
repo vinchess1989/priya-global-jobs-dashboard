@@ -1,0 +1,89 @@
+Title: CloudOps Engineer
+Company: PRA
+Location: Melbourne, Australia
+URL: https://au.jora.com/job/CloudOps-Engineer-246d0655f75404f8c73a31560178b128
+Posted: 2026-11-09
+Deadline: N/A
+Reason: The role aligns with the candidate's DevOps and CI/CD expertise, is located in an approved country (Australia), and does not trigger any hard rejections.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Search
+Sign in
+What
+Where
+Search jobs
+CloudOps Engineer
+PRA
+–
+Melbourne VIC
+$160,000 - $170,000 a year
+Hybrid
+3d ago, from PRA
+AI-assisted apply
+
+
+Salary: $160k-$170k + bonus
+Location: Melbourne, 4 days a week in the office
+Growth: help shape AI-enabled automation for cloud operations
+About the opportunity
+
+A large national organisation is looking for a hands-on Cloud Operations Engineer to help build and run its cloud platforms across AWS & Azure. This is a role where you'll own infrastructure as code day to day, keeping a busy multi-cloud environment secure, reliable and cost-effective, while working closely with application teams and vendors.
+
+It's also a chance to get in early on how AI-enabled automation can change cloud operations. Alongside core platform work, you'll help introduce better automation tools and practices, and build a community of practice around the technologies the team has chosen.
+
+The role
+
+
+Provide first and second-level support for cloud issues, troubleshooting across the infrastructure
+Build and maintain cloud infrastructure as code using Terraform
+Help deliver cloud projects from design and cost analysis through to build
+Introduce and improve automation tools and processes, including AI-enabled automation
+Take part in the team's on-call support rotation
+What you'll bring
+
+Hands-on infrastructure as code (IaC) experience, especially Terraform, building secure, reusable, version-controlled infrastructure
+Experience building, deploying and supporting workloads in AWS and/or Azure
+Containerisation experience with Docker and Kubernetes
+Competency in at least one scripting or programming language, plus CI/CD and change control experience
+Strong troubleshooting skills and clear written communication, including technical documentation
+Great to have: SRE and observability, AWS ECS, cloud security and cost management, Entra ID/IAM/DNS, or experience with 24/7 mission-critical systems.
+
+Culture
+
+
+Close collaboration with application teams and vendors
+A team that values finding better ways of working and owning its impact
+Room to share knowledge and help build a community of practice
+If you're a Terraform-first cloud engineer who enjoys keeping production platforms healthy and wants to push automation further, apply now or get in touch with Daniel Naidoo *************@pra.com.au for a confidential chat.
+AI-assisted apply
+Be careful - Don’t provide your bank or credit card details when applying for jobs. Don't transfer any money or complete suspicious online surveys. If you see something suspicious, report this job ad.
+Email to yourself or a friend
+Email job
+Discover Jora
+Browse jobs
+Browse salaries
+Find recruiter
+About
+FAQ
+Blog
+Reviews
+Browse Jobs in Australia
+Jobs in Sydney
+Jobs in Melbourne
+Jobs in Hobart
+Jobs in Brisbane
+Jobs in Perth
+Jobs in Darwin
+Jobs in Adelaide
+Connect with us
+TikTok
+Facebook
+Linkedin
+Get Jora app
+Contact us
+Privacy
+Terms & Conditions
+©2026 Job Seeker Pty Ltd
