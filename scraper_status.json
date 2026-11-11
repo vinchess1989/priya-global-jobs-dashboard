@@ -1,9 +1,9 @@
 {
   "pid": 47988,
   "started_at": "2026-11-12T01:12:42+02:00",
-  "heartbeat_at": "2026-11-12T01:39:09+02:00",
+  "heartbeat_at": "2026-11-12T01:41:47+02:00",
   "phase": "reviewing",
-  "detail": "Technical Author (multiple roles and seniority levels)",
-  "last_scrape_ok_at": "2026-11-12T01:38:09+02:00",
+  "detail": "Quality Officer (Pharma)",
+  "last_scrape_ok_at": "2026-11-12T01:40:49+02:00",
   "last_error": null
 }

@@ -1,0 +1,296 @@
+Title: Senior DevOps Engineer
+Company: GFT Technologies APAC & GCC
+Location: Hong Kong, Hong Kong SAR
+URL: https://hk.linkedin.com/jobs/view/senior-devops-engineer-at-gft-technologies-apac-gcc-4489971360
+Posted: 2026-11-12
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in DevOps, release readiness, and operational compliance within regulated environments, and it is located in a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer
+GFT Technologies APAC & GCC  Hong Kong, Hong Kong SAR
+7 hours ago   Be among the first 25 applicants
+  
+
+See who GFT Technologies APAC & GCC has hired for this role
+
+Apply 
+Save
+Job description:
+
+
+
+About GFT
+
+ 
+
+GFT Technologies is an AI-centric global digital transformation company. We design advanced data and AI transformation solutions, modernize technology architectures and develop next-generation core systems for industry leaders in Banking, Insurance, Manufacturing and Robotics. Partnering closely with our clients, we push boundaries to unlock their full potential. With deep industry expertise, cutting-edge technology, and a strong partner ecosystem, GFT delivers responsible AI-centric solutions that combine engineering excellence, high-performance delivery, and cost efficiency. Our team of 12,000+ technology experts operate in 20+ countries worldwide offering career opportunities at the forefront of software innovation.
+
+ 
+
+ 
+
+Overview 
+
+ 
+
+We are seeking an experienced Senior DevOps / Production Operations Engineer to support the production operations and operational readiness of a next-generation Stablecoin and Digital Assets Platform. 
+
+ 
+
+This role is focused on ensuring the platform operates securely, reliably, and efficiently in production. The successful candidate will work closely with product, engineering, infrastructure, security, compliance, and operations teams to support production environments, improve operational processes, manage incidents, and drive platform reliability. 
+
+ 
+
+The role is based in Hong Kong and will work directly with the CTO and key business stakeholders. 
+
+ 
+
+Key Responsibilities 
+
+ 
+
+Production Operations 
+
+Own day-to-day production support activities across platform environments. 
+Monitor platform health, performance, availability, and operational KPIs. 
+Coordinate incident management, root cause analysis, and resolution activities. 
+Ensure timely communication and escalation of production issues. 
+
+ 
+
+Operational Readiness 
+
+Establish and improve production support processes, runbooks, operational procedures, and support models. 
+Drive release readiness, change management, and deployment coordination. 
+Ensure support teams have appropriate documentation and operational knowledge. 
+
+ 
+
+Platform Reliability & Monitoring 
+
+Implement and maintain monitoring, alerting, logging, and observability capabilities. 
+Identify reliability risks and proactively drive remediation activities. 
+Improve platform resilience, availability, recovery, and operational maturity. 
+
+ 
+
+Infrastructure & Cloud Operations 
+
+Support cloud infrastructure and platform environments. 
+Manage deployment pipelines, environment configuration, and infrastructure automation. 
+Work closely with engineering teams to improve operational stability. 
+
+ 
+
+Security & Compliance 
+
+Support operational controls required for a regulated financial platform. 
+Participate in audits, security reviews, disaster recovery testing, and operational risk assessments. 
+Ensure operational processes align with security and compliance requirements. 
+
+ 
+
+Stakeholder Coordination 
+
+Act as a bridge between Engineering, Product, Operations, Compliance, Risk, and external partners. 
+Coordinate operational activities across multiple teams. 
+Provide clear operational reporting and status updates to management. 
+
+ 
+
+(Note: Due to the high volume of applications we receive, we are unable to respond to every candidate individually. If you have not received a response from GFT regarding your application within 10 workdays, please consider that we have decided to proceed with other candidates. We truly appreciate your interest in GFT and thank you for your understanding)
+
+ 
+
+
+
+Profile description:
+
+
+
+ Candidate Profile 
+
+The ideal candidate: 
+
+Is operationally minded rather than purely development focused. 
+Enjoys running and improving production platforms. 
+Is comfortable handling incidents and production issues. 
+Takes ownership and drives issues to resolution. 
+Can coordinate across technology, product, operations, compliance, and risk teams. 
+Thinks proactively about reliability, resilience, and operational excellence. 
+
+ 
+
+Required Experience 
+
+7+ years of experience in DevOps, Production Support, SRE, Platform Operations, or Infrastructure Engineering. 
+Experience supporting critical production systems in financial services, fintech, payments, trading, digital banking, or regulated environments. 
+Experience with cloud platforms (AWS preferred). 
+Strong experience in monitoring, observability, incident management, and operational support. 
+Experience with CI/CD pipelines and infrastructure automation. 
+Strong troubleshooting and problem-solving capabilities. 
+
+ 
+
+Preferred Experience 
+
+Experience supporting blockchain, digital asset, stablecoin, payments, or financial market infrastructure platforms. 
+Experience with Kubernetes, containerized environments, and cloud-native architectures. 
+Experience with Site Reliability Engineering (SRE) practices. 
+Experience with security operations, audit readiness, and regulated environments. 
+Familiarity with operational processes supporting 24x7 services. 
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at GFT Technologies APAC & GCC by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Senior DevOps Engineer
+Senior DevOps Engineer
+Lane Crawford
+Southern District, Hong Kong SAR
+6 days ago
+(Senior) DevOps Engineer
+(Senior) DevOps Engineer
+Omnichat
+Hong Kong, Hong Kong SAR
+6 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Alpaca
+Hong Kong SAR
+1 day ago
+SRE/DevOps/Platform Engineer
+SRE/DevOps/Platform Engineer
+Kody
+Hong Kong, Hong Kong SAR
+3 weeks ago
+Senior DevOps Engineer (Trading Platform)
+Senior DevOps Engineer (Trading Platform)
+Crypto.com
+Hong Kong SAR
+1 week ago
+Senior Platform Engineer
+Senior Platform Engineer
+dtcpay
+Hong Kong, Hong Kong SAR
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Senior Staff, Platform Engineer
+Senior Staff, Platform Engineer
+
+MoneyHero Group (Nasdaq: MNY)
+
+Central & Western District, Hong Kong SAR
+2 days ago
+SRE
+SRE
+
+Peak3
+
+Hong Kong, Hong Kong SAR
+3 weeks ago
+Senior Cloud Services Engineer - Associate - Cloud Platform Services - 12month contract
+Senior Cloud Services Engineer - Associate - Cloud Platform Services - 12month contract
+
+Hong Kong Exchanges and Clearing Limited (HKEX)
+
+Hong Kong, Hong Kong SAR
+1 week ago
+Production Engineer
+Production Engineer
+
+Anchorpoint
+
+Hong Kong SAR
+3 weeks ago
+Senior Site Reliability / Gitops Engineer
+Senior Site Reliability / Gitops Engineer
+
+Canonical
+
+Hong Kong, Hong Kong SAR
+1 day ago
+Cloud Systems Engineer
+Cloud Systems Engineer
+
+Jump Trading
+
+Central & Western District, Hong Kong SAR
+1 day ago
+Techops Engineer
+Techops Engineer
+
+Binance
+
+Central & Western District, Hong Kong SAR
+2 weeks ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+Canonical
+
+Hong Kong, Hong Kong SAR
+22 hours ago
+IT Infrastructure & DevOps Specialist
+IT Infrastructure & DevOps Specialist
+
+Crystal International
+
+Kwun Tong District, Hong Kong SAR
+3 weeks ago
+Senior Site Reliability Engineer (SRE) / Managed Services Engineer
+Senior Site Reliability Engineer (SRE) / Managed Services Engineer
+
+Horizon Trading Solutions
+
+Hong Kong SAR
+1 week ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

@@ -26059,5 +26059,22 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": "job_descriptions/datafin_senior_quality_assurance_analy_a9e2e6a1.txt",
     "deletion_reason": "Deadline (2026-11-10) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Platform Engineering & Release Manager (Superintendent, Autonomy)",
+    "company": "Verse Group",
+    "location": "Perth, WA, Australia",
+    "url": "https://au.jora.com/job/Release-Manager-a7550fc83db1b0c4997355818f4c1454",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job explicitly requires full Australian working rights and states that no visa sponsorship or relocation assistance is provided, which disqualifies the candidate.",
+    "id": "b161ebb5",
+    "source": "jora_au_release_manager",
+    "added_at": "2026-11-12T01:40:21+02:00",
+    "posted_date": "2026-10-22",
+    "deadline": "N/A",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
