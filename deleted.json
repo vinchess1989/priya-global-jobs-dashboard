@@ -25413,5 +25413,22 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": null,
     "deletion_reason": "Deadline (2026-08-13) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Frontline Payroll Administrator",
+    "company": "Life Healthcare Group (Pty) Ltd",
+    "location": "Johannesburg, South Africa",
+    "url": "https://www.pnet.co.za/jobs--Frontline-Payroll-Administrator-Johannesburg-Life-Healthcare-Group-Pty-Ltd--4294707-inline.html",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role requires a clinical nursing degree and registration, which the candidate does not possess, and it is a clinical nursing position rather than a technical or engineering role.",
+    "id": "df78abc9",
+    "source": "pnet_iso_13485",
+    "added_at": "2026-11-11T02:25:01+02:00",
+    "posted_date": "2026-11-11",
+    "deadline": "2026-11-02",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-11-02) passed by more than 2 days and unreviewed"
   }
 ]
