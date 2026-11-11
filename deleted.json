@@ -25379,5 +25379,22 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": "job_descriptions/telstra_apply_on_company_site_54832f27.txt",
     "deletion_reason": "Deadline (2026-11-09) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Quality Assurance Manager",
+    "company": "Mygration Pty Ltd",
+    "location": "Alexandria, NSW, Australia",
+    "url": "https://au.jora.com/job/Quality-Assurance-Manager-5b5bc3f33bdb6c632190c222af726ba1",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role requires a degree in Food Science or Quality Management and specific experience in food manufacturing/bakery, which does not align with the candidate's background in software, embedded systems, and medical/automotive regulatory compliance.",
+    "id": "95e9c46e",
+    "source": "jora_au_quality_manager",
+    "added_at": "2026-11-11T02:07:19+02:00",
+    "posted_date": "13h ago",
+    "deadline": "2026-03-13",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-03-13) passed by more than 2 days and unreviewed"
   }
 ]
