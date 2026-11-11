@@ -1,0 +1,270 @@
+Title: Senior Software Engineer
+Company: ASB Bank
+Location: Auckland, New Zealand
+URL: https://nz.linkedin.com/jobs/view/senior-software-engineer-at-asb-bank-4487893963
+Posted: 2026-11-12
+Deadline: Open until filled
+Reason: The role is a strong match for her DevOps, CI/CD, and platform engineering background, and it is located in a target country (New Zealand) with no explicit exclusion of visa sponsorship.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Software Engineer
+ASB Bank  Auckland, New Zealand
+13 hours ago   Be among the first 25 applicants
+  
+
+See who ASB Bank has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Kia ora, Talofa lava, Kia Orana, Malo e lelei, Fakalofa lahi atu, Bula Vinaka and Namaste!
+
+Location: ASB C: Drive Albany, Tāmaki Makaurau / Auckland
+
+Employment Type: Permanent, full time
+
+Mō Mātou | About us
+
+At ASB, we believe progress is more than just financial - it's about helping New Zealanders, communities, and our environment thrive together. We're a purpose-led organisation with a proud history and a clear vision: to support Kiwis in getting one step ahead. Our work is guided by strong values - care, courage and curiosity - and brought to life by a diverse team of people who genuinely care about making a difference.
+
+As one of Aotearoa's most trusted banking partners, we combine the stability and scale of a large organisation with a culture that ensures you're recognised as an individual. Your ideas, your growth, and your contribution matter here - and you'll be supported to do meaningful work that has a real impact, every day.
+
+Mō te tūranga | About the role
+
+As a Senior Software Engineer - Platform Engineer, you'll strengthen the reliability, security and operational resilience of some of ASB's most important customer-facing platforms. You'll combine deep infrastructure expertise with modern engineering practices to help build a more resilient, automated and scalable technology environment.
+
+You'll join the SIS Squad within Customer Tribe, a platform engineering and Site Reliability Engineering team responsible for infrastructure, server platforms and operational excellence across the Tribe. This role works across multiple squads and services rather than a single application, helping uplift platform reliability, automation and operational capability across critical customer systems.
+
+Working across a predominantly on-premises environment with growing cloud adoption, you'll support and improve Windows and Linux platforms while driving greater automation, observability and operational excellence. The role combines hands-on engineering with strategic thinking, giving you the opportunity to improve reliability today and help shape a stronger operating model for the future.
+
+In This Role, You Will
+
+
+Maintain and optimise critical Windows and Linux server environments.
+Drive vulnerability remediation, platform security improvements and more effective patching through automation.
+Support reliable, secure and highly available services across Customer Tribe.
+Design and implement operational tooling, monitoring, alerting and observability solutions.
+Build and maintain CI/CD pipelines supporting platform and infrastructure delivery.
+Identify operational risks and implement preventative controls.
+Participate in incident response, problem management and post-incident reviews.
+Develop automation that improves platform management, security and operational efficiency.
+Partner with engineering teams to promote Site Reliability Engineering principles and practices.
+Create and maintain technical documentation, runbooks and operational procedures.
+Influence platform strategy and recommend improvements that enhance reliability and reduce operational effort.
+Collaborate across squads to solve complex platform and infrastructure challenges.
+Participate in on-call support when required.
+
+
+Ngā mea kia whai angitū ahau? | What will help me succeed?
+
+You're an experienced platform, infrastructure or Site Reliability Engineer who enjoys solving complex technical problems and improving how technology operates. You'll bring strong technical depth, a pragmatic approach to problem-solving and the ability to balance operational excellence with longer-term strategic thinking.
+
+Essential Experience
+
+
+At least five years of experience in infrastructure engineering, platform engineering, Site Reliability Engineering or a related discipline.
+Strong Windows and Linux server-administration experience in enterprise-scale infrastructure environments.
+Expertise in PowerShell and Python scripting, with proven experience developing automation across infrastructure and operational processes.
+Strong vulnerability-management and patching experience.
+Experience supporting critical production systems within complex enterprise environments.
+Azure cloud experience and exposure to hybrid infrastructure environments.
+Strong experience building and maintaining CI/CD pipelines, using Git-based source control and modern DevOps practices.
+Strong monitoring, observability and operational-support experience.
+Experience driving reliability, operational improvement or SRE-focused initiatives.
+Strong problem-solving skills, with the ability to influence technical direction and platform improvement.
+Excellent communication skills, with the ability to engage technical and non-technical stakeholders.
+
+
+Desirable Experience
+
+
+Azure Kubernetes Service (AKS).
+Experience working in Site Reliability Engineering or platform engineering teams.
+Ansible or similar automation and orchestration tools.
+Observability platforms and monitoring tooling.
+API gateway technologies such as Kong.
+Enterprise application-hosting platforms.
+Improving patching and vulnerability-management processes through automation.
+Certificate management and enterprise networking.
+Large-scale or highly regulated environments.
+Azure Administrator Associate certification (AZ-104) or equivalent.
+
+
+He aha tā mātou | What can we offer
+
+Get the work-life equation right. We know life is full of priorities, from soccer practice to side hobbies. We're here to help you find balance, with a flexible and supportive working environment.
+
+What's important to you is important to us. We support your wellbeing in meaningful ways, including comprehensive health insurance, wellness initiatives, parental and flexible leave, and customisable benefits to suit your lifestyle.
+
+Bring your whole self to work every day. Whether you're into scrapbooking, spontaneous karaoke sessions, or just hanging out with the family, ASB is working hard to create a culture where everyone feels safe, included and part of our shared purpose of helping Kiwis get one step ahead.
+
+The whole "one step ahead" thing applies to you, too. With mentorship, flexible learning pathways, and opportunities to deepen your expertise, ASB is a place where you can take on exciting challenges and step forward to reach your goals, both in and out of the office.
+
+Me pēhea te tono | How to apply?
+
+We know great people come from all sorts of backgrounds, and you don't need to tick every box to apply. What matters most is that you bring your unique strengths and enthusiasm to the team.
+
+To be considered, all applications need to go through our online career channels and will be treated with confidentiality. Check out the position description to find out more.
+
+We appreciate the time and effort you put into applying and will keep you updated throughout the process.
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Industries
+Banking, Financial Services, and Investment Banking
+  
+
+Referrals increase your chances of interviewing at ASB Bank by 2x
+
+See who you know
+
+Get notified about new Senior Software Engineer jobs in Auckland, New Zealand.
+
+Sign in to create job alert
+Similar jobs
+Senior Software Engineer, NZ
+Senior Software Engineer, NZ
+Partly
+Auckland, Auckland, New Zealand
+7 hours ago
+Senior Software Engineer
+Senior Software Engineer
+Kami
+Auckland, Auckland, New Zealand
+2 months ago
+Senior Software Engineer
+Senior Software Engineer
+Propellerhead
+Auckland, New Zealand
+1 week ago
+Senior Software Engineer
+Senior Software Engineer
+Pushpay
+Auckland, Auckland, New Zealand
+1 week ago
+Software Engineer, NZ
+Software Engineer, NZ
+Partly
+Auckland, Auckland, New Zealand
+1 week ago
+Staff Software Engineer
+Staff Software Engineer
+Auror
+Auckland, Auckland, New Zealand
+3 weeks ago
+Show more jobs like this 
+People also viewed
+Developer
+Developer
+
+Fliway Group
+
+Auckland, Auckland, New Zealand
+1 day ago
+Expression of Interest - Intermediate to Senior Founding Engineers
+Expression of Interest - Intermediate to Senior Founding Engineers
+
+Comply Copilot (Coco AI)
+
+Dairy Flat, Auckland, New Zealand
+2 hours ago
+Principal Software Engineer
+Principal Software Engineer
+
+NZ Transport Agency Waka Kotahi
+
+Auckland, Auckland, New Zealand
+1 week ago
+Software Consultant (Senior Platform Engineer)
+Software Consultant (Senior Platform Engineer)
+
+ASB Bank
+
+Auckland, New Zealand
+2 days ago
+Product Engineer
+Product Engineer
+
+ZURU
+
+Auckland, Auckland, New Zealand
+1 week ago
+Senior Full Stack Software Engineer
+Senior Full Stack Software Engineer
+
+Pushpay
+
+Auckland, New Zealand
+1 week ago
+Software Developer, Sr
+Software Developer, Sr
+
+Fiserv
+
+Auckland, Auckland, New Zealand
+5 days ago
+Senior Software Developer
+Senior Software Developer
+
+Assurant
+
+Auckland, Auckland, New Zealand
+1 week ago
+Senior Full-Stack Engineer
+Senior Full-Stack Engineer
+
+Concord Visa
+
+Auckland, New Zealand
+2 months ago
+Senior Full Stack Developer
+Senior Full Stack Developer
+
+Generate KiwiSaver Scheme
+
+Auckland, Auckland, New Zealand
+1 month ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
