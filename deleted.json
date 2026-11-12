@@ -26569,5 +26569,22 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": null,
     "deletion_reason": "Deadline (2026-10-21) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Portfolio VMO Lead Digital Products",
+    "company": "News Corp Australia",
+    "location": "Surry Hills, New South Wales, Australia",
+    "url": "https://au.linkedin.com/jobs/view/portfolio-vmo-lead-digital-products-at-news-corp-australia-4489904147",
+    "visited": "yes",
+    "matches_requirements": "yes",
+    "reason": "The role aligns with the candidate's extensive experience in release management, operational excellence, and cross-team coordination, and it is located in an eligible country (Australia).",
+    "id": "0e460fe0",
+    "source": "linkedin_au_release_manager",
+    "added_at": "2026-11-13T01:28:59+02:00",
+    "posted_date": "2026-11-12",
+    "deadline": "2025-11-17",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": "job_descriptions/news_corp_australia_portfolio_vmo_lead_digital_pro_0e460fe0.txt",
+    "deletion_reason": "Deadline (2025-11-17) passed by more than 2 days and unreviewed"
   }
 ]

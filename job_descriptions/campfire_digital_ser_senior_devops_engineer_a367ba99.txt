@@ -1,0 +1,153 @@
+Title: Senior DevOps Engineer
+Company: Campfire Digital Services
+Location: East Perth, WA, Australia
+URL: https://au.jora.com/job/DevOps-Engineer-27a53be064448a5c348b010893079600
+Posted: 17h ago
+Deadline: N/A
+Reason: The role aligns perfectly with the candidate's extensive experience in CI/CD, configuration management, and release engineering, and it is located in Australia, which is a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Search
+Sign in
+What
+Where
+Search jobs
+Senior DevOps Engineer
+Campfire Digital Services
+–
+East Perth WA
+$130,000 - $150,000 a year
+Full time
+17h ago, from seek.com.au
+Apply on company site
+
+About Campfire
+
+At Campfire Digital Services Pty Ltd, we believe technology should feel natural and effortless.
+
+Our mission is to humanise technology by designing and delivering digital solutions that are intuitive, meaningful and easy to use. We partner with organisations across government and industry to deliver high-quality digital experiences that simply work for users and the teams behind them.
+
+About the Role
+
+We are seeking a Senior DevOps Engineer to join our delivery team, bringing expertise to the design, implementation and documentation of the infrastructure and delivery practices that support our software projects.
+
+In this role, you will build and optimise CI/CD pipelines, automate cloud infrastructure, and improve the security, reliability and scalability of production and non-production systems. You will work closely with developers, QA analysts, operations and security teams to embed security controls throughout the software delivery lifecycle, and to support deployments, some of which will take place outside regular business hours.
+
+This role suits someone who enjoys hands-on engineering, takes ownership of complex technical problems from design through to production and helps others build their capability. You will work independently, advise teams and clients on technical decisions, and help set engineering standards across delivery teams.
+
+Key Responsibilities
+
+CI/CD & Delivery Automation
+
+Design, implement and optimise CI/CD pipelines for automated builds, testing and deployments.
+
+Establish and document consistent build, release and configuration management practices across projects.
+
+Work with development and QA teams to integrate automated tests and provide timely feedback on build and deployment failures.
+
+Cloud Infrastructure & Container Orchestration
+
+Design and manage infrastructure as code using tools such as Terraform or AWS CloudFormation to provision consistent, repeatable environments.
+
+Build and operate containerised environments using Docker, Kubernetes or similar tools, with a focus on scalability and resilience.
+
+Automate configuration and operational tasks using Ansible, Chef or similar tools.
+
+Advise teams and clients on cloud optimisation, taking financial considerations into account.
+
+Monitoring, Reliability & Security
+
+Define and maintain monitoring, alerting and centralised logging using tools such as Grafana or the Elastic Stack.
+
+Use operational data to identify recurring issues and improve system reliability.
+
+Embed security controls throughout the CI/CD lifecycle and work with security teams to address risks early.
+
+Technical Leadership & Continuous Improvement
+
+Mentor engineers through design discussions, code reviews and hands-on guidance.
+
+Identify bottlenecks in delivery workflows and improve deployment speed and reliability.
+
+Evaluate new tools and practices, explain the trade-offs and help teams adopt approaches that fit their projects.
+
+Document technical decisions, infrastructure standards and operational procedures so teams can support what they deliver.
+
+Skills & Experience
+
+We’re looking for someone with:
+
+Around 5–7 years’ experience in DevOps, platform engineering, cloud engineering or a related role.
+
+Strong experience designing and maintaining CI/CD pipelines using tools such as GitLab or Jenkins.
+
+Strong experience with at least one major cloud platform, such as AWS, or Azure.
+
+Experience with infrastructure as code, configuration management and Git-based workflows.
+
+Practical experience with Docker or Kubernetes in production environments.
+
+Proficiency in scripting and programming languages, such as Python, Java or Bash.
+
+Experience with production monitoring, logging and troubleshooting across applications and infrastructure.
+
+Working knowledge of database administration in Oracle and/or Postgres.
+
+Experience with the use of agentic AI to support and add efficiency to the DevOps role.
+
+A practical understanding of Agile delivery and DevSecOps practices, including how to build security controls into delivery pipelines.
+
+The ability to own complex technical work, mentor engineers and explain technical decisions clearly to both technical, non-technical, and executive stakeholders.
+
+Nice to Have
+
+Experience working on government or enterprise digital projects.
+
+Experience establishing DevOps standards and helping multiple delivery teams adopt them.
+
+Experience using deployment and reliability metrics to guide improvements.
+
+Preferred Qualifications
+
+Bachelor’s or Master’s degree in Computer Science, Information Technology, Software Engineering or a related field.
+
+Relevant cloud or DevOps certification, such as AWS Certified DevOps Engineer or Microsoft Certified DevOps Engineer Expert.
+
+Recent TOGAF certification.
+
+Apply Now
+
+If you enjoy building reliable platforms, improving how software gets delivered and helping engineers develop their skills, we would love to hear from you. Please submit your resume and a brief cover letter outlining your relevant experience.
+
+Apply on company site
+Be careful - Don’t provide your bank or credit card details when applying for jobs. Don't transfer any money or complete suspicious online surveys. If you see something suspicious, report this job ad.
+Email to yourself or a friend
+Email job
+Discover Jora
+Browse jobs
+Browse salaries
+Find recruiter
+About
+FAQ
+Blog
+Reviews
+Browse Jobs in Australia
+Jobs in Sydney
+Jobs in Melbourne
+Jobs in Hobart
+Jobs in Brisbane
+Jobs in Perth
+Jobs in Darwin
+Jobs in Adelaide
+Connect with us
+TikTok
+Facebook
+Linkedin
+Get Jora app
+Contact us
+Privacy
+Terms & Conditions
+©2026 Job Seeker Pty Ltd

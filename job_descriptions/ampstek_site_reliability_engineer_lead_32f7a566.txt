@@ -1,0 +1,274 @@
+Title: Site Reliability Engineer Lead
+Company: Ampstek
+Location: Perth, Western Australia, Australia
+URL: https://au.linkedin.com/jobs/view/site-reliability-engineer-lead-at-ampstek-4487981451
+Posted: 2026-11-11
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in CI/CD, release management, and configuration management, and it is located in an eligible country (Australia).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Site Reliability Engineer Lead
+Ampstek  Perth, Western Australia, Australia
+2 days ago   Be among the first 25 applicants
+  
+
+See who Ampstek has hired for this role
+
+Apply
+Save
+
+Direct message the job poster from Ampstek
+
+Sheik Rashmi
+Sheik Rashmi
+
+Role: Site Reliability Engineering (SRE) Lead
+
+Location: Perth
+
+Contract: 12+ Months and Extendable
+
+
+
+
+We are currently looking for candidates with expertise in the following areas:
+
+Site Reliability Engineering (SRE)
+
+Kubernetes
+
+CI/CD
+
+Monitoring & Observability
+
+Application & Container Security
+
+
+
+
+Project objective
+
+• Be the Team Lead (15Yrs+) for Client Site Reliability Engineering (SRE) capability portfolio.
+
+• Develop backlogs and roadmaps for improving the SRE capability for different application teams
+
+• Work with different Application Development teams in supporting their needs across Kubernetes, CI/CD, Monitoring & Observability and Application & Container Security.
+
+• Lead and coordinate incident response for any work requiring Kubernetes investigation.
+
+
+
+
+In-scope/ Solution
+
+• Coordinating work delivery. releases and run standup meetings.
+
+• Continuous improvement & upgrades on Kubernetes Platform and its enabling applications for other Application Development teams.
+
+• Setting up monitoring tooling and supporting Application Development teams in setting up their monitoring and observability needs.
+
+• Enabling security best practices on Kubernetes, Containers, and other Applications, working with Cyber on Governance and Standards.
+
+
+
+
+Job Description
+
+Provide technical leadership, establish SRE/observability standards, mentor engineers and collaborate with application, cloud, architecture and security teams.
+
+Lead production incident management, troubleshooting, RCA and problem management, driving improvements in availability, performance, resilience and MTTR.
+
+Design, operate and optimize highly available, scalable and secure Azure Kubernetes Service (AKS) environments, including upgrades and troubleshooting.
+
+Implement GitOps using Argo CD, Helm and Git, enabling automated, controlled deployments and configuration management.
+
+Build and manage CI/CD pipelines using Azure DevOps/GitHub Actions, incorporating Infrastructure as Code with Terraform/Bicep and automation.
+
+Establish end-to-end monitoring and observability using Prometheus, Grafana, Azure Monitor and OpenTelemetry, including dashboards & alerts.
+
+Embed DevSecOps and SecOps practices, container security, secrets management, RBAC, security controls and automated security checks within CI/CD pipelines.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Contract
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Ampstek by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Platform Engineer jobs
+Site Reliability Engineer Lead
+Similar jobs
+Site Reliability Engineering (SRE)
+Site Reliability Engineering (SRE)
+Ampstek
+Perth, Western Australia, Australia
+2 weeks ago
+Site Reliability Engineer
+Site Reliability Engineer
+Avance Consulting
+Perth, Western Australia, Australia
+19 hours ago
+Site Reliability Engineer
+Site Reliability Engineer
+Wiselink - Australia
+Perth, Western Australia, Australia
+17 hours ago
+Senior CloudOps Engineer
+Senior CloudOps Engineer
+Quartex
+Perth, Western Australia, Australia
+6 hours ago
+Infrastructure Engineer
+Infrastructure Engineer
+VGW
+Perth, Western Australia, Australia
+2 days ago
+Senior Infrastructure Engineer (Cloud)
+Senior Infrastructure Engineer (Cloud)
+Wesfarmers
+Perth, Western Australia, Australia
+3 weeks ago
+Show more jobs like this 
+People also viewed
+Technology Lead - Applications
+Technology Lead - Applications
+
+Perth Airport
+
+Perth, Western Australia, Australia
+1 month ago
+Reliability Engineer
+Reliability Engineer
+
+Mineral Resources
+
+Herdsman, Western Australia, Australia
+6 days ago
+OpenShift Virtualisation Engineer
+OpenShift Virtualisation Engineer
+
+Kestrel Eight
+
+Greater Perth Area
+3 weeks ago
+Head of Technology Operations
+Head of Technology Operations
+
+Emmbr
+
+Greater Perth Area
+17 hours ago
+Lead Platform Architect - AI Platform
+Lead Platform Architect - AI Platform
+
+Fortescue
+
+Perth, Western Australia, Australia
+1 week ago
+Systems Engineer
+Systems Engineer
+
+Wesfarmers
+
+Perth, Western Australia, Australia
+2 weeks ago
+Senior Systems Engineer
+Senior Systems Engineer
+
+Datacom
+
+Perth, Western Australia, Australia
+11 hours ago
+Staff Security Engineer
+Staff Security Engineer
+
+Commonwealth Bank
+
+Perth, Western Australia, Australia
+16 hours ago
+IT Manager
+IT Manager
+
+Perth Bears
+
+Perth, Western Australia, Australia
+16 hours ago
+Principal Data Engineer (AWS)
+Principal Data Engineer (AWS)
+
+Commonwealth Bank
+
+Greater Perth Area
+16 hours ago
+Similar Searches
+Platform Engineer jobs
+1,859 open jobs
+Linux System Engineer jobs
+636 open jobs
+Senior Infrastructure Engineer jobs
+925 open jobs
+Build And Release Engineer jobs
+578 open jobs
+Linux Engineer jobs
+790 open jobs
+Production Support Engineer jobs
+4,338 open jobs
+Linux System Administrator jobs
+201 open jobs
+Infrastructure Engineer jobs
+2,368 open jobs
+Production Support Manager jobs
+168 open jobs
+Reliability Engineer jobs
+1,153 open jobs
+Linux Administrator jobs
+206 open jobs
+Application Support Engineer jobs
+361 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

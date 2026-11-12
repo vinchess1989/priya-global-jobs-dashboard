@@ -1,0 +1,83 @@
+Title: Devops/Platform engineer - Azure infrastructure as code
+Company: Milestone IT
+Location: Victoria, Australia
+URL: https://au.jora.com/job/DevOps-Platform-Engineer-1b616a101da783dc5cf3c5a864315a1e
+Posted: 16h ago
+Deadline: Open until filled
+Reason: The role aligns with the candidate's DevOps and CI/CD expertise, is located in Australia (a target country), and does not trigger any hard rejections.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Search
+Sign in
+What
+Where
+Search jobs
+Devops/Platform engineer - Azure infrastructure as code
+Milestone IT
+–
+Victoria
+Hybrid
+16h ago, from Milestone IT
+AI-assisted apply
+
+Milestone IT is seeking experienced Azure DevOps and Platform Engineers to help our client build its core Azure infrastructure as it transitions from AWS and Google Cloud.
+
+These roles suit practical engineers who can personally design and build the cloud platform that application teams deploy onto. Strong Terraform skills and deep Azure networking experience are essential.
+
+You will take responsibility for:
+• Designing and implementing Azure foundations, including landing zones, subscriptions, governance and shared services.
+• Building hybrid connectivity between on premises environments and Azure, including routing, firewalls, enterprise DNS, ExpressRoute, VPNs and private endpoints.
+• Developing reusable Terraform modules to deliver consistent, repeatable infrastructure.
+• Building and maintaining reliable CI/CD pipelines for infrastructure deployment.
+• Designing resilient platforms with tested failover, disaster recovery and recovery procedures.
+• Working with cloud, infrastructure and application teams to establish a secure, supportable Azure environment.
+
+What you will bring
+• Strong practical experience building enterprise Azure platforms.
+• Advanced Terraform experience, including module development and infrastructure lifecycle management.
+• Deep understanding of Azure networking and connectivity with on premises infrastructure.
+• Experience making platform design decisions across security, governance, networking and resilience.
+• Experience implementing automated infrastructure deployment pipelines.
+• The ability to troubleshoot complex infrastructure issues and take ownership from design through to delivery.
+• Clear communication skills and the ability to explain technical decisions to stakeholders.
+
+Experience migrating workloads or services from AWS or Google Cloud to Azure will be highly regarded.
+
+Help shape an Azure platform from its foundations, with substantial engineering responsibility and the opportunity to influence how infrastructure is built, deployed and operated.
+Additional information
+
+Fantastic organisation
+Excellent growth potential
+Hybrid working arrangement
+AI-assisted apply
+Be careful - Don’t provide your bank or credit card details when applying for jobs. Don't transfer any money or complete suspicious online surveys. If you see something suspicious, report this job ad.
+Email to yourself or a friend
+Email job
+Discover Jora
+Browse jobs
+Browse salaries
+Find recruiter
+About
+FAQ
+Blog
+Reviews
+Browse Jobs in Australia
+Jobs in Sydney
+Jobs in Melbourne
+Jobs in Hobart
+Jobs in Brisbane
+Jobs in Perth
+Jobs in Darwin
+Jobs in Adelaide
+Connect with us
+TikTok
+Facebook
+Linkedin
+Get Jora app
+Contact us
+Privacy
+Terms & Conditions
+©2026 Job Seeker Pty Ltd
