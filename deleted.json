@@ -26603,5 +26603,22 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": "job_descriptions/bank_of_new_zealand_programme_test_manager___clr_575a1f5b.txt",
     "deletion_reason": "Deadline (2025-11-24) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Information Management Systems Specialist",
+    "company": "City of Perth",
+    "location": "Perth, WA, Australia",
+    "url": "https://au.jora.com/job/Management-Systems-Specialist-cd4bd9a09984369ab38ae55f63115ae5",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job requires the candidate to have an existing right to work in Australia, which the candidate does not possess as she requires visa sponsorship.",
+    "id": "8fc90953",
+    "source": "jora_au_documentation_specialist",
+    "added_at": "2026-11-13T01:58:22+02:00",
+    "posted_date": "19h ago",
+    "deadline": "2026-09-24",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-09-24) passed by more than 2 days and unreviewed"
   }
 ]
