@@ -1,0 +1,304 @@
+Title: Platform Engineer at Sabenza IT & Recruitment
+Company: DCV Sabenza IT and Recruitment
+Location: Cape Town, South Africa
+URL: https://www.careerjunction.co.za/platform-engineer-at-sabenza-it-%26-recruitment-job-2647145.aspx
+Posted: 2026-11-10
+Deadline: 2026-12-08
+Reason: The role aligns with her DevOps and CI/CD experience, is located in South Africa (a target country), and does not contain any hard rejections.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Your privacy
+
+This site uses cookies and similar technologies to collect and process personal data that recollects your activities and preferences. Some of the personal data, stored on your device, is processed by trusted service providers. We do this to personalise our site, services and the adverts you are shown on and off our website. Click 'I accept' to consent to the use of these technologies or 'Settings' if you wish to manage your settings. You can always change the setting by going to the Cookie Policy page. Necessary cookies enable core functionality such as security, network management, and accessibility. You may disable these by changing your browser settings, but this may affect how the website functions.
+
+SETTINGS
+I ACCEPT
+SIGN IN / SIGN UP
+×
+ 
+Location
+Location
+Work From Home
+Gauteng
+    Johannesburg South
+    Johannesburg Region
+    Pretoria Region
+    East Rand
+    West Rand
+    Vaal
+Western Cape
+    Cape Town Region
+    Winelands
+    West Coast
+    Garden Route
+    Overberg
+    Karoo
+KwaZulu-Natal
+    Durban Region
+    North Coast
+    Midlands & Interior
+    South Coast
+Eastern Cape
+Free State
+Mpumalanga
+Limpopo
+North West
+Northern Cape
+International
+ 
+In All Categories
+In All Categories
+Admin, Office & Support
+Agriculture, Fishing & Forestry
+Architecture & Engineering
+Building & Construction
+Business & Management
+Cleaning, Maintenance & Repair
+Community & Social Welfare
+Design, Media & Arts
+Education, Training & Library
+Finance
+Information Technology
+Legal
+Manufacturing & Assembly
+Marketing
+Medical & Health
+Mining
+Personal Appearance
+Restaurant & Hospitality
+Sales
+Science & Technology
+Security & Emergency Services
+Sport & Fitness
+Telecommunication
+Transportation
+Travel & Tourism
+Warehousing & Logistics
+Other
+SEARCH
+ 
+
+SHARE THIS JOB
+
+PLATFORM ENGINEER AT SABENZA IT & RECRUITMENT
+DCV SABENZA IT AND RECRUITMENT
+R01 - R02 per month
+Permanent Executive position
+Cape Town
+Posted 10 Nov 2026 by DCV Sabenza IT and Recruitment
+Expires in 28 days
+Job 2647145 - Ref 878000029556775
+ SAVE APPLY NOW
+ABOUT THE POSITION
+
+Build it. Automate it. Secure it. Scale it.
+
+
+Are you passionate about cloud technology, automation and building platforms that just work? Do you enjoy solving complex technical challenges, improving performance and making sure applications are always ready for business?
+
+
+We're looking for a talented Platform Engineer to take ownership of our cloud platforms and DevOps environment, helping development teams deliver applications faster, smarter and more reliably.
+
+
+This is an opportunity to work across AWS and Microsoft Azure, build scalable cloud infrastructure, automate deployments and ensure that business-critical platforms remain secure, stable and high-performing.
+
+
+
+
+RequirementsEssential Skills:
+
+
+5 - 8 years’ experience in infrastructure, cloud, or platform engineering.
+
+3+ years’ hands-on experience running production workloads on AWS and/or Azure.
+
+3+ years’ experience building and operating CI/CD pipelines and Infrastructure as Code.
+
+Proven experience designing and operating highly scalable, high-availability platforms that handle significant traffic peaks (for example e-commerce, high-volume transactional, or mobile platforms).
+
+Experience managing cloud tenant configuration and security posture using Microsoft Secure Score, Microsoft Defender for Cloud, and AWS Security Hub or equivalent tools.
+
+Experience designing and operating hybrid and multi-cloud network connectivity: site-to-site IPsec VPN, BGP routing, and cloud network architecture (VPC / VNet, transit, and peering).
+
+Experience operating Linux workloads and Odoo or a similar ERP (advantageous).
+
+3+ years’ hands-on PostgreSQL operations on Amazon RDS or a similar managed service: SQL-based performance diagnosis, log analysis, tuning, backups and upgrades (operational database administration, not data engineering).
+
+3+ years’ hands-on experience with observability tooling in production: Amazon CloudWatch, Azure Monitor and Application Insights, and New Relic (or an equivalent such as Datadog or Dynatrace), including instrumentation, alerting, dashboards, and query languages (NRQL, CloudWatch Logs Insights, KQL).
+
+Experience working with external development partners and managed service providers.
+
+Experience participating in an on-call or standby rotation.
+
+Qualifications:
+
+National Senior Certificate (Grade 12).
+
+Degree or Diploma in Information Technology, Computer Science, or a related field (preferred)
+
+AWS Certified Cloud Practitioner
+
+AWS Certified Solutions Architect (Associate or Professional)
+
+Microsoft Azure Fundamentals (AZ-900)
+
+Microsoft Azure Administrator (AZ-104)
+
+Designing Microsoft Azure Infrastructure Solutions (AZ-305)
+
+Microsoft Identity and Access Administrator (SC-300)
+
+ITIL V4 Foundation
+
+AWS Certified DevOps Engineer (Professional) or Microsoft DevOps Engineer Expert (AZ-400) (advantageous)
+
+AWS Certified Advanced Networking (Specialty) or Microsoft Azure Network Engineer (AZ-700) (advantageous)
+
+HashiCorp Terraform Associate (advantageous)
+
+FinOps Certified Practitioner (advantageous)
+
+CIS Controls / NIST certification (advantageous)
+
+
+
+
+
+
+Desired Skills:
+
+CI/CD pipelines
+VPNs
+AWS
+Azure
+PostgrSQL
+
+Desired Qualification Level:
+
+Degree
+
+About The Employer:
+
+
+
+
+APPLY NOW
+DCV SABENZA IT AND RECRUITMENT
+
+VIEW AGENCY PROFILE
+
+SEE ALL DCV SABENZA IT AND RECRUITMENT JOBS
+
+ABOUT THE AGENCY
+
+Dedicated to the recruitment of IT professionals Sabenza iT is a South African registered business focusing on Finance, Engineering, SAP and general iT recruitment. We have over 18 years' experience in recruiting in South Africa, Australia, Europe, South America and Asia and have worked with a number of large companies offering the best service. We at Sabenza iT understands the changing market and we mold our services around each of our client'...
+
+read more
+
+Receive a daily digest of all new jobs matching this job. Your information is safe with us and you can cancel any time.
+
+EMAIL ME JOBS LIKE THIS
+ 
+
+SHARE THIS JOB
+
+RECOMMENDED JOBS FOR YOU
+Senior Platform Engineer (CPT) (Crossplane &Amp; Backstage) At Sabenza IT & Recruitment
+
+DCV Sabenza IT and Recruitment
+
+Permanent Specialist position
+
+Cape Town
+
+Expires in 8 days
+
+Senior Software Engineer
+
+Paracon
+
+Contract Specialist position
+
+Cape Town
+
+Expires in 6 days
+
+Senior Software Engineer
+
+Paracon
+
+Contract Specialist position
+
+Cape Town
+
+Expires in 6 days
+
+Senior Software Engineer
+
+Paracon
+
+Contract Specialist position
+
+Cape Town
+
+Expires in 6 days
+
+Senior Software Engineer
+
+Paracon
+
+Contract Specialist position
+
+Cape Town
+
+Expires in 6 days
+
+Senior Data Analyst (SQL, SAS, Python, BigQuery) (Stellenbosch Hybrid)
+
+Datafin
+
+Permanent Senior position
+
+Stellenbosch
+
+Expires in 19 days
+
+Email me jobs similar to: PLATFORM ENGINEER AT SABENZA IT & RECRUITMENT
+JOB SEEKERS
+SITE
+Home / Search Jobs
+My Jobs
+My Alerts
+My Profile & CV
+ASSISTANCE
+FAQ & Support
+ACCOUNT
+Sign In | Sign Up
+AGENCIES & EMPLOYERS
+SITE
+Home / Find Talent
+Recruit Assist
+ASSISTANCE
+FAQ & Support
+ACCOUNT
+Sign Up | Sign In
+Sales Enquiry
+CAREERJUNCTION
+INFO
+About Us / Contact Us
+Work for Us
+Sister Sites
+Our Partners
+CareerJunction Blog
+How It Works
+
+© 2026 Copyright: www.careerjunction.co.za
+
+ 
+
+PAIA,Privacy, Cookies & Terms
+
+    
