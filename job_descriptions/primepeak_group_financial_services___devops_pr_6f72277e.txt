@@ -1,0 +1,224 @@
+Title: Financial Services - DevOps Production Operation Engineer - HKD600K - 900K
+Company: PrimePeak Group
+Location: Hong Kong, Hong Kong SAR
+URL: https://hk.linkedin.com/jobs/view/financial-services-devops-production-operation-engineer-hkd600k-900k-at-primepeak-group-4489092620
+Posted: 2026-11-13
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's expertise in DevOps, CI/CD, release management, and production readiness within a regulated financial services environment.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Financial Services - DevOps Production Operation Engineer - HKD600K - 900K
+PrimePeak Group  Hong Kong, Hong Kong SAR
+14 hours ago   Be among the first 25 applicants
+  
+
+See who PrimePeak Group has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+We are seeking a DevOps & Production Operations Engineer to bridge application engineering, infrastructure, security, and support. In this role, you will own the reliability, CI/CD automation, and observability of business-critical applications, data platforms, and AI systems hosted in Azure.
+
+You’ll play a key role in enforcing segregation of duties, automating production deployments, building robust observability tools, and establishing production readiness before go-live.
+
+
+
+
+Key Responsibilities
+
+
+
+
+Production Operations & Reliability: Maintain application operability across DEV, UAT, and PROD environments in Azure. Monitor health, lead incident response, build runbooks, and engineer permanent fixes to reduce manual intervention.
+DevOps & CI/CD Automation: Design and optimize deployment pipelines via Azure DevOps and GitHub Actions (including Power Platform ALM and dbt/Snowflake). Implement Infrastructure as Code (Terraform/Bicep) and safe release/rollback mechanisms.
+Observability & Monitoring: Build an application-centric telemetry ecosystem using Azure Monitor, Application Insights, Log Analytics, OpenTelemetry, Prometheus, and Grafana to quickly diagnose cross-stack issues.
+Access & Production Controls: Work with InfoSec to manage least-privilege production access, enforce auditable release gates, and automate privileged operational tasks.
+Production Readiness: Partner with development teams pre-launch to verify monitoring, logging, health endpoints, backup/recovery, and CMDB registration.
+
+
+
+
+Requirements
+
+
+
+
+Production Experience: Proven background operating production applications, ideally within regulated Financial Services or Asset Management environments.
+Cloud & DevOps: Strong hands-on expertise with Azure, Azure DevOps, and GitHub Actions (including Power Platform ALM pipelines).
+Observability: Experience with Azure Monitor, Application Insights, Log Analytics, or OpenTelemetry.
+Automation & IaC: Proficiency in scripting (PowerShell, Python, or Bash) and Infrastructure as Code (Terraform or Bicep).
+Technical SDLC Foundation: Solid understanding of modern SDLC, networking/identity concepts (HTTP, DNS, TLS, RBAC), and enough coding experience (.NET, Python, TypeScript) to conduct code/pipeline reviews.
+
+
+
+
+Desirable:
+
+Experience with Azure Container Apps, API Management, Entra ID, Key Vault, Managed Identity, Kubernetes, or Prometheus.
+
+
+
+
+Interested parties please apply with resume.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Financial Services, Venture Capital and Private Equity Principals, and Investment Management
+  
+
+Referrals increase your chances of interviewing at PrimePeak Group by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Senior DevOps Engineer
+Senior DevOps Engineer
+Alpaca
+Hong Kong SAR
+2 days ago
+SRE/DevOps/Platform Engineer
+SRE/DevOps/Platform Engineer
+Kody
+Hong Kong, Hong Kong SAR
+3 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+GFT Technologies APAC & GCC
+Hong Kong, Hong Kong SAR
+1 day ago
+Platform / Site Reliability Engineer
+Platform / Site Reliability Engineer
+Millennium
+Hong Kong, Hong Kong SAR
+1 day ago
+Senior Site Reliability Engineer (APAC)
+Senior Site Reliability Engineer (APAC)
+Reap
+Hong Kong, Hong Kong SAR
+1 month ago
+Platform Engineer
+Platform Engineer
+Mox Bank
+Hong Kong, Hong Kong SAR
+1 day ago
+Show more jobs like this 
+People also viewed
+Techops Engineer
+Techops Engineer
+
+Binance
+
+Central & Western District, Hong Kong SAR
+2 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Lane Crawford
+
+Southern District, Hong Kong SAR
+1 week ago
+Head of Infrastructure SRE
+Head of Infrastructure SRE
+
+RedotPay
+
+Hong Kong, Hong Kong SAR
+1 month ago
+REMOTE: Lead Infrastructure / SRE Engineer | AWS
+REMOTE: Lead Infrastructure / SRE Engineer | AWS
+
+BAH Partners
+
+Hong Kong SAR
+3 weeks ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+dtcpay
+
+Hong Kong, Hong Kong SAR
+2 weeks ago
+Senior DevOps Engineer (Trading Platform)
+Senior DevOps Engineer (Trading Platform)
+
+Crypto.com
+
+Hong Kong SAR
+1 week ago
+Senior Staff, Platform Engineer
+Senior Staff, Platform Engineer
+
+MoneyHero Group (Nasdaq: MNY)
+
+Central & Western District, Hong Kong SAR
+3 days ago
+Site Reliability Engineer: $1,000,000 + (Elite Trading Firm)
+Site Reliability Engineer: $1,000,000 + (Elite Trading Firm)
+
+Hunter Bond
+
+Hong Kong, Hong Kong SAR
+HK$500,000 - HK$1,000,000
+2 days ago
+SRE/ DevOps Lead- Financial Services
+SRE/ DevOps Lead- Financial Services
+
+Captar Partners
+
+Hong Kong SAR
+1 month ago
+Site Reliability Engineer - Global Financial Institution - Hong Kong
+Site Reliability Engineer - Global Financial Institution - Hong Kong
+
+NLS Executive Search
+
+Hong Kong, Hong Kong SAR
+6 days ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

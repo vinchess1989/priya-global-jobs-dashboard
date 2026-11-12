@@ -1,0 +1,312 @@
+Title: DevOps Engineer
+Company: Zühlke Group
+Location: Hong Kong, Hong Kong SAR
+URL: https://hk.linkedin.com/jobs/view/devops-engineer-at-z%C3%BChlke-group-4490317175
+Posted: 2026-11-13
+Deadline: Open until filled
+Reason: The role aligns with the candidate's extensive experience in DevOps, CI/CD, and infrastructure automation, and it is located in a target country (Hong Kong) without explicit visa restrictions.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+Zühlke Group  Hong Kong, Hong Kong SAR
+14 hours ago   Be among the first 25 applicants
+  
+
+See who Zühlke Group has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+The Role.
+
+As a DevOps Engineer at Zühlke, you will join a cross-functional delivery team working
+
+on a greenfield initiative for a Hong Kong–based client, building a next-generation cloud
+
+platform powered by automation, GitOps, and cloud-native engineering practices.
+
+You will play a key role in designing and implementing a GitOps-driven operating model
+
+and an “Everything as Code” approach to enable scalable Environment-on-Demand
+
+capabilities across AWS. Working at the intersection of platform engineering, cloud
+
+infrastructure, and software delivery, you will help development teams accelerate
+
+delivery through self-service tooling, automated provisioning, and advanced CI/CD/CT
+
+pipelines.
+
+This role is highly hands-on and engineering-focused. You will design and implement
+
+reusable platform capabilities, improve developer experience, and contribute to
+
+scalable, secure, and observable cloud infrastructure. You will collaborate closely with
+
+DevOps, Security, QA, Data, and Software Engineering teams to build resilient systems
+
+and continuously improve engineering practices across the delivery lifecycle.
+
+You will also contribute to platform reliability, observability, quality engineering, and
+
+operational excellence by integrating monitoring, testing, security, and compliance
+
+automation into modern cloud-native delivery workflows.
+
+
+
+
+What’s Important To Us.
+
+• Strong experience with GitOps practices and tooling such as Argo CD, Argo
+
+Workflows, and Argo Events.
+
+• Hands-on expertise with Infrastructure as Code using Terraform Cloud, reusable
+
+modules, and automation frameworks.
+
+• Proven experience with Kubernetes and container orchestration in production
+
+environments, ideally using EKS, Docker, Helm, and Kustomize.
+
+• Strong knowledge of CI/CD engineering using GitHub Actions and pipeline-as-
+
+code approaches.
+
+• Experience developing automation and integration tooling using TypeScript,
+
+Python, Bash, or Groovy.
+
+• Solid AWS platform knowledge including services such as EKS, RDS Aurora
+
+PostgreSQL, MSK (Kafka), S3, Lambda, API Gateway, and VPC networking.
+
+• Experience with observability and monitoring platforms such as Datadog,
+
+CloudWatch, distributed tracing, and custom dashboards.
+
+• Familiarity with automated testing and quality engineering practices, including
+
+integration testing, Testcontainers, SonarQube, security scanning, and quality
+
+gates.• Understanding of cloud security, compliance automation, secrets management,
+
+and secure delivery practices.
+
+• Strong collaboration and communication skills with experience working in agile,
+
+cross-functional teams.
+
+Nice to Have.
+
+• AWS certifications such as DevOps Engineer Professional, Solutions Architect
+
+Associate, or Security Specialty.
+
+• Kubernetes certifications such as CKA or CKAD.
+
+• HashiCorp Terraform Associate or GitOps-related certifications.
+
+• Experience within financial services, regulated industries, or high-availability
+
+environments.
+
+• Exposure to chaos engineering, service mesh technologies, and resilience
+
+testing frameworks such as Gremlin or Chaos Toolkit.
+
+• Experience building developer platforms, self-service infrastructure, or
+
+Environment-on-Demand capabilities.
+
+
+
+
+What we offer.
+
+• Work life blend: we offer a safe & healthy workplace, with flexible working hours
+
+and the possibility to work from home
+
+• Profit share scheme: In addition to your annual salary, you may receive a profit
+
+share defined by the company’s success in the previous year
+
+• Global and Diverse Zühlke community: witness how colleagues from all our 17
+
+offices across the globe come together to create a unique, positive and inclusive
+
+work culture, learning from one another at annual team camps, and celebrating
+
+year-end parties and other local festivities.
+
+• Committed to development: we are committed to the growth of our people and
+
+are investing in your development. We’re empowering you to build the skills you
+
+need to make a positive impact, both personally and for our clients, today and in
+
+the future.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Zühlke Group by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+(f2pool) DevOps Engineer
+(f2pool) DevOps Engineer
+stakefish
+Hong Kong, Hong Kong SAR
+$130,000 - $180,000
+1 month ago
+Infra DevOps Engineer
+Infra DevOps Engineer
+BIT Official
+Hong Kong, Hong Kong SAR
+1 week ago
+DevOps and Site Reliability Engineer
+DevOps and Site Reliability Engineer
+Wizpresso 濃說
+Hong Kong, Hong Kong SAR
+1 month ago
+(Senior) DevOps Engineer
+(Senior) DevOps Engineer
+Omnichat
+Hong Kong, Hong Kong SAR
+1 week ago
+Operations & DevOps Engineer
+Operations & DevOps Engineer
+Datago Technology Limited
+Hong Kong, Hong Kong SAR
+2 weeks ago
+DevOps / Operations Development Engineer
+DevOps / Operations Development Engineer
+国泰君安国际 Guotai Junan International
+Sheung Wan, Hong Kong SAR
+3 days ago
+Show more jobs like this 
+People also viewed
+Senior Site Reliability Engineer (APAC)
+Senior Site Reliability Engineer (APAC)
+
+Reap
+
+Hong Kong, Hong Kong SAR
+1 month ago
+Production Engineer
+Production Engineer
+
+Anchorpoint
+
+Hong Kong SAR
+4 weeks ago
+Financial Services - DevOps Production Operation Engineer - HKD600K - 900K
+Financial Services - DevOps Production Operation Engineer - HKD600K - 900K
+
+PrimePeak Group
+
+Hong Kong, Hong Kong SAR
+14 hours ago
+Cloud Engineer
+Cloud Engineer
+
+Happiest Minds Technologies
+
+Hong Kong, Hong Kong SAR
+3 days ago
+Senior DevOps Engineer - Global Trading Firm - Hong Kong
+Senior DevOps Engineer - Global Trading Firm - Hong Kong
+
+NLS Executive Search
+
+Hong Kong, Hong Kong SAR
+6 days ago
+Senior DevOps Engineer (Trading Platform)
+Senior DevOps Engineer (Trading Platform)
+
+Crypto.com
+
+Hong Kong SAR
+1 week ago
+Platform Engineer
+Platform Engineer
+
+Options Technology
+
+Hong Kong SAR
+2 months ago
+AliCloud Engineer
+AliCloud Engineer
+
+ConnectedGroup
+
+Hong Kong, Hong Kong SAR
+2 weeks ago
+IT Infrastructure & DevOps Specialist
+IT Infrastructure & DevOps Specialist
+
+Crystal International
+
+Kwun Tong District, Hong Kong SAR
+3 weeks ago
+DevOps Team Lead
+DevOps Team Lead
+
+Eclipse Trading
+
+Hong Kong, Hong Kong SAR
+6 months ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
