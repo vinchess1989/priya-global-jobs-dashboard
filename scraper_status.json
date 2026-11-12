@@ -1,9 +1,9 @@
 {
   "pid": 41480,
   "started_at": "2026-11-13T01:12:41+02:00",
-  "heartbeat_at": "2026-11-13T01:24:13+02:00",
+  "heartbeat_at": "2026-11-13T01:27:45+02:00",
   "phase": "reviewing",
-  "detail": "BOM Release Engineer",
-  "last_scrape_ok_at": "2026-11-13T01:22:44+02:00",
+  "detail": "Project Document Controller",
+  "last_scrape_ok_at": "2026-11-13T01:26:23+02:00",
   "last_error": null
 }

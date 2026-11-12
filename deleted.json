@@ -26552,5 +26552,22 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.5-flash-lite",
     "description_file": null,
     "deletion_reason": "Deadline (2026-11-11) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "EPR Pharmacy Configuration Manager | Frimley Health NHS Foundation Trust",
+    "company": "Frimley Health NHS Foundation Trust",
+    "location": "Greenham, England, United Kingdom",
+    "url": "https://uk.linkedin.com/jobs/view/epr-pharmacy-configuration-manager-frimley-health-nhs-foundation-trust-at-frimley-health-nhs-foundation-trust-4488524461",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role requires the candidate to be a licensed pharmacist and explicitly states that visa sponsorship is not available.",
+    "id": "c7b6a0dc",
+    "source": "linkedin_uk_configuration_manager",
+    "added_at": "2026-11-13T01:25:40+02:00",
+    "posted_date": "2026-11-13",
+    "deadline": "2026-10-21",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-10-21) passed by more than 2 days and unreviewed"
   }
 ]

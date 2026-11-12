@@ -1,0 +1,350 @@
+Title: Site Reliability Engineer
+Company: Ultima
+Location: South Africa
+URL: https://za.linkedin.com/jobs/view/site-reliability-engineer-at-ultima-4488527514
+Posted: 2026-11-13
+Deadline: Open until filled
+Reason: The role aligns with her DevOps/SRE background and is located in South Africa, which is one of her target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Site Reliability Engineer
+Ultima  South Africa
+7 hours ago  47 applicants
+  
+
+See who Ultima has hired for this role
+
+Apply
+Save
+
+Direct message the job poster from Ultima
+
+Nancy Pottinger
+Nancy Pottinger
+
+Site Reliability Engineer
+
+
+
+
+Location: Remote, South Africa
+
+
+
+
+Hours: US working hours (Central Time) - 4pm-12am SAST
+
+
+
+
+Working pattern: Week 1: Monday-Friday, Week 2: Saturday-Wednesday (Working Saturday and Sunday every other week)
+
+
+
+
+Company: Just After Midnight (JAM) – Part of Trustmarque Ultima Group
+
+
+
+
+Just After Midnight (JAM) is a global next-gen managed service provider with teams across the UK, Europe, the US, Australia, and APAC. We provide 24/7 application and cloud support, SRE, managed AWS and multi-cloud services, DevOps, and observability to mission-critical applications for scale-ups, SaaS product companies, and enterprise brands. We're an AWS Advanced Consulting Partner and hold security accreditations including ISO 27001, Cyber Essentials Plus, and PCI DSS. Our mantra: Always On, So You Can Switch Off.
+
+
+
+
+The Site Reliability Engineer is part of a global team delivering 24/7 best-in-class reliability and support services to our clients. Working as part of a geographically dispersed team, your time will be focused on ensuring the availability, performance and resilience of our clients’ platforms. The role requires you to develop and maintain knowledge of technologies and languages commonly used by the client platforms, and to apply engineering practices that reduce manual operational effort. The platforms we support are primarily web based and utilise cloud technologies provided by public cloud providers such as AWS, Azure and GCP, using software languages such as .NET, PHP, NodeJS etc.
+
+
+
+
+The ideal candidate will be analytical and have excellent written and verbal communication skills, along with a calm and professional approach under pressure and a willingness and ability to develop themselves within the IT industry.
+
+
+
+
+Key Responsibilities:
+
+● Investigate, diagnose and resolve incidents and automated alerts affecting our clients’ platforms, leading incident response and root cause analysis.
+
+● Create and maintain technical runbooks, automation scripts and the online knowledge base used as part of the support process.
+
+● Play a key role in defining and improving client monitoring, alerting and service level objectives (SLOs).
+
+● Participate in a rotating on-call schedule with other engineers to ensure support coverage during key hours dependent on your geographical location. As a 24/7 business, there is a requirement to provide support coverage at weekends and public holidays.
+
+● Maintain a commitment to developing and maintaining your knowledge around relevant technologies through online learning and certifications. Such learning will be agreed as part of onboarding and ongoing performance reviews.
+
+● Provide technical guidance and mentoring to less experienced colleagues, including Service Desk Engineers, during their onboarding and beyond.
+
+● Understand and implement the company’s information security policies as applicable to day-to-day activities.
+
+
+
+
+Essential experience:
+
+● Experience working in a site reliability, DevOps or cloud operations role
+
+● Excellent written and spoken communication skills. The role requires a high level of communication through both written and verbal channels.
+
+● The ability to develop and maintain an expert level of knowledge across cloud technologies.
+
+● Strong troubleshooting and problem-solving abilities, including root cause analysis.
+
+● Experience with incident and change management processes and tools such as ServiceNow.
+
+● Excellent organisation and interpersonal skills with the ability to play an active role within a team setting.
+
+● Working knowledge of Git and CI/CD pipelines.
+
+● Solid experience with Windows / Unix / Linux environment administration.
+
+● Experience working with either AWS or Azure, including Infrastructure as Code (e.g. Terraform, Bicep, CloudFormation).
+
+
+
+
+Nice to have:
+
+Experience with Python, Shell scripting or PowerShell
+Experience with object-oriented languages such as Java, C# or TypeScript
+Working knowledge of Bitbucket, GitLab, GitHub or similar
+Experience with Docker and Kubernetes
+Understanding of network security, infrastructure management and authentication methods
+Experience with Cloudflare, Azure Front Door, CloudFront or Akamai
+Experience with Web Application Firewall technologies such as Cloudflare WAF, AWS WAF or Azure WAF
+Experience with monitoring and observability tools such as Datadog, Site24x7, Application Insights, CloudWatch or Grafana
+
+
+
+
+Successful candidates will be measured on KPIs including:
+
+Service availability against agreed SLAs and SLOs for client platforms
+Mean time to detect and resolve incidents (MTTD / MTTR)
+Reduction in repeat incidents and manual operational effort through automation
+Feedback from internal stakeholders and clients
+Periodic assessment of technical knowledge
+Attainment of agreed certifications
+
+
+
+
+Our Values
+
+As part of Trustmarque Ultima Group, we are guided by three core values:
+
+Team | Excellence | Empowerment
+
+
+
+
+These values shape how we work together, support our customers and create opportunities for our people to succeed.
+
+
+
+
+Equal Opportunities
+
+Just After Midnight and Trustmarque Ultima Group are equal opportunities employers. We are committed to creating an inclusive workplace where everyone is respected, valued and empowered to succeed. We welcome applications from candidates of all backgrounds and experiences.
+
+
+
+
+Ready to Make an Impact?
+
+
+
+
+If you're an experienced Site Reliability Engineer who enjoys solving complex technical problems, working with cloud technologies and improving the reliability and performance of critical platforms, we'd love to hear from you.
+
+
+
+
+Apply today and help shape the future of cloud services with Just After Midnight.
+
+Show more 
+Seniority level
+Associate
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Ultima by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Platform Engineer jobs
+Site Reliability Engineer
+Similar jobs
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+RELX
+South Africa
+2 months ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+LexisNexis
+South Africa
+2 months ago
+Platform Engineer
+Platform Engineer
+Share
+Cape Town, Western Cape, South Africa
+1 month ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+SearchApi
+South Africa
+4 months ago
+Platform Engineer
+Platform Engineer
+Share
+City of Johannesburg, Gauteng, South Africa
+1 month ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+Canonical
+Johannesburg, Gauteng, South Africa
+1 day ago
+Show more jobs like this 
+People also viewed
+Senior Cloud Infrastrucutre Engineer
+Senior Cloud Infrastrucutre Engineer
+
+Optimal Growth Technologies
+
+Cape Town, Western Cape, South Africa
+48 minutes ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+DigiOutsource
+
+Cape Town, Western Cape, South Africa
+1 week ago
+Senior AWS DevOps Engineer
+Senior AWS DevOps Engineer
+
+RELX
+
+Western Cape, South Africa
+3 months ago
+Senior Cloud Infrastructure Engineer
+Senior Cloud Infrastructure Engineer
+
+Optimal Growth Technologies
+
+Nkandla, KwaZulu-Natal, South Africa
+49 minutes ago
+Technical Support Engineer
+Technical Support Engineer
+
+Clipboard
+
+Johannesburg, Gauteng, South Africa
+2 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Upstream
+
+Johannesburg, Gauteng, South Africa
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+Equal Experts South Africa
+
+South Africa
+2 weeks ago
+IT Remote Project Engineer
+IT Remote Project Engineer
+
+FusionTek
+
+Cape Town, Western Cape, South Africa
+ZAR 500,000 - ZAR 800,000
+1 month ago
+DevOps Engineer
+DevOps Engineer
+
+Communicate Recruitment
+
+Johannesburg Metropolitan Area
+1 day ago
+Product Engineer
+Product Engineer
+
+The Flex
+
+South Africa
+1 month ago
+Similar Searches
+Platform Engineer jobs
+524 open jobs
+Linux System Engineer jobs
+240 open jobs
+Senior Infrastructure Engineer jobs
+155 open jobs
+Linux Engineer jobs
+269 open jobs
+System Development Engineer jobs
+3,642 open jobs
+Linux System Administrator jobs
+35 open jobs
+Infrastructure Engineer jobs
+360 open jobs
+Reliability Engineer jobs
+449 open jobs
+Linux Administrator jobs
+62 open jobs
+Application Support Engineer jobs
+54 open jobs
+Senior Reliability Engineer jobs
+28 open jobs
+Senior Linux Administrator jobs
+40 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

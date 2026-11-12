@@ -1,0 +1,366 @@
+Title: Senior Platform Engineer
+Company: Betway Global
+Location: Cape Town, Western Cape, South Africa
+URL: https://za.linkedin.com/jobs/view/senior-platform-engineer-at-betway-global-4490384590
+Posted: 2026-11-13
+Deadline: N/A
+Reason: The role is a strong match for her DevOps and CI/CD expertise, is located in a target country (South Africa), and does not trigger any hard rejections.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Platform Engineer
+Betway Global  Cape Town, Western Cape, South Africa
+5 hours ago   Be among the first 25 applicants
+  
+
+See who Betway Global has hired for this role
+
+Apply 
+Save
+Kick-start your career in the online gaming world and experience the very latest in technology and innovation.
+
+Who We Are
+
+We’re part of Super Group, the NYSE-listed digital gaming company behind some of the world’s leading Sports and iGaming brands.
+
+At DigiOutsource, we bring passionate people and innovative tech together to create market-leading online gaming solutions. Our multidisciplinary teams are passionate about products, customer experience and security. We’re empowered to achieve the ultimate in high-performance gaming experiences using the best technology available.
+
+Who We’re Looking For
+
+We’re on a thrilling journey of growth and innovation, and we need passionate, driven individuals to join us. At DigiOutsource, every day is action-packed, and we expect you to bring your A-game. In return, you’ll find a supportive environment where your skills can flourish and your career can soar.
+
+Ready to become a game-changer? Supercharge your career with us and be part of something extraordinary.
+
+Why we need you
+
+We’re on a mission to create extraordinary experiences for our customers, and we believe that your unique skills, passion and superdrive will help us achieve our vision.
+
+As a Platform Engineer you’ll be designing, implementing and supporting the various platforms like Rancher, Azure, AWS, GitLab and Cloudflare. This will help us excel at delivering an exceptional gaming experience to our players and stay ahead of the game.
+
+What You’ll Be Doing
+
+As part of your role, your responsibilities will include:
+
+
+Infrastructure Design and Management:
+Design, deploy, and maintain cloud infrastructure using platforms like Microsoft Azure, AWS, or Google Cloud.
+Ensure high availability, scalability, and fault tolerance of applications and services, including managing containerized environments.
+Utilize Rancher for managing Kubernetes clusters, ensuring efficient deployment and orchestration of containerized applications across various environments.
+Automation and CI/CD Pipeline Development:
+Build and maintain continuous integration/continuous deployment (CI/CD) pipelines for automated testing, building, and deployment of software.
+Automate infrastructure provisioning using tools like Terraform, Ansible, or ARM templates.
+Leverage Rancher’s CI/CD capabilities and integrations to streamline the deployment process for containerized applications in Kubernetes environments.
+Monitoring and Performance Optimization:
+Implement and maintain monitoring, logging, and alerting solutions to track application and infrastructure performance, using tools such as Azure Monitor, Prometheus, or CloudWatch.
+Use Rancher’s built-in monitoring tools to observe Kubernetes clusters and containers, ensuring that applications are performing optimally.
+Optimize infrastructure for cost-efficiency and performance, configuring autoscaling and resource management within Rancher-managed Kubernetes clusters.
+Security and Compliance:
+Ensure the security of cloud infrastructure by configuring firewalls, access controls, and encryption for sensitive data.
+Implement security best practices to maintain compliance with industry regulations and standards, including role-based access control (RBAC) within Rancher for managing Kubernetes security.
+Monitor for security vulnerabilities, manage container security, and perform regular security audits of Kubernetes clusters and cloud resources.
+Collaboration with Development and Operations Teams:
+Work closely with software development teams to understand application requirements and provide the necessary infrastructure support, particularly for containerized workloads.
+Collaborate with operations teams to ensure the smooth operation of deployed services, particularly within containerized environments managed through Rancher.
+Incident Management and Troubleshooting:
+Investigate and resolve platform-related issues, including application outages, network failures, and security incidents.
+Utilize Rancher’s centralized logging and monitoring to quickly identify and troubleshoot issues within Kubernetes clusters.
+Provide on-call support and contribute to incident response strategies, ensuring minimal downtime and fast recovery of services.
+System Upgrades and Patching:
+Manage platform updates, patches, and upgrades to ensure systems remain secure and up-to-date.
+Plan and execute Kubernetes cluster upgrades and Rancher version updates to stay current with new features and security patches.
+Ensure that containerized applications remain compatible and functional after updates.
+Documentation and Knowledge Sharing:
+Maintain clear, comprehensive documentation of infrastructure configurations, deployment processes, and troubleshooting procedures.
+Share knowledge of Rancher, Kubernetes, and cloud infrastructure best practices with team members to improve platform operations and efficiency.
+Capacity Planning and Scaling:
+Monitor resource usage and plan for capacity scaling to meet changing business and application demands.
+Implement scaling strategies for Kubernetes clusters in Rancher, including auto-scaling of pods, nodes, and applications to accommodate varying workloads.
+Cost Management and Optimization:
+Track and analyze cloud resource usage and costs to ensure efficient resource allocation.
+Optimize cloud spending by implementing best practices like reserved instances, spot instances, and resource rightsizing.
+Use Rancher to monitor the resource consumption of containerized applications and optimize the deployment of Kubernetes clusters to reduce infrastructure costs.
+Disaster Recovery and Backup Planning:
+Implement disaster recovery strategies and data backup solutions to minimize downtime and data loss.
+Regularly test backup systems and recovery procedures to ensure reliability in case of failure, including implementing backup solutions for Kubernetes environments managed through Rancher.
+
+
+This job description is not intended to be an exhaustive list of responsibilities. You may be required to complete other reasonable duties in order to achieve business objectives.
+
+Essential Skills You’ll Bring To The Table
+
+The necessary skills that we require for this role include:
+
+
+Several years (typically 3-5 years) of experience in a related field (e.g., systems engineering, DevOps, infrastructure engineering).
+Bachelor's degree in Computer Science or related field, and or certifications such as Microsoft Certified: Azure Solutions Architect Expert, AWS Certified Solutions Architect, Certified Kubernetes Administrator (CKA), or Red Hat Certified Engineer (RHCE).
+Strong verbal and written communication skills, with the ability to convey complex ideas clearly and effectively
+Experience working collaboratively in cross-functional teams, with a focus on achieving shared goals
+Expertise in managing multiple projects simultaneously, with a track record of delivering on time and within scope
+Exceptional attention to detail, ensuring high standards of quality in all outputs
+Ability to adapt quickly to changing environments and priorities, maintaining effectiveness in dynamic situations
+Skills in designing highly available and fault-tolerant systems, ensuring platforms are resilient under various conditions.
+Proven working experience with tools like Prometheus, Grafana, Datadog, New Relic, or ELK stack to monitor the health of infrastructure, applications, and services.
+Excellent skills in identifying, diagnosing, and resolving infrastructure issues quickly, especially when systems fail or behave unexpectedly.
+Knowledge of securing infrastructure and applications, including role-based access control (RBAC), encryption, and network security.
+A solid understanding of Git for source code management, collaboration, and version control, is essential
+A strong understanding of container orchestration with Kubernetes, particularly in deploying, managing, and scaling containerized applications across multi-cluster environments. Proficiency in configuring and maintaining Rancher for cluster management, along with expertise in implementing security policies, monitoring, and logging within Kubernetes clusters, is essential for optimizing containerized workloads and ensuring high availability, security, and performance.
+A deep understanding of cloud infrastructure management, such as provisioning and configuring virtual machines, networking, storage solutions, and implementing security best practices like Azure Active Directory and network security groups. Additionally, proficiency in automation and CI/CD pipelines using Azure DevOps, along with expertise in Azure monitoring tools like Azure Monitor and Application Insights, is crucial for ensuring high availability, security, cost optimization, and efficient deployment of applications in the cloud.
+Strong focus on automating manual processes and optimizing workflows for more efficient system management
+Experience with designing distributed systems, microservices, and understanding the trade-offs between performance, consistency, and scalability.
+
+
+Desirable Skills You’ve Got Up Your Sleeve
+
+It would be great if you also have some of the following skills:
+
+
+Previous experience in the online gaming or casino industry
+Knowledge of database management systems NoSQL, backup strategies, and scaling database clusters.
+Proficiency in VMware vSphere, which is the suite of server virtualization products that includes vCenter Server (centralized management platform) and ESXi (hypervisor).
+Experience with Cloudflare managing CDN, DNS, security features like DDoS protection and WAF, bot management, rate limiting, and Zero Trust access solutions.
+
+
+Our values are non-negotiables
+
+Our culture is underpinned by core values that are linked to key behavioural competencies. Along with the below behavioural competencies, these are essential for all employees in order for you to embed in and drive our culture forward.
+
+These Competencies Are
+
+
+Adaptability
+Ownership and accountability
+Initiating action
+Resilience
+Team orientation
+Integrity
+Innovation
+
+
+What You’ll Get Back
+
+We offer a great variety of personal and professional benefits to help you thrive at DigiOutsource and Super Group. This includes:
+
+
+We’re dedicated to your supergrowth. Our comprehensive learning and development programmes give you a range of resources and opportunities to expand your skills and advance your career.
+Your hard work and achievements won’t go unnoticed. Our innovative Performance Tool ensures you receive regular, constructive feedback, helping you to continuously improve and reach your full potential.
+Our Employee Assistance programme offers a variety of benefits which you and your family can benefit from.
+Free Daily Meal
+Free Massages On-site
+Free On-Site Gym
+Group Life Cover
+Funeral Fund Benefit
+Financial Services Assistance
+Curro School Fees Benefit
+Income Continuation Benefit
+Leadership Training
+Referral Bonus
+Medical Aid Subsidy
+Free Sleep Coaching
+On-site Barista
+Retirement Annuity Subsidy
+Team socials
+
+
+Be part of that Superclass feeling.
+
+At Super Group, diversity is part of our DNA. With teams across 16 countries, 85 nationalities, and 27 languages, we take equal opportunities seriously, championing a supportive, inclusive and empowering environment wherever you are in the Group.
+
+It’s all about putting your experience first and ensuring honesty and fairness in all we do.
+
+Here, your growth is supported and your contributions valued.
+
+Game on!
+
+
+Please note we will apply relevance to our Talent Management and Talent Development Programme as part of our recruitment process.
+Shortlisted candidates may need to complete an assessment.
+
+
+This position requires trust and honesty it has access to customers financial details - therefore a credit and criminal record check will be conducted. The qualifications identified herein are an inherent job requirement; therefore, a qualification verification check will be done. By applying for this role, and supplying the necessary details, you hereby grant us permission to apply for these checks. This will be done in a confidential manner, and solely for the purposes of verification.
+
+Should you not hear from us within 2 weeks, please deem your application as unsuccessful.
+
+The perfect place to work, play and grow!
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Gambling Facilities and Casinos
+  
+
+Referrals increase your chances of interviewing at Betway Global by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Site Reliability Engineer jobs
+Senior Platform Engineer
+Similar jobs
+Platform Engineer
+Platform Engineer
+Share
+Cape Town, Western Cape, South Africa
+1 month ago
+Senior Cloud Engineer
+Senior Cloud Engineer
+impact.com
+Cape Town, Western Cape, South Africa
+1 week ago
+Principal Platform Engineer, Enablement
+Principal Platform Engineer, Enablement
+impact.com
+Cape Town, Western Cape, South Africa
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Confluence
+Cape Town, Western Cape, South Africa
+1 week ago
+Founding Engineer
+Founding Engineer
+Share
+Cape Town, Western Cape, South Africa
+5 months ago
+Platform Engineer
+Platform Engineer
+QE Services IT Recruitment
+Cape Town, Western Cape, South Africa
+4 weeks ago
+Show more jobs like this 
+People also viewed
+Sr Full Stack Engineer
+Sr Full Stack Engineer
+
+Zepz
+
+Cape Town, Western Cape, South Africa
+3 weeks ago
+Senior Data Engineer
+Senior Data Engineer
+
+mothers2mothers
+
+Cape Town, Western Cape, South Africa
+2 weeks ago
+Server Engineer
+Server Engineer
+
+Wenz
+
+Cape Town, Western Cape, South Africa
+3 days ago
+Senior Software Developer
+Senior Software Developer
+
+dentsu
+
+Cape Town, Western Cape, South Africa
+4 months ago
+Senior Software Engineer
+Senior Software Engineer
+
+AnyVan
+
+City of Cape Town, Western Cape, South Africa
+1 week ago
+Java Engineer - Platform (Pipeline)
+Java Engineer - Platform (Pipeline)
+
+Electrum
+
+Cape Town, Western Cape, South Africa
+1 month ago
+Senior Software Engineer
+Senior Software Engineer
+
+Sedna
+
+Cape Town, Western Cape, South Africa
+2 weeks ago
+Founding Engineer
+Founding Engineer
+
+Magic Safari
+
+Cape Town, Western Cape, South Africa
+2 days ago
+Azure Cloud Expert Engineer
+Azure Cloud Expert Engineer
+
+Cloud Direct
+
+City of Cape Town, Western Cape, South Africa
+1 week ago
+Senior Software Engineer - GoLang
+Senior Software Engineer - GoLang
+
+Bash
+
+Cape Town, Western Cape, South Africa
+2 months ago
+Similar Searches
+Site Reliability Engineer jobs
+1,083 open jobs
+Infrastructure Engineer jobs
+360 open jobs
+Linux Engineer jobs
+269 open jobs
+Senior Infrastructure Engineer jobs
+155 open jobs
+Virtualization Engineer jobs
+78 open jobs
+Unix Engineer jobs
+38 open jobs
+Cloud Architect jobs
+324 open jobs
+System Development Engineer jobs
+3,642 open jobs
+Senior Reliability Engineer jobs
+28 open jobs
+Linux System Engineer jobs
+240 open jobs
+Database Engineer jobs
+270 open jobs
+Linux System Administrator jobs
+35 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
