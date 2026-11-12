@@ -1,0 +1,355 @@
+Title: Technical Business Analyst: Client Data Servicing Capability
+Company: Sanlam
+Location: Cape Town, Western Cape, South Africa
+URL: https://za.linkedin.com/jobs/view/technical-business-analyst-client-data-servicing-capability-at-sanlam-4489030173
+Posted: 2026-11-12
+Deadline: Open until filled
+Reason: The role aligns with the candidate's expertise in requirements traceability, technical documentation, and quality-focused delivery in a regulated environment, and it is located in a target country (South Africa).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Technical Business Analyst: Client Data Servicing Capability
+Sanlam  Cape Town, Western Cape, South Africa
+6 hours ago   Be among the first 25 applicants
+  
+
+See who Sanlam has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Who are we?
+
+Sanlam Life and Savings (SLS) is focused on serving our retail and corporate clients in South Africa and further developing our strategic advantages in the South African market. Sanlam Life and Savings consists of the following business units Retail Mass, Corporate, Risk and Savings, Glacier and various business enabling functions. The Sanlam Life and Savings Office provides strategic direction, coordination and support to the four clusters, as well as performing governance oversight that includes assurance provided by second line of defense functions in SLS, to enable us to meet our business objectives.
+
+Purpose of the Role
+
+The Technical Business Analyst: Client Data Servicing Capability translates complex customer, servicing and information needs into clear, technically actionable requirements for BTSS Technology.
+
+Working across client data, systems, integration and technology modernisation, the role connects Product, Business and Technology, ensuring that customer and portfolio information requirements are clearly understood, governed and translated into scalable technology solutions. The role works closely with Product Owners, Product Managers, architects, engineers, quality teams and data specialists to modernise Sanlam's client data servicing capabilities while maintaining the integrity and stability of existing services.
+
+The Opportunity
+
+Trusted client information sits at the heart of how Sanlam services customers and enables digital and assisted customer journeys.
+
+BTSS Technology supports critical capabilities that manage and provide access to client demographics, contact information, preferences and relationships, while progressively expanding towards richer Client Portfolio Information that brings together customer, product, contract and transactional information.
+
+As the Technical Business Analyst, you will help bridge Business, Product, Data and Technology, turning complex requirements and legacy knowledge into well-defined, reusable and testable technology capabilities. Working in a spec-driven and test-driven way, you will express requirements as precise, version-controlled specifications – including business rules, data contracts and API definitions – and pair them with executable acceptance criteria that define what “done” looks like before engineering begins.
+
+This is not simply a requirements-documentation role. You will need to understand how the systems, data and integrations work, challenge ambiguity, uncover embedded business rules and help engineering teams build the right solution. Your specifications will become the single source of truth that guides engineers and AI-assisted development tools, while test scenarios defined up front will prove that every capability behaves exactly as intended – today and as it evolves.
+
+Overview Of Role Responsibilities
+
+
+Translate business needs into technical requirements
+Partner with Product Owners, Product Managers and business stakeholders to understand customer, servicing and information needs.
+Translate these needs into clear functional, data, integration and non-functional requirements.
+Develop user stories, process and data flows, business rules and testable acceptance criteria.
+Challenge incomplete or ambiguous requirements and facilitate clarity before engineering begins.
+Maintain traceability from business need through design, implementation and testing.
+Understand the technology and data landscape
+Analyse systems, processes, integrations and data flows supporting Client Data Servicing.
+Understand how information moves between source systems, BTSS capabilities and consuming channels.
+Identify duplicated logic, inconsistent definitions, data-quality issues and technical dependencies.
+Recover and document important business and data rules embedded in legacy systems and processes.
+Support current-state and target-state analysis with architects and engineers.
+Define trusted Client and Portfolio Information
+Define and document requirements relating to client identity, demographics, contact details, preferences, roles and relationships as structured specifications, such as information models, schemas and data contracts.
+Support the evolution of portfolio information across products, contracts, holdings, values and transactions.
+Establish clear data definitions, mappings, sources and business rules, captured as precise, version-controlled specifications that act as the single source of truth for design, build and testing.
+Define requirements for data quality, lineage, reconciliation, auditability and privacy as explicit, verifiable rules within the specification.
+Apply a spec-driven approach, authoring API and data contract specifications up front so they drive engineering (including AI-assisted development), automated validation and consistent reuse, and keeping specifications and delivered capabilities in sync as they evolve.
+Work with Product. Data, architecture and data-governance stakeholders to establish trusted and reusable information.
+Enable technology modernisation
+Support the modernisation of Client Data Management and Client Portfolio Information capabilities.
+Help move BTSS towards reusable, API-enabled and channel-independent information services.
+Support incremental migration from legacy technology while maintaining service stability.
+Analyse legacy consumer dependencies and migration impacts.
+Define coexistence and reconciliation requirements where legacy and modern solutions operate in parallel.
+Contribute to the progressive reduction of technical debt and mainframe dependency.
+Partner with engineering teams
+Work closely with architects, Tech Leads, Software Engineers, Integration Engineers and Quality Engineers.
+Participate in solution design and ensure solutions address the underlying business and information requirements.
+Break complex requirements into smaller, deliverable increments.
+Identify dependencies and assess impacts across connected systems.
+Support engineering teams with requirement clarification throughout delivery.
+Ensure security, privacy, performance, resilience and operational requirements are considered.
+Assure delivery quality
+Apply a test-driven approach, defining clear, testable acceptance criteria before build begins so that tests become the shared measure of “done”.
+Define data-validation, reconciliation and exception scenarios as executable test cases (for example, Given/When/Then) that can be automated.
+Partner with Quality Engineers to design automated functional, API, integration and regression test suites that run continuously within delivery pipelines.
+Champion a test-first and QA automation culture, ensuring automated test coverage grows with every increment and provides a reliable safety net for change.
+Support automated validation and reconciliation of information across legacy and modernised capabilities, including during parallel running.
+Assist with defect analysis, using test results to determine whether issues originate from requirements, data, design or implementation.
+Connect Product, Business and Technology
+Provide evidence-based analysis that supports Product Owners and Product Managers with prioritisation and trade-offs.
+Surface technical constraints, dependencies, risks and data-quality issues early.
+Facilitate conversations across BTSS, Product, Business, Data and other Sanlam Technology teams.
+Provide clear options and recommendations when requirements or technology choices have competing implications.
+
+
+Experience
+
+You will ideally bring:
+
+
+6+ years' relevant experience across Business Analysis, Systems Analysis or technology delivery.
+Experience operating as a Senior or Technical Business Analyst in a complex technology environment.
+Strong experience translating business requirements into functional, technical, data and integration requirements.
+Experience working with data-intensive platforms, customer information or Master Data Management capabilities.
+Experience with APIs, systems integration, data mapping and information models.
+Experience analysing legacy systems and documenting embedded business rules.
+Exposure to technology modernisation, migration or platform-replacement initiatives.
+Experience working across multiple technology and business teams.
+Financial-services experience, particularly in customer servicing or regulated customer information, will be advantageous.
+
+
+Technical Knowledge
+
+You should have strong knowledge or practical exposure across several of the following:
+
+
+Business and systems analysis
+Requirements elicitation and modelling
+Business rules and process modelling
+User stories and acceptance criteria
+Client, Party or Master Data concepts
+Data mapping and information modelling
+Data quality, lineage and reconciliation
+APIs and integration patterns
+Real-time and batch integrations
+Legacy/mainframe integration
+Agile and Product ways of working
+Functional, integration and regression testing
+Privacy, security and data governance
+
+
+Qualifications
+
+
+Bachelor's degree in Information Systems, Information Technology, Computer Science, Business Analysis, Data Management or a related discipline.
+A recognised Business Analysis certification, such as IIBA CBAP, CCBA or PMI-PBA, will be advantageous.
+Additional training in data management, Agile delivery or financial services will be advantageous.
+
+
+What We're Looking For
+
+We're looking for someone who combines strong analysis with enough technical depth to engage confidently with modern engineering teams.
+
+You Are Likely To Be
+
+
+Analytical: You can break down complex systems, information and problems.
+Technically curious: You want to understand how the data flows and how the technology actually works.
+Precise: You recognise that accuracy matters when dealing with customer information.
+Constructively challenging: You question assumptions and bring clarity to ambiguity.
+Collaborative: You can connect people across Product, Business, Data and Technology.
+Pragmatic: You can balance modernisation ambitions with the realities of a complex existing technology estate.
+Outcome focused: You care about solving the underlying customer or business problem, not simply producing requirements documents.
+
+
+Why Join BTSS Tech?
+
+BTSS Technology sits at the intersection of technology transformation and customer experience. Our technology enables how existing Sanlam customers engage with us and how our Customer Service teams serve them.
+
+You'll have the opportunity to work across established enterprise platforms and emerging capabilities, helping to run, optimise and modernise a critical technology landscape.
+
+This is an opportunity to help shape how trusted customer information is made available across Sanlam's future servicing ecosystem and to contribute directly to our broader Customer North Star and Vision 2030 ambitions.
+
+You won't simply document how today's systems work. You'll help define the requirements for what they become next.
+
+Turnaround time
+
+The shortlisting process will only start once the application due date has been reached The time taken to complete this process will depend on how far you progress and the availability of managers.
+
+Closing Date: 25 November 2026
+
+The Sanlam Group is committed to achieving transformation and embraces diversity. This commitment is what drives us to achieve a diverse, inclusive and equitable workplace as we believe that these are key components to ensuring a thriving and sustainable business in South Africa. The Group's Employment Equity plan and targets will be considered as part of the selection process.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at Sanlam by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Business Analyst jobs
+Technical Business Analyst: Client Data Servicing Capability
+Similar jobs
+Technical Product Analyst
+Technical Product Analyst
+Sanlam
+Cape Town, Western Cape, South Africa
+1 week ago
+Business Analyst — Fund Administration
+Business Analyst — Fund Administration
+Air Chefs
+Cape Town, Western Cape, South Africa
+3 months ago
+Business Analyst
+Business Analyst
+Unifi Africa
+Stellenbosch, Western Cape, South Africa
+1 month ago
+Business Analyst
+Business Analyst
+Parvana
+Cape Town, Western Cape, South Africa
+1 week ago
+Finance Digitization & Analytics Analyst (Africa)
+Finance Digitization & Analytics Analyst (Africa)
+Puma Energy
+Cape Town, Western Cape, South Africa
+2 weeks ago
+IT Business Analyst
+IT Business Analyst
+Optimal Growth Technologies
+Cape Town, Western Cape, South Africa
+3 months ago
+Show more jobs like this 
+People also viewed
+Business Analysis / Quality Assurance
+Business Analysis / Quality Assurance
+
+Liquid Thought
+
+Cape Town, Western Cape, South Africa
+1 month ago
+Report Developer
+Report Developer
+
+Apex Group Ltd
+
+Cape Town, Western Cape, South Africa
+1 year ago
+Talent Pool: Business Analyst MMH260127-8
+Talent Pool: Business Analyst MMH260127-8
+
+Momentum
+
+Bellville, Western Cape, South Africa
+2 days ago
+BI Developer
+BI Developer
+
+QE Services IT Recruitment
+
+Cape Town, Western Cape, South Africa
+3 weeks ago
+Senior Data Analyst
+Senior Data Analyst
+
+Mass Markets
+
+Cape Town, Western Cape, South Africa
+2 days ago
+Intermediate/Senior Data Analyst
+Intermediate/Senior Data Analyst
+
+Confluent
+
+City of Cape Town, Western Cape, South Africa
+2 weeks ago
+Senior Data Analyst
+Senior Data Analyst
+
+takealot.com
+
+Cape Town, Western Cape, South Africa
+3 months ago
+Senior API Data Analyst
+Senior API Data Analyst
+
+impact.com
+
+Cape Town, Western Cape, South Africa
+2 weeks ago
+Functional Analyst
+Functional Analyst
+
+EQPLUS TECHNOLOGIES PTY LTD
+
+Cape Town, Western Cape, South Africa
+2 weeks ago
+Assistant Digital Consultant
+Assistant Digital Consultant
+
+Mace
+
+Cape Town, Western Cape, South Africa
+2 weeks ago
+Similar Searches
+Business Analyst jobs
+1,032 open jobs
+Quality Assurance Test Analyst jobs
+105 open jobs
+Senior Data Consultant jobs
+268 open jobs
+Data Warehouse Analyst jobs
+256 open jobs
+Information Technology Business Analyst jobs
+23 open jobs
+Digital Engineer jobs
+3,700 open jobs
+Product Consultant jobs
+511 open jobs
+Junior System Administrator jobs
+69 open jobs
+Technical Analyst jobs
+4,385 open jobs
+Software Team Lead jobs
+1,171 open jobs
+Solutions Analyst jobs
+603 open jobs
+Business Data Analyst jobs
+803 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Sanlam
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

@@ -1,9 +1,9 @@
 {
   "pid": 47988,
   "started_at": "2026-11-12T01:12:42+02:00",
-  "heartbeat_at": "2026-11-12T02:17:49+02:00",
+  "heartbeat_at": "2026-11-12T02:20:01+02:00",
   "phase": "reviewing",
-  "detail": "Quality Manager",
-  "last_scrape_ok_at": "2026-11-12T02:16:42+02:00",
+  "detail": "Technical Business Analyst: Client Data Servicing Capability",
+  "last_scrape_ok_at": "2026-11-12T02:18:47+02:00",
   "last_error": null
 }
