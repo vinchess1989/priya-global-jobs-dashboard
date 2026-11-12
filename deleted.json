@@ -26586,5 +26586,22 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": "job_descriptions/news_corp_australia_portfolio_vmo_lead_digital_pro_0e460fe0.txt",
     "deletion_reason": "Deadline (2025-11-17) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Programme Test Manager - CLR",
+    "company": "Bank of New Zealand",
+    "location": "Wellington, Wellington, New Zealand",
+    "url": "https://nz.linkedin.com/jobs/view/programme-test-manager-clr-at-bank-of-new-zealand-4488584413",
+    "visited": "yes",
+    "matches_requirements": "yes",
+    "reason": "The role aligns perfectly with the candidate's extensive experience in release management, quality assurance, and traceability within complex, regulated environments.",
+    "id": "575a1f5b",
+    "source": "linkedin_nz_quality_engineer",
+    "added_at": "2026-11-13T01:55:10+02:00",
+    "posted_date": "2026-11-13",
+    "deadline": "2025-11-24",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": "job_descriptions/bank_of_new_zealand_programme_test_manager___clr_575a1f5b.txt",
+    "deletion_reason": "Deadline (2025-11-24) passed by more than 2 days and unreviewed"
   }
 ]

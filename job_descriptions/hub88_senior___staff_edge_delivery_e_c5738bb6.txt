@@ -1,0 +1,214 @@
+Title: Senior / Staff Edge Delivery Engineer, Content Platform
+Company: Hub88
+Location: Malta
+URL: https://mt.linkedin.com/jobs/view/senior-staff-edge-delivery-engineer-content-platform-at-hub88-4488251401
+Posted: 2026-11-12
+Deadline: Open until filled
+Reason: The role aligns with the candidate's DevOps, CI/CD, and regulatory compliance experience in a safety-critical/regulated industry, and it is located in a target country (Malta) with no US restrictions.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior / Staff Edge Delivery Engineer, Content Platform
+Hub88  Malta
+1 day ago   Be among the first 25 applicants
+  
+
+See who Hub88 has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+About The Role
+
+Hub88 delivers third-party game content to operators across many markets. This role owns the edge delivery layer that gets that content to players quickly and reliably, built on nginx and Cloudflare Workers. You will design, scale, and harden multi-region content routing so gameplay is fast and resilient everywhere Hub88 operates, and so delivery stays inside each provider’s integration terms and each market’s regulatory requirements.
+
+We are hiring at Senior or Staff, depending on experience. At Senior you will report to the DevOps and Infrastructure Engineering Lead; at Staff you will report to the Head of Engineering. Either way this is a role you own, not one you are handed. You will make edge and CDN architecture decisions without supervision, run the layer in production, and reason about the contractual and regulatory boundaries of what you build. A mid-level engineer can execute parts of this; they should not own it.
+
+Key Responsibilities
+
+
+Architecture, deployment, and operation of the multi-region edge delivery platform (nginx, Cloudflare Workers and edge compute).
+Latency optimisation, caching strategy, and origin failover, so asset loading is consistently fast across regions.
+Provider integration routing: delivering regionally in line with each provider’s agreement and enabling markets correctly under each provider’s authorisation.
+Delivery controls that keep content aligned with licensing and regulatory requirements per market, and the observability to prove that alignment holds.
+Reliability for the layer: health checks, automated failover, capacity planning, incident response, and DR.
+Infrastructure-as-code, CI/CD, and operational runbooks for the delivery fleet.
+
+
+Key Skills & Experience
+
+
+Strong production experience with nginx (reverse proxy, caching, load balancing) and Cloudflare (Workers, DNS, edge configuration).
+Deep networking fundamentals: HTTP(S), TLS, DNS, CDN behaviour, and geo-routing.
+Solid IaC and containerisation (Terraform, Docker, Kubernetes) and a CI/CD mindset.
+A track record operating latency- and availability-sensitive infrastructure at scale.
+Experience with observability tooling, including Grafana and log and metrics pipelines.
+Judgement about the regulatory and contractual context of content delivery, and comfort working closely with compliance and legal. In a licensed environment that is part of the job, not an aside.
+
+
+Nice to have
+
+
+iGaming or another regulated-industry background.
+
+
+To apply please send your CV to careers@hub88.io
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Gambling Facilities and Casinos
+  
+
+Referrals increase your chances of interviewing at Hub88 by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Senior Site Reliability Engineer (AI-Native)
+Senior Site Reliability Engineer (AI-Native)
+Paradise Media
+San Ġiljan, Saint Julian's, Malta
+2 weeks ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+SearchApi
+Malta
+4 months ago
+Platform Engineering Tech Lead, Cloud - Infra
+Platform Engineering Tech Lead, Cloud - Infra
+Betsson Group
+Ta' Xbiex, Ta' Xbiex, Malta
+6 days ago
+Senior Platform Engineer
+Senior Platform Engineer
+XM
+Malta
+6 days ago
+Infrastructure Engineering Technical Lead - Infra
+Infrastructure Engineering Technical Lead - Infra
+Betsson Group
+Ta' Xbiex, Ta' Xbiex, Malta
+1 week ago
+Advanced Solutions Architect
+Advanced Solutions Architect
+Light & Wonder - iGaming
+Sliema, Sliema, Malta
+5 hours ago
+Show more jobs like this 
+People also viewed
+IT System Engineer
+IT System Engineer
+
+TOPPAN Security
+
+Zejtun, Malta
+2 days ago
+Senior System Engineer
+Senior System Engineer
+
+Reed Recruitment Malta
+
+Birkirkara, Malta
+2 weeks ago
+Staff Software Engineer, Frontend
+Staff Software Engineer, Frontend
+
+Block Labs
+
+Malta
+1 week ago
+Senior Linux Infrastructure Engineer
+Senior Linux Infrastructure Engineer
+
+CARMA
+
+Santa Venera, Santa Venera, Malta
+2 months ago
+Senior Full-Stack Product Engineer
+Senior Full-Stack Product Engineer
+
+The Flex
+
+Malta
+1 month ago
+Lead Infrastructure Engineer
+Lead Infrastructure Engineer
+
+Gaming Innovation Group
+
+San Ġiljan, Saint Julian's, Malta
+1 week ago
+Infrastructure Technical Lead | Drive & Deliver
+Infrastructure Technical Lead | Drive & Deliver
+
+Archer - The IT Recruitment Consultancy (Malta)
+
+Burmarrad, Saint Paul's Bay, Malta
+€50,000 - €58,000
+1 week ago
+Senior DevOps Engineer - Gaming
+Senior DevOps Engineer - Gaming
+
+Betsson Group
+
+Ta' Xbiex, Malta
+1 week ago
+Engineering Tech Lead - Brand Experience
+Engineering Tech Lead - Brand Experience
+
+Betsson Group
+
+Valletta, Valletta, Malta
+3 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Platin Gaming Ltd.
+
+Malta
+1 month ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Hub88
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
