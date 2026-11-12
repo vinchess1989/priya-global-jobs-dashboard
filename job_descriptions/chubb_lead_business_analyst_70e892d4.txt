@@ -1,0 +1,325 @@
+Title: Lead Business Analyst
+Company: Chubb
+Location: Telangana, India
+URL: https://in.linkedin.com/jobs/view/lead-business-analyst-at-chubb-4488818969
+Posted: 2026-11-09
+Deadline: N/A
+Reason: The role aligns with the candidate's extensive experience in requirements traceability, release readiness, and quality gatekeeping within regulated environments, and it is located in India, one of her target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Lead Business Analyst
+Chubb  Telangana, India
+3 days ago  146 applicants
+  
+
+See who Chubb has hired for this role
+
+Apply 
+Save
+About Chubb
+
+JOB DESCRIPTION
+
+Chubb is a world leader in insurance. With operations in 54 countries and territories, Chubb provides commercial and personal property and casualty insurance, personal accident and supplemental health insurance, reinsurance and life insurance to a diverse group of clients. The company is defined by its extensive product and service offerings, broad distribution capabilities, exceptional financial strength and local operations globally. Parent company Chubb Limited is listed on the New York Stock Exchange (NYSE: CB) and is a component of the S&P 500 index. Chubb employs approximately 40,000 people worldwide. Additional information can be found at: http://www.chubb.com/
+
+About Chubb India
+
+At Chubb India, we are on an exciting journey of digital transformation driven by a commitment to engineering excellence and analytics. With a team of over 2500 talented professionals, we foster a startup mindset that promotes collaboration, diverse perspectives, and a solution driven attitude. We are dedicated to building expertise in engineering, analytics, and automation, empowering our teams to excel in a dynamic digital landscape. We offer an environment where you will be part of an organization that is dedicated to solving real-world challenges in the insurance industry. Together, we will work to shape the future through innovation and continuous learning.
+
+Position Details
+
+Job Title: Lead Business Analyst
+
+Function/Department: Business Analysis
+
+Location: Hyderabad
+
+Employment Type: Full-time
+
+About The Role
+
+Join Chubb's APAC Claims Technology team as a Lead Business Analyst, shaping the requirements, process design and delivery of a next-generation, multi-market insurance claims platform. This is not a conventional business analysis role. You will work in an AI-augmented delivery model where AI agents help draft epics and stories, analyze requirements, generate test scenarios and keep documentation current, and you will lead how the team uses these capabilities responsibly. You act as the key link between Claims business stakeholders (Product Owners, Production Support Operations. engineering teams and set the standard for requirement quality across the region.
+
+Your Team
+
+You will be part of the APAC Claims Technology team, a regional group within Chubb Global Claims Technology. The team is responsible for technology delivery, platform engineering, and product feature adoption across the APAC region, serving Insureds, Agents, and diverse Chubb customer segments on the claims platform.
+
+Key Responsibilities
+
+
+Lead discovery to delivery Own business analysis end to end for APAC claims initiatives: elicitation, process mapping, solution definition, UAT support and release readiness
+Bridge business and technology Partner with Product Owners, Claims Operations, and Engineering leads to turn business needs into clear, prioritized, testable backlog items
+Own story quality Set the bar for epics, user stories, acceptance criteria and bugs in Jira, well scoped enough for engineers and AI coding agents to implement independently
+Work with AI as a partner Use AI assistants such as Claude and Model Context Protocol (MCP) tools to analyze documents and regulations, draft requirements, summarize stakeholder input, generate acceptance criteria and test scenarios, and query and update Jira and Confluence. Set team standards for prompts, story templates and review checkpoints, and validate AI output against business rules, regulatory expectations and data privacy requirements before it is accepted or shared
+Deliver business value Link epics and stories to business outcomes and measurable KPIs, define success measures up front, and track benefits realisation after release with Product Owners and Claims stakeholders
+Drive analysis delivery Plan and track analysis work across sprints and program increments, keeping the backlog ready, and raising dependencies, risks and scope changes early with Product Owners and delivery leads
+Support operations Bring business context to incident and defect triage to drive swift root cause analysis and resolution
+
+
+Qualifications
+
+
+10+ years of business analysis experience in complex, enterprise-scale technology programs, including 3+ years leading analysts or workstreams, with relevant certifications such as CSPO or SAFe POPM
+Prior experience in insurance, claims or financial services, ideally across multiple APAC markets, with familiarity with the end-to-end claims lifecycle (FNOL, triage, adjudication, settlement, recovery), claims platforms, and the regulatory, compliance and data privacy requirements that affect claims
+Strong requirements elicitation, process modelling (BPMN or equivalent), as-is and to-be and gap analysis, user story writing and acceptance criteria definition
+Requirements documentation and traceability: business and functional requirements, use cases, non-functional requirements and traceability from requirement to test and release
+Business value and prioritisation: value-based prioritisation (for example MoSCoW or WSJF), business cases with cost-benefit and impact analysis, outcome-based success measures, and validating that delivered solutions achieve the intended value
+Strong analytical thinking and problem-solving, with the ability to resolve ambiguity and conflicting stakeholder needs
+Proven Agile delivery and product backlog management: refinement, sprint planning and UAT coordination, and building and sequencing the backlog from roadmap to sprint level with a clear definition of ready and done
+Delivery planning and coordination skills: supporting sprint and program increment planning, release readiness, and maintaining risks, issues and dependency logs in partnership with Product Owners and delivery leads
+Cross-team dependency management through close collaboration between Product Owners and Business Analysts: jointly identifying, prioritising and resolving dependencies across teams and aligning scope, priorities and delivery commitments to keep work on track
+Leadership qualities: ability to inspire, coach and develop analysts, lead by example, make sound decisions under ambiguity, take ownership and accountability, and build trust with senior stakeholders
+Advanced Jira and Confluence skills, including JQL, dashboards, workflows and reporting
+Strong stakeholder management, facilitation and negotiation skills, with the ability to influence senior business and technology leaders
+Working knowledge of APIs, integration patterns and data concepts, with data analysis skills (for example SQL, Excel or Power BI) to validate assumptions and support evidence-based decisions, and enough technical fluency to collaborate effectively with engineers and architects
+Excellent verbal and written communication, with the ability to collaborate across distributed, cross-functional teams.
+
+
+AI skills: the differentiator
+
+Comfort with AI-assisted analysis and agentic tooling is a core expectation, not a bonus.
+
+
+Hands-on, regular use of generative AI assistants (Claude or equivalent) for analysis, documentation, test design and reporting
+Strong prompt engineering instincts: precise task descriptions, the right context, and well-scoped requests that produce reliable output
+Ability to write clear, well-scoped story files that AI coding agents can implement independently
+Basic understanding of Model Context Protocol (MCP), the standard that lets AI assistants call tools such as Jira and Confluence
+Awareness of Retrieval-Augmented Generation (RAG): how structured context, good naming and explicit documentation improve AI output
+Understanding of responsible AI, including hallucination risk, bias, data privacy, confidentiality and human-in-the-loop review
+Ability to critically evaluate AI output against business rules, policy wording and regulatory requirements before acceptance
+Experience identifying and shaping AI and automation use cases, and measuring their business value
+Experience with structured agentic development methodologies such as BMAD, where AI agents participate across the delivery lifecycle
+
+
+Why Join Us?
+
+
+Be at the forefront of digital transformation in the insurance industry.
+Lead impactful initiatives that simplify claims processing and enhance customer satisfaction.
+Work alongside experienced professionals in a collaborative, innovation-driven environment.
+
+
+Why Chubb?
+
+Join Chubb to be part of a leading global insurance company!
+
+
+Our constant focus on employee experience along with a start-up-like culture empowers you to achieve impactful results.
+Industry leader: Chubb is a world leader in the insurance industry, powered by underwriting and engineering excellence
+A Great Place to work: Chubb India has been recognized as a Great Place to Work® for the years 2023-2024, 2024-2025 and 2025-2026
+Laser focus on excellence: At Chubb we pride ourselves on our culture of greatness where excellence is a mindset and a way of being. We constantly seek new and innovative ways to excel at work and deliver outstanding results
+Start-Up Culture: Embracing the spirit of a start-up, our focus on speed and agility enables us to respond swiftly to market requirements, while a culture of ownership empowers employees to drive results that matter
+Growth and success: As we continue to grow, we are steadfast in our commitment to provide our employees with the best work experience, enabling them to advance their careers in a conducive environment
+
+
+Employee Benefits
+
+Our company offers a comprehensive benefits package designed to support our employees’ health, well-being, and professional growth. Employees enjoy flexible work options, generous paid time off, and robust health coverage, including treatment for dental and vision related requirements. We invest in the future of our employees through continuous learning opportunities and career advancement programs, while fostering a supportive and inclusive work environment. Our benefits include:
+
+
+Savings and Investment plans: We provide specialized benefits like Corporate NPS (National Pension Scheme), Employee Stock Purchase Plan (ESPP), Long-Term Incentive Plan (LTIP), Retiral Benefits and Car Lease that help employees optimally plan their finances
+Upskilling and career growth opportunities: With a focus on continuous learning, we offer customized programs that support upskilling like Education Reimbursement Programs, Certification programs and access to global learning programs.
+Health and Welfare Benefits: We care about our employees’ well-being in and out of work and have benefits like Hybrid Work Environment, Employee Assistance Program (EAP), Yearly Free Health campaigns and comprehensive Insurance benefits.
+Application Process
+
+
+Our recruitment process is designed to be transparent, and inclusive.
+
+
+Step 1: Submit your application via the Chubb Careers Portal.
+Step 2: Engage with our recruitment team for an initial discussion.
+Step 3: Participate in Hacker Rank assessments/technical/functional interviews and assessments (if applicable).
+Step 4: Final interaction with Chubb leadership.
+
+
+Join Us
+
+With you Chubb is better. Whether you are solving challenges on a global stage or creating innovative solutions for local markets, your contributions will help shape the future. If you value integrity, innovation, and inclusion, and are ready to make a difference, we invite you to be part of Chubb India’s journey.
+
+Apply Now: Search Jobs - Chubb Careers
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Insurance
+  
+
+Referrals increase your chances of interviewing at Chubb by 2x
+
+See who you know
+
+Get notified about new Lead Business Analyst jobs in Telangana, India.
+
+Sign in to create job alert
+Jobs
+Head of Business Analysis jobs
+Lead Business Analyst
+Similar jobs
+Lead Business Analyst
+Lead Business Analyst
+Anblicks
+Hyderabad, Telangana, India
+3 weeks ago
+Lead Business Analyst - Data
+Lead Business Analyst - Data
+EPAM Systems
+Hyderabad, Telangana, India
+4 days ago
+Lead Business Analyst
+Lead Business Analyst
+Milestone Technologies, Inc.
+Greater Hyderabad Area
+6 days ago
+Business Analyst
+Business Analyst
+Accenture in India
+Hyderabad, Telangana, India
+2 weeks ago
+Lead Business Systems Analyst - FTS
+Lead Business Systems Analyst - FTS
+Franklin Templeton
+Greater Hyderabad Area
+2 weeks ago
+Business Analyst
+Business Analyst
+The Hartford
+Hyderabad, Telangana, India
+1 week ago
+Show more jobs like this 
+People also viewed
+Business Architect
+Business Architect
+
+Accenture in India
+
+Hyderabad, Telangana, India
+1 month ago
+Business Architect
+Business Architect
+
+Accenture in India
+
+Hyderabad, Telangana, India
+2 weeks ago
+Business Architect
+Business Architect
+
+Accenture in India
+
+Hyderabad, Telangana, India
+2 weeks ago
+Business Architect
+Business Architect
+
+Accenture in India
+
+Hyderabad, Telangana, India
+2 weeks ago
+Application Lead
+Application Lead
+
+Accenture in India
+
+Hyderabad, Telangana, India
+1 month ago
+Business Process Architect
+Business Process Architect
+
+Accenture in India
+
+Hyderabad, Telangana, India
+1 month ago
+Business Architect
+Business Architect
+
+Accenture in India
+
+Hyderabad, Telangana, India
+1 month ago
+Business Architect
+Business Architect
+
+Accenture in India
+
+Hyderabad, Telangana, India
+1 month ago
+Business Architect
+Business Architect
+
+Accenture in India
+
+Hyderabad, Telangana, India
+1 week ago
+Business Architect
+Business Architect
+
+Accenture in India
+
+Hyderabad, Telangana, India
+1 month ago
+Similar Searches
+Head of Business Analysis jobs
+856 open jobs
+Principal Business Analyst jobs
+739 open jobs
+Director Business Analysis jobs
+172 open jobs
+Lead Business System Analyst jobs
+3,176 open jobs
+Lead System Analyst jobs
+2,709 open jobs
+Senior Business Analyst jobs
+6,993 open jobs
+Senior Business Analyst Contract jobs
+142 open jobs
+Senior Business System Analyst jobs
+2,914 open jobs
+Senior Technical Business Analyst jobs
+322 open jobs
+Operational Risk Consultant jobs
+2,301 open jobs
+Principal Economist jobs
+210 open jobs
+Lead Technical Analyst jobs
+10,615 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
