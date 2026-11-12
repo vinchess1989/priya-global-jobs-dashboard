@@ -1,0 +1,213 @@
+Title: Senior DevOps Engineer
+Company: Confidential Company
+Location: Greater Dublin
+URL: https://ie.linkedin.com/jobs/view/senior-devops-engineer-at-confidential-company-4490352420
+Posted: 2026-11-13
+Deadline: N/A
+Reason: The role is a senior DevOps position in a target country (Ireland) that aligns with the candidate's extensive experience in CI/CD, infrastructure automation, and release management.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer
+Confidential Company  Greater Dublin
+8 hours ago   Be among the first 25 applicants
+  
+
+See who Confidential Company has hired for this role
+
+Apply
+Save
+
+You will join a client data team as the engineer who owns the platform beneath it. Working alongside data engineers and architects, you will build and run the AWS and Databricks infrastructure that keeps their pipelines, analytics and AI workloads secure, reliable and cost-effective. Every change goes through Terraform, so your code becomes the single source of truth for the platform. As AI use cases move from experiment to production, you will help shape the infrastructure that supports them.
+
+
+
+
+Required Skills:
+
+Commercial experience in a senior DevOps, platform or cloud engineering role
+Strong hands-on AWS knowledge across VPC, IAM, S3, EC2, Lambda and related services
+Expert Terraform skills, including module design, remote state management and working at scale
+A solid understanding of Databricks infrastructure on AWS, from workspace deployment to cluster configuration
+Experience with CI/CD tooling such as GitHub Actions, GitLab CI or Azure DevOps
+A keen interest in AI and how it can be applied to modern data platforms
+Clear communication with technical and non-technical stakeholders
+
+
+
+
+Key responsibilities & duties include:
+
+Design, build and maintain AWS infrastructure for the data platform using Terraform
+Deploy and manage Databricks workspaces, cluster policies, Unity Catalog and the networking that connects them to AWS
+Plan VPCs, subnets, routing, PrivateLink and peering so new components fit cleanly within the existing network design
+Build CI/CD pipelines for infrastructure and data workloads
+Put monitoring, alerting and cost controls in place across the platform
+Support the team as it adopts AI and machine learning services such as Amazon Bedrock and SageMaker
+Apply security best practice across IAM, encryption and secrets management
+Mentor engineers and raise infrastructure as code standards across the team
+
+
+
+
+Desirable skills:
+
+Networking knowledge covering routers, subnets, route tables, Transit Gateway and VPN, with a clear grasp of how VPCs interact within an existing design
+Python or Bash scripting for automation
+Container experience with Docker and Kubernetes (EKS)
+Certifications such as AWS Solutions Architect or DevOps Engineer Professional, Databricks Platform Administrator or HashiCorp Terraform Associate
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Contract
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Confidential Company by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Senior DevOps Engineer
+Senior DevOps Engineer
+Ripple
+Dublin, County Dublin, Ireland
+1 week ago
+Senior Devops Engineer
+Senior Devops Engineer
+Fruition Group Ireland
+Dublin, County Dublin, Ireland
+3 days ago
+Senior Cloud/DevOps Engineer
+Senior Cloud/DevOps Engineer
+Fruition Group Ireland
+County Dublin, Ireland
+1 day ago
+Sr Devops Engineer
+Sr Devops Engineer
+Fulcrum Digital Inc
+Dublin, County Dublin, Ireland
+2 weeks ago
+DevSecOps Engineer
+DevSecOps Engineer
+Holafly
+Dublin, County Dublin, Ireland
+7 hours ago
+Quantitative Development - DevOps Engineer
+Quantitative Development - DevOps Engineer
+Millennium
+Dublin, County Dublin, Ireland
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Senior Site Reliability Engineer - Dublin
+Senior Site Reliability Engineer - Dublin
+
+RapidRatings
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+AWS DevOps Engineer – Dublin/Remote (2 days onsite pw)
+AWS DevOps Engineer – Dublin/Remote (2 days onsite pw)
+
+IT Search
+
+Dublin, County Dublin, Ireland
+2 days ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+Blockdaemon
+
+Dublin, County Dublin, Ireland
+1 month ago
+Azure DevOps Engineer
+Azure DevOps Engineer
+
+Analog Devices
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+Senior Cloud Engineer
+Senior Cloud Engineer
+
+PFH Technology Group
+
+Dublin, County Dublin, Ireland
+2 days ago
+Lead/Senior Cloud Engineer
+Lead/Senior Cloud Engineer
+
+Randstad Global Capability Center
+
+Dublin, County Dublin, Ireland
+3 days ago
+Site Reliability Engineer (SRE/ DevOps) - Engineering Productivity
+Site Reliability Engineer (SRE/ DevOps) - Engineering Productivity
+
+Arista Networks
+
+Dublin, County Dublin, Ireland
+3 months ago
+DevSecOps Engineer
+DevSecOps Engineer
+
+Prism Digital
+
+Dublin, County Dublin, Ireland
+€100,000 - €120,000
+11 hours ago
+Platform Engineer
+Platform Engineer
+
+Trust In SODA
+
+Dublin, County Dublin, Ireland
+€100,000 - €140,000
+1 week ago
+Senior Site Reliability Engineer - AI Compute
+Senior Site Reliability Engineer - AI Compute
+
+ByteDance
+
+Dublin, County Dublin, Ireland
+1 day ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Confidential Company
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

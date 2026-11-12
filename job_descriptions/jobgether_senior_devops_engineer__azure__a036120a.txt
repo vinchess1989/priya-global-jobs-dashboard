@@ -1,0 +1,246 @@
+Title: Senior DevOps Engineer (Azure+AWS)
+Company: Jobgether
+Location: Ireland
+URL: https://ie.linkedin.com/jobs/view/senior-devops-engineer-azure%2Baws-at-jobgether-4489081525
+Posted: 2026-11-13
+Deadline: N/A
+Reason: The role aligns perfectly with the candidate's extensive experience in CI/CD, release pipelines, and cloud infrastructure, and it is located in a target country (Ireland) with no US-based restrictions.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer (Azure+AWS)
+Jobgether  Ireland
+16 hours ago   Be among the first 25 applicants
+  
+
+See who Jobgether has hired for this role
+
+Apply
+Save
+This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Senior DevOps Engineer (Azure + AWS) based in Ireland.
+
+As a Senior DevOps Engineer, you will design, deploy, and maintain scalable cloud infrastructure across Microsoft Azure and AWS environments. You will play a key role in ensuring the reliability, security, and performance of cloud-based services supporting a large-scale data science platform. Working with technologies such as Terraform, Kubernetes, Docker, and GitOps, you will automate infrastructure provisioning and streamline deployment processes. You will also develop robust CI/CD pipelines and implement advanced deployment strategies to minimize downtime and operational risks. Collaborating with a geographically distributed engineering team, you will contribute to infrastructure improvements and cloud operations. This role offers the opportunity to take ownership of critical technical initiatives in a dynamic, cloud-focused environment.
+
+Accountabilities
+
+You will be responsible for building and optimizing cloud infrastructure, automating operational processes, and maintaining reliable deployment environments across Azure and AWS.
+
+
+Design, deploy, and manage scalable cloud infrastructure and services within Microsoft Azure, including Azure Kubernetes Service (AKS), Private Link Services, Azure Networking, and Azure Database for PostgreSQL Flexible Server.
+Support the development and deployment of cloud environments primarily based on Azure and AWS.
+Implement and maintain Infrastructure as Code (IaC) solutions using Terraform to ensure consistent and reliable infrastructure provisioning.
+Establish and enforce best practices for cloud security, networking, governance, and cost optimization, including VNet, NSG, Firewall, and Load Balancer configurations.
+Manage tenant onboarding, infrastructure changes, and scripted automation based on predefined templates.
+Maintain containerization and orchestration technologies, including Docker and AKS, using Helm and GitOps workflows such as ArgoCD and GitHub Actions.
+Develop, maintain, and optimize CI/CD pipelines using GitHub Actions.
+Implement advanced deployment strategies, including Blue/Green and Canary deployments, to reduce downtime and operational risks.
+Create and maintain automation scripts using Python, PowerShell, and Bash to streamline repetitive tasks and infrastructure provisioning.
+Collaborate with a geographically distributed team through established development processes, regular planning sessions, sync-ups, and sprints.
+Participate in a rotating on-call schedule to handle critical incidents and maintain high service availability.
+
+
+Requirements
+
+The ideal candidate combines strong cloud infrastructure expertise with hands-on experience in automation, infrastructure management, and modern DevOps practices.
+
+
+Strong knowledge of Microsoft Azure, with practical experience using AKS, Private Link Services, Entra ID, Managed Identities, and Private Endpoints.
+Good working knowledge of AWS and its core infrastructure components, including EC2, VPC, and IAM.
+Experience with Terraform, including developing and managing reusable modules for both Azure and AWS environments.
+Solid understanding of GitOps practices and deployment automation using GitHub Actions, ArgoCD, and Helm Charts.
+Experience with Infrastructure as Code, cloud automation scripting, and cloud-based deployment processes.
+Knowledge of containerization technologies and Kubernetes-based infrastructure management.
+Ability to independently manage infrastructure changes, troubleshoot operational issues, and contribute to reliable cloud environments.
+Strong collaboration and communication skills, with the ability to work effectively within a geographically distributed team.
+
+
+Nice-to-have Certifications
+
+
+Microsoft Certified: Azure Administrator Associate (AZ-104).
+Microsoft Certified: Azure DevOps Engineer Expert (AZ-400).
+AWS Certified SysOps Administrator – Associate.
+AWS Certified DevOps Engineer – Professional.
+
+
+Benefits
+
+
+Flexible working arrangements, including remote, office-based, or hybrid options.
+Competitive salary and comprehensive compensation package.
+Personalized career development and growth opportunities.
+Professional development resources, including mentorship programs, technical talks, training sessions, and Centers of Excellence.
+Active technical communities with regular knowledge-sharing opportunities.
+Education reimbursement to support continuous learning.
+Anniversary gifts and recognition.
+Corporate events and team-building activities.
+Additional benefits depending on the employee's location.
+
+
+How Jobgether Works
+
+We use an AI-powered matching process to ensure your application is reviewed quickly, objectively, and fairly against the role's core requirements. Our system identifies the top-fitting candidates, and this shortlist is then shared directly with the hiring company. The final decision and next steps (interviews, assessments) are managed by their internal team.
+
+We appreciate your interest and wish you the best!
+
+Why Apply Through Jobgether?
+
+Data Privacy Notice: By submitting your application, you acknowledge that Jobgether will process your personal data to evaluate your candidacy and share relevant information with the hiring employer. This processing is based on legitimate interest and pre-contractual measures under applicable data protection laws (including GDPR). You may exercise your rights (access, rectification, erasure, objection) at any time.
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Internet Marketplace Platforms
+  
+
+Referrals increase your chances of interviewing at Jobgether by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Senior DevOps Engineer
+Senior DevOps Engineer
+Jobgether
+Ireland
+6 days ago
+Senior DevOps Engineer, EMEA
+Senior DevOps Engineer, EMEA
+Keeper Security, Inc.
+Ireland
+2 weeks ago
+Platform Engineer — Senior
+Platform Engineer — Senior
+EggAI Technologies
+Ireland
+1 month ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+SearchApi
+Ireland
+4 months ago
+Senior Cloud Engineer - Remote Work, End-to-End Project Ownership
+Senior Cloud Engineer - Remote Work, End-to-End Project Ownership
+TechHeads
+Ireland
+€90,000 - €110,000
+1 week ago
+Senior Platform Engineer
+Senior Platform Engineer
+Attio
+Ireland
+1 week ago
+Show more jobs like this 
+People also viewed
+Senior Cloud Engineer/ Cloud Architect
+Senior Cloud Engineer/ Cloud Architect
+
+Henry Schein
+
+Dublin, County Dublin, Ireland
+4 weeks ago
+Infrastructure Engineer, Data
+Infrastructure Engineer, Data
+
+Telnyx
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+Cloud Ops Engineer | ELN
+Cloud Ops Engineer | ELN
+
+Dotmatics
+
+Ireland
+2 weeks ago
+Platform Engineer
+Platform Engineer
+
+Mason Alexander
+
+Ireland
+3 weeks ago
+Senior Cloud Engineer
+Senior Cloud Engineer
+
+Sprinklr
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+Senior Cloud Engineer,
+Senior Cloud Engineer,
+
+Optum
+
+Dublin, County Dublin, Ireland
+1 day ago
+Senior Cloud Engineer
+Senior Cloud Engineer
+
+Optum
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+McAfee
+
+Cork, County Cork, Ireland
+1 week ago
+Cloud Engineer
+Cloud Engineer
+
+Ministry Brands
+
+Galway, County Galway, Ireland
+2 days ago
+Senior Azure Cloud Engineer
+Senior Azure Cloud Engineer
+
+Cpl
+
+Dublin, County Dublin, Ireland
+3 days ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Jobgether
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
