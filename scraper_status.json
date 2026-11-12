@@ -1,9 +1,9 @@
 {
   "pid": 41480,
   "started_at": "2026-11-13T01:12:41+02:00",
-  "heartbeat_at": "2026-11-13T01:17:14+02:00",
+  "heartbeat_at": "2026-11-13T01:21:00+02:00",
   "phase": "reviewing",
-  "detail": "Technical Program Manager",
-  "last_scrape_ok_at": "2026-11-13T01:15:04+02:00",
+  "detail": "Senior DevOps Engineer",
+  "last_scrape_ok_at": "2026-11-13T01:19:40+02:00",
   "last_error": null
 }

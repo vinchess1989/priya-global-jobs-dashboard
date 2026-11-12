@@ -1,0 +1,263 @@
+Title: Cloud and DevOps (AWS), Senior Engineer - GS26028
+Company: Activate Interactive
+Location: Singapore, Singapore
+URL: https://sg.linkedin.com/jobs/view/cloud-and-devops-aws-senior-engineer-gs26028-at-activate-interactive-4489685524
+Posted: 2026-11-12
+Deadline: N/A
+Reason: The role matches her extensive experience in CI/CD pipeline management, AWS, and release operations, located in Singapore which is among her target relocation countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Cloud and DevOps (AWS), Senior Engineer - GS26028
+Activate Interactive  Singapore, Singapore
+1 day ago  26 applicants
+  
+
+See who Activate Interactive has hired for this role
+
+Apply 
+Save
+Activate Interactive Pte Ltd ("Activate") is a leading technology consultancy headquartered in Singapore with a presence in Malaysia and Indonesia. Our clients are empowered with quality, cost-effective, and impactful end-to-end application development, like mobile and web applications, and cloud technology that remove technology roadblocks and increase their business efficiency.
+
+We believe in positively impacting the lives of people around us and the environment we live in through the use of technology. Hence, we are committed to providing a conducive environment for all employees to realize their full potential, who in turn have the opportunity to continuously drive innovation.
+
+We are searching for our next team members to join our growing team.
+
+If you love the idea of being part of a growing company with exciting prospects in mobile and web technologies that create positive impact on people's lives, then we would love to hear from you.
+
+What will you do?
+
+The Cloud and DevOps Engineer is responsible for building, automating and maintaining the cloud infrastructure and CI/CD pipelines that support the delivery of web and mobile applications. Working closely with development teams, Tech Leads and Project Managers, the role provisions and manages AWS environments, streamlines build/test/release workflows, enforces infrastructure security and compliance standards, and drives automation and continuous improvement across deployment, monitoring and incident response. The role ensures that solutions are deployed reliably, securely and efficiently, meeting client and public-sector compliance expectations.
+
+
+Design, build and maintain CI/CD pipelines (e.g., GitLab CI, Jenkins, GitHub Actions, AWS CodePipeline) for automated build, test and deployment across environments.
+Provision, configure and manage AWS cloud infrastructure (e.g., EC2, ECS/EKS, Lambda, RDS, S3, VPC, IAM, CloudFront) using infrastructure-as-code.
+Automate infrastructure provisioning and configuration using tools such as Terraform, CloudFormation or Ansible.
+Manage containerization and orchestration (Docker, Kubernetes/ECS) for application workloads.
+Set up and maintain monitoring, logging and alerting (e.g., CloudWatch, Grafana, Prometheus, ELK) to ensure system availability and performance.
+Implement and enforce security best practices across infrastructure and pipelines, including IAM policies, secrets management, patching and vulnerability remediation.
+Support release management activities, coordinating deployments and rollbacks with development and project teams.
+Manage and optimize cloud costs, environments and resource utilization.
+Troubleshoot infrastructure, deployment and environment issues across development, staging and production.
+Document infrastructure architecture, pipeline configurations, operational procedures and runbooks.
+Support compliance with public-sector security requirements and participate in security audits and reviews
+
+
+Requirements
+
+Domain Skills
+
+
+Strong hands-on experience with AWS cloud services (compute, storage, networking, IAM, databases).
+Proven experience building and maintaining CI/CD pipelines (GitLab CI, Jenkins, GitHub Actions or AWS CodePipeline).
+Proficiency in infrastructure-as-code tools such as Terraform or CloudFormation.
+Experience with containerization and orchestration (Docker, Kubernetes or Amazon ECS/EKS).
+Scripting proficiency (Bash, Python or similar) for automation.
+Knowledge of monitoring and logging tools (CloudWatch, Grafana, Prometheus, ELK stack).
+Solid understanding of networking, DNS, load balancing and security concepts in cloud environments.
+Proficient with version control systems, particularly Git and branching strategies.
+Familiarity with deploying and supporting web and mobile application stacks (e.g., Node.js, ReactJS) is advantageous
+
+
+Education and Certification
+
+Compulsory (Must-have):
+
+
+Bachelor's Degree or Diploma in Computer Science, Information Technology, Software Engineering or a related discipline.
+
+
+Desirable (Good-to-have):
+
+
+AWS certification (e.g., AWS Certified Solutions Architect - Associate, AWS Certified DevOps Engineer).
+Certification in Kubernetes (CKA/CKAD) or Terraform
+
+
+Role Requirements
+
+
+3-5 years of hands-on DevOps / cloud infrastructure experience, primarily on AWS.
+Proven experience implementing and operating CI/CD pipelines in a team delivery environment.
+Experience with infrastructure-as-code and container-based deployments.
+
+
+Benefits
+
+What do we offer in return?
+
+
+Fun working environment
+Employee Wellness Program
+To work in Singapore Government Agencies projects
+We provide structured development framework and growth opportunities. (We are a "SHRI 2025 Gold winner" in "Learning & Development; Coaching & Mentoring")
+
+
+Why you'll love working with us?
+
+If you are looking for opportunities to collaborate with leading industry experts and be surrounded by highly motivated and talented peers, we welcome you to join us. We provide all employees with equal opportunities to grow and develop with us. We believe your success is our success.
+
+Does it sound like something you are interested in exploring further? Please be in touch with our team for an initial chat at careers@activate.sg
+
+Activate Interactive Singapore is an equal opportunity employer. Employment decisions will be based on merit, qualifications and abilities. Activate Interactive Pte Ltd does not discriminate in employment opportunities or practices on the basis of race, colour, religion, gender, sexuality, national origin, age, disability, marital status or any other characteristics protected by law.
+
+Protecting your privacy and the security of your data are longstanding top priorities for Activate Interactive Pte Ltd.
+
+Your personal data will be processed for the purposes of managing Activate Interactive Pte Ltd's recruitment related activities, which include setting up and conducting interviews and tests for applicants, evaluating and assessing the results, and as is otherwise needed in the recruitment and hiring processes.
+
+Please consult our Privacy Notice (https://www.activate.sg/privacy-policy) to know more about how we collect, use, and transfer the personal data of our candidates. Here you can find how you can request for access, correction and/or withdrawal of your Personal Data.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Activate Interactive by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+SearchApi
+Singapore
+4 months ago
+Senior Platform Engineer
+Senior Platform Engineer
+Razer
+Singapore
+3 weeks ago
+Senior Cloud Platform Engineer
+Senior Cloud Platform Engineer
+SPH Media
+Singapore, Singapore
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Vanguard Software
+Singapore, Singapore
+1 week ago
+Senior Platform Infrastructure Engineer, NEA
+Senior Platform Infrastructure Engineer, NEA
+GovTech Singapore
+Singapore, Singapore
+2 weeks ago
+Senior Devops Engineer
+Senior Devops Engineer
+Grab
+Singapore, Singapore
+1 week ago
+Show more jobs like this 
+People also viewed
+Cloud Infrastructure Engineer
+Cloud Infrastructure Engineer
+
+HCLTech
+
+Singapore, Singapore
+1 week ago
+Senior Engineer for System and Cloud Infrastructure
+Senior Engineer for System and Cloud Infrastructure
+
+StarHub
+
+Singapore, Singapore
+2 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Alpaca
+
+Singapore
+2 days ago
+Cloud Site Reliability Engineer (SRE)
+Cloud Site Reliability Engineer (SRE)
+
+Singapore Pools
+
+Singapore, Singapore
+9 hours ago
+Consultant/Sr. Consultant - Cloud Engineer
+Consultant/Sr. Consultant - Cloud Engineer
+
+Slalom
+
+Singapore, Singapore
+3 weeks ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+Momcozy
+
+Singapore, Singapore
+13 hours ago
+Senior Cloud Site Reliability Engineer
+Senior Cloud Site Reliability Engineer
+
+Solace
+
+Singapore, Singapore
+2 months ago
+Senior Software Engineer, Infrastructure
+Senior Software Engineer, Infrastructure
+
+HUD
+
+Singapore, Singapore
+$105,000 - $260,000
+1 month ago
+DevOps Engineer
+DevOps Engineer
+
+Ambition
+
+Singapore, Singapore
+SGD 7,000 - SGD 8,000
+2 weeks ago
+Senior Cloud Data Infrastructure Engineer (APJ Remote)
+Senior Cloud Data Infrastructure Engineer (APJ Remote)
+
+ClickHouse
+
+Singapore, Singapore
+2 days ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
