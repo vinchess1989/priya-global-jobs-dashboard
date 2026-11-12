@@ -1,12 +1,9 @@
 {
-  "pid": 47988,
-  "started_at": "2026-11-12T01:12:42+02:00",
-  "heartbeat_at": "2026-11-12T02:25:18+02:00",
-  "phase": "run_finished",
-  "detail": "94 lower-yield targets and 0 jobs left for the next run",
-  "last_scrape_ok_at": "2026-11-12T02:25:08+02:00",
-  "last_error": {
-    "at": "2026-11-12T02:22:33+02:00",
-    "message": "cv_library_technical_writer: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://www.cv-library.co.uk/technical-writer-jobs\", waiting until \"load\"\n"
-  }
+  "pid": 41480,
+  "started_at": "2026-11-13T01:12:41+02:00",
+  "heartbeat_at": "2026-11-13T01:17:14+02:00",
+  "phase": "reviewing",
+  "detail": "Technical Program Manager",
+  "last_scrape_ok_at": "2026-11-13T01:15:04+02:00",
+  "last_error": null
 }

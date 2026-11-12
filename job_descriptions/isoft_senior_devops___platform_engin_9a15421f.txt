@@ -1,0 +1,263 @@
+Title: Senior DevOps / Platform Engineer
+Company: iSOFT
+Location: Sydney, New South Wales, Australia
+URL: https://au.linkedin.com/jobs/view/senior-devops-platform-engineer-at-isoft-4489200390
+Posted: 2026-11-13
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in DevOps, CI/CD pipeline ownership, and configuration management within regulated environments, and it is located in an eligible country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps / Platform Engineer
+iSOFT  Sydney, New South Wales, Australia
+13 hours ago   Be among the first 25 applicants
+  
+
+See who iSOFT has hired for this role
+
+Apply
+Save
+
+Direct message the job poster from iSOFT
+
+Sarah Hamilton
+Sarah Hamilton
+
+About the Role
+
+We are seeking an experienced Senior DevOps / Platform Engineer to support the engineering, integration and operationalisation of enterprise data and intelligence platforms.
+
+The role requires strong hands-on expertise in Microsoft Azure, Snowflake, CI/CD, Infrastructure as Code and DevSecOps. The successful candidate will work closely with centralised platform and data engineering teams, leveraging established engineering patterns, pipelines, security controls and operational processes.
+
+
+
+
+Key Responsibilities
+
+Design, develop and maintain CI/CD pipelines for application, data and platform workloads.
+Automate build, testing, security scanning and deployment processes across development, test and production environments.
+Implement Infrastructure as Code using Terraform and Git-based workflows.
+Support Azure cloud engineering, Snowflake platform configuration, workload deployment, RBAC and secure connectivity.
+Implement secure integration between Snowflake, enterprise data sources, cloud services and downstream applications.
+Embed DevSecOps practices, security controls, approvals and audit requirements into deployment pipelines.
+Support deployment and operationalisation of data, analytics, Snowflake Cortex, LLM and AI capabilities.
+Implement monitoring, logging, observability, resilience and production support processes.
+Collaborate with centralised platform, data engineering, development and security teams to adopt reusable engineering patterns and minimise configuration drift.
+
+
+
+
+Mandatory Skills & Experience
+
+10+ years of experience in DevOps, Platform Engineering or Cloud Engineering.
+Strong hands-on expertise in Microsoft Azure and Snowflake platform engineering.
+Experience with CI/CD tools such as GitHub Actions, Jenkins or Azure DevOps.
+Strong experience in Infrastructure as Code, particularly Terraform.
+Proficiency in Git, Python, Bash and/or PowerShell automation.
+Experience with cloud security, identity and access management, secrets management and private connectivity.
+Practical experience implementing DevSecOps in large, complex or regulated environments.
+Experience with monitoring, logging, troubleshooting and production support.
+Ability to work within established enterprise engineering standards and centrally managed platform capabilities.
+
+
+
+
+Good to Have
+
+Experience with AWS and/or GCP.
+Exposure to data engineering, analytics, dbt or Snowflake data pipelines.
+Experience with Snowflake Cortex, AI/ML, LLM or agentic AI platforms.
+Banking or financial services experience.
+Familiarity with Docker and Kubernetes.
+
+
+
+
+Ideal Candidate
+
+A hands-on DevOps / Platform Engineer with strong Azure, Snowflake and Terraform expertise, capable of delivering secure, automated and scalable platform solutions while working within established enterprise engineering and governance frameworks.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Contract
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at iSOFT by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Site Reliability Engineer jobs
+Senior DevOps / Platform Engineer
+Similar jobs
+Platform Engineer
+Platform Engineer
+Akuna Capital
+Sydney, New South Wales, Australia
+1 month ago
+Senior Platform Engineer
+Senior Platform Engineer
+Blinq
+Sydney, New South Wales, Australia
+2 days ago
+Senior Platform Engineer
+Senior Platform Engineer
+Mitti by SafetyCulture
+Sydney, New South Wales, Australia
+6 days ago
+Senior Platform Engineer
+Senior Platform Engineer
+Nine
+North Sydney, New South Wales, Australia
+6 days ago
+DevOps Engineer
+DevOps Engineer
+Cloud Raptor
+Sydney, New South Wales, Australia
+A$150,000 - A$170,000
+4 weeks ago
+Senior Platform Engineer
+Senior Platform Engineer
+Reserve Bank of Australia
+Sydney, New South Wales, Australia
+2 days ago
+Show more jobs like this 
+People also viewed
+Senior Software DevOps Engineer
+Senior Software DevOps Engineer
+
+SITA
+
+Sydney, New South Wales, Australia
+1 week ago
+Senior Kubernetes Platform Engineer
+Senior Kubernetes Platform Engineer
+
+Talenza
+
+Sydney, New South Wales, Australia
+2 weeks ago
+Senior DevOps Engineer (Azure, Platform & AI)
+Senior DevOps Engineer (Azure, Platform & AI)
+
+Hays
+
+Sydney, New South Wales, Australia
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+Wipro
+
+Greater Sydney Area
+2 weeks ago
+Staff Infrastructure Platform Engineer
+Staff Infrastructure Platform Engineer
+
+GRIDSIGHT
+
+Sydney, New South Wales, Australia
+4 weeks ago
+Principal Cloud Platform Engineer
+Principal Cloud Platform Engineer
+
+Nearmap
+
+Greater Sydney Area
+2 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Australian Payments Plus
+
+Sydney, New South Wales, Australia
+1 month ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+RELX
+
+St Leonards, New South Wales, Australia
+12 hours ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+Canonical
+
+Sydney, New South Wales, Australia
+1 day ago
+Platform Engineer
+Platform Engineer
+
+BIG W
+
+Sydney, New South Wales, Australia
+6 days ago
+Similar Searches
+Site Reliability Engineer jobs
+3,532 open jobs
+Platform Architect jobs
+1,605 open jobs
+Build And Release Engineer jobs
+578 open jobs
+Infrastructure Engineer jobs
+2,368 open jobs
+Linux Engineer jobs
+790 open jobs
+Senior Infrastructure Engineer jobs
+925 open jobs
+Virtualization Engineer jobs
+595 open jobs
+Cloud Architect jobs
+1,606 open jobs
+Pipeline Engineer jobs
+1,171 open jobs
+Contract Database Administrator jobs
+31 open jobs
+Chief Software Engineer jobs
+736 open jobs
+Senior Reliability Engineer jobs
+122 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at iSOFT
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
