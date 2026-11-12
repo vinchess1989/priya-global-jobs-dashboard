@@ -1,9 +1,9 @@
 {
   "pid": 41480,
   "started_at": "2026-11-13T01:12:41+02:00",
-  "heartbeat_at": "2026-11-13T01:36:00+02:00",
+  "heartbeat_at": "2026-11-13T01:38:46+02:00",
   "phase": "reviewing",
-  "detail": "Process Optimisation Engineer",
-  "last_scrape_ok_at": "2026-11-13T01:35:03+02:00",
+  "detail": "Document Controller",
+  "last_scrape_ok_at": "2026-11-13T01:37:42+02:00",
   "last_error": null
 }
