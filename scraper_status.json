@@ -1,9 +1,9 @@
 {
   "pid": 41480,
   "started_at": "2026-11-13T01:12:41+02:00",
-  "heartbeat_at": "2026-11-13T02:18:22+02:00",
+  "heartbeat_at": "2026-11-13T02:20:40+02:00",
   "phase": "reviewing",
-  "detail": "Editorial Assistant",
-  "last_scrape_ok_at": "2026-11-13T02:16:53+02:00",
+  "detail": "Technical Writer",
+  "last_scrape_ok_at": "2026-11-13T02:19:36+02:00",
   "last_error": null
 }
