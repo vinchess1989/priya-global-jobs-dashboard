@@ -1,0 +1,259 @@
+Title: DevOps Engineer
+Company: Miratech
+Location: Bengaluru, Karnataka, India
+URL: https://in.linkedin.com/jobs/view/devops-engineer-at-miratech-4483062663
+Posted: 2026-10-31
+Deadline: Open until filled
+Reason: The role aligns with the candidate's DevOps and CI/CD expertise, is located in an eligible country (India), and does not violate any hard rejection criteria.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+Miratech  Bengaluru, Karnataka, India
+2 weeks ago   Over 200 applicants
+  
+
+See who Miratech has hired for this role
+
+Apply
+Save
+Miratech helps visionaries change the world. We are a global IT services and consulting company that brings together enterprise and start-up innovation. Today, we support digital transformation for some of the world's largest enterprises. By partnering with both large and small players, we stay at the leading edge of technology, remain nimble even as a global leader, and create technology that helps our clients further enhance their business. We are a valuesdriven organization and our culture of Relentless Performance has enabled over 99% of Miratech's engagements to succeed by meeting or exceeding our scope, schedule, and/or budget objectives since our inception in 1989.
+
+Miratech has coverage across 5 continents and operates in 25 countries around the world. Miratech retains nearly 1000 full-time professionals, and our annual growth rate exceeds 25%.
+
+Job Description
+
+We are seeking a skilled and experienced DevOps Engineer with 4+ years of experience to join our dynamic team. The ideal candidate will be responsible for designing, deploying and managing AWS cloud infrastructure while ensuring scalability, reliability and security across multiple environments. This role involves building and maintaining Infrastructure as Code (IaC) using Terraform Enterprise, hosted on GitHub Enterprise and integrated with robust CI/CD pipelines.
+
+Responsibilities
+
+
+Deploy, manage, and maintain AWS infrastructure across development, staging, and production environments
+Work with AWS services including Amazon Connect, Lambda, S3, EventBridge and Data Bridges
+Build and maintain scalable, reusable and secure Infrastructure as Code (IaC) using Terraform Enterprise
+Develop, implement and manage CI/CD pipelines for automated application and infrastructure deployments
+Collaborate with cross-functional teams to ensure highly available, secure and performant cloud solutions
+Monitor, troubleshoot and optimize cloud infrastructure and deployment processes
+Maintain clean, well-documented and reusable infrastructure code aligned with best practices and organizational standards
+Participate in code reviews and contribute to infrastructure design discussions
+
+
+Qualifications
+
+
+4+ years of experience in DevOps, Cloud Engineering or Platform Engineering
+Strong hands-on experience with AWS services and cloud infrastructure
+3+ year of experience in Python scripting/automation and GitHub actions.
+Expertise in Terraform Enterprise and Infrastructure as Code (IaC) principles
+Experience with CI/CD tools such as Jenkins, GitHub Actions, or similar platforms
+Strong understanding of Git/GitHub workflows and version control best practices
+Experience with cloud infrastructure deployment and automation strategies
+
+
+Nice to Have
+
+
+AWS Certifications (Solutions Architect, DevOps Engineer or equivalent)
+Familiarity with Agile methodologies and tools such as Jira
+Experience with monitoring and logging tools such as CloudWatch, Grafana or similar solutions
+Understanding of security best practices in cloud environments
+
+
+Additional Information
+
+We offer:
+
+
+Culture of Relentless Performance: join an unstoppable technology development team with a 99% project success rate and more than 30% year-over-year revenue growth.
+Competitive Pay and Benefits: enjoy a comprehensive compensation and benefits package, including health insurance, language courses, and a relocation program.
+Work From Anywhere Culture: make the most of the flexibility that comes with remote work.
+Growth Mindset: reap the benefits of a range of professional development opportunities, including certification programs, mentorship and talent investment programs, internal mobility and internship opportunities.
+Global Impact: collaborate on impactful projects for top global clients and shape the future of industries.
+Welcoming Multicultural Environment: be a part of a dynamic, global team and thrive in an inclusive and supportive work environment with open communication and regular team-building company social events.
+Social Sustainability Values: join our sustainable business practices focused on five pillars, including IT education, community empowerment, fair operating practices, environmental sustainability, and gender equality.
+Miratech is an equal opportunity employer and does not discriminate against any employee or applicant for employment on the basis of race, color, religion, sex, national origin, age, disability, veteran status, sexual orientation, gender identity, or any other protected status under applicable law.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development and IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Miratech by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Bengaluru, Karnataka, India.
+
+Sign in to create job alert
+Jobs
+Lead Application Developer jobs
+DevOps Engineer
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+Outmarket AI
+India
+3 months ago
+DevOps Engineer
+DevOps Engineer
+GoQuant
+India
+5 months ago
+Site Reliability Engineer
+Site Reliability Engineer
+Sophos
+India
+1 week ago
+DevOps Engineer
+DevOps Engineer
+TriluxTech
+India
+1 week ago
+DevOps Engineer
+DevOps Engineer
+Moneytos
+India
+1 week ago
+AWS DevOps Engineer
+AWS DevOps Engineer
+Stadium
+India
+3 months ago
+Show more jobs like this 
+People also viewed
+Site Reliability Engineer, Cells Infrastructure
+Site Reliability Engineer, Cells Infrastructure
+
+GitLab
+
+Bengaluru, Karnataka, India
+3 days ago
+Platform Engineer I
+Platform Engineer I
+
+Precisely
+
+India
+1 week ago
+Platform Engineer II
+Platform Engineer II
+
+Precisely
+
+India
+2 weeks ago
+Senior DevOps and Infrastructure Engineer
+Senior DevOps and Infrastructure Engineer
+
+NVIDIA
+
+India
+1 week ago
+AI-Native Platform Engineer - DevOps, Security & Compliance | Zenara Health
+AI-Native Platform Engineer - DevOps, Security & Compliance | Zenara Health
+
+Zenara Health
+
+India
+3 weeks ago
+Senior DevOps Engineer – Infrastructure & Platform
+Senior DevOps Engineer – Infrastructure & Platform
+
+Rocket Learning
+
+India
+4 weeks ago
+Sr. DevOps Engineer
+Sr. DevOps Engineer
+
+Saaki Argus and Averil Consulting
+
+India
+3 days ago
+Site Reliability Engineer - India
+Site Reliability Engineer - India
+
+JumpCloud
+
+Bengaluru East, Karnataka, India
+3 weeks ago
+L2L3 DevOps / Cloud / Platform Support Engineer_100% Remote
+L2L3 DevOps / Cloud / Platform Support Engineer_100% Remote
+
+VGreen Technology Solutions (VGreenTEK)
+
+Bengaluru North, Karnataka, India
+17 hours ago
+Azure DevOps Engineer - Remote - India
+Azure DevOps Engineer - Remote - India
+
+FullStack
+
+India
+2 weeks ago
+Similar Searches
+Lead Application Developer jobs
+7,956 open jobs
+Software Associate jobs
+589 open jobs
+Group Managing Director jobs
+258 open jobs
+Web Engineer jobs
+22,653 open jobs
+Director of Technology Operations jobs
+175 open jobs
+Public Relations Officer jobs
+1,025 open jobs
+Network Sales Engineer jobs
+674 open jobs
+Land Acquisition Manager jobs
+50 open jobs
+Lead Data Architect jobs
+650 open jobs
+Purchasing Analyst jobs
+1,363 open jobs
+Technical Sales Manager jobs
+2,776 open jobs
+Storage Administrator jobs
+1,497 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Miratech
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

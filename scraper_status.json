@@ -1,9 +1,9 @@
 {
-  "pid": 41480,
-  "started_at": "2026-11-13T01:12:41+02:00",
-  "heartbeat_at": "2026-11-13T02:26:40+02:00",
-  "phase": "run_finished",
-  "detail": "108 lower-yield targets and 0 jobs left for the next run",
-  "last_scrape_ok_at": "2026-11-13T02:26:31+02:00",
+  "pid": 46312,
+  "started_at": "2026-11-14T01:14:05+02:00",
+  "heartbeat_at": "2026-11-14T01:17:11+02:00",
+  "phase": "reviewing",
+  "detail": "Product Manager - Cloud Foundations (Cloud Service Enablement)",
+  "last_scrape_ok_at": "2026-11-14T01:16:08+02:00",
   "last_error": null
 }

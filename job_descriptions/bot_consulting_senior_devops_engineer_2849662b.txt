@@ -1,0 +1,250 @@
+Title: Senior DevOps Engineer
+Company: BOT Consulting
+Location: Jaipur, Rajasthan, India
+URL: https://in.linkedin.com/jobs/view/senior-devops-engineer-at-bot-consulting-4490594859
+Posted: 2026-11-14
+Deadline: N/A
+Reason: The role aligns with the candidate's extensive experience in DevOps, CI/CD, and infrastructure management, and it is located in India, which is one of her target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer
+BOT Consulting  Jaipur, Rajasthan, India
+12 hours ago   Be among the first 25 applicants
+  
+
+See who BOT Consulting has hired for this role
+
+Apply 
+Save
+About AllCloud
+
+AllCloud is a leader in amplifying organizations’ cloud potential through AI. With a track record of hundreds of successful migrations and implementations across AWS and Salesforce, AllCloud has developed strategies and solutions that enable businesses of all sizes to remain at the forefront of innovation.
+
+AllCloud is a leader in AI-led professional and managed services. As an AWS Premier and audited managed services Partner, and Salesforce Consulting partner, AllCloud provides comprehensive AI-led cloud journey support, from initial migration to ongoing management through our Engage Managed Services. Our expertise ensures that clients remain aligned with ecosystem best practices while focusing on their core business growth.
+
+AllCloud serves clients across the globe with offices in EMEA and North America. www.allcloud.io
+
+About The Role
+
+We are looking for an experienced DevOps Engineer with 6+ years of experience in managing Kubernetes infrastructure, AWS EKS clusters, and cloud-native deployment environments. The ideal candidate will have strong hands-on expertise in EKS upgrades, infrastructure as code, GitOps workflows, and Kubernetes workload management, with a focus on ensuring platform stability, availability, and operational efficiency.
+
+Key Responsibilities
+
+
+Manage and execute AWS EKS cluster upgrades, ensuring Kubernetes version compatibility, version skew compliance, and compatibility of cluster add-ons.
+Review and validate Terraform plans through Spacelift, ensuring infrastructure changes are safe, reliable, and aligned with operational standards.
+Manage GitOps-based deployments using Argo CD, including manual application synchronization, deployment validation, and troubleshooting synchronization issues.
+Operate and maintain Karpenter for Kubernetes node provisioning, lifecycle management, scaling, and AMI updates.
+Ensure Kubernetes workload availability during maintenance and upgrades by managing Pod Disruption Budgets (PDBs), node draining, workload rescheduling, and rollback procedures.
+Work with Helm charts to manage Kubernetes application deployments, configurations, and release updates.
+Troubleshoot cluster-level issues, deployment failures, and infrastructure-related incidents while maintaining platform reliability.
+Follow established change management and operational best practices to minimize service disruption during infrastructure upgrades and deployments.
+
+
+Requirements
+
+Required Skills & Experience
+
+
+6+ years of experience in DevOps, Site Reliability Engineering (SRE), Platform Engineering, or Cloud Infrastructure Engineering.
+Strong hands-on experience with AWS EKS and Kubernetes cluster upgrades, including version skew policies and add-on compatibility.
+Strong experience with Terraform and reviewing infrastructure change plans using Spacelift.
+Practical experience with Argo CD and GitOps workflows, including manual application syncs and deployment troubleshooting.
+Hands-on experience with Karpenter, Kubernetes node lifecycle management, and AMI management.
+Strong understanding of Kubernetes availability, Pod Disruption Budgets (PDBs), node draining, workload disruption management, and rollback procedures.
+Working knowledge of Helm for managing and deploying Kubernetes applications.
+
+
+Preferred Qualifications
+
+
+Experience operating production-grade Kubernetes environments on AWS.
+Understanding of infrastructure change management, deployment safety, and cluster maintenance best practices.
+Strong troubleshooting, analytical, and incident-resolution skills.
+Ability to collaborate with engineering and platform teams to maintain reliable and scalable infrastructure.
+
+
+Signs you may be a great fit
+
+
+Impact: Play a pivotal role in shaping a rapidly growing venture studio.
+Culture: Thrive in a collaborative, innovative environment that values creativity and ownership.
+Growth: Access professional development opportunities and mentorship.
+Benefits: Competitive salary, health/wellness packages, and flexible work options.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at BOT Consulting by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Jaipur, Rajasthan, India.
+
+Sign in to create job alert
+Jobs
+Sales Manager jobs
+Senior DevOps Engineer
+Similar jobs
+Senior Devops Engineer
+Senior Devops Engineer
+PAR Technology
+Jaipur, Rajasthan, India
+14 hours ago
+Infrastructure Engineer
+Infrastructure Engineer
+Asymbl
+Jaipur, Rajasthan, India
+2 weeks ago
+SDE II - DevOps Engineer
+SDE II - DevOps Engineer
+Auriga IT
+Jaipur, Rajasthan, India
+3 weeks ago
+DevOps Engineer
+DevOps Engineer
+Celebal Technologies
+Jaipur, Rajasthan, India
+1 week ago
+DevOps / Cloud Engineer
+DevOps / Cloud Engineer
+Cynbit Technologies
+Jaipur, Rajasthan, India
+3 months ago
+AWS DevOps Engineer in Jaipur
+AWS DevOps Engineer in Jaipur
+HJ Infotech
+Jaipur, Rajasthan, India
+2 weeks ago
+Show more jobs like this 
+People also viewed
+AI Native Software Engineer
+AI Native Software Engineer
+
+Accenture in India
+
+Jaipur, Rajasthan, India
+1 month ago
+Senior QE Engineer
+Senior QE Engineer
+
+PAR Technology
+
+Jaipur, Rajasthan, India
+6 days ago
+Infra Tech Support Practitioner
+Infra Tech Support Practitioner
+
+Accenture in India
+
+Jaipur, Rajasthan, India
+1 month ago
+AI Native Software Engineer
+AI Native Software Engineer
+
+Accenture in India
+
+Jaipur, Rajasthan, India
+1 month ago
+AI Native Software Engineer
+AI Native Software Engineer
+
+Accenture in India
+
+Jaipur, Rajasthan, India
+1 month ago
+Business Process Architect
+Business Process Architect
+
+Accenture in India
+
+Jaipur, Rajasthan, India
+1 month ago
+Business Process Architect
+Business Process Architect
+
+Accenture in India
+
+Jaipur, Rajasthan, India
+1 month ago
+Business Process Architect
+Business Process Architect
+
+Accenture in India
+
+Jaipur, Rajasthan, India
+1 month ago
+Business Process Architect
+Business Process Architect
+
+Accenture in India
+
+Jaipur, Rajasthan, India
+1 month ago
+Business Process Architect
+Business Process Architect
+
+Accenture in India
+
+Jaipur, Rajasthan, India
+1 month ago
+Similar Searches
+Sales Manager jobs
+15,201 open jobs
+Android Developer jobs
+14,001 open jobs
+Chief Technology Officer jobs
+1,976 open jobs
+Developer jobs
+73,513 open jobs
+Data Engineer jobs
+28,941 open jobs
+Product Manager jobs
+16,225 open jobs
+Software Engineer jobs
+59,663 open jobs
+Engineer jobs
+71,158 open jobs
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at BOT Consulting
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
