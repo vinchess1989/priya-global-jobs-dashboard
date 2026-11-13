@@ -1,0 +1,259 @@
+Title: Senior Systems Specialist
+Company: ASB Bank
+Location: Auckland, New Zealand
+URL: https://nz.linkedin.com/jobs/view/senior-systems-specialist-at-asb-bank-4487822866
+Posted: 2026-11-11
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in configuration management, release management, and operational automation within a regulated environment.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Systems Specialist
+ASB Bank  Auckland, New Zealand
+3 days ago  32 applicants
+  
+
+See who ASB Bank has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Kia ora, Talofa lava, Kia Orana, Malo e lelei, Fakalofa lahi atu, Bula Vinaka and Namaste!
+
+Location: ASB C: Drive Albany, Tāmaki Makaurau / Auckland
+
+Employment Type: Permanent, full time
+
+Mō Mātou | About us
+
+At ASB, we believe progress is more than just financial - it's about helping New Zealanders, communities, and our environment thrive together. We're a purpose-led organisation with a proud history and a clear vision: to support Kiwis in getting one step ahead. Our work is guided by strong values - care, courage and curiosity - and brought to life by a diverse team of people who genuinely care about making a difference.
+
+As one of Aotearoa's most trusted banking partners, we combine the stability and scale of a large organisation with a culture that ensures you're recognised as an individual. Your ideas, your growth, and your contribution matter here - and you'll be supported to do meaningful work that has a real impact, every day.
+
+Mō te tūranga | About the role
+
+Join ASB's ATM Squad as a Senior Systems Specialist within Site Reliability Engineering. You'll help deliver and support a secure, reliable and high-performing ATM ecosystem that provides critical services to our customers across New Zealand.
+
+You'll work in a diverse and supportive squad where people are empowered to make decisions, grow their agile mindset and solve complex problems at enterprise scale. While the environment is large and business-critical, the squad owns its priorities, so your voice will be heard and your technical judgment valued.
+
+In This Role, You Will
+
+
+Provide technical expertise and ownership across the ATM fleet and the infrastructure and services that support it.
+Provide technical leadership across the operational management, support and continuous improvement of the ATM environment.
+Analyse and optimise the environment for availability, reliability, security, resilience and scalability.
+Monitor platform and fleet health, investigate incidents and problems, and drive issues through to lasting resolution.
+Deliver safe production changes, software deployments, patching and platform lifecycle activities.
+Demonstrate outstanding customer service, build trusted stakeholder relationships and lead by example.
+
+
+Ngā mea kia whai angitū ahau? | What will help me succeed?
+
+You'll bring proven initiative, strong problem-solving capability and the confidence to lead from your position. We work in agile, cross-functional teams, so you'll be comfortable moving across different facets of engineering and collaborating with technical and business partners.
+
+Essential Experience
+
+
+Windows Server and Windows endpoint administration in a complex enterprise environment.
+Microsoft Configuration Manager (SCCM/MECM), including patch management, application packaging, software deployment, collections and compliance baselines.
+PowerShell scripting and practical automation of operational and deployment activities.
+Active Directory, DNS, DHCP, Group Policy and certificate management.
+Enterprise networking, including LAN, WAN, firewall, load balancer and telecommunications dependencies.
+Monitoring, alerting, log analysis, observability and operational health reporting.
+Incident, problem, change, vulnerability, risk and control management in a regulated environment.
+Production troubleshooting, root-cause analysis, documentation and runbook development.
+Working with vendors, infrastructure teams and business stakeholders to support critical services.
+
+
+Desirable Experience
+
+
+Experience supporting ATMs, payments platforms or another nationally distributed device fleet.
+Experience with ATM software deployment, gold-build management, ATM security controls or device peripherals.
+Azure DevOps, CI/CD pipelines, Git or Infrastructure as Code practices.
+Linux administration, container platforms or orchestration technologies.
+VMware, Hyper-V or other enterprise virtualisation technologies.
+High availability, failover, service continuity and disaster recovery testing.
+Experience working in an Agile environment using Kanban or Scrum.
+Relevant Microsoft, Azure, ITIL or security certifications.
+
+
+Working arrangements
+
+This Auckland-based role supports hybrid working, with regular attendance at C:Drive and the ATM lab required for collaboration, testing, maintenance and deployment activities. Planned after-hours work and participation in an on-call roster may also be required.
+
+He aha tā mātou | What can we offer
+
+Get the work-life equation right. We know life is full of priorities, from soccer practice to side hobbies. We're here to help you find balance, with a flexible and supportive working environment.
+
+What's important to you is important to us. We support your wellbeing in meaningful ways, including comprehensive health insurance, wellness initiatives, parental and flexible leave, and customisable benefits to suit your lifestyle.
+
+Bring your whole self to work every day. Whether you're into scrapbooking, spontaneous karaoke sessions, or just hanging out with the family, ASB is working hard to create a culture where everyone feels safe, included and part of our shared purpose of helping Kiwis get one step ahead.
+
+The whole "one step ahead" thing applies to you, too. With mentorship, flexible learning pathways, and opportunities to deepen your expertise, ASB is a place where you can take on exciting challenges and step forward to reach your goals, both in and out of the office.
+
+Me pēhea te tono | How to apply?
+
+We know great people come from all sorts of backgrounds, and you don't need to tick every box to apply. What matters most is that you bring your unique strengths and enthusiasm to the team.
+
+To be considered, all applications need to go through our online career channels and will be treated with confidentiality. Check out the position description to find out more.
+
+We appreciate the time and effort you put into applying and will keep you updated throughout the process.
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Industries
+Banking, Financial Services, and Investment Banking
+  
+
+Referrals increase your chances of interviewing at ASB Bank by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Senior Systems Analyst
+Senior Systems Analyst
+Air New Zealand
+Auckland, Auckland, New Zealand
+5 days ago
+Systems Administrator
+Systems Administrator
+Fisher & Paykel Healthcare
+Auckland, Auckland, New Zealand
+3 weeks ago
+Systems Administrator
+Systems Administrator
+Tribe Group
+Auckland, Auckland, New Zealand
+2 weeks ago
+Principal Systems Engineer
+Principal Systems Engineer
+NZ Transport Agency Waka Kotahi
+Auckland, Auckland, New Zealand
+1 week ago
+Systems Engineer (L3 Support)
+Systems Engineer (L3 Support)
+First Focus
+Auckland, Auckland, New Zealand
+1 month ago
+Senior Operations Analyst
+Senior Operations Analyst
+Arup
+Auckland, Auckland, New Zealand
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Cybersecurity Identity Specialist - Intermediate and Senior
+Cybersecurity Identity Specialist - Intermediate and Senior
+
+Air New Zealand
+
+Auckland, Auckland, New Zealand
+2 weeks ago
+HR Systems Partner
+HR Systems Partner
+
+The Warehouse Group
+
+Auckland, Auckland, New Zealand
+1 week ago
+Technical Lead Platform Engineering
+Technical Lead Platform Engineering
+
+Auckland Council
+
+Auckland, Auckland, New Zealand
+2 days ago
+Technical Delivery Lead
+Technical Delivery Lead
+
+Westpac New Zealand
+
+Auckland, New Zealand
+1 week ago
+IT Operations & Security Engineer - Google Workspace
+IT Operations & Security Engineer - Google Workspace
+
+TracPlus
+
+Auckland, New Zealand
+4 days ago
+Infrastructure & Platforms Lead
+Infrastructure & Platforms Lead
+
+TVNZ
+
+Auckland, Auckland, New Zealand
+1 week ago
+Data Center Technician
+Data Center Technician
+
+Microsoft
+
+Auckland, Auckland, New Zealand
+2 weeks ago
+Intelligence Specialist
+Intelligence Specialist
+
+Royal New Zealand Air Force
+
+Auckland, Auckland, New Zealand
+7 months ago
+Customer IT Support Specialist
+Customer IT Support Specialist
+
+Olympus Corporation
+
+Auckland, Auckland, New Zealand
+3 weeks ago
+Software Support Specialist - ANZ
+Software Support Specialist - ANZ
+
+Elekta
+
+Auckland, Auckland, New Zealand
+2 weeks ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
