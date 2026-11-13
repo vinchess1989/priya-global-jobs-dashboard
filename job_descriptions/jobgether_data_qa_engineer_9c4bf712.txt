@@ -1,0 +1,275 @@
+Title: Data QA Engineer
+Company: Jobgether
+Location: South Africa
+URL: https://za.linkedin.com/jobs/view/data-qa-engineer-at-jobgether-4489559236
+Posted: 2026-11-14
+Deadline: Open until filled
+Reason: The role aligns with the candidate's quality assurance and technical background, is located in a target country (South Africa), and does not trigger any hard rejections.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Data QA Engineer
+Jobgether  South Africa
+13 hours ago  34 applicants
+  
+
+See who Jobgether has hired for this role
+
+Apply
+Save
+This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Data QA Engineer based in South Africa.
+
+As a Data QA Engineer, you will play a key role in ensuring the accuracy, reliability, and quality of data delivered to customers across a range of web scraping and AI-assisted projects. You will take ownership of quality assurance from the early stages of project development, translating customer requirements into clear and effective testing strategies. Combining exploratory testing, automated validation, and data analysis, you will identify inconsistencies, detect defects, and help prevent quality issues before they reach production. You will work closely with developers, project managers, QA leadership, and customers to establish measurable quality standards and continuously improve testing practices. Using Python, SQL, and modern testing technologies, you will turn complex data into actionable quality insights. Joining a globally distributed and collaborative team, you will enjoy the autonomy to improve processes and contribute to innovative data solutions.
+
+Accountabilities
+
+
+Translate customer data extraction and web scraping requirements into clear, measurable testing strategies, taking ownership of quality assurance from the beginning of new projects.
+Design and execute comprehensive test plans combining exploratory, manual, visual, and automated testing approaches according to project needs.
+Perform regular testing cycles on extracted datasets to validate data accuracy, completeness, consistency, and reliability.
+Identify, investigate, document, and report defects with clear reproduction steps and sufficient technical detail to enable developers to resolve issues efficiently.
+Apply descriptive statistics, data summaries, and visualizations to assess data quality, identify anomalies, and monitor potential data drift.
+Prepare detailed test reports and quality scores, providing internal stakeholders and customers with an accurate understanding of project quality and potential risks.
+Clearly communicate testing coverage, limitations, unresolved issues, and remaining risks throughout the delivery process.
+Collaborate with project managers and customers to clarify requirements, identify ambiguities, and ensure that expectations are measurable and testable before QA activities begin.
+Contribute to the development and continuous improvement of test automation frameworks, focusing on test coverage, reliability, and performance.
+Identify and implement improvements to QA processes and tools, including browser extensions, spreadsheet add-ons, and user-interface-based testing solutions.
+Work closely with QA leadership, developers, and project managers to maintain high-quality standards while operating with a high degree of independence.
+
+
+Requirements
+
+
+At least 5 years of professional experience as a QA Engineer or in a comparable quality assurance role, preferably involving software testing, data validation, or data quality.
+Strong Python programming skills, ideally with practical experience using Pandas and Jupyter Notebook for data analysis, processing, and validation.
+Basic to intermediate SQL knowledge, with the ability to write queries and work confidently with at least one relational database and its associated tools.
+Solid understanding of web technologies and protocols, including HTML, XPath, JSON, HTTP, and CSS.
+Practical experience designing and executing tests for HTTP and REST APIs.
+Strong knowledge of test case design, test planning, test execution, and test data management.
+Understanding of key data quality concepts, including completeness, accuracy, consistency, reliability, and data drift.
+Experience working in Agile development environments, including Scrum or Kanban, and collaborating closely with software developers.
+Familiarity with AI and Large Language Model (LLM) tools, particularly their application in generating test cases, accelerating data validation, and improving QA workflows.
+Excellent analytical and problem-solving abilities, combined with strong attention to detail and a proactive approach to quality ownership.
+Ability to quickly understand complex project requirements, learn new technologies, and adapt to changing priorities.
+Confidence in maintaining high-quality standards and raising concerns when delivery timelines or project pressures could compromise quality.
+Excellent written and verbal communication skills in English.
+
+
+Nice To Have
+
+
+Working knowledge of Scrapy and other Python-based web scraping frameworks.
+Previous experience developing or working with test automation frameworks.
+Interest or experience in data science concepts, particularly as applied to data analysis, interpretation, and validation.
+Enthusiasm for exploring AI and LLM-powered tools to improve testing efficiency and accelerate data quality assessments.
+
+
+Benefits
+
+
+Fully Remote Work: Enjoy the freedom and flexibility to work from anywhere in the world, choosing the environment where you are most productive.
+Generous Paid Leave: Benefit from 35 days of paid holidays per year, supporting a healthy work-life balance.
+International Team: Become part of a self-motivated, progressive, and multicultural team of more than 250 professionals distributed across over 28 countries.
+Innovative Technologies: Work with cutting-edge open-source technologies, modern tools, and innovative data extraction solutions.
+Flexible Working Environment: Enjoy the autonomy and flexibility to organize your work in a way that supports productivity and personal wellbeing.
+Professional Growth: Develop your technical expertise by working on challenging data quality projects alongside experienced professionals in a collaborative environment.
+
+
+How Jobgether Works
+
+We use an AI-powered matching process to ensure your application is reviewed quickly, objectively, and fairly against the role's core requirements. Our system identifies the top-fitting candidates, and this shortlist is then shared directly with the hiring company. The final decision and next steps (interviews, assessments) are managed by their internal team.
+
+We appreciate your interest and wish you the best!
+
+Why Apply Through Jobgether?
+
+Data Privacy Notice: By submitting your application, you acknowledge that Jobgether will process your personal data to evaluate your candidacy and share relevant information with the hiring employer. This processing is based on legitimate interest and pre-contractual measures under applicable data protection laws (including GDPR). You may exercise your rights (access, rectification, erasure, objection) at any time.
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Internet Marketplace Platforms
+  
+
+Referrals increase your chances of interviewing at Jobgether by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Quality Assurance Engineer jobs
+Data QA Engineer
+Similar jobs
+QA Engineer
+QA Engineer
+Motorola Solutions
+South Africa
+2 weeks ago
+Senior QA Engineer - Remote
+Senior QA Engineer - Remote
+Kake
+South Africa
+3 days ago
+Manual Tester
+Manual Tester
+Inspired Thinking Group (ITG)
+South Africa
+ZAR 280,000 - ZAR 450,000
+2 weeks ago
+QA Engineer
+QA Engineer
+impact.com
+Cape Town, Western Cape, South Africa
+1 week ago
+QA Engineer
+QA Engineer
+Cyberlogic
+Stellenbosch, Western Cape, South Africa
+3 weeks ago
+QA Engineer
+QA Engineer
+Scriptex
+Stellenbosch, Western Cape, South Africa
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Data Engineer | Remote
+Data Engineer | Remote
+
+Crossing Hurdles
+
+South Africa
+$140,000 - $180,000
+4 days ago
+Test Engineer I - South Africa
+Test Engineer I - South Africa
+
+Gaming Laboratories International, LLC
+
+Midrand, Gauteng, South Africa
+3 weeks ago
+Quality Assurance Tester (OVA5991)
+Quality Assurance Tester (OVA5991)
+
+Ovations Talent Sourcing
+
+Johannesburg, Gauteng, South Africa
+2 weeks ago
+Analytics Engineer
+Analytics Engineer
+
+Lyra Health
+
+Johannesburg, Gauteng, South Africa
+3 weeks ago
+QA- Automation Tester (Trade Finance/Payments)
+QA- Automation Tester (Trade Finance/Payments)
+
+Impronics Digitech
+
+Johannesburg, Gauteng, South Africa
+1 year ago
+Senior Data Engineer
+Senior Data Engineer
+
+Keyrock
+
+Cape Town, Western Cape, South Africa
+3 months ago
+AI Quality & Observability Engineer
+AI Quality & Observability Engineer
+
+Plan.Net CreativeNest South Africa
+
+City of Cape Town, Western Cape, South Africa
+1 week ago
+Software Engineer (Data)
+Software Engineer (Data)
+
+Primer
+
+South Africa
+1 week ago
+Quality Engineer
+Quality Engineer
+
+Johnson Outdoors
+
+La Mercy, KwaZulu-Natal, South Africa
+1 week ago
+Snowflake Data Engineer
+Snowflake Data Engineer
+
+Tenth Revolution Group
+
+South Africa
+1 week ago
+Similar Searches
+Quality Assurance Engineer jobs
+186 open jobs
+Software Quality Assurance Engineer jobs
+80 open jobs
+Software Test Engineer jobs
+90 open jobs
+Software Tester jobs
+99 open jobs
+Software Quality Assurance Tester jobs
+80 open jobs
+Software Quality Assurance Analyst jobs
+87 open jobs
+Contract Test Engineer jobs
+30 open jobs
+Software Quality Engineer jobs
+112 open jobs
+Test Engineer jobs
+3,829 open jobs
+Junior Test Engineer jobs
+49 open jobs
+Software Automation Engineer jobs
+326 open jobs
+Engineering Officer jobs
+297 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
