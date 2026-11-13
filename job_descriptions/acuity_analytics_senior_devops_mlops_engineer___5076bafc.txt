@@ -1,0 +1,243 @@
+Title: Senior DevOps/MLOps Engineer (Azure, Python)
+Company: Acuity Analytics
+Location: Birkirkara, Malta
+URL: https://mt.linkedin.com/jobs/view/senior-devops-mlops-engineer-azure-python-at-acuity-analytics-4489557325
+Posted: 2026-11-14
+Deadline: N/A
+Reason: This senior DevOps/MLOps role in Malta matches her strong background in Azure CI/CD pipelines, Python automation, release governance, and configuration management.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps/MLOps Engineer (Azure, Python)
+Acuity Analytics  Birkirkara, Malta
+13 hours ago   Be among the first 25 applicants
+  
+
+See who Acuity Analytics has hired for this role
+
+Apply 
+Save
+
+Direct message the job poster from Acuity Analytics
+
+Adelina Pandeva
+Adelina Pandeva
+
+About Us
+
+
+
+
+Ascent has recently been acquired by Acuity Analytics. This is both a significant milestone for us and a tremendous opportunity for you. Acuity Analytics is a business with a strong global reputation, an impressive client base and ambitious growth plans. We deliver deep insights and domain-led digital transformation to high-growth and heavily regulated organizations. To our customers, we bring a partnership that provides the talent, technology and capability to enhance performance and operational efficiency.
+
+
+
+
+About the role
+
+We are hiring a senior hands-on MLOps Engineer who blends strong DevOps fundamentals with machine learning delivery. You will build and run the CI/CD pipelines that move ML and application artifacts safely across environments on Azure, and keep those services reliable in production.
+
+Key responsibilities
+
+Design, build and maintain CI/CD pipelines for ML models, data components and supporting services
+Create pipelines that promote artifacts (models, packages, containers, configuration) across environments, such as dev, test, staging and production, with the right gates and approvals
+Integrate pipelines with Azure services, for example Azure DevOps or GitHub Actions, Azure Machine Learning, container registries, Key Vault and storage
+Write and maintain Python scripts and tooling that automate pipeline steps, deployments and operational tasks
+Implement and manage authentication and authorization for pipelines, including service principals, managed identities, secrets handling and least-privilege access
+Run and support services in production: monitoring, alerting, incident response, troubleshooting and continuous improvement
+Work with data scientists, ML engineers and platform teams to turn experimental work into repeatable, production-ready delivery
+Document pipelines and operating procedures so other teams can use and support them
+
+
+
+
+Required qualifications
+
+Proven experience with CI/CD processes and tooling in a production setting
+Experience designing pipelines that promote artifacts across multiple environments
+Hands-on experience integrating with Azure services
+Strong Python skills, including scripting and automation
+Experience building authentication mechanisms for pipelines (service principals, managed identities, token-based access, secrets management)
+Experience running services in production and supporting them operationally
+Working knowledge of MLOps concepts: model packaging, versioning, deployment and monitoring
+Solid understanding of version control, infrastructure as code and containerization
+Clear communication and the ability to collaborate with data science and engineering teams
+
+
+
+
+Nice to have
+
+Hands-on experience with GitHub Copilot in day-to-day engineering work
+Exposure to AI adoption strategies in an enterprise environment, such as rollout, enablement, governance and measuring impact
+Experience with Azure Machine Learning or comparable MLOps platforms
+Familiarity with monitoring and observability for ML workloads
+
+
+
+
+
+
+
+Why join us
+
+
+
+
+People are at the Heart of our Business. By investing in people, we achieve exceptional results for our clients and create new opportunities for our teams to thrive. Check out this page for more details.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Acuity Analytics by 2x
+
+See who you know
+
+Get notified about new DevOps Specialist jobs in Birkirkara, Malta.
+
+Sign in to create job alert
+Similar jobs
+Senior Cloud & Platform Engineer (Azure, Terraform, Azure Databricks, Azure Data Lake Storage)
+Senior Cloud & Platform Engineer (Azure, Terraform, Azure Databricks, Azure Data Lake Storage)
+Acuity Analytics
+Birkirkara, Malta
+1 week ago
+Senior Cloud & Platform Engineer (Azure, Databricks, Data Lake, ADLS)
+Senior Cloud & Platform Engineer (Azure, Databricks, Data Lake, ADLS)
+Acuity Analytics
+Birkirkara, Malta
+1 week ago
+AI Infrastructure Engineer (GPU) - Remote EMEA
+AI Infrastructure Engineer (GPU) - Remote EMEA
+Pragmatike
+Malta
+6 months ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Platin Gaming Ltd.
+Malta
+1 month ago
+ML Ops Engineer (EMEA Remote)
+ML Ops Engineer (EMEA Remote)
+Pragmatike
+Malta
+7 months ago
+Senior DevOps Engineer - Gaming
+Senior DevOps Engineer - Gaming
+Betsson Group
+Ta' Xbiex, Malta
+1 week ago
+Show more jobs like this 
+People also viewed
+Senior Cloud Platform Engineer (Azure)
+Senior Cloud Platform Engineer (Azure)
+
+Acuity Analytics
+
+Birkirkara, Malta
+3 weeks ago
+Senior Python & Cloud Platform Engineer
+Senior Python & Cloud Platform Engineer
+
+Acuity Analytics
+
+Birkirkara, Malta
+3 weeks ago
+Principal ML Ops Engineer (EMEA Remote)
+Principal ML Ops Engineer (EMEA Remote)
+
+Pragmatike
+
+Malta
+4 months ago
+Infrastructure Engineer
+Infrastructure Engineer
+
+Platin Gaming Ltd.
+
+Malta
+1 month ago
+Payments - DevOps Engineer
+Payments - DevOps Engineer
+
+Betsson Group
+
+Valletta, Valletta, Malta
+2 days ago
+Platform Core DevOps Engineer - Infra
+Platform Core DevOps Engineer - Infra
+
+Betsson Group
+
+Sliema, Sliema, Malta
+1 week ago
+Senior AI Engineer (Python,MSFT Foundry)
+Senior AI Engineer (Python,MSFT Foundry)
+
+Acuity Analytics
+
+Birkirkara, Malta
+1 week ago
+Platform Core DevOps Engineer - Infra
+Platform Core DevOps Engineer - Infra
+
+Betsson Group
+
+Valletta, Valletta, Malta
+1 week ago
+Platform Core DevOps Engineer - Infra
+Platform Core DevOps Engineer - Infra
+
+Betsson Group
+
+Ta' Xbiex, Ta' Xbiex, Malta
+1 week ago
+Senior Data Engineer (Databricks, Azure)
+Senior Data Engineer (Databricks, Azure)
+
+Acuity Analytics
+
+Birkirkara, Malta
+3 weeks ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Acuity Analytics
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
