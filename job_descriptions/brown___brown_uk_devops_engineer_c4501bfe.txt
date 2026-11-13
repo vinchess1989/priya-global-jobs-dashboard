@@ -1,0 +1,306 @@
+Title: DevOps Engineer
+Company: Brown & Brown UK
+Location: Borehamwood, England, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/devops-engineer-at-brown-brown-uk-4482432553
+Posted: 2026-10-24
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in DevOps, CI/CD pipeline management, and release automation, and it is located in the UK with no restrictive citizenship requirements mentioned.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+Brown & Brown UK  Borehamwood, England, United Kingdom
+3 weeks ago  114 applicants
+  
+
+See who Brown & Brown UK has hired for this role
+
+Apply
+Save
+
+Direct message the job poster from Brown & Brown UK
+
+Jessica Chorley - Rowe
+Jessica Chorley - Rowe
+
+DevOps Engineer
+
+Location: Hybrid - Borehamwood
+
+Package: Negotiable + Benefits
+
+
+
+
+Brown & Brown Europe is building long-lived, product-led squads with end-to-end ownership of the services they create. You will work in a collaborative engineering environment that values practical delivery, automation, security, quality, learning and continuous improvement.
+
+
+
+
+The day to day:
+
+You will work hands-on within a cross-functional squad to build, support and improve secure cloud infrastructure, CI/CD pipelines, deployment automation and live-service reliability. This is a mid-level role for someone able to take ownership of defined DevOps work, with support from senior engineers and platform specialists where needed.
+
+
+
+
+Key responsibilities:
+
+Build, maintain and improve Azure DevOps pipelines for build, test, release and deployment activity.
+Support reliable and repeatable deployments across development, test and production environments.
+Contribute to infrastructure automation using agreed Infrastructure as Code patterns and standards.
+Work with engineering squads to improve deployment confidence, environment reliability and delivery flow.
+Help embed security, quality and operational checks into pipelines and release processes.
+Use monitoring, alerting and logs to understand service health and support incident investigation.
+Troubleshoot build, release, environment and platform issues, escalating complex problems early.
+Maintain clear technical notes, runbooks and support information for squad-owned services.
+Take part in planning, refinement, stand-ups, retrospectives, demos and operational reviews.
+Contribute practical ideas that improve automation, resilience, security and developer experience.
+
+
+
+
+How we work:
+
+Work in a long-lived, product-led and stream-aligned squad with clear service ownership.
+Follow a Build and Run model: design, build, test, deploy, monitor, support and improve squad-owned services.
+Use a transparent, prioritised backlog and deliver value incrementally through a regular agile cadence.
+Take part in planning, refinement, daily collaboration, reviews, retrospectives, demos and showcases.
+Use Definition of Ready and Definition of Done, including testing, security, documentation and operational readiness.
+Automate build, test, security assurance, deployment and repeatable environment activity wherever practical.
+Release in small, safe increments and use feedback and delivery data to improve.
+Work within shared architecture, cloud, security and platform guardrails.
+Use approved engineering and AI-assisted tools with appropriate security controls and human review.
+
+
+
+
+Our technology environment:
+
+Cloud: Microsoft Azure, Azure services, monitoring, security and platform guardrails.
+Tooling: Azure DevOps, Git, repositories, branching, pull requests, YAML pipelines and release automation.
+Automation: Infrastructure as Code, environment provisioning, scripting and repeatable operational processes.
+Engineering: .NET, React, APIs, automated testing and integration with squad delivery workflows.
+Practices: CI/CD, monitoring, secure delivery, incident learning, continuous improvement and Build and Run ownership.
+
+
+
+
+About you:
+
+Commercial experience in DevOps, cloud engineering, platform engineering or a software engineering role with strong automation exposure.
+Practical experience with Azure DevOps, Git, CI/CD pipelines and release processes.
+Good working knowledge of Microsoft Azure and cloud-based application environments.
+Experience with scripting or automation, such as PowerShell, Bash or similar.
+Understanding of Infrastructure as Code concepts and repeatable environment management.
+Awareness of secure delivery practices, secrets management, access control and operational risk.
+Ability to troubleshoot build, deployment, environment and service issues in a structured way.
+A collaborative communication style and confidence working with developers, QA, Product and support colleagues.
+
+
+
+
+How this role is distinct:
+
+Owns defined DevOps, automation and cloud engineering tasks with a good level of independence.
+Supports squad delivery by improving pipelines, environments, deployment confidence and operational readiness.
+Is supported by Senior Engineers, Tech Leads and platform specialists for complex design decisions and major changes.
+
+
+
+
+The rewards:
+
+A negotiable basic salary and all the usual benefits you would expect, including holiday and a company pension
+A collaborative, open and honest environment designed to deliver the best outcomes for our clients and teammates
+A flexible working
+An environment built around supporting and developing our teammates, with funding available for relevant professional qualifications
+
+
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Insurance
+  
+
+Referrals increase your chances of interviewing at Brown & Brown UK by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Borehamwood, England, United Kingdom.
+
+Sign in to create job alert
+Jobs
+Change Director jobs
+DevOps Engineer
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+Pharo Management
+London, England, United Kingdom
+1 month ago
+🛠️ SITE RELIABILITY ENGINEER / DEVOPS
+🛠️ SITE RELIABILITY ENGINEER / DEVOPS
+Tandem Dating
+Harrow, England, United Kingdom
+4 months ago
+DevOps Engineer
+DevOps Engineer
+Sensor Tower
+London, England, United Kingdom
+5 months ago
+DevOps Engineer - UK
+DevOps Engineer - UK
+ANRA Technologies
+London, England, United Kingdom
+8 months ago
+DevOps Engineer
+DevOps Engineer
+Dexory
+Oxford, England, United Kingdom
+2 months ago
+DevOps Engineer
+DevOps Engineer
+Dexory
+Didcot, England, United Kingdom
+2 months ago
+Show more jobs like this 
+People also viewed
+DevOps Engineer
+DevOps Engineer
+
+Moody's Corporation
+
+London, England, United Kingdom
+3 days ago
+DevOps Engineer
+DevOps Engineer
+
+Capgemini Engineering
+
+Newbury, England, United Kingdom
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Haystack
+
+London, England, United Kingdom
+6 hours ago
+Platform Engineer
+Platform Engineer
+
+Charlotte Tilbury Beauty
+
+London, England, United Kingdom
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Code Wizards Group
+
+Theale, England, United Kingdom
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Universal Music Group
+
+London, England, United Kingdom
+2 days ago
+Platform Engineer
+Platform Engineer
+
+Akuna Capital
+
+London, England, United Kingdom
+1 month ago
+DevOps Engineer
+DevOps Engineer
+
+Universal Music Group UK
+
+London, England, United Kingdom
+2 days ago
+DevOps Engineering Consultant - AWS
+DevOps Engineering Consultant - AWS
+
+Accenture UK & Ireland
+
+London, England, United Kingdom
+1 month ago
+DevOps工程师
+DevOps工程师
+
+JD.COM
+
+London Area, United Kingdom
+1 week ago
+Similar Searches
+Change Director jobs
+1,526 open jobs
+Insurance Sales Manager jobs
+259 open jobs
+Benefits Administrator jobs
+5,928 open jobs
+Finance Consultant jobs
+7,413 open jobs
+Information Security Officer jobs
+1,028 open jobs
+Underwriting Manager jobs
+1,134 open jobs
+Agile Coach jobs
+3,225 open jobs
+Transformation Director jobs
+1,619 open jobs
+Reception Manager jobs
+3,778 open jobs
+Program Director jobs
+3,254 open jobs
+Renewal Manager jobs
+7,682 open jobs
+Director Talent Acquisition jobs
+440 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Brown & Brown UK
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
