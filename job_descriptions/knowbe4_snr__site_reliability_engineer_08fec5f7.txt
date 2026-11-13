@@ -1,0 +1,283 @@
+Title: Snr. Site Reliability Engineer (Located in South Africa)
+Company: KnowBe4
+Location: Cape Town, Western Cape, South Africa
+URL: https://za.linkedin.com/jobs/view/snr-site-reliability-engineer-located-in-south-africa-at-knowbe4-4489821677
+Posted: 2026-11-14
+Deadline: Open until filled
+Reason: The role aligns with her extensive experience in CI/CD, infrastructure-as-code, and release automation, and it is located in an eligible country (South Africa) with no explicit visa restrictions mentioned.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Snr. Site Reliability Engineer (Located in South Africa)
+KnowBe4  Cape Town, Western Cape, South Africa
+1 hour ago   Be among the first 25 applicants
+  
+
+See who KnowBe4 has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+KnowBe4 empowers the modern workforce to make smarter security decisions every day. Trusted by more than 70,000 organizations worldwide, KnowBe4 is the pioneer of digital workforce security, securing both AI agents and humans. The KnowBe4 Platform provides attack simulation and training, collaboration security, and agent security powered by AIDA (Artificial Intelligence Defense Agents) and a proprietary Risk Score. The platform leverages 15-years of behavioral data to combat advanced threats including social engineering, prompt injection, and shadow AI. By securing humans and agents, KnowBe4 leads the industry in workforce trust and defense.
+
+Please submit your resume in English.
+
+To learn more about our team and office culture in Cape Town, South Africa visit the following links.
+
+Careers Page: https://www.knowbe4.com/careers/locations/cape-town
+
+Glassdoor: https://www.glassdoor.com/Location/KnowBe4-Cape-Town-Location-EI_IE969384.0,7_IL.8,17_IC2653748.htm
+
+LinkedIn: https://www.linkedin.com/company/knowbe4/life/southafrica/
+
+KnowBe4’s Site Reliability Engineers help ensure that our platforms are reliable, secure, scalable, and efficient. They work alongside other engineers in a fast-paced, agile development environment, and share solutions to advance the technologies running our systems, improve their safety and reliability, and make the complex distributed services that deliver our platforms easy to understand.
+
+The ideal member of our team gets excited about new AWS service releases, stays up-to-date on industry trends and design patterns, and has excellent time-management and communication skills.
+
+Some Of The Technologies We Use
+
+
+Programming Languages - C#, Python, Ruby, Rust, TypeScript
+Infrastructure as Code - Terraform, AWS CDK
+Source Code Management and CI/CD - GitLab
+Observability - CloudZero, DataDog
+Containerized Workloads - Docker
+Cloud-native infrastructure in AWS - ECS, Lambda, Step Functions, SNS/SQS, EventBridge, Bedrock, Transit Gateway, Aurora, DynamoDB, CloudFront, S3, AppSync, API Gateway, and many more.
+AI Code Generation Tools - Claude Code, CoPilot
+
+
+Responsibilities
+
+
+Work with other Site Reliability Engineers to build highly scalable and resilient applications and infrastructure in AWS
+Maintain and improve extensible infrastructure-as-code using Terraform
+Learn, maintain, and improve our existing deployment strategies
+Deliver effective observability, monitoring, and alerting patterns for KnowBe4’s applications and infrastructure
+Act as an escalation point for identifying and resolving the root cause for production incidents
+Provide assistance designing globally distributed systems and processes for the organization
+Identify deficiencies in our current applications and infrastructure and correct them when found
+Define new approaches and tailored solutions to complex technical problems
+Act as a project leader with other Site Reliability Engineers and ensure progress is communicated effectively to project stakeholders
+
+
+Education And Technical Experience
+
+
+BS/MS/Ph.D. or equivalent plus 5 years experience
+Training in secure coding practices (preferred)
+Proficient authoring scripts in one or more programming languages (e.g. Python, Ruby, Javascript).
+Experience designing and operating high-scale patterns in AWS
+Experience building and designing repeatable workflows for continuous integration and continuous deployment (CI/CD) - GitLab is preferred
+Excellent communication skills
+Effectively able to self-manage your time across competing projects
+Ability to quickly understand and debug complex distributed systems
+
+
+Bonus Points
+
+
+Confident writing in Python
+AWS Cloud Certification(s) - Professional Level
+Experience working for a public company
+Open-source contributions or technical blog experience
+
+
+Our Fantastic Benefits
+
+We offer company-wide bonuses based on monthly sales targets, employee referral bonuses, adoption assistance, tuition reimbursement, certification reimbursement, and certification completion bonuses - all in a modern, high-tech, and fun work environment. For more details about our benefits in each office location, please visit www.knowbe4.com/careers/benefits.
+
+Note: An applicant assessment and background check may be part of your hiring procedure.
+
+Individuals seeking employment at KnowBe4 are considered without prejudice to race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, gender identity, sexual orientation or any other characteristic protected under applicable federal, state, or local law. If you require reasonable accommodation in completing this application, interviewing, completing any pre-employment testing, or otherwise participating in the employee selection process, please visit www.knowbe4.com/careers/request-accommodation.
+
+No recruitment agencies, please.
+Show more 
+Seniority level
+Associate
+Employment type
+Full-time
+Industries
+Computer and Network Security
+  
+
+Referrals increase your chances of interviewing at KnowBe4 by 2x
+
+See who you know
+
+Get notified about new Senior Site Reliability Engineer jobs in Cape Town, Western Cape, South Africa.
+
+Sign in to create job alert
+Jobs
+Procurement Advisor jobs
+Snr. Site Reliability Engineer (Located in South Africa)
+Similar jobs
+Platform Engineer
+Platform Engineer
+Share
+Cape Town, Western Cape, South Africa
+1 month ago
+Senior Cloud Engineer
+Senior Cloud Engineer
+impact.com
+Cape Town, Western Cape, South Africa
+1 week ago
+Senior Platform Engineer
+Senior Platform Engineer
+Betway Global
+Cape Town, Western Cape, South Africa
+1 day ago
+Senior Platform Engineer
+Senior Platform Engineer
+DigiOutsource
+Cape Town, Western Cape, South Africa
+2 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Confluence
+Cape Town, Western Cape, South Africa
+1 week ago
+Senior Cloud Engineer (AWS)
+Senior Cloud Engineer (AWS)
+Lesaka Technologies Inc.
+Cape Town, Western Cape, South Africa
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Principal Platform Engineer, Enablement
+Principal Platform Engineer, Enablement
+
+impact.com
+
+Cape Town, Western Cape, South Africa
+1 week ago
+Systems Architect
+Systems Architect
+
+Klipboard
+
+Stellenbosch, Western Cape, South Africa
+2 days ago
+Chief Engineer, DCEO
+Chief Engineer, DCEO
+
+Amazon Web Services (AWS)
+
+Cape Town, Western Cape, South Africa
+9 hours ago
+Senior Data Engineer
+Senior Data Engineer
+
+Keyrock
+
+Cape Town, Western Cape, South Africa
+3 months ago
+Infrastructure Engineer
+Infrastructure Engineer
+
+OryxAlign
+
+Bellville, Western Cape, South Africa
+1 week ago
+Senior Infrastructure Security Engineer
+Senior Infrastructure Security Engineer
+
+Acuity Consultants
+
+City of Cape Town, Western Cape, South Africa
+1 day ago
+Senior Backend Engineer - Mobility
+Senior Backend Engineer - Mobility
+
+M-KOPA
+
+Cape Town, Western Cape, South Africa
+2 weeks ago
+System Administrator
+System Administrator
+
+Mama Money
+
+Cape Town, Western Cape, South Africa
+4 weeks ago
+Senior Backend Engineer - Asset Sales
+Senior Backend Engineer - Asset Sales
+
+M-KOPA
+
+Cape Town, Western Cape, South Africa
+2 weeks ago
+Application Support Lead
+Application Support Lead
+
+Dye & Durham Corporation
+
+Cape Town, Western Cape, South Africa
+2 days ago
+Similar Searches
+Procurement Advisor jobs
+191 open jobs
+Patient Services Manager jobs
+88 open jobs
+Channel Development Specialist jobs
+71 open jobs
+Corporate Account Executive jobs
+309 open jobs
+Software Test Lead jobs
+53 open jobs
+Channel Account Manager jobs
+369 open jobs
+Security Administrator jobs
+127 open jobs
+Reception Manager jobs
+105 open jobs
+Global Brand Manager jobs
+199 open jobs
+Field Marketing Manager jobs
+69 open jobs
+Portfolio Specialist jobs
+330 open jobs
+Customer Marketing Manager jobs
+109 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at KnowBe4
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
