@@ -26620,5 +26620,39 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": null,
     "deletion_reason": "Deadline (2026-09-24) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Senior Application Specialist - 3x Roles",
+    "company": "Kiwibank",
+    "location": "Auckland, Auckland, New Zealand",
+    "url": "https://nz.linkedin.com/jobs/view/senior-application-specialist-3x-roles-at-kiwibank-4487998460",
+    "visited": "yes",
+    "matches_requirements": "maybe",
+    "reason": "The role is a strong fit for her requirements engineering and technical analysis skills, but it is a fixed-term contract and does not explicitly mention visa sponsorship, which is required for her to work in New Zealand.",
+    "id": "95e87a54",
+    "source": "linkedin_nz_requirements_manager",
+    "added_at": "2026-11-13T02:24:11+02:00",
+    "posted_date": "2026-11-11",
+    "deadline": "2024-11-24",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Deadline (2024-11-24) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Business Analyst - Data & AI",
+    "company": "Fonterra",
+    "location": "Auckland, Auckland, New Zealand",
+    "url": "https://nz.linkedin.com/jobs/view/business-analyst-data-ai-at-fonterra-4486497495",
+    "visited": "yes",
+    "matches_requirements": "yes",
+    "reason": "The role aligns with the candidate's expertise in release management, CI/CD, and technical documentation within a professional, English-speaking environment in New Zealand.",
+    "id": "9563ae84",
+    "source": "linkedin_nz_requirements_manager",
+    "added_at": "2026-11-13T02:24:11+02:00",
+    "posted_date": "2026-11-06",
+    "deadline": "2025-11-17",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": "job_descriptions/fonterra_business_analyst___data___ai_9563ae84.txt",
+    "deletion_reason": "Deadline (2025-11-17) passed by more than 2 days and unreviewed"
   }
 ]
