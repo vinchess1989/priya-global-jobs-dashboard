@@ -1,0 +1,94 @@
+Title: Cloud Platform & Azure DevOps Engineer
+Company: Angle Finance
+Location: Melbourne, VIC, Australia
+URL: https://au.jora.com/job/Azure-DevOps-Engineer-910e804825f8128abfa3bbde7db10f51
+Posted: 18h ago
+Deadline: N/A
+Reason: The role aligns with the candidate's expertise in Azure DevOps, CI/CD pipeline management, and infrastructure automation, and it is located in Australia, which is a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Search
+Sign in
+What
+Where
+Search jobs
+Cloud Platform & Azure DevOps Engineer
+Angle Finance
+–
+Melbourne VIC
+Full time
+Hybrid
+18h ago, from Angle Finance
+Apply on company site
+
+Angle Finance is a leading non-bank asset finance company operating in the rapidly growing intermediary asset finance market. Our signature is Faster, Easier Finance, provided by consistent, predictable and reliable service propositions in everything we do.
+
+Our people make us remarkable. So we’ve built a culture of empowerment, enabling our people to make decisions that drive our speed, our agility, and our ability to see things from different angles.
+
+We offer flexibility, giving our people freedom and tailored support to develop their professional interests beyond their immediate roles, leading to more satisfying careers. We also offer a hybrid working arrangement.
+
+At Angle, different backgrounds, perspectives and life experiences of our people are celebrated. Our aim is to create an inclusive workplace where we foster diversity of thought, and every person feels a sense of belonging.
+
+We’re hiring a Cloud Platform and Azure DevOps Engineer. This is a hands-on, mid-level role that supports the delivery, operation, and continuous improvement of Angle Finance’s applications, Azure cloud platform, infrastructure, and CI/CD services. 
+
+
+
+
+Working closely with the engineering team, you will design, configure, test, deploy, and support secure, scalable solutions across Azure. You will work with .NET applications, infrastructure as code, automation, monitoring, networking, storage, backup, and disaster recovery services. 
+
+
+
+
+You will contribute across the full technology lifecycle—maintaining and migrating applications, managing CI/CD pipelines, improving cloud infrastructure, resolving operational issues, and identifying opportunities to improve reliability, efficiency, and cost. The role may occasionally require work outside standard business hours to support planned changes, releases, or service restoration. 
+
+Your role: 
+
+Design, deploy, support, and monitor secure, scalable Azure platform systems and applications. 
+Maintain Azure infrastructure, including networking, virtual machines, storage, backup, monitoring, and disaster recovery services. 
+Implement and improve infrastructure as code using Terraform or Bicep. 
+Develop and maintain reliable CI/CD pipelines for application and infrastructure releases. 
+Troubleshoot platform and deployment issues and support development teams with cloud and DevOps tools and practices. 
+
+
+
+What you bring: 
+
+At least two years’ experience working with cloud technologies. 
+Practical experience using Azure DevOps to build pipelines and deploy .NET applications to Azure. 
+Experience configuring, operating, and troubleshooting .NET applications and Azure infrastructure. 
+Working knowledge of infrastructure as code, cloud security, monitoring, and networking concepts. 
+Clear communication skills, including the ability to explain technical and security concepts in business terms. 
+Curiosity, collaboration, and a practical can-do attitude. 
+Experience in Financial Services preferred.
+Apply on company site
+Be careful - Don’t provide your bank or credit card details when applying for jobs. Don't transfer any money or complete suspicious online surveys. If you see something suspicious, report this job ad.
+Email to yourself or a friend
+Email job
+Discover Jora
+Browse jobs
+Browse salaries
+Find recruiter
+About
+FAQ
+Blog
+Reviews
+Browse Jobs in Australia
+Jobs in Sydney
+Jobs in Melbourne
+Jobs in Hobart
+Jobs in Brisbane
+Jobs in Perth
+Jobs in Darwin
+Jobs in Adelaide
+Connect with us
+TikTok
+Facebook
+Linkedin
+Get Jora app
+Contact us
+Privacy
+Terms & Conditions
+©2026 Job Seeker Pty Ltd

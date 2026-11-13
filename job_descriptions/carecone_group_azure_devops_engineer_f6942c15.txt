@@ -1,0 +1,96 @@
+Title: Azure DevOps Engineer
+Company: CareCone Group
+Location: Sydney, NSW, Australia
+URL: https://au.jora.com/job/Azure-DevOps-Engineer-40b86e4bf448a97eabc0097702584595
+Posted: 2026-11-13
+Deadline: N/A
+Reason: The role aligns perfectly with the candidate's expertise in CI/CD, release management, and configuration management, and it is located in an eligible country (Australia) with no stated restrictions on visa sponsorship.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Search
+Sign in
+What
+Where
+Search jobs
+Azure DevOps Engineer
+CareCone Group
+–
+Sydney NSW
+$140,000 - $150,000 a year
+Full time
+1d ago, from Workus Australia
+Apply on company site
+Role- Azure DevOps Engineer
+Type- Permanent
+Location - Sydney
+Key Responsibilities
+
+Support application and infrastructure deployments across all environments.
+Manage and troubleshoot CI/CD pipelines and release activities.
+Perform environment validation, deployment verification, and production support.
+Support integration connectivity, certificates, authentication, and infrastructure related issues.
+Support SQL Server instance and database provisioning, commissioning, configuration, and decommissioning in collaboration with DBA and infrastructure teams.
+Manage SQL Server logins, database users, roles, and permissions in accordance with least privilege principles and access approval processes.
+Support database deployments, SQL Server Agent jobs, backup and restore activities, and database connectivity and performance troubleshooting.
+Execute DR, rollback, and change management activities, including database recovery validation.
+Maintain operational documentation, runbooks, and deployment procedures.
+Collaborate with Agile teams to deliver project and release commitments.
+Mandatory Skills
+
+Strong troubleshooting and problem solving skills.
+On premises infrastructure support experience: Windows Server, IIS, networking, and certificates.
+PowerShell and Shell scripting.
+Jenkins and Azure DevOps CI/CD pipelines.
+Chef cookbook and deployment troubleshooting.
+Working knowledge of Microsoft SQL Server administration and SQL Server Management Studio (SSMS), including:
+Server and database provisioning, commissioning, and configuration.
+Windows and SQL authentication, logins, users, roles, and permission management.
+Backup and restore procedures, SQL Server Agent jobs, and operational health checks.
+T SQL scripting and troubleshooting database connectivity, blocking, and failed jobs.
+ServiceNow: Incident, Change, and Release Management.
+Jira and Agile/Scrum delivery.
+Bitbucket: branching, PRs, and repository management.
+Good to Have
+
+GitHub Actions workflow development and support.
+IBM MQ, API integrations, and connectivity troubleshooting.
+Monitoring tools such as AppDynamics, Splunk, Elastic, or Grafana.
+SQL Server Always On availability groups, failover clustering, and DR testing.
+Database deployment automation using Liquibase, Flyway, or equivalent tools.
+SQL Server performance diagnostics, including execution plans, indexing, and query tuning.
+Banking or financial services experience.
+
+Interested people can share their resume at ***email_hidden***
+
+Apply on company site
+Be careful - Don’t provide your bank or credit card details when applying for jobs. Don't transfer any money or complete suspicious online surveys. If you see something suspicious, report this job ad.
+Email to yourself or a friend
+Email job
+Discover Jora
+Browse jobs
+Browse salaries
+Find recruiter
+About
+FAQ
+Blog
+Reviews
+Browse Jobs in Australia
+Jobs in Sydney
+Jobs in Melbourne
+Jobs in Hobart
+Jobs in Brisbane
+Jobs in Perth
+Jobs in Darwin
+Jobs in Adelaide
+Connect with us
+TikTok
+Facebook
+Linkedin
+Get Jora app
+Contact us
+Privacy
+Terms & Conditions
+©2026 Job Seeker Pty Ltd
