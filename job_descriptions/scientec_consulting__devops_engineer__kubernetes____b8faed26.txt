@@ -1,0 +1,220 @@
+Title: DevOps Engineer (Kubernetes / AWS)
+Company: ScienTec Consulting Pte. Ltd.
+Location: Singapore
+URL: https://sg.linkedin.com/jobs/view/devops-engineer-kubernetes-aws-at-scientec-consulting-pte-ltd-4489550576
+Posted: 2026-11-14
+Deadline: Open until filled
+Reason: The role aligns with the candidate's extensive experience in DevOps, CI/CD pipeline management, and infrastructure automation, and it is located in a target country (Singapore).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer (Kubernetes / AWS)
+ScienTec Consulting Pte. Ltd.  Singapore
+15 hours ago  26 applicants
+  
+
+See who ScienTec Consulting Pte. Ltd. has hired for this role
+
+Apply
+Save
+We are seeking an experienced DevOps Engineer to design, implement and maintain cloud infrastructure and deployment automation solutions. The successful candidate will be responsible for managing AWS cloud environments, containerised applications using Kubernetes, and CI/CD pipelines to ensure scalable, reliable and secure application delivery.
+
+
+Working Hours: Mon-Fri
+Working Location: Central
+Salary Package: Up to $7500 (basic) + AWS + VB
+
+
+Key Responsibilities
+
+
+Cloud Infrastructure Management: Design, deploy, configure and maintain scalable, highly available cloud infrastructure using AWS services.
+Containerisation & Orchestration: Manage containerised applications using Docker and Kubernetes, including deployment, configuration, scaling and troubleshooting.
+CI/CD Automation: Design, implement and maintain CI/CD pipelines to automate application build, testing and deployment processes.
+Infrastructure as Code (IaC): Automate infrastructure provisioning and configuration management using Terraform, AWS CloudFormation or Ansible.
+System Monitoring & Optimisation: Monitor infrastructure performance, availability and resource utilisation, and implement improvements to ensure system reliability.
+Troubleshooting & Incident Management: Investigate and resolve infrastructure, application deployment and production environment issues.
+Security & Compliance: Implement cloud security best practices, access management, vulnerability remediation and infrastructure hardening.
+Collaboration: Work closely with software developers, architects and operations teams to streamline development, deployment and release processes.
+
+
+Requirements
+
+
+Degree or Diploma in Computer Science, Information Technology or a related discipline.
+Minimum 3–5 years of relevant experience in DevOps, Cloud Engineering or Infrastructure Engineering.
+Strong hands-on experience with AWS cloud services, such as EC2, EKS, ECS, S3, IAM, VPC, RDS and CloudWatch.
+Proficiency in Kubernetes and Docker, including container orchestration and cluster management.
+Experience developing and managing CI/CD pipelines using Jenkins, GitLab CI/CD, GitHub Actions or AWS CodePipeline.
+Familiarity with Infrastructure as Code tools such as Terraform, AWS CloudFormation or Ansible.
+Proficiency in scripting languages such as Python, Bash or Shell.
+Experience with monitoring and logging tools such as Prometheus, Grafana, ELK Stack or CloudWatch.
+Good understanding of Linux administration, networking, cloud security and system architecture.
+
+
+By submitting your resume, you consent to the collection, use, and disclosure of your personal information per ScienTec’s Privacy Policy (scientecconsulting.com/privacy-policy).
+
+This authorizes us to:
+
+Contact you about potential opportunities.
+Delete personal data as it is not required at this application stage.
+
+All applications will be processed with strict confidence. Only shortlisted candidates will be contacted.
+
+Elane Yap Theng Yu- R1989397
+ScienTec Consulting Pte Ltd - 11C5781
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Industries
+Information Services and Software Development
+  
+
+Referrals increase your chances of interviewing at ScienTec Consulting Pte. Ltd. by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Singapore.
+
+Sign in to create job alert
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+BIT Official
+Singapore, Singapore
+1 month ago
+DevOps Engineer
+DevOps Engineer
+Hytech
+Singapore
+1 month ago
+Infra DevOps Engineer
+Infra DevOps Engineer
+BIT Official
+Singapore, Singapore
+1 week ago
+DevOps Engineer
+DevOps Engineer
+Webot
+Singapore, Singapore
+2 days ago
+DevOps Engineer
+DevOps Engineer
+Capgemini Engineering
+Singapore
+1 month ago
+DevOps Engineer
+DevOps Engineer
+Merquri
+Singapore, Singapore
+1 week ago
+Show more jobs like this 
+People also viewed
+SRE DevOps Engineer
+SRE DevOps Engineer
+
+Epergne Solutions
+
+Singapore
+1 month ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+Momcozy
+
+Singapore, Singapore
+1 day ago
+DevOps Engineer
+DevOps Engineer
+
+Zenika Singapore
+
+Singapore, Singapore
+3 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+HashWhale
+
+Singapore
+1 year ago
+Cloud Engineer
+Cloud Engineer
+
+VeSync
+
+Singapore, Singapore
+1 month ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+Radley James
+
+Singapore, Singapore
+2 weeks ago
+Cloud Engineer
+Cloud Engineer
+
+RisingWave
+
+Singapore, Singapore
+3 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Base Camp Digital
+
+Singapore River, Central Singapore Community Development Council, Singapore
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Ensign InfoSecurity
+
+Singapore, Singapore
+3 weeks ago
+DevOps Engineer (Transcribe)
+DevOps Engineer (Transcribe)
+
+Assurity Trusted Solutions Pte Ltd
+
+Singapore, Singapore
+4 months ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at ScienTec Consulting Pte. Ltd.
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
