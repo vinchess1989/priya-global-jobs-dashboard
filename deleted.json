@@ -26926,5 +26926,22 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": "job_descriptions/fisher___paykel_heal_senior_quality_systems_enginee_fdc5dba2.txt",
     "deletion_reason": "Deadline (2026-11-12) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Platform Manager",
+    "company": "Qantas",
+    "location": "Adelaide, South Australia, Australia",
+    "url": "https://au.linkedin.com/jobs/view/platform-manager-at-qantas-4489511857",
+    "visited": "yes",
+    "matches_requirements": "yes",
+    "reason": "The role aligns with her background in platform management, release governance, and operational reliability, and it is located in an eligible country (Australia) without explicit visa restrictions.",
+    "id": "30b3c488",
+    "source": "linkedin_au_release_manager",
+    "added_at": "2026-11-14T01:31:31+02:00",
+    "posted_date": "2026-11-14",
+    "deadline": "2024-11-27",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": "job_descriptions/qantas_platform_manager_30b3c488.txt",
+    "deletion_reason": "Deadline (2024-11-27) passed by more than 2 days and unreviewed"
   }
 ]
