@@ -1,9 +1,9 @@
 {
   "pid": 41480,
   "started_at": "2026-11-13T01:12:41+02:00",
-  "heartbeat_at": "2026-11-13T02:03:53+02:00",
+  "heartbeat_at": "2026-11-13T02:10:12+02:00",
   "phase": "reviewing",
-  "detail": "Apply on company site",
-  "last_scrape_ok_at": "2026-11-13T02:01:32+02:00",
+  "detail": "Ing\u00e9nieur\u00b7e ILS",
+  "last_scrape_ok_at": "2026-11-13T02:06:24+02:00",
   "last_error": null
 }
