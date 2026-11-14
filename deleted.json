@@ -26943,5 +26943,22 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": "job_descriptions/qantas_platform_manager_30b3c488.txt",
     "deletion_reason": "Deadline (2024-11-27) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Calibration Manager",
+    "company": "Air New Zealand",
+    "location": "Christchurch, Canterbury, New Zealand",
+    "url": "https://nz.linkedin.com/jobs/view/calibration-manager-at-air-new-zealand-4490084910",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job explicitly requires the legal right to live and work in New Zealand at the time of application, which the candidate does not currently possess.",
+    "id": "ad20ca4f",
+    "source": "linkedin_nz_configuration_manager",
+    "added_at": "2026-11-14T01:58:03+02:00",
+    "posted_date": "2026-11-13",
+    "deadline": "2025-11-29",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Deadline (2025-11-29) passed by more than 2 days and unreviewed"
   }
 ]
