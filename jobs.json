@@ -314814,20 +314814,19 @@
   },
   {
     "title": "devops engineer",
-    "company": "Extract from page",
-    "location": "Extract from page",
+    "company": "Kablamo Pty Ltd",
+    "location": "Toronto, ON, Canada",
     "url": "https://www.jobbank.gc.ca/jobsearch/jobposting/50710875",
     "visited": "yes",
-    "matches_requirements": "error",
-    "reason": "Page load or parsing error.",
+    "matches_requirements": "yes",
+    "reason": "The role is a DevOps Engineer in Canada, which aligns with the candidate's skills in CI/CD and release pipelines, and it does not trigger any hard rejections.",
     "id": "221a19fb",
     "source": "jobbank_ca_devops_engineer",
     "added_at": "2026-11-13T01:13:23+02:00",
-    "posted_date": "N/A",
-    "deadline": "N/A",
-    "description_file": null,
-    "error_attempts": 1,
-    "last_error_at": "2026-11-13T01:16:13+02:00"
+    "posted_date": "2026-11-12",
+    "deadline": "2026-12-12",
+    "description_file": "job_descriptions/kablamo_pty_ltd_devops_engineer_221a19fb.txt",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite"
   },
   {
     "title": "Sr. Manager, Release & Deployment",
