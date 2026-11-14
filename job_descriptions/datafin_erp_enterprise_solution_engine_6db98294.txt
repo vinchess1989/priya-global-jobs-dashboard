@@ -1,0 +1,320 @@
+Title: ERP Enterprise Solution Engineer (CPT Onsite)
+Company: Datafin
+Location: Salt River, South Africa
+URL: https://www.careerjunction.co.za/erp-enterprise-solution-engineer-cpt-onsite-job-2647267.aspx
+Posted: 2026-11-13
+Deadline: 2026-12-10
+Reason: The role is a strong match for her background in regulated environments (ISO 13485/CSV), release management, and configuration management, and it is located in South Africa, which is a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Your privacy
+
+This site uses cookies and similar technologies to collect and process personal data that recollects your activities and preferences. Some of the personal data, stored on your device, is processed by trusted service providers. We do this to personalise our site, services and the adverts you are shown on and off our website. Click 'I accept' to consent to the use of these technologies or 'Settings' if you wish to manage your settings. You can always change the setting by going to the Cookie Policy page. Necessary cookies enable core functionality such as security, network management, and accessibility. You may disable these by changing your browser settings, but this may affect how the website functions.
+
+SETTINGS
+I ACCEPT
+SIGN IN / SIGN UP
+×
+ 
+Location
+Location
+Work From Home
+Gauteng
+    Johannesburg South
+    Johannesburg Region
+    Pretoria Region
+    East Rand
+    West Rand
+    Vaal
+Western Cape
+    Cape Town Region
+    Winelands
+    West Coast
+    Garden Route
+    Overberg
+    Karoo
+KwaZulu-Natal
+    Durban Region
+    North Coast
+    Midlands & Interior
+    South Coast
+Eastern Cape
+Free State
+Mpumalanga
+Limpopo
+North West
+Northern Cape
+International
+ 
+In All Categories
+In All Categories
+Admin, Office & Support
+Agriculture, Fishing & Forestry
+Architecture & Engineering
+Building & Construction
+Business & Management
+Cleaning, Maintenance & Repair
+Community & Social Welfare
+Design, Media & Arts
+Education, Training & Library
+Finance
+Information Technology
+Legal
+Manufacturing & Assembly
+Marketing
+Medical & Health
+Mining
+Personal Appearance
+Restaurant & Hospitality
+Sales
+Science & Technology
+Security & Emergency Services
+Sport & Fitness
+Telecommunication
+Transportation
+Travel & Tourism
+Warehousing & Logistics
+Other
+SEARCH
+ 
+
+SHARE THIS JOB
+
+ERP ENTERPRISE SOLUTION ENGINEER (CPT ONSITE)
+DATAFIN
+R Undisclosed
+Permanent Senior position
+Salt River
+Posted 13 Nov 2026 by Datafin
+Expires in 27 days
+Job 2647267 - Ref 2609316
+ SAVE APPLY NOW
+ABOUT THE POSITION
+
+ENVIRONMENT:
+
+A global & cutting-edge Biotech company seeks the technical expertise of an ERP Enterprise Solution Engineer who own its ERP architecture, technical design, live/test environments, SQL Server and application health, integrations, security, releases, monitoring, backup and recovery readiness, and technical delivery of new modules, fixes and rollouts. This role is responsible for understanding business needs, aligning technology solutions, and ensuring the successful stabilization, optimization, and utilization of ERP, MES and other related systems to support the achievement of strategic goals, including planning and executing new phased rollouts of modules, integrations, sites and entities. You will serve as a key advocate for leveraging technology to enhance operational efficiency and drive business outcomes. The successful incumbent should possess a Degree or Diploma in IT/Systems, or equivalent qualification from a recognized tertiary institution in Information Technology with 7+ years proven experience in a similar role, preferably with a focus on ERP systems including hands-on experience implementing, administering and supporting Epicor Kinetic is required or strongly preferred. You will also need SQL Server administration, including backups, recovery and maintenance, REST and OData integration and API troubleshooting & BAQ, dashboard and SSRS Report Development experience.
+
+DUTIES:
+
+ERP Architecture and Technical Ownership -
+
+
+
+Own the global Epicor Kinetic architecture, technical roadmap and solution standards, ensuring new modules, fixes and enhancements align with approved business rules, processes, security and CSV controls.
+Translate approved requirements into system configuration, technical specifications, integrations and controlled development using appropriate Epicor capabilities.
+Provide technical leadership to the ERP Application Engineer and act as the final internal escalation point for complex ERP issues.
+
+Platform, Server and Environment Management -
+
+
+Administer various environments, SQL Server, application services, scheduled processes, monitoring, patches, upgrades and deployment registers.
+Maintain system availability and recoverability through backup/restore verification, recovery planning, performance monitoring and coordinated infrastructure remediation.
+Liaise with Solution Architects to align enterprise system architecture with broader enterprise architecture principles.
+
+Integration, Security and Controlled Change -
+
+
+Design, operate and troubleshoot ERP integrations, APIs and interfaces with finance, banking, tax, shipping, CRM, data and manufacturing systems.
+Administer privileged ERP security, service accounts, credentials and technical access controls, and maintain controlled release, change and rollback procedures.
+
+ERP Platform and Environment Lifecycle Management -
+
+
+Administer the Epicor Kinetic environment estate, including LIVE, TEST and DEV environment management and refreshes, backup and restore verification, and version and patch management aligned to tested baselines.
+Maintain deployment registers for customizations, BPM directives, Epicor Functions and configuration changes, and monitor scheduled processes and system agent health.
+Operate monitoring and alerting for applications, databases, print and integration services.
+
+Data, MDM, Reporting and BI Collaboration -
+
+
+Support the Master Data Management team with ERP data models, DMT-related technical guidance, migration dependencies, troubleshooting and validation; MDM retains responsibility for preparing and executing master data uploads.
+Support Data Architects and BI report writers with ERP source definitions, data lineage, extracts, BAQs/SSRS, integration dependencies and ERP-side troubleshooting.
+Own technical configuration and controlled deployment of ERP reports, labels, CofA outputs and print-routing components where these reside within the ERP platform.
+
+Incident, Rollout and Compliance Management -
+
+
+Lead L2/L3 technical incident and problem resolution, root-cause analysis, vendor escalation and permanent corrective actions.
+Lead technical release, cutover, recovery and hypercare activities for new modules, integrations, sites and entities.
+Ensure technical changes protect traceability, label/CofA integrity, financial posting integrity and regulated-system compliance.
+
+Project Management and Plan of Record -
+
+
+Develop comprehensive project plans, timelines, and milestones for system initiatives, and maintain a single integrated plan of record with a RAID log, decision log and steering reporting cadence.
+Ensure every task, decision and risk has a named owner and keep all planning documents coherent with the plan of record.
+
+Regulated Systems Compliance -
+
+
+Maintain CSV validation evidence and change control for configurations, customizations and lot mask changes.
+Safeguard traceability, label and CofA integrity, and financial posting integrity in system design and operation.
+
+REQUIREMENTS:
+
+Qualifications –
+
+
+A Degree or Diploma in Information Technology/Systems, or equivalent qualification from a recognized tertiary institution in Information Technology.
+
+Experience/Skills –
+
+
+7+ Years proven experience in a similar role, preferably with a focus on ERP systems.
+Hands on experience implementing, administering and supporting Epicor Kinetic is required or strongly preferred.
+Strong familiarity with various business processes across different departments, such as Finance, Supply Chain, Manufacturing, and HR, is crucial. This helps in translating business requirements into effective technology solutions.
+Proficiency in defining data mapping, transformation, and conversion processes to ensure seamless data flow between systems.
+Experience with data manipulation tools and techniques is essential.
+Demonstrated experience with designing, implementing, and managing integrations between ERP systems and other applications using middleware solutions
+Proven track record in managing projects, especially those related to ERP implementation, upgrades, or integration initiatives.
+Skills in defining project scopes, timelines, resource allocation, and risk management are important.
+Experience in Change Management strategies, including user training and adoption planning, to ensure smooth transitions during ERP implementations and updates.
+Experience in working collaboratively with external partners, third party vendors, and consultants to facilitate successful system integrations.
+Experience in regulated manufacturing environments (ISO13485, GMP or CSV governed), including validation evidence, change control, traceability, label and CofA integrity, and audit support.
+Experience supporting multi-site, multi-company ERP operations with intercompany transactions across time zones.
+Working knowledge of posting rules, month end close support, bank and tax integrations, and reconciliation controls.
+SQL Server administration (backups, recovery models, maintenance) and REST or OData integration experience.
+
+The Candidate must demonstrate the following skills & attributes: Strong understanding of -
+
+
+Business processes and operations
+Enterprise Architecture principles, including integration patterns and best practices
+Analytical and problem-solving skills
+Excellent organizational skills and outstanding attention to detail
+Effective written, verbal and presentation and listening communications skills
+Strong teamwork and collaboration skills
+SQL Server administration, including backups, recovery and maintenance
+REST and OData integration and API troubleshooting
+BAQ, dashboard and SSRS Report Development
+Data Analysis and reconciliation
+Stress and Time Management
+Honest and trustworthy
+Possess cultural awareness and sensitivity
+Flexible and able to work long hours
+
+Desired Skills:
+
+ERP
+Enterprise
+Solution
+
+APPLY NOW
+DATAFIN
+
+VIEW AGENCY PROFILE
+
+SEE ALL DATAFIN JOBS
+
+ABOUT THE AGENCY
+
+Datafin Recruitment was established in 1999 and is one of South Africa’s leading Recruitment companies. Owned and managed by two sisters Lindy and Bev Sollinger, we focus on connecting with both our clients and candidates in an authentic conscious meaningful manner. We focus on the Tech, Digital/Online, Data, Finance and HR industries.
+
+Receive a daily digest of all new jobs matching this job. Your information is safe with us and you can cancel any time.
+
+EMAIL ME JOBS LIKE THIS
+ 
+
+SHARE THIS JOB
+
+RECOMMENDED JOBS FOR YOU
+Project Manager - Residential Developments (Stellenbosch Onsite)
+
+Datafin
+
+Permanent Management position
+
+Stellenbosch
+
+Expires in 13 days
+
+Project Engineer - Mechanical &Amp; Hydraulics
+
+The Talent Experts
+
+Permanent Intermediate position
+
+Durbanville
+
+Expires in 25 days
+
+Project Manager At Sabenza IT & Recruitment
+
+DCV Sabenza IT and Recruitment
+
+Contract Senior EE position
+
+Cape Town
+
+Expires in 22 days
+
+Release Train Engineer
+
+QE Services (QE Services)
+
+Contract Intermediate position
+
+Cape Town CBD
+
+Expires in 26 days
+
+Product Delivery Manager At Sabenza IT & Recruitment
+
+DCV Sabenza IT and Recruitment
+
+Permanent Management position
+
+Cape Town
+
+Expires in 26 days
+
+National Head Of Facilities
+
+The Talent Experts
+
+Permanent Senior position
+
+Cape Town CBD
+
+Expires in 3 days
+
+Email me jobs similar to: ERP ENTERPRISE SOLUTION ENGINEER (CPT ONSITE)
+JOB SEEKERS
+SITE
+Home / Search Jobs
+My Jobs
+My Alerts
+My Profile & CV
+ASSISTANCE
+FAQ & Support
+ACCOUNT
+Sign In | Sign Up
+AGENCIES & EMPLOYERS
+SITE
+Home / Find Talent
+Recruit Assist
+ASSISTANCE
+FAQ & Support
+ACCOUNT
+Sign Up | Sign In
+Sales Enquiry
+CAREERJUNCTION
+INFO
+About Us / Contact Us
+Work for Us
+Sister Sites
+Our Partners
+CareerJunction Blog
+How It Works
+
+© 2026 Copyright: www.careerjunction.co.za
+
+ 
+
+PAIA,Privacy, Cookies & Terms
+
+    

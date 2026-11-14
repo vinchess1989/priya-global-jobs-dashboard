@@ -1,0 +1,304 @@
+Title: Senior Infrastructure Engineer at Sabenza IT & Recruitment
+Company: DCV Sabenza IT and Recruitment
+Location: Pretoria, South Africa
+URL: https://www.careerjunction.co.za/senior-infrastructure-engineer-at-sabenza-it-%26-recruitment-job-2647265.aspx
+Posted: 2026-11-13
+Deadline: 2026-12-12
+Reason: The role aligns with the candidate's DevOps and infrastructure automation background, is located in South Africa (a target country), and does not trigger any hard rejections.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Your privacy
+
+This site uses cookies and similar technologies to collect and process personal data that recollects your activities and preferences. Some of the personal data, stored on your device, is processed by trusted service providers. We do this to personalise our site, services and the adverts you are shown on and off our website. Click 'I accept' to consent to the use of these technologies or 'Settings' if you wish to manage your settings. You can always change the setting by going to the Cookie Policy page. Necessary cookies enable core functionality such as security, network management, and accessibility. You may disable these by changing your browser settings, but this may affect how the website functions.
+
+SETTINGS
+I ACCEPT
+SIGN IN / SIGN UP
+×
+ 
+Location
+Location
+Work From Home
+Gauteng
+    Johannesburg South
+    Johannesburg Region
+    Pretoria Region
+    East Rand
+    West Rand
+    Vaal
+Western Cape
+    Cape Town Region
+    Winelands
+    West Coast
+    Garden Route
+    Overberg
+    Karoo
+KwaZulu-Natal
+    Durban Region
+    North Coast
+    Midlands & Interior
+    South Coast
+Eastern Cape
+Free State
+Mpumalanga
+Limpopo
+North West
+Northern Cape
+International
+ 
+In All Categories
+In All Categories
+Admin, Office & Support
+Agriculture, Fishing & Forestry
+Architecture & Engineering
+Building & Construction
+Business & Management
+Cleaning, Maintenance & Repair
+Community & Social Welfare
+Design, Media & Arts
+Education, Training & Library
+Finance
+Information Technology
+Legal
+Manufacturing & Assembly
+Marketing
+Medical & Health
+Mining
+Personal Appearance
+Restaurant & Hospitality
+Sales
+Science & Technology
+Security & Emergency Services
+Sport & Fitness
+Telecommunication
+Transportation
+Travel & Tourism
+Warehousing & Logistics
+Other
+SEARCH
+ 
+
+SHARE THIS JOB
+
+SENIOR INFRASTRUCTURE ENGINEER AT SABENZA IT & RECRUITMENT
+DCV SABENZA IT AND RECRUITMENT
+R1.00 - R2.00 per hour
+Contract Senior position
+Pretoria
+Posted 13 Nov 2026 by DCV Sabenza IT and Recruitment
+Expires in 29 days
+Job 2647265 - Ref 878000029678519
+ SAVE APPLY NOW
+ABOUT THE POSITION
+
+What happens when world-class automotive innovation meets cutting-edge cloud technology?
+
+
+You get an opportunity to work with a leading global automotive organization, contributing to an international Zero Trust transformation initiative that is reshaping how enterprise infrastructure is secured, connected and managed.
+
+
+We're looking for an experienced Infrastructure Engineer who knows their way around AWS, Kubernetes, Terraform and cloud security. Someone who doesn't just keep infrastructure running but knows how to build, automate, optimize and secure platforms for the future.
+
+
+You'll be helping deliver secure, scalable and highly available infrastructure supporting a global IT landscape.
+
+
+
+
+RequirementsESSENTIAL SKILLS:
+
+
+Strong hands-on experience with AWS cloud platform as the primary cloud provider.
+
+Deep knowledge of networking fundamentals including DNS (ROUTE53), VPC & Subnets, load balancers (ALB & NLB).
+
+Expertise with storage (S3, RDS DB's) and compute services (EC2, EC6 & EKS) in public cloud environments.
+
+Proficient with container technologies such as Docker and Kubernetes for platform deployments.
+
+Strong competence in security controls: IAM, RBAC (Oauth2, IdP), secrets management and security frameworks.
+
+Infrastructure-as-Code and automation experience using Terraform and CI/CD tooling (GitHub Actions & workflows).
+
+Infrastructure testing and security: experience building automated tests for IaC (unit tests, plan/apply validations), IaC security scanning (e.g., checkov, tfsec) and secure deployment pipelines.
+
+Experience implementing and operating monitoring and observability solutions (Grafana, Prometheus, LOKI, CloudWatch Logs & Application Insights).
+
+Skilled in designing secure, highly available and scalable platform architectures.
+
+Comfortable building, consuming and integrating interfaces and APIs across infrastructure and platform components.
+
+ADVANTAGEOUS SKILLS:
+
+Experience or familiarity with Java and Python for automation and platform tooling.
+
+Knowledge of a database query language.
+
+Exposure to message-based platforms such as Kafka.
+
+Experience with enterprise systems infrastructure such as SAP.
+
+Understanding of secret and certificate lifecycle management at scale.
+
+Experience with performance tuning and cost optimization strategies.
+
+Experience with high-availability design patterns, disaster recovery and backup strategies.
+
+Knowledge on identity and access governance or Zero Trust platform integrations.
+
+Experience with CI/CD security scanning (GHAS, IaC scanning) and vulnerability management.
+
+Familiarity with serverless platforms (Lambda, Step Functions, EventBridge) for event-driven workloads.
+
+Experience with ATC Confluence & Jira in a agile working environment.
+
+
+QUALIFICATIONS/EXPERIENCE:
+
+AWS Cloud Ops Engineer Associate and/or Developer.
+
+Extensive hands-on experience (typically 6+ years) in cloud infrastructure, platform engineering or DevOps roles with strong AWS experience.
+
+Proven track record of designing and operating secure, scalable, highly available cloud platforms, with demonstrable experience in networking, containers, security and automation.
+
+Strong systems thinking, risk management and problem-solving skills; Have a curious solution-minded, takes ownership, drives topics.
+
+
+
+
+Desired Skills:
+
+AWS cloud platform
+Networking Fundamentals
+Storage
+Compute Services
+
+Desired Qualification Level:
+
+Degree
+
+About The Employer:
+
+
+
+
+APPLY NOW
+DCV SABENZA IT AND RECRUITMENT
+
+VIEW AGENCY PROFILE
+
+SEE ALL DCV SABENZA IT AND RECRUITMENT JOBS
+
+ABOUT THE AGENCY
+
+Dedicated to the recruitment of IT professionals Sabenza iT is a South African registered business focusing on Finance, Engineering, SAP and general iT recruitment. We have over 18 years' experience in recruiting in South Africa, Australia, Europe, South America and Asia and have worked with a number of large companies offering the best service. We at Sabenza iT understands the changing market and we mold our services around each of our client'...
+
+read more
+
+Receive a daily digest of all new jobs matching this job. Your information is safe with us and you can cancel any time.
+
+EMAIL ME JOBS LIKE THIS
+ 
+
+SHARE THIS JOB
+
+RECOMMENDED JOBS FOR YOU
+Senior Python AI Engineer At Sabenza IT & Recruitment
+
+DCV Sabenza IT and Recruitment
+
+Contract Executive position
+
+Pretoria
+
+Expires in 18 days
+
+Senior Platform Engineer (PTA) (Crossplane &Amp; Backstage) At Sabenza IT & Recruitment
+
+DCV Sabenza IT and Recruitment
+
+Permanent Senior position
+
+Pretoria
+
+Expires in 6 days
+
+Cloud Security Specialist (Azure/AWS) - Hybrid - JHB
+
+Datafin
+
+Permanent Senior position
+
+Johannesburg
+
+Expires in 5 days
+
+Senior Data Engineer At Sabenza IT & Recruitment
+
+DCV Sabenza IT and Recruitment
+
+Contract Intermediate EE position
+
+Clubview
+
+Expires in 13 days
+
+OpenText Appworks Configuration Specialist
+
+Paracon
+
+Contract Specialist position
+
+Pretoria
+
+Expires in 15 days
+
+.NET Developer
+
+MSP Staffing
+
+Permanent Senior position
+
+Cape Town CBD
+
+Expires in 24 days
+
+Email me jobs similar to: SENIOR INFRASTRUCTURE ENGINEER AT SABENZA IT & RECRUITMENT
+JOB SEEKERS
+SITE
+Home / Search Jobs
+My Jobs
+My Alerts
+My Profile & CV
+ASSISTANCE
+FAQ & Support
+ACCOUNT
+Sign In | Sign Up
+AGENCIES & EMPLOYERS
+SITE
+Home / Find Talent
+Recruit Assist
+ASSISTANCE
+FAQ & Support
+ACCOUNT
+Sign Up | Sign In
+Sales Enquiry
+CAREERJUNCTION
+INFO
+About Us / Contact Us
+Work for Us
+Sister Sites
+Our Partners
+CareerJunction Blog
+How It Works
+
+© 2026 Copyright: www.careerjunction.co.za
+
+ 
+
+PAIA,Privacy, Cookies & Terms
+
+    
