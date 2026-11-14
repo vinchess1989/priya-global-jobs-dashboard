@@ -27402,5 +27402,22 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": null,
     "deletion_reason": "Deadline (2026-06-25) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Team Lead, Knowledge Management",
+    "company": "Coast Capital",
+    "location": "Surrey, British Columbia, Canada",
+    "url": "https://ca.linkedin.com/jobs/view/team-lead-knowledge-management-at-coast-capital-4478613555",
+    "visited": "yes",
+    "matches_requirements": "maybe",
+    "reason": "The role aligns with her technical documentation and information management background, but it is unclear if the employer provides visa sponsorship for international candidates.",
+    "id": "7afe9c80",
+    "source": "linkedin_ca_configuration_manager",
+    "added_at": "2026-11-15T01:35:11+02:00",
+    "posted_date": "2026-11-15",
+    "deadline": "2026-10-19",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-10-19) passed by more than 2 days and unreviewed"
   }
 ]
