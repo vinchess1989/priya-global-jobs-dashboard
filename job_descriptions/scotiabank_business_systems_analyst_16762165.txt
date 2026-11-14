@@ -1,0 +1,282 @@
+Title: Business Systems Analyst
+Company: Scotiabank
+Location: Toronto, Ontario, Canada
+URL: https://ca.linkedin.com/jobs/view/business-systems-analyst-at-scotiabank-4489842022
+Posted: 2026-11-14
+Deadline: N/A
+Reason: The role aligns perfectly with the candidate's expertise in requirements traceability, release readiness, and quality gatekeeping within a regulated environment, and it is located in a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Business Systems Analyst
+Scotiabank  Toronto, Ontario, Canada
+1 hour ago   Be among the first 25 applicants
+  
+
+See who Scotiabank has hired for this role
+
+Apply 
+Save
+Requisition ID: 279332
+
+Join a purpose driven winning team, committed to results, in an inclusive and high-performing culture.
+
+Scotiabank continues to be an industry leader for Payments technology and innovation. We have a history of safely leveraging new tools to enable new experiences for our customers, focusing on ensuring we protect their interests and goals. The result of this leads to modernization programs which aim to offer enriched information and transparencies to support the rapidly evolving payments community.
+
+The Role
+
+We are looking for an enthusiastic individual who understands the end-to-end lifecycle of international payments and can collaborate effectively with banks, fintech partners, and internal technology teams also to innovate and collaborate on the value-driven goals in delivering customer value. You will engage in a fast-paced and challenging environment, with opportunities to build new relationships and learn how you can make an impact in the competitive, trillion-dollar, Payments industry. You will be exposed to a wide range of businesses both internally and externally, then leveraging Scotiabank’s strong technology base, build and develop on strategic, forward-looking infrastructure.
+
+What You’ll Do
+
+
+Develop business and system requirements, including user stories, acceptance criteria, business rules, process flows, story maps, and supporting functional documentation.
+Document end-to-end payment journeys covering initiation, validation, routing, processing, clearing and settlement, reconciliation, rejects, returns, and exceptions.
+Produce impact analyses identifying affected payment flows, integration points, data requirements, dependencies, operational impacts, and gaps.
+Support Scrum Masters, Product Owners, and Engineering Leaders with initiative planning and scoping, providing impact assessments, dependencies, risks, and analysis needed to define and sequence the work.
+Develop risk analyses that identify delivery, implementation, operational, and payment-processing risks, with appropriate controls and mitigations.
+Develop test strategies and plans defining scope, scenarios, environments, test data, dependencies, entry and exit criteria, and expected coverage.
+Create and execute functional, integration, end-to-end, regression, negative, exception, recovery, reconciliation, and certification test scenarios and cases.
+Validate ISO 20022 messages, business rules, transaction outcomes, settlement and reconciliation, including reject, return, and exception flows.
+Coordinate certification and interoperability testing with payment networks, financial institutions, and external partners, including test planning, execution, defect management, and evidence.
+Maintain traceability across requirements, acceptance criteria, test coverage, defects, and release readiness.
+Produce defect and root-cause analyses for complex test and production issues and work with delivery teams through resolution and validation.
+Develop implementation and production validation plans covering deployment checks, critical payment flows, reconciliation, operational verification, and success criteria.
+Facilitate working sessions with business, technology, and operations teams to develop standard operating procedures, runbooks, change-management plans, and support documentation required to operationalize new or changed capabilities.
+Produce release-readiness assessments covering test results, defects, risks, dependencies, operational readiness, and outstanding items to support go/no-go decisions.
+Contribute reusable standards, templates, and knowledge that improve requirements, testing, and production-readiness practices across the team.
+
+
+What You'll Bring
+
+
+Strong understanding of the end-to-end payment lifecycle, including processing, clearing and settlement, reconciliation, rejects, returns, and exception handling.
+Experience with Low Value, domestic account-to-account, or real-time payment systems.
+Experience with ISO 20022 and XML payment messages.
+Strong business and systems analysis experience, with demonstrated ability to produce requirements, user stories, acceptance criteria, process flows, story maps, and impact analyses.
+Hands-on experience developing test strategies and executing functional, integration, end-to-end, regression, and certification testing.
+Experience designing test coverage for positive, negative, reject, return, exception, recovery, and reconciliation scenarios.
+Experience producing risk assessments, implementation plans, production validation plans, operating procedures, or similar delivery artifacts.
+Experience investigating complex defects and production issues across integrated systems.
+Ability to understand complex system interactions and identify downstream impacts, dependencies, and gaps.
+Ability to communicate clearly and work effectively across business, technology, operations, payment networks, financial institutions, and external partners.
+
+
+Nice To Have
+
+
+Experience with batch payments such as EFTs, ACH, or Real-Time Rail (RTR).
+Knowledge of payment clearing and settlement processes.
+Experience with ISO 20022 payment and payment-status messages.
+Experience with industry certification, interoperability, or bilateral testing with financial institutions.
+Working knowledge of SQL for transaction analysis, reconciliation, and test validation.
+Experience testing APIs and working with XML or JSON payloads.
+Experience with event-driven or message-based integrations.
+Experience with test automation.
+Experience supporting highly available or real-time transaction-processing platforms.
+Experience delivering large-scale payment modernization initiatives.
+
+
+What's in it for you?
+
+
+Diversity, Equity, Inclusion & Allyship - We strive to create an inclusive culture where every employee is empowered to reach their fullest potential, respected for who they are, and are embraced through bias-free practices and inclusive values across Scotiabank. We embrace diversity and provide opportunities for all employee to learn, grow & participate through our various Employee Resource Groups (ERGs) that span across diverse gender identities, ethnicity, race, age, ability & veterans.
+Accessibility and Workplace Accommodations - We value the unique skills and experiences each individual brings to the Bank and are committed to creating and maintaining an inclusive and accessible environment for everyone. Scotiabank continues to locate, remove, and prevent barriers so that we can build a diverse and inclusive environment while meeting accessibility requirements.
+Upskilling through online courses, cross-functional development opportunities, and tuition assistance.
+Competitive Rewards program including bonus, flexible vacation, personal, sick days, and benefits will start on day one.
+Community Engagement - no matter where you choose to work from; we offer opportunities for community engagement & belonging with our various programs.
+
+
+Location(s): Canada : Ontario : Toronto
+
+Scotiabank is a leading bank in the Americas. Guided by our purpose: "for every future", we help our customers, their families and their communities achieve success through a broad range of advice, products and services, including personal and commercial banking, wealth management and private banking, corporate and investment banking, and capital markets.
+
+At Scotiabank, we value the unique skills and experiences each individual brings to the Bank, and are committed to creating and maintaining an inclusive and accessible environment for everyone. If you require accommodation (including, but not limited to, an accessible interview site, alternate format documents, ASL Interpreter, or Assistive Technology) during the recruitment and selection process, please let our Recruitment team know. If you require technical assistance, please click here. Candidates must apply directly online to be considered for this role. We thank all applicants for their interest in a career at Scotiabank; however, only those candidates who are selected for an interview will be contacted.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Banking
+  
+
+Referrals increase your chances of interviewing at Scotiabank by 2x
+
+See who you know
+
+Get notified about new Business System Analyst jobs in Toronto, Ontario, Canada.
+
+Sign in to create job alert
+Jobs
+Analyst jobs
+Business Systems Analyst
+Similar jobs
+Systems Administrator & Business Analyst
+Systems Administrator & Business Analyst
+University of Niagara Falls Canada
+Niagara Falls, Ontario, Canada
+CA$90,000 - CA$110,000
+1 week ago
+Business Systems Analyst
+Business Systems Analyst
+UST
+Toronto, Ontario, Canada
+2 weeks ago
+Job ID #32347: Senior Business Application Analyst-Budgets
+Job ID #32347: Senior Business Application Analyst-Budgets
+City Of Hamilton
+Hamilton, Ontario, Canada
+1 day ago
+Business Systems Analyst
+Business Systems Analyst
+Manulife
+Toronto, Ontario, Canada
+2 weeks ago
+Business Systems Analyst FCC
+Business Systems Analyst FCC
+Fidelity Canada
+Toronto, Ontario, Canada
+1 week ago
+Business Systems Analyst
+Business Systems Analyst
+Scotiabank
+Toronto, Ontario, Canada
+1 week ago
+Show more jobs like this 
+People also viewed
+Analyst, Business Systems - CRM
+Analyst, Business Systems - CRM
+
+Canada Infrastructure Bank/ Banque de l'infrastructure du Canada
+
+Toronto, Ontario, Canada
+2 hours ago
+Business Systems Analyst - Guidewire
+Business Systems Analyst - Guidewire
+
+Co-operators Assurance et services financiers
+
+Guelph, Ontario, Canada
+1 week ago
+Senior Systems Analyst
+Senior Systems Analyst
+
+OCS Ontario Cannabis Store
+
+Toronto, Ontario, Canada
+2 weeks ago
+Senior Business Systems Analyst
+Senior Business Systems Analyst
+
+OpenTable
+
+Toronto, Ontario, Canada
+2 weeks ago
+Business Services Specialist
+Business Services Specialist
+
+Durham Region (The Regional Municipality of Durham)
+
+Whitby, Ontario, Canada
+1 week ago
+Senior Business Systems Analyst
+Senior Business Systems Analyst
+
+RAVL
+
+Toronto, Ontario, Canada
+5 months ago
+Technical Business Analyst
+Technical Business Analyst
+
+Scotiabank
+
+Toronto, Ontario, Canada
+2 days ago
+Business Analyst
+Business Analyst
+
+Tata Consultancy Services
+
+Mississauga, Ontario, Canada
+CA$100,000 - CA$120,000
+4 weeks ago
+Business Analyst
+Business Analyst
+
+Fidelity Canada
+
+Toronto, Ontario, Canada
+5 hours ago
+Business Analyst
+Business Analyst
+
+Facility Association
+
+Toronto, Ontario, Canada
+CA$95,000 - CA$116,000
+2 weeks ago
+Similar Searches
+Analyst jobs
+36,938 open jobs
+Software System Analyst jobs
+76 open jobs
+Senior Business System Analyst jobs
+1,916 open jobs
+Data System Analyst jobs
+206 open jobs
+Project Cost Controller jobs
+139 open jobs
+Financial Systems Analyst jobs
+2,306 open jobs
+Lead Business System Analyst jobs
+1,911 open jobs
+Access Developer jobs
+310 open jobs
+Learning Technology Manager jobs
+407 open jobs
+Project Control Officer jobs
+176 open jobs
+Business System Consultant jobs
+1,374 open jobs
+Business Analyst Quality Assurance jobs
+110 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
