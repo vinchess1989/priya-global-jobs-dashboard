@@ -1,0 +1,231 @@
+Title: Quality Assurance Automation Engineer
+Company: iSoftStone
+Location: Hong Kong, Hong Kong SAR
+URL: https://hk.linkedin.com/jobs/view/quality-assurance-automation-engineer-at-isoftstone-4490315173
+Posted: 2026-11-13
+Deadline: N/A
+Reason: The role aligns with the candidate's expertise in CI/CD, automation, and quality engineering, and it is located in a target country (Hong Kong) with no restrictive language requirements.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Quality Assurance Automation Engineer
+iSoftStone  Hong Kong, Hong Kong SAR
+2 days ago   Be among the first 25 applicants
+  
+
+See who iSoftStone has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Direct message the job poster from iSoftStone
+
+Olina Wang
+Olina Wang
+Recruiting Manager @ iSoftStone | Executive Search, Performance Management
+
+ABOUT THE ROLE
+
+We are looking for a proactive, hands-on QA Automation & CI / Lab Engineer in Hong Kong to own automated testing pipelines, conduct offline evaluations, and manage our on-site test hardware lab. You will maintain automated test suites for 3D reconstruction and spatial computing projects, execute and automate offline evaluation workflows, keep our lab hardware fleet healthy and up to date, and build scripts and tooling that improve the daily engineering workflow of the team. Strong proficiency in using AI/LLM coding tools to rapidly build and maintain automation is highly valued.
+
+
+
+
+KEY RESPONSIBILITIES
+
+Automated Testing & Maintenance: Take ownership of automated test suites for projects in maintenance and active development across macOS, iOS, and visionOS. Monitor scheduled build and test jobs, analyze test failures, and file
+
+detailed bug reports.
+
+Offline Evaluation: Carry out and automate offline evaluation runs for computer vision and media projects—executing batch evaluation pipelines across datasets, aggregating quality metrics, analyzing regressions, and generating evaluation reports for engineers.
+
+CI/CD & Scripting: Develop and maintain scripts and tools (Bash, Python, Jenkins/CI pipelines) to automate periodic builds, OS/firmware updates, and recurring regression/evaluation jobs.
+
+Test Hardware & Lab Management: Manage and maintain the office test device fleet (Macs, iPhones, iPads, and head-mounted displays). Keep test hardware updated, connected, and reliable for automated and remote execution.
+
+Lab & Network Room Upkeep: Organize, cable-manage, and maintain the physical lab environment and network room to ensure high availability and a clean, well-documented hardware setup.
+
+Developer Quality-of-Life: Proactively identify bottlenecks in the team's testing, evaluation, or hardware setup and build practical tools or automations to solve them.
+
+MINIMUM QUALIFICATIONS
+
+Solid experience in QA automation, CI/CD administration (e.g., Jenkins), and scripting (Bash/Shell, Python).
+
+Hands-on experience managing macOS/iOS device fleets, hardware provisioning, or physical test lab environments.
+
+Basic hardware troubleshooting and physical lab organization skills.
+
+Clear written and verbal communication skills in English, with a self-starter mindset.
+
+
+
+
+PREFERRED QUALIFICATIONS (BONUS)
+
+AI / LLM Tool Proficiency (Strong Plus): Strong, hands-on ability to leverage AI coding assistants and LLM-powered tools
+
+(e.g., CLI agents, AI IDEs) to rapidly write, debug, refactor, and maintain automation scripts, CI pipelines, and internal developer tooling.
+
+Knowledge and hands-on experience in networking (routers, switches, VLANs, subnetting, firewall/lab network setup), databases (SQL/NoSQL for storing test/evaluation results and telemetry), and backend development (building internal APIs, dashboards, or automation services).
+
+Familiarity with Xcode command-line tools (xcodebuild, xcrun, device management) and Apple platform testing frameworks (XCTest).● Proficiency in Cantonese and/or Mandarin is a plus
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at iSoftStone by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Senior QA Engineer
+Senior QA Engineer
+Axis Global Tech Limited
+Hong Kong, Hong Kong SAR
+2 weeks ago
+Quality Engineer (Junior)
+Quality Engineer (Junior)
+TEKsystems
+Central, Hong Kong SAR
+4 days ago
+SDET Automation Engineer for Equity Trading Platform
+SDET Automation Engineer for Equity Trading Platform
+Jefferies
+Hong Kong SAR
+1 week ago
+Test Engineer
+Test Engineer
+Bybit
+Hong Kong, Hong Kong SAR
+5 days ago
+Test Automation Manager
+Test Automation Manager
+Bupa Hong Kong
+Ngau Tau Kok, Hong Kong SAR
+1 day ago
+Principal QA Engineer/ QA Manager
+Principal QA Engineer/ QA Manager
+BTSE
+Hong Kong, Hong Kong SAR
+1 week ago
+Show more jobs like this 
+People also viewed
+Test Engineer
+Test Engineer
+
+Hitachi Rail
+
+Hong Kong, Hong Kong SAR
+6 days ago
+Senior Software Engineer – Group Risk Management Systems - AVP
+Senior Software Engineer – Group Risk Management Systems - AVP
+
+Hong Kong Exchanges and Clearing Limited (HKEX)
+
+Hong Kong, Hong Kong SAR
+1 month ago
+Quality Assurance Engineer
+Quality Assurance Engineer
+
+Fusion Worldwide
+
+Hong Kong SAR
+2 weeks ago
+Senior Software Engineer (1-Year Contract)
+Senior Software Engineer (1-Year Contract)
+
+PUMA Group
+
+Kowloon, Hong Kong SAR
+2 weeks ago
+Senior Engineer
+Senior Engineer
+
+Siemens
+
+Hong Kong, Hong Kong SAR
+1 week ago
+Global Life Insurer - Asia AI Quality & Evaluation Engineer (Regional)
+Global Life Insurer - Asia AI Quality & Evaluation Engineer (Regional)
+
+Argyll Scott
+
+Hong Kong, Hong Kong SAR
+1 week ago
+Quality & Safety Engineer (QSE)
+Quality & Safety Engineer (QSE)
+
+Pan Asia Pacific Aviation Services Limited
+
+Hong Kong SAR
+3 months ago
+Quality Controller
+Quality Controller
+
+Hong Kong Tramways
+
+Hong Kong SAR
+4 weeks ago
+AI Automation Engineer
+AI Automation Engineer
+
+HKT
+
+Hong Kong, Hong Kong SAR
+1 week ago
+Senior Manual QA
+Senior Manual QA
+
+TEKsystems
+
+Central, Hong Kong SAR
+1 week ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

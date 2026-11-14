@@ -1,0 +1,227 @@
+Title: Test Automation Manager
+Company: Bupa Hong Kong
+Location: Ngau Tau Kok, Hong Kong SAR
+URL: https://hk.linkedin.com/jobs/view/test-automation-manager-at-bupa-hong-kong-4489550397
+Posted: 2026-11-14
+Deadline: N/A
+Reason: The role aligns with the candidate's expertise in quality engineering, CI/CD integration, and release readiness, and it is located in a target country (Hong Kong) without any restrictive citizenship or clearance requirements.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Test Automation Manager
+Bupa Hong Kong  Ngau Tau Kok, Hong Kong SAR
+1 day ago   Be among the first 25 applicants
+  
+
+See who Bupa Hong Kong has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+The Test Automation Manager for Bupa HK (Health Insurance & Health Services) is responsible for defining and delivering the test automation strategy, frameworks and capabilities to improve software quality, accelerate delivery and reduce manual testing effort. The role leads the design, development and maintenance of reusable automated tests across front-end, API, integration and back-end systems, embedding continuous testing within CI/CD pipelines across Agile, Scrum, Waterfall and hybrid delivery environments. Working closely with project managers, solution architects, business analysts, developers, application specialists and business users, the role establishes risk-based automation coverage, oversees test execution and defect resolution, and provides clear reporting on quality and release readiness. The role also leads and coaches the testing team and manages vendors to build sustainable automation capabilities and support reliable technology delivery.
+
+Responsibilities
+
+
+Define and drive the test automation strategy, roadmap and standards across projects and programmes, prioritising high-value, risk-based coverage for functional, integration and regression testing.
+Lead the design, development and maintenance of scalable, reusable automation frameworks and test suites covering web, mobile, API and back-end applications.
+Partner with developers and DevOps teams to integrate automated tests into CI/CD pipelines, establish quality gates and enable early defect detection and continuous feedback.
+Evaluate and select automation tools and manage relevant vendors, balancing technical suitability, maintainability, licensing costs and business value.
+Work with business analysts, product teams and business users to translate requirements and acceptance criteria into automated scenarios, aligning coverage with critical business journeys and supporting SIT and UAT.
+Establish and report automation metrics, including coverage, execution time, test reliability, defect leakage and manual effort reduction, to guide continuous improvement and release readiness decisions.
+Oversee automated test execution, investigate failures, distinguish application defects from script or environment issues, and coordinate defect resolution, retesting and root cause analysis.
+Establish coding, review, version control and documentation standards for automation assets; coordinate test environments, test data and service virtualisation in line with data privacy and security requirements.
+Coordinate internal teams, external vendors and onshore/offshore engineers to manage automation scope, estimates, resources, dependencies and delivery milestones.
+Identify opportunities to extend automation to performance and other non-functional testing, working with specialist teams, and support related ad-hoc initiatives as required.
+Carry out all duties in accordance with Bupa's policies and procedures
+Lead and coach QA and automation engineers, providing hands-on technical guidance, code reviews and structured knowledge sharing to strengthen automation skills and engineering practices.
+Drive sustainable adoption of test automation across Bupa HK, balancing automated and manual testing to improve delivery speed, quality and operational reliability.
+
+
+Requirements
+
+
+Bachelor's degree or above in computer science, information systems, or a related discipline
+Minimum 8 years of experience in software testing or quality engineering, including substantial hands-on test automation experience and experience leading testing teams or automation initiatives.
+Proven experience defining automation strategies and building maintainable web, mobile and API test frameworks for medium-sized to large projects involving complex integrations, multiple stakeholders and geographically distributed teams.
+Strong programming and debugging skills in languages such as Java, JavaScript/TypeScript or Python, with hands-on experience in tools such as Playwright, Selenium, Cypress or Appium and API testing tools or libraries.
+Practical experience integrating automated testing with CI/CD pipelines and Git-based version control, together with knowledge of SQL, test data management, IT architecture, APIs and system integration.
+Strong understanding of SDLC, Agile/Scrum, Waterfall and risk-based testing, including regression, system integration, UAT and defect management; experience in insurance or health services is an advantage.
+Demonstrated team leadership, coaching and vendor management skills, with strong analytical and problem-solving capabilities and the ability to communicate technical risks, quality metrics and delivery priorities clearly to technical and business stakeholders.
+Fluent English with strong presentation, technical documentation and report writing skills; relevant testing or test automation certification, such as ISTQB, is an advantage.
+
+
+Benefits
+
+Bupa offers 5 days' work per week and comprehensive remuneration packages including base salary, study assistance plan, company pension plan, life and medical benefit, dental benefit, annual leave, examination leave, etc.
+
+Bupa is an equal opportunity employer and welcomes applications from qualified candidates. Information provided will be treated in strict confidence and only be used for consideration of application with Bupa.
+
+Personal data collected will be used for recruitment purposes only. Bupa will be in touch for any opportunities that matches your profile. All personal data of unsuccessful application will be destroyed 24 months from the date of receiving the application. Full version of Data Privacy Notice available upon request.
+
+What we offer?
+
+
+Pension Plan
+Paid Time Off
+Work From Home
+Training & Development
+Performance Bonus
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Bupa Hong Kong by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Software Quality Assurance Lead
+Software Quality Assurance Lead
+SleekFlow
+Hong Kong, Hong Kong SAR
+2 weeks ago
+QA Automation Lead – Lead AI Testing Project
+QA Automation Lead – Lead AI Testing Project
+DBS Bank
+Hong Kong, Hong Kong SAR
+5 months ago
+Principal QA Engineer/ QA Manager
+Principal QA Engineer/ QA Manager
+BTSE
+Hong Kong, Hong Kong SAR
+1 week ago
+Technology Quality Assurance Lead - Insurance
+Technology Quality Assurance Lead - Insurance
+Captar Partners
+Hong Kong SAR
+2 months ago
+QA Lead
+QA Lead
+Not Another Headhunting Company
+Hong Kong SAR
+2 months ago
+UAT Lead
+UAT Lead
+RedotPay
+Hong Kong, Hong Kong SAR
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Integration Manager
+Integration Manager
+
+Vanderlande
+
+Hong Kong SAR
+5 days ago
+Engineering Manager
+Engineering Manager
+
+SearchApi
+
+Hong Kong, Hong Kong SAR
+4 months ago
+Senior Technical Manager, Scrum Delivery
+Senior Technical Manager, Scrum Delivery
+
+The Hong Kong Jockey Club
+
+Sha Tin District, Hong Kong SAR
+2 weeks ago
+2027 Fresh Grad Hire - System Testing Engineer (Financial Securities System Test
+2027 Fresh Grad Hire - System Testing Engineer (Financial Securities System Test
+
+Futu Holdings Limited
+
+Hong Kong, Hong Kong SAR
+3 weeks ago
+Test Engineer
+Test Engineer
+
+Hitachi Rail
+
+Hong Kong, Hong Kong SAR
+6 days ago
+Manager I, Business Solutions Control Tower
+Manager I, Business Solutions Control Tower
+
+Avnet
+
+Kowloon Bay, Hong Kong SAR
+7 months ago
+Engineering Manager - Asian Timezones
+Engineering Manager - Asian Timezones
+
+hermeneutic research
+
+Hong Kong, Hong Kong SAR
+3 months ago
+(Senior) Application Development Manager
+(Senior) Application Development Manager
+
+Bank of China (Hong Kong)
+
+Hong Kong SAR
+3 weeks ago
+Senior Director, MCI, Automation and Digital Transformation
+Senior Director, MCI, Automation and Digital Transformation
+
+tms
+
+Quarry Bay, Hong Kong SAR
+13 hours ago
+Integration Engineer
+Integration Engineer
+
+Vanderlande
+
+Hong Kong SAR
+2 weeks ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

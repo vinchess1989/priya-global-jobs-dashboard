@@ -1,9 +1,9 @@
 {
   "pid": 40120,
   "started_at": "2026-11-15T01:14:01+02:00",
-  "heartbeat_at": "2026-11-15T01:49:38+02:00",
+  "heartbeat_at": "2026-11-15T01:55:05+02:00",
   "phase": "reviewing",
-  "detail": "Software Engineer, Embedded",
-  "last_scrape_ok_at": "2026-11-15T01:48:05+02:00",
+  "detail": "Business Analyst - Software Delivery",
+  "last_scrape_ok_at": "2026-11-15T01:53:51+02:00",
   "last_error": null
 }

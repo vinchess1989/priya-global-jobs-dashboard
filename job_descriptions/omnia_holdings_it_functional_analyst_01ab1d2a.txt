@@ -1,0 +1,402 @@
+Title: IT Functional Analyst
+Company: Omnia Holdings
+Location: Sandton, Gauteng, South Africa
+URL: https://za.linkedin.com/jobs/view/it-functional-analyst-at-omnia-holdings-4487835714
+Posted: 2026-11-11
+Deadline: 2026-11-17
+Reason: The role aligns with the candidate's expertise in requirements engineering, traceability, and documentation within a regulated environment, and it is located in South Africa, which is a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+IT Functional Analyst
+Omnia Holdings  Sandton, Gauteng, South Africa
+4 days ago   Over 200 applicants
+  
+
+See who Omnia Holdings has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Location: Fourways
+
+Business Unit: Group | Information Technology
+
+Reports To: Business Solutions Manager
+
+Contract Type: Permanent
+
+Submission Closing Date: 17 November 2026
+
+Join Omnia and help shape a more sustainable future.
+
+At Omnia, our people enable the success of a diversified international business serving the agriculture, mining and chemicals sectors. Through collaboration, innovation and professional excellence, our corporate and shared services teams support strategic priorities, deliver business performance and create value across the Group.
+
+As part of Omnia Holdings Limited (JSE: OMN), you'll join a global, diversified business operating across the agriculture, mining and chemicals sectors. With operations in 23 countries, customers in more than 40 countries, over 70 distribution centres, and approximately 3,800 employees worldwide, Omnia develops innovative products, technologies and services that support food security, responsible mining and sustainable industrial development. Through science, innovation and collaboration, we help customers use resources more efficiently, solve complex operational challenges and create lasting value for a changing world.
+
+At Omnia, you'll have the opportunity to work alongside industry experts, contribute to meaningful challenges, and grow your career in a purpose-led organisation committed to innovation, learning and sustainable impact.
+
+Innovating to enhance life, together creating a greener future.
+
+ROLE IMPACT
+
+This role will be responsible for bridging the gap between business requirements and technology solutions by ensuring that business needs are accurately translated into functional and technical specifications that can be effectively implemented across ERP, enterprise applications, and system integration solutions.
+
+Key Responsibilities
+
+Requirements Elicitation & Analysis
+
+Stakeholder Engagement & Elicitation
+
+
+Run workshops, interviews and process walkthroughs with business stakeholders, subject matter experts and operations teams.
+Challenge stated requirements to establish the underlying business need, the decision being supported and the value being sought.
+
+
+
+Requirements Analysis
+
+
+Identify gaps, contradictions, duplication and unstated assumptions in source requirements, and drive them to resolution rather than escalating them unresolved.
+Maintain the requirements catalogue in line with BABOK v3 and ISO/IEC/IEEE 29148 practice.
+
+
+
+Business Process Analysis
+
+
+Document current-state (as-is) processes and define target-state (to-be) processes in BPMN 2.0, including the operational and control changes required.
+Compliance & Risk
+
+
+
+Assess regulatory, audit and data-protection (POPIA) implications of each requirement and flag where compliance or IT GRC input is needed.
+
+Functional Specification
+
+Functional Specification Documents (FSD)
+
+
+Author FSDs that define system behaviour in business terms: process flows, use cases or user stories, business rules, decision tables, validation and calculation logic, roles and permissions, notifications and reporting outputs.
+Define exception paths, error handling and edge cases explicitly, not only the happy path.
+
+
+
+Acceptance Criteria & Sign-off
+
+
+Write clear, testable acceptance criteria for every requirement.
+Secure formal business sign-off on the FSD before build commences.
+
+
+
+Technical Specification
+
+Architecture & Data Design
+
+
+Translate the approved FSD into a Technical Specification Document (TSD) that engineering can build against, covering the system and component architecture in scope and the changes required to each.
+Specify data model changes: entities, attributes, data types, cardinality, referential integrity and retention.
+
+
+
+Integration & Data Migration
+
+
+Specify interfaces and integrations: API contracts, request/response payloads, protocols, authentication, error and retry behaviour, throughput and volumetrics.
+Define data migration and transformation rules, including source-to-target field mappings and cleansing logic.
+
+
+
+Design Decisions & Non-Functional Requirements
+
+
+Document configuration versus customisation decisions, with rationale, in line with Omnia’s architecture standards.
+Define non-functional requirements: performance, availability, scalability, security, auditability, logging and monitoring.
+
+
+
+Feasibility & Validation
+
+
+Work with solution architects and developers to validate technical feasibility, sizing and effort, and reconcile the specification with platform constraints.
+
+
+
+Document assumptions, dependencies, constraints and out-of-scope items.
+
+Delivery & Quality Support
+
+Traceability & Backlog Management
+
+
+Maintain a Requirements Traceability Matrix (RTM) linking business requirement, functional specification, technical specification, test case and delivered feature.
+Groom and maintain the backlog; ensure work items entering a sprint meet the team’s definition of ready.
+
+
+
+Build Support
+
+
+Support developers through build, acting as the authority on intended behaviour.
+
+
+
+Testing & Validation
+
+
+Author or review test scenarios; support System Integration Testing (SIT) and UAT.
+Triage defects and distinguish genuine defects from change requests.
+
+
+
+Handover & Documentation
+
+
+Contribute to release notes, training material, user guides and operational handover documentation.
+
+
+
+Confidentiality and Compliance
+
+
+Handle highly confidential employee, and executive information with discretion.
+Ensure adherence to company policies, governance standards, and relevant legislation.
+Support audit requirements by maintaining accurate documentation and records.
+
+
+
+Qualifications
+
+MINIMUM REQUIREMENTS
+
+
+Bachelor’s degree in Information Systems, Computer Science, Business Informatics, Industrial Engineering or a related field.
+Postgraduate qualification in business or systems analysis – advantageous.
+
+
+
+Experience
+
+
+5+ years’ experience in Business Analysis and/or Systems Analysis within an IT delivery environment (mid to senior level).
+Proven track record of authoring functional and technical specifications that build teams implement without rework.
+Hands-on experience on ERP (preferably Microsoft Dynamics AX / D365), enterprise application and integration projects.
+Experience defining data models, API and interface contracts, and data migration mappings.
+Experience in Agile delivery (backlog grooming, definition of ready) and in supporting SIT and UAT.
+Exposure to regulated environments with audit, internal control and data-protection (POPIA) requirements.
+
+
+
+Key Competencies
+
+
+Analytical Thinking – Ability to break ambiguous, incomplete requests into precise, structured requirements.
+Critical Questioning – Challenges stated requirements to uncover the real business need and value.
+Attention to Detail – Specifies rules, exception paths and edge cases completely, not only the happy path.
+Collaboration & Communication – Translates clearly between business and technical audiences, in writing and verbally.
+Ownership & Accountability – Owns requirements from intake to accepted delivery; resolves issues rather than escalating them unresolved.
+Problem-Solving – Reconciles business needs with platform constraints to reach workable solutions.
+Integrity & Governance – Applies traceability, version control and data-protection discipline consistently.
+
+
+
+DIVERSITY, EQUITY & INCLUSION
+
+A diverse team drives stronger outcomes. At Omnia, we are committed to creating an inclusive workplace where every individual is valued, respected and empowered to contribute. We believe that diverse perspectives, experiences and backgrounds strengthen our ability to innovate, solve complex challenges and create sustainable value. We welcome applications from suitably qualified candidates who share our commitment to excellence, collaboration and making a positive impact.
+
+THANK YOU FOR YOUR INTEREST
+
+Thank you for considering a career with Omnia.
+
+We appreciate the time and effort invested in your application. Our Talent Acquisition team carefully reviews every application received. While only shortlisted candidates will be contacted, we encourage you to keep exploring future opportunities within the Omnia Group as we continue to grow our teams across agriculture, mining and chemicals.
+
+We wish you every success in your career journey and thank you for your interest in being part of our purpose: Innovating to enhance life, together creating a greener future.
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Industries
+Agriculture, Construction, Mining Machinery Manufacturing
+  
+
+Referrals increase your chances of interviewing at Omnia Holdings by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+System Analyst jobs
+IT Functional Analyst
+Similar jobs
+Specialist Solution Analyst
+Specialist Solution Analyst
+Absa Group
+Johannesburg, Gauteng, South Africa
+1 day ago
+Business Analyst
+Business Analyst
+Adams & Adams
+Pretoria, Gauteng, South Africa
+4 days ago
+Senior Business / Systems Analyst
+Senior Business / Systems Analyst
+Blue Pearl HQ
+Johannesburg, Gauteng, South Africa
+1 week ago
+Technical Business Analyst – Software Development & Project Delivery
+Technical Business Analyst – Software Development & Project Delivery
+Siyakhanda International Trade Concepts (Pty) Ltd
+Centurion, Gauteng, South Africa
+2 days ago
+AI Business Analyst
+AI Business Analyst
+MCI
+Gauteng, South Africa
+5 months ago
+Mobile Solutions Analyst
+Mobile Solutions Analyst
+Vector Logistics
+Roodepoort, Gauteng, South Africa
+3 days ago
+Show more jobs like this 
+People also viewed
+Operational Support Specialist
+Operational Support Specialist
+
+Discovery Limited
+
+Sandton, Gauteng, South Africa
+1 day ago
+Specialist: Contract Compliance and Systems Info Management
+Specialist: Contract Compliance and Systems Info Management
+
+Telkom Group
+
+Centurion, Gauteng, South Africa
+4 days ago
+Specialist: Contract Compliance and Systems Info Management
+Specialist: Contract Compliance and Systems Info Management
+
+Telkom
+
+Gauteng, South Africa
+5 days ago
+Data Engineer
+Data Engineer
+
+Blue Pearl HQ
+
+Johannesburg, Gauteng, South Africa
+3 weeks ago
+Process Engineer
+Process Engineer
+
+Adams & Adams
+
+Pretoria, Gauteng, South Africa
+4 days ago
+NATURAL Application Junior Analyst Programmer
+NATURAL Application Junior Analyst Programmer
+
+Accenture in South Africa
+
+Midrand, Gauteng, South Africa
+2 weeks ago
+Implementation Specialist
+Implementation Specialist
+
+Iress
+
+Johannesburg, Gauteng, South Africa
+1 week ago
+Talent Analytics & Insights Business Partner
+Talent Analytics & Insights Business Partner
+
+NTT DATA, Inc.
+
+Johannesburg, Gauteng, South Africa
+2 weeks ago
+Senior Business Analyst
+Senior Business Analyst
+
+BDO South Africa
+
+Illovo, Gauteng, South Africa
+3 days ago
+SAP SuccessFactors Onboarding 2.0 Consultant
+SAP SuccessFactors Onboarding 2.0 Consultant
+
+Accenture in South Africa
+
+Midrand, Gauteng, South Africa
+1 month ago
+Similar Searches
+System Analyst jobs
+4,271 open jobs
+Network Analyst jobs
+104 open jobs
+Technical System Analyst jobs
+310 open jobs
+Technology Analyst jobs
+796 open jobs
+Senior System Analyst jobs
+344 open jobs
+Junior System Analyst jobs
+3,609 open jobs
+Information Technology Auditor jobs
+70 open jobs
+Information Security Analyst jobs
+23 open jobs
+Information Technology Business Analyst jobs
+23 open jobs
+Information Technology Consultant jobs
+403 open jobs
+Cyber Security Specialist jobs
+75 open jobs
+Database Analyst jobs
+3,837 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
