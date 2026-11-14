@@ -1,9 +1,9 @@
 {
   "pid": 40120,
   "started_at": "2026-11-15T01:14:01+02:00",
-  "heartbeat_at": "2026-11-15T01:44:13+02:00",
+  "heartbeat_at": "2026-11-15T01:49:38+02:00",
   "phase": "reviewing",
-  "detail": "CS & QA LEAD",
-  "last_scrape_ok_at": "2026-11-15T01:42:21+02:00",
+  "detail": "Software Engineer, Embedded",
+  "last_scrape_ok_at": "2026-11-15T01:48:05+02:00",
   "last_error": null
 }
