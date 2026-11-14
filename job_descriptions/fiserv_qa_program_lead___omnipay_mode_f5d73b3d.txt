@@ -1,0 +1,238 @@
+Title: QA Program Lead - OmniPay Modernisation
+Company: Fiserv
+Location: Dublin, County Dublin, Ireland
+URL: https://ie.linkedin.com/jobs/view/qa-program-lead-omnipay-modernisation-at-fiserv-4489889735
+Posted: 2026-11-15
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in quality engineering, CI/CD governance, and regulated environments, and it is located in an eligible country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+QA Program Lead - OmniPay Modernisation
+Fiserv  Dublin, County Dublin, Ireland
+6 hours ago   Be among the first 25 applicants
+  
+
+See who Fiserv has hired for this role
+
+Apply 
+Save
+Calling all innovators – find your future at Fiserv.
+
+We’re Fiserv, a global leader in Fintech and payments, and we move money and information in a way that moves the world. We connect financial institutions, corporations, merchants, and consumers to one another millions of times a day – quickly, reliably, and securely. Any time you swipe your credit card, pay through a mobile app, or withdraw money from the bank, we’re involved. If you want to make an impact on a global scale, come make a difference at Fiserv.
+
+Job Title
+
+QA Program Lead - OmniPay Modernisation
+
+About Your Role
+
+We are looking for a QA Program Lead to define and drive the quality strategy across the entire OmnipayNext program.
+
+This is a technical leadership role with program-wide responsibility. You will lead through influence — setting standards, coaching QA engineers and developers across domain teams, and building the frameworks and governance that ensure consistency across a complex, multi-team program. You will be the recognised authority on QA within the program and the go-to person for quality strategy, risk assessment, and testing approach.
+
+The balance is approximately 70% strategy, governance, and stakeholder engagement / 30% hands-on — you set direction and standards, but you also get into the detail: reviewing test automation code, designing cross-domain test scenarios, and validating that approaches are sound, not just documented.
+
+What You’ll Do
+
+
+QA Strategy and Governance: Define and own the program QA strategy, aligned with business, regulatory, and delivery goals. Set testing standards across unit, integration, contract, end-to-end, performance, and security testing. Embed consistent quality gates in CI/CD and deployment workflows with Platform Engineering. Evolve the QA strategy as the program and platform scale.
+Hands-On Quality Engineering: Own cross-domain tests covering the full transaction lifecycle. Review test automation, schema contracts, and test designs, advising on coverage and approach. Maintain onboarding tests that confirm end-to-end processing before go-live. Support triage and root-cause analysis for cross-domain defects.
+QA Community Leadership: Lead, mentor, and upskill QA engineers and developers across the program. Run QA community sessions to share knowledge and solve common quality challenges. Identify QA skill gaps and address them through coaching, training, or hiring. Champion shift-left and built-in quality. Drive adoption of AI-assisted test generation, defect prediction, and coverage analysis.
+Client Onboarding and Migration Readiness: Define go-live criteria for parity, performance, data integrity, and operational readiness. Own onboarding tests that validate configuration and end-to-end processing. Ensure the approach is repeatable and scalable. Curate golden datasets for parity validation across configurations, transactions, and pricing.
+Non-Functional Quality: Lead performance, resilience, failover, and production-scale load testing. Define back-pressure, retry, and degradation expectations under stress. Validate disaster recovery and failover end-to-end across domains.
+Stakeholder Engagement and Reporting: Give program leaders clear, actionable visibility of quality status. Turn technical metrics into business indicators for go-live decisions. Escalate cross-domain quality risks before they affect milestones.
+Test Environments and Data Strategy: Define the AWS EKS test environment strategy with Platform Engineering. Ensure reproducible cross-domain testing with PCI-DSS-compliant test data.
+
+
+What You’ll Need To Have
+
+
+Program-level QA leadership across multiple engineering teams — setting strategy and standards.
+Deep knowledge of modern QA practices — test automation strategies, shift-left testing, continuous testing in CI/CD, contract testing, and quality engineering principles.
+Financial services industry experience — payments, acquiring, issuing, or banking.
+Cloud-native and event-driven architecture experience — microservices, asynchronous event processing (Kafka, message brokers), eventual consistency, schema evolution, and distributed system failure modes.
+Excellent communication skills — able to engage credibly with engineers, architects, product owners, and senior leadership.
+Technical credibility — able to read event schemas, understand data models, review test automation code, and assess whether a testing approach is sound.
+
+
+What Would Be Great To Have
+
+
+Regulated environment experience (PCI-DSS, SOX, or equivalent).
+Migration or platform replacement validation — proving a new system matches an old one at scale, including defining equivalence criteria and comparison approaches.
+Experience leveraging AI in QA workflows — using AI-assisted tools for test generation, code review, defect analysis, or standards enforcement.
+
+
+Thank You For Considering Employment With Fiserv. Please
+
+
+Apply using your legal name
+Complete the step-by-step profile and attach your resume (either is acceptable, both are preferable).
+
+
+Our Commitment To Diversity And Inclusion
+
+Fiserv is proud to be an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, gender, gender identity, sexual orientation, age, disability, protected veteran status, or any other category protected by law.
+
+Note To Agencies
+
+Fiserv does not accept resume submissions from agencies outside of existing agreements. Please do not send resumes to Fiserv associates. Fiserv is not responsible for any fees associated with unsolicited resume submissions.
+
+Warning About Fake Job Posts
+
+Please be aware of fraudulent job postings that are not affiliated with Fiserv. Fraudulent job postings may be used by cyber criminals to target your personally identifiable information and/or to steal money or financial information. Any communications from a Fiserv representative will come from a legitimate Fiserv email address.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Fiserv by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Senior QA Test Lead - Commerce Hub
+Senior QA Test Lead - Commerce Hub
+Fiserv
+Dublin, County Dublin, Ireland
+1 day ago
+Quality Assurance Lead
+Quality Assurance Lead
+nineDots.io
+Dublin, County Dublin, Ireland
+3 weeks ago
+QA Automation Engineer Team Lead, Charles River Development , AVP
+QA Automation Engineer Team Lead, Charles River Development , AVP
+Charles River Development
+Dublin, County Dublin, Ireland
+5 months ago
+FS Technology Consulting - Quality Engineering Lead - Manager/Senior Manager - Dublin
+FS Technology Consulting - Quality Engineering Lead - Manager/Senior Manager - Dublin
+EY
+Dublin 2, County Dublin, Ireland
+4 days ago
+Business Engagement Manager
+Business Engagement Manager
+HS Financial Technologies
+Dublin, County Dublin, Ireland
+1 day ago
+Quality Assurance Lead
+Quality Assurance Lead
+Realtime Recruitment
+Dublin, County Dublin, Ireland
+€70,000 - €80,000
+3 weeks ago
+Show more jobs like this 
+People also viewed
+Quality Assurance Manager - Europe
+Quality Assurance Manager - Europe
+
+Turner & Townsend
+
+Greater Dublin
+5 days ago
+Senior Product Manager, API Propositions
+Senior Product Manager, API Propositions
+
+Global Payments Inc.
+
+Dublin, County Dublin, Ireland
+10 hours ago
+Quality Manager
+Quality Manager
+
+Mercury
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+Senior Quality Engineer
+Senior Quality Engineer
+
+Web Summit
+
+Dublin, County Dublin, Ireland
+1 month ago
+Technical Implementation Manager
+Technical Implementation Manager
+
+JUSPAY
+
+Dublin, County Dublin, Ireland
+3 weeks ago
+Regulatory Change Programme Manager
+Regulatory Change Programme Manager
+
+EML
+
+Dublin, County Dublin, Ireland
+1 week ago
+Regulatory Change Programme Manager
+Regulatory Change Programme Manager
+
+EML
+
+Dublin, County Dublin, Ireland
+1 week ago
+Director, International Quality Strategy Lead - The McDonald’s Division
+Director, International Quality Strategy Lead - The McDonald’s Division
+
+The Coca-Cola Company
+
+Dublin, County Dublin, Ireland
+3 days ago
+Product Lead
+Product Lead
+
+Global Payments Inc.
+
+Dublin, County Dublin, Ireland
+5 days ago
+Technical Business Analyst
+Technical Business Analyst
+
+Fruition Group Ireland
+
+Dublin, County Dublin, Ireland
+1 day ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
