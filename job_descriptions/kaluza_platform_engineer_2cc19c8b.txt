@@ -1,0 +1,284 @@
+Title: Platform Engineer
+Company: Kaluza
+Location: Melbourne, Victoria, Australia
+URL: https://au.linkedin.com/jobs/view/platform-engineer-at-kaluza-4491211679
+Posted: 2026-11-16
+Deadline: Open until filled
+Reason: The role aligns with her extensive experience in DevOps, CI/CD, and infrastructure automation, and it is located in an eligible country (Australia) with no explicit visa restrictions mentioned.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Platform Engineer
+Kaluza  Melbourne, Victoria, Australia
+18 hours ago  28 applicants
+  
+
+See who Kaluza has hired for this role
+
+Apply 
+Save
+Job Title: Platform Engineer
+
+Location (including hybrid): Melbourne, Australia
+
+Salary: $125,000 - $145,000 + Superannuation
+
+Team: Platform Engineering
+
+Reporting To: Software Engineering Manager
+
+Kaluza reimagines energy to bring net-zero within everyone's reach. Our intelligent Platform enables energy utilities to unlock the full value of a radically changing energy system and propel us to a future where renewable energy is sustainable, affordable and accessible for all.
+
+From automating and simplifying core operations including billing to create a lower-cost, higher-engagement experience, to optimising energy usage across smart devices in the home, we turn tough challenges into win-win-win outcomes for customers, suppliers and the energy system.
+
+We champion a flexible, hybrid work approach and we find that teams often benefit from coming together in the office at least 3 days a week to foster connection and accelerate progress.
+
+Outside of these collaborative opportunities, we aim to be as flexible as possible to balance work with life. As a company we come together annually for our conference and end of year celebrations!
+
+Our goal is to build a self-sufficient and empowered team here on the ground in Australia. We're well on our way, but until we get there we still have some reliances on our UK team. Being comfortable working flexibly for a portion of your working week to cover time zones is required.
+
+What will I be doing?
+
+You’ll play a pivotal role in building and evolving our internal developer platform in order to empower our software teams. Your work will impact how our developers use cloud infrastructure, help teams to eliminate infrastructure toil, improve engineering productivity, reinforce security safeguards and constantly strive for greater cost efficiencies in operations.
+
+
+Engineering Foundations: Engineering a scalable, reliable and developer friendly platform to promote seamless software development, deployment and operations.
+Automation & Tooling: Develop tools to abstract the complex aspects of the platform from developers to improve developer experience and operational efficiency.
+Infrastructure as Code: Use tools like Terraform, Helm and Crossplane to manage and automate provisioning of all cloud infrastructure and champion GitOps best practices.
+Monitoring & Observability: Establish robust monitoring and logging foundations collaborating with the wider Site Reliability Engineering Function.
+Security & Reliability: Incorporate security best practices, ensure compliance, and participate in the out-of-hours on-call rota to troubleshoot and prevent recurrent issues.
+Stakeholder Coordination: Foster strong relationships with internal and external stakeholders to coordinate upgrades and hold service providers accountable.
+
+
+About You
+
+Ideally you'll have/be:
+
+
+Experience building and shipping production applications.
+Excellent communication and collaboration skills with a curiosity to solve problems.
+Experience using cloud platforms like AWS (preferred), Google Cloud, or Azure.
+A strong desire to (or experience in) creating and maintaining Kubernetes clusters in production.
+A solid foundational understanding of distributed systems.
+Experience with CI/CD, GitOps, and Infrastructure as Code technologies.
+
+
+Where you'll work
+
+We offer flexible working, with a requirement of 3 days a week in the office. This gives us the best of both: real time together to collaborate and build relationships, with the flexibility to work in the way that suits you best the rest of the week.
+
+Kaluza Values
+
+Here at Kaluza we have five core values that guide us as a business: Play to win, Solve the real problem, Build trust every day, Own the outcome, Go further together
+
+From us you'll get
+
+Currently, from day one, you will get:
+
+
+Progressive leave policies - including leave dedicated to the moments that matter to you the most
+Annual discretionary bonus
+Dedicated personal learning and home office budgets
+Flexible working — 3 days in our CBD Melbourne (WeWork) office
+26 days holiday
+Novated Leasing
+Purchase Leave
+
+
+We want the best people
+
+We're keen to meet people from all walks of life — our view is that the more inclusive we are, the better our work will be. We want to build teams which represent a variety of experiences, perspectives and skills, and we recognise talent on the basis of merit and potential.
+
+We understand some people may not apply for jobs unless they tick every box. But if you're excited about joining us and think you have some of what we're looking for, even if you're not 100% sure, we'd still love to hear from you.
+
+Find out more about working at Kaluza on our careers page and LinkedIn.
+
+You can also find our Applicant Data Protection Policy here.
+
+
+Show more 
+Seniority level
+Entry level
+Employment type
+Full-time
+Industries
+Technology, Information and Internet
+  
+
+Referrals increase your chances of interviewing at Kaluza by 2x
+
+See who you know
+
+Get notified about new Platform Engineer jobs in Melbourne, Victoria, Australia.
+
+Sign in to create job alert
+Jobs
+Site Reliability Engineer jobs
+Platform Engineer
+Similar jobs
+Platform Engineer
+Platform Engineer
+Open Universities Australia
+Docklands, Victoria, Australia
+2 weeks ago
+Platform Engineer
+Platform Engineer
+Flybuys
+Melbourne, Victoria, Australia
+3 days ago
+Platform Engineer (AKS and Azure)
+Platform Engineer (AKS and Azure)
+Accenture Australia
+Melbourne, Victoria, Australia
+3 weeks ago
+Senior Platform Engineer
+Senior Platform Engineer
+Blinq
+Melbourne, Victoria, Australia
+2 months ago
+Platform Engineer
+Platform Engineer
+Leidos
+Melbourne, Victoria, Australia
+2 months ago
+Platform Engineer
+Platform Engineer
+Leidos Australia
+Melbourne, Victoria, Australia
+1 week ago
+Show more jobs like this 
+People also viewed
+Platform Support Engineer (VIC)
+Platform Support Engineer (VIC)
+
+Pronto Software
+
+Forest Hill, Victoria, Australia
+1 month ago
+DevOps Engineer
+DevOps Engineer
+
+Fortiro
+
+Melbourne, Victoria, Australia
+5 days ago
+DevOps Engineer
+DevOps Engineer
+
+APM
+
+Melbourne, Victoria, Australia
+3 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Australia Post
+
+Cremorne, Victoria, Australia
+1 week ago
+Senior Engineer
+Senior Engineer
+
+Nintex
+
+Melbourne, Victoria, Australia
+2 days ago
+Software Engineer, Platforms & Cloud
+Software Engineer, Platforms & Cloud
+
+dentsu
+
+Melbourne, Victoria, Australia
+2 weeks ago
+Cloud Engineer
+Cloud Engineer
+
+iterate
+
+Melbourne, Victoria, Australia
+A$130,000 - A$160,000
+3 weeks ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+Blinq
+
+Melbourne, Victoria, Australia
+3 weeks ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+Leidos
+
+Melbourne, Victoria, Australia
+2 months ago
+Systems Engineer, Region Services
+Systems Engineer, Region Services
+
+Amazon Web Services (AWS)
+
+Melbourne, Victoria, Australia
+2 days ago
+Similar Searches
+Site Reliability Engineer jobs
+3,532 open jobs
+Platform Architect jobs
+1,605 open jobs
+Build And Release Engineer jobs
+578 open jobs
+Infrastructure Engineer jobs
+2,368 open jobs
+Linux Engineer jobs
+790 open jobs
+Senior Infrastructure Engineer jobs
+925 open jobs
+Virtualization Engineer jobs
+595 open jobs
+Cloud Architect jobs
+1,606 open jobs
+Pipeline Engineer jobs
+1,171 open jobs
+Contract Database Administrator jobs
+31 open jobs
+Chief Software Engineer jobs
+736 open jobs
+Senior Reliability Engineer jobs
+122 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
