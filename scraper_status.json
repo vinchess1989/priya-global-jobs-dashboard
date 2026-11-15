@@ -1,9 +1,9 @@
 {
   "pid": 40120,
   "started_at": "2026-11-15T01:14:01+02:00",
-  "heartbeat_at": "2026-11-15T02:06:23+02:00",
+  "heartbeat_at": "2026-11-15T02:10:08+02:00",
   "phase": "reviewing",
-  "detail": "IT Governance and Risk Assessment Officer",
-  "last_scrape_ok_at": "2026-11-15T02:03:25+02:00",
+  "detail": "Senior AI Content Specialist",
+  "last_scrape_ok_at": "2026-11-15T02:08:17+02:00",
   "last_error": null
 }
