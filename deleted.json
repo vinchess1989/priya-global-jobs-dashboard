@@ -27470,5 +27470,39 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": null,
     "deletion_reason": "Deadline (2025-11-22) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Quality Systems Engineer / Senior Quality Systems Engineer",
+    "company": "Fisher & Paykel Healthcare",
+    "location": "Auckland, Auckland, New Zealand",
+    "url": "https://nz.linkedin.com/jobs/view/quality-systems-engineer-senior-quality-systems-engineer-at-fisher-paykel-healthcare-4489072258",
+    "visited": "yes",
+    "matches_requirements": "yes",
+    "reason": "This role is an excellent match for her background in medical device quality/regulatory compliance (ISO 13485) and explicitly offers immigration and relocation support.",
+    "id": "82c1a68a",
+    "source": "linkedin_nz_eu_mdr",
+    "added_at": "2026-11-15T02:14:38+02:00",
+    "posted_date": "2026-11-13",
+    "deadline": "2026-11-12",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": "job_descriptions/fisher___paykel_heal_quality_systems_engineer___sen_82c1a68a.txt",
+    "deletion_reason": "Deadline (2026-11-12) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Senior Analyst",
+    "company": "Reserve Bank of New Zealand",
+    "location": "Wellington, Wellington, New Zealand",
+    "url": "https://nz.linkedin.com/jobs/view/senior-analyst-at-reserve-bank-of-new-zealand-4484305191",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is focused on public policy and economics, which does not align with the candidate's technical background in software engineering, release management, and quality assurance.",
+    "id": "b3892c12",
+    "source": "linkedin_nz_eu_mdr",
+    "added_at": "2026-11-15T02:14:38+02:00",
+    "posted_date": "2026-11-08",
+    "deadline": "2025-11-15",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Deadline (2025-11-15) passed by more than 2 days and unreviewed"
   }
 ]
