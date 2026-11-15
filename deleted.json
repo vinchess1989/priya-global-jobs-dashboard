@@ -27453,5 +27453,22 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": null,
     "deletion_reason": "Deadline (2026-11-06) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Workday Functional Lead - Human Capital Management / Payroll",
+    "company": "The Football Association",
+    "location": "London, England, United Kingdom",
+    "url": "https://uk.linkedin.com/jobs/view/workday-functional-lead-human-capital-management-payroll-at-the-football-association-4489471009",
+    "visited": "yes",
+    "matches_requirements": "maybe",
+    "reason": "The role is a strong fit for her product/configuration management and documentation skills, but it requires a DBS check which may imply a background check process that could be a barrier for a non-citizen requiring visa sponsorship.",
+    "id": "c13a0ab4",
+    "source": "linkedin_uk_requirements_manager",
+    "added_at": "2026-11-15T02:12:33+02:00",
+    "posted_date": "2026-11-11",
+    "deadline": "2025-11-22",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Deadline (2025-11-22) passed by more than 2 days and unreviewed"
   }
 ]

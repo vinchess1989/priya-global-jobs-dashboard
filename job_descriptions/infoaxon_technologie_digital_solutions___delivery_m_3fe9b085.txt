@@ -1,0 +1,297 @@
+Title: Digital Solutions & Delivery Manager
+Company: InfoAxon Technologies
+Location: Noida, Uttar Pradesh, India
+URL: https://in.linkedin.com/jobs/view/digital-solutions-delivery-manager-at-infoaxon-technologies-4489894602
+Posted: 2026-11-15
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in release management, requirements traceability, and technical delivery, and it is located in India, which is a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Digital Solutions & Delivery Manager
+InfoAxon Technologies  Noida, Uttar Pradesh, India
+6 hours ago  33 applicants
+  
+
+See who InfoAxon Technologies has hired for this role
+
+Apply
+Save
+
+We are looking for a customer-facing delivery lead who combines the rigor of a Digital Project Manager, the curiosity and analytical depth of a Business Analyst, and the habits of someone who already runs much of their own work with AI.
+
+
+
+
+Our projects run on an AI-first delivery harness: a shared set of AI agents, templates, workflows and quality checks that takes work from requirement through design, build, test and release. You will lead delivery on it. That means learning it quickly, using it every day, making sure your team uses it properly, and owning the quality of what it produces.
+
+
+
+
+You will be the primary bridge between the customer’s business stakeholders, technical delivery, and QA teams. You will understand why a customer needs change, shape what should be delivered, and ensure it is delivered successfully.
+
+
+
+
+This is not a meeting-coordination or documentation-only role. You should be equally comfortable challenging the customer business and technical stakeholder, shaping a base solution design, refining an insurance journey, tracing a data integration, reviewing release readiness, and automating the routine work that would otherwise distract you from high-value customer conversations.
+
+
+
+
+This role suits someone who:
+
+Communicates clearly and confidently. Is comfortable having tough conversations about scope, cost, timelines and quality, and stays calm when a customer pushes back
+Is technically sound, and can hold an end-to-end conversation on requirements, journy flow, architecture, integrations, data and release management
+Has a keen eye for detail and is not shy of reading. AI drafts a lot of our material, and nothing goes to a customer until a person has read it, checked it against the source and cut anything vague, padded or generic. On your projects, that person is you
+Brings structure without being chased: keeps the backlog, plan, status reports and RAID log current, so the team and the customer always have an accurate picture of where things stand
+Picks up new tools and ways of working quickly, automates their own work first, and keeps looking for new ways AI can make them and their team faster and better
+Gets excited about doing many times more with the same team
+Is happy to work from our Noida office and to travel to customer sites in India and overseas as and when required
+
+
+
+
+Responsibilities
+
+Requirements, Customer Engagement & Business Outcomes
+
+Elicit, analyze and validate business, functional, non-functional, regulatory and integration requirements; translate them into concise BRDs/FSDs where, appropriate, epics, user stories and acceptance criteria.
+Produce the base solution design for new requirements and change requests using our AI-first approach: generate the first draft with the delivery harness, test it against the requirement, the existing implementation and known constraints, then refine and agree it with architects and tech leads.
+Own and maintain the product backlog: clarity, traceability, dependencies, prioritization and change control; keep it refined ahead of each sprint and ensure customer sign-off on scope and acceptance criteria.
+Own day-to-day customer communication and build credible, trusted relationships across business, technology and leadership stakeholders.
+Lead discovery workshops, challenge incomplete requirements, surface business problems, establish measurable outcomes and propose practical solutions.
+Conduct difficult conversations professionally: negotiate scope, explain trade-offs, manage escalations, communicate delays and secure clear decisions without avoiding accountability.
+Understand customer goals, operational pain points, growth priorities and changing market conditions; identify incremental value opportunities and share them with account and solution leaders.
+
+
+
+
+Delivery, governance and release ownership
+
+Convert agreed scope into delivery plans, sprint/release goals, estimates, milestones, ownership, dependencies, RAID logs and realistic stakeholder commitments.
+Run Agile ceremonies and customer governance with purpose; maintain JIRA/Confluence and publish regular, decision-ready status reports, RAID logs and delivery metrics that show what has changed, what is at risk and what decision is needed, rather than status theatre.
+Work hands-on with engineering, QA, UX, DevOps and vendors to resolve blockers, assess change impact and prevent requirement-to-build gaps.
+Drive UAT planning, scenarios, defect triage, customer acceptance, go/no-go readiness, deployment coordination, release notes, hypercare and handover to support.
+Communicate risks early and transparently, and own corrective action through resolution; track delivery against scope, quality, schedule and customer outcomes.
+
+
+
+
+AI-first delivery and framework adoption
+
+Run day-to-day delivery on our AI-first delivery harness and approved AI tools, using them for meeting preparation and summaries, action tracking, requirement drafts, solution design drafts, story/criteria generation, gap analysis, test scenarios, reporting and release documentation.
+Drive adoption of the delivery framework within the team: onboard new members onto it, make sure work follows the agreed workflow, templates and quality checks, notice where people work around it, and feed improvements back to the framework owners.
+Connect workflows where practical (for example, JIRA, Confluence, collaboration tools and approved AI assistants) to reduce manual updates, duplicate entry and administrative effort.
+Regularly identify, prototype, measure and scale repeatable automations.
+Own the quality of everything AI produces on your project. Read and review AI-generated requirements, designs, test scenarios, reports and customer communication before they are published; check facts against the source, remove generic or padded content, and make sure every document is accurate, specific and something you would put your name to.
+
+
+
+
+Qualifications
+
+Should be a B.Tech/BE/MCA
+At least 3 years of demonstrated delivery ownership across discovery, requirements, implementation, UAT and production release in software product or IT solutions environments.
+Excellent written and spoken communication: able to write a clear status report, decision note or escalation email, and to hold their own with clients, developers and senior stakeholders.
+Strong attention to detail and comfortable reading long documents closely; able to spot errors, gaps, contradictions and generic filler in requirements, designs and AI-generated content.
+Evidence of personally using AI and automation to improve the way work is executed; ability to demonstrate real workflows, limitations, safeguards, how AI output is reviewed before use, and measurable results.
+Familiarity with digital buying journeys in the BFSI sector, including customer onboarding, fulfilment, and servicing.
+Working knowledge of tools such as JIRA, Lucid Charts, Confluence or similar tools.
+Experience maintaining a backlog, delivery plan and RAID log, and producing regular status reporting for customer governance.
+Ability to create detailed UML diagrams (Use Case, Sequence, Activity) for complex processes.
+Strong problem-solving skills and the ability to manage multiple tasks effectively.
+Ability to pick up a new delivery framework or toolset quickly and bring a team along with it.
+Hands-on experience running agile delivery (Scrum or Kanban) and working in agile teams.
+
+
+
+
+﻿Apply:
+
+To apply for the job, email our Talent Acquisition Team at careers@infoaxon.com, mentioning the Job Title in the subject line, along with your latest CV.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Information Technology & Services
+  
+
+Referrals increase your chances of interviewing at InfoAxon Technologies by 2x
+
+See who you know
+
+Get notified about new Solutions Project Manager jobs in Noida, Uttar Pradesh, India.
+
+Sign in to create job alert
+Jobs
+Development Architect jobs
+Digital Solutions & Delivery Manager
+Similar jobs
+S&C GN - TS&T – Tech Transformation Delivery - Senior Manager
+S&C GN - TS&T – Tech Transformation Delivery - Senior Manager
+Accenture in India
+Gurugram, Haryana, India
+1 month ago
+Program Manager - Digital delivery
+Program Manager - Digital delivery
+Konrad
+Gurgaon, Haryana, India
+1 week ago
+Program/Project Management Lead
+Program/Project Management Lead
+Accenture in India
+Gurugram, Haryana, India
+1 month ago
+Delivery Manager (Technical)
+Delivery Manager (Technical)
+Programmers.io
+Noida, Uttar Pradesh, India
+3 days ago
+Associate Director, Technology Delivery and Operations
+Associate Director, Technology Delivery and Operations
+Room to Read
+New Delhi, Delhi, India
+1 week ago
+Offshore Delivery Lead
+Offshore Delivery Lead
+EXL
+Gurugram, Haryana, India
+11 hours ago
+Show more jobs like this 
+People also viewed
+PMO - PM
+PMO - PM
+
+VML Enterprise Solutions
+
+Noida, Uttar Pradesh, India
+4 days ago
+Program Manager
+Program Manager
+
+Comviva
+
+Gurugram, Haryana, India
+1 month ago
+Service Delivery Leader
+Service Delivery Leader
+
+BDO EDGE
+
+Gurugram, Haryana, India
+2 weeks ago
+Enterprise Services GenAI Deployment Senior Manager
+Enterprise Services GenAI Deployment Senior Manager
+
+Boston Consulting Group (BCG)
+
+Gurgaon, Haryana, India
+2 weeks ago
+Senior Manager- AI Strategy & Solutions
+Senior Manager- AI Strategy & Solutions
+
+Ameriprise Financial Services, LLC
+
+Gurugram, Haryana, India
+4 months ago
+Product Delivery Manager - ServiceNow - Now Assist-HRSD
+Product Delivery Manager - ServiceNow - Now Assist-HRSD
+
+EY
+
+Gurugram, Haryana, India
+2 weeks ago
+Technical Delivery Lead
+Technical Delivery Lead
+
+Nokia
+
+Gurugram, Haryana, India
+2 weeks ago
+Digital Tool Leader
+Digital Tool Leader
+
+Schneider Electric
+
+Delhi, Delhi, India
+1 week ago
+Partner Delivery Excellence Lead, Google Cloud
+Partner Delivery Excellence Lead, Google Cloud
+
+Google
+
+Gurgaon, Haryana, India
+1 day ago
+Service Delivery Manager
+Service Delivery Manager
+
+FCM Travel India
+
+Noida, Uttar Pradesh, India
+1 day ago
+Similar Searches
+Development Architect jobs
+13,011 open jobs
+Information Technology Project Management jobs
+5,185 open jobs
+Deployment Manager jobs
+4,865 open jobs
+Supply Chain Project Manager jobs
+718 open jobs
+Utilities Manager jobs
+361 open jobs
+SAP Manager jobs
+1,226 open jobs
+Enterprise Sales Manager jobs
+2,715 open jobs
+Environment Specialist jobs
+891 open jobs
+Datacenter Operations Manager jobs
+414 open jobs
+Presales Engineer jobs
+1,888 open jobs
+Software Lead jobs
+28,229 open jobs
+System Architect jobs
+4,468 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
