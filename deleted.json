@@ -27691,5 +27691,22 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": null,
     "deletion_reason": "Deadline (2026-11-14) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Platform Lead - Enterprise Digital Tooling",
+    "company": "K\u0101inga Ora - Homes and Communities",
+    "location": "Wellington, Wellington, New Zealand",
+    "url": "https://nz.linkedin.com/jobs/view/platform-lead-enterprise-digital-tooling-at-k%C4%81inga-ora-homes-and-communities-4489702530",
+    "visited": "yes",
+    "matches_requirements": "yes",
+    "reason": "The role aligns with the candidate's extensive experience in DevOps, platform engineering, and release management, and it is located in New Zealand, which is a target country.",
+    "id": "b0f4c357",
+    "source": "linkedin_nz_release_manager",
+    "added_at": "2026-11-16T01:31:25+02:00",
+    "posted_date": "2026-11-16",
+    "deadline": "2025-11-29",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": "job_descriptions/k_inga_ora___homes_a_platform_lead___enterprise_dig_b0f4c357.txt",
+    "deletion_reason": "Deadline (2025-11-29) passed by more than 2 days and unreviewed"
   }
 ]
