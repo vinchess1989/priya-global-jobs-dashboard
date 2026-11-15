@@ -1,9 +1,9 @@
 {
   "pid": 40120,
   "started_at": "2026-11-15T01:14:01+02:00",
-  "heartbeat_at": "2026-11-15T02:17:02+02:00",
+  "heartbeat_at": "2026-11-15T02:20:36+02:00",
   "phase": "reviewing",
-  "detail": "Claims Services Manager",
-  "last_scrape_ok_at": "2026-11-15T02:15:25+02:00",
+  "detail": "AI Solutions Lead Engineer",
+  "last_scrape_ok_at": "2026-11-15T02:19:18+02:00",
   "last_error": null
 }

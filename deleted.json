@@ -27504,5 +27504,22 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": null,
     "deletion_reason": "Deadline (2025-11-15) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Product Analyst",
+    "company": "Aurizon",
+    "location": "Brisbane City, Queensland, Australia",
+    "url": "https://au.linkedin.com/jobs/view/product-analyst-at-aurizon-4489504390",
+    "visited": "yes",
+    "matches_requirements": "yes",
+    "reason": "The role aligns with the candidate's experience in technical documentation, application support, and cross-team coordination, and it is located in an eligible country without explicit visa restrictions.",
+    "id": "c3d0caaf",
+    "source": "linkedin_au_technical_writer",
+    "added_at": "2026-11-15T02:18:56+02:00",
+    "posted_date": "2026-11-13",
+    "deadline": "2025-11-27",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": "job_descriptions/aurizon_product_analyst_c3d0caaf.txt",
+    "deletion_reason": "Deadline (2025-11-27) passed by more than 2 days and unreviewed"
   }
 ]
