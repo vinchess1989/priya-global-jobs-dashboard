@@ -1,9 +1,9 @@
 {
   "pid": 7284,
   "started_at": "2026-11-16T01:09:14+02:00",
-  "heartbeat_at": "2026-11-16T02:09:25+02:00",
+  "heartbeat_at": "2026-11-16T02:12:18+02:00",
   "phase": "reviewing",
-  "detail": "Court Registry Officer",
-  "last_scrape_ok_at": "2026-11-16T02:08:22+02:00",
+  "detail": "Business Improvement Manager",
+  "last_scrape_ok_at": "2026-11-16T02:10:23+02:00",
   "last_error": null
 }
