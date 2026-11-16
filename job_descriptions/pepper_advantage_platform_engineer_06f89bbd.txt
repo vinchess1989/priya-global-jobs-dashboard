@@ -1,0 +1,259 @@
+Title: Platform Engineer
+Company: Pepper Advantage
+Location: Dublin, County Dublin, Ireland
+URL: https://ie.linkedin.com/jobs/view/platform-engineer-at-pepper-advantage-4490297582
+Posted: 2026-11-17
+Deadline: N/A
+Reason: The role aligns perfectly with the candidate's expertise in CI/CD, infrastructure, and regulated environments, and it is located in an eligible country (Ireland).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Platform Engineer
+Pepper Advantage  Dublin, County Dublin, Ireland
+11 hours ago  30 applicants
+  
+
+See who Pepper Advantage has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Direct message the job poster from Pepper Advantage
+
+Nahir Iberra
+Nahir Iberra
+Senior Talent Acquisition & People Partner (PATL) - We are hiring!
+
+About the role
+
+As a Platform Engineer, you will play a key role in ensuring the reliability, scalability, and performance of Prism products and supporting infrastructure in Azure. This is a hands-on role where you’ll implement and optimize platform services, CI/CD pipelines, and deployment processes for enterprise-grade applications.
+
+
+
+
+The Platform Engineer should be a can-do, high-achieving individual with strong product and domain expertise, who thrives on collaboration and has experience building secure, resilient cloud infrastructure. You’ll champion engineering excellence and automation, foster best practices, and bring a genuine passion for technology and continuous improvement to everything you do.
+
+
+
+
+Location: Dublin, Ireland.
+
+Permanent, Hybrid working model.
+
+
+
+
+Your responsibilities
+
+Development and maintenance of Azure infrastructure using best tools and practices.
+Design and configuration of CI/CD pipelines, containers, virtual networks, and monitoring dashboards.
+Design and implementation of Infrastructure as Code (IaC) scripts for multi-tenant setups.
+Performance monitoring and optimization of Azure resources, including cost and performance advice.
+Implementation of governance policies: Azure AD, security, virtual networks, etc.
+Collaboration with development, test, and Scrum teams to ensure quality and timely delivery.
+
+
+
+
+Your skills
+
+4+ years of experience in delivering fast paced and agile system Engineering ideally in regulated FinTech or payments/banking/wealth.
+Excellent knowledge of Azure Cloud, Azure AD, and security in Azure.
+Proficient in Infrastructure as Code (IaC) practices and tools (Terraform).
+Strong advocate of CI/CD methodologies, familiar with the Azure DevOps stack.
+Deep understanding of cloud artefacts/tools: containers, API management, event bus, app services, monitoring, etc.
+Standardized logging/metrics/tracing (OpenTelemetry, Prometheus/Grafana); built comprehensive dashboards and runbooks.
+Proven track record of building high-performing and reliable infrastructures.
+
+
+
+
+Success Metrics (what you will be measured on)
+
+DORA: Lead time, Deployment frequency, Change failure rate, MTTR.
+Reliability: SLO attainment (%), incident rate and severity mix, mean time to detect (MTTD).
+Quality: Escaped defects, defect density, automated test coverage, flaky test rate.
+Security/Compliance: Vulnerability SLA adherence, audit/control pass rate.
+Cost & Efficiency: Cloud unit economics, cost-to-serve, build time, onboarding time to first PR.
+
+
+
+
+Pepper Advantage’s values and culture
+
+Our mission is to help people succeed. Our clients, our customers, our employees. Our Values are ‘Can do’, ‘Balanced’ and ‘Real’.
+
+Pepper Advantage’s values support our vision, shape our culture and define how we interact with other employees and the attitudes we adopt towards our customers and clients. The values of Pepper Advantage support the organisation’s mission statement.
+
+Pepper Advantage’s unique outcome focused corporate culture aims to deliver fairness and value for clients and customers, consistently exceeding expectations in all measurable performance areas.
+
+
+
+
+Pepper Advantage is an equal opportunities employer.
+
+Role profiles are subject to change in line with business needs.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at Pepper Advantage by 2x
+
+See who you know
+
+Get notified about new Platform Engineer jobs in Dublin, County Dublin, Ireland.
+
+Sign in to create job alert
+Similar jobs
+Site Reliability Engineer, Dublin
+Site Reliability Engineer, Dublin
+Apple
+Dublin, County Dublin, Ireland
+6 months ago
+Site Reliability Engineer
+Site Reliability Engineer
+Apple
+Dublin, County Dublin, Ireland
+3 months ago
+Staff Platform Engineer - EU
+Staff Platform Engineer - EU
+Ashby
+Greater Dublin
+€154,000 - €250,000
+2 weeks ago
+Platform Engineer
+Platform Engineer
+Trust In SODA
+Dublin, County Dublin, Ireland
+€100,000 - €140,000
+1 week ago
+Senior Platform Engineer - Dublin
+Senior Platform Engineer - Dublin
+RapidRatings
+Dublin, County Dublin, Ireland
+3 days ago
+Platform Engineer - Infra & Cloud Delivery (d/f/m)
+Platform Engineer - Infra & Cloud Delivery (d/f/m)
+Personio
+Dublin, County Dublin, Ireland
+5 days ago
+Show more jobs like this 
+People also viewed
+Senior Infrastructure Engineer, Compute & Storage Platform
+Senior Infrastructure Engineer, Compute & Storage Platform
+
+Toast
+
+Dublin, County Dublin, Ireland
+2 days ago
+Software Engineer - Cloud Infrastructure
+Software Engineer - Cloud Infrastructure
+
+eBay
+
+Dublin, County Dublin, Ireland
+5 days ago
+Systems Engineer I
+Systems Engineer I
+
+Qualtrics
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+Core Operations Engineer
+Core Operations Engineer
+
+Virtu Financial
+
+Dublin, County Dublin, Ireland
+1 week ago
+Software Engineer - Associate - Infrastructure Platforms
+Software Engineer - Associate - Infrastructure Platforms
+
+JPMorganChase
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+Principal Platform Engineer || Identity Platform (AuthN/AuthZ)
+Principal Platform Engineer || Identity Platform (AuthN/AuthZ)
+
+IFS
+
+Dublin, County Dublin, Ireland
+1 month ago
+Forward Deployed Engineer
+Forward Deployed Engineer
+
+Accenture
+
+County Dublin, Ireland
+2 weeks ago
+Cloud Engineer II
+Cloud Engineer II
+
+Sprinklr
+
+Dublin, County Dublin, Ireland
+1 week ago
+Data Platform Engineer - Cybersecurity
+Data Platform Engineer - Cybersecurity
+
+Workday
+
+Dublin, County Dublin, Ireland
+1 day ago
+Senior Cloud Engineer
+Senior Cloud Engineer
+
+Optum
+
+Dublin, County Dublin, Ireland
+3 weeks ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

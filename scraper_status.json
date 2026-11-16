@@ -1,9 +1,9 @@
 {
   "pid": 50564,
   "started_at": "2026-11-17T01:12:35+02:00",
-  "heartbeat_at": "2026-11-17T01:19:44+02:00",
+  "heartbeat_at": "2026-11-17T01:22:10+02:00",
   "phase": "reviewing",
-  "detail": "DevOps Engineer 2 (Intermediate)",
-  "last_scrape_ok_at": "2026-11-17T01:18:32+02:00",
+  "detail": "Platform Engineer",
+  "last_scrape_ok_at": "2026-11-17T01:21:05+02:00",
   "last_error": null
 }

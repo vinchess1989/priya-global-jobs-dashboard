@@ -1,0 +1,304 @@
+Title: Prin Cloud Engineer - Platform Engineering (CICD)
+Company: Medtronic
+Location: Galway, County Galway, Ireland
+URL: https://ie.linkedin.com/jobs/view/prin-cloud-engineer-platform-engineering-cicd-at-medtronic-4490676985
+Posted: 2026-11-17
+Deadline: N/A
+Reason: The role is a perfect match for the candidate's expertise in CI/CD, platform engineering, and regulated medical device environments, and it is located in an eligible country (Ireland).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Prin Cloud Engineer - Platform Engineering (CICD)
+Medtronic  Galway, County Galway, Ireland
+6 hours ago   Be among the first 25 applicants
+  
+
+See who Medtronic has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Careers that change lives start here. Medtronic is a global leader in healthcare technology with a Mission to alleviate pain, restore health, and extend life. Our 95,000 employees work across more than 150 countries to put patients first — developing innovative medical technologies that improve the lives of 72+ million patients each year. Your unique talents will help shape the future of healthcare while building a career grounded in purpose, growth, and impact.
+
+A Day in the Life
+
+Medtronic
+
+At Medtronic, we value what makes you unique. Be part of a company that thinks differently to solve problems, make progress, and deliver meaningful innovations.
+
+Our Purpose
+
+At Medtronic Patient Care Systems (PCS), we power the digital heartbeat behind life-saving cardiac therapies. We build the connected ecosystem that enables clinicians to monitor, manage, and protect millions of patients living with implantable cardiac devices around the world.
+
+From secure device connectivity and real-time data platforms to intelligent clinical tools and patient-facing experiences, PCS transforms complex cardiac data into clarity, helping physicians make faster decisions, improving outcomes, and giving patients greater confidence in their care.
+
+Every line of code we write supports someone’s parent, spouse, child, or friend. Our work ensures that life-saving therapies are not only delivered safely and reliably, but continuously improved through innovation, insight, and global scale.
+
+If you want to build technology that truly matters, where uptime means peace of mind and innovation means more birthdays, join us. Together, we are shaping the future of connected cardiac care and changing lives every single day
+
+Come for a job, stay for a career!
+
+As a Prin Cloud Engineer within PCS organization, you will be involved in developing the software ecosystem supporting Medtronic implantable cardiac devices and will operate in all phases and contribute to all activities of the software development process.
+
+Medtronic PCS teams develop the next generation medical technologies that save lives, improve quality of living for millions of patients across the world. The team works with various software technologies in application software, network software, mobile software, BT/BLE communication software, and interfacing with embedded software for management and control of implantable medical devices.
+
+The team is seeking a proactive, self-motivated, and highly skilled software development engineer to lead the charge in building the next generation of CRM solutions. This role demands innovative thinking, a strong background in cloud-based software development, and a passion for creating robust, scalable systems that drive exceptional user experiences.
+
+You will play a pivotal role in shaping the architecture and development of cutting-edge PCS software, collaborating with cross-functional global teams to deliver impactful solutions.
+
+A Day in the Life
+
+
+Provide technical leadership and architectural direction for enterprise-scale CI/CD capabilities supporting development teams across Patient Care Systems.
+Design, build, and evolve reusable Golden Path and Golden Gate pipeline templates that standardize software build, analysis, packaging, security scanning, SBOM generation, and delivery while allowing appropriate extension for product-specific needs. These templates are the organizational baseline for CI/CD.
+Lead the ongoing transition of CI/CD workloads from Azure DevOps toward GitHub and GitHub Actions, establishing scalable patterns that development teams can adopt with minimal friction.
+Architect shared pipeline capabilities using technologies including Azure DevOps, GitHub Actions, JFrog Artifactory/Xray, SonarQube, Docker, Kubernetes, Helm, and Terraform.
+Establish reusable patterns for multiple build technologies and application architectures rather than creating one-off implementations for individual teams. The team's Golden Path model already uses technology-specific templates to abstract build, analysis, and publishing activities.
+Embed security and compliance directly into the developer workflow through automated quality gates, vulnerability scanning, artifact management, SBOM generation, code analysis, and policy enforcement.
+Drive the architecture and reliability of build-agent and GitHub Actions runner infrastructure, including scalability, monitoring, capacity, and troubleshooting of complex pipeline workloads.
+Improve developer productivity by eliminating repetitive pipeline engineering, simplifying onboarding, creating self-service workflows, and reducing the time required to move a new application or service from repository creation to a production-ready delivery path.
+Partner with application engineering, Product Security, Quality, infrastructure, Kubernetes, cloud, and platform teams to establish common engineering standards and solve complex cross-platform delivery problems.
+Work directly with development teams when needed to understand complex build and release requirements, identify reusable patterns, and turn those requirements into capabilities that benefit the broader organization.
+Lead technically difficult migrations and modernization efforts across large numbers of repositories and pipelines. The Plumbers team has already migrated 547 pipelines across 37 Scrum teams while developing nine reusable Golden Path templates.
+Influence architecture and technology decisions beyond the immediate Scrum team through design reviews, technical standards, architecture decisions, prototypes, and reference implementations.
+Establish observability and measurable health indicators for the CI/CD platform, including pipeline health, runner reliability, adoption, performance, and developer experience.
+Mentor engineers and serve as a technical escalation point for complex CI/CD, software supply-chain, artifact-management, and developer-platform problems.
+Help evolve DX capabilities toward greater automation, including AI-assisted PR review, workflow automation, CI/CD troubleshooting, and agentic support experiences.
+Maintain a hands-on role through code, pull requests, prototypes, troubleshooting, and technical implementation while simultaneously helping define the longer-term architecture and roadmap.
+
+
+
+Key Skills & Experience
+
+Core Competencies: Minimum Requirements
+
+
+Bachelor's degree in computer science, Software Engineering, Computer Engineering, Information Systems, or related technical discipline with 7+ years of relevant experience, or an advanced degree with 5+ years.
+Strong technical depth in software, cloud, infrastructure, platform, or data systems.
+Experience designing, building, operating, and improving reusable platform services, automation, CI/CD pipelines, Infrastructure as Code, or shared engineering capabilities.
+Ability to deliver scalable, reliable, secure, maintainable, and cost-effective cloud-native or distributed solutions.
+Experience troubleshooting production systems, performing root cause analysis, and implementing lasting improvements.
+Ability to independently solve difficult technical problems and own projects, processes, or technical outcomes within the job area.
+Experience improving engineering practices, influencing technical direction, and mentoring less experienced engineers.
+Strong communication skills with the ability to collaborate across engineering, architecture, leadership, customer, and vendor groups.
+Mastery of a specialty area and full knowledge of industry practices, typically obtained through advanced education combined with experience
+
+
+
+Platform Domain Experience
+
+CICD Platform
+
+
+Strong hands-on experience with GitHub Actions and/or Azure DevOps Pipelines, including reusable pipelines, templates, workflows, runners/agents, security controls, and deployment automation.
+Advanced experience with source control and Git-based software-development workflows.
+Strong software engineering and automation experience using languages such as Python, Go, JavaScript/TypeScript, Bash, or PowerShell.
+Experience with artifact/package management and software supply-chain tooling such as JFrog Artifactory and Xray.
+Experience integrating automated testing, static analysis, code coverage, vulnerability scanning, SBOM generation, secrets management, and other DevSecOps controls into CI/CD pipelines.
+Experience with container technologies including Docker and Kubernetes, and familiarity with Helm and cloud-native deployment patterns.
+
+
+
+Preferred Qualifications
+
+Experience or familiarity with one or more of the following will provide a strong foundation for success:
+
+
+AWS certification
+
+
+
+Physical Job Requirements
+
+The above statements are intended to describe the general nature and level of work being performed by employees assigned to this position, but they are not an exhaustive list of all the required responsibilities and skills of this position. 
+
+‌
+
+‌
+
+Recruitment Fraud Alert
+
+We are aware of phishing scams targeting job seekers. Please keep the following in mind:
+
+Apply only through official Medtronic channels. All legitimate Medtronic recruiting communications come from approved Medtronic platforms and official @medtronic.com email addresses.
+
+Medtronic will never ask for payment or sensitive personal information (such as bank account or Social Security details) during early stages of the hiring process. Any such requests are not legitimate.
+
+If you receive a suspicious message claiming to be from Medtronic, do not respond, click links, or open attachments.
+
+If you have any questions, concerns regarding the authenticity of a communication alleged to have been made by or on behalf of Medtronic, please contact us immediately at AskHR@medtronic.com.
+
+Benefits & Compensation
+
+Medtronic offers a competitive Salary and flexible Benefits Package
+
+A commitment to our employees lives at the core of our values. We recognize their contributions. They share in the success they help to create. We offer a wide range of benefits, resources, and competitive compensation plans designed to support you at every career and life stage.
+
+Pay range / Rango salarial / Intervalo salarial /Fascia retributiva / Tranche de salaire / Gehaltsband / Salaribereik: Ireland: 83,520.00 EUR - 125,280.00 EUR |
+
+The final salary within this range will be determined based on objective, job-related criteria, including relevant experience, skills and qualifications, in accordance with our compensation framework.
+
+‌
+
+This position is eligible for a short-term incentive called the Medtronic Incentive Plan (MIP).
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Medical Equipment Manufacturing, Hospitals and Health Care, and Pharmaceutical Manufacturing
+  
+
+Referrals increase your chances of interviewing at Medtronic by 2x
+
+See who you know
+
+Get notified about new Cloud Engineer jobs in Galway, County Galway, Ireland.
+
+Sign in to create job alert
+Similar jobs
+Cloud Engineer
+Cloud Engineer
+Ministry Brands
+Galway, County Galway, Ireland
+6 days ago
+Platform Engineer
+Platform Engineer
+ACI Worldwide
+Limerick, County Limerick, Ireland
+13 hours ago
+Senior Cloud Engineer - Kubernetes Platform
+Senior Cloud Engineer - Kubernetes Platform
+Medtronic
+Galway, County Galway, Ireland
+2 weeks ago
+CloudOps Engineer
+CloudOps Engineer
+Planet
+Galway, County Galway, Ireland
+1 week ago
+Site Reliability Engineer
+Site Reliability Engineer
+Blockdaemon
+Galway, County Galway, Ireland
+1 month ago
+Senior Infrastructure Automation Engineer
+Senior Infrastructure Automation Engineer
+Siemens EDA (Siemens Digital Industries Software)
+Shannon, County Clare, Ireland
+10 hours ago
+Show more jobs like this 
+People also viewed
+Software Engineer, Backend - Engineering Operations
+Software Engineer, Backend - Engineering Operations
+
+Camunda
+
+County Galway, Ireland
+2 days ago
+Principal Engineer
+Principal Engineer
+
+Fiserv
+
+Nenagh, County Tipperary, Ireland
+3 days ago
+Software Test Solutions Engineer
+Software Test Solutions Engineer
+
+Analog Devices
+
+Limerick, County Limerick, Ireland
+1 week ago
+Azure Security Engineer
+Azure Security Engineer
+
+Albany Beck
+
+Limerick, County Limerick, Ireland
+4 days ago
+Software Engineer (Backend) - Galway
+Software Engineer (Backend) - Galway
+
+Hewlett Packard Enterprise
+
+Galway, County Galway, Ireland
+10 hours ago
+Director, VisionNext Infrastructure & Reliability
+Director, VisionNext Infrastructure & Reliability
+
+Fiserv
+
+Nenagh, County Tipperary, Ireland
+1 month ago
+Principal Cyber Security Engineer
+Principal Cyber Security Engineer
+
+The Recruitment Company
+
+Galway, County Galway, Ireland
+6 days ago
+Azure Cloud / Platform Engineer - Galway
+Azure Cloud / Platform Engineer - Galway
+
+Solas IT Recruitment
+
+Galway, County Galway, Ireland
+€80,000 - €110,000
+5 days ago
+Senior Hybrid Cloud Engineer
+Senior Hybrid Cloud Engineer
+
+Cisco
+
+Galway, County Galway, Ireland
+2 weeks ago
+Senior Platform Engineer - ML Ops
+Senior Platform Engineer - ML Ops
+
+Medtronic
+
+Galway, County Galway, Ireland
+1 month ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
