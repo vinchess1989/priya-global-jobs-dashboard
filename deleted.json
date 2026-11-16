@@ -27708,5 +27708,39 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": "job_descriptions/k_inga_ora___homes_a_platform_lead___enterprise_dig_b0f4c357.txt",
     "deletion_reason": "Deadline (2025-11-29) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Materials Engineer - AI Trainer",
+    "company": "AfterQuery Experts",
+    "location": "New Zealand",
+    "url": "https://nz.linkedin.com/jobs/view/materials-engineer-ai-trainer-at-afterquery-experts-4487134115",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role requires a specific academic background in materials science/engineering which the candidate does not possess, and it explicitly states that no visa sponsorship is available.",
+    "id": "8e995b6e",
+    "source": "linkedin_nz_technical_writer",
+    "added_at": "2026-11-16T02:04:44+02:00",
+    "posted_date": "2026-11-10",
+    "deadline": "Open until filled",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Explosives Engineer - AI Trainer",
+    "company": "AfterQuery Experts",
+    "location": "New Zealand",
+    "url": "https://nz.linkedin.com/jobs/view/explosives-engineer-ai-trainer-at-afterquery-experts-4487119730",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role requires specific domain expertise in explosives engineering and explicitly states that no visa sponsorship is available.",
+    "id": "75b432f3",
+    "source": "linkedin_nz_technical_writer",
+    "added_at": "2026-11-16T02:04:44+02:00",
+    "posted_date": "2026-11-10",
+    "deadline": "Open until filled",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
