@@ -28167,5 +28167,22 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": null,
     "deletion_reason": "Deadline (2026-10-25) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Senior Delivery Manager",
+    "company": "K\u0101inga Ora - Homes and Communities",
+    "location": "Wellington, Wellington, New Zealand",
+    "url": "https://nz.linkedin.com/jobs/view/senior-delivery-manager-at-k%C4%81inga-ora-homes-and-communities-4490144557",
+    "visited": "yes",
+    "matches_requirements": "maybe",
+    "reason": "The role is a strong fit for her release and delivery management experience, but it is a government position in New Zealand which may have implicit residency or citizenship requirements for security vetting that are not explicitly stated.",
+    "id": "08d3b343",
+    "source": "linkedin_nz_release_manager",
+    "added_at": "2026-11-17T01:47:17+02:00",
+    "posted_date": "2026-11-17",
+    "deadline": "2025-11-27",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Deadline (2025-11-27) passed by more than 2 days and unreviewed"
   }
 ]
