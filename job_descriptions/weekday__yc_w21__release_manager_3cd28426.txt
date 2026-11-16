@@ -1,0 +1,264 @@
+Title: Release Manager
+Company: Weekday (YC W21)
+Location: Pune Division, Maharashtra, India
+URL: https://in.linkedin.com/jobs/view/release-manager-at-weekday-yc-w21-4489736630
+Posted: 2026-11-17
+Deadline: Open until filled
+Reason: The role is a strong match for her release management and CI/CD expertise, is located in India (a target country), and does not trigger any hard rejections.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Release Manager
+Weekday (YC W21)  Pune Division, Maharashtra, India
+11 hours ago   Be among the first 25 applicants
+  
+
+See who Weekday (YC W21) has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Weekday (YC W21) provided pay range
+
+This range is provided by Weekday (YC W21). Your actual pay will be based on your skills and experience — talk with your recruiter to learn more.
+
+Base pay range
+₹1,500,000.00/yr - ₹2,400,000.00/yr
+This role is for one of our clients
+Industry: Artificial Intelligence
+
+Company Name: Brillio
+
+Seniority level: Mid-Senior Level
+
+Min Experience: 5+ years
+
+Location: Bengaluru, Karnataka, India, Pune, Maharashtra, India, Hyderabad, Telangana, India
+
+JobType: full-time
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+
+The Release Manager oversees and executes release management activities to ensure successful, seamless code deployments across all lower and production environments. This is a hands-on role requiring a technical expert who will maintain robust CI/CD pipelines while actively collaborating with multiple teams to deliver artifacts on time. By enforcing established SDLC release processes, troubleshooting deployment failures, and managing clear client communications, you will ensure high-quality software delivery and operational stability.
+
+Requirements
+Key Responsibilities
+
+
+
+Manage Deployments: Coordinate and execute end-to-end release management activities to ensure successful code deployment across lower and production environments
+Pipeline Engineering: Maintain automated CI/CD pipelines to streamline deployment workflows, optimize delivery speed, and reduce manual errors
+Process Enforcement: Enforce established SDLC release processes, governance models, and deployment protocols across all internal teams and client stakeholders
+Cross-Team Liaison: Partner actively with multiple development, engineering, and product teams to track dependencies and ensure all release artifacts are delivered on time
+Troubleshoot Failures: Diagnose and troubleshoot complex CI/CD pipeline and deployment failures rapidly, recommending and implementing permanent technical fixes
+Client Communication: Serve as a primary point of contact for clients, providing clear, transparent updates regarding release schedules, risks, and deployment statuses. Required Qualifications
+CI/CD Expertise: Proven, hands-on experience building, scaling, and maintaining continuous integration and continuous deployment pipelines using GitLab and GitHub
+Data Stack Familiarity: Hands-on experience managing and executing code deployments specifically for Snowflake, Apache Airflow, and DBT
+SDLC Knowledge: Deep understanding of the standard Software Development Life Cycle (SDLC) and release management methodologies
+Communication Skills: Exceptional verbal and written communication skills, with a proven track record of successful client-facing communication and stakeholder management
+Problem Solving: Strong technical troubleshooting skills with the ability to isolate infrastructure, pipeline, or code configuration failures under tight release deadlines. Preferred Qualifications
+Experience working within cloud data warehouse environments or data engineering release tracks
+Certification in GitLab, GitHub Actions, or relevant cloud/DevOps practices
+Experience managing releases in multi-tenant or complex enterprise client ecosystems
+
+
+
+
+Must-have skills
+
+GitLab, GitHub, CI/CD
+
+Good-to-have skills
+
+Cloud data warehouse, Data engineering, Git Lab certification
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Business Consulting and Services, IT Services and IT Consulting, and Professional Training and Coaching
+  
+
+Referrals increase your chances of interviewing at Weekday (YC W21) by 2x
+
+See who you know
+
+Get notified about new Release Manager jobs in Pune Division, Maharashtra, India.
+
+Sign in to create job alert
+Jobs
+Change And Release Manager jobs
+Release Manager
+Similar jobs
+Lead Software Release Manager
+Lead Software Release Manager
+Mastercard
+Pune Division, Maharashtra, India
+2 weeks ago
+Release Manager
+Release Manager
+Weekday (YC W21)
+Pune Division, Maharashtra, India
+₹2,000,000 - ₹2,500,000
+1 week ago
+Senior Project and Release Manager
+Senior Project and Release Manager
+WPP Enterprise Solutions
+Pune Division, Maharashtra, India
+2 weeks ago
+AIT Management
+AIT Management
+Crisil
+Pune Division, Maharashtra, India
+1 week ago
+Scrum Master - AVP
+Scrum Master - AVP
+Barclays
+Pune Division, Maharashtra, India
+2 days ago
+Delivery Operations Manager
+Delivery Operations Manager
+DeepIntent
+Pune Division, Maharashtra, India
+3 weeks ago
+Show more jobs like this 
+People also viewed
+DEVOPS LEAD L1
+DEVOPS LEAD L1
+
+Wipro
+
+Pune Division, Maharashtra, India
+2 weeks ago
+Avaloq Config Manager
+Avaloq Config Manager
+
+Barclays
+
+Pune Division, Maharashtra, India
+5 months ago
+Technical Lead
+Technical Lead
+
+Barclays
+
+Pune Division, Maharashtra, India
+2 months ago
+Stability and Resiliency Lead
+Stability and Resiliency Lead
+
+Barclays
+
+Pune Division, Maharashtra, India
+2 months ago
+DEVOPS LEAD L2
+DEVOPS LEAD L2
+
+Wipro
+
+Pune Division, Maharashtra, India
+2 weeks ago
+DEVOPS LEAD L2
+DEVOPS LEAD L2
+
+Wipro
+
+Pune Division, Maharashtra, India
+3 days ago
+DEVOPS LEAD L2
+DEVOPS LEAD L2
+
+Wipro
+
+Pune Division, Maharashtra, India
+3 days ago
+DEVOPS LEAD L2
+DEVOPS LEAD L2
+
+Wipro
+
+Pune Division, Maharashtra, India
+3 days ago
+DEVOPS LEAD L2
+DEVOPS LEAD L2
+
+Wipro
+
+Pune Division, Maharashtra, India
+3 days ago
+Senior Technical Program Manager
+Senior Technical Program Manager
+
+Mastercard
+
+Pune Division, Maharashtra, India
+2 weeks ago
+Similar Searches
+Change And Release Manager jobs
+184 open jobs
+Software Configuration Manager jobs
+7,612 open jobs
+Unix Consultant jobs
+623 open jobs
+Release Engineer jobs
+3,467 open jobs
+Deployment Manager jobs
+4,865 open jobs
+Build And Release Engineer jobs
+3,712 open jobs
+SAP Basis Team Lead jobs
+194 open jobs
+Software Release Engineer jobs
+346 open jobs
+Configuration Manager jobs
+1,407 open jobs
+Change Manager jobs
+8,241 open jobs
+Problem Manager jobs
+2,374 open jobs
+Contract Test Engineer jobs
+920 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Weekday (YC W21)
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
