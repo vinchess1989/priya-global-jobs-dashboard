@@ -1,9 +1,9 @@
 {
   "pid": 50564,
   "started_at": "2026-11-17T01:12:35+02:00",
-  "heartbeat_at": "2026-11-17T01:15:46+02:00",
+  "heartbeat_at": "2026-11-17T01:19:44+02:00",
   "phase": "reviewing",
-  "detail": "Technical Writer",
-  "last_scrape_ok_at": "2026-11-17T01:14:17+02:00",
+  "detail": "DevOps Engineer 2 (Intermediate)",
+  "last_scrape_ok_at": "2026-11-17T01:18:32+02:00",
   "last_error": null
 }
