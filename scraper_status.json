@@ -1,9 +1,9 @@
 {
   "pid": 7284,
   "started_at": "2026-11-16T01:09:14+02:00",
-  "heartbeat_at": "2026-11-16T02:21:13+02:00",
-  "phase": "reviewing",
-  "detail": "Product Specialist",
-  "last_scrape_ok_at": "2026-11-16T02:20:16+02:00",
+  "heartbeat_at": "2026-11-16T02:21:29+02:00",
+  "phase": "scraped",
+  "detail": "0 new jobs",
+  "last_scrape_ok_at": "2026-11-16T02:21:29+02:00",
   "last_error": null
 }
