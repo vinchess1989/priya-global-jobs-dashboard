@@ -1,0 +1,254 @@
+Title: Senior Site Reliability Engineer
+Company: LexisNexis
+Location: South Africa
+URL: https://za.linkedin.com/jobs/view/senior-site-reliability-engineer-at-lexisnexis-4459426510
+Posted: 2026-09-18
+Deadline: N/A
+Reason: The role aligns with the candidate's extensive experience in DevOps, CI/CD, and infrastructure automation, and it is located in a target country (South Africa) without explicit visa restrictions.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Site Reliability Engineer
+LexisNexis  South Africa
+2 months ago  122 applicants
+  
+
+See who LexisNexis has hired for this role
+
+Apply 
+Save
+Are you passionate about building secure, scalable, and highly reliable platforms that empower innovation and support critical technology services?
+
+Do you enjoy leading reliability initiatives, driving automation, and partnering across teams to create resilient systems and exceptional developer experiences?
+
+About Our Team
+
+At LexisNexis Intellectual Property Solutions, our mission is to bring clarity to innovation by delivering better outcomes to the innovation community. Each and every day, the work our team does supports the development of new technologies and processes that ultimately advance humanity. Helping our customers reach their goals is our primary focus. We enable innovators to accomplish more by helping them make informed decisions, be more productive, comply with regulations and ultimately achieve superior results. Our overall success is measured by how well we deliver these results. We are proud to directly support and serve these innovators in their endeavors to better humankind.
+
+About The Role
+
+As a Senior Site Reliability Engineer, you will help shape and operate reliable, secure, and scalable platforms that support critical products and services. You will work closely with engineering, security, and platform teams to improve operational excellence, strengthen delivery pipelines, and reduce manual effort through automation. This role also provides technical leadership in incident management, reliability engineering, and continuous platform improvement.
+
+Responsibilities
+
+
+Design, build, and maintain highly available, scalable, and secure infrastructure across cloud and hybrid environments.
+Lead platform engineering initiatives, including internal developer platforms, self-service tooling, and infrastructure-as-code frameworks.
+Drive DevOps and DevSecOps practices, embedding automated security scanning, compliance checks, and secure-by-default configurations into CI/CD pipelines.
+Define and track SLIs, SLOs, and error budgets; use them to guide engineering priorities and reliability investments.
+Own incident management, including on-call leadership, incident response, and blameless postmortems.
+Design, test, and maintain disaster recovery and business continuity plans.
+Automate operational workflows to reduce manual toil and improve system resilience.
+Architect and implement observability solutions to improve visibility and accelerate detection and resolution.
+
+
+Requirements
+
+
+Equivalent practical experience in Site Reliability Engineering, Platform Engineering, DevOps, or a closely related role.
+Demonstrated background in platform engineering, including building internal tools, self-service infrastructure, or developer platforms.
+Strong hands-on experience with DevOps practices, including CI/CD pipelines, infrastructure as code, and configuration management.
+Practical experience with DevSecOps, integrating security scanning, secrets management, and compliance automation into deployment pipelines.
+Solid understanding of networking, distributed systems, and Linux systems administration.
+Experience leading incident response and driving postmortem processes.
+Experience with cloud platforms such as AWS or Azure, container technologies including Kubernetes and Docker, and infrastructure-as-code tools.
+Experience with observability and security tooling, and the ability to contribute to technical roadmaps and architecture decisions.
+
+
+Work in a Way That Works for You
+
+We promote a healthy work/life balance across the organisation. We offer an appealing working prospect for our people. With numerous wellbeing initiatives, shared parental leave, study assistance and sabbaticals, we will help you meet your immediate responsibilities and your long-term goals.
+
+Working Pattern
+
+Working flexible hours - flexing the times when you work in the day to help you fit everything in and work when you are the most productive.
+
+About The Business
+
+LexisNexis Legal & Professional® provides legal, regulatory, and business information and analytics that help customers increase their productivity, improve decision-making, achieve better outcomes, and advance the rule of law around the world. As a digital pioneer, the company was the first to bring legal and business information online with its Lexis® and Nexis® services.
+
+We know your well-being and happiness are key to a long and successful career. We are delighted to offer country specific benefits. Click here to access benefits specific to your location.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at LexisNexis by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Field Account Manager jobs
+Senior Site Reliability Engineer
+Similar jobs
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+RELX
+South Africa
+2 months ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+SearchApi
+South Africa
+4 months ago
+Platform Engineer
+Platform Engineer
+Share
+Cape Town, Western Cape, South Africa
+2 months ago
+Senior Site Reliability / Gitops Engineer
+Senior Site Reliability / Gitops Engineer
+Canonical
+Johannesburg, Gauteng, South Africa
+5 days ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+Canonical
+Johannesburg, Gauteng, South Africa
+5 days ago
+Senior Cloud DevOps Engineer
+Senior Cloud DevOps Engineer
+Ikue
+South Africa
+10 months ago
+Show more jobs like this 
+People also viewed
+Senior DevOps Engineer (Architecture)
+Senior DevOps Engineer (Architecture)
+
+BETSoftware
+
+Durban, KwaZulu-Natal, South Africa
+1 month ago
+Senior AWS DevOps Engineer
+Senior AWS DevOps Engineer
+
+LexisNexis
+
+City of Cape Town, Western Cape, South Africa
+1 month ago
+Senior Software Engineer
+Senior Software Engineer
+
+The Flex
+
+South Africa
+1 month ago
+Senior Devops Engineer
+Senior Devops Engineer
+
+Tata Consultancy Services
+
+City of Cape Town, Western Cape, South Africa
+2 weeks ago
+Senior Security Engineer (Remote)
+Senior Security Engineer (Remote)
+
+Lightning Labs
+
+South Africa
+3 days ago
+Senior Infrastructure Consultant
+Senior Infrastructure Consultant
+
+Technimove
+
+Johannesburg, Gauteng, South Africa
+1 month ago
+Senior Systems Administrator
+Senior Systems Administrator
+
+Prime System Solutions
+
+South Africa
+3 weeks ago
+Senior Security Engineer
+Senior Security Engineer
+
+LiteLLM
+
+South Africa
+1 day ago
+SRE Platform Engineer (Microsoft Azure)
+SRE Platform Engineer (Microsoft Azure)
+
+Syspro
+
+Johannesburg, Gauteng, South Africa
+2 months ago
+Senior C# / .NET (Site Reliability Engineer)
+Senior C# / .NET (Site Reliability Engineer)
+
+Resourgenix (Pty) Ltd
+
+Sandton, Gauteng, South Africa
+ZAR 1,300,000 - ZAR 1,400,000
+4 days ago
+Similar Searches
+Field Account Manager jobs
+295 open jobs
+Underwriting Team Lead jobs
+27 open jobs
+Legal Editor jobs
+26 open jobs
+Professional Support Lawyer jobs
+38 open jobs
+Business Strategy Consultant jobs
+45 open jobs
+Media Researcher jobs
+22 open jobs
+Senior Storage Engineer jobs
+47 open jobs
+Legal Researcher jobs
+57 open jobs
+Trademark Attorney jobs
+11 open jobs
+Chief of Police jobs
+23 open jobs
+Claims Attorney jobs
+16 open jobs
+Candidate Attorney jobs
+26 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

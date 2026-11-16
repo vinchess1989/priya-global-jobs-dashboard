@@ -1,0 +1,263 @@
+Title: Senior Product Quality Engineer
+Company: Ascenda
+Location: Singapore
+URL: https://sg.linkedin.com/jobs/view/senior-product-quality-engineer-at-ascenda-4490292540
+Posted: 2026-11-17
+Deadline: Open until filled
+Reason: The role is a strong match for her DevOps and quality engineering background, located in a target country (Singapore), and does not trigger any hard rejections.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Product Quality Engineer
+Ascenda  Singapore
+11 hours ago   Be among the first 25 applicants
+  
+
+See who Ascenda has hired for this role
+
+Apply 
+Save
+Great to Meet You! We are Ascenda
+
+Ascenda powers the growth of leading financial services brands worldwide with premium rewards programs that differentiate their products, drive profitable customer behaviors, and create sustained engagement.
+
+We are behind the world-class rewards propositions of major banks and fintechs around the globe, including brands like American Express, Capital One, Brex, Revolut, Ramp, HSBC, Bank of New Zealand, Virgin Money (Australia), Bradesco (Brazil), ANZ (Australia), HDFC (India) and many others.
+
+We are a thriving global Loyalty as a Service company and experiencing rapid expansion. Join our dynamic team as one of its earliest leaders, contributing to the development of our financial planning strategies as we strive for hypergrowth. Our team spans 20 cities worldwide, with dual headquarters in Singapore and New York, totaling 250 team members.
+
+Join us as a Senior/Staff Platform Quality Engineer in our Singapore or Vietnam (HCMC) office!
+
+The Senior Platform QE builds and evolves the engineering capabilities that enable Product QEs and software engineers to deliver quality at scale. This role focuses on reusable test automation, QE tooling, CI/CD integration, performance engineering, and AI-enabled testing.
+
+The ideal candidate combines strong hands-on engineering with systems thinking, enabling teams to improve delivery speed, test effectiveness, and production confidence without introducing unnecessary process overhead.
+
+If you’re enthusiastic about developing strong testing strategies, guiding top-notch QE teams, and fostering quality through technology and teamwork, we’d love to have you on board to help us build a top-tier quality engineering function.
+
+Your Impact
+
+Automation frameworks and tooling
+
+
+Design, develop, and maintain scalable automation frameworks, shared libraries, test utilities, and reusable accelerators.
+Integrate automated tests and quality gates into CI/CD pipelines to provide fast, reliable feedback.
+Evaluate and improve testing tools, framework architecture, execution efficiency, test data management, and reporting.
+Reduce duplicated engineering effort by making reusable capabilities easy to adopt and maintain.
+
+
+AI adoption and intelligent testing
+
+
+Identify and validate practical AI use cases across test design, automation development, exploratory testing support, defect analysis, and test maintenance.
+Develop repeatable AI-assisted testing workflows, with appropriate human review and validation.
+Assess AI-generated test quality, reliability, security, privacy, and maintainability before recommending broader adoption.
+Establish measurable baselines to determine whether AI adoption improves engineering productivity and test effectiveness.
+
+
+Performance, reliability, and specialist practices
+
+
+Define reusable approaches for load, stress, endurance, scalability, and resilience testing.
+Develop workload models, performance baselines, reusable scripts, and engineering guidance for high-volume systems.
+Enable teams to validate service-level objectives, critical user journeys, API latency, and production-like workloads.
+Provide guidance on accessibility automation, observability validation, and resilience testing.
+
+
+Enablement and continuous improvement
+
+
+Advise and enable Product QEs and software engineers on automation design, testability, risk-based approaches, and quality engineering practices.
+Maintain technical documentation, reference implementations, and practical adoption guides.
+Measure adoption and effectiveness of platform capabilities and use delivery feedback to prioritize improvements.
+Investigate emerging technologies and recommend adoption based on evidence of business value.
+
+
+What We're Looking Out For
+
+
+Strong programming skills in at least one language such as TypeScript, JavaScript, Java, or Python.
+Hands-on experience designing maintainable automation frameworks for APIs, services, and/or web applications.
+Experience with tools such as Playwright, REST API testing frameworks, or equivalent technologies.
+Practical CI/CD experience using platforms such as GitHub Actions, GitLab CI, Jenkins, or equivalent.
+Strong understanding of software architecture, micro-services, distributed systems, APIs, testability, and integration patterns.
+Experience with performance testing tools such as k6, JMeter, Gatling, or equivalent.
+Demonstrated ability to troubleshoot complex technical problems and improve engineering practices across teams.
+Strong communication, technical documentation, and coaching skills.
+Experience in SaaS, fintech, banking, loyalty platforms, or other high-volume transaction systems.
+Practical exposure to AI-assisted software development or testing tools and the ability to evaluate their limitations.
+Knowledge of contract testing, accessibility standards such as WCAG, security testing, resilience testing, and test data management.
+Experience defining quality metrics, engineering standards, or reusable testing accelerators adopted by multiple teams.
+
+
+Why Join Ascenda?
+
+Ascenda offers the unique opportunity to lead in the loyalty ecosystem space, shaping the future of rewards programs. We are passionate, we keep things simple, we focus on results, we work together & we innovate!
+
+We Have a Rewarding Working Place That Provides a
+
+
+High growth environment & exponential career development
+Mobile & flexible work environment
+WFH office equipment allowance
+Medical insurance coverage
+Employee recognition programs
+Competitive compensation
+Travel perks & Employee rewards
+
+
+Ascenda is dedicated to diversity and inclusion, welcoming candidates from all backgrounds. Join us on our mission to make loyalty simple and rewarding for everyone, everywhere.
+
+Ready to power growth for the financial services industry? Apply now! Together, we'll redefine what's possible.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Ascenda by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Supplier Quality Engineer, Asia Pacific
+Supplier Quality Engineer, Asia Pacific
+Rolls-Royce
+Singapore
+2 months ago
+Product Engineer
+Product Engineer
+Dyson
+Singapore, Singapore
+3 days ago
+Supplier Quality Engineer
+Supplier Quality Engineer
+Rolls-Royce
+Singapore
+18 hours ago
+Lead Product Engineer
+Lead Product Engineer
+Dyson
+Singapore, Singapore
+1 week ago
+Senior Quality Engineer
+Senior Quality Engineer
+Linde
+Singapore, Singapore
+SGD 6,000 - SGD 8,000
+1 week ago
+Senior Quality Engineer
+Senior Quality Engineer
+Collins Aerospace
+Singapore, Singapore
+3 days ago
+Show more jobs like this 
+People also viewed
+Staff / Principal Quality Engineer, Manufacturing Operations
+Staff / Principal Quality Engineer, Manufacturing Operations
+
+Applied Materials South East Asia
+
+Singapore, Singapore
+3 days ago
+Operations and Customer Quality Manager
+Operations and Customer Quality Manager
+
+Applied Materials South East Asia
+
+Singapore, Singapore
+3 days ago
+Senior Quality Control & Assurance Engineer
+Senior Quality Control & Assurance Engineer
+
+Hyundai Motor Group Innovation Center Singapore (HMGICS)
+
+Singapore, Singapore
+3 days ago
+Product Engineering SME I
+Product Engineering SME I
+
+Jabil
+
+Singapore, Singapore
+8 months ago
+Quality Manager
+Quality Manager
+
+PRISM+
+
+Singapore, Singapore
+1 month ago
+Product Quality Assurance Engineer
+Product Quality Assurance Engineer
+
+Micron Technology
+
+Singapore, Singapore
+1 week ago
+Senior Supplier Quality Engineer (Manufacturing Quality) - Asia
+Senior Supplier Quality Engineer (Manufacturing Quality) - Asia
+
+Viasat
+
+Toa Payoh, Central Singapore Community Development Council, Singapore
+3 weeks ago
+Senior/ Engineer, Manufacturing Quality
+Senior/ Engineer, Manufacturing Quality
+
+ASM
+
+Singapore
+2 weeks ago
+Engineer / Senior Quality Engineer (MQA)
+Engineer / Senior Quality Engineer (MQA)
+
+Molex
+
+Singapore, Singapore
+1 week ago
+Senior Quality Assurance Specialist, APAC
+Senior Quality Assurance Specialist, APAC
+
+Arthrex APAC
+
+Singapore, Singapore
+3 weeks ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
