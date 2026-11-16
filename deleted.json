@@ -27742,5 +27742,22 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Technical Business Analyst",
+    "company": "Daimler Truck Financial Services Australia",
+    "location": "Mulgrave, Victoria, Australia",
+    "url": "https://au.linkedin.com/jobs/view/technical-business-analyst-at-daimler-truck-financial-services-australia-4484908521",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job explicitly requires candidates to already have a valid working visa for Australia, which the candidate does not possess.",
+    "id": "b5a343f0",
+    "source": "linkedin_au_technical_writer",
+    "added_at": "2026-11-16T02:15:43+02:00",
+    "posted_date": "2026-11-02",
+    "deadline": "2025-11-13",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Deadline (2025-11-13) passed by more than 2 days and unreviewed"
   }
 ]
