@@ -1,0 +1,120 @@
+Title: Principal DevOps Engineer
+Company: Lanson Partners
+Location: North Sydney, NSW, Australia
+URL: https://au.jora.com/job/DevOps-Engineer-173c88764536f8194b0a9b9e2cb811e5
+Posted: 2026-11-16
+Deadline: Open until filled
+Reason: The role aligns with the candidate's extensive experience in DevOps, CI/CD, and configuration management within a regulated industry, and it is located in an eligible country (Australia).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Search
+Sign in
+What
+Where
+Search jobs
+Principal DevOps Engineer
+Lanson Partners
+–
+North Sydney NSW
+Contract
+1d ago, from Work Initiatives
+Apply on company site
+Senior Platform/Devops Engineer | Kubernetes, AWS/GCP, DevOps
+
+
+The opportunity
+
+A leading Australian financial services group is investing in a critical platform build: the customer identity platform that secures access to its banking and financial services products. Millions of customer logins run through it, so it has to be fast, secure and always on.
+
+They want a hands-on platform engineer to help build and run it. This is a Kubernetes, cloud and DevOps role at heart. Identity is the service you support, not a skill you need on day one.
+
+What you will do
+
+You will join an Agile engineering team that owns the platform end to end, from design and build through to running it in production. You will work with the wider platform and application teams to keep things secure, reliable and observable, and you will have real say in how the tooling and engineering practices improve.
+
+Build and run cloud infrastructure across AWS and GCP using Terraform.
+
+Deploy and manage containerised workloads on Kubernetes (EKS, GKE) and Docker.
+
+Build and maintain CI/CD pipelines, automation and self-service tooling that other engineering teams rely on.
+
+Own monitoring, alerting and incident response, and troubleshoot issues across distributed systems in production.
+
+Support the platform services behind the identity and API stack.
+
+Join an on-call rotation for highly available, customer-facing services.
+
+What you will bring
+
+Hands-on Kubernetes experience, deploying and running workloads in production.
+
+Strong with Docker and containers.
+
+Experience with AWS or GCP. Both is a bonus, one is fine.
+
+Infrastructure as code (Terraform preferred) and CI/CD tooling (GitHub Actions, GitLab, Jenkins, Azure DevOps or similar).
+
+Scripting or programming in at least one of Go, Python, Bash or Java.
+
+A good grasp of web and API basics: REST, HTTP, certificates, API gateways.
+
+You solve problems on your own and explain them clearly.
+
+Nice to have
+
+Exposure to identity protocols (OIDC, OAuth, SAML) or platforms (Ping, Okta, Entra ID, ISAM).
+
+Ansible or other config management.
+
+Banking, fintech or other regulated industry experience.
+
+Why this role
+
+A critical platform build at a major financial services group, with the scale that comes with it.
+
+Multi-cloud work across AWS and GCP, not a single-vendor shop.
+
+Modern stack: Kubernetes, Terraform, containers, CI/CD and automation.
+
+A chance to pick up identity and security skills that are in high demand, on top of your platform experience.
+
+An engineering team that owns what it builds, from design to production.
+
+How to apply
+
+Send your CV to ••••@lansonpartners.com or call Ellis on 04•• ••• 285.
+
+All applications are handled in confidence by Lanson Partners. The client will not be contacted without your permission.
+
+Apply on company site
+Be careful - Don’t provide your bank or credit card details when applying for jobs. Don't transfer any money or complete suspicious online surveys. If you see something suspicious, report this job ad.
+Email to yourself or a friend
+Email job
+Discover Jora
+Browse jobs
+Browse salaries
+Find recruiter
+About
+FAQ
+Blog
+Reviews
+Browse Jobs in Australia
+Jobs in Sydney
+Jobs in Melbourne
+Jobs in Hobart
+Jobs in Brisbane
+Jobs in Perth
+Jobs in Darwin
+Jobs in Adelaide
+Connect with us
+TikTok
+Facebook
+Linkedin
+Get Jora app
+Contact us
+Privacy
+Terms & Conditions
+©2026 Job Seeker Pty Ltd
