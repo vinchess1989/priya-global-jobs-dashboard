@@ -28150,5 +28150,22 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Technical Product Writer (Temporary Opportunity for up to 18 months)",
+    "company": "Transport for NSW",
+    "location": "Sydney, NSW, Australia",
+    "url": "https://au.jora.com/job/Product-Writer-1610af15c3eb0370c89c765267ff1c05",
+    "visited": "yes",
+    "matches_requirements": "maybe",
+    "reason": "The role is a strong match for her technical writing and product documentation experience, but it is a government role in Australia which may have implicit citizenship or residency requirements for security vetting that are not explicitly stated.",
+    "id": "e1b8ff44",
+    "source": "jora_au_technical_writer",
+    "added_at": "2026-11-17T01:35:55+02:00",
+    "posted_date": "2026-11-16",
+    "deadline": "2026-10-25",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-10-25) passed by more than 2 days and unreviewed"
   }
 ]
