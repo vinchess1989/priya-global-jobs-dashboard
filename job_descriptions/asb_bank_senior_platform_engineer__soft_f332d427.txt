@@ -1,0 +1,255 @@
+Title: Senior Platform Engineer (Software Consultant) - Payments Tribe
+Company: ASB Bank
+Location: Auckland, New Zealand
+URL: https://nz.linkedin.com/jobs/view/senior-platform-engineer-software-consultant-payments-tribe-at-asb-bank-4490156094
+Posted: 2026-11-17
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in DevOps, CI/CD pipeline ownership, and infrastructure automation within a regulated financial services environment.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Platform Engineer (Software Consultant) - Payments Tribe
+ASB Bank  Auckland, New Zealand
+1 hour ago   Be among the first 25 applicants
+  
+
+See who ASB Bank has hired for this role
+
+Apply 
+Save
+Senior Platform Engineer (Software Consultant)
+
+Build the platforms and automation that power Payments
+
+Great platform engineering is often invisible to customers, but it's essential to everything they do. Every reliable payment, every seamless deployment and every resilient technology service depends on strong engineering foundations.
+
+We're looking for a Senior Platform Engineer to help build those foundations. This is a hands-on role focused on automation, cloud infrastructure, platform tooling and operational excellence within ASB's Payments technology environment.
+
+You'll join a team on a journey towards greater automation and modernisation. There is significant opportunity to implement new capabilities, improve how infrastructure is managed and help move complex operational processes towards a more scalable, automated future.
+
+About The Team
+
+You'll join Shield Squad, a platform engineering team within ASB's Payments technology function. The team provides the infrastructure, tooling and operational services that support payment platforms across the organisation.
+
+The squad is responsible for areas including cloud infrastructure, container platforms, deployment pipelines, monitoring, observability and operational reliability. As Payments continues to evolve, the team is investing heavily in automation, platform modernisation and cloud capabilities across Azure and AWS environments.
+
+About The Role
+
+This is a hands-on engineering role focused on designing, building and improving platform capabilities. You'll work alongside experienced engineers to deliver automation solutions, improve deployment pipelines and help create a more resilient and efficient technology ecosystem.
+
+A key focus will be enabling infrastructure automation and reducing manual operational effort through modern engineering practices and tooling. You'll contribute directly to platform initiatives that improve reliability, scalability and operational efficiency across Payments.
+
+Key Responsibilities
+
+
+Build and maintain Infrastructure as Code solutions using Terraform
+Deliver automation initiatives that improve platform operations and reliability
+Develop and enhance CI/CD pipelines and deployment tooling
+Support cloud infrastructure across Azure and AWS environments
+Work with container platforms and supporting platform technologies
+Improve infrastructure lifecycle management through automation
+Contribute to resilience, monitoring and observability initiatives
+Support incident response and operational improvement activities
+Partner with engineers across the Payments technology function to deliver platform capabilities
+Share knowledge and mentor less experienced engineers where appropriate
+
+
+About You
+
+You're a hands-on engineer who enjoys building solutions and seeing the impact of your work. You have strong platform engineering foundations, enjoy solving technical problems and are motivated by opportunities to automate, improve and modernise technology environments.
+
+You'll be excited by the opportunity to work across cloud infrastructure, automation, containers and platform tooling while contributing to meaningful engineering outcomes that support critical banking services.
+
+Key Skills & Experience
+
+
+Proven experience as a Platform Engineer, DevOps Engineer, Site Reliability Engineer or similar
+Strong hands-on experience with Terraform and Infrastructure as Code
+Experience building automation solutions within cloud or infrastructure environments
+Solid understanding of CI/CD pipelines and deployment automation
+Experience working with Azure cloud services
+Strong scripting and troubleshooting capability
+Experience supporting container-based platforms and modern infrastructure environments
+Knowledge of operational excellence, monitoring and observability practices
+Strong collaboration and problem-solving skills
+Exposure to AWS cloud environments
+Experience with Ansible or infrastructure automation tools
+Experience supporting highly available production environments
+Financial services or regulated industry experience beneficial
+
+
+Working for ASB
+
+
+Hybrid working with flexibility built into how we work
+A strong focus on learning, growth and career development
+Access to banking, insurance and lifestyle benefits
+Market-leading parental leave and employee support programmes
+Health, wellbeing and mental health initiatives
+An inclusive and supportive culture where diverse perspectives are valued
+Opportunities to work with modern cloud, automation and platform technologies
+
+
+Your Opportunity
+
+If you enjoy building modern platform capabilities, automating complex processes and solving meaningful engineering challenges, this is an opportunity to make a genuine impact while growing your platform engineering career within one of New Zealand's leading technology environments.
+
+Apply Now
+
+If you're ready to help shape the future of platform engineering within Payments, we'd love to hear from you.
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Industries
+Banking, Financial Services, and Investment Banking
+  
+
+Referrals increase your chances of interviewing at ASB Bank by 2x
+
+See who you know
+
+Get notified about new Platform Engineer jobs in Auckland, New Zealand.
+
+Sign in to create job alert
+Similar jobs
+Software Consultant (Senior Platform Engineer)
+Software Consultant (Senior Platform Engineer)
+ASB Bank
+Auckland, New Zealand
+1 week ago
+Senior Platform Engineer
+Senior Platform Engineer
+Westpac New Zealand
+Auckland, New Zealand
+6 days ago
+Senior Software Engineer - Platform
+Senior Software Engineer - Platform
+Halter
+Auckland, New Zealand
+3 months ago
+Lead Software Engineer - Platform
+Lead Software Engineer - Platform
+Halter
+Auckland, New Zealand
+3 months ago
+Staff AI Platform Engineer
+Staff AI Platform Engineer
+Pushpay
+Auckland, Auckland, New Zealand
+2 weeks ago
+Intermediate Infrastructure Engineer
+Intermediate Infrastructure Engineer
+Centrapay
+Auckland, Auckland, New Zealand
+NZ$90,000 - NZ$125,000
+1 month ago
+Show more jobs like this 
+People also viewed
+Senior Cloud & Infrastructure Engineer
+Senior Cloud & Infrastructure Engineer
+
+Southern Cross Health Insurance
+
+Auckland, Auckland, New Zealand
+1 week ago
+Senior Software Engineer (Microservices)
+Senior Software Engineer (Microservices)
+
+Air New Zealand
+
+Auckland, Auckland, New Zealand
+19 hours ago
+Senior/Principal Forward Deployed Engineer - New Zealand
+Senior/Principal Forward Deployed Engineer - New Zealand
+
+Salesforce
+
+Auckland, Auckland, New Zealand
+1 week ago
+Senior Software Engineer (ASR - Edge)
+Senior Software Engineer (ASR - Edge)
+
+Auror
+
+Auckland, Auckland, New Zealand
+2 months ago
+Senior Software Engineer
+Senior Software Engineer
+
+The Access Group
+
+Auckland, Auckland, New Zealand
+5 days ago
+Technical Lead
+Technical Lead
+
+Moshtix
+
+Auckland, Auckland, New Zealand
+5 days ago
+Staff Engineer
+Staff Engineer
+
+IDEXX
+
+Auckland, Auckland, New Zealand
+6 days ago
+Staff Software Engineer
+Staff Software Engineer
+
+Auror
+
+Auckland, Auckland, New Zealand
+1 month ago
+Senior Architect - Software Engineering
+Senior Architect - Software Engineering
+
+Slalom
+
+Auckland, Auckland, New Zealand
+5 days ago
+Technical Lead
+Technical Lead
+
+EROAD
+
+Auckland, Auckland, New Zealand
+1 month ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
