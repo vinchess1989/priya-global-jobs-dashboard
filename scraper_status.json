@@ -1,9 +1,9 @@
 {
   "pid": 50564,
   "started_at": "2026-11-17T01:12:35+02:00",
-  "heartbeat_at": "2026-11-17T01:48:26+02:00",
+  "heartbeat_at": "2026-11-17T01:51:35+02:00",
   "phase": "reviewing",
-  "detail": "Senior Project Manager",
-  "last_scrape_ok_at": "2026-11-17T01:47:18+02:00",
+  "detail": "Technical Writer (Remote)",
+  "last_scrape_ok_at": "2026-11-17T01:50:39+02:00",
   "last_error": null
 }
