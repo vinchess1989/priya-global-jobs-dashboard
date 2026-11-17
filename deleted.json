@@ -28660,5 +28660,22 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Agile Delivery Lead",
+    "company": "Qantas",
+    "location": "Adelaide, South Australia, Australia",
+    "url": "https://au.linkedin.com/jobs/view/agile-delivery-lead-at-qantas-4491755409",
+    "visited": "yes",
+    "matches_requirements": "maybe",
+    "reason": "The role is an Agile Delivery Lead position which involves release coordination and cross-team management, but it leans more towards general agile coaching and feature delivery than her specific background in technical release management and configuration management.",
+    "id": "a1d35a3c",
+    "source": "linkedin_au_release_manager",
+    "added_at": "2026-11-18T01:33:17+02:00",
+    "posted_date": "2026-11-18",
+    "deadline": "2025-12-06",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Deadline (2025-12-06) passed by more than 2 days and unreviewed"
   }
 ]

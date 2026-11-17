@@ -1,9 +1,9 @@
 {
   "pid": 51864,
   "started_at": "2026-11-18T01:13:46+02:00",
-  "heartbeat_at": "2026-11-18T01:30:58+02:00",
+  "heartbeat_at": "2026-11-18T01:37:34+02:00",
   "phase": "reviewing",
-  "detail": "Program Manager I Scrum Master",
-  "last_scrape_ok_at": "2026-11-18T01:29:35+02:00",
+  "detail": "Test Manager",
+  "last_scrape_ok_at": "2026-11-18T01:33:18+02:00",
   "last_error": null
 }
