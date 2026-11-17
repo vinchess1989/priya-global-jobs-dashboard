@@ -1,0 +1,284 @@
+Title: Platform / DevOps Engineer
+Company: Muzz
+Location: London Area, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/platform-devops-engineer-at-muzz-4491136055
+Posted: 2026-11-18
+Deadline: Open until filled
+Reason: The role is a strong match for her DevOps and CI/CD expertise, is located in the UK, and does not contain any hard rejections.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Platform / DevOps Engineer
+Muzz  London Area, United Kingdom
+15 hours ago  57 applicants
+  
+
+See who Muzz has hired for this role
+
+Apply 
+Save
+
+About the Team
+
+We are a lean, high-impact core infrastructure team responsible for the platform that powers 5 distinct product teams. We believe in high automation, GitOps, and providing a seamless developer experience. Because we are a small team supporting a growing engineering organization, the work you do here will have immediate, visible impact across the company.
+
+
+
+
+The Role
+
+We are looking for an ambitious Mid-Level DevOps / Platform Engineer to help us scale, secure, and optimize our cloud infrastructure. You won’t just be maintaining systems; you will be actively evolving our tech stack, improving deployment pipelines, and acting as a force multiplier for our product developers. If you love solving complex infrastructure challenges and want to accelerate your career by working with a modern, cloud-native stack, this is the place for you.
+
+
+
+
+Key Responsibilities
+
+Infrastructure as Code (IaC): Provision and manage AWS infrastructure using Terraform, with Atlantis driving our pull-request-based automation.
+Kubernetes & Compute: Manage and scale our container orchestration platform using Kubernetes, optimizing compute resources and auto-scaling with Karpenter, and managing traffic routing via Istio.
+CI/CD & GitOps: Build, maintain, and optimize robust build pipelines using GitHub Actions and Bazel, while managing continuous delivery into Kubernetes using ArgoCD and Kustomize.
+Observability & Monitoring: Maintain comprehensive visibility into our systems and participate in incident response. You will manage and improve our monitoring stack utilizing FluentBit (logging), Mimir (metrics), Tempo (tracing), and Grafana (dashboards), alongside AWS CloudWatch.
+Security & Networking: Manage edge configurations, DNS, and security via Cloudflare, and maintain secure team access via our internal VPN.
+Developer Enablement: Act as a strategic partner to our 5 product teams. You will help troubleshoot deployment issues, optimize their build times, and build self-service tooling that makes their lives easier.
+
+
+
+
+What We’re Looking For
+
+Experience: 3+ years of experience in a DevOps, SRE, or Platform Engineering role.
+Cloud Foundation: Strong practical knowledge of AWS (IAM, EKS, EC2, VPCs, S3, etc.).
+Containerization: Solid understanding of Docker and hands-on experience running and troubleshooting workloads in Kubernetes.
+Automation First: Proven experience with Terraform and writing CI/CD pipelines from scratch (we use GitHub Actions).
+Drive & Ambition: You take ownership of your work, are eager to learn the tools you don’t already know, and proactively look for architectural bottlenecks before they break.
+Communication: Excellent collaboration skills. You can explain complex infrastructure concepts to product developers and write clear internal documentation.
+
+
+
+
+Bonus Points (Nice to Have)
+
+We don’t expect you to know our entire stack on day one. If you have experience with any of the following, it’s a huge plus!
+
+Experience with GitOps principles and tools like ArgoCD and Kustomize.
+Familiarity with advanced Kubernetes tooling like Istio (Service Mesh) and Karpenter (Node Autoscaling).
+Experience with the Grafana observability ecosystem (Mimir, Tempo, FluentBit).
+Experience with Bazel for fast, reproducible builds.
+Familiarity with Atlantis for Terraform PR automation.
+Knowledge of Google Cloud Platform, particularly BigQuery and Vertex AI.
+
+
+
+
+Why join Muzz?
+
+We’re a profitable Consumer Tech startup, backed by Y Combinator (S17) and based in London. Join our fast growing team and work on an amazing product that’s changing the world.
+
+A great product - We’re the leading app in this space with over 15 million members worldwide and counting!
+Level up quickly - Work with talented, generous people on the kinds of challenges you’ll be proud to share.
+A diverse team - We have people from all walks of life all adding their unique perspective. Muslims and non-Muslims, cat lovers and dog lovers. Everyone is welcome!
+Meaningful equity - We’re all working together to succeed and everyone on the team gets a slice of the pie.
+A hackathon every quarter - We value curiosity and building something wacky (but useful!). Every quarter we organise into random teams and together we build, code, and prototype. Prizes and dinner complete the day!
+International travel - We fly the whole team to somewhere amazing twice a year to connect and have fun.
+Regular socials - Mini golf, hikes, super competitive Catan nights - we’ve done it all. Maybe you’ll be at the next social?
+Generous Holiday / PTO - All full-time members get at least 33 days of holiday, regardless of where they live.
+
+
+
+
+Interview Process
+
+Initial video call
+Technical assessment
+Final interview with the team
+Offer!
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Muzz by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in London Area, United Kingdom.
+
+Sign in to create job alert
+Jobs
+Financial Sales Consultant jobs
+Platform / DevOps Engineer
+Similar jobs
+Platform Engineer
+Platform Engineer
+Akuna Capital
+London, England, United Kingdom
+2 months ago
+🛠️ SITE RELIABILITY ENGINEER / DEVOPS
+🛠️ SITE RELIABILITY ENGINEER / DEVOPS
+Tandem Dating
+Harrow, England, United Kingdom
+4 months ago
+Platform Engineer
+Platform Engineer
+Muzz
+London Area, United Kingdom
+£45,000 - £75,000
+7 hours ago
+Platform engineer
+Platform engineer
+Seccl
+London, England, United Kingdom
+£55,000 - £75,000
+4 days ago
+Platform engineer
+Platform engineer
+Seccl
+London Area, United Kingdom
+5 days ago
+Platform Engineer
+Platform Engineer
+Charlotte Tilbury Beauty
+London, England, United Kingdom
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Senior Platform Engineer
+Senior Platform Engineer
+
+Attio
+
+London, England, United Kingdom
+£105,000 - £125,000
+2 weeks ago
+Devops Platform Engineer
+Devops Platform Engineer
+
+Sky
+
+London Area, United Kingdom
+1 week ago
+DevOps/Site Reliability Engineer (Junior/Mid/Senior)
+DevOps/Site Reliability Engineer (Junior/Mid/Senior)
+
+Quaisr
+
+London Area, United Kingdom
+6 days ago
+Platform Engineer
+Platform Engineer
+
+Share
+
+London, England, United Kingdom
+2 months ago
+DevOps Engineer
+DevOps Engineer
+
+Jain Global
+
+London, England, United Kingdom
+2 months ago
+DevOps Engineer
+DevOps Engineer
+
+Lloyd's List Intelligence
+
+London, England, United Kingdom
+5 months ago
+Platform Engineer
+Platform Engineer
+
+Harrington Starr
+
+City Of London, England, United Kingdom
+£100,000 - £150,000
+5 hours ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+StackOne
+
+London, England, United Kingdom
+5 months ago
+Platform Engineer
+Platform Engineer
+
+Relation
+
+London, England, United Kingdom
+10 months ago
+DevOps Engineer
+DevOps Engineer
+
+stakefish
+
+London, England, United Kingdom
+$130,000 - $180,000
+1 month ago
+Similar Searches
+Financial Sales Consultant jobs
+3,186 open jobs
+Family Worker jobs
+2,303 open jobs
+Magento Developer jobs
+927 open jobs
+Recruitment Account Manager jobs
+5,513 open jobs
+Paraplanner jobs
+5,520 open jobs
+Youth Worker jobs
+26,732 open jobs
+Marketing Lead jobs
+10,284 open jobs
+Chief Operating Officer jobs
+1,941 open jobs
+Assistant Product Manager jobs
+1,772 open jobs
+Financial Advisor jobs
+5,083 open jobs
+Lead Test Engineer jobs
+1,666 open jobs
+Financial Planning and Analysis Manager jobs
+4,031 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Muzz
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

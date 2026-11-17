@@ -28643,5 +28643,22 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": null,
     "deletion_reason": "Deadline (2026-11-16) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Platform Engineer",
+    "company": "ACI Worldwide",
+    "location": "Limerick, County Limerick, Ireland",
+    "url": "https://ie.linkedin.com/jobs/view/platform-engineer-at-aci-worldwide-4490296056",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job posting explicitly states that applicants must be currently authorized to work in Ireland and that no visa sponsorship is available.",
+    "id": "2337c612",
+    "source": "linkedin_ie_devops_engineer",
+    "added_at": "2026-11-18T01:25:20+02:00",
+    "posted_date": "2026-11-17",
+    "deadline": "Open until filled",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]

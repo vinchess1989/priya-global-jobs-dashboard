@@ -1,0 +1,277 @@
+Title: Senior DevOps Engineer
+Company: Radiant
+Location: Gloucester, England, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/senior-devops-engineer-at-radiant-4490106256
+Posted: 2026-11-17
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in CI/CD, release management, and DevOps automation, and it is located in the UK, which is a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer
+Radiant  Gloucester, England, United Kingdom
+1 day ago  39 applicants
+  
+
+See who Radiant has hired for this role
+
+Apply 
+Save
+Job Title: Senior DevOps Engineer
+
+Reports to: Engineering Manager
+
+Location: UK / Europe
+
+Company Overview:
+
+Radiant is redefining how AI infrastructure is built.
+
+We design and operate AI-native cloud platforms engineered for sovereignty, performance, and scale. Our infrastructure powers GPU-native workloads, multi-tenant control planes, and high-performance AI systems designed for the most demanding environments.
+
+We are not building a generic cloud. We are building purpose-built AI infrastructure — from powered land, to compute, to software.
+
+As we scale, we’re building this organisation from the ground up. We’re looking for people who’d rather build the playbook than inherit one — who are comfortable doing the work themselves as well as directing others, and who can adapt as fast as our strategy does. This is a startup model: attitude and adaptability matter more to us than years of experience or the size of the team you’ve previously managed.
+
+About The Role
+
+As a Senior DevOps Engineer at Radiant, you’ll be a hands-on engineer at the heart of our engineering organisation, owning the design, delivery and reliability of critical infrastructure. You’ll automate and continuously improve our deployment pipelines, cloud and bare-metal environments, and Kubernetes-based orchestration layer, so our systems scale reliably to support high-performance AI and GPU workloads.
+
+You’ll partner with Infrastructure, SRE and Product Engineering teams to embed a strong DevOps culture across the organisation. You’ll champion infrastructure as code, observability and automation at every layer of the stack, and help improve how we build and operate systems at scale.
+
+Our engineering teams cover Infrastructure, Cluster, Network, Storage, Cloud, Observability, Security, and AI (Training & Inference).
+
+Our Engineering teams are grouped as follows:
+
+
+Infrastructure: Compute, Infra, Network & Storage
+Platform: Cloud, Observability & Security
+AI: Training & Inference
+
+
+Key Responsibilities
+
+
+Design, build, and continuously optimise CI/CD pipelines in GitHub Actions to support fast, reliable, and repeatable software delivery
+Own and evolve Infrastructure as Code practices using Terraform and Ansible, ensuring infrastructure is version-controlled, peer-reviewed, and consistently provisioned across dev, staging, and production
+Scale CI to handle agent-driven change volume, including merge queues and fast, parallel test runs
+Identify and eliminate human and agent bottlenecks across the software development lifecycle
+Instrument DORA metrics and agent adoption: agent versus hand-written merges, defect and rework rates
+Manage and maintain hosted application environments, ensuring high availability, scalability, and smooth deployment of services into production
+Partner closely with Engineers to deeply understand their development workflows and release processes, identifying and removing friction points that slow delivery
+Measure and improve the developer experience, improving productivity
+Champion a self-service DevOps culture, enabling development teams to own their deployments and operational concerns through well-designed tooling, documentation, and guardrails
+Help make runbooks and decision records a natural part of our definition of done
+
+
+Your Profile
+
+
+Proven experience in DevOps engineering and best practices
+Hands-on experience running and automating infrastructure across public cloud and bare-metal environments
+Strong experience with CI/CD workflows, observability, security and automation best practices
+Strong experience with Infrastructure as Code tools such as Terraform and Ansible
+Deep understanding of Kubernetes, Helm and other containerisation related tooling
+Demonstrable scripting ability in Go, Python and Shell
+Strong knowledge of branching, deployment strategies including the use of Git based version control
+
+
+What You Bring
+
+
+Automation instinct: If you do it twice, you automate it.
+Engineering quality: Write clean, tested, maintainable code, and review others’ work with care.
+Ownership: Take features from design through production, and stay accountable for how they run.
+Pragmatism: Ship what matters, simply, and improve it from real-world feedback.
+Collaboration: Work openly with product, infrastructure and SRE, and share what you learn.
+
+
+Qualities we look for:
+
+
+Set the standard: Every single day, you spot opportunities to constructively shake things up
+Inspire the change: There's no blueprint for the future. You'll embrace challenges and change
+You're real and you're true to yourself: We cherish and celebrate diversity so you'll feel right at home whoever you are and whoever you're talking to, you treat everyone the same.
+
+
+Why should you join us?
+
+What sets us apart is our blend of modern technology, competitive benefits, and an open, welcoming work culture that enables our people to thrive.
+
+Here are just some of the great things you can expect from us:
+
+
+25 days of annual leave
+A culture that emphasises results over hierarchy, process & ego: we place great emphasis on the quality, ingenuity and creativity of work.
+Open communication, regular feedback: we value smooth collaboration, direct and actionable feedback, and believe that leading with empathy and a growth mindset makes us better together.
+Learning Time: we all have dedicated learning time to focus on new skills, projects or interests that lay outside of your day-to-day job.
+Health & Wellbeing: we want everyone to feel healthy and happy, so we offer private medical insurance via Bupa.
+Cycle to Work Scheme: we're committed to building a sustainable business, so we encourage cycling to work.
+Gympass subscription to a variety of gyms and wellbeing apps
+Participation in the company shares program
+Enhanced parental pay & leave
+
+
+Our process: Talent screen → Hiring Manager → Technical interview (two engineers) → Final.
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Technology, Information and Internet
+  
+
+Referrals increase your chances of interviewing at Radiant by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Gloucester, England, United Kingdom.
+
+Sign in to create job alert
+Similar jobs
+Senior DevOps Engineer
+Senior DevOps Engineer
+Rebellion
+Oxford, England, United Kingdom
+4 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Game Companies
+Oxford, England, United Kingdom
+3 weeks ago
+Senior Dev Ops Engineer
+Senior Dev Ops Engineer
+Oxford Dynamics
+Harwell, England, United Kingdom
+5 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Leonardo
+Bristol, England, United Kingdom
+£44,171 - £61,950
+3 days ago
+Senior Devops Engineer
+Senior Devops Engineer
+CACI Digital Experience (formerly Cyber-Duck)
+Bristol, England, United Kingdom
+19 minutes ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Northrop Grumman UK
+Cheltenham, England, United Kingdom
+1 week ago
+Show more jobs like this 
+People also viewed
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+
+LDMS
+
+Cardiff, Wales, United Kingdom
+£65,000 - £65,000
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+iO Associates
+
+Hereford, England, United Kingdom
+£50,000 - £70,000
+1 day ago
+DevOps Engineer
+DevOps Engineer
+
+Dexory
+
+Oxford, England, United Kingdom
+2 months ago
+DevOps Engineer
+DevOps Engineer
+
+Randstad Digital
+
+Cardiff, Wales, United Kingdom
+£70,000 - £90,000
+4 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Dexory
+
+Didcot, England, United Kingdom
+2 months ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Intec Select
+
+Birmingham, England, United Kingdom
+£80 - £90
+5 days ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+Trust In SODA
+
+Greater Bristol Area, United Kingdom
+3 weeks ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+
+HM Revenue & Customs
+
+Cardiff, Wales, United Kingdom
+4 weeks ago
+Staff Engineer - Devops
+Staff Engineer - Devops
+
+DDN
+
+Bristol, England, United Kingdom
+3 months ago
+DevOps Engineer
+DevOps Engineer
+
+CPS Group (UK) Limited
+
+Hereford, England, United Kingdom
+1 week ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Radiant
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

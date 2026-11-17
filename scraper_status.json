@@ -1,9 +1,9 @@
 {
   "pid": 51864,
   "started_at": "2026-11-18T01:13:46+02:00",
-  "heartbeat_at": "2026-11-18T01:23:50+02:00",
+  "heartbeat_at": "2026-11-18T01:26:41+02:00",
   "phase": "reviewing",
-  "detail": "Medical Device Software Design Control & Regulatory Specialist Consultant",
-  "last_scrape_ok_at": "2026-11-18T01:19:59+02:00",
+  "detail": "Platform Engineer",
+  "last_scrape_ok_at": "2026-11-18T01:25:21+02:00",
   "last_error": null
 }
