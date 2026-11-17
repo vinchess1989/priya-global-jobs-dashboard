@@ -1,9 +1,9 @@
 {
-  "pid": 50564,
-  "started_at": "2026-11-17T01:12:35+02:00",
-  "heartbeat_at": "2026-11-17T02:26:18+02:00",
-  "phase": "run_finished",
-  "detail": "100 lower-yield targets and 0 jobs left for the next run",
-  "last_scrape_ok_at": "2026-11-17T02:26:08+02:00",
+  "pid": 51864,
+  "started_at": "2026-11-18T01:13:46+02:00",
+  "heartbeat_at": "2026-11-18T01:17:44+02:00",
+  "phase": "reviewing",
+  "detail": "Senior Devops Engineer-EKS/Kubernetes",
+  "last_scrape_ok_at": "2026-11-18T01:16:01+02:00",
   "last_error": null
 }

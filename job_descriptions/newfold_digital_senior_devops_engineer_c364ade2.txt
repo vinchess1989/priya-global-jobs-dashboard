@@ -1,0 +1,255 @@
+Title: Senior DevOps Engineer
+Company: Newfold Digital
+Location: Mumbai Metropolitan Region
+URL: https://in.linkedin.com/jobs/view/senior-devops-engineer-at-newfold-digital-4491545215
+Posted: 2026-11-18
+Deadline: Open until filled
+Reason: The role is a strong match for her DevOps and CI/CD expertise, is located in an eligible country (India), and does not violate any hard rejection criteria.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer
+Newfold Digital  Mumbai Metropolitan Region
+23 hours ago  62 applicants
+  
+
+See who Newfold Digital has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Who We Are
+
+At Bluehost, we believe all small businesses deserve the opportunity to succeed online. Our mission is to give small businesses the confidence to think big. We're the all-in-one platform for small businesses to grow online with powerful simplicity, premium performance, smart tools and human support.
+
+As Bluehost scales from millions toward tens of millions of customers, DevOps is the team that makes sure every other team can ship fast without breaking things. You'll own the pipelines, cloud-native infrastructure, and observability that keep our platform fast, safe, and reliable, modernizing legacy pieces along the way and using AI tooling to move faster than a team our size normally could.
+
+What You'll Do & How You'll Make Your Mark
+
+
+Design, build, and operate Kubernetes and cloud-native infrastructure across AWS, GCP, Azure, and/or OCI, covering compute, storage, networking, and IAM
+Own Infrastructure as Code using Terraform, version-controlled in Git and aligned with team-wide best practices across environments
+Build and maintain CI/CD pipelines with Jenkins and Argo (CD/Workflows), automating build, test, and release for dozens of services
+Drive release and deployment management practices, including progressive rollouts, rollback strategy, and change management that reduces risk without slowing teams down
+Configure and harden web servers (Apache/Nginx), virtual hosts, and SSL/TLS across environments
+Build out observability, metrics, tracing, and log aggregation (Prometheus, Grafana, ELK/Loki), with real alerting that catches issues before customers do
+Use AI across the delivery lifecycle — scripting, infrastructure code, root-cause investigation, and runbooks — and set the guardrails the team works inside: how generated infrastructure code gets reviewed before it touches production, how provenance and licensing are checked, and what customer or secret data may enter a prompt
+Own networking fundamentals in production: TCP/IP, DNS, firewalls (iptables/nftables), and load balancing across cloud and on-prem environments
+Carry on-call rotation, lead incident response, and turn postmortems into concrete reliability improvements
+
+
+Who You Are & What You'll Need To Succeed
+
+
+5+ years of experience in DevOps, SRE, or infrastructure engineering roles
+Deep, hands-on experience with Kubernetes, containerization (Docker), and cloud-native architecture patterns
+Strong Infrastructure as Code experience (Terraform) plus configuration management tooling (Ansible or Puppet)
+Proven experience building and operating CI/CD pipelines with Jenkins and Argo, or comparable GitOps tooling (GitHub Actions, GitLab CI)
+Solid networking fundamentals: TCP/IP, DNS, firewall rules, and load balancing in cloud and on-prem environments
+Familiarity with observability stacks (Prometheus, Grafana, ELK/Loki) and building alerting that's actually actionable
+AI-augmented delivery: you use AI across the delivery lifecycle, not just script generation, and can say which models suit which problems and where you don't use them. You review AI-generated infrastructure code and automation knowing its failure modes, and you have set the guardrails others work inside — review expectations for generated code, provenance and licensing checks, and clear boundaries for what customer or secret data enters a prompt and what a security or compliance review will ask for.
+Strong Bash and Python scripting ability, with public cloud experience across AWS, GCP, Azure, or OCI
+Working knowledge of Linux security fundamentals: TLS, SSH hardening, patch management, and IAM in cloud environments
+
+
+Why you’ll love us.
+
+
+We’ve evolved: We provide three work environment scenarios. You can feel like a Newfolder in a work-from-home, hybrid, or work-from-the-office environment.
+Work-life balance: Our work is thrilling and meaningful, but we know balance is key to living well.
+We celebrate one another’s differences: We’re proud of our culture of diversity and inclusion. We foster a culture of belonging. Our company and customers benefit when employees bring their authentic selves to work. We have programs that bring us together on important issues and provide learning and development opportunities for all employees. We have 20+ affinity groups where you can network and connect with employees globally.
+We care about you: At Bluehost, taking care of our employees is our top priority. We make sure that cutting edge benefits are in place for you. Some of the benefits you will have: We have partnered with some of the best insurance providers to provide you excellent Health Insurance options, Education/ Certification Sponsorships to give you a chance to further your knowledge, Flexi-leaves to take personal time off and much more. Building a community with one domain at a time, one employee at a time.
+Where can we take you? We’re fans of helping our employees learn different aspects of the business, be challenged with new tasks, be mentored, and grow their careers. Unfold new possibilities with Bluehost #OTOD!  
+
+
+This Job Description includes the essential job functions required to perform the job described above, as well as additional duties and responsibilities. This Job Description is not an exhaustive list of all functions that the employee performing this job may be required to perform. The Company reserves the right to revise the Job Description at any time, and to require the employee to perform functions in addition to those listed above.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Newfold Digital by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Mumbai Metropolitan Region.
+
+Sign in to create job alert
+Jobs
+Solaris System Administrator jobs
+Senior DevOps Engineer
+Similar jobs
+Senior DevOps Engineer
+Senior DevOps Engineer
+Mactores
+Mumbai, Maharashtra, India
+3 weeks ago
+Devops/ Senior Devops Engineer
+Devops/ Senior Devops Engineer
+NEC Software Solutions
+Mumbai Metropolitan Region
+1 month ago
+Sr. DevOps Engineer
+Sr. DevOps Engineer
+Northstar Quant
+Mumbai Metropolitan Region
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+OMP
+Mumbai Metropolitan Region
+12 hours ago
+Sr. DevOps Engineer
+Sr. DevOps Engineer
+General Mills
+Mumbai Metropolitan Region
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+PropStream
+Mumbai Metropolitan Region
+2 months ago
+Show more jobs like this 
+People also viewed
+Lead DevOps Engineer
+Lead DevOps Engineer
+
+Dream Cricket (formerly Dream Game Studios)
+
+Mumbai, Maharashtra, India
+1 week ago
+Tech S and T-DevOps Engineer-Senior -RT-GD02
+Tech S and T-DevOps Engineer-Senior -RT-GD02
+
+EY
+
+Mumbai, Maharashtra, India
+2 weeks ago
+DevOps / MLOps Engineer
+DevOps / MLOps Engineer
+
+Godrej Industries Group
+
+Mumbai, Maharashtra, India
+7 months ago
+Platform Engineer
+Platform Engineer
+
+Waystone
+
+Mumbai, Maharashtra, India
+2 weeks ago
+Senior Software Engineer - DevOps
+Senior Software Engineer - DevOps
+
+LogiNext
+
+Mumbai, Maharashtra, India
+1 year ago
+Principal Engineer - DevOps/DBA
+Principal Engineer - DevOps/DBA
+
+LogiNext
+
+Mumbai, Maharashtra, India
+3 months ago
+DevOps Engineer
+DevOps Engineer
+
+Reliance Intelligence
+
+Navi Mumbai, Maharashtra, India
+3 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Tata Consultancy Services
+
+Mumbai, Maharashtra, India
+3 weeks ago
+Senior Cloud Engineer I
+Senior Cloud Engineer I
+
+Russell Investments
+
+Mumbai Metropolitan Region
+6 months ago
+DevOps Engineer
+DevOps Engineer
+
+Straive
+
+Mumbai, Maharashtra, India
+1 day ago
+Similar Searches
+Solaris System Administrator jobs
+917 open jobs
+System Development Engineer jobs
+50,573 open jobs
+Technology Recruiter jobs
+5,587 open jobs
+Associate Quality Engineer jobs
+42 open jobs
+Senior Technical Consultant jobs
+9,814 open jobs
+Advertising Operations Manager jobs
+27 open jobs
+Digital Marketing Executive jobs
+3,407 open jobs
+Customer Service Trainer jobs
+821 open jobs
+Search Engine Optimization Manager jobs
+827 open jobs
+Fraud Specialist jobs
+2,964 open jobs
+Advertising Analyst jobs
+34 open jobs
+Senior Media Planner jobs
+593 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

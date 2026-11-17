@@ -1,0 +1,269 @@
+Title: CI/CD -DevOPs Engineer
+Company: Birlasoft
+Location: Pune/Pimpri-Chinchwad Area
+URL: https://in.linkedin.com/jobs/view/ci-cd-devops-engineer-at-birlasoft-4491153739
+Posted: 2026-11-18
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in CI/CD, DevOps, and release management, and is located in India, which is one of her target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+CI/CD -DevOPs Engineer
+Birlasoft  Pune/Pimpri-Chinchwad Area
+11 hours ago  61 applicants
+  
+
+See who Birlasoft has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Area(s) of responsibility
+
+Job Description: CI/CD Engineer – Grade 5A
+
+Role: CI/CD Engineer / DevOps Engineer
+
+Grade: 5A/5B
+
+Experience: Typically 5–8 years relevant experience
+
+Role Level: Individual Contributor / Senior Engineer
+
+Role Summary
+
+We are looking for a hands-on CI/CD Engineer responsible for designing, implementing, maintaining, and troubleshooting automated build, deployment, and release pipelines. The resource should have strong experience with DevOps practices, source-code management, pipeline automation, containerization, and cloud-native deployment.
+
+Key Responsibilities
+
+
+Develop and maintain automated CI/CD pipelines for application build, testing, deployment, and release.
+Configure pipelines using Jenkins, Azure DevOps, GitHub Actions, GitLab CI/CD, or similar platforms.
+Manage source-code repositories and branching strategies using Git.
+Automate infrastructure and deployment activities using Terraform, Ansible, or equivalent IaC/configuration tools.
+Work with Docker and Kubernetes for containerized application deployments.
+Integrate automated testing, code-quality checks, and security scanning into pipelines.
+Implement artifact management using tools such as JFrog Artifactory, Nexus, or equivalent.
+Troubleshoot pipeline failures, deployment issues, environment-related defects, and integration problems.
+Create deployment scripts using PowerShell, Bash, Python, or similar scripting languages.
+Support cloud-based deployments on Microsoft Azure, AWS, or GCP.
+Maintain CI/CD documentation, configuration standards, and operational runbooks.
+Collaborate with development, testing, infrastructure, cloud, and security teams.
+
+
+Required Technical Skills
+
+
+Jenkins / Azure DevOps / GitHub Actions / GitLab CI/CD
+Git and branching/version-control concepts
+Docker and Kubernetes
+Terraform and/or Ansible
+Bash / PowerShell / Python scripting
+Azure / AWS / GCP
+Maven / Gradle / npm or similar build tools
+Artifactory / Nexus
+YAML-based pipeline configuration
+CI/CD troubleshooting and deployment automation
+Secrets management using Azure Key Vault, AWS Secrets Manager, HashiCorp Vault, or similar
+Understanding of FinOps
+Microservices deployment, monitoring, fine tuning
+Production troubleshooting and deployment management
+
+
+Preferred Skills
+
+
+SonarQube
+Snyk, Trivy, Checkmarx or similar security tooling
+Monitoring tools such as Prometheus, Grafana, Azure Monitor
+Exposure to Argo CD or GitOps practices
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Birlasoft by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Pune/Pimpri-Chinchwad Area.
+
+Sign in to create job alert
+Jobs
+Senior Server Engineer jobs
+CI/CD -DevOPs Engineer
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+Accenture in India
+Pune Division, Maharashtra, India
+1 month ago
+DevOps Engineer
+DevOps Engineer
+Comviva
+Pune Division, Maharashtra, India
+1 month ago
+Devops Engineer
+Devops Engineer
+Citi
+Pune Division, Maharashtra, India
+1 week ago
+DevOps Engineer - II
+DevOps Engineer - II
+Keywords Studios
+Pune Division, Maharashtra, India
+2 weeks ago
+DevOps Engineer- 1
+DevOps Engineer- 1
+Platform9
+Pune Division, Maharashtra, India
+4 days ago
+DevOps Engineer
+DevOps Engineer
+KION Group
+Pune Division, Maharashtra, India
+5 days ago
+Show more jobs like this 
+People also viewed
+SE I DevOps Engineer
+SE I DevOps Engineer
+
+Keywords Studios
+
+Pune Division, Maharashtra, India
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+KSB Company
+
+Pune Division, Maharashtra, India
+6 months ago
+AWS Cloud Engineer
+AWS Cloud Engineer
+
+ACS International India Pvt. Ltd. (ACSII)
+
+Pune Division, Maharashtra, India
+7 months ago
+DevOps Engineer
+DevOps Engineer
+
+UsefulBI Corporation
+
+Pune Division, Maharashtra, India
+5 days ago
+DevOps Engineer
+DevOps Engineer
+
+Willsmarg Technologies LLC
+
+Pune Division, Maharashtra, India
+3 months ago
+AWS DevOps Engineer
+AWS DevOps Engineer
+
+Compliance Cart
+
+Pune/Pimpri-Chinchwad Area
+3 months ago
+DevOps Engineer
+DevOps Engineer
+
+Aumni
+
+Pune Division, Maharashtra, India
+4 months ago
+Site Reliability & DevOps Engineer – VP
+Site Reliability & DevOps Engineer – VP
+
+Deutsche Bank
+
+Pune Division, Maharashtra, India
+4 weeks ago
+DevOps Engineer (GCP)
+DevOps Engineer (GCP)
+
+Particle41
+
+Pune/Pimpri-Chinchwad Area
+10 months ago
+SE I - DevOps Developer Productivity
+SE I - DevOps Developer Productivity
+
+Keywords Studios
+
+Pune Division, Maharashtra, India
+2 weeks ago
+Similar Searches
+Senior Server Engineer jobs
+1,337 open jobs
+Associate System Administrator jobs
+19 open jobs
+Billing Engineer jobs
+900 open jobs
+Cognos Developer jobs
+175 open jobs
+Sales Process Manager jobs
+433 open jobs
+National Procurement Manager jobs
+69 open jobs
+Intermediate Architect jobs
+61 open jobs
+SAP Financial Consultant jobs
+1,149 open jobs
+SAP Security Consultant jobs
+993 open jobs
+Associate System Analyst jobs
+11 open jobs
+Java Software Engineer jobs
+11,988 open jobs
+Cluster Sales Manager jobs
+1,551 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
