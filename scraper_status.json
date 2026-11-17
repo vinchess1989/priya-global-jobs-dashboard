@@ -1,9 +1,9 @@
 {
   "pid": 50564,
   "started_at": "2026-11-17T01:12:35+02:00",
-  "heartbeat_at": "2026-11-17T02:22:40+02:00",
+  "heartbeat_at": "2026-11-17T02:25:49+02:00",
   "phase": "reviewing",
-  "detail": "Technical Courseware Developer",
-  "last_scrape_ok_at": "2026-11-17T02:21:37+02:00",
+  "detail": "Quality Auditor",
+  "last_scrape_ok_at": "2026-11-17T02:24:21+02:00",
   "last_error": null
 }
