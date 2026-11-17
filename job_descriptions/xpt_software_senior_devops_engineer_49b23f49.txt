@@ -1,0 +1,176 @@
+Title: Senior DevOps Engineer
+Company: XPT Software
+Location: Sydney, NSW, Australia
+URL: https://au.jora.com/job/DevOps-Engineer-d8999da6e550acbbf22e3d2c3e5ccef9
+Posted: 24h ago
+Deadline: N/A
+Reason: The role aligns with the candidate's extensive experience in CI/CD, release management, and automation, and is located in Australia, which is a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Search
+Sign in
+What
+Where
+Search jobs
+Senior DevOps Engineer
+XPT Software
+–
+Sydney NSW
+24h ago, from Zoho Recruit
+Apply on company site
+
+As a Senior DevOps E
+
+
+As a Senior DevOps Engineer, you will be responsible for maintaining, optimizing, and scaling our organization's infrastructure systems. Your primary focus will be to ensure the reliability and performance of our infrastructure & DevOps, including Kubernetes, other critical components in Hybrid cloud environment. You will work closely with development teams to design and implement solutions that enhance system stability and automate operational tasks.
+
+Key Responsibilities
+
+EKS Platform Engineering:
+
+
+Design, implement, and maintain highly available and secure Kubernetes clusters using Amazon EKS, including node pool management, upgrade strategies, and disaster recovery.
+Ensure Kubernetes security best practices (RBAC, pod security, network policies).
+Configure Kubernetes networking, ingress, autoscaling (HPA, Karpenter/Cluster Autoscaler).
+Manage secrets and configuration (Vault)
+
+CI/CD Pipeline Management: Build and optimize CI/CD pipelines (Bitbucket, Jenkins, Ansible) to automate code deployment and infrastructure changes, ensuring safe, rapid, and reliable releases.
+
+Automation: Develop and maintain automation tools and scripts (Python/Shell/Bash),Optimize deployment strategies (blue-green, canary, rolling updates)
+
+Observability & Monitoring: Implement and enhance monitoring, alerting, and logging solutions to gain real- time visibility into system health.
+
+Performance & Cost Optimization: Proactively analyse system capacity and optimize AWS resource utilization, balancing performance with cost-efficiency.
+
+Security & Compliance: Implement security best practices, including RBAC, network policies, secrets management, and image scanning within EKS.
+
+Collaboration: Collaborate with cross-functional teams to align infrastructure goals with business objectives.
+
+Continuous Improvement: Identify areas for optimization and efficiency improvements within the infrastructure and automation processes. Stay up-to-date with industry trends and emerging technologies to recommend enhancements.
+
+Required Skills Technical Skills
+
+Deep knowledge of Kubernetes (EKS) and container orchestration
+Strong experience with AWS Cloud
+Proficiency in Docker and container lifecycle management
+Hands-on experience with Terraform (preferred)
+Experience with CI/CD tools (Git, Jenkins, Ansible, etc.)
+scripting skills (Python, Bash, or
+
+Go)
+
+SRE & DevOps Practices
+Familiarity with incident response and on-call rotation
+understanding of networking
+Knowledge of security and compliance in cloud environments
+ngineer, you will be responsible for maintaining, optimizing, and scaling our organization's
+
+infrastructure systems. Your primary focus will be to ensure the reliability and performance of our
+
+infrastructure & DevOps, including Kubernetes, other critical components in Hybrid cloud environment. You
+
+will work closely with development teams to design and implement solutions that enhance system stability and
+
+automate operational tasks.
+
+Key Responsibilities
+
+EKS Platform Engineering:
+
+•
+
+Design, implement, and maintain highly available and secure Kubernetes clusters using Amazon EKS,
+
+including node pool management, upgrade strategies, and disaster recovery.
+
+•
+
+Ensure Kubernetes security best practices (RBAC, pod security, network policies).
+
+•
+
+Configure Kubernetes networking, ingress, autoscaling (HPA, Karpenter/Cluster Autoscaler).
+
+•
+
+Manage secrets and configuration (Vault)
+
+CI/CD Pipeline Management: Build and optimize CI/CD pipelines (Bitbucket, Jenkins, Ansible) to automate
+
+code deployment and infrastructure changes, ensuring safe, rapid, and reliable releases.
+
+Automation: Develop and maintain automation tools and scripts (Python/Shell/Bash),Optimize deployment
+
+strategies (blue-green, canary, rolling updates)
+
+Observability & Monitoring: Implement and enhance monitoring, alerting, and logging solutions to gain real-
+
+time visibility into system health.
+
+Performance & Cost Optimization: Proactively analyse system capacity and optimize AWS resource utilization,
+
+balancing performance with cost-efficiency.
+
+Security & Compliance: Implement security best practices, including RBAC, network policies, secrets
+
+management, and image scanning within EKS.
+
+Collaboration: Collaborate with cross-functional teams to align infrastructure goals with business objectives.
+
+Continuous Improvement: Identify areas for optimization and efficiency improvements within the
+
+infrastructure and automation processes. Stay up-to-date with industry trends and emerging technologies to
+
+recommend enhancements.
+
+Required Skills
+
+Technical Skills
+
+•
+
+Deep knowledge of Kubernetes (EKS) and container orchestration
+
+•
+
+Strong experience with AWS Cloud
+
+•
+
+Proficiency in Docker and container lifecycle management
+
+•
+
+Hands
+Apply on company site
+Be careful - Don’t provide your bank or credit card details when applying for jobs. Don't transfer any money or complete suspicious online surveys. If you see something suspicious, report this job ad.
+Email to yourself or a friend
+Email job
+Discover Jora
+Browse jobs
+Browse salaries
+Find recruiter
+About
+FAQ
+Blog
+Reviews
+Browse Jobs in Australia
+Jobs in Sydney
+Jobs in Melbourne
+Jobs in Hobart
+Jobs in Brisbane
+Jobs in Perth
+Jobs in Darwin
+Jobs in Adelaide
+Connect with us
+TikTok
+Facebook
+Linkedin
+Get Jora app
+Contact us
+Privacy
+Terms & Conditions
+©2026 Job Seeker Pty Ltd

@@ -1,0 +1,97 @@
+Title: Senior DevOps Engineer - Sydney
+Company: Ayan Infotech
+Location: Sydney, Australia
+URL: https://au.jora.com/job/DevOps-Engineer-3c38307df10f24c629cc0288fb8b791c
+Posted: 18h ago
+Deadline: Open until filled
+Reason: The role aligns with the candidate's extensive experience in CI/CD, release management, and automation, and it is located in an eligible country (Australia) with no explicit exclusion of visa sponsorship.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Search
+Sign in
+What
+Where
+Search jobs
+Senior DevOps Engineer - Sydney
+Ayan Infotech
+–
+Sydney CBD NSW
+Contract, Casual/Temporary
+18h ago, from seek.com.au
+Apply on company site
+
+AYAN InfoTech is looking for Senior DevOps Engineer to join an exciting project based in Sydney. The role offers you the opportunity to contribute towards an extremely well structured and mature environment, working on sophisticated enhancement projects.
+
+Role: Senior DevOps Engineer
+Location: Sydney
+Contract Duration: 6 Months with high possible extensions
+Experience: 7+ Years
+
+Role Summary
+
+As a Senior DevOps Engineer, you will be responsible for maintaining, optimizing, and scaling our organization's infrastructure systems. Your primary focus will be to ensure the reliability and performance of our infrastructure & DevOps, including Kubernetes, other critical components in Hybrid cloud environment. You will work closely with development teams to design and implement solutions that enhance system stability and automate operational tasks.
+
+Key Responsibilities:
+
+Design, implement, and maintain highly available and secure Kubernetes clusters using Amazon EKS, including node pool management, upgrade strategies, and disaster recovery.
+Ensure Kubernetes security best practices (RBAC, pod security, network policies).
+Configure Kubernetes networking, ingress, autoscaling (HPA, Karpenter/Cluster Autoscaler).
+Manage secrets and configuration (Vault)
+CI/CD Pipeline Management: Build and optimize CI/CD pipelines (Bitbucket, Jenkins, Ansible) to automate code deployment and infrastructure changes, ensuring safe, rapid, and reliable releases.
+Automation: Develop and maintain automation tools and scripts (Python/Shell/Bash),Optimize deployment strategies (blue-green, canary, rolling updates)
+Observability & Monitoring: Implement and enhance monitoring, alerting, and logging solutions to gain real-time visibility into system health.
+Performance & Cost Optimization: Proactively analyse system capacity and optimize AWS resource utilization, balancing performance with cost-efficiency.
+Security & Compliance: Implement security best practices, including RBAC, network policies, secrets management, and image scanning within EKS.
+Collaboration: Collaborate with cross-functional teams to align infrastructure goals with business objectives.
+Continuous Improvement: Identify areas for optimization and efficiency improvements within the infrastructure and automation processes. Stay up-to-date with industry trends and emerging technologies to recommend enhancements.
+
+Required Skills:
+
+Deep knowledge of Kubernetes (EKS) and container orchestration
+Strong experience with AWS Cloud
+Proficiency in Docker and container lifecycle management
+Hands-on experience with Terraform (preferred)
+Experience with CI/CD tools (Git, Jenkins, Ansible, etc.)
+scripting skills (Python, Bash, or Go)
+SRE & DevOps Practices
+Familiarity with incident response and on-call rotation
+understanding of networking
+Knowledge of security and compliance in cloud environments
+
+
+Contact: 61-(02) 7207 6*** for more details.
+
+Please note we will be able to contact only shortlisted candidates for this role. We thank you in advance for your interest.
+
+Apply on company site
+Be careful - Don’t provide your bank or credit card details when applying for jobs. Don't transfer any money or complete suspicious online surveys. If you see something suspicious, report this job ad.
+Email to yourself or a friend
+Email job
+Discover Jora
+Browse jobs
+Browse salaries
+Find recruiter
+About
+FAQ
+Blog
+Reviews
+Browse Jobs in Australia
+Jobs in Sydney
+Jobs in Melbourne
+Jobs in Hobart
+Jobs in Brisbane
+Jobs in Perth
+Jobs in Darwin
+Jobs in Adelaide
+Connect with us
+TikTok
+Facebook
+Linkedin
+Get Jora app
+Contact us
+Privacy
+Terms & Conditions
+©2026 Job Seeker Pty Ltd
