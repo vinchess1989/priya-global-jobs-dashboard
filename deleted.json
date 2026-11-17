@@ -28184,5 +28184,22 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": null,
     "deletion_reason": "Deadline (2025-11-27) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Senior Functional Business Analyst, P&C Systems",
+    "company": "UNSW",
+    "location": "Sydney, New South Wales, Australia",
+    "url": "https://au.linkedin.com/jobs/view/senior-functional-business-analyst-p-c-systems-at-unsw-4489729510",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job explicitly states that sponsorship is not available and requires applicants to hold valid Australian working rights at the time of application.",
+    "id": "6a93a7f2",
+    "source": "linkedin_au_requirements_manager",
+    "added_at": "2026-11-17T02:17:16+02:00",
+    "posted_date": "2026-11-17",
+    "deadline": "2025-11-29",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Deadline (2025-11-29) passed by more than 2 days and unreviewed"
   }
 ]

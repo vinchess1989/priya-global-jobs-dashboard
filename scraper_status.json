@@ -1,9 +1,9 @@
 {
   "pid": 50564,
   "started_at": "2026-11-17T01:12:35+02:00",
-  "heartbeat_at": "2026-11-17T02:16:17+02:00",
+  "heartbeat_at": "2026-11-17T02:19:20+02:00",
   "phase": "reviewing",
-  "detail": "Quality Engineer",
-  "last_scrape_ok_at": "2026-11-17T02:14:52+02:00",
+  "detail": "Business Analyst eDV DV",
+  "last_scrape_ok_at": "2026-11-17T02:18:20+02:00",
   "last_error": null
 }
