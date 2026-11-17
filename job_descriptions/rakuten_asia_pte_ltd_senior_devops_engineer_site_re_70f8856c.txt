@@ -1,0 +1,230 @@
+Title: Senior DevOps Engineer/Site Reliability Engineer, Agent Development
+Company: Rakuten Asia Pte Ltd
+Location: Singapore
+URL: https://sg.linkedin.com/jobs/view/senior-devops-engineer-site-reliability-engineer-agent-development-at-rakuten-asia-pte-ltd-4491555467
+Posted: 2026-11-18
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in DevOps, CI/CD pipeline ownership, and release management, and it is located in a target country (Singapore) with no mention of visa restrictions.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer/Site Reliability Engineer, Agent Development
+Rakuten Asia Pte Ltd  Singapore
+10 hours ago   Be among the first 25 applicants
+  
+
+See who Rakuten Asia Pte Ltd has hired for this role
+
+Apply 
+Save
+Job Description
+
+Rakuten Group, Inc. is a global leader in internet services and has a diverse ecosystem spanning across e-commerce, fintech, communications and more serving approximately 1.8 billion members worldwide. Founded in Tokyo in 1997, the Group operates in over 30 countries and regions with more than 30,000 employees. 
+
+Based in Singapore's Central Business District, Rakuten Asia Pte. Ltd. serves as the regional headquarters for Asia, driving value through areas such as advertising product development, product strategy, and data management to support Rakuten Group's global ecosystem. Learn more at: https://global.rakuten.com/corp/
+
+The AI & Data Division (AIDD), creates powerful, customer-focused search, recommendation, data science, advertising, marketing, price, and inventory optimization solutions to a variety of businesses in Rakuten group. As part of AIDD, AILab builds new solutions that have the potential to transform how users interact with Rakuten service. Our goal is to drive innovation by developing new products and capabilities that deliver significant impact over longer timeframes using AI.
+
+We are building the next generation of AI-powered shopping experiences — autonomous agents that search, compare, reason, and transact on behalf of users. We are looking for a DevOps / Site Reliability Engineer to own the reliability, releases, observability and cost of our production services. You will run multi-cluster Kubernetes workloads, including LLM-powered applications, build automation with modern tooling and AI agents, and keep services fast, secure and stable under peak traffic. We value engineers who automate first, make decisions based on data, respect production, and communicate clearly.
+
+Responsibilities
+
+
+Deploy, scale and operate services on multi-environment, multi-cluster Kubernetes, including disaster recovery failover.
+Maintain and improve CI/CD pipelines and standardize the release process: versioning, canary, blue-green and automated rollback.
+Build and run the observability stack (metrics, logs, tracing); define SLIs / SLOs and error budgets and reduce alert noise.
+Operate LLM applications in production: model latency (TTFT), error rate, rate limiting, model version migration, and token cost monitoring.
+Participate in on call; lead incident response, root cause analysis and blameless postmortems, and turn the findings into automation or runbooks.
+Own capacity planning and load testing; evaluate the capacity limits of each layer and tune accordingly.
+Manage edge and security: CDN caching, WAF / bot protection rules, certificates, access control and compliance remediation; drive supply chain security practices such as image scanning, signing and SBOM.
+Manage infrastructure and configuration as code (IaC / GitOps) to minimize manual work.
+Build internal tools and AI agent workflows for releases, health checks, alert triage and root cause analysis, with clear safety guardrails.
+Drive cost optimization (FinOps): resource quota governance, idle resource cleanup and LLM cost analysis.
+Write and maintain operational documentation, and collaborate with development, product and platform teams.
+
+
+Mandatory Qualifications
+
+
+3+ years of experience in DevOps / SRE / infrastructure (5+ years for Senior).
+Solid Linux and networking fundamentals (TCP/IP, DNS, HTTP/HTTPS, TLS, load balancing, reverse proxies); able to troubleshoot production issues independently.
+Production Kubernetes experience: Deployment / StatefulSet / Service / Ingress, resources and scheduling, HPA, probes and troubleshooting; proficient with Helm.
+In-depth experience with at least one CI/CD tool (Jenkins / GitHub Actions / GitLab CI / Argo CD, etc.) and a good understanding of Git branching and release strategies.
+Familiar with the Prometheus ecosystem (PromQL, Alertmanager, Grafana) and experienced in designing SLO-based alerts.
+Proficient in at least one language for automation: Python / Go / Shell.
+Experience with on-call and production incident handling; able to write clear postmortem reports.
+Excellent problem solving, teamwork and communication skills.
+
+
+Desired Qualifications
+
+
+Experience in building AI Infrastructure (e.g RL environment)
+Daily use of AI coding / ops agents (Claude Code, Copilot, etc.), or experience building automation such as MCP servers
+IaC / GitOps: Terraform / OpenTofu, Argo CD / Flux, Kustomize; Policy as Code (OPA / Kyverno).
+Advanced observability: OpenTelemetry, distributed tracing, log pipelines (Fluent Bit / Vector), eBPF tooling.
+Security and compliance: image scanning (Trivy), signing (cosign / Sigstore), SBOM / SLSA, secrets management (Vault, etc.).
+CDN / WAF experience: caching and security configuration on Akamai, Fastly or Cloudflare.
+Multi-cluster / multi-AZ disaster recovery, global traffic failover, chaos engineering.
+Public cloud experience: AWS, Azure or GCP (CKA / CKS or cloud vendor certifications preferred).
+Database operations basics: monitoring, capacity and backup for MySQL and Redis.
+Experience keeping high-concurrency services stable under peak traffic.
+
+
+Rakuten is an equal opportunities employer and welcomes applications regardless of sex, marital status, ethnic origin, sexual orientation, religious belief, or age.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Rakuten Asia Pte Ltd by 2x
+
+See who you know
+
+Get notified about new Senior Site Reliability Engineer jobs in Singapore.
+
+Sign in to create job alert
+Similar jobs
+Senior DevOps Engineer
+Senior DevOps Engineer
+Alpaca
+Singapore
+1 week ago
+Senior Devops Engineer
+Senior Devops Engineer
+Grab
+Singapore, Singapore
+1 week ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+Albert Bow
+Singapore, Singapore
+SGD 250,000 - SGD 300,000
+3 weeks ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+SearchApi
+Singapore
+4 months ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+Patsnap
+Singapore, Singapore
+2 months ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+Goodnotes
+Singapore
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Sr. SRE & Automation Engineer (Customer facing)
+Sr. SRE & Automation Engineer (Customer facing)
+
+Bitdeer (NASDAQ: BTDR)
+
+Singapore, Singapore
+3 days ago
+Senior/Lead Site Reliability Engineer
+Senior/Lead Site Reliability Engineer
+
+NetEase Games
+
+Singapore, Singapore
+4 weeks ago
+Site Reliability Engineer III
+Site Reliability Engineer III
+
+F5
+
+Singapore, Singapore
+2 weeks ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+Julius Baer
+
+Singapore, Singapore
+2 weeks ago
+Staff Site Reliability Engineer - Singapore/Taiwan
+Staff Site Reliability Engineer - Singapore/Taiwan
+
+Fortinet
+
+Singapore
+3 weeks ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+
+Venti
+
+Singapore, Singapore
+2 months ago
+Cloud Senior DevOps Engineer
+Cloud Senior DevOps Engineer
+
+Bitdeer (NASDAQ: BTDR)
+
+Singapore
+1 week ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+Flowdesk
+
+Singapore
+3 weeks ago
+Site Reliability Engineer – Kubernetes/Linux Platform (Remote – APAC)
+Site Reliability Engineer – Kubernetes/Linux Platform (Remote – APAC)
+
+Saturn Cloud
+
+Singapore
+1 month ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Singtel
+
+Singapore, Singapore
+2 weeks ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

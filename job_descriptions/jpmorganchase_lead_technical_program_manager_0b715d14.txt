@@ -1,0 +1,263 @@
+Title: Lead Technical Program Manager, Applied AI - Markets Operations
+Company: JPMorganChase
+Location: Greater London, England, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/lead-technical-program-manager-applied-ai-markets-operations-at-jpmorganchase-4456390201
+Posted: 2026-11-15
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in release management, cross-team coordination, and quality/audit-readiness in regulated environments, and it is located in a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Lead Technical Program Manager, Applied AI - Markets Operations
+JPMorganChase  Greater London, England, United Kingdom
+3 days ago  127 applicants
+  
+
+See who JPMorganChase has hired for this role
+
+Apply 
+Save
+Job Description
+
+Join a team rebuilding Markets Operations on a governed agentic platform that is already running critical processes in production. You will lead delivery across parallel platform components, connecting engineering, product, controls, and operations to land releases safely and predictably. This is a senior, hands-on role where you own the single release calendar, unblock dependencies, and make progress and impact measurable. You will help define how we measure agentic systems in production and defend those measures with senior sponsors. If you want to drive outcomes, not just produce status reporting, this role is built for you.
+
+As a Lead Technical Program Manager in Applied AI within Markets Operations, you will own the delivery of a governed agentic platform portfolio from planning through release and migration into live operational solutions. You will keep the critical path current, drive cross-team dependencies to closure, and surface trade-offs with clear recommendations. You will define and own a practical metrics framework for delivery, platform health, and business impact, and translate that story to sponsors with evidence that stands up to technical, controls, and audit scrutiny. You will participate in architecture discussions, read decision records, and independently assess whether delivery confidence is supported by evidence.
+
+Job Responsibilities
+
+
+Own the single release calendar across all platform component streams, keeping dependencies, milestones, and the critical path explicit, current, and actionable.
+Maintain an end-to-end dependency map across engineering, product, design, controls, and operations partners, and hold commitments recorded in it.
+Surface delivery risks and slippage early, driving issues to resolution with clear recommendations and trade-offs.
+Run an effective delivery cadence (planning, checkpoints, and working forums) that stream leads prepare for and rely on.
+Coordinate release and migration sequencing into live solutions so changes do not break running operational processes in production.
+Define and own a metrics framework covering delivery progress, platform quality and performance, and business impact. The instrumentation for measuring agentic systems is immature across the industry, so expect to build the framework rather than run one you are handed.
+Ensure attribution is evidence-based, assigning issues to the correct pipeline stage, tiering severity consistently, and validating claims before escalation.
+Report outcomes (for example, effort returned to the business and autonomy progression) alongside delivery status, stating clearly where instrumentation does not yet support a claim.
+Own the cadence, content, and narrative for sponsor and senior management reporting, communicating what shipped, what it is worth, what was learned, and what is at risk.
+Maintain the platform decision record, including what was decided, by whom, on what basis, and what depends on it.
+Establish lightweight delivery practices and improve reporting tooling so status is derived from systems teams already work in, not manual collection.
+
+
+Required Qualifications, Capabilities, And Skills
+
+
+Demonstrated experience running parallel technical workstreams to a shared milestone in a large organization, ideally in a regulated, high-stakes environment.
+Technical fluency across software delivery, data, and AI systems, with the ability to follow architecture discussions, read decision records, and independently assess delivery risk.
+Experience designing a metrics framework from first principles for work that has not previously been measured, distinguishing activity measures from outcome measures.
+Proven ability to secure and sustain commitments from teams outside your reporting line through credibility, relationships, and clear accountability.
+Strong executive communication skills, including directly owning sponsor relationships, making complex technical delivery understandable without losing substance, and defending evidence under challenge.
+Demonstrated willingness to challenge assumptions and delivery confidence when evidence does not support them, while keeping delivery moving through shifting priorities.
+
+
+Preferred Qualifications, Capabilities, And Skills
+
+
+Exposure to AI or agentic systems running in production, including an understanding of what is different about measuring them.
+Experience delivering platform or infrastructure programs where consumers are internal engineering and operations teams.
+Experience partnering with controls, risk, or internal audit on technology delivery evidence and readiness.
+Familiarity with operations processes in markets, banking, or other transaction-heavy environments.
+Experience deriving delivery reporting from engineering systems rather than manual status collection.
+
+
+About The Team
+
+Applied AI builds and runs the governed agentic platform that Markets Operations is being rebuilt on, including case orchestration, agent serving, context and memory, a policy engine that enforces controls deterministically outside the model's reach, a governed gateway to firm systems, and an operator interface where people supervise and correct what agents do. Several operational solutions run on the platform today, with more committed.
+
+#CIBAppliedAI
+
+About Us
+
+J.P. Morgan is a global leader in financial services, providing strategic advice and products to the world's most prominent corporations, governments, wealthy individuals and institutional investors. Our first-class business in a first-class way approach to serving clients drives everything we do. We strive to build trusted, long-term partnerships to help our clients achieve their business objectives.
+
+We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. We also make reasonable accommodations for applicants' and employees' religious practices and beliefs, as well as mental health or physical disability needs. Visit our FAQs for more information about requesting an accommodation.
+
+About The Team
+
+J.P. Morgan's Commercial & Investment Bank is a global leader across banking, markets, securities services and payments. Corporations, governments and institutions throughout the world entrust us with their business in more than 100 countries. The Commercial & Investment Bank provides strategic advice, raises capital, manages risk and extends liquidity in markets around the world.
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at JPMorganChase by 2x
+
+See who you know
+
+Get notified about new Technical Program Manager jobs in Greater London, England, United Kingdom.
+
+Sign in to create job alert
+Jobs
+Principal Product Manager jobs
+Lead Technical Program Manager, Applied AI - Markets Operations
+Similar jobs
+Lead Technical Program Manager
+Lead Technical Program Manager
+JPMorganChase
+Greater London, England, United Kingdom
+1 week ago
+Lead Technical Program Manager - Risk Technology
+Lead Technical Program Manager - Risk Technology
+JPMorganChase
+Greater London, England, United Kingdom
+1 week ago
+Staff Technical Program Manager, Machine Learning
+Staff Technical Program Manager, Machine Learning
+Cohere
+London, England, United Kingdom
+2 weeks ago
+Lead Technical Program Manager, Data
+Lead Technical Program Manager, Data
+Wayve
+London, England, United Kingdom
+$259,000 - $312,000
+1 week ago
+Senior Technical Program Manager, AGI Safety and Alignment, DeepMind
+Senior Technical Program Manager, AGI Safety and Alignment, DeepMind
+Google DeepMind
+London, England, United Kingdom
+1 week ago
+Senior Manager, AI Development Management
+Senior Manager, AI Development Management
+LSEG
+London, England, United Kingdom
+4 days ago
+Show more jobs like this 
+People also viewed
+AI Transformation Lead
+AI Transformation Lead
+
+Computershare UK
+
+London Area, United Kingdom
+3 weeks ago
+Principal Technical Program Manager, Alexa for Shopping (Rufus)
+Principal Technical Program Manager, Alexa for Shopping (Rufus)
+
+Amazon
+
+London, England, United Kingdom
+3 days ago
+AI Deployment Lead
+AI Deployment Lead
+
+Sonnedix
+
+London, England, United Kingdom
+2 weeks ago
+AI Implementation Delivery Lead
+AI Implementation Delivery Lead
+
+Mott MacDonald
+
+London, England, United Kingdom
+1 week ago
+Technology Delivery Manager - Software & Platforms
+Technology Delivery Manager - Software & Platforms
+
+Accenture
+
+London Area, United Kingdom
+1 day ago
+AI Delivery Lead
+AI Delivery Lead
+
+Argus Media
+
+London, England, United Kingdom
+1 week ago
+Technical Product Lead - AI Investing
+Technical Product Lead - AI Investing
+
+BJAK
+
+London, England, United Kingdom
+2 months ago
+Technical Program Manager, Customer Experience
+Technical Program Manager, Customer Experience
+
+Pleo
+
+London Area, United Kingdom
+1 day ago
+AI & Data Delivery Manager
+AI & Data Delivery Manager
+
+Indicium AI
+
+London, England, United Kingdom
+3 months ago
+Technical Program Manager - Risk Tech Strategy - Vice President
+Technical Program Manager - Risk Tech Strategy - Vice President
+
+JPMorganChase
+
+Greater London, England, United Kingdom
+2 weeks ago
+Similar Searches
+Principal Product Manager jobs
+840 open jobs
+Technical Program Manager jobs
+1,108 open jobs
+Product Manager jobs
+24,856 open jobs
+Director jobs
+156,873 open jobs
+Project Manager jobs
+33,848 open jobs
+Machine Learning Engineer jobs
+12,042 open jobs
+Technical Account Manager jobs
+4,783 open jobs
+Associate Product Manager jobs
+8,290 open jobs
+Program Manager jobs
+13,502 open jobs
+Analyst jobs
+63,799 open jobs
+Senior Engineering Manager jobs
+1,991 open jobs
+Senior Technical Program Manager jobs
+784 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

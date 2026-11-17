@@ -1,0 +1,470 @@
+Title: Medical Device Software Design Control & Regulatory Specialist Consultant
+Company: Capital Numbers
+Location: India
+URL: https://in.linkedin.com/jobs/view/medical-device-software-design-control-regulatory-specialist-consultant-at-capital-numbers-4490998677
+Posted: 2026-11-18
+Deadline: N/A
+Reason: The role perfectly aligns with the candidate's experience in medical device quality, regulatory documentation (ISO 13485/IEC 62304), and configuration management, and is located in a target country (India).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Medical Device Software Design Control & Regulatory Specialist Consultant
+Capital Numbers  India
+18 hours ago   Be among the first 25 applicants
+  
+
+See who Capital Numbers has hired for this role
+
+Apply
+Save
+
+Direct message the job poster from Capital Numbers
+
+Mrinmoyee Roy Chowdhury
+Mrinmoyee Roy Chowdhury
+
+Job Description:
+
+
+
+
+Position Overview:
+
+
+
+
+We are seeking an experienced Medical Device Software Design Control & Regulatory Specialist to support the development of a regulated, software-driven surgical navigation system. The role will work closely with the software engineering team and the client's Regulatory Affairs and Quality Assurance (RA/QA) stakeholders to establish, implement and maintain software design controls, verification and validation (V&V) activities, risk-management documentation and regulatory compliance deliverables.
+
+
+
+
+The ideal candidate will have hands-on experience with medical-device software development and quality processes, particularly IEC 62304, FDA 510(k) submissions, ISO 14971 and ISO 13485. The candidate should be capable of translating regulatory requirements into practical software engineering processes and documentation.
+
+
+
+
+Project Context
+
+The project involves an image-guided surgical navigation application used during Total Ankle Replacement procedures.
+
+
+
+
+The system includes:
+
+An offline, Linux-based software application.
+Integration with third-party camera SDKs.
+Registration and tracking algorithms.
+An off-the-shelf AI-based segmentation model.
+Encrypted patient case-file exchange through USB.
+The software is being developed within a regulated medical-device environment and
+requires robust design controls, software lifecycle documentation, risk management
+and verification and validation processes.
+
+
+
+
+Key Responsibilities:
+
+
+
+
+1. Software Design Controls & Lifecycle Management
+
+Establish and maintain software design-control processes in accordance with FDA 21 CFR 820, QMSR and ISO 13485 requirements.
+Develop, maintain and manage IEC 62304 software lifecycle documentation.
+Prepare and review Software Development Plans, software requirements specifications, software architecture and detailed design documents.
+Ensure software development activities are aligned with the applicable software safety classification.
+
+
+
+
+2. Software Verification & Validation
+
+Define and implement software verification and validation strategies.
+Prepare and review test protocols, test reports and verification evidence.
+Establish and maintain end-to-end traceability across software requirements, design, implementation and testing.
+Ensure test results and verification evidence are traceable to specific software versions.
+Support unit, integration and system-level verification activities.
+
+
+
+
+3. Software Risk Management
+
+Work with the client's risk-management team to identify software-related hazards and define appropriate risk controls.
+Support ISO 14971 risk-management activities, including hazard analysis and software risk assessments.
+Ensure risk-control measures are implemented and supported by verification evidence.
+Maintain software-related contributions to the overall risk-management documentation.
+
+
+
+
+4. SOUP & Software Bill of Materials (SBOM) Management
+
+Identify and maintain Software of Unknown Provenance (SOUP) components, including
+operating systems, third-party SDKs, open-source libraries and commercial off-the-shelf software.
+Maintain SBOM documentation, component versions and supporting justifications.
+Assess known anomalies, vulnerabilities and potential risks associated with third-party software components.
+
+
+
+
+5. Medical Device Cybersecurity
+
+Prepare and maintain software cybersecurity documentation in accordance with applicable
+FDA premarket cybersecurity expectations.
+Develop and review threat models and cybersecurity risk assessments.
+Support security risk-management activities, vulnerability assessments and related documentation.
+Ensure cybersecurity considerations are incorporated into the software development lifecycle.
+
+
+
+
+6. Regulatory Documentation & FDA 510(k) Support
+
+Prepare and maintain software documentation required for FDA 510(k) submissions.
+Support software documentation requirements in accordance with FDA&#39;s 2023 guidance,
+Content of Premarket Submissions for Device Software Functions.
+Understand the applicability of Basic and Enhanced Documentation Levels.
+Prepare DHF-ready software documentation and ensure engineering deliverables support the client's regulatory submission requirements.
+
+
+
+
+7. Human Factors, Design Reviews & Quality Processes
+
+Support usability engineering and human-factors documentation in accordance with IEC 62366-1 and relevant FDA guidance.
+Participate in software design reviews and technical documentation reviews.
+Support configuration management, change control and software problem-resolution activities.
+Maintain software anomaly records and ensure appropriate investigation and resolution in accordance with IEC 62304.
+
+
+
+
+8. Engineering & Stakeholder Collaboration
+
+Work closely with software developers, engineering leads and the client&#39;s RA/QA team.
+Review software architecture and technical documentation and communicate regulatory and quality requirements to engineering teams.
+Act as the interface between the engineering team and the client's regulatory and quality stakeholders.
+
+
+
+
+Mandatory Qualifications & Skills
+
+Minimum 5 years of experience in medical-device software development, software quality, design assurance or regulatory affairs; 8+ years preferred for senior-level candidates.
+Experience working on at least one Class II medical device, preferably Class III, through design controls and an FDA 510(k) or PMA pathway.
+Hands-on experience authoring IEC 62304 software lifecycle documentation, preferably for Class C medical-device software.
+Strong working knowledge of ISO 14971 and its application to software risk management.
+Practical experience with FDA 21 CFR 820 design controls, QMSR and ISO 13485.
+Direct experience preparing software documentation for FDA 510(k) submissions.
+Strong knowledge of software verification and validation, including test protocols, test reports and requirements traceability.
+Experience with medical-device cybersecurity documentation, including threat modelling, SBOM and SOUP management.
+Familiarity with IEC 62366-1 and FDA human-factors guidance.
+Technical understanding sufficient to review Python/C++ codebases, Linux-based software architecture and software traceability.
+Experience preparing and maintaining Design History File (DHF) documentation.
+Excellent technical documentation, communication and stakeholder-management skills.
+
+
+
+
+Preferred Qualifications
+
+Experience in surgical navigation, computer-assisted surgery, image-guided or stereotaxic medical-device systems.
+Exposure to orthopedic devices, total-joint replacement or surgical navigation platforms.
+Experience with AI/ML-enabled medical devices or Software as a Medical Device (SaMD).
+Familiarity with FDA guidance for AI-enabled medical-device software and Good Machine Learning Practice (GMLP).
+Experience with AAMI TIR45 and TIR57.
+Exposure to IEC 60601-1.
+RAC-Devices certification or equivalent regulatory certification.
+Previous involvement in FDA-cleared surgical navigation or medical robotics 510(k) submissions.
+
+
+
+
+Applicable Standards & Regulations
+
+Candidates should have practical working knowledge of the following:
+IEC 62304 – Medical Device Software Lifecycle Processes.
+ISO 14971 – Medical Device Risk Management.
+ISO 13485 – Medical Device Quality Management Systems.
+FDA QMSR / 21 CFR 820 – Quality System Regulation and Design Controls.
+FDA 21 CFR 882.4560 – Orthopedic Stereotaxic Instrument.
+FDA 21 CFR 892.2020 – Digital Image Communications.
+FDA Premarket Software Documentation Guidance (2023).
+FDA Premarket Cybersecurity Guidance and FD&C Act Section 524B.
+IEC 62366-1 – Medical Device Usability Engineering.
+AAMI TIR45 / TIR57.
+IEC 60601-1 – Medical Electrical Equipment: General Requirements for Basic Safety and Essential Performance.
+
+
+
+
+Key Deliverables
+
+The specialist will be responsible for developing or supporting the following project deliverables:
+Software Development Plan.
+Software Requirements Specification.
+Software Architecture and Detailed Design Documentation.
+Software Verification and Validation Protocols and Reports.
+Software Requirements Traceability Matrix.
+SOUP Register and Software Bill of Materials (SBOM).
+Software Cybersecurity Documentation and Threat Model.
+Software Risk-Management Documentation.
+Human Factors and Usability Engineering Inputs.
+Configuration-Management Plan and Problem-Resolution Records.
+DHF-ready software documentation package, including software-related inputs to the FDA 510(k) submission.
+
+
+
+
+Reporting & Collaboration
+
+The specialist will work as a dedicated resource embedded within the engineering project team, collaborating closely with the client's RA/QA stakeholders.
+
+The specialist will ensure that the software design-control, verification, validation and regulatory documentation produced by the engineering team meets the applicable requirements and can be integrated into the client&#39;s DHF and regulatory submission.
+
+This is a hands-on, full-time project role requiring ownership of software design-control and V&V deliverables, rather than a part-time regulatory review or advisory position.
+
+
+
+
+Capital Numbers – Transforming Businesses with AI, Cloud & Digital Engineering BSE-Listed | 500+ Experts | AI, Cloud, Data, System Integration & Custom Software Development.
+
+We empower businesses with cutting-edge AI, Cloud, Data Engineering, and System Integration (Salesforce, Magento, MS Dynamics, Odoo) to accelerate growth and drive innovation.
+
+
+
+
+Trusted by Global Leaders. We deliver world-class solutions for Reuters, Tipalti, Amount, Volvo, Cinepolis, Nana.sa, Isha Foundation, Outlook, and more. Our award-winning CreditRich app—winner of the SXSW Startup Pitch Contest—is a testament to our expertise and innovation.
+
+
+
+
+What We Do:
+
+AI/ML/GenAI – Predictive analytics, automation, AI-powered apps
+Cloud Engineering – Migration, DevOps, security, scalable architectures
+Data Engineering – Integration, warehousing, visualization, insights
+System Integration – Salesforce, Magento, MS Dynamics, Odoo
+Custom Software Development – Enterprise, automation, SaaS platforms
+Web & Mobile Development – Scalable, high-performance applications
+QA & Testing – Automated & manual testing for flawless execution
+UI/UX Design – Research-driven, user-centric experiences
+Emerging Tech – Blockchain, AR/VR, IoT, next-gen solutions
+
+
+
+
+Why Work With Us?
+
+Proven Expertise – 500+ engineers, 40+ technologies, deep domain experience
+Security & Compliance – ISO 9001, 27001 & SOC 2 Type II certified
+Top-Rated – #1 on G2, TrustPilot, Clutch, with the most 5-star reviews
+Global Reach – Offices in India, EU, and the Middle East
+USA Subsidiary – Serving North American clients with local expertise
+Flexible Engagement – Agile Pods & Fixed-Cost Projects for efficiency & scalability
+
+
+
+
+How We Work:
+
+Agile Pods – Dedicated cross-functional teams delivering continuous innovation
+Fixed-Cost Projects – Transparent pricing, clear deliverables, zero surprises.
+
+
+
+
+Let’s build the future together!
+
+
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Contract
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Capital Numbers by 2x
+
+See who you know
+
+Get notified about new Software Designer jobs in India.
+
+Sign in to create job alert
+Jobs
+Industrial Design Manager jobs
+Medical Device Software Design Control & Regulatory Specialist Consultant
+Similar jobs
+Document Controller – QA/RA (Medical Device Software, ISO 13485 / EU MDR)
+Document Controller – QA/RA (Medical Device Software, ISO 13485 / EU MDR)
+Portable Medical Technology Ltd. (ONCOassist®)
+Kochi, Kerala, India
+3 weeks ago
+Design Quality Manager (QARA)
+Design Quality Manager (QARA)
+Dozee
+Bengaluru, Karnataka, India
+16 hours ago
+Regulatory Affairs Expert
+Regulatory Affairs Expert
+Fresenius Medical Care
+Bengaluru, Karnataka, India
+1 week ago
+Senior Regulatory Affairs Specialist
+Senior Regulatory Affairs Specialist
+Medtronic
+Hyderabad, Telangana, India
+1 month ago
+Sr Software QA Engineer
+Sr Software QA Engineer
+Dexcom
+Bengaluru, Karnataka, India
+1 month ago
+Software QE
+Software QE
+Intuitive
+Bengaluru, Karnataka, India
+14 hours ago
+Show more jobs like this 
+People also viewed
+Global Product Lifecycle Manager – Risk Management
+Global Product Lifecycle Manager – Risk Management
+
+ZEISS India
+
+Bengaluru, Karnataka, India
+1 week ago
+Documentation Executive
+Documentation Executive
+
+Meril
+
+Vapi, Gujarat, India
+₹300,000 - ₹400,000
+2 weeks ago
+Sr. Regulatory Affairs Specialist
+Sr. Regulatory Affairs Specialist
+
+Spacelabs Healthcare
+
+Hyderabad, Telangana, India
+6 days ago
+Analyst, Information Technology
+Analyst, Information Technology
+
+Baxter International Inc.
+
+Bengaluru, Karnataka, India
+1 week ago
+Lead System Designer & Product Security Representative
+Lead System Designer & Product Security Representative
+
+GE HealthCare
+
+Bengaluru, Karnataka, India
+1 week ago
+Principal Systems Architect (Medical Devices - Hardware)
+Principal Systems Architect (Medical Devices - Hardware)
+
+Natus Medical Incorporated
+
+India
+1 month ago
+R&D Verification Validation Engineer
+R&D Verification Validation Engineer
+
+Biocon Biologics
+
+Bengaluru, Karnataka, India
+2 weeks ago
+Sr Regulatory Operation Specialist
+Sr Regulatory Operation Specialist
+
+Philips
+
+Bengaluru, Karnataka, India
+1 week ago
+Sr Regulatory Affairs Specialist
+Sr Regulatory Affairs Specialist
+
+Thermo Fisher Scientific
+
+India
+4 days ago
+Quality and Regulatory Practice Leader
+Quality and Regulatory Practice Leader
+
+Cyient
+
+Bengaluru, Karnataka, India
+1 week ago
+Similar Searches
+Industrial Design Manager jobs
+45 open jobs
+Electronic Designer jobs
+49,358 open jobs
+Solutions Designer jobs
+48,163 open jobs
+Software Design Engineer jobs
+7,783 open jobs
+Industrial Designer jobs
+1,941 open jobs
+Director of Product Design jobs
+326 open jobs
+Director of Packaging jobs
+31 open jobs
+Computer Vision Engineer jobs
+19,404 open jobs
+Polymer Engineer jobs
+10 open jobs
+Product Development Engineer jobs
+3,373 open jobs
+Textile Engineer jobs
+422 open jobs
+Innovation Engineer jobs
+2,053 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

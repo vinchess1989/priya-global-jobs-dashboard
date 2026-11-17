@@ -1,0 +1,223 @@
+Title: Senior DevOps Engineer
+Company: Beyondsoft Singapore
+Location: Singapore, Singapore
+URL: https://sg.linkedin.com/jobs/view/senior-devops-engineer-at-beyondsoft-singapore-4491107635
+Posted: 2026-11-18
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in DevOps, CI/CD pipeline ownership, and mission-critical platform support, and it is located in a target country (Singapore) with no mention of visa restrictions.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer
+Beyondsoft Singapore  Singapore, Singapore
+17 hours ago  33 applicants
+  
+
+See who Beyondsoft Singapore has hired for this role
+
+Apply
+Save
+
+We are looking for a Senior DevOps Engineer for our client.
+
+
+
+
+Work Location: Changi, Singapore
+
+
+
+
+Responsibilities:
+
+Lead DevSecOps work, run platform and operational reviews, and coach engineers
+Administer Kubernetes platforms, including workloads, ingress, namespaces, RBAC, scaling, networking, storage, upgrades and recovery
+Handle Linux operations, shell scripting, patching and performance troubleshooting
+Provide production support covering monitoring, incident response, root cause analysis, capacity planning, backup and recovery
+Debug and troubleshoot across applications, Linux, Kubernetes, containers, networks and storage
+Design reusable GitLab CI/CD pipelines for VM and Kubernetes deployments using Helm, Terraform and GitOps
+Set up observability with Prometheus, Grafana, Loki or OpenTelemetry
+Apply security controls such as secrets management, IAM, mTLS and vulnerability scanning, and support DR testing
+
+
+
+
+Requirements:
+
+7+ years in DevOps, DevSecOps, platform engineering or production operations
+Proven experience leading DevSecOps work and coaching engineers
+Strong hands on experience in Kubernetes administration and Linux operations
+Strong production support, debugging and troubleshooting skills
+Experience with GitLab CI/CD or similar tools such as Jenkins, ArgoCD or FluxCD
+Hands on experience with Helm, Terraform, GitOps and observability tools
+Good knowledge of supply chain security, secrets management, IAM and mTLS
+Experience with high availability, safety critical or mission critical platforms, and Agile or SAFe
+We regret that only shortlisted applicants will be notified.
+
+
+
+
+Beyondsoft is committed to being an equal opportunity employer and provides equal employment opportunities to all employees and applicants. We strive to cultivate a workplace that celebrates diversity and inclusion, where individuals of all backgrounds—regardless of nationality, ethnicity, religion, age, gender identity, sexual orientation, or any other distinguishing trait—can succeed and thrive. We prohibit discrimination and harassment of any type with regard to race, color, religion, age, national origin, disability status, genetics, sexual orientation, gender identity, or expression. This policy applies to all terms and conditions of employment, including recruiting, hiring, and the entire employee lifecycle. We are focused on creating an environment where everyone can reach their full potentetl
+
+
+
+
+Employment offers from Beyondsoft are contingent upon the successful completion of any required pre-employment processes, in line with applicable laws and regulations. Beyondsoft does not ask for any recruitment fees, nor does it request any unauthorized payments from candidates as part of the hiring process.
+
+Show more 
+Seniority level
+Executive
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Beyondsoft Singapore by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Singapore, Singapore.
+
+Sign in to create job alert
+Similar jobs
+Senior Devops Engineer
+Senior Devops Engineer
+Grab
+Singapore, Singapore
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Alpaca
+Singapore
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Vanguard Software
+Singapore, Singapore
+2 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Singtel
+Singapore, Singapore
+2 weeks ago
+Senior DevOps Engineer (GATD)
+Senior DevOps Engineer (GATD)
+Rakuten Asia Pte Ltd
+Singapore
+5 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+StarHub
+Singapore, Singapore
+2 weeks ago
+Show more jobs like this 
+People also viewed
+DevOps Engineer
+DevOps Engineer
+
+BIOTRONIK
+
+Singapore, Singapore
+3 months ago
+Senior Platform Infrastructure Engineer (DevOps)
+Senior Platform Infrastructure Engineer (DevOps)
+
+Assurity Trusted Solutions Pte Ltd
+
+Singapore, Singapore
+2 weeks ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+Albert Bow
+
+Singapore, Singapore
+SGD 250,000 - SGD 300,000
+3 weeks ago
+DevOps Lead
+DevOps Lead
+
+Merquri
+
+Singapore, Singapore
+4 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Webot
+
+Singapore, Singapore
+6 days ago
+DevOps Engineer (AVP)
+DevOps Engineer (AVP)
+
+OCBC
+
+Singapore, Singapore
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+stakefish
+
+Singapore
+$130,000 - $180,000
+1 month ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+
+Venti
+
+Singapore, Singapore
+2 months ago
+Senior Site Reliability / Gitops Engineer
+Senior Site Reliability / Gitops Engineer
+
+Canonical
+
+Singapore
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+Openhill Global
+
+Singapore, Singapore
+3 months ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
