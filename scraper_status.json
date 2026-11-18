@@ -1,9 +1,9 @@
 {
   "pid": 50860,
   "started_at": "2026-11-19T01:14:06+02:00",
-  "heartbeat_at": "2026-11-19T01:44:50+02:00",
+  "heartbeat_at": "2026-11-19T01:47:48+02:00",
   "phase": "reviewing",
-  "detail": "Quality Manager",
-  "last_scrape_ok_at": "2026-11-19T01:43:37+02:00",
+  "detail": "Securities Dealing Lead",
+  "last_scrape_ok_at": "2026-11-19T01:46:32+02:00",
   "last_error": null
 }
