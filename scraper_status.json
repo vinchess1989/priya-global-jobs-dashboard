@@ -1,12 +1,12 @@
 {
   "pid": 51864,
   "started_at": "2026-11-18T01:13:46+02:00",
-  "heartbeat_at": "2026-11-18T02:18:26+02:00",
+  "heartbeat_at": "2026-11-18T02:24:26+02:00",
   "phase": "reviewing",
-  "detail": "Business Analyst Manager \u2013 Capital Markets Liquidity",
-  "last_scrape_ok_at": "2026-11-18T02:17:12+02:00",
+  "detail": "Welding & Quality Manager - Fabrication",
+  "last_scrape_ok_at": "2026-11-18T02:23:01+02:00",
   "last_error": {
-    "at": "2026-11-18T02:08:20+02:00",
-    "message": "pnet_quality_engineer: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.pnet.co.za/jobs/quality-engineer\nCall log:\n  - navigating to \"https://www.pnet.co.za/jobs/quality-engineer\", waiting until \"load\"\n"
+    "at": "2026-11-18T02:21:07+02:00",
+    "message": "jora_au_configuration_manager: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://au.jora.com/j?q=Configuration+Manager&sp=search\", waiting until \"load\"\n"
   }
 }
