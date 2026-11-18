@@ -1,0 +1,370 @@
+Title: QE Algo and DevOps - Equity Algorithmic Trading - AVP/VP
+Company: Jefferies
+Location: Hong Kong SAR
+URL: https://hk.linkedin.com/jobs/view/qe-algo-and-devops-equity-algorithmic-trading-avp-vp-at-jefferies-4492064947
+Posted: 2026-11-19
+Deadline: N/A
+Reason: The role is a strong match for her background in DevOps, CI/CD, release engineering, and configuration management within a regulated, high-performance environment, and it is located in a target country (Hong Kong).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+QE Algo and DevOps - Equity Algorithmic Trading - AVP/VP
+Jefferies  Hong Kong SAR
+5 hours ago   Be among the first 25 applicants
+  
+
+See who Jefferies has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Role Summary
+
+JOB DESCRIPTION
+
+We are seeking a highly motivated C++ DevOps, Tooling & Test Automation Engineer to
+
+support our Equity Algorithmic Trading platform.
+
+This role sits at the intersection of C++ engineering, DevOps, test automation, and platform reliability. You will build and enhance the engineering tooling, CI/CD pipelines, automated testing frameworks, simulation capabilities, observability, and deployment controls required to support a high-performance, mission-critical electronic trading environment.
+
+You will partner closely with algorithmic trading developers, quantitative researchers, QA, production support, infrastructure teams, and trading stakeholders to improve software quality, release velocity, production stability, and operational control.
+
+The ideal candidate combines strong C++ and Linux engineering skills with hands-on experience in CI/CD, automated testing, debugging, performance engineering, and production systems. Experience with electronic trading, equities, FIX, market data, order routing, or low-latency systems is highly desirable.
+
+Key Responsibilities
+
+C++ DevOps & Release Engineering
+
+
+Design, build, and maintain CI/CD pipelines for C++ Equity Algo applications. Automate build, test, packaging, deployment, validation, and rollback workflows.
+Own and improve C++ build processes using tools such as CMake, Makeor equivalent.
+Maintain compiler toolchains, dependency versions, build profiles, release artifacts, and reproducible builds.
+Integrate static analysis, sanitizers, code coverage, automated testing, and performance benchmarks into CI/CD pipelines.
+Develop automated deployment-readiness checks and post-deployment validation.
+Improve release repeatability, traceability, and governance while reducing manual intervention.
+Troubleshoot build failures, compiler and linking issues, dependency conflicts, and environment inconsistencies.
+
+
+Test Automation & Simulation
+
+
+Design and develop automated test frameworks for complex C++ trading applications.
+Build comprehensive unit, integration, regression, end-to-end, performance, latency, soak, failover, and recovery testing.
+Develop test automation using frameworks.
+Build mocks, simulators, test harnesses, and replay capabilities for market data feeds, order gateways, FIX connectivity, risk engines, exchange interfaces, and downstream systems.
+Develop deterministic replay capabilities using historical market data and order flow.
+Automate validation of expected versus actual algorithm behavior across trading scenarios.
+Improve test execution speed, coverage, reliability, reporting, and integration with CI/CD.
+
+
+Equity Algo Platform Engineering
+
+
+Support testing and deployment of equity execution algorithms, smart order routing, and associated trading services.
+Validate algo behavior across order types, venues, market conditions, and client configurations.
+Support simulation and certification for new algorithm functionality, exchange changes, and venue integrations.
+Validate pre-trade risk controls, throttles, kill switches, circuit breakers, and configuration controls.
+Partner with developers, quants, and trading stakeholders to translate trading behavior into automated tests and validation scenarios.
+Help ensure the platform meets demanding standards for reliability, resiliency, performance, latency, and operational control.
+
+
+Observability & Production Readiness
+
+
+Build and enhance monitoring and observability for C++ trading services.
+Develop tooling around structured logging, metrics, health checks, process heartbeats, and service availability.
+Create actionable dashboards covering system health, latency, message rates, order flow, market data quality, connectivity, build quality, and release readiness.
+Improve diagnostics for issues including order rejects, market-data gaps, connectivity failures, latency spikes, memory leaks, deadlocks, thread contention, and deployment failures.
+Develop tooling that improves incident investigation, root-cause analysis, and production support effectiveness.
+Enhance operational runbooks and automated health and readiness checks.
+
+
+Configuration & Environment Automation
+
+
+Improve configuration management across development, QA, simulation, UAT, certification, and production.
+Automate configuration validation, comparison, promotion, and deployment verification.
+Build schema validation and configuration-di􀆯 tooling to reduce configuration related production risk.
+Support controlled rollout mechanisms, feature toggles, and safe deployment practices.
+Improve environment consistency and reduce manual release and validation activities.
+
+
+Engineering Collaboration
+
+
+Work across development, quantitative research, QA, infrastructure, production support, and trading teams.
+Identify engineering bottlenecks and build practical automation to improve developer productivity.
+Communicate clearly around release risk, testing gaps, production readiness, and operational issues.
+Promote engineering best practices around automation, testing, observability, resiliency, and controlled releases.
+Drive continuous improvement with a strong focus on ownership, reliability, and engineering quality.
+
+
+Required Qualifications
+
+C++ & Systems Engineering
+
+
+Strong hands-on C++ development experience, preferably C++17 or later.
+Strong Linux/Unix engineering experience.
+Experience building, debugging, profiling, and testing large-scale C++ applications.
+Strong knowledge of modern C++, including STL, templates, memory management, concurrency, and multithreading.
+Strong scripting skills using Python, Bash, or similar.
+Experience with Git-based development workflows.
+Strong troubleshooting and root-cause analysis capabilities.
+
+
+Build, CI/CD & Automation
+
+Hands-on Experience With Several Of The Following
+
+
+CMake, Make
+Conan or vcpkg
+Jenkins, GitLab CI/CD, GitHub Actions,
+Artifactory
+GCC or Clang
+
+
+Experience automating build, test, release, deployment, rollback, and validation
+
+workflows and implementing automated quality gates.
+
+Testing & Code Quality
+
+Experience With
+
+
+Google Test, Google Mock, Catch2, or Boost.Test
+Unit, integration, regression, and end-to-end automation
+Test harnesses, simulators, mocks, and replay tooling
+clang-tidy, cppcheck, SonarQube, or Coverity
+Address Sanitizer, Thread Sanitizer, and Undefined Behavior Sanitizer
+gcov/lcov or llvm-cov
+
+
+Linux, Performance & Debugging
+
+Hands-on Experience With Diagnostic And Profiling Tools Such As
+
+
+gdb / lldb
+Valgrind
+perf
+strace / ltrace
+tcpdump
+Core dump analysis
+
+
+Strong understanding of Linux processes, networking, TCP/UDP, sockets, memory management, CPU utilization, concurrency, locking, thread contention, and system performance. Ability to diagnose latency, jitter, memory leaks, crashes, deadlocks, and runtime failures in performance-sensitive applications.
+
+Trading Technology
+
+
+Experience with financial markets, electronic trading, or similarly performance sensitive real-time systems.
+Understanding of market data, order management, order routing, executions, rejects, and trade lifecycle processing.
+Familiarity with FIX or comparable financial messaging protocols.
+Understanding of pre-trade risk controls, throttling, kill switches, and trading system resiliency.
+Experience supporting production or other mission-critical systems.
+
+
+Preferred Qualifications
+
+
+Bachelor’s or Master’s degree in Computer Science, Engineering, Mathematics, Physics, Finance, or a related discipline.
+5+ years of software engineering, platform engineering, DevOps, or test automation experience.
+3+ years of hands-on C++ development on Linux.
+Previous experience supporting front-o􀆯ice electronic trading technology.
+Experience with Equity Algorithmic Trading, Smart Order Routing, OMS/EMS platforms, FIX connectivity, market data, or exchange connectivity.
+Experience with low-latency, high-throughput, or real-time architectures.
+Experience with market-data replay, trading simulation, or back testing infrastructure.
+Experience with technologies such as PostgreSQL, or MongoDB.
+Experience operating within a regulated financial-services environment, including production change controls and audit requirements.
+
+
+What Success Looks Like
+
+Success in this role means creating an engineering environment in which changes to the Equity Algo platform can be delivered faster, tested more thoroughly, deployed more
+
+safely, and diagnosed more effectively.
+
+Key Outcomes Include
+
+
+Greater automation of C++ build, test, and deployment workflows.
+Increased automated coverage of critical algorithmic trading scenarios.
+Faster and more reliable regression testing.
+Earlier detection of functional, latency, and performance regressions.
+Reduced manual e􀆯ort during release preparation and deployment.
+Fewer production issues caused by configuration, deployment, or testing gaps.
+Better observability and faster root-cause analysis.
+Stronger release traceability and operational controls.
+Improved developer productivity and overall platform reliability.
+
+
+About Us
+
+Jefferies is a leading global, full-service investment banking and capital markets firm that provides advisory, sales and trading, research, and wealth and asset management services. With more than 40 offices around the world, we offer insights and expertise to investors, companies, and governments.
+
+At Jefferies, we believe that diversity fosters creativity, innovation and thought leadership through the infusion of new ideas and perspectives. We have made a commitment to building a culture that provides opportunities for all employees regardless of our differences and supports a workforce that is reflective of the communities where we work and live. As a result, we are able to pool our collective insights and intelligence to provide fresh and innovative thinking for our clients.
+
+Jefferies is an equal employment opportunity employer, and takes affirmative action to ensure that all qualified applicants will receive consideration for employment without regard to race, creed, color, national origin, ancestry, religion, gender, pregnancy, age, physical or mental disability, marital status, sexual orientation, gender identity or expression, veteran or military status, genetic information, reproductive health decisions, or any other factor protected by applicable law. We are committed to hiring the most qualified applicants and complying with all federal, state, and local equal employment opportunity laws. As part of this commitment, Jefferies will extend reasonable accommodations to individuals with disabilities, as required by applicable law.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Investment Banking
+  
+
+Referrals increase your chances of interviewing at Jefferies by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Electronic Trading Senior Software Engineer – Test Tooling & Automation (Vice President)
+Electronic Trading Senior Software Engineer – Test Tooling & Automation (Vice President)
+Citi
+Kowloon City District, Hong Kong SAR
+6 days ago
+SDET Automation Engineer for Equity Trading Platform
+SDET Automation Engineer for Equity Trading Platform
+Jefferies
+Hong Kong SAR
+1 week ago
+Senior Production Engineer
+Senior Production Engineer
+Susquehanna International Group
+Hong Kong, Hong Kong SAR
+2 days ago
+Trading Systems Engineer - Quantitative Execution - J13214
+Trading Systems Engineer - Quantitative Execution - J13214
+Pinpoint Asia
+Hong Kong, Hong Kong SAR
+HK$80,000 - HK$145,000
+2 weeks ago
+Global Banking & Markets, FICC Software Engineer, Vice President, Hong Kong/ Singapore
+Global Banking & Markets, FICC Software Engineer, Vice President, Hong Kong/ Singapore
+Goldman Sachs
+Hong Kong SAR
+6 hours ago
+Senior Low Latency Electronic Trading Software Engineer (Vice President)
+Senior Low Latency Electronic Trading Software Engineer (Vice President)
+Citi
+Kowloon City District, Hong Kong SAR
+1 week ago
+Show more jobs like this 
+People also viewed
+VP, Software Engineer
+VP, Software Engineer
+
+Nomura
+
+Central, Hong Kong SAR
+1 month ago
+Market Access Devops Support - Global Market Activities
+Market Access Devops Support - Global Market Activities
+
+Societe Generale
+
+Hong Kong, Hong Kong SAR
+1 week ago
+Senior DevOps Engineer - Global Trading Firm - Hong Kong
+Senior DevOps Engineer - Global Trading Firm - Hong Kong
+
+NLS Executive Search
+
+Hong Kong, Hong Kong SAR
+1 week ago
+Site Reliability Engineer: $1,000,000 + (Elite Trading Firm)
+Site Reliability Engineer: $1,000,000 + (Elite Trading Firm)
+
+Hunter Bond
+
+Hong Kong, Hong Kong SAR
+3 hours ago
+Lead Engineer, Execution Technology
+Lead Engineer, Execution Technology
+
+Balyasny Asset Management L.P.
+
+Hong Kong, Hong Kong SAR
+1 month ago
+VP/ Senior Engineering Director, Trading Services
+VP/ Senior Engineering Director, Trading Services
+
+OKX
+
+Hong Kong, Hong Kong SAR
+1 day ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Alpaca
+
+Hong Kong SAR
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Qube Research & Technologies
+
+Hong Kong, Hong Kong SAR
+4 weeks ago
+Quantitative Developer
+Quantitative Developer
+
+Point72
+
+Hong Kong SAR
+1 month ago
+Quantitative Developer | Trading team
+Quantitative Developer | Trading team
+
+Jump Trading
+
+Hong Kong, Hong Kong SAR
+5 days ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Jefferies
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

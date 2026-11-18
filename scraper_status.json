@@ -1,9 +1,9 @@
 {
   "pid": 50860,
   "started_at": "2026-11-19T01:14:06+02:00",
-  "heartbeat_at": "2026-11-19T01:37:40+02:00",
+  "heartbeat_at": "2026-11-19T01:41:00+02:00",
   "phase": "reviewing",
-  "detail": "Senior Java Automation Engineer",
-  "last_scrape_ok_at": "2026-11-19T01:36:32+02:00",
+  "detail": "QA Engineer",
+  "last_scrape_ok_at": "2026-11-19T01:39:59+02:00",
   "last_error": null
 }
