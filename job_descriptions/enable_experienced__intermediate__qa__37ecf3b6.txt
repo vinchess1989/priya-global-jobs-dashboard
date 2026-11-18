@@ -1,0 +1,287 @@
+Title: Experienced (Intermediate) QA Engineer
+Company: Enable
+Location: Auckland, Auckland, New Zealand
+URL: https://nz.linkedin.com/jobs/view/experienced-intermediate-qa-engineer-at-enable-4491451095
+Posted: 2026-11-18
+Deadline: N/A
+Reason: The role aligns well with the candidate's extensive background in quality assurance, testing, and process improvement within a software development environment, and it is located in a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Join now
+Sign in
+Experienced (Intermediate) QA Engineer
+Enable  Auckland, Auckland, New Zealand
+52 minutes ago   Be among the first 25 applicants
+  
+
+See who Enable has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Managing pricing and rebates shouldn’t be a hassle. Enable’s intelligent platform is built for the speed of today’s market, eliminating disconnects between pricing strategy and rebate execution. We help companies to increase profitability and simplify the complex with accurate, AI-powered insights, real-time performance monitoring, agreement optimization, and simplified rebate management.
+
+After securing $291M in Series A-D funding and acquiring Flintfox in 2025, Enable is positioned for continued, significant growth. Since the launch of our flagship product in 2016, we have been rapidly scaling our client base, product offerings, and built a team of top-tier professionals committed to reshaping the industry.
+
+Want a glimpse into life at Enable? Visit our Life at Enable page to learn how you can be part of our journey.
+
+Job Summary
+
+As an Experienced QA Engineer, you will have an appreciation of the software development and testing life cycle. Reporting to the Engineering Manager, you will be a vital component of our product and customer delivery engineering teams. You will produce test artifacts in accordance with our QA practices and standards. We will provide you with the necessary guidance and resources to help you succeed in this role, while also allowing you to put your stamp on our process.
+
+You will be responsible for the design and execution of tests on product features and bug fixes identified in sprints before release, to help ensure the delivery of quality across our products. The position is ideal for a self-starter who is inquisitive, and analytical with a passion for quality.
+
+As you develop in the role, there will be opportunities to gain exposure to technical tasks involving test environment setup/management, database table/records manipulation, as well as test automation.
+
+You will assist in mentoring new joiner QA engineers, as required.
+
+Duties And Responsibilities
+
+
+Analyse requirements and other relevant references in relation to testing of features and bug fixes.
+Prioritise testing of all new features and changes, including bug fixes before releasing to production.
+System testing on an ongoing basis to check for errors or bugs not picked up in previous cycles.
+Prompt reporting and triaging of bugs, and monitoring through to resolution.
+Initiative to propose improvements to the system and anything that would benefit the user experience.
+Proactively collaborate with the engineering team and others (e.g. professional services, user experience team, etc.) as appropriate, to align test expectations.
+Be present at the daily stand-ups and other agile ceremonies.
+Continuously look for ways to improve our testing processes and provide suggestions to the wider team to prevent bugs from occurring in the first place.
+Helping to implement greater test coverage with clear repeatable test cases.
+Carry out different types of test such as but not limited to functional, regression, UI, backend(e.g. API, DB), as well as automated, as deemed appropriate.
+Provide test progress updates in a timely manner.
+
+
+
+Knowledge, Skills, And Abilities (KSAs)
+
+
+Understanding of industry recognised test processes and standards (e.g. ISTQB, ISO, RST, CSTE, MoT).
+Understanding of SDLC (e.g. Waterfall, Agile, Scrum, DevOps) and test types (e.g. sanity, system, integration, regression).
+Familiarity with test management tools (e.g ADO, JIRA, Zephyr, TestRail, Quality Center, Linear).
+Ability to design and plan tests.
+Ability to organise, maintain, and manipulate test data.
+Possess excellent communication skills, both verbal and written, and can interact with a wide range of stakeholders to attain results.
+Comfortable working both autonomously and collaboratively.
+Ability to prioritise and meet deadlines.
+Conscientious, self-motivated, and goal-orientated.
+Excellent attention to detail.
+Eager to learn new skills and improve.
+
+
+
+Required Education And Experience
+
+
+2+ years of software testing experience.
+Broad testing experience touching functional, system, usability, regression.
+Experience in various testing techniques such as static, black box, and white box
+Familiarity with database concepts and SQL query.
+Experience in API testing.
+Can understand system architecture documentations and/or diagrams
+Familiarity with various tech stacks such as C#, JavaScpript, HTML, CSS.
+Test automation exposure
+
+
+
+Preferred Education And Experience
+
+
+Testing certifications or bootcamp training (e.g. ISTQB, RST, MoT).
+Test automation experience (e.g. Selenium, Playwright, UFT, RFT, Cypress, Tosca)
+ERP system testing (e.g. SAP, Oracle, Infor, D365 FinOps).
+Familiarity with CI/CD concepts.
+
+
+
+The technical knowledge, skills, and experience listed in this job description represent the broad range of tools and languages used across our Engineering function. We don’t expect every Engineer to be proficient in all of them. Rather, we look for strong capability in the languages and tools most relevant to their team’s work and the products they support.
+
+Total Rewards
+
+At Enable, we’re committed to your professional development and growth. Starting pay is determined by factors like location, skills, experience, market conditions, and internal parity.
+
+Benefits
+
+Salary/TCC is just one component of Enable’s total rewards package. Enable is committed to investing in the holistic health and wellbeing of all Enablees and their families. Our benefits and perks include, but are not limited to:
+
+Paid Time Off: Take the time you need to relax and recharge
+
+Lucrative Bonus Plan: Enjoy a rewarding bonus structure subject to company or individual performance
+
+Equity Program: Benefit from our equity program with additional options tied to tenure and performance
+
+Career Growth: Explore new opportunities with our internal mobility program
+
+Additional Perks:  
+
+Learning & Development: Access a range of workshops and courses designed to boost your professional growth and take your career to new heights 
+
+Pets: Bring your pets to our welcoming, pet-friendly offices
+
+According to LinkedIn's Gender Insights Report, women apply for 20% fewer jobs than men, despite similar job search behaviors. At Enable, we’re committed to closing this gap by encouraging women and underrepresented groups to apply, even if they don’t meet all qualifications.
+
+Enable is an equal opportunity employer, fostering an inclusive, accessible workplace that values diversity. We provide fair, discrimination-free employment, ensuring a harassment-free environment with equitable treatment.
+
+We welcome applications from all backgrounds. If you need reasonable adjustments during recruitment or in the role, please let us know.
+
+For more information about what it’s like to work with us, check out our website https://www.enable.com/about
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, recording and transcribing interviews, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, visit https://www.enable.com/privacy-policy/.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Enable by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+QA Automation Engineer (f/m/d)
+QA Automation Engineer (f/m/d)
+Thinkproject
+Auckland, Auckland, New Zealand
+1 week ago
+QA Automation Engineer
+QA Automation Engineer
+Tribe Group
+Auckland, Auckland, New Zealand
+1 week ago
+Quality Engineer
+Quality Engineer
+Westpac New Zealand
+Auckland, New Zealand
+5 days ago
+QA Engineer - SAP SuccessFactors
+QA Engineer - SAP SuccessFactors
+Foodstuffs North Island Limited
+Auckland, Auckland, New Zealand
+2 months ago
+QA Engineer - SAP (MM)
+QA Engineer - SAP (MM)
+Foodstuffs North Island Limited
+Auckland, Auckland, New Zealand
+2 months ago
+Intermediate QA Automation Engineer (Embedded Devices)
+Intermediate QA Automation Engineer (Embedded Devices)
+EROAD
+Auckland, Auckland, New Zealand
+3 weeks ago
+Show more jobs like this 
+People also viewed
+Intermediate Infrastructure Engineer
+Intermediate Infrastructure Engineer
+
+Centrapay
+
+Auckland, Auckland, New Zealand
+NZ$90,000 - NZ$125,000
+1 month ago
+QA Operations Lead / 2IC
+QA Operations Lead / 2IC
+
+Argenta
+
+Auckland, Auckland, New Zealand
+2 weeks ago
+Software Engineer
+Software Engineer
+
+Orion Health
+
+Auckland, Auckland, New Zealand
+1 month ago
+Junior Customer Service Automation Engineer
+Junior Customer Service Automation Engineer
+
+Les Mills Brasil 🇧🇷
+
+Auckland, Auckland, New Zealand
+6 days ago
+Completions Engineer
+Completions Engineer
+
+Fletcher Construction
+
+Auckland, Auckland, New Zealand
+1 day ago
+Junior Customer Service Automation Engineer
+Junior Customer Service Automation Engineer
+
+Les Mills International
+
+Auckland, Auckland, New Zealand
+1 week ago
+Software support agent and developer
+Software support agent and developer
+
+Eurofins
+
+Auckland, Auckland, New Zealand
+3 months ago
+Integrated Operations Engineer
+Integrated Operations Engineer
+
+Rocket Lab
+
+Auckland, Auckland, New Zealand
+2 weeks ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+ZURU
+
+Auckland, Auckland, New Zealand
+2 weeks ago
+Software Engineer
+Software Engineer
+
+CONQA
+
+Auckland, New Zealand
+NZ$110,000 - NZ$130,000
+1 day ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Enable
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

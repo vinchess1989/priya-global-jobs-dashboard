@@ -1,10 +1,10 @@
 {
   "pid": 51864,
   "started_at": "2026-11-18T01:13:46+02:00",
-  "heartbeat_at": "2026-11-18T02:12:29+02:00",
+  "heartbeat_at": "2026-11-18T02:15:30+02:00",
   "phase": "reviewing",
-  "detail": "Quality & Compliance Coordinator",
-  "last_scrape_ok_at": "2026-11-18T02:11:16+02:00",
+  "detail": "Service Asset & Configuration Manager - Hawthorn East",
+  "last_scrape_ok_at": "2026-11-18T02:14:19+02:00",
   "last_error": {
     "at": "2026-11-18T02:08:20+02:00",
     "message": "pnet_quality_engineer: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.pnet.co.za/jobs/quality-engineer\nCall log:\n  - navigating to \"https://www.pnet.co.za/jobs/quality-engineer\", waiting until \"load\"\n"
