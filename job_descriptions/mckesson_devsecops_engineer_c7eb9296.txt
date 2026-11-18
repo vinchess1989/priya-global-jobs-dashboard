@@ -1,0 +1,249 @@
+Title: DevSecOps Engineer
+Company: McKesson
+Location: Cork, County Cork, Ireland
+URL: https://ie.linkedin.com/jobs/view/devsecops-engineer-at-mckesson-4492075262
+Posted: 2026-11-19
+Deadline: N/A
+Reason: The role aligns perfectly with the candidate's extensive experience in CI/CD, release management, and regulated environments, and it is located in an eligible country (Ireland).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevSecOps Engineer
+McKesson  Cork, County Cork, Ireland
+2 hours ago   Be among the first 25 applicants
+  
+
+See who McKesson has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+McKesson is an impact-driven, Fortune 10 company that touches virtually every aspect of healthcare. We are known for delivering insights, products, and services that make quality care more accessible and affordable. Here, we focus on the health, happiness, and well-being of you and those we serve – we care.
+
+What you do at McKesson matters. We foster a culture where you can grow, make an impact, and are empowered to bring new ideas. Together, we thrive as we shape the future of health for patients, our communities, and our people. If you want to be part of tomorrow’s health today, we want to hear from you.
+
+About The Role
+
+McKesson is seeking a DevSecOps Engineer to help modernize and scale enterprise digital commerce platforms through automation, cloud engineering, and platform reliability practices. This role partners with architects, product teams, developers, QA, cloud operations, and security teams to build secure, resilient, and highly automated software delivery platforms. You will drive CI/CD excellence, cloud-native architecture, infrastructure automation, and operational reliability while enabling faster, safer releases across commerce applications, APIs, and microservices.
+
+What You'll Do
+
+
+Design, build, and optimize CI/CD pipelines using GitHub Actions, or similar platforms.
+Automate build, test, security validation, deployment, release, and rollback processes.
+Implement Infrastructure as Code (IaC) using Terraform, Bicep, ARM Templates, or CloudFormation.
+Develop and maintain cloud-native solutions across Azure and AWS environments.
+Deploy and manage containerized workloads using Docker and Kubernetes.
+Integrate DevSecOps controls including SAST, DAST, Software Composition Analysis (SCA), container security, and secrets scanning.
+Support and improve reliability, observability, monitoring, logging, and alerting across digital commerce platforms.
+Partner with product, architecture, QA, security, and operations teams to improve engineering efficiency, release quality, and platform stability.
+
+
+
+Basic Requirements
+
+
+4+ years of experience in DevOps, DevSecOps, Platform Engineering, Cloud Engineering, Site Reliability Engineering (SRE), or related software engineering roles.
+Bachelor's degree in Computer Science, Engineering, Information Technology, or equivalent experience.
+Experience building and supporting CI/CD pipelines using Azure DevOps, GitHub Actions, Jenkins, or similar tools.
+Hands-on experience with Azure.
+Experience implementing Infrastructure as Code using Terraform, Bicep, ARM, or CloudFormation.
+Experience with Docker, Kubernetes, containers, and cloud-native application deployment.
+Experience supporting APIs, microservices, production environments, and automated release processes.
+Experience using source control systems, branching strategies, and software delivery lifecycle practices.
+
+
+
+Preferred Skills / Experience
+
+
+Custom digital commerce platforms.
+Experience implementing enterprise DevSecOps controls and secure software delivery frameworks.
+Knowledge of cloud-native architecture and platform engineering best practices.
+Experience with monitoring and observability tools such as Splunk, Dynatrace, AppDynamics, Azure Monitor, or CloudWatch.
+Experience with release orchestration across distributed systems and microservices.
+Experience supporting audit, compliance, risk, and enterprise security requirements.
+Experience leading technical initiatives, mentoring engineers, and driving engineering standards.
+Familiarity with AI-assisted engineering and automation tools.
+
+
+
+Travel / Work Arrangement / Physical Requirements
+
+
+Ability to work remotely or in a hybrid environment based on business needs.
+Occasional travel may be required for team meetings, planning sessions, or business initiatives.
+Ability to perform standard computer-based work activities for extended periods
+
+
+
+At McKesson, we care about the well-being of the patients and communities we serve, and that starts with caring for our people. That’s why we have a Total Rewards package that includes comprehensive benefits to support physical, mental, and financial well-being. Our Total Rewards offerings serve the different needs of our diverse employee population and ensure they are the healthiest versions of themselves.
+
+As part of Total Rewards, we are proud to offer a competitive compensation package at McKesson. This is determined by several factors, including performance, experience and skills, equity, regular job market evaluations, and geographical markets. The pay range shown below is aligned with McKesson's pay philosophy, and pay will always be compliant with any applicable regulations. In addition to base pay, other compensation, such as an annual bonus or long-term incentive opportunities may be offered.
+
+Our Base Pay Range for this position
+
+€60,000 - €100,000
+
+McKesson has become aware of online recruiting-related scams in which individuals who are not affiliated with or authorized by McKesson are using McKesson’s (or affiliated entities, like CoverMyMeds or RxCrossroads) name in fraudulent emails, job postings or social media messages. In light of these scams, please bear the following in mind:
+
+McKesson Talent Advisors will never solicit money or credit card information in connection with a McKesson job application.
+
+McKesson Talent Advisors do not communicate with candidates via online chatrooms or using email accounts such as Gmail or Hotmail. Note that McKesson does rely on a virtual assistant (Gia) for certain recruiting-related communications with candidates.
+
+McKesson job postings are posted on our career site: careers.mckesson.com.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Hospitals and Health Care
+  
+
+Referrals increase your chances of interviewing at McKesson by 2x
+
+See who you know
+
+Get notified about new Engineer jobs in Cork, County Cork, Ireland.
+
+Sign in to create job alert
+Similar jobs
+Lead DevSecOps Engineer
+Lead DevSecOps Engineer
+McKesson
+Cork, County Cork, Ireland
+2 weeks ago
+Senior Cloud Security Engineer
+Senior Cloud Security Engineer
+Eli Lilly and Company
+Cork, County Cork, Ireland
+2 weeks ago
+Senior Cloud Security Engineer
+Senior Cloud Security Engineer
+Acuity
+Cork, County Cork, Ireland
+1 week ago
+Dev Ops Engineer
+Dev Ops Engineer
+Acuity
+Cork, County Cork, Ireland
+1 week ago
+DevOps Engineer
+DevOps Engineer
+Motorola Solutions
+Cork, County Cork, Ireland
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+The Citco Group Limited
+Cork, County Cork, Ireland
+1 week ago
+Show more jobs like this 
+People also viewed
+Dev Ops Senior Engineer
+Dev Ops Senior Engineer
+
+Acuity
+
+Cork, County Cork, Ireland
+3 weeks ago
+Lead DevOps Engineer
+Lead DevOps Engineer
+
+The Citco Group Limited
+
+Cork, County Cork, Ireland
+2 weeks ago
+Site Reliability Engineer, Enterprise Technology Services
+Site Reliability Engineer, Enterprise Technology Services
+
+Apple
+
+Cork, County Cork, Ireland
+1 month ago
+Site Reliability Engineer, Enterprise Technology Services
+Site Reliability Engineer, Enterprise Technology Services
+
+Apple
+
+Cork, County Cork, Ireland
+1 month ago
+Product Security Engineer, Senior - Cork, Ireland
+Product Security Engineer, Senior - Cork, Ireland
+
+Qualcomm
+
+Cork, County Cork, Ireland
+3 days ago
+SBOM Engineer, Senior - Cork, Ireland
+SBOM Engineer, Senior - Cork, Ireland
+
+Qualcomm
+
+Cork, County Cork, Ireland
+1 week ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+Acuity
+
+Cork, County Cork, Ireland
+1 week ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+Acuity
+
+Cork, County Cork, Ireland
+1 week ago
+Lead Site Reliability Engineer
+Lead Site Reliability Engineer
+
+OpenText
+
+Cork, County Cork, Ireland
+5 days ago
+Site Reliability Engineering, Radar Engineering
+Site Reliability Engineering, Radar Engineering
+
+Apple
+
+Cork, County Cork, Ireland
+3 weeks ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+You’re signed out
+Sign in for the full experience.
+Sign in Join now
