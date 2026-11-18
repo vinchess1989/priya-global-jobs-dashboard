@@ -1,0 +1,300 @@
+Title: Senior Devops Engineer
+Company: Renaissance InfoSystems
+Location: Sydney, New South Wales, Australia
+URL: https://au.linkedin.com/jobs/view/senior-devops-engineer-at-renaissance-infosystems-4490851106
+Posted: 2026-11-19
+Deadline: Open until filled
+Reason: The role aligns with the candidate's extensive experience in DevOps, CI/CD pipeline management, and infrastructure automation, and it is located in an eligible country (Australia).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Devops Engineer
+Renaissance InfoSystems  Sydney, New South Wales, Australia
+18 hours ago   Be among the first 25 applicants
+  
+
+See who Renaissance InfoSystems has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Direct message the job poster from Renaissance InfoSystems
+
+Reshu Seth
+Reshu Seth
+Senior Recruitment Consultant/Team Lead at Renaissance InfoSystems Pty Ltd Hiring for Australia/New Zealand
+
+About Us: Renaissance Info Systems is a technology and digital recruitment agency, connecting contract and permanent professionals with clients across Asia-Pacific. We aim to differentiate ourselves through our level of responsiveness, and our understanding that comes from being an IT recruitment agency from the IT Industry. Our recruiters balance sophisticated and simple inter-personal techniques to assure a strong candidate network.
+
+Know More: http://www.reninfo.com.au
+
+
+
+
+Senior DevOps Engineer
+
+Experience-8+years
+
+you will be responsible for maintaining, optimizing, and scaling our organization's infrastructure systems. Your primary focus will be to ensure the reliability and performance of our infrastructure & DevOps, including Kubernetes, other critical components in Hybrid cloud environment. You will work closely with development teams to design and implement solutions that enhance system stability and automate operational tasks.
+
+
+
+
+Key Responsibilities
+
+EKS Platform Engineering:
+
+Design, implement, and maintain highly available and secure Kubernetes clusters using Amazon EKS, including node pool management, upgrade strategies, and disaster recovery.
+Ensure Kubernetes security best practices (RBAC, pod security, network policies).
+Configure Kubernetes networking, ingress, autoscaling (HPA, Karpenter/Cluster Autoscaler).
+Manage secrets and configuration (Vault)
+
+
+
+
+CI/CD Pipeline Management: Build and optimize CI/CD pipelines (Bitbucket, Jenkins, Ansible) to automate code deployment and infrastructure changes, ensuring safe, rapid, and reliable releases.
+
+Automation: Develop and maintain automation tools and scripts (Python/Shell/Bash),Optimize deployment strategies (blue-green, canary, rolling updates)
+
+Observability & Monitoring: Implement and enhance monitoring, alerting, and logging solutions to gain real-time visibility into system health.
+
+Performance & Cost Optimization: Proactively analyse system capacity and optimize AWS resource utilization, balancing performance with cost-efficiency.
+
+Security & Compliance: Implement security best practices, including RBAC, network policies, secrets management, and image scanning within EKS.
+
+Collaboration: Collaborate with cross-functional teams to align infrastructure goals with business objectives.
+
+Continuous Improvement: Identify areas for optimization and efficiency improvements within the infrastructure and automation processes. Stay up-to-date with industry trends and emerging technologies to recommend enhancements.
+
+
+
+
+Required Skills
+
+Technical Skills
+
+
+
+
+Deep knowledge of Kubernetes (EKS) and container orchestration
+Strong experience with AWS Cloud
+Proficiency in Docker and container lifecycle management
+Hands-on experience with Terraform (preferred)
+Experience with CI/CD tools (Git, Jenkins, Ansible, etc.)
+scripting skills (Python, Bash, or Go)
+SRE & DevOps Practices
+Familiarity with incident response and on-call rotation
+understanding of networking
+Knowledge of security and compliance in cloud environments
+
+
+
+
+Regards,
+
+Reshu Seth
+
+Recruitment Consultant
+
+Renaissance InfoSystem
+
+M: +61 478 487 026
+
+E: reshu@reninfo.com.au
+
+W: http://www.reninfo.com.au
+
+
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Renaissance InfoSystems by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Senior Technical Business Analyst jobs
+Senior Devops Engineer
+Similar jobs
+Senior Engineer – DevOps & Platform Engineering
+Senior Engineer – DevOps & Platform Engineering
+ASX
+Sydney, New South Wales, Australia
+1 week ago
+DevOps Infrastructure Engineer
+DevOps Infrastructure Engineer
+NSW Police Force
+Greater Sydney Area
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Australian Prudential Regulation Authority
+Sydney, New South Wales, Australia
+1 week ago
+DevOps Engineer
+DevOps Engineer
+Nasdaq
+Sydney, New South Wales, Australia
+1 week ago
+DevOps Engineer
+DevOps Engineer
+Macquarie Group
+Sydney, New South Wales, Australia
+1 week ago
+Platform Engineer
+Platform Engineer
+BIG W
+Sydney, New South Wales, Australia
+1 week ago
+Show more jobs like this 
+People also viewed
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Insignia Financial
+
+Sydney, New South Wales, Australia
+1 week ago
+Senior Devops Engineer
+Senior Devops Engineer
+
+XPT Software
+
+Sydney, New South Wales, Australia
+2 weeks ago
+DevSecOps Platform Engineer (D365)
+DevSecOps Platform Engineer (D365)
+
+Housing Australia
+
+Sydney, New South Wales, Australia
+6 days ago
+DevOps Engineer, Blockchain Infra (Fully Remote)
+DevOps Engineer, Blockchain Infra (Fully Remote)
+
+Binance
+
+Sydney, New South Wales, Australia
+14 hours ago
+Senior Cloud Engineer
+Senior Cloud Engineer
+
+White Bay
+
+Sydney, New South Wales, Australia
+A$170,000 - A$180,000
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+CMSN Group Pty Ltd
+
+Greater Sydney Area
+3 months ago
+DevOps Engineer (AU Citizen with Security Clearance)
+DevOps Engineer (AU Citizen with Security Clearance)
+
+Accenture Australia
+
+Sydney, New South Wales, Australia
+2 months ago
+DevOps Engineer
+DevOps Engineer
+
+Davidson
+
+Sydney, New South Wales, Australia
+A$613 - A$681
+1 week ago
+Systems Engineer/Dev Ops/Administrator
+Systems Engineer/Dev Ops/Administrator
+
+Tyroola.com.au
+
+Millers Point, New South Wales, Australia
+3 months ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+DroneShield
+
+Sydney, New South Wales, Australia
+6 days ago
+Similar Searches
+Senior Technical Business Analyst jobs
+250 open jobs
+Integration Developer jobs
+1,151 open jobs
+Technical Writer jobs
+745 open jobs
+Platform Engineer jobs
+1,859 open jobs
+Lead Product Manager jobs
+938 open jobs
+Principal Product Manager jobs
+184 open jobs
+Change Manager jobs
+4,510 open jobs
+Technical Consultant jobs
+2,745 open jobs
+Information Technology Auditor jobs
+64 open jobs
+Quality Assurance Engineer jobs
+425 open jobs
+Cyber Security Specialist jobs
+532 open jobs
+Information Technology Manager jobs
+2,507 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

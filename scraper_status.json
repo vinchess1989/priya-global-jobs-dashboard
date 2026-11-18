@@ -1,12 +1,9 @@
 {
-  "pid": 51864,
-  "started_at": "2026-11-18T01:13:46+02:00",
-  "heartbeat_at": "2026-11-18T02:28:22+02:00",
-  "phase": "run_finished",
-  "detail": "125 lower-yield targets and 0 jobs left for the next run",
-  "last_scrape_ok_at": "2026-11-18T02:28:02+02:00",
-  "last_error": {
-    "at": "2026-11-18T02:21:07+02:00",
-    "message": "jora_au_configuration_manager: Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://au.jora.com/j?q=Configuration+Manager&sp=search\", waiting until \"load\"\n"
-  }
+  "pid": 50860,
+  "started_at": "2026-11-19T01:14:06+02:00",
+  "heartbeat_at": "2026-11-19T01:16:50+02:00",
+  "phase": "reviewing",
+  "detail": "DevOps Engineer",
+  "last_scrape_ok_at": "2026-11-19T01:15:47+02:00",
+  "last_error": null
 }
