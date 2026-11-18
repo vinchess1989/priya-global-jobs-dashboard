@@ -1,0 +1,343 @@
+Title: DevOps Engineer
+Company: NTT DATA Europe & Latam
+Location: London Area, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/devops-engineer-at-ntt-data-europe-latam-4491839534
+Posted: 2026-11-19
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in Salesforce DevOps, release management, and CI/CD, and it is located in the UK, which is a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+NTT DATA Europe & Latam  London Area, United Kingdom
+10 hours ago  26 applicants
+  
+
+See who NTT DATA Europe & Latam has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+The team you'll be working with:
+
+We are seeking an experienced Salesforce DevOps Lead to design, implement, and continuously improve DevOps, CI/CD, release management, and deployment practices for enterprise Salesforce implementations.
+
+The role will be responsible for establishing scalable, secure, and reliable delivery processes across the Salesforce development lifecycle, including source control, branching strategies, automated build and deployment pipelines, release governance, environment management, quality controls, and the removal of barriers to production.
+
+Working closely with Salesforce developers, architects, product owners, business stakeholders, security teams, and operational support functions, you will translate delivery requirements into robust DevOps solutions that improve deployment frequency, quality, traceability, and operational stability.
+
+You will provide technical leadership to engineering teams, contribute hands-on to the implementation and management of Salesforce CI/CD solutions, and act as an escalation point for complex deployment, release, and production incidents. You will also identify opportunities to automate manual processes, address technical debt, strengthen monitoring and observability, and continually improve the client service.
+
+The successful candidate will have strong experience in Salesforce development and release management, combined with practical expertise in DevOps tools, Git-based source control, CI/CD pipeline design, security, automation, and agile delivery. Experience with AWS or other cloud infrastructure is valuable where it supports the wider Salesforce delivery ecosystem, integrations, tooling, or platform services.
+
+
+
+
+What you'll be doing:
+
+
+
+
+DevOps Leadership
+
+Define and implement DevOps strategy, standards, and best practices across projects.
+Lead, mentor, and develop a team of DevOps engineers.
+Drive automation initiatives to improve software delivery quality, speed, and reliability.
+Collaborate with architecture, development, testing, and operations teams.
+
+Salesforce DevOps
+
+Lead Salesforce deployment and release activities across environments.
+Implement Salesforce DevOps best practices including:
+Source-driven development
+Change management
+Release governance
+Environment strategy
+Work with Salesforce DX (SFDX), Copado, Gearset, or similar DevOps tools.
+Support deployments involving Apex, Lightning Components, Flows, and integrations.
+
+AWS Cloud Management
+
+Design, build, and maintain AWS-based infrastructure.
+Manage and optimize services such as:
+EC2
+ECS/EKS
+Lambda
+S3
+RDS
+Route 53
+CloudFront
+IAM
+CloudWatch
+Implement Infrastructure as Code (Terraform or CloudFormation).
+Ensure cloud environments are secure, scalable, and cost-effective.
+
+CI/CD & Source Control
+
+Design and maintain CI/CD pipelines using tools such as:
+GitHub Actions
+GitLab CI/CD
+Jenkins
+Azure DevOps
+Define Git branching, version control, release, and deployment strategies.
+Support automated testing, build validation, and deployment processes.
+
+Security & Compliance
+
+Implement DevSecOps practices throughout the software lifecycle.
+Ensure compliance with organisational security standards and regulatory requirements.
+Perform vulnerability management and security reviews.
+
+Monitoring & Support
+
+Establish monitoring, logging, and alerting solutions.
+Manage incident response and root cause analysis activities.
+Continuously improve platform availability, performance, and resilience.
+
+
+
+
+What experience you'll bring:
+
+Significant experience in DevOps, Cloud Engineering, or Platform Engineering.
+Experience in a leadership or technical lead role.
+Strong hands-on experience with AWS Cloud Platform.
+Expert knowledge of Git and modern source control practices.
+Experience building and maintaining CI/CD pipelines.
+Experience with:
+Terraform
+CloudFormation
+Docker
+Jenkins/GitHub Actions/GitLab CI
+Experience implementing monitoring and observability solutions.
+
+Salesforce Experience
+
+Proven experience supporting Salesforce development and release processes.
+Experience with:
+Salesforce DX (SFDX)
+Salesforce CLI
+Copado, Gearset, or AutoRABIT
+Change Sets and deployment automation
+Understanding of Salesforce architecture and integration patterns.
+
+Leadership Skills
+
+Strong stakeholder management and communication skills.
+Experience managing technical teams and third-party suppliers.
+Ability to drive continuous improvement and foster DevOps culture.
+Strong problem-solving and decision-making abilities.
+
+Desirable Qualifications
+
+AWS Certified Solutions Architect or DevOps Engineer.
+Salesforce Administrator, Platform Developer, or Architect certification.
+Agile/Scrum or SAFe certification.
+
+
+
+
+Who we are:
+
+At NTT DATA, you have endless opportunities to think big, act bold and take ownership. As a $30+ billion business and technology services, AI and digital infrastructure leader, we co-innovate solutions with clients and partners globally for business and societal impact. Serving 75% of the Fortune Global 100, with experts in over 70 countries, we encourage experimentation and recognize great work. Proudly a Global Top Employer, NTT DATA is part of NTT Group, which invests over $3 billion annually in R&D. Make this the place where you belong, learn, and build your network. Make this the place where you grow.
+
+
+
+
+What we'll offer you:
+
+We offer a range of tailored benefits that support your physical, emotional, and financial wellbeing. Our Learning and Development team ensure that there are continuous growth and development opportunities for our people. We also offer the opportunity to have flexible work options.
+
+You can find more information about NTT DATA UK & Ireland here: https://uk.nttdata.com/
+
+We are an equal opportunities employer. We believe in the fair treatment of all our employees and commit to promoting equity and diversity in our employment practices. We are committed to creating a diverse and inclusive workforce. We actively collaborate with individuals who have disabilities and long-term health conditions which have an effect on their ability to do normal daily activities, ensuring that barriers are eliminated when it comes to employment opportunities. In line with our commitment, we guarantee an interview to applicants who declare to us, during the application process, that they have a disability and meet the minimum requirements for the role. If you require any reasonable adjustments during the recruitment process, please let us know. Join us in building a truly diverse and empowered team.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Technology, Information and Media and IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at NTT DATA Europe & Latam by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+J2Ee Developer jobs
+DevOps Engineer
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+Prima
+London Area, United Kingdom
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+Capgemini
+London, England, United Kingdom
+1 month ago
+DevOps Engineers
+DevOps Engineers
+CGI
+London, England, United Kingdom
+1 week ago
+DevOps Engineer
+DevOps Engineer
+BAE Systems
+London, England, United Kingdom
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+RELX
+London, England, United Kingdom
+7 hours ago
+Devops Platform Engineer
+Devops Platform Engineer
+Sky
+London Area, United Kingdom
+1 week ago
+Show more jobs like this 
+People also viewed
+DevOps Engineer
+DevOps Engineer
+
+Lloyd's List Intelligence
+
+London, England, United Kingdom
+5 months ago
+Platform Engineering Specialist - DevOps
+Platform Engineering Specialist - DevOps
+
+Accenture UK & Ireland
+
+London, England, United Kingdom
+4 weeks ago
+DevOps/Site Reliability Engineer (Junior/Mid/Senior)
+DevOps/Site Reliability Engineer (Junior/Mid/Senior)
+
+Quaisr
+
+London Area, United Kingdom
+1 week ago
+DevOps Engineer - London
+DevOps Engineer - London
+
+Reflexivity
+
+London Area, United Kingdom
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+Universal Music Group UK
+
+London, England, United Kingdom
+1 week ago
+🛠️ SITE RELIABILITY ENGINEER / DEVOPS
+🛠️ SITE RELIABILITY ENGINEER / DEVOPS
+
+Tandem Dating
+
+Harrow, England, United Kingdom
+4 months ago
+DevOps Engineer - UK
+DevOps Engineer - UK
+
+ANRA Technologies
+
+London, England, United Kingdom
+8 months ago
+DevSecOps Engineer
+DevSecOps Engineer
+
+CGI
+
+London, England, United Kingdom
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Sinara
+
+Greater London, England, United Kingdom
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+AEJ Consulting Ltd
+
+London Area, United Kingdom
+12 hours ago
+Similar Searches
+J2Ee Developer jobs
+1,529 open jobs
+Interactive Designer jobs
+1,194 open jobs
+Director of Planning And Development jobs
+951 open jobs
+Computer Software Engineer jobs
+20,938 open jobs
+Business Application Analyst jobs
+3,114 open jobs
+Java Analyst jobs
+59 open jobs
+Database Consultant jobs
+820 open jobs
+Faculty Assistant jobs
+18,350 open jobs
+SQL Server Consultant jobs
+768 open jobs
+Back End Developer jobs
+5,847 open jobs
+Web Development Specialist jobs
+21,432 open jobs
+Senior Data Consultant jobs
+3,403 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at NTT DATA Europe & Latam
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

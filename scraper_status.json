@@ -1,9 +1,9 @@
 {
   "pid": 50860,
   "started_at": "2026-11-19T01:14:06+02:00",
-  "heartbeat_at": "2026-11-19T01:16:50+02:00",
+  "heartbeat_at": "2026-11-19T01:19:37+02:00",
   "phase": "reviewing",
-  "detail": "DevOps Engineer",
-  "last_scrape_ok_at": "2026-11-19T01:15:47+02:00",
+  "detail": "Senior Platform Engineer (DevOps)",
+  "last_scrape_ok_at": "2026-11-19T01:18:36+02:00",
   "last_error": null
 }
