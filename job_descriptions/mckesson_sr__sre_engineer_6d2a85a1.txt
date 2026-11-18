@@ -1,0 +1,255 @@
+Title: Sr. SRE Engineer
+Company: McKesson
+Location: Cork, County Cork, Ireland
+URL: https://ie.linkedin.com/jobs/view/sr-sre-engineer-at-mckesson-4492077173
+Posted: 2026-11-19
+Deadline: Open until filled
+Reason: The role aligns with the candidate's extensive experience in SRE, DevOps, CI/CD, and platform reliability within a healthcare-adjacent domain, and it is located in Ireland, which is a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Sr. SRE Engineer
+McKesson  Cork, County Cork, Ireland
+2 hours ago   Be among the first 25 applicants
+  
+
+See who McKesson has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+McKesson is an impact-driven, Fortune 10 company that touches virtually every aspect of healthcare. We are known for delivering insights, products, and services that make quality care more accessible and affordable. Here, we focus on the health, happiness, and well-being of you and those we serve – we care.
+
+What you do at McKesson matters. We foster a culture where you can grow, make an impact, and are empowered to bring new ideas. Together, we thrive as we shape the future of health for patients, our communities, and our people. If you want to be part of tomorrow’s health today, we want to hear from you.
+
+About The Role
+
+McKesson is seeking a Sr. SRE Engineer to lead the strategy, roadmap, and delivery of enterprise platform capabilities that enable reliable, scalable, and resilient healthcare technology solutions. This role combines product management leadership with deep understanding of cloud infrastructure, site reliability engineering, production operations, and platform modernization.
+
+You will partner with engineering, architecture, cloud, operations, and business stakeholders to deliver platforms that improve reliability, accelerate delivery, enhance observability, and support McKesson's long-term technology strategy. This role requires balancing customer value, business outcomes, financial investment, operational excellence, and technical innovation.
+
+What You'll Do
+
+
+Define and execute platform product strategy, vision, roadmaps, and investment priorities aligned to business and technology objectives.
+Lead Product Centric Delivery across Platform Engineering, Reliability Engineering, Cloud Operations, and Infrastructure teams.
+Establish product outcomes and KPIs using SLIs, SLOs, SLAs, reliability metrics, adoption metrics, and business value measurements.
+Drive integrated planning, roadmap development, prioritization, and stakeholder alignment across multiple platform initiatives.
+Partner with engineering teams to improve platform scalability, resiliency, availability, and operational maturity.
+Lead initiatives related to Kubernetes platforms, cloud infrastructure, observability, automation, and operational excellence.
+Support incident management, operational readiness reviews, disaster recovery planning, and continuous improvement programs.
+Manage platform investments, business cases, financial performance, and value realization to ensure solutions meet enterprise and customer needs.
+
+
+
+Basic Requirements
+
+
+7+ years of experience in Product Management, Platform Product Management, Site Reliability Engineering, Cloud Platform Engineering, DevOps, or related technology leadership roles.
+Experience developing product strategies, roadmaps, business cases, and investment plans for technology platforms.
+Experience partnering with software engineering, architecture, cloud, infrastructure, and operations teams.
+Dynatrace set up dashboards
+Experience delivering products using Agile and iterative delivery methodologies.
+Experience with cloud platforms including Azure
+Experience defining and measuring KPIs, service reliability metrics, and business outcomes.
+Bachelor's degree or equivalent combination of education and experience.
+
+
+
+Preferred Skills/Experience
+
+
+Knowledge of Reliability Engineering, Production Operations, and Operational Excellence principles.
+Experience with SLIs, SLOs, SLAs, incident management, root cause analysis, and operational readiness practices.
+Experience with Kubernetes, Docker, and containerized platform architectures.
+Experience with Infrastructure as Code including Terraform, Bicep, or CloudFormation.
+Experience implementing and supporting CI/CD pipelines using Azure DevOps, GitHub Actions, or Jenkins.
+Experience with observability platforms including Dynatrace, Datadog, Splunk, AppDynamics, Prometheus, and Grafana.
+Experience developing automation solutions using Python, PowerShell, Shell scripting, or Go.
+Experience with financial management, value management, capacity planning, multi-region architectures, disaster recovery, and business continuity planning.
+
+
+
+Travel / Work Arrangement / Physical Requirements
+
+
+Travel up to 10% may be required.
+Position may be remote, hybrid, or office-based based on business needs.
+Ability to work extended hours during critical incidents or major platform releases when required.
+Ability to use standard office technology and participate in virtual collaboration environments.
+
+
+
+At McKesson, we care about the well-being of the patients and communities we serve, and that starts with caring for our people. That’s why we have a Total Rewards package that includes comprehensive benefits to support physical, mental, and financial well-being. Our Total Rewards offerings serve the different needs of our diverse employee population and ensure they are the healthiest versions of themselves.
+
+As part of Total Rewards, we are proud to offer a competitive compensation package at McKesson. This is determined by several factors, including performance, experience and skills, equity, regular job market evaluations, and geographical markets. The pay range shown below is aligned with McKesson's pay philosophy, and pay will always be compliant with any applicable regulations. In addition to base pay, other compensation, such as an annual bonus or long-term incentive opportunities may be offered.
+
+Our Base Pay Range for this position
+
+€69,000 - €115,000
+
+McKesson has become aware of online recruiting-related scams in which individuals who are not affiliated with or authorized by McKesson are using McKesson’s (or affiliated entities, like CoverMyMeds or RxCrossroads) name in fraudulent emails, job postings or social media messages. In light of these scams, please bear the following in mind:
+
+McKesson Talent Advisors will never solicit money or credit card information in connection with a McKesson job application.
+
+McKesson Talent Advisors do not communicate with candidates via online chatrooms or using email accounts such as Gmail or Hotmail. Note that McKesson does rely on a virtual assistant (Gia) for certain recruiting-related communications with candidates.
+
+McKesson job postings are posted on our career site: careers.mckesson.com.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Hospitals and Health Care
+  
+
+Referrals increase your chances of interviewing at McKesson by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Site Reliability Engineer, Enterprise Technology Services
+Site Reliability Engineer, Enterprise Technology Services
+Apple
+Cork, County Cork, Ireland
+1 month ago
+Site Reliability Engineer
+Site Reliability Engineer
+McAfee
+Cork, County Cork, Ireland
+1 week ago
+Site Reliability Engineering, Radar Engineering
+Site Reliability Engineering, Radar Engineering
+Apple
+Cork, County Cork, Ireland
+3 weeks ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+Acuity
+Cork, County Cork, Ireland
+1 week ago
+Sr. Site Reliability Engineer
+Sr. Site Reliability Engineer
+OpenText
+Cork, County Cork, Ireland
+2 days ago
+Site Reliability Engineer
+Site Reliability Engineer
+Acuity
+Cork, County Cork, Ireland
+1 week ago
+Show more jobs like this 
+People also viewed
+Maintenance Reliability Engineer (Cork, Ireland)
+Maintenance Reliability Engineer (Cork, Ireland)
+
+Roquette
+
+Cork, County Cork, Ireland
+1 month ago
+Sr. Site Reliability Administrator
+Sr. Site Reliability Administrator
+
+OpenText
+
+Cork, County Cork, Ireland
+2 weeks ago
+Sr. Cloud Applications Engineer (SRE) | Cork
+Sr. Cloud Applications Engineer (SRE) | Cork
+
+OpenText
+
+Cork, County Cork, Ireland
+1 week ago
+Lead Site Reliability Engineer | Cork
+Lead Site Reliability Engineer | Cork
+
+OpenText
+
+Cork, County Cork, Ireland
+2 weeks ago
+Lead Site Reliability Engineer
+Lead Site Reliability Engineer
+
+OpenText
+
+Cork, County Cork, Ireland
+5 days ago
+Lead Site Reliability Engineer
+Lead Site Reliability Engineer
+
+OpenText
+
+Cork, County Cork, Ireland
+3 weeks ago
+Senior Cloud Applications Engineer - Monitoring & Observability
+Senior Cloud Applications Engineer - Monitoring & Observability
+
+OpenText
+
+Cork, County Cork, Ireland
+1 week ago
+DevOps Engineer, Radar Engineering
+DevOps Engineer, Radar Engineering
+
+Apple
+
+Cork, County Cork, Ireland
+3 weeks ago
+Lead Cloud Systems Engineer | Cork
+Lead Cloud Systems Engineer | Cork
+
+OpenText
+
+Cork, County Cork, Ireland
+4 days ago
+Cloud Applications Engineer - Monitoring & Observability
+Cloud Applications Engineer - Monitoring & Observability
+
+OpenText
+
+Cork, County Cork, Ireland
+2 weeks ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at McKesson
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

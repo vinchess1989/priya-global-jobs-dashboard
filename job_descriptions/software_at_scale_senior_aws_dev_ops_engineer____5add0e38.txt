@@ -1,0 +1,101 @@
+Title: Senior AWS DEV OPS Engineer - Contract
+Company: Software at Scale
+Location: Sydney, NSW, Australia
+URL: https://au.jora.com/job/Senior-AWS-DEV-d05fcc90fd9b16d4bc413b763a860e1a
+Posted: 17h ago
+Deadline: Open until filled
+Reason: The role is a strong match for her DevOps and CI/CD expertise, is located in Australia (a target country), and does not trigger any hard rejections.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Search
+Sign in
+What
+Where
+Search jobs
+Senior AWS DEV OPS Engineer - Contract
+Software at Scale
+–
+Sydney CBD NSW
+Contract, Casual/Temporary
+17h ago, from seek.com.au
+Apply on company site
+
+Our black belt specialists are leaders in their domains, serving as digital champions, delivery focused experts, top tier security professionals, AI thought leaders, and engineering best practice advocates.
+
+As 1 of Australias fastest growing software businesses, Software at Scale delivers cutting edge technology solutions that power mission critical platforms. We solve complex engineering challenges at scale, driving quality, performance, and resilience through the strength of our people.
+
+Empower Your DevOps Career
+
+
+We are currently building a dedicated, elite AWS DevOps squad to solve some very interesting and highly complex enterprise engineering problems. This is your opportunity to be a foundational part of that team, take extreme technical ownership, and truly empower your DevOps career as a trusted technical partner rather than a transactional ticket taker.
+
+The Role and The Challenge
+
+
+We are seeking an exceptional, highly energetic, and proactive Senior AWS DevOps Engineer who acts as an elite technical partner. You will inject momentum into complex enterprise environments, eliminate operational inertia from day 1, and lead the technical delivery of resilient AWS infrastructure.
+
+Make no mistake: this is a very hands-on role. We are not looking for a passive ticket-taker or a pure slide-deck architect. We want an execution-focused practitioner who can walk into a tangled, legacy AWS setup, untangle the chaos, and write the code required to fix it. Your ultimate goal is to transition the platform to a state of 1-click automated environments and frictionless, zero-downtime deployments.
+
+Access to AI Tooling: We believe in removing friction so you can focus on solving hard problems. You will have full access to enterprise AI tooling, including Claude Code, to assist you in accelerating infrastructure automation, pipeline refactoring, and code generation.
+
+Key Responsibilities
+
+Thought Leadership and Squad Uplift: Act as an energetic domain leader, energising engineering squads, providing constructive architectural guidance with empathy, and raising cloud engineering standards from day 1.
+Hands-on AWS Remediation and Architecture: Take extreme hands-on ownership of existing, complex AWS environments, planning and directly executing remediation strategies to untangle legacy configurations and build highly resilient infrastructure.
+Optimal CI/CD and Deployments: Architect and build elite CI/CD pipelines using GitHub Actions or TeamCity to drastically streamline releases, implementing 1-click builds and automated blue-green or canary deployment strategies.
+AI-Driven Pipelines and Shift Left: Build dedicated AI components into our CI/CD workflows to aggressively shift left, integrating agentic tooling and platforms to automate infrastructure policy checks, vulnerability scanning, and security validations.
+Infrastructure at Scale: Design and manage advanced AWS networking and compute environments, configuring DMZs, managing complex ECS clusters, and ensuring applications scale dynamically based on real-time load.
+Infrastructure as Code & Security: Drive platform stability by maintaining automated IaC using Terraform or AWS CloudFormation while securing the perimeter via VPCs, routing, and strict least-privilege security group policies.
+What You Bring (Attitude and Mindset)
+
+Consultant Identity: You present as a trusted technical partner who takes complete ownership of business outcomes, eliminates team friction, and drives solutions rather than waiting for top down direction.
+High Energy Thought Leader: You bring infectious enthusiasm, strategic vision, and hands on technical leadership to the team, acting as a true champion of cloud best practices.
+Proactive Problem Solver: You do not wait to be handed answers. When faced with broad or open ended problems, you pause, clarify boundaries and constraints, and collaborate to map out execution paths.
+Master of Constraints: You respect legacy design decisions and regulatory limitations while pragmatically navigating constraints to keep project momentum high.
+What You Bring (Technically)
+
+Hands-on Execution Mastery: You are a practitioner who loves to get into the console and codebase, with a proven history of hunting down answers and directly implementing solutions to fix messy infrastructure.
+AWS Mastery: Deep commercial experience architecting and rebuilding enterprise AWS environments, with advanced expertise in VPCs, DMZs, ECS, auto-scaling, and modern AWS services.
+Advanced CI/CD and AI Tooling: Mandatory, extensive experience building frictionless CI/CD pipelines to achieve 1-click environment provisioning, combined with a strong understanding of how to use AI tools like Claude Code to automate operations.
+IaC Fluency: Strong commercial track record writing clean, maintainable Infrastructure as Code using Terraform or AWS CloudFormation.
+Production Operations & Testing: Deep commitment to infrastructure observability, structured logging, correlation IDs, and robust testing disciplines across deployment lifecycles.
+What We Offer
+
+The unique opportunity to be a foundational member of a brand-new, elite AWS DevOps squad solving complex scaling challenges.
+Access to the latest AI tooling to assist you in achieving your technical goals.
+Meaningful and hands-on infrastructure work across enterprise-grade platforms.
+Clear growth pathways from Senior to Staff and beyond.
+A low-ceremony, delivery-focused environment that values engineers who own outcomes.
+Competitive remuneration and benefits.
+Apply on company site
+Be careful - Don’t provide your bank or credit card details when applying for jobs. Don't transfer any money or complete suspicious online surveys. If you see something suspicious, report this job ad.
+Email to yourself or a friend
+Email job
+Discover Jora
+Browse jobs
+Browse salaries
+Find recruiter
+About
+FAQ
+Blog
+Reviews
+Browse Jobs in Australia
+Jobs in Sydney
+Jobs in Melbourne
+Jobs in Hobart
+Jobs in Brisbane
+Jobs in Perth
+Jobs in Darwin
+Jobs in Adelaide
+Connect with us
+TikTok
+Facebook
+Linkedin
+Get Jora app
+Contact us
+Privacy
+Terms & Conditions
+©2026 Job Seeker Pty Ltd

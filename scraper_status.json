@@ -1,9 +1,9 @@
 {
   "pid": 50860,
   "started_at": "2026-11-19T01:14:06+02:00",
-  "heartbeat_at": "2026-11-19T01:26:50+02:00",
+  "heartbeat_at": "2026-11-19T01:28:48+02:00",
   "phase": "reviewing",
-  "detail": "Site Reliability Engineer",
-  "last_scrape_ok_at": "2026-11-19T01:25:44+02:00",
+  "detail": "Senior Software Eng Program Manager",
+  "last_scrape_ok_at": "2026-11-19T01:27:44+02:00",
   "last_error": null
 }
