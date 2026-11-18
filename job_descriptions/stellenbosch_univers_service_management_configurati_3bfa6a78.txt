@@ -1,0 +1,288 @@
+Title: Service Management Configuration Specialist
+Company: Stellenbosch University
+Location: Stellenbosch, Western Cape, South Africa
+URL: https://za.linkedin.com/jobs/view/service-management-configuration-specialist-at-stellenbosch-university-4492074664
+Posted: 2026-11-19
+Deadline: 2026-11-25
+Reason: The role aligns perfectly with the candidate's extensive experience in configuration management, Jira/Atlassian administration, and technical documentation, and it is located in a target country (South Africa).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Join now
+Sign in
+Service Management Configuration Specialist
+Stellenbosch University  Stellenbosch, Western Cape, South Africa
+5 hours ago   Be among the first 25 applicants
+  
+
+See who Stellenbosch University has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Department Description/Departement Beskrywing
+
+Information Technology
+
+Service Management Configuration Specialist (Post Level 8)
+
+(Stellenbosch Campus)
+
+Ref. IT/333/0826
+
+The IT Shared Services, Governance and Risk Management is part of the IT Division at Stellenbosch University's (SU) Shared Services. The unit provides standardised, reliable, and scalable support functions that underpin core activities at SU. These services are designed to promote consistency, operational efficiency, and service quality across SU through centralised oversight and optimisation. IT governance is established by policies, standards, and decision-making structures that guide the responsible use of technology. This includes oversight of software licensing to ensure compliance, cost control, and value realisation across the software lifecycle. Licensing activities are managed to balance legal obligations, vendor agreements, and user requirements, while enabling strategic planning for future capability needs. Risk management is embedded across all functions of the IT Division, with a focus on identifying, assessing, and mitigating technology-related risks that could impact service continuity, information security, regulatory compliance, or institutional reputation. Through structured risk processes and alignment with recognised governance and risk frameworks, this portfolio informs decision-making at both operational and strategic levels. Software licensing, awareness and training build organisational capability through targeted training and awareness initiatives. These initiatives ensure that SU stakeholders are equipped to use institutional systems effectively, comply with governance requirements, and adapt to evolving digital and regulatory environments. Training is positioned not only as a support function, but as a strategic enabler of sustainable digital transformation.
+
+The IT Shared Services, Governance and Risk Management, as part of the IT Division, is seeking a skilled Front-End Atlassian Administrator to manage and optimise our Jira Software, Jira Service Management, Confluence, Bamboo, and Bitbucket environments. This role focuses on configuring user-friendly interfaces, streamlining workflows, and enhancing the overall user experience across the Atlassian platform as an anchor for the Service Management Practice. The role will also contribute to IT Service Management (ITSM) research and development, technical risk management, and security initiatives to ensure our platforms remain robust, secure, and aligned with industry best practices.
+
+
+Duties/Pligte
+Configuring and maintaining Jira software projects, including boards, workflows, fields, screens, and issue types.
+Setting up and managing Jira Service Management projects, including customer portals, request types, SLAs, queues, and automation rules.
+Administering and optimising Jira Asset Management (Insight) for asset tracking, CMDB configuration, and integration with Jira Service Management workflows.
+Designing and managing advanced reporting and visualisation using Dashboard Hub Pro for Jira and Dashboard Hub for Confluence to deliver executive-level dashboards and cross-project analytics.
+Designing and building custom dashboards and filters using JQL to support team-specific reporting needs.
+Administering and optimising Confluence spaces, templates, macros, and permissions for knowledge management.
+Supporting user onboarding, group and permission management, and front-end interface customisation.
+Troubleshooting user issues, providing day-to-day support, and communicating system changes or updates.
+Collaborating with stakeholders to understand requirements and translating them into efficient Jira/Confluence configurations.
+Maintaining and enhancing the front-end user experience for internal users and customers across all Atlassian platforms.
+Job Requirements/Pos Vereistes
+NQF Level 7 in an IT or IT related field with three years' experience in IT service management, OR NQF Level 6 in an IT or IT related field with five years' experience in IT service management.
+ITIL certification.
+Proven experience with administering Jira software, Jira Service Management, and Confluence (Cloud or Server/DC).
+Hands-on experience with Jira Asset Management (Insight) for asset and configuration management.
+Experience with Dashboard Hub Pro for Jira and Dashboard Hub for Confluence for creating advanced dashboards and reports.
+Strong understanding of JQL (Jira Query Language) for building filters, dashboards, and reports.
+Experience with configuring Jira workflows, custom fields, screens, permissions, and automation rules.
+Familiarity with Jira Service Management SLAs, request types, queues, and portal customisation.
+Experience in managing Confluence spaces, page templates, and user permissions.
+Working knowledge of Atlassian Marketplace apps (e.g., ScriptRunner, Refined, Insight, eazyBI).
+Handling user and group management for projects and spaces.
+Recommendation/Aanbeveling
+Basic knowledge of HTML, CSS, and JavaScript for light UI enhancements or scripting (via ScriptRunner, etc.).
+Strong analytical, communication, and troubleshooting skills.
+Experience with integrating Confluence as a knowledge base for JSM.
+Familiarity with Agile/Scrum or ITIL methodologies.
+The ability to write end-user documentation and conduct training sessions.
+Atlassian certifications.
+Power BI experience.
+How To Apply/Hoe Om Aansoek Te Doen
+
+
+
+#PSS
+
+The University is committed to employment equity (EE), and appointments will be made in line with the institutional EE Plan.
+
+Stellenbosch University reserves the right not to make an appointment.
+
+Your application, comprising a comprehensive curriculum vitae (including the names and email addresses of at least three references), must reach the University before or on the closing date in the advertisement.
+
+Apply online at https://www.su.ac.za/en/careers-su by clicking "Apply now" at the top to the right of the page for the specific vacancy.
+
+The University reserves the right to investigate qualifications and conduct background checks on all candidates.
+
+The Occupational Health and Safety Act requires people in occupations that entail potential exposure to certain hazards (such as noise, hazardous chemical substances and hazardous biological agents) to undergo medical screening to determine whether they be fit to work in those occupations.
+
+If you have received no feedback from the University after four to six weeks of the closing date, kindly accept that your application was unsuccessful.
+
+
+Enquiries/Navrae Enquiries about this post: Mr Courtney Meder on 021 808 4143, or atcmeder@sun.ac.za
+
+
+
+Enquiries about remuneration/benefits and technical assistance with the electronic application process: Human Resources Client Services Centre, on 021 808 2753 (Stellenbosch) or 021 938 9636 (Tygerberg), or at sun-e-hr@sun.ac.za
+
+
+CurrencyZAR Commencement Date01-Jan-2027 Closing Date25-Nov-2026 Amount of Travel Work At Home
+
+
+
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Industries
+Education Administration Programs
+  
+
+Referrals increase your chances of interviewing at Stellenbosch University by 2x
+
+See who you know
+
+Get notified about new Service Management Specialist jobs in Stellenbosch, Western Cape, South Africa.
+
+Sign in to create job alert
+Jobs
+Problem Manager jobs
+Service Management Configuration Specialist
+Similar jobs
+Incident Manager
+Incident Manager
+Ultima
+City of Cape Town, Western Cape, South Africa
+2 weeks ago
+Service Delivery Manager
+Service Delivery Manager
+Apex Group Ltd
+Cape Town, Western Cape, South Africa
+1 year ago
+Service Delivery Manager
+Service Delivery Manager
+Advania UK
+Cape Town, Western Cape, South Africa
+6 hours ago
+Technical Operations Support Specialist
+Technical Operations Support Specialist
+Capitec
+Stellenbosch, Western Cape, South Africa
+1 week ago
+Team Lead, Managed Services
+Team Lead, Managed Services
+NTT DATA, Inc.
+Cape Town, Western Cape, South Africa
+2 weeks ago
+Service Assessor
+Service Assessor
+MVIA
+Southern Suburbs, Western Cape, South Africa
+2 months ago
+Show more jobs like this 
+People also viewed
+Cross Technology Managed Services Engineer (L3)
+Cross Technology Managed Services Engineer (L3)
+
+NTT DATA, Inc.
+
+Cape Town, Western Cape, South Africa
+2 weeks ago
+IT Administrator - Cape Town
+IT Administrator - Cape Town
+
+IP House
+
+Cape Town, Western Cape, South Africa
+1 month ago
+Technology Governance Specialist
+Technology Governance Specialist
+
+Optimal Growth Technologies
+
+Cape Town, Western Cape, South Africa
+4 months ago
+Technical Account Manager
+Technical Account Manager
+
+WNS
+
+Cape Town, Western Cape, South Africa
+4 months ago
+Internal Service Consultant MMH261117-2
+Internal Service Consultant MMH261117-2
+
+Momentum
+
+Bellville, Western Cape, South Africa
+1 day ago
+Workplace Services Support Analyst
+Workplace Services Support Analyst
+
+The IRONMAN Group
+
+Cape Town, Western Cape, South Africa
+1 week ago
+Document Controller
+Document Controller
+
+Turner & Townsend
+
+Cape Town, Western Cape, South Africa
+3 weeks ago
+Vendor Operations Manager
+Vendor Operations Manager
+
+MCI
+
+Cape Town, Western Cape, South Africa
+5 months ago
+Service Delivery Manager
+Service Delivery Manager
+
+Sigma Connected Group
+
+Paarl, Western Cape, South Africa
+2 weeks ago
+Project Coordinator (PMO)
+Project Coordinator (PMO)
+
+OryxAlign
+
+Bellville, Western Cape, South Africa
+3 weeks ago
+Similar Searches
+Problem Manager jobs
+230 open jobs
+Service Delivery Analyst jobs
+233 open jobs
+Incident Manager jobs
+55 open jobs
+Client Portfolio Manager jobs
+95 open jobs
+Capacity Manager jobs
+651 open jobs
+Service Architect jobs
+154 open jobs
+Senior Service Delivery Manager jobs
+104 open jobs
+Change Manager jobs
+933 open jobs
+Test Coordinator jobs
+87 open jobs
+Health Services Manager jobs
+115 open jobs
+Contract Management Specialist jobs
+198 open jobs
+Incident Management Specialist jobs
+221 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Stellenbosch University
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
