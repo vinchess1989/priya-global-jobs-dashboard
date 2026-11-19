@@ -1,9 +1,9 @@
 {
   "pid": 49068,
   "started_at": "2026-11-20T01:13:34+02:00",
-  "heartbeat_at": "2026-11-20T01:53:02+02:00",
+  "heartbeat_at": "2026-11-20T01:56:40+02:00",
   "phase": "reviewing",
-  "detail": "Manufacturing Training Engineer",
-  "last_scrape_ok_at": "2026-11-20T01:51:54+02:00",
+  "detail": "Manager Quality & Safety",
+  "last_scrape_ok_at": "2026-11-20T01:54:59+02:00",
   "last_error": null
 }
