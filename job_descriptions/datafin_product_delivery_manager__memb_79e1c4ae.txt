@@ -1,0 +1,339 @@
+Title: Product Delivery Manager (Member App) (CPT Onsite)
+Company: Datafin
+Location: Cape Town, South Africa
+URL: https://www.careerjunction.co.za/product-delivery-manager-member-app-cpt-onsite-job-2647400.aspx
+Posted: 2026-11-18
+Deadline: 2026-12-15
+Reason: The role aligns perfectly with the candidate's extensive experience in release management, CI/CD, governance, and technical documentation, and is located in South Africa, which is a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Your privacy
+
+This site uses cookies and similar technologies to collect and process personal data that recollects your activities and preferences. Some of the personal data, stored on your device, is processed by trusted service providers. We do this to personalise our site, services and the adverts you are shown on and off our website. Click 'I accept' to consent to the use of these technologies or 'Settings' if you wish to manage your settings. You can always change the setting by going to the Cookie Policy page. Necessary cookies enable core functionality such as security, network management, and accessibility. You may disable these by changing your browser settings, but this may affect how the website functions.
+
+SETTINGS
+I ACCEPT
+SIGN IN / SIGN UP
+×
+ 
+Location
+Location
+Work From Home
+Gauteng
+    Johannesburg South
+    Johannesburg Region
+    Pretoria Region
+    East Rand
+    West Rand
+    Vaal
+Western Cape
+    Cape Town Region
+    Winelands
+    West Coast
+    Garden Route
+    Overberg
+    Karoo
+KwaZulu-Natal
+    Durban Region
+    North Coast
+    Midlands & Interior
+    South Coast
+Eastern Cape
+Free State
+Mpumalanga
+Limpopo
+North West
+Northern Cape
+International
+ 
+In All Categories
+In All Categories
+Admin, Office & Support
+Agriculture, Fishing & Forestry
+Architecture & Engineering
+Building & Construction
+Business & Management
+Cleaning, Maintenance & Repair
+Community & Social Welfare
+Design, Media & Arts
+Education, Training & Library
+Finance
+Information Technology
+Legal
+Manufacturing & Assembly
+Marketing
+Medical & Health
+Mining
+Personal Appearance
+Restaurant & Hospitality
+Sales
+Science & Technology
+Security & Emergency Services
+Sport & Fitness
+Telecommunication
+Transportation
+Travel & Tourism
+Warehousing & Logistics
+Other
+SEARCH
+ 
+
+SHARE THIS JOB
+
+PRODUCT DELIVERY MANAGER (MEMBER APP) (CPT ONSITE)
+DATAFIN
+R Undisclosed
+Permanent Management position
+Cape Town
+Posted 18 Nov 2026 by Datafin
+Expires in 27 days
+Job 2647400 - Ref 2611311
+ SAVE APPLY NOW
+ABOUT THE POSITION
+
+ENVIRONMENT:
+
+OWN delivery governance and the day-to-day running of an app for a Luxury Brand House seeking its next Product Delivery Manager to serve as the go-to for monitoring its health, coordinating incidents with the partner, preparing for business events, and reporting on performance, service, and compliance. The ideal candidate must have Grade 12/Matric, Degree in IT/Computer Science, Information Systems, Engineering, Business, or a related field with an Agile Delivery Certification (Professional Scrum Master, Certified ScrumMaster, or Kanban Management). You will also require 10+ years’ experience in digital product and software delivery, of which at least 5 years delivering consumer-facing mobile and web apps in a competitive market including a strong UX / UI track record & proficiency with Azure DevOps, GitHub, Figma, and product analytics and observability dashboards.
+
+DUTIES:
+
+Daily Member App Operations (Operational) –
+
+
+
+Own the day-to-day running of the Member App: monitor availability, login, registration, and transaction success, push notification and in-app communication delivery, and the integration with Odoo, using the partner’s dashboards and observability tooling.
+Act as the go-to internal person for the Member App: the link between Member Enablement, Tech, and the Product Development partner.
+Own functional configuration and administration of the Member App (for example communication settings, admin tools, and feature flags agreed with the partner), with every change through Tech change control.
+Agree daily operational priorities with the Member Enablement Manager and act on deviations with the partner.
+Manage user roles and access to Member App admin tools in line with the access management standard.
+
+Support, Incident and Problem Management (Operational) -
+
+
+Act as L2 for Member App incidents logged by the IT Service Desk or raised by Member Enablement: triage, confirm severity (P1 to P4), apply known workarounds, and escalate to the partner’s application support with complete evidence.
+Coordinate P1 and P2 incidents with the partner and the IT Service Manager: impact assessment, communication to Member Enablement and Tech, and recovery, including after hours.
+Hold the partner to its production support service levels and track root cause analysis for every P1 and P2 incident and its preventive actions to closure.
+Identify recurring Member-facing issues from ticket data and Member Enablement feedback and drive permanent fixes through the backlog.
+Escalate suspected security incidents and information breaches to the Security and Compliance Manager without delay.
+
+Business Event and Communication Readiness (Operational) -
+
+
+Plan Member App readiness around the business calendar (month end, promotions, events, and campaigns) with the Member Enablement Manager, including release freezes and peak load readiness with the partner and the Platform Engineer.
+Confirm that planned Member communications can be delivered by the app as scheduled, and that fallback channels are available where required.
+Maintain the downtime and recovery plan for the Member App with Member Enablement and the partner and rehearse it before major business events.
+
+Performance, Service and Compliance Reporting (Operational) –
+
+
+Report on Member App performance and service: availability, incidents and trends, partner SLA performance, adoption and usage, and communication delivery.
+Report on compliance with Tech governance (delivery framework, change control, and access reviews) and partner contractual obligations.
+Prepare and run the monthly service review with the Product Owner and the partner’s Product Delivery Lead.
+Report weekly to the Member Enablement Manager and monthly to the Applications Manager.
+
+Member App Roadmap Delivery (Tech) –
+
+
+Deliver the evolution of the Member App with the product development partner, phase by phase, in line with the approved roadmap.
+Plan and track each phase against the agreed scope, milestones, and target dates, and manage dependencies on Odoo, AWS, app store accounts, and other teams.
+Coordinate parallel runs and cutovers with the business, including decommissioning of replaced systems and screens.
+Ensure the partner’s UX / UI designs, prototypes, and releases are reviewed for usability, accessibility, and design standards before build and before release.
+Track adoption, usage, and app store ratings after each release, and feed the findings into backlog refinement.
+
+Delivery Governance and Framework Compliance (Tech) –
+
+
+Own and manage the delivery framework and PMO gates for the Member App: governance, gate reviews, and compliance with Software Development Delivery Framework.
+Own intake and triage: ensure every request is logged through the Service Desk, and allocate it to the Sprint or Kanban stream, rebalancing capacity in response to demand.
+Agree delivery sequencing, dependencies, and capacity with the partner’s Product Delivery Lead, within the priorities set by the Product Owner.
+Take part in backlog refinement, CAB, steering committee, and the quarterly roadmap and partnership review, and report project progress, risks, and issues to the Product Owner and steering committee.
+Act as level 1 escalation point with the partner’s Product Delivery Lead for delivery matters.
+
+Release, UAT and Operational Readiness (Tech) –
+
+
+Own release planning against the business calendar, and the deployment readiness decision: confirm the Definition of Ready to Deploy, operational readiness, and CAB approval before every release.
+Plan and coordinate UAT with the Business Systems Analyst and Business Testers and run the Go / No-Go gate with the Product Owner.
+Manage the transition of each release into operations: support handover to the IT Service Desk, communication of release notes, and closure of hyper care.
+Approve ad hoc releases for urgent business needs or critical fixes, together with CAB.
+
+Partner Performance and Budget Management (Tech) –
+
+
+Manage the partner’s performance against the delivery framework metrics and service levels, and agree corrective actions where targets are missed.
+Track DORA metrics (deployment frequency, lead time for changes, change failure rate, and time to restore service) with the partner, and drive continuous improvement of the delivery pipeline and SDLC practices.
+Manage the project budget: track actual spend and commitments against the approved budget, review the partner’s fortnightly budget burn and forecast, and report to the Product Owner.
+Ensure no work starts without an approved quote and purchase order, or an approved retainer budget for Kanban work and production support, and monitor retainer utilisation.
+Verify the business retains administrative access to repositories, pipelines, cloud accounts, app store accounts, and third-party services.
+
+Documentation, Training and Knowledge (Tech) –
+
+
+Maintain operational documentation for the Member App: support model, escalation paths, runbooks, admin procedures, and release history.
+Ensure the IT Service Desk has the knowledge articles and triage guides it needs before each release goes live.
+Train Member Enablement users on admin tools and new features and keep user guides current after every release.
+
+REQUIREMENTS:
+
+Qualifications –
+
+
+National Senior Certificate (Grade 12/Matric).
+Degree in Information Technology, Computer Science, Information Systems, Engineering, Business, or a related field.
+Agile Delivery Certification (Professional Scrum Master, Certified ScrumMaster, or Kanban Management).
+
+Experience/Skills –
+
+
+10+ Years’ experience in digital product and software delivery, of which at least 5 years delivering consumer-facing mobile and web apps in a competitive market.
+Has delivered consumer apps across the full lifecycle, from discovery and design through build, release, and continuous improvement.
+Has worked closely with Development teams, in-house and outsourced, on native mobile and web apps, and is technically fluent enough to challenge estimates, architecture trade-offs, and quality.
+Strong UX / UI track record: user research and usability testing, working with Designers on journeys, prototypes, and design systems, and a sharp eye for design quality.
+Deep, hands-on experience in Software Development Lifecycle management, Agile, and DevOps: has led delivery with CI/CD and test automation, and has measured and improved delivery performance using DORA metrics.
+Proven execution record: releases shipped on committed dates through Agile delivery (Scrum and Kanban) within formal governance (PMO gates, CAB, and ITSM).
+Experience using product analytics and app store ratings and reviews to measure the impact of releases.
+Experience managing external development partners, including service levels and budgets across project, time and materials, and retainer commercial models.
+Experience running production support and incident coordination for a live consumer product.
+
+Knowledge –
+
+Product Delivery: Discovery, prioritisation, roadmap planning and sequencing, and outcome metrics, applied to delivering a phased roadmap.
+
+UX / UI Design: User-centred design, research and usability testing methods, usability heuristics, accessibility (WCAG), Apple Human Interface Guidelines and Material Design, design systems, and prototyping tools such as Figma.
+
+Product Analytics: Funnels, cohort and retention analysis, event tracking, and experimentation.
+
+Consumer App Ecosystem: App store guidelines and review, ratings and reviews, push notification best practice, device fragmentation, low-end devices, and poor connectivity.
+
+Technical Fluency: Native and cross-platform mobile, web, APIs and integration with Odoo as the system of record, cloud, CI/CD, and observability (New Relic preferred), enough to challenge the partner rather than to build.
+
+Software Development Lifecycle, Agile, and DevOps: Expert understanding of the SDLC end to end; Scrum and Kanban in depth, with awareness of scaled Agile; DevOps practices (CI/CD, trunk-based development, test automation, and shift-left quality and security); and the DORA metrics (deployment frequency, lead time for changes, change failure rate, and time to restore service).
+
+Delivery and Release Management: Hybrid Sprint and Kanban delivery, stage gates and Definitions of Ready, Done, and Ready to Deploy, phased rollouts, feature flags, minimum-supported versions, and rollback.
+
+IT Service Management: Incident, problem, and change management, CAB, severity classification (P1 to P4), and SLA management (ITIL v4).
+
+Partner and Contract Management: Service levels, delivery metrics, warranties, quotes and purchase orders, budget tracking, and forecasting.
+
+Data Protection: POPIA obligations for Member data and communication consent, and when to escalate security incidents and information breaches.
+
+Tooling: Azure DevOps, GitHub, Figma, and product analytics and observability dashboards.<
+
+APPLY NOW
+DATAFIN
+
+VIEW AGENCY PROFILE
+
+SEE ALL DATAFIN JOBS
+
+ABOUT THE AGENCY
+
+Datafin Recruitment was established in 1999 and is one of South Africa’s leading Recruitment companies. Owned and managed by two sisters Lindy and Bev Sollinger, we focus on connecting with both our clients and candidates in an authentic conscious meaningful manner. We focus on the Tech, Digital/Online, Data, Finance and HR industries.
+
+Receive a daily digest of all new jobs matching this job. Your information is safe with us and you can cancel any time.
+
+EMAIL ME JOBS LIKE THIS
+ 
+
+SHARE THIS JOB
+
+RECOMMENDED JOBS FOR YOU
+Product Delivery Manager At Sabenza IT & Recruitment
+
+DCV Sabenza IT and Recruitment
+
+Permanent Management position
+
+Cape Town
+
+Expires in 21 days
+
+Area Manager (Retail) - Western Cape At Sabenza IT & Recruitment
+
+DCV Sabenza IT and Recruitment
+
+Permanent Senior position
+
+Cape Town
+
+Expires in 8 days
+
+Project Manager At Sabenza IT & Recruitment
+
+DCV Sabenza IT and Recruitment
+
+Contract Senior EE position
+
+Cape Town
+
+Expires in 17 days
+
+Project Manager - Cape Town
+
+Datafin
+
+Permanent Management position
+
+Cape Town
+
+Expires in 25 days
+
+Release Train Engineer - Merchant Delivery (CPT)
+
+Paracon
+
+Contract Senior position
+
+Cape Town
+
+Expires in 12 days
+
+Technical Account Manager (Data &Amp; Analytics, Asset Management Exp.) (Remote)
+
+Datafin
+
+Permanent Management position
+
+Cape Town
+
+Expires in 19 days
+
+Email me jobs similar to: PRODUCT DELIVERY MANAGER (MEMBER APP) (CPT ONSITE)
+JOB SEEKERS
+SITE
+Home / Search Jobs
+My Jobs
+My Alerts
+My Profile & CV
+ASSISTANCE
+FAQ & Support
+ACCOUNT
+Sign In | Sign Up
+AGENCIES & EMPLOYERS
+SITE
+Home / Find Talent
+Recruit Assist
+ASSISTANCE
+FAQ & Support
+ACCOUNT
+Sign Up | Sign In
+Sales Enquiry
+CAREERJUNCTION
+INFO
+About Us / Contact Us
+Work for Us
+Sister Sites
+Our Partners
+CareerJunction Blog
+How It Works
+
+© 2026 Copyright: www.careerjunction.co.za
+
+ 
+
+PAIA,Privacy, Cookies & Terms
+
+    
