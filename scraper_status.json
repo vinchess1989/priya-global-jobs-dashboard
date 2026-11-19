@@ -1,9 +1,9 @@
 {
   "pid": 50860,
   "started_at": "2026-11-19T01:14:06+02:00",
-  "heartbeat_at": "2026-11-19T02:25:03+02:00",
+  "heartbeat_at": "2026-11-19T02:28:12+02:00",
   "phase": "reviewing",
-  "detail": "Apply on company site",
-  "last_scrape_ok_at": "2026-11-19T02:23:57+02:00",
+  "detail": "Member Team Enablement Manager",
+  "last_scrape_ok_at": "2026-11-19T02:26:24+02:00",
   "last_error": null
 }
