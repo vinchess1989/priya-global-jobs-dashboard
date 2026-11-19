@@ -29102,5 +29102,22 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": "job_descriptions/royal_mail_delivery_owner_1f0b868c.txt",
     "deletion_reason": "Deadline (2026-11-17) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Senior Solution Specialist | M365",
+    "company": "Datacom",
+    "location": "Wellington, Wellington, New Zealand",
+    "url": "https://nz.linkedin.com/jobs/view/senior-solution-specialist-m365-at-datacom-4492234309",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job explicitly requires New Zealand Citizenship or Permanent Residency and states that no visa sponsorship is available, which violates the candidate's requirement for sponsorship.",
+    "id": "e3422848",
+    "source": "linkedin_nz_configuration_manager",
+    "added_at": "2026-11-19T02:05:07+02:00",
+    "posted_date": "2026-11-19",
+    "deadline": "Open until filled",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
