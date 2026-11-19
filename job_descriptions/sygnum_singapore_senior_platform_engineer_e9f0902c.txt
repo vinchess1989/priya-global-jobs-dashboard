@@ -1,0 +1,274 @@
+Title: Senior Platform Engineer
+Company: Sygnum Singapore
+Location: Singapore, Singapore
+URL: https://sg.linkedin.com/jobs/view/senior-platform-engineer-at-sygnum-singapore-4492010046
+Posted: 2026-11-19
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's DevOps/Platform engineering background and experience in regulated environments, and it is located in a target country (Singapore).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Platform Engineer
+Sygnum Singapore  Singapore, Singapore
+1 day ago  30 applicants
+  
+
+See who Sygnum Singapore has hired for this role
+
+Apply 
+Save
+
+About Sygnum
+
+Sygnum is a global digital asset banking group, founded on Swiss and Singaporean heritage. We empower professional and institutional investors, banks, corporates and distributed ledger technology (DLT) companies to invest in digital assets with complete trust. Our team enables this through our institutional-grade security, expert personal service and portfolio of regulated digital asset banking, asset management, tokenisation and B2B services.
+
+
+
+
+In Switzerland, Sygnum holds a banking licence and has CMS and Major Payment Institution Licences in Singapore. The group is also regulated in the established global financial hubs of Abu Dhabi and Luxembourg.
+
+
+
+
+We believe that future has heritage. Our crypto-native team of banking, investment and digital asset technology professionals are building a trusted gateway between the traditional and digital asset economies that we call Future Finance. To learn more about how Sygnum’s mission and values are shaping this digital asset ecosystem, please visit sygnum.com and follow us on LinkedIn and X.
+
+
+
+
+Our Values
+
+A key pillar of our success is the Sygnum values that define and unite us a team. We proudly call them our SYGN values:
+
+S stands for the importance we hold in Seeking and seizing opportunities, and the way we take personal ownership for delivering results for our clients;
+Y represents the way we say Yes to integrity and humility in everything we do. Sygnumers always display confidence without attitude;
+G reminds us to always Grow and win together. We only succeed by supporting each other and challenging ourselves, and our team-mates, to reach for new heights;
+N stands for Nose for value because we are always looking to focus on what matters most to our clients, partners and team.
+
+
+
+
+Sygnum has one of the most diverse teams in the industry. Diversity plays a central role in keeping our work culture open, our teams productive and energised, and our solutions at the forefront of the industry. In the spirit of our SYGN value to “grow and win together”, we fully embrace an equal opportunity mindset in the way we onboard, develop and promote our team members.
+
+
+
+
+About the role
+
+Sygnum’s Platform team builds and operates the cloud foundation that every product engineering team ship on: the AWS landing zone, our Kubernetes platform, and the shared services (API gateway, event streaming, secrets, observability, delivery) that turn raw cloud into a product-ready runway. We’re a small team with a large surface area, and we run a regulated fintech environment where every change is auditable.
+
+
+
+
+We’re hiring a Senior Platform Engineer to help evolve that platform — pushing the developer experience forward while keeping reliability, security, and cost under control. You’ll split your time roughly between building (new platform capabilities, module work, self-service tooling) and running (upgrades, on-call, incident response, hardening).
+
+
+
+
+What you’ll do
+
+Design and ship improvements to our AWS multi-account landing zone and shared networking / IAM baselines, all through Terraform and a PR-driven plan/apply workflow — no click-ops in production.
+Operate and evolve our managed Kubernetes platform: cluster lifecycle, workload identity, autoscaling, node image hardening, and GitOps-based delivery.
+Own or co-own shared platform services: API gateway, event streaming, service mesh, certificates, secrets management, and the metrics/traces/SLO stack.
+Improve the paved road for product teams — templates, modules, guardrails, and self-service — so the safe path is also the easy path.
+Participate in the platform on-call rotation, lead incident response when needed, and drive blameless postmortems that actually change how the system behaves.
+Contribute to our reliability posture: SLO tiers, backup and DR readiness, and security baselines (encryption, TLS, least-privilege IAM).
+Keep changes auditable and release-disciplined — we operate in a regulated environment, and infrastructure changes must remain traceable.
+
+
+
+
+Our ideal candidate
+
+Must-have:
+
+5+ years in Platform / SRE / DevOps roles with production ownership of cloud infrastructure at meaningful scale.
+Deep AWS hands-on experience: IAM, VPC and networking, and managed Kubernetes (EKS or equivalent).
+Terraform in production, with a PR/plan-review workflow (Atlantis, Terragrunt, or similar).
+Solid Kubernetes operational chops: troubleshooting real workloads, autoscaling, GitOps delivery.
+Comfortable on an on-call rotation and leading incident response under pressure.
+Clear written communication — runbooks, postmortems, and design notes that other teams can actually use.
+
+Nice-to-have:
+
+Regulated-industry experience (banking, fintech, healthcare) with audit and change-control constraints.
+Familiarity with any of: API gateways (Kong or similar), event streaming (Kafka/MSK), service mesh (Istio/Envoy).
+Exposure to a secondary cloud (Azure/GCP) or multi-cloud operations.
+Contributions to internal developer platforms, shared Terraform modules, or open-source infrastructure tooling.
+
+
+
+
+Our Offer
+
+Joining Sygnum means being part of a dynamic, global team that is building a trusted gateway between the traditional and digital asset economies. Working at Sygnum, you will experience our fast-paced, exciting work environment that embraces meritocracy, collaboration and open communication. Alongside our ambitious long-term vision, we also come together for reaching important milestones and annual crypto-industry anniversaries like Bitcoin Pizza Day and regularly celebrate our joint achievements at company events as part of our journey to shape Future Finance.
+
+
+
+
+Sygnum offers a comprehensive package of benefits for all team members. They include:
+
+Attractive combination of market salaries and entrepreneurial incentive scheme
+Flexible / Work from home policies
+Professional development via Mentoring and Buddy programmes as well as targeted training opportunities
+One-month fully paid sabbatical after five years of continuous employment
+
+
+
+
+If you are passionate about the potential of blockchain to shape Future Finance and your profile is a good fit for this position, please send us your CV today!
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Financial Services and Banking
+  
+
+Referrals increase your chances of interviewing at Sygnum Singapore by 2x
+
+See who you know
+
+Get notified about new Platform Engineer jobs in Singapore, Singapore.
+
+Sign in to create job alert
+Similar jobs
+Senior Platform Engineer
+Senior Platform Engineer
+Razer
+Singapore
+6 days ago
+Platform Engineer
+Platform Engineer
+Julius Baer
+Singapore, Singapore
+1 week ago
+Senior Platform Engineer (DevOps)
+Senior Platform Engineer (DevOps)
+FINN
+Singapore
+1 day ago
+Backend Infrastructure Engineer (Singapore)
+Backend Infrastructure Engineer (Singapore)
+Vinci
+Singapore, Singapore
+2 days ago
+Senior Platform Infrastructure Engineer, NEA
+Senior Platform Infrastructure Engineer, NEA
+GovTech Singapore
+Singapore, Singapore
+3 days ago
+Senior Platform Engineer, Cloud (Xora Portfolio Company)
+Senior Platform Engineer, Cloud (Xora Portfolio Company)
+Xora Innovation
+Singapore, Singapore
+1 month ago
+Show more jobs like this 
+People also viewed
+Site Reliability Engineer - senior(A137715)
+Site Reliability Engineer - senior(A137715)
+
+Xiaomi Technology
+
+Singapore, Singapore
+2 days ago
+Staff Platform Engineer
+Staff Platform Engineer
+
+Pave Bank
+
+Singapore, Singapore
+1 month ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+
+Venti
+
+Singapore, Singapore
+2 months ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+Goodnotes
+
+Singapore
+3 weeks ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+Canonical
+
+Singapore
+1 week ago
+Principal Platform Engineer
+Principal Platform Engineer
+
+Thoughtworks
+
+Singapore, Singapore
+16 hours ago
+AI Platform & DevOps Engineer
+AI Platform & DevOps Engineer
+
+Sembcorp Industries Ltd
+
+Singapore, Singapore
+1 week ago
+Staff/Senior Staff Engineer, Kubernetes
+Staff/Senior Staff Engineer, Kubernetes
+
+OKX
+
+Singapore, Singapore
+1 week ago
+Staff Site Reliability Engineer - Singapore/Taiwan
+Staff Site Reliability Engineer - Singapore/Taiwan
+
+Fortinet
+
+Singapore
+4 weeks ago
+Senior / Lead Platform Engineer | Kubernetes & Docker
+Senior / Lead Platform Engineer | Kubernetes & Docker
+
+Reolink
+
+Singapore
+12 hours ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Sygnum Singapore
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

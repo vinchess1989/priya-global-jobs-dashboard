@@ -1,9 +1,9 @@
 {
   "pid": 49068,
   "started_at": "2026-11-20T01:13:34+02:00",
-  "heartbeat_at": "2026-11-20T01:17:07+02:00",
+  "heartbeat_at": "2026-11-20T01:20:20+02:00",
   "phase": "reviewing",
-  "detail": "Salesforce Release Manager",
-  "last_scrape_ok_at": "2026-11-20T01:15:56+02:00",
+  "detail": "Head of Quality Assurance",
+  "last_scrape_ok_at": "2026-11-20T01:19:13+02:00",
   "last_error": null
 }

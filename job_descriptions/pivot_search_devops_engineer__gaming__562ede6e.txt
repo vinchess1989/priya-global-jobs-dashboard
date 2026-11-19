@@ -1,0 +1,243 @@
+Title: DevOps Engineer (Gaming)
+Company: Pivot Search
+Location: Singapore, Singapore
+URL: https://sg.linkedin.com/jobs/view/devops-engineer-gaming-at-pivot-search-4491353994
+Posted: 2026-11-20
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in CI/CD, release management, and automation, and it is located in a target country (Singapore) with no restrictive citizenship or clearance requirements mentioned.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer (Gaming)
+Pivot Search  Singapore, Singapore
+20 hours ago   Be among the first 25 applicants
+  
+
+See who Pivot Search has hired for this role
+
+Apply
+Save
+
+Client is a game developer and licensor with a portfolio that has evolved from mid-to-heavy online titles into casual and board games.
+
+
+
+
+We're looking for a skilled DevOps Engineer to join their team in Singapore. You will build and
+
+operate the infrastructure, automation and delivery systems that support our games, backend
+
+services, public websites, publishing and release operations, and internal platforms such as wikis and administrative tools. The role spans local CI with Jenkins, automated checks in GitLab CI, containerized and Kubernetes-based environments, and cloud deployments. You will work with engineering, QA, product, publishing and operations teams to make delivery secure, repeatable, observable and resilient. This is an on-site position based in Singapore.
+
+
+
+
+
+
+
+WHAT YOU'LL DO
+
+Own and continuously improve CI/CD, infrastructure and operational tooling across game builds, backend services, websites, publishing workflows and internal systems.
+Design, operate and maintain Jenkins pipelines, shared libraries, local or on-premises build agents, and reusable build, test, packaging and release workflows.
+Develop GitLab CI automation for linting, testing, code quality, security scanning, configuration validation and artifact generation.
+Automate multi-environment releases across review, hotfix, staging and production, including versioning, approval gates, release notifications, deployment verification and rollback.
+Operate containerized environments with Docker and Docker Compose, and maintain Kubernetes deployment patterns using Helm and GitOps practices.
+Manage cloud and platform infrastructure including compute, networking, DNS, ingress, TLS certificates, load balancers, container registries, storage, identity and secrets.
+Support shared services and data layers used by games and business systems, including gateways, web and admin tools, databases, caches and messaging platforms.
+Implement monitoring, logging, tracing, dashboards and alerting, and use operational data to improve capacity, performance, availability and cost efficiency.
+Strengthen security through least-privilege access, secrets rotation, patching, dependency and container-image scanning, infrastructure checks and auditable operational practices.
+Troubleshoot CI, deployment, infrastructure, networking and production incidents; lead rootcause analysis and implement durable corrective actions.
+Create automation, runbooks, architecture notes and handover documentation that reduce manual work and keep operational knowledge current and accessible.
+
+
+
+
+
+
+
+REQUIREMENTS
+
+Bachelor's degree in Computer Science, Software Engineering, Information Systems or a related field, or equivalent practical experience.
+3+ years of professional experience in DevOps, site reliability engineering, cloud engineering, platform engineering or a similar role.
+Strong hands-on experience with Jenkins pipelines, shared libraries, build agents and CI troubleshooting.
+Experience with GitLab CI/CD and automated quality, testing and security checks.
+Proven ability to design, write, test and maintain automation scripts and operational tooling using Python, Bash, PowerShell, Go or a comparable language.
+Production experience with at least one major cloud platform such as AWS, Microsoft Azure, Google Cloud or an equivalent provider.
+Experience with Docker, Docker Compose, Kubernetes and Helm in development or production environments.
+Strong Linux administration and troubleshooting skills, with a solid understanding of TCP/IP, DNS, HTTP, TLS, proxies and load balancing.
+Experience with infrastructure-as-code, configuration management or GitOps practices using tools such as Terraform, Ansible or equivalent.
+Good understanding of observability, cloud security, incident response, backup and recovery, and production-readiness practices.
+Strong problem-solving, documentation and English communication skills, with willingness to work on-site in Singapore.
+
+
+
+
+
+
+
+Good to Have
+
+Hands-on experience with Alibaba Cloud services, particularly container registries, managed Kubernetes or serverless application platforms, networking, storage, logging and monitoring.
+Experience supporting Unity build automation, cache servers, asset or bundle generation, and Windows or macOS game build agents.
+Experience with Argo CD, GitOps deployment models, reusable Helm charts, sealed secrets, and horizontal or vertical autoscaling.
+Familiarity with PostgreSQL, Redis, MongoDB, Kafka, NATS or similar data and messaging systems, including backup and recovery workflows.
+Experience operating public websites, internal wikis or content platforms, administrative tools, and authentication or access-management services.
+Experience supporting game publishing, mobile release, content-delivery or partner-facing deployment workflows.
+Experience designing highly available systems, autoscaling, disaster recovery, and cloud cost or capacity optimization.
+Passion for games or prior experience supporting production systems in the gaming industry.
+Show more 
+Seniority level
+Associate
+Employment type
+Full-time
+Industries
+Staffing and Recruiting
+  
+
+Referrals increase your chances of interviewing at Pivot Search by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Singapore, Singapore.
+
+Sign in to create job alert
+Similar jobs
+Site Reliability Engineer - Game
+Site Reliability Engineer - Game
+ByteDance
+Singapore, Singapore
+2 weeks ago
+Site Reliability/DevOps Engineer
+Site Reliability/DevOps Engineer
+First Fun
+Singapore, Singapore
+1 month ago
+DevOps Engineer
+DevOps Engineer
+stakefish
+Singapore
+$130,000 - $180,000
+1 month ago
+Cloud Site Reliability Engineer (SRE)
+Cloud Site Reliability Engineer (SRE)
+Singapore Pools
+Singapore, Singapore
+1 week ago
+DevOps Engineer
+DevOps Engineer
+BIT Official
+Singapore, Singapore
+1 day ago
+Site Reliability Engineer (Cloud) - Infrastructure Engineering
+Site Reliability Engineer (Cloud) - Infrastructure Engineering
+ByteDance
+Singapore, Singapore
+2 weeks ago
+Show more jobs like this 
+People also viewed
+DevOps Engineer
+DevOps Engineer
+
+AXS Pte Ltd
+
+Singapore, Singapore
+3 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Capgemini Engineering
+
+Singapore
+2 months ago
+DevOps Engineer
+DevOps Engineer
+
+Base Camp Digital
+
+Singapore River, Central Singapore Community Development Council, Singapore
+3 weeks ago
+Systems Engineer (DevOps)
+Systems Engineer (DevOps)
+
+EPAM Systems
+
+Singapore
+1 month ago
+DevOps Engineer - A27002
+DevOps Engineer - A27002
+
+Activate Interactive
+
+Singapore, Singapore
+2 weeks ago
+DevOps Engineer - P26004
+DevOps Engineer - P26004
+
+Activate Interactive
+
+Singapore, Singapore
+1 month ago
+Tencent Cloud-Senior Site Reliability Engineer (IaaS)
+Tencent Cloud-Senior Site Reliability Engineer (IaaS)
+
+Tencent
+
+Singapore, Singapore
+1 week ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+Momcozy
+
+Singapore, Singapore
+1 week ago
+App DevOps
+App DevOps
+
+StarHub
+
+Singapore, Singapore
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+AvePoint
+
+Singapore
+2 weeks ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Pivot Search
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
