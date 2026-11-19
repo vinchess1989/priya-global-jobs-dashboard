@@ -1,0 +1,339 @@
+Title: Test Lead
+Company: Tech Mahindra
+Location: Johannesburg Metropolitan Area
+URL: https://za.linkedin.com/jobs/view/test-lead-at-tech-mahindra-4491852465
+Posted: 2026-11-19
+Deadline: N/A
+Reason: The role aligns with the candidate's expertise in quality assurance, release readiness, and CI/CD pipeline integration, and it is located in a target country (South Africa).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Test Lead
+Tech Mahindra  Johannesburg Metropolitan Area
+1 day ago  98 applicants
+  
+
+See who Tech Mahindra has hired for this role
+
+Apply
+Save
+
+Role Overview
+
+Tech Mahindra is seeking a skilled Test Lead to manage end-to-end quality assurance activities across complex telecommunications and digital transformation programs. The successful candidate will define testing strategies, govern quality processes, lead automation initiatives, and provide objective release readiness assessments within Agile and DevOps environments.
+
+The role requires strong telecom domain knowledge and experience working with OSS/BSS applications, APIs, enterprise integrations, and customer-facing platforms.
+
+
+
+
+Key Responsibilities
+
+Test Strategy & Governance
+
+Define and manage project test strategies and test plans.
+Establish test governance frameworks, quality gates, and release criteria.
+Ensure alignment with Tech Mahindra quality standards and customer requirements.
+Drive risk-based testing approaches across projects.
+
+Testing Leadership
+
+Lead end-to-end testing activities including:
+Functional Testing
+Integration Testing
+API Testing
+Regression Testing
+User Acceptance Testing (UAT)
+Performance Testing Coordination
+Security Testing Coordination
+Manage testing teams, schedules, environments, and execution plans.
+
+Automation & DevOps
+
+Define and implement automation strategies.
+Integrate automated testing within CI/CD pipelines.
+Promote Shift-Left Testing practices.
+Support Agile, TDD, and BDD delivery methodologies.
+Collaborate with development and DevOps teams to improve quality throughout the software lifecycle.
+
+Quality Management
+
+Govern defect management processes.
+Ensure complete requirements-to-test traceability.
+Monitor test execution metrics and quality KPIs.
+Provide management with quality status reports and release recommendations.
+
+Telecommunications Testing
+
+Validate OSS/BSS workflows and integrations.
+Test order-to-activate journeys.
+Verify service provisioning and service assurance processes.
+Support testing of billing, CRM, activation, and enterprise service platforms.
+
+
+
+
+Required Experience
+
+Minimum 5 years of experience in Software Testing and Quality Engineering.
+Minimum 2 years leading testing activities or teams.
+Experience within telecommunications or large enterprise environments.
+Proven experience managing end-to-end testing across multiple systems and integrations.
+
+
+
+
+Required Skills & Knowledge
+
+Testing Competencies
+
+Test Strategy Development
+Test Planning & Estimation
+Test Automation Frameworks
+API Testing
+Integration Testing
+Regression Testing
+Continuous Testing
+Quality Metrics & Reporting
+Defect Lifecycle Management
+Release Readiness Assessments
+
+Automation & Tools
+
+Selenium
+Playwright
+Cypress
+Postman
+SoapUI
+JMeter
+Azure DevOps
+Jira
+Confluence
+Git
+Jenkins
+
+Delivery Methodologies
+
+Agile Scrum
+SAFe
+DevOps
+CI/CD
+TDD
+BDD
+
+Telecommunications Knowledge
+
+OSS/BSS Platforms
+TM Forum Standards
+eTOM
+Open APIs
+CRM Systems
+Billing Platforms
+Order Management Systems
+Service Provisioning & Activation Platforms
+
+Preferred Qualifications
+
+ISTQB Advanced Test Manager
+ISTQB Test Automation Engineer
+Certified Scrum Master (CSM)
+SAFe Agilist
+TM Forum Certifications
+
+Key Competencies
+
+Leadership & Team Management
+Stakeholder Management
+Analytical Thinking
+Risk Management
+Decision Making
+Communication & Presentation Skills
+Customer Focus
+Continuous Improvement Mindset
+
+
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Contract
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Tech Mahindra by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Senior Project Director jobs
+Test Lead
+Similar jobs
+Automation Test Engineer
+Automation Test Engineer
+Samaha Consulting
+Johannesburg Metropolitan Area
+1 day ago
+Quality Engineering Lead
+Quality Engineering Lead
+X, bigly labs
+Johannesburg, Gauteng, South Africa
+1 month ago
+Senior Test Analyst
+Senior Test Analyst
+Reverside
+Johannesburg, Gauteng, South Africa
+6 days ago
+Analyst Tester
+Analyst Tester
+FNZ
+Johannesburg, Gauteng, South Africa
+1 week ago
+Test Analyst (Senior)
+Test Analyst (Senior)
+Discovery Limited
+Sandton, Gauteng, South Africa
+6 days ago
+Automation Test Analyst
+Automation Test Analyst
+Zensar Technologies
+Sandton, Gauteng, South Africa
+1 week ago
+Show more jobs like this 
+People also viewed
+Senior Manager – Quality & Risk (Q&R) Audit Technical
+Senior Manager – Quality & Risk (Q&R) Audit Technical
+
+Deloitte
+
+Midrand, Gauteng, South Africa
+2 days ago
+Senior Technical Lead – Secure Access & Endpoint Platforms
+Senior Technical Lead – Secure Access & Endpoint Platforms
+
+Tata Consultancy Services
+
+City of Johannesburg, Gauteng, South Africa
+3 weeks ago
+General Manager Quality Assurance
+General Manager Quality Assurance
+
+Rich Products Corporation
+
+City of Johannesburg, Gauteng, South Africa
+2 weeks ago
+Principal Specialist: Power x 2
+Principal Specialist: Power x 2
+
+MAST
+
+Bryanston, Gauteng, South Africa
+1 week ago
+【QAS】試験・検証品質保証エンジニア〔大樹／帯広〕
+【QAS】試験・検証品質保証エンジニア〔大樹／帯広〕
+
+Interstellar Technologies
+
+Ivory Park, Gauteng, South Africa
+2 weeks ago
+Quality Engineer
+Quality Engineer
+
+Autoliv
+
+Krugersdorp, Gauteng, South Africa
+1 week ago
+Senior Application Security Specialist
+Senior Application Security Specialist
+
+Old Mutual Insure
+
+Johannesburg Metropolitan Area
+2 weeks ago
+Engineering Lead – Digitization & Automation (12-months contract)
+Engineering Lead – Digitization & Automation (12-months contract)
+
+DeARX
+
+Sandton, Gauteng, South Africa
+1 day ago
+QA Specialist QESH
+QA Specialist QESH
+
+The HEINEKEN Company
+
+Johannesburg, Gauteng, South Africa
+1 day ago
+Senior Functional Lead - Innovation & PLM
+Senior Functional Lead - Innovation & PLM
+
+Weir Minerals
+
+Johannesburg, Gauteng, South Africa
+6 days ago
+Similar Searches
+Senior Project Director jobs
+91 open jobs
+Software Test Lead jobs
+53 open jobs
+Senior Program Manager jobs
+132 open jobs
+Software Tester jobs
+99 open jobs
+Senior Director jobs
+869 open jobs
+Project Management Specialist jobs
+835 open jobs
+Program Manager jobs
+849 open jobs
+Delivery Manager jobs
+1,425 open jobs
+Quality Assurance Manager jobs
+217 open jobs
+Director jobs
+9,373 open jobs
+Project Manager jobs
+1,811 open jobs
+Quality Engineer jobs
+1,033 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Tech Mahindra
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
