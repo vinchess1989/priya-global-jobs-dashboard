@@ -29136,5 +29136,22 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": null,
     "deletion_reason": "Deadline (2025-10-05) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Design Assurance Lead (Software/SaMD)(we have office locations in Cambridge, Leeds and London)",
+    "company": "Genomics England",
+    "location": "Cambridge, Leeds and London, UK",
+    "url": "https://www.cv-library.co.uk/job/225844284/design-assurance-lead-software-samd-we-have-office-locations-in-cambridge-leeds-and-london",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job posting explicitly states that they are unable to offer visa sponsorship, which is a hard rejection criterion for this candidate.",
+    "id": "96a7dfb8",
+    "source": "cv_library_eu_mdr",
+    "added_at": "2026-11-19T02:20:05+02:00",
+    "posted_date": "2026-11-17",
+    "deadline": "2025-12-01",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Deadline (2025-12-01) passed by more than 2 days and unreviewed"
   }
 ]
