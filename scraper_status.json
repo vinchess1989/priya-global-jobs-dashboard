@@ -1,9 +1,9 @@
 {
   "pid": 49068,
   "started_at": "2026-11-20T01:13:34+02:00",
-  "heartbeat_at": "2026-11-20T01:45:56+02:00",
+  "heartbeat_at": "2026-11-20T01:49:00+02:00",
   "phase": "reviewing",
-  "detail": "Principal Technical Program Manager",
-  "last_scrape_ok_at": "2026-11-20T01:44:39+02:00",
+  "detail": "Change Manager (Pharmaceutical Projects)",
+  "last_scrape_ok_at": "2026-11-20T01:47:58+02:00",
   "last_error": null
 }
