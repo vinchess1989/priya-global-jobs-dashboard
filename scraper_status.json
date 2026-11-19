@@ -1,9 +1,9 @@
 {
   "pid": 49068,
   "started_at": "2026-11-20T01:13:34+02:00",
-  "heartbeat_at": "2026-11-20T01:38:13+02:00",
+  "heartbeat_at": "2026-11-20T01:42:26+02:00",
   "phase": "reviewing",
-  "detail": "Documentation/Knowledge Transfer Specialist",
-  "last_scrape_ok_at": "2026-11-20T01:36:40+02:00",
+  "detail": "Submissions Coordinator",
+  "last_scrape_ok_at": "2026-11-20T01:40:06+02:00",
   "last_error": null
 }
