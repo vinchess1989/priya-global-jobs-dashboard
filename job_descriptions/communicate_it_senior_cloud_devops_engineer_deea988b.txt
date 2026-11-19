@@ -1,0 +1,211 @@
+Title: Senior Cloud DevOps Engineer
+Company: Communicate IT
+Location: Johannesburg North, South Africa
+URL: https://www.pnet.co.za/jobs--Senior-Cloud-DevOps-Engineer-Johannesburg-North-Communicate-IT--4309004-inline.html
+Posted: 2026-11-19
+Deadline: Open until filled
+Reason: The role aligns with the candidate's extensive experience in DevOps, CI/CD pipeline ownership, and infrastructure automation, and is located in South Africa, which is one of the target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Find a job
+Recruiters
+Sign in
+Never miss an opportunity. We’ll find jobs that fit
+Get Started
+Find Jobs
+Senior Cloud DevOps Engineer
+Communicate IT
+Johannesburg North
+Permanent
+Full Time
+Published: 1 day ago
+I'm interested
+Save
+Senior Cloud DevOps Engineer
+Communicate IT
+I'm interested
+Reference: CTI007339-LB-1
+
+Do you get more excited about building deployment pipelines than deploying code manually? Does scaling infrastructure, automating everything possible, and keeping production environments running smoothly sound like a good day at the office?
+ 
+My client is looking for a Senior Cloud DevOps Engineer to join a growing engineering team building a large-scale SaaS platform. This opportunity is ideal for someone who enjoys owning cloud infrastructure, improving system reliability, driving automation, and working closely with software developers to deliver high-quality solutions.
+ 
+For professionals searching for IT jobs, jobs in information technology, developer jobs, jobs in IT, or senior cloud engineering opportunities, this role offers significant technical ownership and the chance to influence infrastructure strategy from the ground up.
+Duties & Responsibilities
+
+Job Description:
+ 
+As a Senior Cloud DevOps Engineer, you will be responsible for designing, building, automating, securing, and optimizing cloud infrastructure that supports business-critical applications.
+You will work closely with engineering and data teams to deliver scalable, reliable, and secure environments while helping improve developer productivity and deployment efficiency.
+ 
+Responsibilities include:
+
+Designing and managing scalable cloud infrastructure
+Building and maintaining CI/CD pipelines
+Managing containerized environments using Docker and Kubernetes
+Deploying and supporting cloud-based applications
+Implementing monitoring, logging, alerting, and observability solutions
+Automating operational processes and infrastructure provisioning
+Driving cloud security best practices and system hardening initiatives
+Supporting high-availability production environments
+Managing backup and disaster recovery strategies
+Assisting with database infrastructure and optimization
+Troubleshooting production issues alongside development teams
+Identifying opportunities for cloud cost optimization
+Maintaining documentation of infrastructure, processes, and environments
+Technologies You'll Work With:
+
+AWS
+Kubernetes
+Docker
+GitHub Actions
+CI/CD Pipelines
+Terraform
+CloudFormation
+Ansible
+PostgreSQL
+MongoDB
+Prometheus
+Grafana
+CloudWatch
+Git/GitHub
+Python
+Bash
+Ruby
+REST APIs and Systems Integration
+Why Developers Apply for Roles Like This:
+
+Opportunity to influence infrastructure architecture decisions
+Work on a modern cloud-native environment
+Significant automation and platform engineering exposure
+Ownership of reliability, scalability, and performance initiatives
+Exposure to AWS services including ECS, EC2, RDS, S3, CloudFront, and Lambda
+Work closely with highly technical development and data teams
+Join a business that encourages continuous learning, innovation, and engineering excellence
+Strong exposure to DevOps, Site Reliability Engineering, cloud infrastructure, platform engineering, and systems architecture
+
+Skills & Experience:
+
+Minimum 5+ years’ of DevOps, Cloud Engineering, Platform Engineering, or Infrastructure experience
+Strong AWS experience in production environments
+Advanced Docker and containerization experience
+Kubernetes administration and orchestration experience
+Experience building and maintaining CI/CD pipelines
+Strong networking, security, and infrastructure management knowledge
+Experience with Infrastructure as Code technologies
+Experience working with monitoring, logging, and alerting platforms
+Strong database exposure, particularly PostgreSQL
+Experience writing automation scripts using Python, Bash, Ruby, or similar
+Ability to troubleshoot complex production challenges
+Experience managing highly available and scalable cloud environments
+Strong communication and collaboration skills
+ 
+Advantageous Experience:
+
+AWS Certifications
+Hybrid cloud environments
+SaaS platform experience
+Start-up or high-growth technology company exposure
+Open-source contributions
+Experience integrating multiple systems and platforms
+ 
+Qualification:
+
+Degree in Computer Science, Information Systems, Engineering, Mathematics, or related field
+AWS Certifications highly advantageous
+ 
+ 
+Connect with us on www.communicate.co.za and Register your CV to create a profile or to view all our Jobs in Information Technology. One of the best Developer Recruitment Agencies in Cape Town.
+ 
+Let us assist you with your IT careers. For Further C# Developer jobs, C++ Developer jobs, Java Developer jobs, .Net Developer careers, Angular Developer and Full stack developer jobs.
+Package & Remuneration
+R 1 300 000 - R 1 440 000 - Annually
+I'm interested
+Communicate IT
+91 Jobs
+Our Location
+Communicate IT
+Johannesburg North, South Africa
+Open map
+These jobs were popular with other job seekers
+Senior Cloud Devops Engineer (AWS)
+Communicate IT
+Johannesburg North
+just now
+Cybersecurity Engineer
+Network Contracting Solutions
+Johannesburg North
+just now
+Cyber Security Consultant
+Network IT
+Johannesburg North
+just now
+Mid-Level Cyber Security Consultant - (Penetration Testing) - JHB - Onsite
+Datafin IT Recruitment
+Johannesburg
+just now
+Intermediate DevOps Engineer
+Network IT
+Johannesburg North
+just now
+Platform/ Cloud Engineer
+Tumaini Consulting
+Johannesburg
+just now
+One Identity DevOps Engineer
+Sabenza IT Recruitment
+Johannesburg
+just now
+Infrastructure Tier 3 Engineer
+Network IT
+Johannesburg North
+just now
+IT Systems Manager
+Network IT
+Johannesburg North
+just now
+Javascript Developer
+Network IT
+Johannesburg North
+just now
+
+Get hired.
+Find success.
+
+Get started
+Pnet
+About us
+Privacy policy
+Disclaimer
+Terms and conditions
+PAIA
+Jobseekers
+Career advice
+Blog
+Recruiters
+Post job ads
+Contact us – recruiters
+Products and Services
+Download
+App Store
+Google Play
+Pnet © 2026
+We use cookies
+
+We transmit personal data to third-party providers who help us to improve our web services. In this context, we also create and enrich usage profiles (e.g., on the basis of cookie IDs), which may also be transferred outside the Republic of South Africa and outside the EU and EEA.
+
+For this and to be able to use certain services for the purposes listed below, we require your consent. By clicking "Accept all", you agree to these (revocable at any time). This also includes your consent to the transmission of certain personal data to third countries, including the USA*, in accordance with Section 72 (1) (b) POPIA. You can change your settings or refuse data processing under "Settings or reject". You can change your selection at any time under "Privacy Statement" at the bottom of the page.
+
+Storing and/or retrieving information on a device
+Cookies, device identifiers or other information may be stored on or retrieved from your device for the processing purposes shown to you.
+Personalised ads and content, ad and content measurement, audience insights and product development
+Ads and content can be personalised based on a profile. More data can be added to better personalise ads and content. The performance of ads and content can be measured. Insights about audiences who have viewed the ads and content can be extracted. Data can be used to build or improve user experience, systems and software.
+Display third-party content (social networks, videos)
+Content from social networks and embedded content from third-party providers can be displayed.
+Settings or reject
+Accept All
+You can also exercise your right to object to data processing based on legitimate interests under “Privacy Statement”.
+Privacy Statement

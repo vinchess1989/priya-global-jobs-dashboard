@@ -1,9 +1,9 @@
 {
-  "pid": 50860,
-  "started_at": "2026-11-19T01:14:06+02:00",
-  "heartbeat_at": "2026-11-19T02:29:32+02:00",
-  "phase": "run_finished",
-  "detail": "114 lower-yield targets and 0 jobs left for the next run",
-  "last_scrape_ok_at": "2026-11-19T02:26:24+02:00",
+  "pid": 49068,
+  "started_at": "2026-11-20T01:13:34+02:00",
+  "heartbeat_at": "2026-11-20T01:17:07+02:00",
+  "phase": "reviewing",
+  "detail": "Salesforce Release Manager",
+  "last_scrape_ok_at": "2026-11-20T01:15:56+02:00",
   "last_error": null
 }
