@@ -1,0 +1,202 @@
+Title: Technical Service Delivery Manager
+Company: IQbusiness
+Location: Stellenbosch, South Africa
+URL: https://www.pnet.co.za/jobs--Technical-Service-Delivery-Manager-Stellenbosch-IQbusiness--4309255-inline.html
+Posted: 2026-11-19
+Deadline: N/A
+Reason: The role aligns with the candidate's extensive experience in release management, service governance, and technical documentation, and it is located in South Africa, which is one of the target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Find a job
+Recruiters
+Sign in
+Never miss an opportunity. We’ll find jobs that fit
+Get Started
+Find Jobs
+Technical Service Delivery Manager
+IQbusiness
+Stellenbosch
+Full Time
+Published: 1 day ago
+I'm interested
+Save
+Technical Service Delivery Manager
+IQbusiness
+I'm interested
+The Technical Service Delivery Manager is the accountable day-to-day service leader for the assigned managed-services customer. The role combines customer-facing service management, technical oversight and delivery governance: translating business priorities into a controlled operational plan, ensuring that incidents, requests, changes, risks and improvement actions are actively owned, and making sure the right engineering expertise is brought to each issue at the right time.
+
+This is not a purely administrative reporting role. The successful candidate must be credible with senior stakeholders and technical teams, able to challenge constructively, make sound priority calls, and maintain clear ownership from service desk through to specialist escalation and closure.
+
+Main Responsibilities
+
+Own the operational relationship with customer stakeholders and maintain a clear view of service health, business priorities, risks, commitments and satisfaction.
+Lead regular service reviews, operational meetings and executive updates; present concise, accurate reporting on SLA performance, incidents, service trends, security posture, vulnerabilities, changes, risks and continual-improvement actions.
+Provide technical service oversight across end-user computing, service desk, Microsoft 365, identity, cloud and hybrid infrastructure, network, backup and recovery, collaboration and security services.
+Coordinate the dedicated Cape Town delivery team and shared specialist resources; set priorities, remove blockers, maintain work visibility and ensure customer commitments are met.
+Maintain end-to-end ownership of major incidents and high-impact service issues: coordinate communications, technical escalation, customer updates, recovery, RCA, corrective actions and closure validation.
+Chair or contribute to change governance, ensuring appropriate risk assessment, testing, approval, scheduling, customer communication, implementation evidence and post-change review.
+Govern the incident, request, problem, change, asset and knowledge-management disciplines in line with the agreed service-management processes and ITIL principles.
+Drive a measurable continual-service-improvement backlog, converting recurring incidents, monitoring findings, audit observations and stakeholder feedback into owned actions with due dates and verified outcomes.
+Ensure service documentation, CMDB/asset records, runbooks, escalation paths, operating procedures and customer reports remain accurate, useful and current.
+Coordinate vendor and OEM engagement, retain ownership of the customer outcome, and ensure escalations are evidence-led, timely and properly tracked.
+Work with security and infrastructure specialists to ensure vulnerabilities, patching, privileged access, identity, endpoint, email, backup and recovery controls are appropriately monitored and governed.
+Support transition and mobilisation activities, including discovery, service baseline, operating-model alignment, service acceptance criteria, RAID governance, knowledge transfer and early-life support.
+Technical and Platform Awareness
+
+The role needs enough technical depth to govern outcomes, ask the right questions, identify material risk and route work intelligently. It does not require the candidate to be the hands-on specialist for every platform.
+
+Fortinet security platforms and related firewall, VPN, SD-WAN, policy, logging and security-incident escalation processes.
+Privileged-access management and identity-control concepts, including CyberArk or comparable PAM platforms: vaulting, password rotation, least privilege, access reviews, emergency access, session oversight and audit evidence.
+HPE Aruba networking, wireless and network-access control environments, including switching, Wi-Fi, Aruba Central and ClearPass dependencies where applicable.
+Microsoft Server and hybrid infrastructure, Microsoft 365, Entra ID, endpoint management, collaboration, Defender and cloud-service operations.
+Virtualisation, HPE compute and storage, backup, recovery and disaster-recovery operational controls, including HPE Zerto and Veeam for Microsoft 365 where applicable.
+End-user and enterprise platforms such as Citrix Virtual Apps and NetScaler, 3CX and Audiocodes voice, application support and service-desk tooling.
+Email security, archiving, governance and communication tools, including Mimecast, Exclaimer, ShareGate and associated mail-flow and change controls.
+Security-awareness, identity, endpoint and management tools, including KnowBe4 and ManageEngine identity platforms where applicable.
+Security operations fundamentals: vulnerability remediation, patch governance, incident response coordination, evidence retention and control assurance.
+Organisational escalation capability, OEM/vendor relationship management, support-case ownership and the control of specialist third-party engagement.
+Required Capabilities
+
+Strong customer-facing, white-glove communication: can convert complex operational and technical issues into clear decisions, risks, actions and expectations for technical and non-technical stakeholders.
+Proven leadership through influence, including the ability to coordinate onsite engineers, service desk personnel, shared specialists, suppliers and customer representatives.
+Sound operational judgement, calmness under pressure and a disciplined approach to prioritisation, escalation and follow-through.
+Evidence-led, enterprise service governance: comfortable with SLA/KPI interpretation, trend analysis, service reporting, governance packs and action tracking.
+Strong problem-management mindset: distinguish symptoms from causes, demand useful RCAs, and verify corrective actions rather than simply closing tasks.
+Practical technical fluency across managed-services environments and the confidence to constructively challenge poor-quality updates, unsafe changes or unresolved risks.
+High standard of written documentation, meeting management and stakeholder communication.
+Commitment to information-security, customer confidentiality, ITGC and ISO-aligned control practices.
+Genuine learning agility and a demonstrable willingness to complete vendor/product enablement where the contracted scope requires it.
+Required Experience
+
+At least 5 years in managed services, IT operations, infrastructure support or technical service delivery, including meaningful customer-facing responsibility.
+At least 2 years leading service delivery, an operational team, a technical workstream or a customer portfolio; formal SDM title is preferred but not mandatory where equivalent responsibility is clear.
+Experience operating in an ITIL-aligned environment with practical exposure to incident, problem, change, request and service-level management.
+Experience coordinating multi-vendor support and technical escalation across cloud, infrastructure, security and end-user services.
+Experience producing customer-facing service reports and running structured operational or service-review meetings.
+Preferred and Upskillable Experience
+
+These are advantages, not automatic exclusion criteria. A high-performing candidate with the required service leadership, technical judgement and culture fit may be appointed with an agreed enablement plan, supervised exposure and named specialist escalation support.
+
+CyberArk operational awareness or PAM experience in CyberArk, Delinea, BeyondTrust or comparable platforms; formal CyberArk certification is advantageous.
+HPE Aruba networking or Wi-Fi operational exposure, including Aruba Central, switching, wireless, ClearPass or HPE support-case coordination; Fortinet firewall, VPN and security-service governance exposure.
+Exclaimer cloud administration or governance, including signature configuration, mail-flow awareness and change coordination.
+HPE compute, storage or Zerto disaster-recovery service governance. HPE Server and Storage certifications will be preferred where applicable to the Remgro engagement.
+Relevant Microsoft, ITIL, security, cloud, networking or service-management certifications.
+Minimum Educational Qualifications
+
+Matric or equivalent secondary qualification.
+IT-related diploma, degree or recognised technical certification is advantageous.
+ITIL Foundation or equivalent service-management training is preferred; commitment to complete it within an agreed development period is acceptable for an otherwise strong candidate.
+Selection Process
+
+Applicants will participate in a comprehensive assessment process and must be deemed competent. The process may include a work sample, customer-facing scenario, technical service-management discussion and psychometric assessment.
+If you are interested in this vacancy, please apply via the job advertisement no later than the stated closing date.
+
+Please Note:
+As all iqbusiness roles require honesty in the handling of or access to cash, finances, financial systems, or confidential information; our recruitment process requires that the following background checks be completed: credit, criminal, ID, and qualification verification.
+
+iqbusiness is committed to sustainable growth and transformation, we embrace diversity and employ previously disadvantaged individuals
+I'm interested
+IQbusiness
+Consulting • 1001-2500 Employees
+35 Jobs
+Company Profile
+Our Location
+IQbusiness
+Stellenbosch, South Africa
+Open map
+Company Benefits
+Pension Fund Contribution
+Entertainment Area
+Flexible working hours
+Company laptop
+Company Events
+Parking space
+Canteen
+Full/Part Medical Aid Contribution
+Training
+Paid Annual Leave
+Study allowance
+The employee benefits shown are company-specific and may vary depending on the position and department.
+These jobs were popular with other job seekers
+Service Management Configuration Specialist
+Stellenbosch University
+Stellenbosch
+just now
+IT Technical Support Lead (MSP)_Century City, Cape Town
+Flink Recruit Pretoria
+Century City
+just now
+IT Service Manager (IT Service Desk & End-User Computing)
+Cresco Consulting
+Bellville, Cape Town
+just now
+IT Service Manager
+Sabenza IT Recruitment
+Bellville
+just now
+L2 Workplace (Endpoint) Support Engineer (CH1263)
+Capital H Staffing
+Stellenbosch
+just now
+SYSTEMS ENGINEER - CAPE TOWN - UP TO R500K PER ANNUM
+E-Merge IT Recruitment
+Cape Town
+just now
+Platform Services Engineer
+Klipboard
+Stellenbosch
+just now
+Heat Network Exchange Manager
+RareCruit (Pty) Ltd
+, Cape Town,
+just now
+Programme / Project Manager (enterprise technology)
+TalenCo Recruitment Specialists
+Century City
+just now
+IT Systems and Project Manager
+Network IT
+Cape Town: South Peninsula
+just now
+
+Get hired.
+Find success.
+
+Get started
+Pnet
+About us
+Privacy policy
+Disclaimer
+Terms and conditions
+PAIA
+Jobseekers
+Career advice
+Blog
+Recruiters
+Post job ads
+Contact us – recruiters
+Products and Services
+Download
+App Store
+Google Play
+Pnet © 2026
+We use cookies
+
+We transmit personal data to third-party providers who help us to improve our web services. In this context, we also create and enrich usage profiles (e.g., on the basis of cookie IDs), which may also be transferred outside the Republic of South Africa and outside the EU and EEA.
+
+For this and to be able to use certain services for the purposes listed below, we require your consent. By clicking "Accept all", you agree to these (revocable at any time). This also includes your consent to the transmission of certain personal data to third countries, including the USA*, in accordance with Section 72 (1) (b) POPIA. You can change your settings or refuse data processing under "Settings or reject". You can change your selection at any time under "Privacy Statement" at the bottom of the page.
+
+Storing and/or retrieving information on a device
+Cookies, device identifiers or other information may be stored on or retrieved from your device for the processing purposes shown to you.
+Personalised ads and content, ad and content measurement, audience insights and product development
+Ads and content can be personalised based on a profile. More data can be added to better personalise ads and content. The performance of ads and content can be measured. Insights about audiences who have viewed the ads and content can be extracted. Data can be used to build or improve user experience, systems and software.
+Display third-party content (social networks, videos)
+Content from social networks and embedded content from third-party providers can be displayed.
+Settings or reject
+Accept All
+You can also exercise your right to object to data processing based on legitimate interests under “Privacy Statement”.
+Privacy Statement

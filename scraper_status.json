@@ -1,9 +1,9 @@
 {
   "pid": 49068,
   "started_at": "2026-11-20T01:13:34+02:00",
-  "heartbeat_at": "2026-11-20T01:42:26+02:00",
+  "heartbeat_at": "2026-11-20T01:45:56+02:00",
   "phase": "reviewing",
-  "detail": "Submissions Coordinator",
-  "last_scrape_ok_at": "2026-11-20T01:40:06+02:00",
+  "detail": "Principal Technical Program Manager",
+  "last_scrape_ok_at": "2026-11-20T01:44:39+02:00",
   "last_error": null
 }
