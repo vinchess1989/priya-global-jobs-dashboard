@@ -1,0 +1,235 @@
+Title: DevOps Engineer @ Limerick, Ireland - Onsite
+Company: Cbase Inc
+Location: Limerick, County Limerick, Ireland
+URL: https://ie.linkedin.com/jobs/view/devops-engineer-%40-limerick-ireland-onsite-at-cbase-inc-4491818606
+Posted: 2026-11-19
+Deadline: Open until filled
+Reason: The role is a strong match for her background in DevOps, release management, and quality/compliance in regulated industries, and it is located in an eligible country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer @ Limerick, Ireland - Onsite
+Cbase Inc  Limerick, County Limerick, Ireland
+1 day ago  44 applicants
+  
+
+See who Cbase Inc has hired for this role
+
+Apply
+Save
+
+Direct message the job poster from Cbase Inc
+
+Manoj VajPayee
+Manoj VajPayee
+
+Onsite Role
+
+Virtual Interviews
+
+
+
+
+Position: DevOps Engineer
+
+Location: Limerick, Ireland
+
+Duration: Long-Term
+
+
+
+
+We are looking for a motivated and hands-on DevOps Engineer to build, automate, and support the CI/CD pipelines, environments, and deployment tooling underpinning our Manufacturing Execution System (MES) program. Working as part of the DevOps team alongside the DevOps Lead, you will help enable fast, reliable, and compliant delivery of MES capabilities—bridging development, operations, and quality in a regulated manufacturing environment. Candidates with hands-on experience deploying, configuring, or maintaining off-the-shelf MES platforms such as Syncade are strongly preferred.
+
+
+
+
+Key Skills:
+
+Azure DevOps, Jenkins, GitHub Actions, Terraform, Ansible, PowerShell, Python, Bash, Syncade, MES, GxP, CSV, GAMP 5, Docker, Kubernetes, CI/CD, Infrastructure-as-Code
+
+Key Responsibilities:
+
+Build, maintain, and troubleshoot CI/CD pipelines that support reliable and repeatable MES deployments across development, test, and production environments.
+Maintain the DevOps toolchain—source control, build automation, release management, environment provisioning, monitoring, and observability.
+Apply branching strategies, code review processes, and release management standards appropriate to a regulated manufacturing environment.
+Work with MES vendors, system integrators, and internal teams to understand platform architecture and translate it into maintainable infrastructure-as-code and deployment automation.
+Deploy, configure, and support environments for MES platforms, including Syncade, ensuring they are correctly configured, version-controlled, and fit for purpose across all lifecycle stages.
+Implement and maintain monitoring, alerting, and logging solutions that provide operational visibility of MES platform health and performance.
+Embed automated testing into pipelines in collaboration with the testing team, and maintain robust quality gates in line with shift-left practices.
+Support computer system validation (CSV) activities by maintaining audit trails, deployment records, and change control documentation in compliance with GxP requirements.
+Provision and maintain infrastructure supporting MES workloads, applying security, resilience, and scalability best practices.
+Identify and resolve bottlenecks in the delivery pipeline, helping to improve deployment frequency, lead time, and recovery metrics (DORA).
+Provide technical support and troubleshooting for infrastructure and deployment issues, escalating to the DevOps Lead where required.
+Contribute to disaster recovery and business continuity planning and testing for MES platforms.
+Create and maintain runbooks, technical documentation, and standard operating procedures for pipelines and environments.
+
+
+
+
+Essential Requirements:
+
+3–5 years of experience in a DevOps Engineer, Release Engineer, or similar role on enterprise software programs.
+Hands-on experience with CI/CD tooling—Azure DevOps, Jenkins, GitHub Actions, or equivalent.
+Working knowledge of infrastructure-as-code (Terraform, Ansible, or similar) and configuration management practices.
+Experience supporting environments for enterprise applications, including environment promotion and configuration management.
+Proficiency in scripting languages (PowerShell, Bash, Python, or similar) for automation and tooling.
+Good understanding of the software delivery lifecycle, release management, and change control in enterprise settings.
+Experience of, or exposure to, regulated industries (pharmaceutical, life sciences, food & beverage, or similar) with awareness of compliance and validation requirements.
+Strong problem-solving skills with the ability to diagnose and resolve infrastructure and deployment issues under pressure.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Contract
+Industries
+Business Consulting and Services
+  
+
+Referrals increase your chances of interviewing at Cbase Inc by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Limerick, County Limerick, Ireland.
+
+Sign in to create job alert
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+Aligned Automation
+Limerick, County Limerick, Ireland
+2 days ago
+Azure DevOps Engineer
+Azure DevOps Engineer
+Analog Devices
+Limerick, County Limerick, Ireland
+1 week ago
+DevOps Lead
+DevOps Lead
+EFOR
+Limerick, County Limerick, Ireland
+2 weeks ago
+Site Reliability Engineering Technical Lead
+Site Reliability Engineering Technical Lead
+AMCS Group
+Limerick, County Limerick, Ireland
+1 week ago
+Senior Software Engineer
+Senior Software Engineer
+General Motors
+Limerick, County Limerick, Ireland
+1 week ago
+Engineering Manager, Site Reliability Engineering
+Engineering Manager, Site Reliability Engineering
+General Motors
+Limerick, County Limerick, Ireland
+1 week ago
+Show more jobs like this 
+People also viewed
+Facilities Engineer
+Facilities Engineer
+
+Regeneron
+
+Limerick, County Limerick, Ireland
+4 days ago
+Network Support Engineer
+Network Support Engineer
+
+Verizon
+
+Limerick, County Limerick, Ireland
+2 weeks ago
+Detail Engineer (Ultra Long Haul)
+Detail Engineer (Ultra Long Haul)
+
+Verizon
+
+Limerick, County Limerick, Ireland
+11 hours ago
+Manufacturing Engineer II
+Manufacturing Engineer II
+
+Aerogen
+
+Shannon, County Clare, Ireland
+2 days ago
+Field Service Engineer
+Field Service Engineer
+
+Liquidline
+
+Limerick, County Limerick, Ireland
+1 month ago
+Facilities Engineer
+Facilities Engineer
+
+European Tech Recruit
+
+Limerick Metropolitan Area
+13 hours ago
+Junior Performance Software Engineer
+Junior Performance Software Engineer
+
+OPENCHIP & SOFTWARE TECHNOLOGIES
+
+Limerick, County Limerick, Ireland
+3 weeks ago
+Industrial Engineer
+Industrial Engineer
+
+Sterling Engineering Ltd - Ireland & Europe
+
+Limerick, County Limerick, Ireland
+€75,000 - €90,000
+1 week ago
+Automation Engineer
+Automation Engineer
+
+Fastnet
+
+County Limerick, Ireland
+1 day ago
+Technical Solutions Engineer
+Technical Solutions Engineer
+
+Protex AI
+
+Limerick, County Limerick, Ireland
+6 months ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

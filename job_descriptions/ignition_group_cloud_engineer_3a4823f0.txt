@@ -1,0 +1,326 @@
+Title: Cloud Engineer
+Company: Ignition Group
+Location: Umhlanga, KwaZulu-Natal, South Africa
+URL: https://za.linkedin.com/jobs/view/cloud-engineer-at-ignition-group-4491398091
+Posted: 2026-11-20
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in DevOps, CI/CD pipeline ownership, and infrastructure management, and it is located in a target country (South Africa) with no mention of visa restrictions.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Cloud Engineer
+Ignition Group  Umhlanga, KwaZulu-Natal, South Africa
+15 hours ago  26 applicants
+  
+
+See who Ignition Group has hired for this role
+
+Apply 
+Save
+
+Direct message the job poster from Ignition Group
+
+Claudine Girdhari
+Claudine Girdhari
+
+Technical Direction and Design
+
+Designs and maintains reusable infrastructure-as-code modules across both cloud platforms, within the architecture standards set by the Group Architect.
+Determines the technical approach for assigned work, including environment separation, state management and change review.
+Brings unmanaged cloud resources under code, mostly by replacing them during modernisation rather than retrospective cleanup.
+
+
+
+
+Delivery and Service Operations
+
+Builds and maintains deployment pipelines with plan-on-pull-request, apply-on-approval, environment gates and required reviewers.
+Uses federated workload identity in place of stored credentials, without exception.
+Maintains the container build and image supply chain: registries, scanning, base image currency.
+Operates the platform services the team builds, including monitoring, capacity, patching, backup verification and recovery testing.
+Participates in incident response, including a support rotation, and turns causes into changes that prevent recurrence rather than detect it sooner.
+Supports migration and modernisation of workloads: containerising, re-hosting or retiring.
+
+
+
+
+Governance, Risk and Compliance
+
+Implements preventative policy controls that deny genuinely dangerous configurations and audit the rest.
+Enforces naming and mandatory tagging, including the ownership tag without which nothing deploys.
+Implements least-privilege access using managed identities, and removes standing privileged access.
+Remediates security and resilience weaknesses within agreed severity timeframes.
+
+
+
+
+Stakeholder and Business Partnering
+
+Works with business technology leads to understand requirements and plan modernisation, with priorities set through the Cloud Team Lead.
+Provides the cloud foundation to engineering teams as documented, consumable interfaces so that application templates bind to it without negotiation.
+Supports Information Security with findings validation and compliance evidence.
+
+
+
+
+Continuous Improvement and Innovation
+
+Removes categories of manual work rather than absorbing them. Operational toil should fall over time, not rise with the size of the estate.
+Consolidates duplicated tooling, pipelines and control planes.
+Builds cost visibility and drives measurable reduction.
+Uses AI assistants as real delivery leverage while remaining accountable for reviewing generated infrastructure code before approval.
+
+
+
+
+People Leadership
+
+Requirements
+
+A relevant tertiary qualification is advantageous
+Certifications such as AZ-104, AZ-400, AWS Solutions Architect Associate or CKA are useful supporting evidence, not a substitute for demonstrated work.
+
+
+
+
+Essential
+
+3 to 5 years in a cloud engineering, DevOps or platform role on production systems, with both build and operational responsibility.
+Strong Terraform, having authored reusable modules and managed remote state. Not limited to running pipelines someone else wrote.
+Genuine production depth in one major cloud platform, with real ownership of live workloads. The appointment must cover whichever platform the central cloud team does not already hold, confirmed at the point of hiring.
+Working knowledge of a second cloud platform, and evidence of having learned a platform to depth before.
+Production Kubernetes, able to deploy and diagnose workload failures independently.
+Has authored CI/CD pipelines, in any major system.
+Incident response experience, including a support rotation.
+Networking and cloud identity fundamentals: virtual networks, routing, security groups, DNS, TLS, private connectivity, managed identities, role-based access and federated authentication.
+Docker, Linux and scripting in Bash or Python.
+
+
+
+
+Advantageous
+
+Policy-as-code and infrastructure security scanning · Open Telemetry and a modern observability stack · serverless and managed container services · CDN and web application firewall platforms · managed database services · cloud cost management and FinOps · regulated environment experience such as PCI-DSS, POPIA or ISO 27001 · formal change, incident and problem management.
+
+
+
+
+SKILLS AND CAPABILITIES
+
+Infrastructure as code at module level, including state, drift and safe refactoring across environments and platforms.
+Production cloud engineering: owns live workloads and understands service limits, failure modes and cost implications.
+Secure pipeline design with meaningful gates, federated identity and artefact promotion, rather than scripts that deploy.
+Incident diagnosis under pressure: restore first, establish cause second, then change something so it does not recur.
+Network and connectivity diagnosis end to end, across routing, name resolution, security rules and private connectivity.
+Identity and secrets engineering, removing standing access and credentials held in code.
+Critical review of AI-generated infrastructure code, particularly in permission scoping, policy definition and private networking where generated code is characteristically wrong.
+Documentation others actually use.
+
+
+
+
+DIGITAL AND AI FLUENCY
+
+At Ignition Group, digital and AI fluency is not a nice-to-have — it is a core performance requirement for every role, at every level. As AI and automation reshape how work gets done, the ability to work confidently and responsibly alongside these tools is as fundamental as any technical or professional skill.
+
+
+
+
+What this means in practice:
+
+Digital fluency — navigating and using digital platforms, tools, and systems relevant to your role with confidence and competence
+AI tool adoption — actively using approved AI productivity tools (e.g., Microsoft Copilot) to improve the quality, accuracy, and efficiency of your work
+Data literacy — reading, interpreting, and applying data and AI-generated outputs to make better decisions, not replacing your judgement but sharpening it
+Automation awareness — recognising tasks and processes that can be improved through automation, and contributing to those improvements
+Learning agility — staying curious, upskilling continuously, and adapting as tools and practices evolve
+Responsible and ethical AI use — understanding data privacy obligations, the limits of AI-generated content, and applying sound human judgement at all times
+
+
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Technology, Information and Media
+  
+
+Referrals increase your chances of interviewing at Ignition Group by 2x
+
+See who you know
+
+Get notified about new Cloud Engineer jobs in Umhlanga, KwaZulu-Natal, South Africa.
+
+Sign in to create job alert
+Jobs
+Associate Veterinarian jobs
+Cloud Engineer
+Similar jobs
+Infrastructure SysOps Engineer
+Infrastructure SysOps Engineer
+Rewardsco
+Umhlanga, KwaZulu-Natal, South Africa
+2 months ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+BETSoftware
+Durban, KwaZulu-Natal, South Africa
+11 hours ago
+Senior DevOps Engineer (Architecture)
+Senior DevOps Engineer (Architecture)
+BETSoftware
+Durban, KwaZulu-Natal, South Africa
+11 hours ago
+Principal Cloud Technical Architect (Google)
+Principal Cloud Technical Architect (Google)
+NTT DATA, Inc.
+Durban, KwaZulu-Natal, South Africa
+5 days ago
+Data Engineer Level 2
+Data Engineer Level 2
+Derivco
+Durban Metropolitan Area
+11 hours ago
+Principal Cloud Security Technical Architect
+Principal Cloud Security Technical Architect
+NTT DATA, Inc.
+Durban, KwaZulu-Natal, South Africa
+2 weeks ago
+Show more jobs like this 
+People also viewed
+CRM Solutions Architect (Remote | South Africa)
+CRM Solutions Architect (Remote | South Africa)
+
+Huble
+
+Durban, KwaZulu-Natal, South Africa
+3 weeks ago
+Data Engineering & Analytics Lead at Datonomy Solutions
+Data Engineering & Analytics Lead at Datonomy Solutions
+
+Datonomy Solutions
+
+Umhlanga, KwaZulu-Natal, South Africa
+3 weeks ago
+Data and AI Consultant
+Data and AI Consultant
+
+KPMG South Africa
+
+Durban, KwaZulu-Natal, South Africa
+1 week ago
+Software Developer
+Software Developer
+
+Compass Medical Waste Services Recruitment
+
+Durban, KwaZulu-Natal, South Africa
+ZAR 14,000 - ZAR 17,000
+2 months ago
+Industrial Engineer
+Industrial Engineer
+
+Pedros
+
+Durban, KwaZulu-Natal, South Africa
+1 week ago
+Estimation Engineer
+Estimation Engineer
+
+Energy Drive
+
+Pinetown, KwaZulu-Natal, South Africa
+2 months ago
+Engineering Talent Pool
+Engineering Talent Pool
+
+Sappi
+
+Umhlanga, KwaZulu-Natal, South Africa
+2 months ago
+Intermediate Infrastructure Engineer
+Intermediate Infrastructure Engineer
+
+BETSoftware
+
+Durban, KwaZulu-Natal, South Africa
+11 hours ago
+Intermediate Systems Engineer
+Intermediate Systems Engineer
+
+BETSoftware
+
+Durban, KwaZulu-Natal, South Africa
+11 hours ago
+Principal Security Platforms Engineer
+Principal Security Platforms Engineer
+
+NTT DATA, Inc.
+
+Durban, KwaZulu-Natal, South Africa
+2 weeks ago
+Similar Searches
+Associate Veterinarian jobs
+10 open jobs
+Group Chief Financial Officer jobs
+18 open jobs
+Senior Financial Controller jobs
+172 open jobs
+Payroll Consultant jobs
+76 open jobs
+Composer jobs
+23 open jobs
+Human Resources Development Specialist jobs
+55 open jobs
+Finance Lead jobs
+279 open jobs
+Call Center Manager jobs
+370 open jobs
+Finance Business Partner jobs
+294 open jobs
+Finance Manager jobs
+810 open jobs
+Finance Officer jobs
+946 open jobs
+Compliance Officer jobs
+169 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

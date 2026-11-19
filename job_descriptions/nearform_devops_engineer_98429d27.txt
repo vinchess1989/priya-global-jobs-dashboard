@@ -1,0 +1,318 @@
+Title: DevOps Engineer
+Company: Nearform
+Location: London Area, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/devops-engineer-at-nearform-4492414100
+Posted: 2026-11-20
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in DevOps, CI/CD pipeline management, and infrastructure automation, and it is located in the UK, which is a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+Nearform  London Area, United Kingdom
+13 hours ago  64 applicants
+  
+
+See who Nearform has hired for this role
+
+Apply 
+Save
+
+About Nearform
+
+Nearform is an independent team of data & AI experts, engineers, and designers who build intelligent digital solutions and capability at pace. We create AI-enabled solutions that enhance digital experiences, empower developers, and deliver measurable results. In these ways, we partner with ambitious enterprises to deliver enduring impact.
+
+
+
+
+Our deep expertise in solving the world’s most complex digital problems, along with our collaborative, people-first approach, enables enterprises to build breakthrough products and modernise legacy systems by unleashing the power of AI.
+
+
+
+
+Today, our team of 500 experts in 20+ countries is trusted by leading enterprises including Lululemon, Puma, Sun Life, Starbucks, Travelex, Virgin Media 02, and Walmart.
+
+
+
+
+As part of our Engineering function, you will work closely with clients to translate complex business requirements into innovative digital products. Whether you are a Senior Engineer, Tech Lead, or DevOps Engineer, you will collaborate with distributed teams, leveraging cutting-edge technologies to build secure, high-performance applications. Our Nearform engineers are known for building high quality, scalable solutions that solve real world problems.
+
+
+
+
+About the Senior DevOps Engineer Role:
+
+As a Senior DevOps Engineer at Nearform, you will be responsible for designing, implementing, and maintaining cloud infrastructure to support scalable and reliable applications. Your key responsibilities will include:
+
+Developing and managing cloud-based infrastructure on AWS.
+Creating and maintaining deployment architectures and continuous delivery pipelines.
+Designing high-availability and fault-tolerant solutions for applications.
+Implementing monitoring frameworks, including dashboards, alerts, and escalation processes.
+Automating infrastructure provisioning and management using Infrastructure as Code (IaC) tools such as Terraform or CloudFormation.
+Managing containerized applications and orchestrating deployments using Kubernetes.
+Ensuring security best practices are applied across CI/CD pipelines, cloud infrastructure, and microservices.
+Optimizing system performance and scalability through observability and proactive monitoring.
+Collaborating with development teams to streamline deployment workflows and improve DevOps processes.
+Advising clients on best practices for cloud infrastructure, deployment automation, and system security.
+Engaging in technical discussions with stakeholders and supporting project execution to ensure timely delivery.
+Assisting with the analysis of client requirements.
+Working with and supporting Technical Leaders in project execution and timely delivery.
+Collaborating with client teams.
+
+
+
+
+What we are looking for in this person
+
+Significant experience delivering at a Senior Engineer level. Our Seniors typically have at least 6 years’ commercial experience.
+Practical experience and knowledge of developing real-world solutions.
+Practical experience of delivering in an agile environment.
+Strong experience managing and automating cloud-based infrastructure on AWS.
+Proficiency in infrastructure as code (IaC) using Terraform or CloudFormation.
+Hands-on experience with containerization and orchestration tools, ideally Kubernetes (K8s).
+Experience developing and maintaining CI/CD pipelines, ideally with GitHub Actions or Jenkins.
+Scripting and automation expertise, preferably with Python.
+Experience with observability tools and monitoring frameworks for system performance optimization.
+Solid understanding of security best practices across cloud infrastructure, CI/CD pipelines, and microservices.
+Excellent communication and collaboration skills.
+Professional proficiency in English.
+
+
+
+
+Benefits & Perks
+
+Annual Company Bonus - We all help Nearform to hit company goals so we all receive a share of the profits on an annual basis in line with company performance.
+Work Remotely and Flexibly - We have a genuine dedication to work/life balance. Our flexible working culture allows you to work around what matters - school run, no problem!
+Paid Time Off Package - We offer an annual leave of 25 days plus public holidays. We also offer sick leave, marriage leave and many more.
+Remote Working Allowance - Every 2 years, you will have a budget of up to €1250 (equivalent in GBP) to help you set up a comfortable and productive workspace in addition to your essential equipment provided by Nearform when you join.
+Training and Development Allowance - Nearform is committed to supporting and investing in employees’ ongoing learning and professional development. You will be encouraged to pursue relevant learning opportunities that support your growth and the growth of others, subject to manager approval.
+Healthcare - It’s important to always take care of your health, so we offer additional private healthcare here at Nearform. If you wish to learn more about the plan offered feel free to reach out to our team.
+Pension & Insurances - We offer a pension match of up to 5% and Income Protection and Death in Service for peace of mind.
+
+
+
+
+Our Interview Process
+
+Talent Call (30 mins via Zoom)
+An introductory conversation with a member of our Talent Team to learn more about your background, experience, and career goals. We'll also provide a high-level overview of Nearform and answer any questions you may have. This step helps us assess initial alignment.
+Technical Assessment (1 hour via Zoom)
+A live coding challenge with one of our trained interviewers. You'll be asked to build a working solution to a problem via screen sharing, demonstrating your DevOps engineering expertise, problem-solving ability, and coding best practices in a real-time environment.
+Hiring Manager Interview (45 mins via Zoom)
+A conversation with a Hiring Manager focused on your approach to teamwork, client collaboration, and problem-solving in an enterprise development setting. We'll also share more details about Nearform and the potential projects you may join.
+
+
+
+
+There may also be an additional interview with the client depending on the project
+
+
+
+
+Ready to Join Us?
+
+If you're passionate about building high-quality applications, solving complex challenges, and driving innovation in enterprise development, we’d love to hear from you.
+
+Apply now via our careers page at Nearform and be part of a team that values technical excellence, collaboration, and continuous learning.
+
+As part of our recruitment process, we conduct manual and electronic identity verification checks to confirm the identity of prospective employees.
+
+
+
+
+Nearform is committed to shaping a better world in all that we do. Our global team is built based on respect, inclusivity, diversity and excellence.
+
+If you require any adjustments to the interview process as part of your application, please let someone from our Talent Team know so they can help.
+
+Our salary range starts from £75,000 + bonus & benefits and will be discussed during the initial interview based on your experience.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development, IT System Custom Software Development, and IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Nearform by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in London Area, United Kingdom.
+
+Sign in to create job alert
+Jobs
+Client Principal jobs
+DevOps Engineer
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+Ripjar
+United Kingdom
+1 day ago
+DevOps Engineer
+DevOps Engineer
+Deel
+United Kingdom
+$50,000 - $100,000
+1 week ago
+DevOps Engineer
+DevOps Engineer
+stakefish
+London, England, United Kingdom
+$130,000 - $180,000
+1 month ago
+🛠️ SITE RELIABILITY ENGINEER / DEVOPS
+🛠️ SITE RELIABILITY ENGINEER / DEVOPS
+Tandem Dating
+Harrow, England, United Kingdom
+4 months ago
+Site Reliability Engineer
+Site Reliability Engineer
+Offchain
+United Kingdom
+3 months ago
+DevOps Engineer
+DevOps Engineer
+Prima
+London Area, United Kingdom
+2 weeks ago
+Show more jobs like this 
+People also viewed
+DevOps Engineer
+DevOps Engineer
+
+Methods
+
+London, England, United Kingdom
+2 weeks ago
+Member of Engineering (Infrastructure)
+Member of Engineering (Infrastructure)
+
+Poolside
+
+United Kingdom
+5 hours ago
+DevOps Engineer | Luma
+DevOps Engineer | Luma
+
+Dotmatics
+
+United Kingdom
+1 week ago
+Cloud Ops Engineer | ELN
+Cloud Ops Engineer | ELN
+
+Dotmatics
+
+United Kingdom
+3 weeks ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+Hamilton Barnes 🌳
+
+United Kingdom
+2 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Duetto
+
+London, England, United Kingdom
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+FDM Group
+
+United Kingdom
+£50,000 - £55,000
+6 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Osprey Flight Solutions
+
+United Kingdom
+1 week ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+Attio
+
+United Kingdom
+£105,000 - £125,000
+2 weeks ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+Haven
+
+United Kingdom
+2 days ago
+Similar Searches
+Client Principal jobs
+1,600 open jobs
+Principal Developer jobs
+3,918 open jobs
+Lead Data Architect jobs
+824 open jobs
+Kinesiologist jobs
+80 open jobs
+Columnist jobs
+2,202 open jobs
+Lead Software Architect jobs
+3,579 open jobs
+Learning and Development Coordinator jobs
+614 open jobs
+Integration Developer jobs
+4,704 open jobs
+Contract Engineer jobs
+6,207 open jobs
+Senior Frontend Developer jobs
+4,609 open jobs
+Musician jobs
+81 open jobs
+Senior Data Engineer jobs
+7,805 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
