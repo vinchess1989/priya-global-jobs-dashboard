@@ -1,9 +1,9 @@
 {
   "pid": 49068,
   "started_at": "2026-11-20T01:13:34+02:00",
-  "heartbeat_at": "2026-11-20T01:31:54+02:00",
+  "heartbeat_at": "2026-11-20T01:33:42+02:00",
   "phase": "reviewing",
-  "detail": "Quality Engineer",
-  "last_scrape_ok_at": "2026-11-20T01:30:35+02:00",
+  "detail": "Project Manager",
+  "last_scrape_ok_at": "2026-11-20T01:32:37+02:00",
   "last_error": null
 }
