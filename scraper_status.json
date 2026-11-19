@@ -1,9 +1,9 @@
 {
   "pid": 49068,
   "started_at": "2026-11-20T01:13:34+02:00",
-  "heartbeat_at": "2026-11-20T01:28:53+02:00",
+  "heartbeat_at": "2026-11-20T01:31:54+02:00",
   "phase": "reviewing",
-  "detail": "Application Support Lead (Vulnerability Remediation)",
-  "last_scrape_ok_at": "2026-11-20T01:27:13+02:00",
+  "detail": "Quality Engineer",
+  "last_scrape_ok_at": "2026-11-20T01:30:35+02:00",
   "last_error": null
 }
