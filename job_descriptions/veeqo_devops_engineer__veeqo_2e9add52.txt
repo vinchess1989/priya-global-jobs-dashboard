@@ -1,0 +1,132 @@
+Title: DevOps Engineer, Veeqo
+Company: Veeqo
+Location: Swansea, West Glamorgan, UK
+URL: https://www.reed.co.uk/jobs/devops-engineer-veeqo/57432703
+Posted: 2026-11-19
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's expertise in DevOps, CI/CD, and release management within a professional, English-speaking environment in the UK.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Jobs
+Courses
+Career advice
+Recruiting? Post a job
+Register CV
+Saved jobs
+Sign in
+What
+Where
+Search jobs
+Browse jobs
+Search results
+Home
+Information Technology
+Engineer
+Dev Ops Engineer
+Job details
+Promoted
+DevOps Engineer, Veeqo
+Yesterday by Amazon Talent Acquisition
+Competitive salary
+Swansea, West Glamorgan
+Permanent, full-time
+Apply now
+Save
+Full job description
+As a DevOps Engineer at Veeqo, you will be in charge of continuously improving the resiliency and security of the systems that make Veeqo's products and features possible. You will work with several teams of talented software engineers in multiple locations, and build tooling and infrastructure that improves their ability to meet our high standards for operational excellence. This role is a good fit for someone who thrives in a dynamic environment and is both creative and technical.Key job responsibilities- Own and operate the infrastructure underpinning Veeqo's e-commerce platform across production, staging and pre-production AWS environments (EKS, Aurora, ElastiCache/Valkey, SQS, Amazon MQ, S3)- Drive security and compliance delivery: ASR certification, Shepherd risk remediation, environment separation, CVE response and patching- Execute infrastructure cost optimisation against S-team goals (DRAM reduction, right-sizing, VPA adoption)- Build and maintain CI/CD pipelines (Jenkins/VQJenkins migration, deployment automation, Terraform)- Participate in on-call rotation (primary and secondary) for production incident response, triage and resolution- Deliver infrastructure changes via MCMs (Managed Change Management) with full rollback planning and operational rigour- Contribute to platform reliability: multi-AZ resilience, monitoring (Prometheus/CloudWatch), alerting and observabilitySupport cross-team engineering through tooling, automation and developer experience improvementsCollaborate with 5 product engineering teams (2PTs) who depend on shared infrastructureA day in the lifeYou start the day triaging alerts and monitoring dashboards. If on-call, you're first responder for production issues.Mid-morning is infrastructure delivery: provisioning resources, writing Infrastructure-as-Code, or reviewing change management plans.After lunch, you're helping product teams debug deployment failures, identifying root causes, and adding automation to prevent recurrence.Later, you prepare your own production changes (patching, upgrading, or scaling) with proper testing, documentation, and peer approval.No two days are identical. Some are project-heavy, others operationally heavy. The constant: end-to-end ownership. You design it, build it, deploy it, and operate it.About the teamVeeqo helps high-growth ecommerce businesses build a slick inventory and fulfillment operation that means the right products get to the right customers at the right time, every time. Veeqo plugs into all the major sales channels and shipping carriers, allowing businesses to manage orders, inventory, picking and packing, shipping, purchasing, reporting and more - all in one platform. It’s an ecommerce supersoftware that is making ecommerce fulfilment dramatically more efficient. Recently acquired by Amazon, Veeqo is going places fast and we are looking for the best talent to join us on our amazing journey! We are a friendly, kind, and modest bunch who work very hard but value healthy balance, family, friends and all the good stuff that makes us smile! We also love dogs and have a fair few in our office!Meet Veeqo - the Swansea-based company bringing tech jobs to Wales :https://news/job-creation-and-investment/meet-veeqo-the-swansea-based-company-bringing-tech-jobs-to-wales
+
+BASIC QUALIFICATIONS
+
+- Experience (non-internship) in professional software development- Knowledge of systems engineering fundamentals (networking, storage, operating systems)- Experience programming in at least one modern language such as Python, Ruby, Golang, Java, C++, C#, Rust- Experience designing or architecting (design patterns, reliability and scaling) of new and existing systems
+
+PREFERRED QUALIFICATIONS
+
+- Experience in automating, deploying, and supporting large-scale infrastructure- Experience utilizing AWS cloud solutions in a DevOps environmentAmazon is an equal opportunities employer. We believe passionately that employing a diverse workforce is central to our success. We make recruiting decisions based on your experience and skills. We value your passion to discover, invent, simplify and build. Protecting your privacy and the security of your data is a longstanding top priority for Amazon. Please consult our Privacy Notice (https://en/privacy_page) to know more about how we collect, use and transfer the personal data of our candidates.Amazon is an equal opportunity employer and does not discriminate on the basis of protected veteran status, disability, or other legally protected status.Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
+Share
+Hide
+Add skills to your profile and be found by recruiters.
+Create profile
+Reference: 57432703
+Please note that Reed.co.uk will only ask for passport or driving licence details where necessary and through official, secure channels.
+Report this job 
+Create alerts for similar jobs
+DevOps Engineer, Veeqo
+Swansea
+Edit
+Email address
+Create alert
+By creating an alert, you agree to the Terms and conditions applicable to our service and acknowledge that your personal data will be used in accordance with our Privacy policy and you will receive emails and communications about jobs and career related topics.
+Recommended courses
+Mastering Jenkins CI with Amazon AWS: Build DevOps Pipeline
+Online, Self-paced
+£15
+Maters in DevOps Engineer IT Program job ready | Bundle 13 Courses | Live Projects
+Online with live classes
+£3,999.99
+Java Serverless Developer – Instructor-Led Live Online
+Online with live classes
+£1,600
+View Software testing courses
+Posted by Amazon Talent Acquisition
+View all jobs and profile
+JOBS
+Contact us
+Job search
+Recruiter directory
+Remote jobs
+Browse jobs
+Browse locations
+Popular searches
+Career advice
+Tax calculator
+Average salary checker
+Help
+Contact a REED office
+Sitemap
+RECRUITER
+Recruiter site
+Post a job
+CV Search
+Recruitment agencies
+Recruiter Advice
+COURSES
+Help
+Contact us
+Find a course
+View all subjects
+Discount courses
+Free courses
+Awarding body directory
+Career guides
+Advertise a course
+Courses sitemap
+MORE FROM Reed.co.uk
+About us
+Careers at Reed.co.uk
+Press office
+Corporate governance
+Modern slavery statement
+REED
+Tempzone: timesheets & holiday
+Authorise timesheets
+Reed Group Services
+Reed Specialist Recruitment
+Reed Learning
+Reed in Partnership
+Careers with REED
+James Reed - Official Site
+Podcast - James Reed: all about business
+ESG & sustainability
+Learn how Reed is leading the way in philanthropy
+Introducing our new podcast
+New
+
+James Reed: all about business
+
+Listen here
+Manage Preferences,Security, Privacy, Terms & Conditions
+
+COPYRIGHT © Reed.co.uk 2026

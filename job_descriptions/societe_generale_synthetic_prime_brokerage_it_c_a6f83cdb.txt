@@ -1,0 +1,273 @@
+Title: Synthetic Prime Brokerage IT Chain Lead (Contract)
+Company: Societe Generale
+Location: Hong Kong, Hong Kong SAR
+URL: https://hk.linkedin.com/jobs/view/synthetic-prime-brokerage-it-chain-lead-contract-at-societe-generale-4474338365
+Posted: 2026-11-15
+Deadline: N/A
+Reason: The role is a strong match for her extensive experience in release management, governance, and cross-team coordination, and it is located in a target country (Hong Kong).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Synthetic Prime Brokerage IT Chain Lead (Contract)
+Societe Generale  Hong Kong, Hong Kong SAR
+5 days ago   Be among the first 25 applicants
+  
+
+See who Societe Generale has hired for this role
+
+Apply 
+Save
+Responsibilities
+
+Department Description
+
+By joining the team, you will become part of a diverse and multicultural environment that values work–life balance and fosters continuous professional development. As a rapidly growing organization, we embrace innovation and actively explore emerging technologies and ideas within a collaborative, flat-structured environment that encourages initiative and teamwork.
+
+We are seeking an experienced Synthetic Prime Brokerage IT Chain Lead to join the GBTO team within the Investment Banking Division. In this role, you will be responsible for governing and coordinating the end-to-end release management lifecycle for software applications supporting the Synthetic Prime Brokerage business, with a particular focus on Dynamic Portfolio Swaps (DPS). The successful candidate will work closely with cross-functional stakeholders, including Development, Operations, and Business teams, to ensure releases are delivered efficiently, reliably, and in accordance with established quality standards and timelines.
+
+Situated directly on the trading floor, you will collaborate closely with front-office users, gaining firsthand exposure to trading operations, market dynamics, and business workflows. This unique position provides the opportunity to deliver impactful technology solutions while working in a fast-paced and highly visible environment at the heart of the business
+
+Responsibilities :
+
+As a Synthetic Prime Brokerage IT Chain Lead, you will own the end-to-end coordination and control of technology changes supporting the Synthetic Prime Brokerage business, with a particular focus on Dynamic Portfolio Swaps (DPS). You will strengthen release quality, platform stability and operational resilience while supporting growing client volumes and strategic technology transformation. Working across Front Office, Trading, Structuring, Sales, Risk, Operations, Finance, Legal, Compliance and Technology, you will provide a consolidated view of impacts, dependencies, risks and readiness across the full DPS ecosystem.
+
+Main Responsibilities
+
+Release Governance:
+
+
+Chair the weekly DPS Change Advisory Board, ensuring clear agendas, decisions, ownership, escalation and follow-up.
+Oversee the change and release management process; review release packages, evidence, dependencies, testing, rollback and support readiness, and provide sign-off for DPS-impacting changes.
+Establish and operate go/no-go release gates based on end-to-end readiness, business impact, production risk and operational support capability.
+Consolidate functional and technical impact assessments across all contributing teams and components, identifying cross-platform dependencies and conflicting releases before implementation.
+Coordinate changes across order management, execution, booking, risk, operations and reporting platforms, maintaining alignment with strategic initiatives, migrations and roadmaps.
+Apply proportionate governance: changes confined within a region may remain locally approved where appropriate, while material cross-platform or cross-region impacts are escalated through DPS governance.
+Maintain the DPS release calendar and provide transparent reporting on readiness, risks, incidents, capacity constraints and decisions to business and technology stakeholders.
+
+
+Project, Operating Model & Capacity Management:
+
+
+Take ownership and leadership of DPS platform changes, issue resolution and monitoring initiatives from inception through delivery.
+Track strategic projects and operating-model changes arising from low-latency initiatives, legacy-platform migrations and the adoption of target platforms.
+Define scope, roadmap, milestones, dependencies, governance, resources and implementation plans; coordinate regional and global Business and Technology stakeholders through working groups and steering committees.
+Assess operational and change-delivery resource and budget impacts, surface delivery trade-offs, and support prioritization without losing visibility of in-flight commitments.
+Translate business requirements into functional and technical change, working with architects, developers and support teams to align solutions with target architecture and control standards.
+
+
+Stress Testing, Monitoring & Production Resilience:
+
+
+Support the design and execution of representative end-to-end stress tests to establish platform limits, validate resilience and expose bottlenecks under increasing DPS volumes.
+Support near-real-time monitoring initiatives, defining actionable capacity, performance and health indicators that provide stronger visibility and enable early intervention.
+Define test strategy and acceptance criteria; coordinate system, integration, regression and user-acceptance testing across representative DPS scenarios and lifecycle events.
+Manage production implementation, release readiness, rollback planning, post-release validation and hypercare, with a strong focus on minimizing client impact and preventing incidents.
+Ensure accurate and timely processing of trades, valuations, cash flows, positions, financing, margin, collateral and corporate actions through robust controls and reconciliations.
+Drive rapid issue escalation, root-cause analysis and sustainable remediation across Business, Operations, Support and Technology teams.
+
+
+Controls, Communication & Continuous Improvement:
+
+
+Ensure solutions and processes comply with internal standards and applicable legal, regulatory, audit, information-security and data-governance requirements.
+Define management reporting for release readiness, volumes, exceptions, service quality, risk, capacity and delivery performance.
+Maintain comprehensive documentation, including business workflows, functional specifications, impact assessments, runbooks, control procedures, governance decisions and release records.
+Act as the central coordination point across the end-to-end DPS technology ecosystem, promoting faster escalation, stronger visibility and consistent subject-matter expertise.
+Contribute to the strategic DPS roadmap, prioritizing enhancements that improve resilience, capacity, support awareness and controlled business growth.
+
+
+Required
+
+Profile required
+
+Profile Requirements:
+
+
+Bachelor's degree in Computer Science, Information Technology, Finance, Engineering or a related discipline.
+Experience in release management, preferably within the financial services or investment banking sector.
+Significant experience in release management, business analysis or technology delivery within investment banking, capital markets or securities financing.
+Strong domain knowledge of Synthetic Prime Brokerage and Dynamic Portfolio Swaps, including the front-to-back operating model and interaction between clients, trading, operations, risk, finance and technology.
+Proven ability to map complex front-to-back workflows, analyze cross-platform dependencies, define control points and translate business requirements into clear functional and technical specifications.
+Experience governing complex releases, including impact assessment, change approval, test strategy, go/no-go decisions, rollback planning, production validation and post-release support.
+Familiarity with capacity management, performance monitoring, stress testing and production-resilience practices for high-volume or time-sensitive trading platforms.
+Strong analytical and problem-solving skills, with the ability to investigate incidents, identify root causes, prioritize remediation and manage multiple initiatives concurrently.
+Excellent written and verbal communication skills, with the ability to influence and coordinate senior business, operations, risk and technology stakeholders across regions.
+Familiarity with Agile delivery methods, Unix environments, log analysis and Python scripting is advantageous.
+Relevant project, product, business-analysis or Agile certifications are a plus.
+
+
+Business insight
+
+Our Culture:
+
+At Societe Generale, we live by our 4 core values of commitment, responsibility, team spirit and innovation. We are engaged and demonstrate consideration for others. We act ethically and with courage. We focus our talent and energy on collective success. We experiment and propose new ideas. This way, we maximize our ability to serve client needs and anticipate market changes. Societe Generale is committed to strengthening bonds with colleagues, communities, and the world in which we live, because relationships are at the heart of how we operate. Please visit our APAC career website: https://www.societegenerale.asia/en/careers/building-your-career-with/ for more information.
+
+Diversity, Equity & Inclusion (DE&I):
+
+Our mission: Recruit, develop, advance, and retain a diverse workforce that is united in our efforts to enhance our competitive position and deliver innovative solutions to our clients.
+
+Our vision:
+
+
+Engaged workforce that is demographically diverse in a way that reflects the communities in which we operate
+Inclusive culture and workplace that recognizes employees' unique needs and utilizes their diverse talents
+Engage our community and marketplace, and position the organization to meet the needs of all its clients
+
+
+Check out our DE&I initiatives: https://www.societegenerale.asia/en/careers/diversity-equity-inclusion-dei/
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Industries
+Financial Services and Investment Banking
+  
+
+Referrals increase your chances of interviewing at Societe Generale by 2x
+
+See who you know
+
+Get notified about new Prime Brokerage Specialist jobs in Hong Kong, Hong Kong SAR.
+
+Sign in to create job alert
+Similar jobs
+Vice President, Post-trade Systems - IT (OCP S2)
+Vice President, Post-trade Systems - IT (OCP S2)
+Hong Kong Exchanges and Clearing Limited (HKEX)
+Hong Kong, Hong Kong SAR
+2 weeks ago
+Lead Technical PM - Prime Services & Risk Technology - J13088
+Lead Technical PM - Prime Services & Risk Technology - J13088
+Pinpoint Asia
+Hong Kong, Hong Kong SAR
+HK$500,000 - HK$800,000
+1 week ago
+IT - Application Delivery & Support – VP/AVP
+IT - Application Delivery & Support – VP/AVP
+Huatai International Financial Holdings Company Limited
+Hong Kong SAR
+1 week ago
+BTIG APAC Technology: Vice President, Cash Equities Trading Technology
+BTIG APAC Technology: Vice President, Cash Equities Trading Technology
+BTIG
+Central & Western District, Hong Kong SAR
+1 week ago
+Senior Vice President - Post-Trade Systems - Applications – IT
+Senior Vice President - Post-Trade Systems - Applications – IT
+Hong Kong Exchanges and Clearing Limited (HKEX)
+Hong Kong, Hong Kong SAR
+3 days ago
+APAC Head of Prime Services Technology
+APAC Head of Prime Services Technology
+Jefferies
+Hong Kong SAR
+8 hours ago
+Show more jobs like this 
+People also viewed
+Senior Project Manager — Wealth Solutions (Trading & Settlement)
+Senior Project Manager — Wealth Solutions (Trading & Settlement)
+
+国泰君安国际 Guotai Junan International
+
+Sheung Wan, Hong Kong SAR
+10 months ago
+APAC Algorithmic Trading Technical Lead
+APAC Algorithmic Trading Technical Lead
+
+UBS
+
+Hong Kong, Hong Kong SAR
+12 hours ago
+Data Systems Team Lead
+Data Systems Team Lead
+
+Eclipse Trading
+
+Hong Kong, Hong Kong SAR
+5 months ago
+Senior System Analyst/Technical Lead
+Senior System Analyst/Technical Lead
+
+TEKsystems
+
+Central, Hong Kong SAR
+1 week ago
+IT - Infrastructure (Compute & Storage) – VP/AVP
+IT - Infrastructure (Compute & Storage) – VP/AVP
+
+Huatai International Financial Holdings Company Limited
+
+Hong Kong SAR
+1 week ago
+Team Leader_Digital Transformation Team ( Information Technology Department)
+Team Leader_Digital Transformation Team ( Information Technology Department)
+
+Agricultural Bank of China
+
+Hong Kong, Hong Kong SAR
+3 days ago
+Solution Architect (Multi-Asset Institutional Solutions)
+Solution Architect (Multi-Asset Institutional Solutions)
+
+LTP
+
+Hong Kong, Hong Kong SAR
+3 days ago
+Synthetic Trading Lead Engineer
+Synthetic Trading Lead Engineer
+
+HSBC
+
+Central & Western District, Hong Kong SAR
+1 day ago
+Production Support Lead - Global Hedge Fund - Hong Kong
+Production Support Lead - Global Hedge Fund - Hong Kong
+
+NLS Executive Search
+
+Hong Kong, Hong Kong SAR
+1 week ago
+AVP - Senior Systems Manager– Infrastructure Critical Services - IT
+AVP - Senior Systems Manager– Infrastructure Critical Services - IT
+
+Hong Kong Exchanges and Clearing Limited (HKEX)
+
+Hong Kong, Hong Kong SAR
+9 months ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Societe Generale
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
