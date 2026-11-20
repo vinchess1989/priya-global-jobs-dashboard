@@ -1,9 +1,9 @@
 {
   "pid": 49068,
   "started_at": "2026-11-20T01:13:34+02:00",
-  "heartbeat_at": "2026-11-20T02:25:35+02:00",
-  "phase": "reviewing",
-  "detail": "Business Manager",
-  "last_scrape_ok_at": "2026-11-20T02:24:31+02:00",
+  "heartbeat_at": "2026-11-20T02:25:53+02:00",
+  "phase": "scraped",
+  "detail": "0 new jobs",
+  "last_scrape_ok_at": "2026-11-20T02:25:53+02:00",
   "last_error": null
 }
