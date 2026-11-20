@@ -1,9 +1,9 @@
 {
   "pid": 49068,
   "started_at": "2026-11-20T01:13:34+02:00",
-  "heartbeat_at": "2026-11-20T02:04:16+02:00",
+  "heartbeat_at": "2026-11-20T02:07:19+02:00",
   "phase": "reviewing",
-  "detail": "Lead Engineer/Engineer, Digital Engineering, Training Systems, MTPMC",
-  "last_scrape_ok_at": "2026-11-20T02:02:59+02:00",
+  "detail": "Specialist Document Control",
+  "last_scrape_ok_at": "2026-11-20T02:05:29+02:00",
   "last_error": null
 }
