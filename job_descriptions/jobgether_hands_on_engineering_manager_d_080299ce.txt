@@ -1,0 +1,250 @@
+Title: Hands-on Engineering Manager DevOps (GCP/Kubernetes)
+Company: Jobgether
+Location: Ireland
+URL: https://ie.linkedin.com/jobs/view/hands-on-engineering-manager-devops-gcp-kubernetes-at-jobgether-4492555631
+Posted: 2026-11-21
+Deadline: Open until filled
+Reason: The role aligns with the candidate's extensive DevOps, CI/CD, and infrastructure background, and it is based in Ireland, which is a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Hands-on Engineering Manager DevOps (GCP/Kubernetes)
+Jobgether  Ireland
+15 hours ago   Be among the first 25 applicants
+  
+
+See who Jobgether has hired for this role
+
+Apply
+Save
+This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Hands-on Engineering Manager DevOps (GCP/Kubernetes) based in Ireland.
+
+We are seeking an experienced engineering leader who combines strong people-management skills with hands-on expertise in DevOps, cloud infrastructure, and Kubernetes. You will lead a team of four engineers responsible for building and operating the platform that supports the wider engineering organization. A major focus will be modernizing infrastructure by migrating on-premises workloads to Google Cloud Platform and Google Kubernetes Engine (GKE), strengthening security and business continuity, and enabling greater developer self-service. You will balance platform improvements with the operational needs of engineering teams, ensuring that infrastructure remains reliable, scalable, and maintainable. The role reports to the Head of Engineering and is structured around an approximately equal split between people leadership and hands-on technical work. Your work will help maintain the technology behind accessible, engaging online education experiences used by hundreds of thousands of students.
+
+Accountabilities
+
+
+Lead the design, development, and operation of core infrastructure supporting engineering teams, including Kubernetes clusters, CI/CD pipelines, databases, edge infrastructure, and observability systems.
+Guide the migration of on-premises workloads to GCP and GKE, helping modernize legacy architecture and simplify the overall technology stack.
+Strengthen infrastructure security, reliability, and business continuity practices while reducing operational complexity and ongoing maintenance.
+Develop platform capabilities and self-service tooling that enable engineering teams to work more independently and efficiently.
+Partner with other Engineering Managers and product development leaders to understand internal customer needs, scope initiatives, and prioritize platform work.
+Manage and mentor a team of four engineers, providing technical guidance while working alongside them on code, infrastructure-as-code quality, engineering standards, and best practices.
+Maintain approximately 50% hands-on technical involvement, balancing implementation and operational responsibilities with team leadership and development.
+Establish clear quality standards and lead by example in technical decision-making, infrastructure design, and engineering execution.
+Lead incident response activities, facilitate postmortems, and drive improvements that strengthen system resilience and operational readiness.
+Organize team training, define SMART goals, conduct performance reviews, and provide regular, specific, constructive feedback.
+Maintain oversight of engineers’ work and development processes, helping team members improve their technical capabilities, collaboration, and professional skills.
+Complete an initial onboarding period of approximately two months as a senior engineer, begin management onboarding during the second month, and assume full team leadership at around the 10-week mark.
+
+
+Requirements
+
+
+Bachelor's degree or equivalent practical experience.
+At least 2 years of mentoring or leadership experience, including at least 1 year leading a team formally or as a technical lead.
+7+ years of experience in DevOps, Site Reliability Engineering (SRE), or infrastructure engineering.
+At least 3 years operating production workloads on Kubernetes, preferably Google Kubernetes Engine (GKE).
+At least 3 years working with a major cloud provider and Infrastructure as Code, with senior-level knowledge of GCP services including IAM, networking, KMS, GKE, Cloud SQL, and Secret Manager.
+At least 3 years operating at Senior, Staff, or Principal Engineer level.
+Practical experience designing, implementing, and operating CI/CD pipelines.
+Experience with GitOps tools such as FluxCD or ArgoCD.
+Ability to collaborate directly with engineering teams and management stakeholders to understand requirements, define scope, and prioritize infrastructure initiatives.
+Experience leading incident response processes and facilitating post-incident reviews and postmortems.
+Strong technical judgment, problem-solving skills, and the ability to balance long-term platform improvements with immediate operational needs.
+Effective communication, mentoring, feedback, and people-management skills, with a commitment to developing engineers through practical guidance and continuous learning.
+
+
+Additional Experience That Would Be An Advantage
+
+
+Leading teams through significant infrastructure or architectural migrations.
+Supporting large-scale consumer platforms.
+Building and operating systems in regulated environments.
+Managing self-hosted observability stacks using tools such as Prometheus, Thanos, Loki, Grafana, Tempo, and OpenTelemetry.
+Building internal developer platforms and self-service infrastructure tooling.
+Supporting deployments of .NET/C# applications.
+Database operations involving PostgreSQL, MongoDB, Redis, or RabbitMQ.
+Experience with Istio or other service mesh technologies.
+
+
+Benefits
+
+
+Annual compensation of €82,000–€140,000, with the final amount determined by skills, experience, internal equity, and local labor market conditions.
+Full-time, permanent employment, with a standard working schedule of 40 hours per week.
+Fully remote working arrangement within eligible EMEA locations.
+Opportunity to lead a four-person engineering team while remaining actively involved in hands-on technical work.
+Meaningful involvement in cloud modernization, Kubernetes migration, infrastructure security, and developer platform initiatives.
+Opportunity to contribute to technology supporting online education and learning experiences for hundreds of thousands of students.
+A self-funded, growing education technology environment with opportunities to influence engineering direction and platform decisions.
+
+
+How Jobgether Works
+
+We use an AI-powered matching process to ensure your application is reviewed quickly, objectively, and fairly against the role's core requirements. Our system identifies the top-fitting candidates, and this shortlist is then shared directly with the hiring company. The final decision and next steps (interviews, assessments) are managed by their internal team.
+
+We appreciate your interest and wish you the best!
+
+Why Apply Through Jobgether?
+
+Data Privacy Notice: By submitting your application, you acknowledge that Jobgether will process your personal data to evaluate your candidacy and share relevant information with the hiring employer. This processing is based on legitimate interest and pre-contractual measures under applicable data protection laws (including GDPR). You may exercise your rights (access, rectification, erasure, objection) at any time.
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Internet Marketplace Platforms
+  
+
+Referrals increase your chances of interviewing at Jobgether by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Engineering Manager - Grafana Infrastructure (Remote, Ireland)
+Engineering Manager - Grafana Infrastructure (Remote, Ireland)
+Grafana Labs
+Dublin, County Dublin, Ireland
+6 hours ago
+Senior Platform Engineer
+Senior Platform Engineer
+Attio
+Ireland
+3 weeks ago
+Platform Engineer — Senior
+Platform Engineer — Senior
+EggAI Technologies
+Ireland
+1 month ago
+DevOps Engineer, Radar Engineering
+DevOps Engineer, Radar Engineering
+Apple
+Cork, County Cork, Ireland
+4 weeks ago
+DevSecOps Engineer
+DevSecOps Engineer
+McKesson
+Cork, County Cork, Ireland
+2 days ago
+Engineering Manager | Kubernetes Automation
+Engineering Manager | Kubernetes Automation
+Cast AI
+Ireland
+2 months ago
+Show more jobs like this 
+People also viewed
+Engineering Manager
+Engineering Manager
+
+SearchApi
+
+Ireland
+5 months ago
+Platform Engineer
+Platform Engineer
+
+Mason Alexander
+
+Ireland
+1 month ago
+Senior DevOps Engineer | PGIM Ireland
+Senior DevOps Engineer | PGIM Ireland
+
+PGIM Ireland
+
+Letterkenny, County Donegal, Ireland
+2 weeks ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+
+SearchApi
+
+Ireland
+4 months ago
+Engineering Manager - EU
+Engineering Manager - EU
+
+Ashby
+
+Greater Dublin
+€150,000 - €250,000
+3 days ago
+DevOps Engineer | Luma
+DevOps Engineer | Luma
+
+Dotmatics
+
+Ireland
+1 week ago
+Senior Manager, Engineering
+Senior Manager, Engineering
+
+Prudentia Sciences
+
+Dublin, County Dublin, Ireland
+$250,000 - $312,000
+2 days ago
+Senior Software Engineer
+Senior Software Engineer
+
+General Motors
+
+Dublin, County Dublin, Ireland
+1 week ago
+Prin Cloud Engineer - Platform Engineering (CICD)
+Prin Cloud Engineer - Platform Engineering (CICD)
+
+Medtronic
+
+Galway, County Galway, Ireland
+4 days ago
+Principal Engineer
+Principal Engineer
+
+Ryanair - Europe's Favourite Airline
+
+Swords, County Dublin, Ireland
+2 weeks ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
