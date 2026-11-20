@@ -1,0 +1,257 @@
+Title: Senior DevOps Engineer
+Company: Arena Club
+Location: Delhi, Delhi, India
+URL: https://in.linkedin.com/jobs/view/senior-devops-engineer-at-arena-club-4492992814
+Posted: 2026-11-21
+Deadline: Open until filled
+Reason: The role is a strong match for her DevOps and CI/CD expertise, is located in India, and does not involve the prohibited US-only restrictions or feature-development focus.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer
+Arena Club  Delhi, Delhi, India
+2 hours ago   Be among the first 25 applicants
+  
+
+See who Arena Club has hired for this role
+
+Apply
+Save
+About Arena Club
+
+Arena Club is building the number one digital marketplace for collectibles. We started by reinventing the hobby with the first-ever digital card show, and we are expanding into new categories so collectors can buy, sell, grade, and showcase everything they care about in one place. Our ‘Slab Pack’ product brought the mystery and chase of opening physical packs of cards to a digital format, and has led to Arena Club being one of the fastest-growing (and highly profitable) companies in Los Angeles. Our business was founded by 5x World Series Champion Derek Jeter and serial entrepreneur Brian Lee, who previously founded LegalZoom and The Honest Company, both of which are now public companies.
+
+About The Role
+
+We’re seeking a Senior DevOps Engineer to design, build, and operate the infrastructure, deployment systems, and operational tooling that support Arena Club’s platform. In this role, you will own critical components of our cloud and delivery environment, ensuring systems are secure, reliable, scalable, and efficient. You will drive infrastructure and automation initiatives end-to-end, improving system performance, deployment velocity, and developer productivity.
+
+This position is designed for engineers who operate independently, consistently deliver high-quality solutions, and proactively identify opportunities to improve reliability, scalability, and operational efficiency. As a trusted partner to engineering and product teams, you will help enable fast, safe, and resilient product delivery in a fast-paced environment where your work directly impacts system uptime, performance, and overall platform health.
+
+What You Will Do
+
+
+Design, implement, and maintain CI/CD pipelines for web, backend, and mobile applications to support reliable and repeatable deployment
+Manage and optimize Kubernetes clusters to ensure high availability, performance, and scalability in a production environment
+Build and maintain infrastructure as code using Terraform across the AWS environment
+Design and implement a secure, scalable, and cost-effective cloud architecture leveraging AWS services
+Develop automation scripts and internal tooling to reduce manual work and improve operational efficiency
+Establish and maintain advanced monitoring, logging, alerting, and incident response practices using DataDog, CloudWatch, and Cloudflare
+Troubleshoot production incidents, perform root cause analysis, and implement long-term reliability improvements
+Identify infrastructure risks, performance bottlenecks, and technical debt, and drive proactive remediation
+Partner closely with development teams to improve deployment workflows, system observability, and operational readiness
+Promote DevOps best practices, reliability standards, and operational ownership across the Engineering team
+Document infrastructure architecture, operational procedures, and system dependencies to support team continuity and resilience
+
+
+Qualifications
+
+
+6+ years of experience in DevOps, Site Reliability Engineering, platform engineering, or infrastructure-focused software engineering roles
+Strong experience designing and operating cloud infrastructure in AWS production environments
+Hands-on experience managing Kubernetes clusters at scale
+Proven experience building and maintaining CI/CD pipelines
+Strong experience with infrastructure as code tools such as Terraform
+Experience implementing monitoring, logging, and observability solutions in production systems
+Proficiency in scripting or programming (Python, Bash, or similar)
+Strong understanding of cloud networking, security best practices, and system reliability principles
+Ability to independently own infrastructure initiatives from design through implementation and operation
+Strong problem-solving skills and the ability to communicate technical risks, trade-offs, and operational impacts effectively
+Ability to operate effectively in a fast-paced startup environment while maintaining system stability and high operational standards
+
+
+Preferred Qualifications
+
+
+Experience supporting high-growth or high-availability production environments
+Experience with cost optimization and performance tuning in AWS
+Experience driving incident management, on-call practices, or reliability improvements
+Experience mentoring engineers or influencing DevOps culture across teams
+
+
+Tech Stack
+
+
+Cloud & Infrastructure: AWS (EC2, EKS, S3, RDS, ECR, etc.)
+Containerization & Orchestration: Docker, Kubernetes
+Package Management & Artifact Repository: Helm, ChartMuseum, ECR
+Infrastructure as Code: Terraform
+CI/CD: GitHub Actions, CircleCI or similar pipeline tooling
+Secrets & Configuration Management: AWS SSm, AWS Secrets Manager, External Secret Operator
+Monitoring & Security: DataDog, Sentry, Cloudflare, AWS CloudWatch
+Scripting & Automation: Python, Bash
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Arena Club by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Delhi, Delhi, India.
+
+Sign in to create job alert
+Jobs
+Financial Accountant jobs
+Senior DevOps Engineer
+Similar jobs
+Senior DevOps Engineer
+Senior DevOps Engineer
+Nuclei
+India
+4 months ago
+Senior DevOps Engineer, Backend
+Senior DevOps Engineer, Backend
+Snapfix
+India
+2 months ago
+Senior Platform Engineer (DevOps)
+Senior Platform Engineer (DevOps)
+FINN
+India
+2 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Huzzle.com
+India
+5 months ago
+Senior Cloud Infrastructure Engineer
+Senior Cloud Infrastructure Engineer
+Tala
+India
+2 weeks ago
+Senior DevOps and Infrastructure Engineer
+Senior DevOps and Infrastructure Engineer
+NVIDIA
+India
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Infrastructure / Platform Engineer (India)
+Infrastructure / Platform Engineer (India)
+
+Neuphonic
+
+India
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+GoQuant
+
+India
+5 months ago
+Cloud DevOps Engineer (US Healthcare - Remote from India)
+Cloud DevOps Engineer (US Healthcare - Remote from India)
+
+Thinkgrid Labs
+
+India
+1 month ago
+DevOps Engineer Kafka & PostgreSQL
+DevOps Engineer Kafka & PostgreSQL
+
+Mirantis
+
+Delhi, Delhi, India
+4 weeks ago
+Senior Site Reliability Engineer (Night Shift)
+Senior Site Reliability Engineer (Night Shift)
+
+Resilinc
+
+India
+4 months ago
+Senior Site Reliability Engineer (Remote, India) EST
+Senior Site Reliability Engineer (Remote, India) EST
+
+Level AI
+
+India
+2 months ago
+Sr. Staff Platform Engineer
+Sr. Staff Platform Engineer
+
+ELLKAY
+
+India
+3 weeks ago
+Senior Software Engineer (Devops)
+Senior Software Engineer (Devops)
+
+Jobgether
+
+India
+2 days ago
+DevOps Engineer
+DevOps Engineer
+
+Frontline Data Solutions
+
+India
+4 days ago
+CloudOps Engineer
+CloudOps Engineer
+
+Protera
+
+India
+2 days ago
+Similar Searches
+Financial Accountant jobs
+3,831 open jobs
+President jobs
+2,130 open jobs
+Recruiter jobs
+13,759 open jobs
+Account Manager jobs
+9,644 open jobs
+Real Estate Analyst jobs
+1,852 open jobs
+Director jobs
+83,789 open jobs
+Analyst jobs
+55,566 open jobs
+Business Development Specialist jobs
+10,334 open jobs
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Arena Club
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
