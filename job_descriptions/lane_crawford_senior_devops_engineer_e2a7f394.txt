@@ -1,0 +1,245 @@
+Title: Senior DevOps Engineer
+Company: Lane Crawford
+Location: Southern District, Hong Kong SAR
+URL: https://hk.linkedin.com/jobs/view/senior-devops-engineer-at-lane-crawford-4492526905
+Posted: 2026-11-21
+Deadline: Open until filled
+Reason: The role aligns with the candidate's extensive experience in DevOps, CI/CD pipeline ownership, and infrastructure management, and it is located in a target country (Hong Kong) without explicit visa restrictions.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer
+Lane Crawford  Southern District, Hong Kong SAR
+21 hours ago   Be among the first 25 applicants
+  
+
+See who Lane Crawford has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Lane Crawford is an internationally renowned luxury department store with over 175 years of success, delivering an exceptional and eclectic product curation with dynamic Asian spirit and values. As our Senior DevOps Engineer, you will drive cloud transformation, infrastructure reliability, and automation initiatives by designing scalable platforms, optimizing CI/CD processes, and ensuring secure, high-performing hybrid environments that support business growth.
+
+
+
+
+The Role
+
+Hybrid Infrastructure & Cloud Migration:
+Manage, maintain, and optimize on-premises server infrastructure, data center/server room operations, and server virtualization systems.
+Plan and execute seamless, risk-free migrations from on-premises environments to cloud platforms.
+Oversee multi-cloud resource provisioning and architecture across Alibaba Cloud and Microsoft Azure.
+CI/CD & Release Automation:
+Architect, implement, and improve end-to-end continuous integration and deployment (CI/CD) pipelines to enhance software deployment delivery.
+Automate infrastructure provisioning, configuration management, and backup management workflows.
+Network Architecture & Management:
+Maintain and optimize network configurations, routing, VPNs, and load balancing across hybrid cloud and on-premises environments.
+Ensure high network uptime, security, and low-latency connectivity between data centers and cloud VPCs.
+Monitoring, Observability & Incident Management:
+Design, scale, and refine service monitoring, alerting, and logging systems to maintain high system performance and availability.
+Lead technical troubleshooting and root cause analysis (RCA) for complex infrastructure issues and incidents.
+Provide urgent support during off-hours as needed (with compensatory leave available).
+Database Administration & Optimization:
+Maintain, tune, and back up multi-engine enterprise databases, including Oracle DB, SQL Server, and MySQL.
+Ensure high availability, performance tuning, storage allocation, and data recovery procedures.
+Security & Compliance:
+Implement security best practices across all infrastructure, networking, and cloud workloads.
+Ensure data integrity through routine backup management, disaster recovery (DR) planning, and compliance audits.
+
+
+
+
+The Ideal Candidate
+
+Education & Experience:
+Bachelor’s degree in Computer Science, Information Technology, Engineering, or a related field (or equivalent practical experience).
+3+ years of hands-on experience in DevOps, Infrastructure Engineering, or Systems Administration handling enterprise on-premise and cloud environments.
+Technical Expertise:
+Cloud Platforms: Hands-on experience with at least one (preferably multiple) major cloud providers: Alibaba Cloud, or Microsoft Azure
+OS & Scripting: Expert proficiency in Linux operating systems (RedHat/CentOS/Ubuntu) and strong shell/Bash scripting abilities.
+Containers & Networking: Experience with Docker, Kubernetes, HAProxy, NGINX, and load balancers.
+Database Management: Proven hands-on maintenance experience with relational database management systems (Oracle DB, Microsoft SQL Server, MySQL).
+CI/CD & Automation: Familiarity with CI/CD tools and Infrastructure-as-Code (e.g. Terraform, Ansible).
+Server Room Operations: Hands-on experience with data center hardware, server room monitoring, virtualization platforms (vCenter/ESXi or Proxmox), and backup solutions.
+Soft Skills & Mindset:
+Excellent problem-solving capabilities with strong collaborative skills across cross-functional engineering teams.
+Ability to take full ownership of projects while operating independently when needed.
+Strong commitment to continuous learning, exploring new technologies, and promoting DevOps best practices.
+
+
+
+
+Benefits
+
+
+
+
+At Lane Crawford you work hard and play hard while we take care of your wellbeing. Your annual holiday leave is supplemented by special leave for birthday and work anniversaries, time off to celebrate key holidays and Summer Fridays. Our enhanced medical, dental, pension benefits and life insurance give you peace of mind. And it’s true, that all our permanent staff can enjoy staff discount and visit our legendary staff sales! You can develop your skills and knowledge on the job supported by curated learning experiences at The Academy, and have the opportunity to work with, and be exposed to, a team of internationally minded professionals who will support and stretch your career development. We offer staff wellness programmes to nurture mind, body and spirit in our head office and stores. We treasure opportunities to come together, whether it’s at an office Happy Hour, networking in the "Gin Den" or our Talk of The Town Staff Parties.
+
+
+
+
+Personal data provided will be used for recruitment purposes only. By applying for this position, you consent to the collection, use and disclosure of your personal data to Lane Crawford Joyce Group. Your personal data will be processed in accordance with our Privacy Policy.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Retail
+  
+
+Referrals increase your chances of interviewing at Lane Crawford by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+(Senior) DevOps Engineer
+(Senior) DevOps Engineer
+Omnichat
+Hong Kong, Hong Kong SAR
+2 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Alpaca
+Hong Kong SAR
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+GFT Technologies APAC & GCC
+Hong Kong, Hong Kong SAR
+1 week ago
+SRE/DevOps Engineers
+SRE/DevOps Engineers
+Ashford Benjamin
+Hong Kong, Hong Kong SAR
+4 days ago
+SRE/DevOps/Platform Engineer
+SRE/DevOps/Platform Engineer
+Kody
+Hong Kong, Hong Kong SAR
+1 month ago
+DevOps Engineer, Blockchain Infra (Fully Remote)
+DevOps Engineer, Blockchain Infra (Fully Remote)
+Binance
+Hong Kong SAR
+2 days ago
+Show more jobs like this 
+People also viewed
+DevOps Team Lead
+DevOps Team Lead
+
+Eclipse Trading
+
+Hong Kong, Hong Kong SAR
+6 months ago
+Platform Engineer - Foundation
+Platform Engineer - Foundation
+
+Mox Bank
+
+Hong Kong, Hong Kong SAR
+4 days ago
+Senior Staff, Platform Engineer
+Senior Staff, Platform Engineer
+
+MoneyHero Group (Nasdaq: MNY)
+
+Central & Western District, Hong Kong SAR
+17 hours ago
+Senior Infrastructure & Reliability Engineer (AWS & Low Latency Trading Platform)
+Senior Infrastructure & Reliability Engineer (AWS & Low Latency Trading Platform)
+
+Rock Bund Capital
+
+Hong Kong, Hong Kong SAR
+4 weeks ago
+Senior Linux Engineer / SRE
+Senior Linux Engineer / SRE
+
+BNP Paribas
+
+Hong Kong, Hong Kong SAR
+1 week ago
+Cloud Platform Engineer (Financial Firm)
+Cloud Platform Engineer (Financial Firm)
+
+Hays
+
+Kowloon, Hong Kong SAR
+1 week ago
+Market Access Devops Support - Global Market Activities
+Market Access Devops Support - Global Market Activities
+
+Societe Generale
+
+Hong Kong, Hong Kong SAR
+1 week ago
+Senior Infrastructure Security Engineer(DevSecOps) - APAC Remote
+Senior Infrastructure Security Engineer(DevSecOps) - APAC Remote
+
+Binance
+
+Central & Western District, Hong Kong SAR
+1 day ago
+Platform Engineer - Payment Platform
+Platform Engineer - Payment Platform
+
+Mox Bank
+
+Hong Kong, Hong Kong SAR
+4 days ago
+Cloud Engineer
+Cloud Engineer
+
+TEKsystems
+
+Central, Hong Kong SAR
+2 weeks ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Lane Crawford
+Continue with Google
+Sign in with Email
+
+or
+
+Continue with Google
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
