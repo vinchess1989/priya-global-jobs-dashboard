@@ -1,0 +1,283 @@
+Title: Azure DevOps Engineer - Microsoft Power Platform
+Company: Version 1
+Location: Dublin, County Dublin, Ireland
+URL: https://ie.linkedin.com/jobs/view/azure-devops-engineer-microsoft-power-platform-at-version-1-4491951116
+Posted: 2026-11-21
+Deadline: N/A
+Reason: The role is a strong match for her expertise in Azure DevOps, CI/CD pipeline ownership, and release management, and it is located in Ireland, which is one of her target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Azure DevOps Engineer - Microsoft Power Platform
+Version 1  Dublin, County Dublin, Ireland
+6 hours ago   Be among the first 25 applicants
+  
+
+See who Version 1 has hired for this role
+
+Apply 
+Save
+Company Description
+
+Version 1 has celebrated 30 years in business and continues to be trusted by global brands to deliver technology and transformation solutions that drive customer success. Our deep expertise enables our customers to navigate the rapidly evolving technology landscape. We foster strong partnerships with global technology leaders including Anthropic, Microsoft, AWS, Oracle, Red Hat, OutSystems, Snowflake, ensuring that our customers are provided with the highest quality solutions and services.
+
+ We’re an award-winning employer reflecting how our employees are at the very heart of what we do:
+
+
+UK & Ireland's premier AWS, Microsoft & Oracle partner
+3300+ strong, €350/£300m revenue business
+10+ years as a Great Place to Work in Ireland & UK
+Best Workplace for Women in the UK & Ireland by GPTW
+Best Workplace for Wellbeing in the UK by GPTW
+
+
+We’re a core values driven company, we hire people who share our values, and we reward those who display and foster them, it’s deeply embedded within our DNA. Invest in us and we’ll invest in you!.
+
+Job Description
+
+Version 1 is seeking an experienced Azure DevOps Engineer with strong Microsoft Power Platform experience to join our team.
+
+The successful candidate will take ownership of improving, standardising and automating the current Application Lifecycle Management (ALM) processes across the Power Platform delivery lifecycle.
+
+This role requires strong hands-on experience with Azure DevOps (ADO) and its integration with Microsoft Power Platform, including Dataverse and Power Pages. The focus will be on improving source control, build and release automation, deployment consistency and governance across multiple Power Platform environments.
+
+You will work closely with the existing Power Platform delivery team to implement robust DevOps practices that support reliable and repeatable deployments.
+
+Key Responsibilities
+
+
+Design, implement and improve Power Platform ALM processes using Azure DevOps.
+Develop and maintain automated CI/CD pipelines for Power Platform deployments across multiple environments.
+Manage Azure DevOps Repos and Git branching strategies for Power Platform development.
+Implement source control processes for Dataverse solutions and Power Platform components.
+Implement and maintain source control and deployment processes for Power Pages website code and configuration, including synchronisation between environments, local development and Azure DevOps repositories.
+Automate the unpacking, versioning, validation, build and deployment of Power Platform solutions.
+Use appropriate Power Platform CLI (PAC CLI) and Azure DevOps tooling to automate development and deployment activities.
+Improve existing release processes to reduce manual deployment steps and provide greater consistency, traceability and repeatability.
+Support environment-specific configuration, solution deployment and dependency management across the Power Platform environment estate.
+Establish appropriate controls for pull requests, branching, approvals and releases.
+Troubleshoot and resolve Power Platform build and deployment issues.
+Produce clear technical documentation covering ALM processes, pipelines, branching and deployment procedures.
+Work collaboratively with Power Platform developers, technical leads and other project stakeholders.
+
+
+Qualifications
+
+Essential Criteria
+
+
+Strong hands-on experience with Azure DevOps, particularly:
+Azure Repos
+Git
+Branching and pull request processes
+Azure Pipelines
+YAML pipelines
+Build and release automation
+Demonstrable experience implementing CI/CD and ALM for Microsoft Power Platform.
+Experience automating the deployment of Dataverse solutions between environments.
+Experience integrating Power Platform development with Azure DevOps source control.
+Hands-on experience managing Power Pages website source code/configuration through source control, including downloading, uploading and synchronising Power Pages content using supported Microsoft tooling.
+Strong experience with Power Platform CLI (PAC CLI) and associated ALM tooling.
+Understanding of managed and unmanaged solutions and appropriate Power Platform solution strategies.
+Experience handling environment-specific configuration such as environment variables and connection references.
+Experience designing and improving branching, merge, pull request and release processes.
+Experience troubleshooting failed Power Platform builds and deployments.
+Strong understanding of DevOps and ALM principles and the ability to apply them practically within a Power Platform programme.
+Self-driven approach with the ability to take ownership of DevOps and ALM improvements.
+
+Preferred Criteria
+
+
+Experience working on enterprise-scale Power Pages and Dataverse implementations.
+Experience with Power Platform Build Tools for Azure DevOps.
+Experience implementing automated validation or quality checks within Power Platform pipelines.
+Experience working across structured Dev, Test, UAT, Pre-Production and Production environment models.
+Experience defining deployment governance, release approvals and environment controls.
+Microsoft Power Platform and/or Azure DevOps certifications.
+
+
+Additional Information
+
+Why Version 1? 
+
+ At Version 1, we believe in providing our employees with a comprehensive benefits package that prioritises their wellbeing, professional growth, and financial stability. 
+
+
+Share in our success with our Quarterly Performance-Related Profit Share Scheme, where employees collectively benefit from a share of our company's profits 
+Strong Career Progression & mentorship coaching through our Strength in Balance & Leadership schemes with a dedicated quarterly Pathways Career Development programme 
+Flexible/remote working, Version 1 is tremendously understanding of life events and people’s individual circumstances and offer flexibility to help achieve a healthy work life balance 
+Financial Wellbeing initiatives including; Pension, Private Healthcare Cover, Life Assurance, Financial advice and an Employee Discount scheme 
+Employee Wellbeing schemes including Gym Discounts, Bike to Work, Fitness classes, Mindfulness Workshops, Employee Assistance Programme and much more. Generous holiday allowance, enhanced maternity/paternity leave, marriage/civil partnership leave and special leave policies 
+Educational assistance, incentivised certifications, and accreditations, including AWS, Microsoft, Oracle, and Red Hat 
+Reward schemes including Version 1’s Annual Excellence Awards & ‘Call-Out’ platform. 
+Environment, Social and Community First initiatives allow you to get involved in local fundraising and development opportunities as part of fostering our diversity, inclusion and belonging schemes. 
+
+
+And many more exciting benefits… drop us a note to find out more.    
+
+Version 1 is an equal opportunities employer. 
+
+We are committed to building a diverse, inclusive and respectful workplace where everyone feels valued and able to thrive. We welcome applications from people of all backgrounds, identities and lived experiences, and we value the different perspectives people bring including those shaped by disability and neurodiversity. 
+
+We want every candidate to have a positive and accessible recruitment experience. If you need reasonable adjustments at any stage of the process, please contact your recruiter ekta.bahl@version1.com at Version 1. We will consider all requests carefully, respectfully and confidentially. 
+
+Video links: 
+
+https://www.youtube.com/watch?v=F_d3ELTH5zo 
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Version 1 by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Dublin, County Dublin, Ireland.
+
+Sign in to create job alert
+Similar jobs
+Power Platform Tech Lead
+Power Platform Tech Lead
+Accenture
+Dublin, County Dublin, Ireland
+3 weeks ago
+Power Platform Developer
+Power Platform Developer
+Version 1
+Dublin, County Dublin, Ireland
+1 week ago
+Power Platform Tech Lead
+Power Platform Tech Lead
+Accenture UK & Ireland
+Dublin, County Dublin, Ireland
+1 week ago
+Microsoft Specialist
+Microsoft Specialist
+Auxilion
+Dublin, County Dublin, Ireland
+1 week ago
+Platform Engineer
+Platform Engineer
+BearingPoint
+Dublin, County Dublin, Ireland
+1 week ago
+Azure DevOps Engineer
+Azure DevOps Engineer
+Analog Devices
+Dublin, County Dublin, Ireland
+1 day ago
+Show more jobs like this 
+People also viewed
+AI Platform DevOps Engineer
+AI Platform DevOps Engineer
+
+The Clorox Company
+
+Dublin, County Dublin, Ireland
+2 days ago
+Agent Platform Engineer
+Agent Platform Engineer
+
+The Clorox Company
+
+Dublin, County Dublin, Ireland
+1 week ago
+Systems Development Engineer , Enterprise Collaboration Platforms
+Systems Development Engineer , Enterprise Collaboration Platforms
+
+Amazon
+
+Dublin, County Dublin, Ireland
+1 week ago
+Principal Engineer
+Principal Engineer
+
+Ryanair - Europe's Favourite Airline
+
+Swords, County Dublin, Ireland
+2 weeks ago
+AI & Automation Engineer
+AI & Automation Engineer
+
+Cpl
+
+Dublin, County Dublin, Ireland
+3 days ago
+Senior Cloud Engineer
+Senior Cloud Engineer
+
+PFH Technology Group
+
+Dublin, County Dublin, Ireland
+1 week ago
+Senior Azure DevOps Engineer
+Senior Azure DevOps Engineer
+
+Thomson Keene
+
+South Dublin, Ireland
+7 hours ago
+Cloud Engineer
+Cloud Engineer
+
+Thomson Keene
+
+Dublin, County Dublin, Ireland
+3 weeks ago
+Senior Specialist, SRE
+Senior Specialist, SRE
+
+Presidio
+
+Dublin 3, County Dublin, Ireland
+4 weeks ago
+Cloud Engineer II
+Cloud Engineer II
+
+Sprinklr
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
