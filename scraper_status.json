@@ -1,9 +1,9 @@
 {
-  "pid": 62016,
-  "started_at": "2026-11-21T01:13:20+02:00",
-  "heartbeat_at": "2026-11-21T02:27:19+02:00",
-  "phase": "run_finished",
-  "detail": "101 lower-yield targets and 0 jobs left for the next run",
-  "last_scrape_ok_at": "2026-11-21T02:27:08+02:00",
+  "pid": 24128,
+  "started_at": "2026-11-22T01:08:18+02:00",
+  "heartbeat_at": "2026-11-22T01:11:53+02:00",
+  "phase": "reviewing",
+  "detail": "Information Technology Project Manager",
+  "last_scrape_ok_at": "2026-11-22T01:10:40+02:00",
   "last_error": null
 }

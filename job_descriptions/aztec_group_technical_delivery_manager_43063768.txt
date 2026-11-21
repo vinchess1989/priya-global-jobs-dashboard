@@ -1,0 +1,345 @@
+Title: Technical Delivery Manager
+Company: Aztec Group
+Location: Northern Ireland, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/technical-delivery-manager-at-aztec-group-4492177833
+Posted: 2026-11-20
+Deadline: N/A
+Reason: The role aligns perfectly with the candidate's extensive experience in release management, governance, and CI/CD-integrated delivery, and it is located in the UK with no explicit exclusion of visa sponsorship.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Technical Delivery Manager
+Aztec Group  Northern Ireland, United Kingdom
+2 days ago  80 applicants
+  
+
+See who Aztec Group has hired for this role
+
+Apply 
+Save
+At Aztec, we’re committed to building and nurturing a diverse and inclusive workforce where everyone feels valued, respected, and able to grow. We know that different backgrounds, perspectives, and experiences strengthen our business and we welcome applications from all individuals. So, if your experience doesn’t exactly match with every part of the job description, but you are excited about the role, we would still like to hear from you. If you are passionate, curious, innovative and data driven, you could still be a good fit.
+
+About The Role
+
+We are seeking a Technology Delivery Manager (TDM) to provide technology delivery governance, coordination and delivery confidence across priority technology initiatives within the Technology Office.
+
+This is a modern delivery management role focused on enabling teams to deliver value incrementally, transparently and with strong governance discipline. The successful candidate will work across Product, Technology Pillars, Engineering, Architecture, Security, Data, Service, Vendors and Business PMO to ensure delivery is well planned, actively managed and clearly reported.
+
+The role will be responsible for maintaining delivery visibility through Jira, Azure DevOps or equivalent tooling, ensuring epics, features, stories, tasks, risks, blockers and dependencies are accurately captured and actively managed. The TDM will support backlog refinement, sprint planning, delivery reporting, dependency management, release readiness and governance forum preparation.
+
+This role is not traditional project administration. We are looking for someone who understands Agile ways of working, can operate confidently in Jira / Azure DevOps, can use delivery metrics to provide insight, and can help teams improve flow, predictability and delivery confidence. The successful candidate will be pragmatic, structured and comfortable working in an environment that combines Agile delivery with governance, traceability and control.
+
+These are exciting times across the group, significant growth, change, and investment make it a truly world class opportunity to help shape our organisation for the next stage of its own journey. At the Aztec Group we credit our technology as one of the core ingredients to our award-winning outsourced solutions.
+
+Key Responsibilities
+
+Own delivery governance for assigned initiatives
+
+
+Lead cross functional technical deliveries (cloud, SaaS, AI, automation) for assigned Technical Pillar
+Ensure all deliveries are aligned to strategic priorities and Organisational roadmaps, provide context to new work requests where needed to allow for approval / prioritisation.
+Maintain a clear delivery structure across initiatives, epics, features, stories, tasks, dependencies, risks and decisions.
+Ensure initiative-level plans align to Agile team backlogs, sprint plans, release plans and governance milestones.
+Support Agile ceremonies where relevant, including backlog refinement, sprint planning, daily stand-ups, sprint reviews, retrospectives, Scrum of Scrums, PI planning and inspect-and-adapt sessions.
+Ensure the delivery approach supports incremental value delivery, frequent feedback loops and continuous improvement rather than opaque, long-cycle delivery phases.
+Apply governance proportionately so that delivery control improves transparency without slowing Agile flow unnecessarily.
+
+
+Resource, Stakeholder, Vendor Management & Compliance
+
+
+Act as a key interface across business, technology, and internal/external partners.
+Be a conduit between the technical pillar and the Technical Delivery Function and Technology Leadership Team.
+Aligning with Chief Client Success Officer’s teams and Business Domain Owners to ensure delivery plans support business change objectives and to ensure adoption, readiness, and change impacts are understood and planned.
+Engage with suppliers, conduct RFQ/RFI processes, and ensure timely, high-quality product deliveries.
+Responsible for capacity planning and resource estimations within the technology pillar to feed into portfolio planning and prioritisation decisions.
+Support workforce planning, including hiring input, vendor use, and team structure.
+Manage relationships with vendors, review supplier contracts, and identify cost efficiencies.
+Oversee contracts and SoW related to the assigned technical pillar.
+Act as primary escalation point for delivery-related issues.
+Ensure audit actions and operational risks for the assigned technical pillar are actively managed to closure.
+
+
+Drive disciplined use of Jira, Azure DevOps and delivery tooling.
+
+
+Ensure Jira, Azure DevOps or equivalent tooling is used as the primary source of truth for delivery tracking on assigned initiatives.
+Support creation and maintenance of epics, features, user stories, tasks, bugs, defects, blockers and dependencies.
+Ensure work items have clear descriptions, owners, acceptance criteria, status, priority, dependencies and links to relevant design or requirements artefacts.
+Promote hygiene in boards, sprints, dashboards, reports, workflow states and required delivery fields.
+Work with tooling owners and delivery leaders to improve workflow setup, board configuration, reporting dashboards and integration with Aha, Confluence, GitHub or Azure DevOps where applicable.
+
+
+Support backlog decomposition, prioritisation and sprint readiness.
+
+
+Work with Product Owners, SCRUM Masters, Tech BAs, Engineering, Architecture, and delivery teams to break down initiatives into epics, features, stories, tasks and dependencies.
+Support backlog refinement to improve clarity, criteria, sizing, sequencing and readiness.
+Help identify backlog items that are too large, unclear, dependency-heavy or insufficiently understood to enter sprint delivery.
+Support estimation approaches such as Fibonacci sizing, story points, planning poker, t-shirt sizing and confidence-based estimation were appropriate.
+Protect sprint focus by surfacing mid-sprint disruption, unmanaged scope change and priority churn through the right escalation route.
+
+
+Provide evidence-based delivery confidence through Agile metrics.
+
+
+Track delivery progress using evidence from Jira / Azure DevOps boards, sprint commitments, completed work, blockers, dependencies, defects and release readiness.
+Use delivery metrics such as velocity, predictability, committed versus completed work, cycle time, lead time, throughput, WIP, blocker ageing and defect trends where data is available.
+Use metrics to improve transparency, flow and predictability rather than to create unhelpful pressure or gaming behaviors.
+Explain what is driving delivery status, what has changed, what is blocked and what decisions or interventions are required.
+Connect delivery metrics to the Global Book of Work, milestones, dependencies, releases and intended outcomes where possible.
+Work with Engineering, DevOps, Architecture, Security, Service and Vendors to ensure dependencies are understood before they block sprint or release progress.
+Support release readiness by tracking testing, defect status, environment readiness, security checks, documentation, support model readiness and operational handover.
+undefined.
+
+
+Manage delivery risks, issues and dependencies.
+
+
+Translate delivery risks into practical impact statements covering scope, timeline, cost, quality, client / user impact, release readiness and operational risk.
+Track dependencies with owners, due dates, status, impact if missed, mitigation and escalation route.
+Ensure blockers are visible on delivery boards and escalated when they cannot be resolved by the delivery team.
+Escalate systemic constraints, recurring blockers or cross-team priority conflicts through Technology Office governance.
+
+
+Prepare modern, data-led governance reporting.
+
+
+Prepare concise governance updates supported by data from Jira, Azure DevOps, Aha, Confluence, GitHub / GitHub Actions or other agreed sources where available.
+Replace vague status reporting with specific commentary on progress, sprint outcomes, backlog health, dependencies, risks, decisions and release confidence.
+Prepare decision papers, escalation summaries, status narratives and delivery confidence updates for governance forums.
+Support self-service dashboards and consistent reporting were appropriate.
+
+
+Skills And Experience
+
+
+5 - 7 years of proven experience in a technology delivery leadership role, ideally in a complex, fast-paced environment within the finance industry.
+Experience managing technology delivery using Agile, Scrum, Kanban, Waterfall, hybrid or scaled Agile delivery methods.
+Hands-on experience using Jira, Azure DevOps or similar delivery tools to manage backlogs, boards, sprints, work items, dependencies and reporting.Experience maintaining delivery plans, RAID logs, dependency registers, sprint reporting, milestone views and governance materials.
+Strong written and verbal communication skills, including concise executive-level updates.
+Experience preparing governance updates, decision papers, escalation packs and delivery confidence reporting for senior stakeholders.
+DevOps awareness - Understands how delivery management connects to GitHub, CI/CD pipelines, release management, test automation, environments and operational readiness.
+Experience in regulated financial services, enterprise technology delivery or complex client-facing technology change would be beneficial.
+Desirable Qualifications: PMP, PRINCE2, or equivalent project management certification. ITIL, Agile, or Scrum certifications
+
+
+Personal Profile & Behaviours
+
+
+Commitment to ‘get things done’, ‘done well’ and ‘done on time’, successful candidate will have an evident "can-do" attitude.
+Outcome-focused - Connects delivery activity to business value, client/user outcomes and measurable benefits.
+Strong attention to detail, while being able to look at the big picture, adheres to high quality standards, checks information quality.
+Delivering results remains calm, effective, and positive even when under pressure; takes ownership for delivering outcomes and is highlight pragmatic and action orientated.
+Organised and disciplined, able to effectively deal with changing priorities or obstacles and to provide alternative options or solutions.
+Resilience - to cope with changing priorities or obstacles against tight timescales
+Identifies problems, provides / facilitates the creation of options and recommendations, and uses initiative to drive solutions in a positive and action-oriented manner; whilst being able to identify and manage risk.
+Influencing and relationship building; proactively builds productive, open and trusting relationships with internal and external stakeholders; presents robust and convincing positions in the face of challenge while remaining respectful of others' views; negotiates effectively to agree realistic outcomes.
+Acts in the organisation’s best interests, transparent and gives honest visibility of progress, blockers, confidence and risk.
+Capacity to spot issues and distill the important from the unimportant
+Clear and grounded set of values that align to the Aztec’s Values
+
+
+We will provide the training, both in house for relevant technical knowledge and professional qualifications to enhance your professional development. You will need to be quick to learn new systems and great with people, as close working relationships between our colleagues and clients is at the heart of what we do.
+
+Benefits
+
+We understand that everyone has different needs, and that’s why our employee package includes a variety of benefits. In addition to a competitive salary, here are some examples of the benefits that we may offer for our permanent roles:
+
+
+Discretionary bonus scheme
+Flexible, hybrid working
+Ability to work abroad for up to 3 weeks per annum
+Generous holiday allowance
+Pension scheme
+Private medical insurance, including eye care
+Life assurance (death in service and critical illness benefit)
+Worldwide travel insurance
+Health and wellbeing programmes
+On-site parking
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at Aztec Group by 2x
+
+See who you know
+
+Get notified about new Technical Project Manager jobs in Northern Ireland, United Kingdom.
+
+Sign in to create job alert
+Jobs
+Technical Project Engineer jobs
+Technical Delivery Manager
+Similar jobs
+Technical Delivery Manager – AI SaaS - £75,000 – Remote
+Technical Delivery Manager – AI SaaS - £75,000 – Remote
+Ventula Consulting
+United Kingdom
+1 day ago
+Project Technical Delivery Manager
+Project Technical Delivery Manager
+NVIDIA
+United Kingdom
+1 week ago
+Engineering Manager
+Engineering Manager
+SearchApi
+United Kingdom
+5 months ago
+Delivery Manager
+Delivery Manager
+Cytora
+United Kingdom
+2 weeks ago
+Technical Program Manager III, Automotive
+Technical Program Manager III, Automotive
+Mapbox
+United Kingdom
+2 weeks ago
+Senior Technical Customer Program Manager - AI Datacenter
+Senior Technical Customer Program Manager - AI Datacenter
+NVIDIA
+United Kingdom
+16 hours ago
+Show more jobs like this 
+People also viewed
+Engineering Manager
+Engineering Manager
+
+Olo
+
+Belfast, Northern Ireland, United Kingdom
+1 month ago
+Customer Program Manager
+Customer Program Manager
+
+Philips
+
+United Kingdom
+2 weeks ago
+IT Change & Technical Delivery Lead
+IT Change & Technical Delivery Lead
+
+VC Talent
+
+United Kingdom
+1 week ago
+Agile Delivery Lead
+Agile Delivery Lead
+
+CGI
+
+United Kingdom
+4 days ago
+Head of Technical Operations
+Head of Technical Operations
+
+iO Associates
+
+United Kingdom
+£100,000 - £120,000
+1 month ago
+Associate Manager, Project Management - RR-0455905
+Associate Manager, Project Management - RR-0455905
+
+DXC Technology
+
+United Kingdom
+2 weeks ago
+Release & Deployment Manager
+Release & Deployment Manager
+
+Seasalt
+
+United Kingdom
+1 day ago
+Technical Program Manager
+Technical Program Manager
+
+Russell Tobin
+
+United Kingdom
+3 weeks ago
+Engagement Manager, AI Implementations
+Engagement Manager, AI Implementations
+
+Tether.io
+
+United Kingdom
+4 months ago
+Custom Programme Team Lead
+Custom Programme Team Lead
+
+Cambridge Spark
+
+United Kingdom
+3 weeks ago
+Similar Searches
+Technical Project Engineer jobs
+2,834 open jobs
+Senior Technical Project Manager jobs
+2,810 open jobs
+Project Planning Engineer jobs
+625 open jobs
+Production Technologist jobs
+87 open jobs
+Mechanical System Engineer jobs
+4,192 open jobs
+Failure Analysis Engineer jobs
+2,046 open jobs
+Technical Program Manager jobs
+1,108 open jobs
+Escalation Engineer jobs
+2,836 open jobs
+Technology Project Manager jobs
+2,496 open jobs
+Customer Service Project Manager jobs
+3,376 open jobs
+Security Risk Manager jobs
+741 open jobs
+Networking Manager jobs
+10,651 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Aztec Group
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
