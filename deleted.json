@@ -29867,5 +29867,22 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": null,
     "deletion_reason": "Deadline (2026-11-19) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Senior Business Analyst",
+    "company": "Equal Experts South Africa",
+    "location": "South Africa",
+    "url": "https://za.linkedin.com/jobs/view/senior-business-analyst-at-equal-experts-south-africa-4492916414",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job posting explicitly requires candidates to be based in South Africa with an existing right to work and no sponsorship, which disqualifies the candidate.",
+    "id": "33564b63",
+    "source": "linkedin_za_requirements_engineer",
+    "added_at": "2026-11-21T02:09:27+02:00",
+    "posted_date": "2026-11-21",
+    "deadline": "Open until filled",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
