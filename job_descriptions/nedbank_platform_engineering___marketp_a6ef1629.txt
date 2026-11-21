@@ -1,0 +1,365 @@
+Title: Platform Engineering - Marketplace Product Owner
+Company: Nedbank
+Location: City of Johannesburg, Gauteng, South Africa
+URL: https://za.linkedin.com/jobs/view/platform-engineering-marketplace-product-owner-at-nedbank-4491389270
+Posted: 2026-11-20
+Deadline: N/A
+Reason: The role aligns with the candidate's extensive experience in platform engineering, release management, and service governance, and it is located in South Africa, which is one of the target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Platform Engineering - Marketplace Product Owner
+Nedbank  City of Johannesburg, Gauteng, South Africa
+2 days ago   Be among the first 25 applicants
+  
+
+See who Nedbank has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Job Purpose
+
+The Product Owner – I&O Platform Engineering is accountable for defining, managing and continuously evolving the I&O Marketplace and Internal Developer Portal (IDP) as the common digital front door through which developers and technology teams discover, request and consume approved infrastructure, platform and engineering capabilities. The role owns the product vision, roadmap, backlog and value outcomes, working across I&O product teams to deliver standardised service offerings, reusable platform capabilities, automated fulfilment and secure developer self-service.
+
+The role drives the shift from traditional, manually fulfilled service-request models toward a product-led and developer-centric experience. It improves developer experience, discoverability, adoption and delivery speed while ensuring that marketplace offerings remain governed, secure, supportable, cost-transparent and aligned with enterprise architecture, risk and operational requirements.
+
+
+
+
+Job Responsibilities
+
+The Product Owner is accountable for the end-to-end product lifecycle of the I&O Marketplace including strategy, customer discovery, roadmap prioritisation, service catalogue integration, developer experience, onboarding of product offerings, automation, governance, adoption and value realisation. The role acts as the primary interface between developers, I&O product teams, platform engineering, service management, architecture, cyber risk and delivery teams.
+
+
+
+
+Product Vision, Strategy and Roadmap
+
+Define and communicate the product vision, strategy, target experience and multi-year roadmap for the I&O Marketplace and IDP.
+Align the marketplace roadmap to Platform Engineering, Infrastructure & Operations, cloud, DevSecOps and enterprise technology priorities.
+Translate developer and consumer needs into clear product outcomes, epics, features and measurable acceptance criteria.
+Maintain a prioritised product backlog that balances customer value, operational risk, technical debt, regulatory obligations and delivery capacity.
+Use product analytics, customer feedback and operational performance data to inform investment and prioritisation decisions.
+
+Internal Portal and Developer Experience
+
+Own the Portal/Marketplace as the common front door for discovering and consuming infrastructure, platform and engineering products and services.
+Create a coherent developer experience across service discovery, documentation, software templates, self-service actions, status visibility, support and feedback.
+Promote reusable golden paths, paved roads and standard engineering patterns that reduce cognitive load and accelerate delivery.
+Ensure the IDP provides accurate product ownership, service descriptions, eligibility, dependencies, support models, lead times, costs and lifecycle information.
+Drive accessibility, usability and consistent information architecture across the marketplace and portal experience.
+
+Marketplace Offering and Catalogue Management
+
+Define the marketplace product model, onboarding standards, minimum information requirements and quality criteria for I&O offerings.
+Partner with I&O Product Owners to onboard, publish, maintain, version and retire marketplace products and service offerings.
+Ensure catalogue entries are standardised, searchable, understandable and linked to approved architectures, policies and support arrangements.
+Govern the lifecycle of offerings, including demand intake, readiness assessment, publication, change, review, rationalisation and retirement.
+Prevent duplication and fragmentation by promoting reusable enterprise capabilities and clear product boundaries.
+
+Self-Service, Automation and Integration
+
+Drive automated fulfilment and orchestration across infrastructure, cloud, network, database, middleware, observability, security and other I&O capabilities.
+Work with engineering teams to integrate the IDP with ITSM workflows, CI/CD platforms, source control, cloud management, configuration management and automation tooling.
+Promote API-first, event-driven and policy-as-code approaches where appropriate, with human approval retained only where risk or regulation requires it.
+Reduce manual hand-offs, fulfilment lead times, rework and operational dependency through standard workflows and reusable automation.
+Ensure fulfilment status, approvals, failures and support routes are transparent to consumers.
+
+Customer Discovery, Adoption and Change Enablement
+
+Conduct regular discovery with developers, engineers and technology teams to understand pain points, journeys and unmet needs.
+Define customer personas, priority use cases and end-to-end journeys for marketplace and IDP capabilities.
+Drive adoption through targeted communications, demonstrations, onboarding, documentation, training and product-community engagement.
+Establish structured feedback channels and convert insights into prioritised improvements.
+Champion a product-led culture focused on measurable customer and business outcomes rather than feature delivery alone.
+
+Governance, Risk and Operational Readiness
+
+Ensure marketplace and IDP capabilities comply with enterprise architecture, cybersecurity, data privacy, audit, access-control and technology-risk requirements.
+Embed appropriate approval, entitlement, segregation-of-duties, logging and traceability controls into self-service journeys.
+Define product guardrails and onboarding controls without creating unnecessary friction for low-risk, standardised consumption.
+Ensure new and changed capabilities meet operational readiness criteria, including support ownership, monitoring, resilience, documentation, service levels and recovery requirements.
+Manage product risks, dependencies, audit findings, technical debt and remediation actions through established governance forums.
+
+Service Performance and Value Realisation
+
+Define and track product OKRs and KPIs, including adoption, active users, self-service completion, fulfilment lead time, automation rate, customer satisfaction, abandonment, failure demand and cost-to-serve.
+Monitor marketplace availability, performance, content quality and end-to-end journey health.
+Use telemetry and value-stream data to identify bottlenecks and prioritise continuous improvement.
+Demonstrate business value through faster provisioning, reduced manual effort, improved standardisation, stronger control and better developer productivity.
+Provide transparent product reporting to leadership and governance stakeholders.
+
+Financial, Commercial and Vendor Management
+
+Contribute to and manage the product budget, forecasts and investment priorities for the marketplace and IDP capability.
+Monitor product costs, licensing, vendor services, cloud consumption and delivery expenditure against approved budgets.
+Assess total cost of ownership and expected value when prioritising platform enhancements and integrations.
+Support commercial management of technology vendors, implementation partners, contracts, renewals and service performance.
+Identify cost optimisation opportunities while protecting service quality, security, resilience and strategic outcomes.
+
+Stakeholder and Delivery Leadership
+
+Act as the primary product interface across I&O Product Owners, Platform Engineering, application development, architecture, cyber security, service management and business technology teams.
+Lead product ceremonies including backlog refinement, sprint planning, reviews, showcases and quarterly planning.
+Provide clear product decisions, resolve priority conflicts and manage cross-product dependencies.
+Work with designers, engineers, architects and delivery leads to ensure solutions are valuable, feasible, usable, secure and supportable.
+Provide product leadership, coaching and guidance to delivery teams and marketplace contributors.
+
+
+
+
+Essential Qualifications - NQF Level
+
+Matric / Grade 12 / National Senior Certificate
+
+
+
+
+Preferred Qualification
+
+Bachelor's degree or equivalent qualification in Information Technology, Computer Science, Information Systems, Engineering, Business Management or a related discipline.
+Postgraduate qualification in technology management, business administration or product leadership would be advantageous.
+
+
+
+
+Essential Certifications
+
+Product management training covering discovery, product strategy, roadmaps, experimentation, product analytics and value measurement.
+ITIL 4 Foundation or equivalent practical service-management training.
+
+
+
+
+Preferred Training / Certifications
+
+Platform engineering or Internal Developer Portal training, including practical exposure to products such as Backstage, Port, Humanitec, Cortex or equivalent enterprise IDP capabilities.
+Cloud foundation or associate-level certification in Microsoft Azure, Amazon Web Services or Google Cloud.
+DevOps, DevSecOps, SRE, Lean Portfolio Management or value-stream management training.
+Automation platforms such as Ansible, Terraform, Chef or equivalent.
+ServiceNow Certified System Administrator or relevant ServiceNow catalogue, portal, automation or workflow certification where ServiceNow underpins marketplace fulfilment.
+User experience, design thinking, customer journey mapping or accessibility training would be advantageous.
+
+
+
+
+Minimum Experience Level
+
+Minimum 8 years of experience in technology, digital products, infrastructure, platform engineering, service management or related disciplines, including at least 4 years in Product Owner, Product Manager or comparable product leadership roles.
+Demonstrated experience owning a digital platform, enterprise service marketplace, developer portal, service catalogue or self-service product from discovery through adoption and value realisation.
+Experience working with infrastructure and platform products across cloud, compute, network, database, middleware, observability, automation or security domains.
+Experience managing complex backlogs, cross-team dependencies and delivery across multiple product or engineering teams.
+Experience in a large, regulated enterprise where cybersecurity, technology risk, auditability and operational resilience are critical.
+Experience with Agile delivery, DevOps practices, APIs, workflow automation, service management and product analytics.
+Ansible, Terraform, Chef
+
+
+
+
+Technical / Professional Knowledge
+
+Product strategy and lifecycle management: ability to define product vision, outcomes, roadmaps, investment priorities and retirement decisions.
+Customer and developer experience: strong capability in discovery, personas, journey mapping, usability, information architecture and continuous feedback.
+Internal Developer Portal concepts: software catalogues, golden paths, templates, plug-ins, self-service actions, documentation, scorecards and developer analytics.
+Platform engineering and DevOps: understanding of CI/CD, source control, APIs, infrastructure as code, cloud platforms, container platforms, automation and policy as code.
+Service management and catalogue design: understanding of request models, approvals, entitlements, fulfilment workflows, service levels, support models and CMDB/service relationships.
+Backlog and value management: ability to prioritise using evidence, value, risk, cost, dependencies and product outcomes.
+Data and analytics: ability to define meaningful KPIs, interpret telemetry, assess adoption funnels and quantify product value.
+Governance and risk: ability to incorporate cybersecurity, privacy, access control, auditability, resilience and regulatory requirements into product design.
+Commercial acumen: understanding of budgets, total cost of ownership, vendor management, licensing and value-based investment decisions.
+Stakeholder leadership: ability to influence senior stakeholders, product teams and engineering communities without relying solely on positional authority.
+Communication: strong written, verbal, facilitation, negotiation and executive presentation capability.
+
+
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at Nedbank by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Product Manager jobs
+Platform Engineering - Marketplace Product Owner
+Similar jobs
+Platform Engineering - Marketplace Product Owner
+Platform Engineering - Marketplace Product Owner
+Nedbank
+Johannesburg, Gauteng, South Africa
+2 days ago
+Product Owner (Onsite)
+Product Owner (Onsite)
+FlySafair
+City of Johannesburg, Gauteng, South Africa
+1 week ago
+Digital Product Manager
+Digital Product Manager
+Yum! Brands
+Johannesburg, Gauteng, South Africa
+1 week ago
+Senior Product Owner
+Senior Product Owner
+Iress
+Johannesburg, Gauteng, South Africa
+2 weeks ago
+Platform Engineer
+Platform Engineer
+Share
+City of Johannesburg, Gauteng, South Africa
+2 months ago
+Solution Architect
+Solution Architect
+KFC
+Johannesburg, Gauteng, South Africa
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Talent Pool: Data & AI Product Manager
+Talent Pool: Data & AI Product Manager
+
+Guardrisk
+
+Sandton, Gauteng, South Africa
+3 weeks ago
+Senior Delivery Lead
+Senior Delivery Lead
+
+Accenture in South Africa
+
+Midrand, Gauteng, South Africa
+3 days ago
+FUL Product and Portfolio Lead
+FUL Product and Portfolio Lead
+
+Hollard Insurance
+
+Johannesburg, Gauteng, South Africa
+3 days ago
+Technical/Program Manager
+Technical/Program Manager
+
+Impronics Digitech
+
+Johannesburg, Gauteng, South Africa
+2 years ago
+Engineering Lead – Digitization & Automation (12-months contract)
+Engineering Lead – Digitization & Automation (12-months contract)
+
+DeARX
+
+Sandton, Gauteng, South Africa
+3 days ago
+Manager - Johannesburg | BCG Platinion
+Manager - Johannesburg | BCG Platinion
+
+BCG Platinion
+
+Johannesburg, Gauteng, South Africa
+1 week ago
+Head: Digital Channels
+Head: Digital Channels
+
+Lesaka Technologies Inc.
+
+Johannesburg, Gauteng, South Africa
+2 days ago
+Loyalty Lead
+Loyalty Lead
+
+KFC
+
+Johannesburg, Gauteng, South Africa
+1 week ago
+AI Product & Experience Lead: P&C Technology
+AI Product & Experience Lead: P&C Technology
+
+NTT DATA, Inc.
+
+Johannesburg, Gauteng, South Africa
+2 weeks ago
+Principal - Johannesburg | BCG Platinion
+Principal - Johannesburg | BCG Platinion
+
+BCG Platinion
+
+Johannesburg, Gauteng, South Africa
+1 week ago
+Similar Searches
+Product Manager jobs
+1,379 open jobs
+Scrum Master jobs
+865 open jobs
+Functional Analyst jobs
+494 open jobs
+Digital Product Manager jobs
+101 open jobs
+Agile Coach jobs
+217 open jobs
+Technical Producer jobs
+13 open jobs
+Technical Product Manager jobs
+144 open jobs
+Business Analyst jobs
+1,032 open jobs
+Junior Product Manager jobs
+212 open jobs
+Senior Product Manager jobs
+403 open jobs
+Requirements Engineer jobs
+537 open jobs
+Senior Business Analyst jobs
+855 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Nedbank
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
