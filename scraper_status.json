@@ -1,9 +1,9 @@
 {
   "pid": 24128,
   "started_at": "2026-11-22T01:08:18+02:00",
-  "heartbeat_at": "2026-11-22T01:49:36+02:00",
+  "heartbeat_at": "2026-11-22T01:52:09+02:00",
   "phase": "reviewing",
-  "detail": "Design Coordinator",
-  "last_scrape_ok_at": "2026-11-22T01:48:38+02:00",
+  "detail": "Business Analyst",
+  "last_scrape_ok_at": "2026-11-22T01:50:51+02:00",
   "last_error": null
 }
