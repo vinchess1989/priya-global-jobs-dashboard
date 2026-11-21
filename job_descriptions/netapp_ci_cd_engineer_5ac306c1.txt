@@ -1,0 +1,303 @@
+Title: CI/CD Engineer
+Company: NetApp
+Location: County Cork, Ireland
+URL: https://ie.linkedin.com/jobs/view/ci-cd-engineer-at-netapp-4492303528
+Posted: 2026-11-22
+Deadline: Open until filled
+Reason: The role is a strong match for her background in CI/CD, release qualification, and automation within a regulated/high-assurance environment, and it is located in Ireland, which is a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+CI/CD Engineer
+NetApp  County Cork, Ireland
+12 hours ago   Be among the first 25 applicants
+  
+
+See who NetApp has hired for this role
+
+Apply 
+Save
+Own Every Moment at NetApp
+
+At NetApp, your ideas power innovation. We lead in intelligent data infrastructure—delivering unified storage, integrated data services, and solutions that help organizations unlock the full potential of their data, from AI to multicloud.
+
+Ready to innovate and contribute to our path to $10B? Here, you'll collaborate with passionate teams, tackle real-world challenges, and see your impact in how customers transform and grow. If you're ready to bring curiosity, creativity, and drive to every moment, NetApp is where your journey begins. Join teams that innovate to elevate, drive results, and excel together across every function.
+
+Job Summary
+
+NetApp is building a dedicated CI/CD organization to qualify and sustain the NetApp stack used in partnership with Google for their Google Distributed Cloud (GDC)project. GDC is a fully managed hardware and software solution that extends Google Cloud services to edge locations and on-premises data centers. GDC uses multiple NetApp technologies in this stack: ONTAP AFF, ONTAP Select, StorageGRID, and Trident.
+
+The GDC CI/CD team owns how software is qualified, automated, released, patched, and kept current for Google before and after it leaves NetApp.
+
+As a CI/CD Engineer , you will own major qualification and automation areas that span products, workloads, and teams. You will solve complex problems with substantial independence, define methods for new assignments, coordinate work across organizational boundaries, and mentor other engineers. Your work will directly shape the reliability and efficiency of GDC release qualification.
+
+What You'll Do
+
+CI/CD architecture and automation
+
+Design and own major portions of the GDC qualification topology, including simulator-based continuous integration and dedicated hardware paths for head-of-line and patch releases.
+
+Develop reusable automation frameworks, release gates, diagnostics, evidence packages, and recovery mechanisms.
+
+Establish engineering standards for test reliability, maintainability, observability, and failure triage.
+
+Identify systemic pipeline weaknesses and lead improvements that increase qualification speed without reducing coverage or confidence
+
+Solution Acceptance Testing (SAT)
+
+Translate Google-prescribed SAT requirements into maintainable automated coverage across file, block, object, and CSI control-plane workloads.
+
+Lead interoperability and regression qualification across ONTAP, ONTAP Select, Trident, StorageGRID, firmware, and API changes.
+
+Drive complex failures from initial signal through reproduction, isolation, defect ownership, fix validation, and closure.
+
+Advise product and CI/CD peers on difficult qualification and testability issues.
+
+GDC-representative environments
+
+Lead integration of GDC-like and air-gapped qualification into CTL automation as long-lived, restricted testbeds.
+
+Design reliable automation for disruptive hardware workflows such as cluster wipe, re-image, recreate, upgrade, and recovery.
+
+Own qualification in one or more advanced areas such as bring-your-own-network, VXLAN/EVPN, or zero-day turn-up using pre-cluster REST, DHCP, and automated controller bring-up.
+
+Release and operational leadership
+
+Lead qualification for assigned head-of-line and patch streams and provide clear readiness assessments.
+
+Coordinate defect triage and closure across CI/CD, product engineering, CTL, QEG, and support organizations.
+
+Contribute technical leadership during incident collaboration, root-cause analysis, and urgent patch qualification.
+
+Engage in incident management processes including the 24x7 on-call rotations (as per the sun model) to resolve production issues within agreed SLAs/SLOs.
+
+Mentor engineers, improve team practices, and coordinate cross-functional execution without relying on management authority.
+
+Qualifications
+
+Required qualifications
+
+Bachelor of Science in Computer Science, Engineering, or equivalent practical experience.
+
+Typically, 8 or more years of relevant experience in software, systems, infrastructure, quality, or test-automation engineering.
+
+Advanced programming or scripting ability in languages used for automation, such as Python, Go, PowerShell, or shell.
+
+Deep hands-on experience with Linux, distributed systems, and automated build, test, or release pipelines.
+
+Demonstrated ownership of complex qualification, CI/CD, site-reliability, or test-automation systems.
+
+Strong troubleshooting skills across multiple components, with the ability to select and adapt methods when precedent is incomplete.
+
+Experience coordinating cross-functional work, influencing adjacent teams, and mentoring engineers.
+
+Engage in incident management processes including the 24x7 on-call rotations (as per the sun model) to resolve production issues within agreed SLAs/SLOs.
+
+Preferred Qualifications
+
+Experience with ONTAP, Trident, StorageGRID, ONTAP Select, or comparable enterprise storage and CSI stacks.
+
+Kubernetes, container orchestration, and CSI qualification.
+
+Jenkins, GitLab CI, GitHub Actions, or comparable CI/CD platforms at meaningful scale.
+
+Terraform, Ansible, or equivalent infrastructure-automation tools.
+
+Air-gapped, sovereign, or high-assurance environment qualification.
+
+Network overlay experience, including VXLAN/EVPN and customer-provided networking models.
+
+Experience leading acceptance-test programs, release qualification, or operational readiness for infrastructure software.
+
+Experience working with hyperscaler, strategic partner, or customer engineering organizations.
+
+Success in the first 12 months
+
+You own a major GDC qualification area with reliable, maintainable coverage across simulator and hardware paths.
+
+SAT, interoperability, and patch gates in your scope run predictably and provide trusted readiness evidence.
+
+Complex cross-product failures are diagnosed faster because of the automation, observability, and working relationships you establish.
+
+You independently resolve most blockers, anticipate major risks, and lead cross-functional mitigation.
+
+Engineers around you deliver stronger designs and automation because of your technical guidance and mentoring.
+
+At NetApp, we embrace a hybrid working environment designed to strengthen connection, collaboration, and culture for all employees. This means that most roles will have some level of in-office and/or in-person expectations, which will be shared during the recruitment process.
+
+Equal Opportunity Employer:
+
+NetApp is firmly committed to Equal Employment Opportunity (EEO) and to compliance with all federal, state and local laws that prohibit employment discrimination based on age, race, color, gender, sexual orientation, gender identity, national origin, religion, disability or genetic information, pregnancy, protected veteran status, and any other protected classification.
+
+Why You'll Thrive at NetApp
+
+At NetApp, you won't wait for the perfect moment—you'll make it. The early planning, the extra thought, the bold idea that turns good into great: That's how our people operate and how we continue to push the boundaries of data infrastructure.
+
+NetApp is the trusted partner for organizations transforming data into opportunity. As the only enterprise-grade storage service natively embedded in Google Cloud, AWS, and Microsoft Azure, we empower customers to run everything from traditional workloads to enterprise AI with unmatched performance, resilience, and security.
+
+Our culture
+
+We celebrate mold breakers, bold thinkers, and problem solvers. We reward initiative, impact, and ownership. We provide flexibility so you can balance professional ambition with your personal life. Here, differences are not just welcomed—they drive everything we do.
+
+If you're ready to innovate, rise to the challenge, and own every moment - make your next move your best one. Apply now.
+
+Submitting an Application
+
+To ensure a streamlined and fair hiring process for all candidates, our team only reviews applications submitted through our company website. This practice allows us to track, assess, and respond to applicants efficiently. Emailing our employees, recruiters, or Human Resources personnel directly will not influence your application.
+
+AI Disclosure
+
+For select roles, some stages of our hiring process may use artificial intelligence tools to help evaluate applications and candidate selection. These tools support—rather than replace—human decision-making.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at NetApp by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Dev Ops Engineer
+Dev Ops Engineer
+Acuity
+Cork, County Cork, Ireland
+1 week ago
+DevOps Engineer
+DevOps Engineer
+Motorola Solutions
+Cork, County Cork, Ireland
+1 day ago
+DevOps Engineer, Radar Engineering
+DevOps Engineer, Radar Engineering
+Apple
+Cork, County Cork, Ireland
+4 weeks ago
+DevOps Engineer
+DevOps Engineer
+The Citco Group Limited
+Cork, County Cork, Ireland
+1 week ago
+DevSecOps Engineer
+DevSecOps Engineer
+McKesson
+Cork, County Cork, Ireland
+3 days ago
+Site Reliability Engineer, Enterprise Technology Services
+Site Reliability Engineer, Enterprise Technology Services
+Apple
+Cork, County Cork, Ireland
+1 month ago
+Show more jobs like this 
+People also viewed
+Site Reliability Engineer
+Site Reliability Engineer
+
+Acuity
+
+Cork, County Cork, Ireland
+1 week ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+Acuity
+
+Cork, County Cork, Ireland
+1 week ago
+Site Reliability Engineering, Radar Engineering
+Site Reliability Engineering, Radar Engineering
+
+Apple
+
+Cork, County Cork, Ireland
+4 weeks ago
+Lead DevOps Engineer
+Lead DevOps Engineer
+
+The Citco Group Limited
+
+Cork, County Cork, Ireland
+2 weeks ago
+Software Automation Engineer, Localisation & Release Engineering
+Software Automation Engineer, Localisation & Release Engineering
+
+Apple
+
+Cork, County Cork, Ireland
+6 months ago
+Lead Cloud Systems Engineer | Cork
+Lead Cloud Systems Engineer | Cork
+
+OpenText
+
+Cork, County Cork, Ireland
+1 week ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+OpenText
+
+Cork, County Cork, Ireland
+2 weeks ago
+Lead Site Reliability Engineer | Cork
+Lead Site Reliability Engineer | Cork
+
+OpenText
+
+Cork, County Cork, Ireland
+3 weeks ago
+Cloud Applications Engineer - Monitoring & Observability
+Cloud Applications Engineer - Monitoring & Observability
+
+OpenText
+
+Cork, County Cork, Ireland
+2 weeks ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+Acuity
+
+Cork, County Cork, Ireland
+2 weeks ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at NetApp
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

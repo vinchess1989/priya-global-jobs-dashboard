@@ -1,0 +1,286 @@
+Title: Manager, Platform Engineering, Developer Experience
+Company: Rivian
+Location: Vancouver, British Columbia, Canada
+URL: https://ca.linkedin.com/jobs/view/manager-platform-engineering-developer-experience-at-rivian-4492885188
+Posted: 2026-11-22
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in CI/CD, release management, and platform engineering, and it is located in Canada, which is a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Manager, Platform Engineering, Developer Experience
+Rivian  Vancouver, British Columbia, Canada
+17 hours ago   Be among the first 25 applicants
+  
+
+See who Rivian has hired for this role
+
+Apply 
+Save
+About Rivian
+
+Rivian is on a mission to keep the world adventurous forever. This goes for the emissions-free Electric Adventure Vehicles we build, and the curious, courageous souls we seek to attract.
+
+As a company, we constantly challenge what’s possible, never simply accepting what has always been done. We reframe old problems, seek new solutions and operate comfortably in areas that are unknown. Our backgrounds are diverse, but our team shares a love of the outdoors and a desire to protect it for future generations.
+
+Role Summary
+
+Rivian’s Commercial Technology organization builds and scales the digital products and platforms that power our end-to-end customer journey – spanning direct-to-consumer digital commerce, vehicle ordering and delivery, billing and financing, digital charging experiences, and global fleet management platforms.
+
+We are looking for a high-impact Engineering Manager for Developer Experience (DevEx) to spearhead engineering productivity across Commercial Technology. In this role, your primary mission is to eradicate friction, accelerate delivery cycles, and empower our engineers to ship resilient, high-quality software safely and quickly.
+
+This is a role for a former software engineer turned leader. You understand codebases, distributed architectures, and delivery bottlenecks firsthand. You know the frustration of broken pipelines, slow test runners, and fragmented documentation, and you will use that technical empathy to treat developer tooling as a first-class internal product for Commercial Technology.
+
+Responsibilities
+
+
+Spearhead Engineering Productivity: Define and drive the engineering productivity vision and roadmap across the Commercial Technology organization, removing systemic blockers in day-to-day software development.
+People & Team Leadership: Manage, coach, and grow a dedicated team of DevEx and platform engineers; conduct 1:1s, support technical career ladders, and maintain a high-ownership engineering culture.
+Treat Tooling as a Product: Act as the product owner for internal engineering systems. Partner with commercial engineering teams (commerce, billing, fleet, order management), gather direct feedback, identify friction points, and deliver measurable productivity wins.
+Modernize CI/CD & Delivery Pipelines: Optimize our GitLab & GitLab CI infrastructure and deployment pipelines. Drive down build and test cycle times, tackle test flakiness, and streamline artifacts and caching.
+Champion GitOps & Kubernetes Deployments: Deepen GitOps adoption using ArgoCD targeting Kubernetes clusters, enabling repeatable, self-healing, zero-downtime application deployments.
+Expand the Internal Developer Portal (Backstage): Drive the strategy and rollout of our internal portal powered by Backstage, establishing "Golden Paths," reusable service templates, centralized API documentation, and automated service catalogs.
+Measure What Matters: Track and systematically improve developer velocity metrics (DORA metrics, pipeline durations, time-to-first-commit for new hires, and Developer Net Promoter Scores / DevNPS).
+Cross-Functional Alignment: Partner with Cloud Platform, InfoSec, Quality Engineering, and commercial product squads to embed compliance, observability, and security standards seamlessly into our developer workflows.
+
+
+Qualifications
+
+
+Software Engineering Foundation: 5+ years of prior hands-on experience as a Software Engineer writing production code, building services, and participating in code reviews, distributed systems design, and debugging.
+Engineering Management Experience: 2+ years of direct people management experience leading software, platform, or infrastructure teams, with a track record of hiring, mentoring, and shipping cross-cutting initiatives.
+CI/CD Mastery: Proven experience with architecting, managing, and optimizing enterprise pipelines in GitLab CI (or equivalent CI engines).
+GitOps & Cloud-Native Depth: Hands-on operational experience with ArgoCD, Kubernetes, containerization (Docker), and cloud environments (AWS/GCP).
+Developer Portals: Experience implementing, customizing, or driving organizational adoption of Backstage (or similar internal developer portals) for service catalogs, scaffolding, and documentation.
+Product-Driven DevEx Mindset: Experience measuring developer friction quantitatively (DORA, SPACE frameworks) and qualitatively, turning developer pain points into structured roadmaps.
+Strong Communication & Influence: Ability to build consensus and advocate for engineering best practices across multiple commercial squads and technical stakeholders.
+
+
+Nice to Have
+
+
+Experience supporting modern e-commerce, payment, order fulfillment, or large-scale digital web/mobile architectures.
+Experience with monorepo tooling, build caches (e.g., Turborepo, Nx, Bazel), and ephemeral/preview testing environments.
+Active contributions to open-source developer tooling or the CNCF ecosystem (e.g., Backstage plugins, Argo projects).
+
+
+Pay Disclosure
+
+The salary range for this role is $137,300 - $171,600 CAD for Vancouver based applicants. This is the lowest to highest salary we in good faith believe we would pay for this role at the time of this posting. An employee’s position within the salary range will be based on several factors including, but not limited to, specific competencies, relevant education, qualifications, certifications, experience, skills, geographic location, shift, and organizational needs.
+
+The successful candidate may be eligible for annual performance bonus and equity awards.
+
+We offer a comprehensive package of benefits for full-time and part-time employees, their spouse or domestic partner, and children up to age 26, including but not limited to paid vacation, paid sick leave, and a competitive portfolio of insurance benefits including life, medical, dental, vision, short-term disability insurance, and long-term disability insurance to eligible employees. You may also have the opportunity to participate in Rivian’s 401(k) Plan and Employee Stock Purchase Program if you meet certain eligibility requirements. Full-time employee coverage is effective on their first day of employment. Part-time employee coverage is effective the first of the month following 90 days of employment. More information about benefits is available at rivianbenefits.com.
+
+You can apply for this role through careers.rivian.com (or through internal-careers-rivian.icims.com if you are a current employee).
+
+Equal Opportunity
+
+Rivian is an equal opportunity employer and complies with all applicable federal, state, and local fair employment practices laws. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, ancestry, sex, sexual orientation, gender, gender expression, gender identity, genetic information or characteristics, physical or mental disability, marital/domestic partner status, age, military/veteran status, medical condition, or any other characteristic protected by law.
+
+Rivian is committed to ensuring that our hiring process is accessible for persons with disabilities. If you have a disability or limitation, such as those covered by the Americans with Disabilities Act, that requires accommodations to assist you in the search and application process, please email us at candidateaccommodations@rivian.com.
+
+Candidate Data Privacy and Technology
+
+Rivian may collect, use and disclose your personal information or personal data (within the meaning of the applicable data protection laws) when you apply for employment and/or participate in our recruitment processes (“Candidate Personal Data”). This data includes contact, demographic, communications, educational, professional, employment, social media/website, network/device, recruiting system usage/interaction, security and preference information. Rivian may use your Candidate Personal Data for the purposes of (i) tracking interactions with our recruiting system; (ii) carrying out, analyzing and improving our application and recruitment process, including assessing you and your application and conducting employment, background and reference checks; (iii) establishing an employment relationship or entering into an employment contract with you; (iv) complying with our legal, regulatory and corporate governance obligations; (v) recordkeeping; (vi) ensuring network and information security and preventing fraud; and (vii) as otherwise required or permitted by applicable law.
+
+Rivian may share your Candidate Personal Data with (i) internal personnel who have a need to know such information in order to perform their duties, including individuals on our People Team, Finance, Legal, and the team(s) with the position(s) for which you are applying; (ii) Rivian affiliates; and (iii) Rivian’s service providers, including providers of background checks, staffing services, and cloud services.
+
+Rivian may transfer or store internationally your Candidate Personal Data, including to or in the United States, Canada, the United Kingdom, and the European Union and in the cloud, and this data may be subject to the laws and accessible to the courts, law enforcement and national security authorities of such jurisdictions.
+
+How We Use AI in Our Hiring Process: To ensure transparency, we want candidates to know that Rivian uses iCIMS Talent Cloud Artificial Intelligence (TCAI) and AI-enabled tools to assist with screening, reviewing, organizing and highlighting profiles and applications that match the key requirements for each role.
+
+AI does not make hiring decisions: Qualified candidate applications are reviewed by a member of our team, and all decisions throughout the process are made by humans. We use AI to support efficiency and consistency, not to replace human judgment. We are committed to a fair, thoughtful, and equitable experience for every candidate.
+
+Participation in AI profile matching is entirely voluntary. If you prefer that your profile not be used in this process, you can opt out at any time. Opting out means your profile will be excluded from automated matching and will not be surfaced for additional roles through this system. Your current application remains active and will not be affected in any way.
+
+Interview Integrity & AI Policy
+
+Our interview process is designed to evaluate your personal technical foundation, real-time problem-solving logic, and structured capabilities. Therefore, the use of assistive generative AI tools to formulate or deliver your solutions during live interview sessions is not permitted. We care most about how you think — how you make sense of unclear requirements, weigh trade-offs, and explain why you chose one approach over another. We value your unique human perspective, your authenticity, and the journey it takes to reach a solution.
+
+Please note that we are currently not accepting applications from third party application services.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Motor Vehicle Manufacturing
+  
+
+Referrals increase your chances of interviewing at Rivian by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Director of Engineering jobs
+Manager, Platform Engineering, Developer Experience
+Similar jobs
+Head of Platform & Infrastructure Engineering
+Head of Platform & Infrastructure Engineering
+Ashby
+Vancouver, British Columbia, Canada
+CA$475,000 - CA$550,000
+2 weeks ago
+Manager – Engineering
+Manager – Engineering
+Tucows Domains
+Vancouver, British Columbia, Canada
+5 days ago
+Manager, Software Engineering (Platform Engineering)
+Manager, Software Engineering (Platform Engineering)
+Planview
+Vancouver, British Columbia, Canada
+2 weeks ago
+Engineering Manager - Canada
+Engineering Manager - Canada
+Ashby
+Vancouver, British Columbia, Canada
+CA$250,000 - CA$370,000
+4 days ago
+Technical Leader (Remote)
+Technical Leader (Remote)
+Cisco
+Vancouver, British Columbia, Canada
+1 week ago
+Senior Engineering Manager
+Senior Engineering Manager
+Nutanix
+Vancouver, British Columbia, Canada
+1 week ago
+Show more jobs like this 
+People also viewed
+Engineering Lead
+Engineering Lead
+
+Teifi Digital
+
+Vancouver, British Columbia, Canada
+1 month ago
+Technical Lead, API
+Technical Lead, API
+
+Asana
+
+Vancouver, British Columbia, Canada
+2 weeks ago
+Engineering Manager -Accounting Core
+Engineering Manager -Accounting Core
+
+Xero
+
+Vancouver, British Columbia, Canada
+14 hours ago
+AI Development Manager
+AI Development Manager
+
+Boeing
+
+Richmond, British Columbia, Canada
+2 weeks ago
+Software Development Manager
+Software Development Manager
+
+Amazon
+
+Vancouver, British Columbia, Canada
+1 week ago
+Director of Engineering
+Director of Engineering
+
+Quandri
+
+Vancouver, British Columbia, Canada
+2 months ago
+Manager, Software Engineering (Sanction Service)
+Manager, Software Engineering (Sanction Service)
+
+Mastercard
+
+Vancouver, British Columbia, Canada
+1 week ago
+Software Engineer, Developer Efficiency Platform
+Software Engineer, Developer Efficiency Platform
+
+Apple
+
+Vancouver, British Columbia, Canada
+2 days ago
+DevOps Team Lead
+DevOps Team Lead
+
+Pixieset
+
+Vancouver, British Columbia, Canada
+3 weeks ago
+Infrastructure Software Engineer
+Infrastructure Software Engineer
+
+Connor, Clark & Lunn Investment Management (CC&L)
+
+Vancouver, British Columbia, Canada
+2 weeks ago
+Similar Searches
+Director of Engineering jobs
+1,182 open jobs
+Engineering Manager jobs
+7,405 open jobs
+Program Manager jobs
+9,384 open jobs
+Director jobs
+55,280 open jobs
+Engineer jobs
+24,068 open jobs
+Business Intelligence Consultant jobs
+1,095 open jobs
+Project Manager jobs
+15,352 open jobs
+Senior Engineering Manager jobs
+1,016 open jobs
+Business Intelligence Manager jobs
+8,028 open jobs
+Software Engineering Manager jobs
+3,105 open jobs
+Machine Learning Engineer jobs
+6,508 open jobs
+Senior Director jobs
+6,444 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Rivian
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
