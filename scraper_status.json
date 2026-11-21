@@ -1,9 +1,9 @@
 {
   "pid": 24128,
   "started_at": "2026-11-22T01:08:18+02:00",
-  "heartbeat_at": "2026-11-22T01:46:41+02:00",
+  "heartbeat_at": "2026-11-22T01:49:36+02:00",
   "phase": "reviewing",
-  "detail": "Technical Compliance Manager - Italy",
-  "last_scrape_ok_at": "2026-11-22T01:45:37+02:00",
+  "detail": "Design Coordinator",
+  "last_scrape_ok_at": "2026-11-22T01:48:38+02:00",
   "last_error": null
 }
