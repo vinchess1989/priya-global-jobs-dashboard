@@ -1,0 +1,301 @@
+Title: Database Change and Delivery Lead - Remote / Work from Home
+Company: The Australia Institute
+Location: Canberra, Australian Capital Territory, Australia
+URL: https://au.linkedin.com/jobs/view/database-change-and-delivery-lead-remote-work-from-home-at-the-australia-institute-4492529509
+Posted: 2026-11-21
+Deadline: Open until filled
+Reason: The role aligns perfectly with her experience in release management, Salesforce administration, and technical documentation, and it is located in Australia, which is a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Database Change and Delivery Lead - Remote / Work from Home
+The Australia Institute  Canberra, Australian Capital Territory, Australia
+1 day ago   Be among the first 25 applicants
+  
+
+See who The Australia Institute has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+The Australia Institute is one of Australia’s leading independent think tanks, conducting research and advocacy on economic, social, environmental and political issues. Our work is grounded in economic fairness, democratic accountability, environmental sustainability and evidence-based public policy.
+
+We are seeking a Database Change and Delivery Lead to manage the end-to-end delivery of a migration program. The role coordinates technical work with internal teams and external partners, and makes sure staff are ready, confident and supported to work in the new system from day one.
+
+This is a delivery and engagement role first. You will not be expected to write the migration code yourself, but you must understand database migration well enough to plan it realistically, challenge assumptions, manage the process and spot risk early.
+
+
+
+
+Key responsibilities
+
+Program and change delivery
+
+Plan, schedule and lead delivery of the database migration program, including scope, milestones, dependencies, resourcing and budget tracking.
+Apply a structured change and project methodology.
+Coordinate the migration lifecycle: current-state discovery, data mapping, cleansing and de-duplication, test loads, user acceptance testing, cutover and post-go-live stabilisation.
+Maintain the program's risks, assumptions, issues, dependencies log and escalate early with clear options.
+Manage external vendors, implementation partners and contractors against agreed deliverables, timeframes and cost.
+Define and run go/no-go criteria, cutover runbooks, rollback plans and hypercare arrangements.
+
+
+
+
+Stakeholder engagement and change management
+
+Identify and map stakeholders, and build a tailored engagement and communications plan for each group.
+Act as the main point of contact between leadership, end users, data and IT staff, and external partners.
+Run workshops to capture business requirements, current processes and future-state design decisions.
+Lead change impact assessments and plan training, guides and support so staff can adopt the new system.
+Develop and deliver practical staff training, providing hands-on guidance, ongoing support and troubleshooting throughout the transition to Salesforce, ensuring staff are confident and capable of using the new system effectively.
+Build and support a network of internal champions or super-users.
+Provide regular, plain-English status reporting to the executive and any steering committee.
+
+
+
+
+Data governance and quality
+
+Work with data owners to agree data migration rules, retention decisions and acceptance criteria.
+Make sure the migration complies with privacy obligations, including the Privacy Act 1988 and the Australian Privacy Principles, and any consent and fundraising requirements.
+Oversee reconciliation and validation so migrated records are complete, accurate and auditable.
+Document decisions, data dictionaries and new processes so knowledge stays with the organisation after the program ends.
+
+
+
+
+Selection criteria
+
+
+
+
+Essential
+
+Proven experience leading or delivering at least one end-to-end database or CRM migration program, from discovery through cutover and post-go-live support.
+Demonstrated project and change delivery experience, including planning, scheduling, risks, assumptions, issues and dependencies log management, budget tracking and status reporting.
+Strong stakeholder engagement skills, with a track record of building trust across executive, operational and technical audiences.
+Practical understanding of data migration concepts: data mapping, transformation, cleansing, de-duplication, test loads, reconciliation and cutover planning.
+Experience managing vendors or implementation partners against contracted deliverables.
+Excellent written and verbal communication, including the ability to explain technical risk in plain English.
+Ability to work independently in a part-time, hybrid arrangement and prioritise effectively across competing demands.
+
+Desirable
+
+Hands-on experience with Salesforce migrations or implementations, ideally Salesforce Nonprofit Cloud, NPSP or a similar CRM data model.
+Familiarity with migration and integration tools such as Salesforce Data Loader, Data Import Wizard, dataloader.io, MuleSoft or SQL-based ETL.
+Experience in the not-for-profit, research, policy or advocacy sectors, including supporter, donor or membership data.
+Experience with reporting tools such as Power BI or Salesforce reports and dashboards.
+
+
+
+
+Working arrangements and how to apply
+
+3 days per week. Work is remote or from our Canberra office, with on-site days in Canberra required around workshops, UAT and cutover. Occasional flexibility outside core hours may be needed during cutover windows.
+
+
+
+
+To apply as soon as possible:
+
+A current CV (doc. or pdf.)
+A cover letter of no more than two pages (doc. or pdf.)
+A short summary of one database migration program you delivered (doc. or pdf.)
+
+
+
+
+For a confidential discussion about the role, contact Ian Coleman, Fundraising Director, ian.coleman@australiainstitute.org.au using the subject line: Database Change and Delivery Lead - Remote / Work from Home enquiry via EthicalJobs or 0408 274 781.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Think Tanks
+  
+
+Referrals increase your chances of interviewing at The Australia Institute by 2x
+
+See who you know
+
+Get notified about new Delivery Lead jobs in Canberra, Australian Capital Territory, Australia.
+
+Sign in to create job alert
+Jobs
+Delivery Manager jobs
+Database Change and Delivery Lead - Remote / Work from Home
+Similar jobs
+Technical Data Lead
+Technical Data Lead
+Lockheed Martin
+Canberra, Australian Capital Territory, Australia
+1 week ago
+Database Administrator (DBA) (AU Citizen with Security Clearance)
+Database Administrator (DBA) (AU Citizen with Security Clearance)
+Accenture Australia
+Canberra, Australian Capital Territory, Australia
+4 days ago
+Senior / Lead Analytics Engineer
+Senior / Lead Analytics Engineer
+Insight Timer
+Canberra, Australian Capital Territory, Australia
+4 months ago
+SQL Senior Database Administrator
+SQL Senior Database Administrator
+Leidos
+Canberra, Australian Capital Territory, Australia
+4 months ago
+SQL Senior Database Administrator
+SQL Senior Database Administrator
+Leidos Australia
+Canberra, Australian Capital Territory, Australia
+2 weeks ago
+Data Warehouse Architect
+Data Warehouse Architect
+Leidos
+Canberra, Australian Capital Territory, Australia
+2 months ago
+Show more jobs like this 
+People also viewed
+Manager, Professional Services
+Manager, Professional Services
+
+Axon
+
+Canberra, Australian Capital Territory, Australia
+2 weeks ago
+Change & Release Coordinator
+Change & Release Coordinator
+
+Experis Australia
+
+Canberra, Australian Capital Territory, Australia
+1 week ago
+Mainframe Consultant
+Mainframe Consultant
+
+Whizdom
+
+Canberra, Australian Capital Territory, Australia
+A$125 - A$175
+4 days ago
+Manager - Oceania Data Office
+Manager - Oceania Data Office
+
+EY
+
+Canberra, Australian Capital Territory, Australia
+3 days ago
+Senior Data Modeller
+Senior Data Modeller
+
+Yolk Digital
+
+Canberra, Australian Capital Territory, Australia
+2 days ago
+Infrastructure Engineer
+Infrastructure Engineer
+
+Bridge IT Engineering
+
+Canberra, Australian Capital Territory, Australia
+3 days ago
+Lead Data Systems Data Engineer
+Lead Data Systems Data Engineer
+
+Clicks IT Recruitment
+
+Canberra, Australian Capital Territory, Australia
+1 month ago
+Change And Release Manager
+Change And Release Manager
+
+Bridge IT Engineering
+
+Canberra, Australian Capital Territory, Australia
+3 days ago
+ITSM Process Manager
+ITSM Process Manager
+
+Kinetic IT
+
+Canberra, Australian Capital Territory, Australia
+1 day ago
+Technical Business Analyst
+Technical Business Analyst
+
+GRIDSIGHT
+
+Belconnen, Australian Capital Territory, Australia
+3 months ago
+Similar Searches
+Delivery Manager jobs
+6,760 open jobs
+Agile Coach jobs
+894 open jobs
+Release Engineer jobs
+607 open jobs
+Scrum Master jobs
+3,466 open jobs
+Service Delivery Consultant jobs
+1,076 open jobs
+Release Manager jobs
+1,681 open jobs
+Project Manager Scrum Master jobs
+1,013 open jobs
+Service Delivery Director jobs
+161 open jobs
+Managed Services Consultant jobs
+896 open jobs
+SAP Lead jobs
+366 open jobs
+Senior Project Manager jobs
+3,051 open jobs
+Application Development Manager jobs
+433 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at The Australia Institute
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
