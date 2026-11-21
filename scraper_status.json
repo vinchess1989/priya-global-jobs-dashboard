@@ -1,9 +1,9 @@
 {
   "pid": 62016,
   "started_at": "2026-11-21T01:13:20+02:00",
-  "heartbeat_at": "2026-11-21T02:11:00+02:00",
+  "heartbeat_at": "2026-11-21T02:13:36+02:00",
   "phase": "reviewing",
-  "detail": "Enviroment & Release Manager",
-  "last_scrape_ok_at": "2026-11-21T02:09:43+02:00",
+  "detail": "Mechanical Engineer",
+  "last_scrape_ok_at": "2026-11-21T02:12:30+02:00",
   "last_error": null
 }
