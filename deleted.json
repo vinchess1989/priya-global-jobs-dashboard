@@ -30785,5 +30785,22 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Senior People Relations Specialist",
+    "company": "Peabody",
+    "location": "London, UK",
+    "url": "https://www.cv-library.co.uk/job/225781465/senior-people-relations-specialist",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is for an HR/People Relations professional, which is outside the candidate's technical/engineering domain, and the posting explicitly states that visa sponsorship is not available.",
+    "id": "f656ab6f",
+    "source": "cv_library_documentation_specialist",
+    "added_at": "2026-11-22T02:19:56+02:00",
+    "posted_date": "30th oct",
+    "deadline": "2025-11-12",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Deadline (2025-11-12) passed by more than 2 days and unreviewed"
   }
 ]
