@@ -30989,5 +30989,22 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": null,
     "deletion_reason": "Deadline (2026-11-21) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "DIRECTOR: QUALITY PROMOTION AND ASSURANCE",
+    "company": "University of KwaZulu-Natal",
+    "location": "KwaZulu-Natal, South Africa",
+    "url": "https://za.linkedin.com/jobs/view/director-quality-promotion-and-assurance-at-university-of-kwazulu-natal-4489428785",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role requires a Doctoral degree and specific experience in the higher education sector, which does not align with the candidate's technical and industry-focused background.",
+    "id": "47bf72ee",
+    "source": "linkedin_za_quality_manager",
+    "added_at": "2026-11-23T01:45:59+02:00",
+    "posted_date": "2026-11-16",
+    "deadline": "2026-11-17",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-11-17) passed by more than 2 days and unreviewed"
   }
 ]
