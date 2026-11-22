@@ -30751,5 +30751,22 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": null,
     "deletion_reason": "Deadline (2026-08-24) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Senior Adviser (Plant Products)",
+    "company": "Ministry for Primary Industries (MPI)",
+    "location": "Wellington, Wellington, New Zealand",
+    "url": "https://nz.linkedin.com/jobs/view/senior-adviser-plant-products-at-ministry-for-primary-industries-mpi-4491110052",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role requires a specific scientific background in fields like pathology, entomology, or ecology, which does not align with the candidate's technical/engineering and software release management background.",
+    "id": "f61e61f2",
+    "source": "linkedin_nz_eu_mdr",
+    "added_at": "2026-11-22T02:15:33+02:00",
+    "posted_date": "2026-11-17",
+    "deadline": "2025-11-30",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Deadline (2025-11-30) passed by more than 2 days and unreviewed"
   }
 ]
