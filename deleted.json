@@ -30734,5 +30734,22 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": null,
     "deletion_reason": "Deadline (2026-11-20) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Business Communication Consultant",
+    "company": "Sanlam",
+    "location": "Johannesburg, Gauteng, South Africa",
+    "url": "https://za.linkedin.com/jobs/view/business-communication-consultant-at-sanlam-4491859986",
+    "visited": "yes",
+    "matches_requirements": "maybe",
+    "reason": "The role aligns with her technical communication and documentation experience, but it is labeled as 'Entry level' which is below her 15 years of experience, and it is unclear if visa sponsorship is available for South Africa.",
+    "id": "750a3cb1",
+    "source": "linkedin_za_technical_writer",
+    "added_at": "2026-11-22T01:58:56+02:00",
+    "posted_date": "2026-11-19",
+    "deadline": "2026-08-24",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-08-24) passed by more than 2 days and unreviewed"
   }
 ]
