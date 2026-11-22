@@ -1,0 +1,315 @@
+Title: Senior DevOps Engineer
+Company: Lyka
+Location: Alexandria, New South Wales, Australia
+URL: https://au.linkedin.com/jobs/view/senior-devops-engineer-at-lyka-4492784916
+Posted: 2026-11-21
+Deadline: Open until filled
+Reason: The role is a strong match for her DevOps and CI/CD expertise, is located in an eligible country (Australia), and does not contain any hard rejections.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer
+Lyka  Alexandria, New South Wales, Australia
+2 days ago  29 applicants
+  
+
+See who Lyka has hired for this role
+
+Apply
+Save
+
+Who are we?
+
+
+
+Lyka is an Australian founded pet wellness company that's shaking up an outdated industry and paving the way for happier, healthier pets. Despite medical advancements, animal lifespans are on the decline. Today, the average pet only reaches 37% of their full potential lifespan and statistics have shown us that many suffer from dental disease, cancer, and obesity. Simply put, the status quo is not enough.
+
+
+
+As humans, we've experienced firsthand the positive impact fresh wholefoods can have on our health and wellbeing, and we believe our furry friends deserve the same. We're on a mission to do just that, starting with nutritionally balanced, wholefood meals delivered direct to doors around Australia. As the world's most sustainable pet wellness company, we're putting pets and our planet first - one bowl at a time.
+
+
+
+Today, we are proud to share we've served over 100 million meals to puppers and their parents across Australia, and this is just the beginning. Our vision is to create multiple nutritional products, adding disease prevention meals and supplements, and expand into new markets.
+
+
+
+Currently, we have a team of 250+ pet-obsessed people, and we're continuing to grow (yes, looking at you!). These carefully selected people are dedicated to building the next generation of technology and products to help empower pet parents to take control over their pet's wellbeing.
+
+
+
+Our Mission
+
+
+
+The time we share with our pets is being cut short. Despite medical advancements, they're getting sicker earlier. They're dying prematurely. The industry has it backwards - prioritising treating symptoms instead of addressing the root cause. That's where we come in.
+
+
+
+At Lyka, we take a preventative, holistic and personalised approach to pet care. We look at the full picture, factoring in the diet, lifestyle and environment of each individual animal.
+
+
+
+We don't stop at symptoms, instead we dig for the root cause. We create nutrition plans unique to each pet, because it's not just about living longer, but living well too.
+
+
+
+Our mission is to increase the lifespan of dogs and cats.
+
+
+
+The Role
+
+As a Senior DevOps Engineer, you will be a technical expert responsible for building and maintaining the foundational infrastructure and tooling that enables our Engineering teams to deliver exceptional experiences to customers efficiently and securely.
+
+You will combine expertise in cloud infrastructure, automation, and software engineering to design and implement robust, scalable solutions that enhance developer productivity while maintaining the highest standards of reliability, security, and cost efficiency. Working closely with our Engineering, Security, and Product teams, you will be instrumental in shaping our DevOps culture and practices.
+
+This is a critical technical role where you will drive automation initiatives, oversee our AWS infrastructure, and build the tools and processes that empower our teams to move fast while maintaining quality. You will balance hands-on technical work with strategic thinking, ensuring our infrastructure scales with our business growth.
+
+
+
+What you'll do:
+
+Infrastructure Management: Design, implement, and maintain scalable AWS infrastructure with a focus on performance, reliability, security and cost efficiency.
+CI/CD: Continuously improve our GitHub build and release pipelines, managing build configuration and instrumentation, ensuring seamless deployment processes and providing metrics the team can use to address bottlenecks and failures.
+Developer Productivity: Build and maintain self-service tooling and automated workflows that reduce manual overhead, including access management systems, data synchronisation/migration, release automation, specialised LLM agents for safe targeted actions, and operational tools/dashboards.
+Monitoring and Observability: Lead the evolution of our monitoring strategy using CloudWatch, Honeycomb.io , and Rootly to ensure the Engineering team has comprehensive visibility and and can proactively respond to emerging issues across all systems.
+DevOps Advocacy: Champion DevOps best practices and culture across the Engineering team, providing expert guidance on solution designs and ensuring infrastructure considerations are embedded in our development processes.
+Security Collaboration: Partner closely with our Security team to design, build, and deploy centralized security infrastructure, automated vulnerability tracking, and compliance tooling.
+Engineering Heatlh: Collaborate with the Engineering leadership team to define, track, and alert on core Engineering health metrics, owning the complete data pipeline for engineering measurement and reporting.
+Technical Mentorship: Provide guidance to Engineering teams on infrastructure best practices, troubleshooting complex issues, and promoting a culture of operational excellence.
+
+
+Requirements
+
+
+Strong fluency in at least one modern programming language.
+Extensive hands-on experience with AWS services including Lambda, DynamoDB, Athena, EC2, RDS, API Gateway, WAF, CloudWatch, CDK, Amazon Glue, and IAM.
+Proven experience designing and implementing CI/CD pipelines and build automation systems.
+Experience managing and optimising cloud infrastructure costs while maintaining performance and reliability.
+Strong background in monitoring, logging, and observability practices for distributed systems.
+Experience with Infrastructure as Code (IaC) principles and tools, particularly CloudFormation and AWS CDK.
+Demonstrated ability to build developer tooling and automation that improves team productivity.
+Solid understanding of security best practices in cloud environments and DevSecOps principles.
+Experience with incident response, troubleshooting, and maintaining high-availability systems.
+Excellent communication skills and ability to collaborate effectively with cross-functional teams.
+A high degree of autonomy and self-direction in driving technical initiatives.
+Good judgement in when, where and how to leverage LLM-powered tools in your workflow to increase quality while maintaining pace and achieving token efficiency.
+
+
+Preferred Qualifications
+
+Proficiency in the NodeJS/TypeScript ecosystem.
+Experience with GitHub administration and advanced CI/CD configuration.
+Familiarity with Honeycomb.io , Rootly, or similar observability and incident management tools.
+Experience with e-commerce solutions.
+Mixed background in Site Reliability Engineering (SRE) and Software Engineering (SWE) practices and methodologies.
+Experience with data pipeline tools like Amazon Glue and Athena for analytics workloads.
+Knowledge of container orchestration and serverless architecture patterns.
+Experience with workflow automation tools and platform (e.g. Slack applications, Google AppScript, LangChain, etc.)
+Experience with building, maintaining and optimising harnesses for safe agentic workflows leveraging LLMs.
+
+
+Benefits
+
+
+Work in a fast-growing start-up, experiencing what goes behind the scenes to sustain hyper-growth for a start-up with a physical product!
+Growth and Development - Lyka is growing extremely quickly, which means you will have the opportunity to experience different challenges every day and progressively acquire more responsibilities as our facility and team expands. We provide an annual budget for you to continue your personal development.
+Work for a sustainability focused company - we care about the health of our pets and our planet. We're proud to be Australia's only carbon-negative and plastic-negative pet company and we're always looking at ways for us improve sustainability practices.
+Be part of a diverse top talent team, coming from widely different backgrounds and geographies.
+Up to 18 weeks of paid parental leave top-up.
+Wellbeing assistance and tools to take care of your mental and physical wellbeing so you can do your best work.
+Pupper parent support to care for your furry friends - flexible arrangements for new pets, pet-friendly offices, discounts, and financial allowance for dog training & care to help them live their best life.
+
+
+We are committed to building inclusive and diverse teams
+
+Lyka is an equal opportunity employer devoted to providing a working environment that embraces and values diversity and inclusion. We celebrate diversity, are devoted to creating an inclusive environment for all staff and encourage people of all backgrounds to apply. If you have any support or access requirements, we encourage you to advise us at the time of application.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Technology, Information and Internet
+  
+
+Referrals increase your chances of interviewing at Lyka by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Alexandria, New South Wales, Australia.
+
+Sign in to create job alert
+Jobs
+Vehicle Engineer jobs
+Senior DevOps Engineer
+Similar jobs
+Senior Engineer – DevOps & Platform Engineering
+Senior Engineer – DevOps & Platform Engineering
+ASX
+Sydney, New South Wales, Australia
+1 week ago
+DevOps Infrastructure Engineer
+DevOps Infrastructure Engineer
+NSW Police Force
+Greater Sydney Area
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Australian Prudential Regulation Authority
+Sydney, New South Wales, Australia
+2 weeks ago
+Platform Engineer
+Platform Engineer
+BIG W
+Sydney, New South Wales, Australia
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+Nasdaq
+Sydney, New South Wales, Australia
+1 week ago
+DevOps Engineer
+DevOps Engineer
+Macquarie Group
+Sydney, New South Wales, Australia
+1 week ago
+Show more jobs like this 
+People also viewed
+DevOps Engineer
+DevOps Engineer
+
+Sandstone Technology
+
+North Sydney, New South Wales, Australia
+4 days ago
+DevOps Engineer, Blockchain Infra (Fully Remote)
+DevOps Engineer, Blockchain Infra (Fully Remote)
+
+Binance
+
+Sydney, New South Wales, Australia
+4 days ago
+DevSecOps Platform Engineer (D365)
+DevSecOps Platform Engineer (D365)
+
+Housing Australia
+
+Sydney, New South Wales, Australia
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+DeVision Recruitment
+
+Sydney, New South Wales, Australia
+A$150,000 - A$170,000
+4 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Insignia Financial
+
+Sydney, New South Wales, Australia
+1 week ago
+Senior Cloud Engineer
+Senior Cloud Engineer
+
+White Bay
+
+Sydney, New South Wales, Australia
+A$170,000 - A$180,000
+2 days ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+DroneShield
+
+Sydney, New South Wales, Australia
+3 days ago
+DevOps Engineer (AU Citizen with Security Clearance)
+DevOps Engineer (AU Citizen with Security Clearance)
+
+Accenture Australia
+
+Sydney, New South Wales, Australia
+2 months ago
+Production Reliability Engineer
+Production Reliability Engineer
+
+ASX
+
+Sydney, New South Wales, Australia
+2 days ago
+DevOps Engineer
+DevOps Engineer
+
+Opus Recruitment Solutions
+
+Sydney, New South Wales, Australia
+1 week ago
+Similar Searches
+Vehicle Engineer jobs
+813 open jobs
+Lead Data Analyst jobs
+1,098 open jobs
+Technology Analyst jobs
+2,628 open jobs
+Group Reporting Manager jobs
+899 open jobs
+Veterinarian jobs
+240 open jobs
+Business Partner jobs
+5,821 open jobs
+Product Engineer jobs
+1,751 open jobs
+Human Resources Advisor jobs
+777 open jobs
+Strategy Manager jobs
+3,659 open jobs
+Indirect Tax Manager jobs
+152 open jobs
+Technical Analyst jobs
+6,416 open jobs
+Director of Packaging jobs
+39 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

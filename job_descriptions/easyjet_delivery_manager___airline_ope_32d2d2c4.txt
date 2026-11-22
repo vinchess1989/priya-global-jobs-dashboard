@@ -1,0 +1,433 @@
+Title: Delivery Manager – Airline Operations Platform
+Company: easyJet
+Location: Luton, England, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/delivery-manager-%E2%80%93-airline-operations-platform-at-easyjet-4493367930
+Posted: 2026-11-23
+Deadline: N/A
+Reason: The role aligns perfectly with the candidate's extensive experience in release management, dependency coordination, and quality gatekeeping within complex, operational environments.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Delivery Manager – Airline Operations Platform
+easyJet  Luton, England, United Kingdom
+5 hours ago   Be among the first 25 applicants
+  
+
+See who easyJet has hired for this role
+
+Apply 
+Save
+We are easyJet – a FTSE-250 listed, £multi-billion low-cost airline that serves tens of millions of customers every single year. If you’re reading this, you have probably already been an easyJet customer, and you’ll know that there is no more iconic (or Orange!) travel brand in Europe.
+
+We fly more than 1,207 routes, connecting 38 countries across Europe, and employ more than 18,000 colleagues. We’re on a mission to make low-cost travel easy – and whatever your role here, you’ll connect millions of people to what they love using Europe’s best airline network, great value fares, and friendly service.
+
+What makes us easyJet? Our Promise Behaviours – we are Safe, Bold, Welcoming and Challenging. Four Behaviours. One Spirit. One easyJet.
+
+Role Overview
+
+TEAM
+
+
+At easyJet, we are transforming Airline Operations through modern product-led technology, operational excellence, automation, data and AI-enabled capabilities.
+The Airline Operations Platform is the single point of contact for the applications and source data availability assigned to the Platform, enabling four operational missions across four business critical applications. It owns the crew, flight planning, network control and engineering systems that keep the network flying, AIMS, TOPS, LIDO and AMOS.
+As Delivery Manager, you will operate the delivery system between the Platform and the missions. You will coordinate the platform squads against mission sprints, own delivery cadence, and manage vendor commitments as dependencies rather than assumptions — so what Platform commits to a mission is deliverable, visible and honoured.
+This is a delivery role in a live operational environment. Much of the work involves interdependent third-party systems, so your value lies in sequencing, dependency management and honest, early communication when a commitment is at risk.
+Working closely with Mission Product Managers, Platform Leads, Technical Specialists, Architects, Service Support and Supplier Management, you will make delivery predictable, keep the backlog credible, and ensure change reaches the operation safely and with the right cover in place.
+This role reports to the Platform Lead – Demand & Capability and is one of two Delivery Managers, with mission and portfolio coverage allocated between them. The role has no direct reports and leads through influence, coordinating squad members who sit within the Platform capability chapters.
+
+
+
+Job Purpose
+
+
+Coordinate the platform squads against mission sprints, owning delivery cadence across the allocated portfolio.
+Own the commitment position with the missions: what Platform has committed to each sprint, what has changed, and what is at risk.
+Track and manage vendor commitments as external dependencies, surfacing the vendor critical path before it becomes a delay.
+Own dependency, risk and issue management across products, missions, suppliers and enterprise platforms.
+Ensure work entering a sprint is sized, understood and free of unresolved dependencies.
+Support the demand rhythm through triage, sizing and the reuse-first challenge, keeping the single backlog credible and current.
+Ensure change reaches the operation safely, with readiness, supportability, documentation and cover agreed before release.
+Define and report delivery metrics that give visibility of flow, predictability and delivery health.
+Champion Product and Platform ways of working, treating the missions as customers of the Platform.
+Provide clear, early communication on progress, risk and change to mission and Platform leadership.
+Drive continuous improvement in how the Platform delivers, removing repeated impediments rather than working around them.
+
+
+
+Job Accountabilities
+
+Delivery Cadence & Squad Coordination
+
+
+Coordinate platform squads across the capability chapters — Data Availability, API & Integration; Proactive App Management; Automation — against mission sprint commitments.
+Own the delivery cadence: backlog refinement, sprint planning, stand-ups, reviews and release planning, run consistently rather than when there is time.
+Maintain one backlog and one plan for the allocated portfolio, so squad members working across several missions have a single view of priority.
+Sequence work so that run and support, mission demand and improvement work coexist rather than compete, protecting the agreed capacity allocation.
+Keep the plan honest: reflect actual progress and capacity, not the plan as originally committed.
+
+
+
+Mission Interface & Commitment Management
+
+
+Run the per-sprint interface sync with the Mission Product Managers for the allocated missions: what Platform commits to that sprint, and what has changed since the last one.
+Own the commitment record, so a mission always knows what it is getting, when, and what it depends on.
+Surface changes to commitment early, with the reason and the option set, rather than reporting a miss after the fact.
+Ensure missions are not building platform capability that is already coming, by making the Platform roadmap and backlog visible to them.
+Escalate to the Platform Lead – Demand & Capability where commitments and capacity diverge, with the trade-off articulated.
+
+
+
+Demand Support, Sizing & Dependencies
+
+
+Support daily triage and the weekly demand review, contributing sizing, dependency mapping and the reuse-first challenge.
+Ensure nothing enters a sprint unsized, without dependencies mapped, or without the vendor critical path named in the commitment.
+Own dependency management across products, missions, suppliers, enterprise data, architecture and I&O, coordinating resolution rather than reporting the blockage.
+Maintain and work the risk and issue log for the allocated portfolio, with mitigations owned, monitored and escalated where required.
+Identify where the same dependency or impediment recurs, and work with the Platform Leads and Architects to remove the cause.
+
+
+
+Vendor & Supplier Delivery
+
+
+Track vendor commitments — releases, fixes, roadmap items, API and integration changes — as external dependencies with dates, owners and evidence.
+Hold suppliers to their delivery commitments day to day, escalating to the Supplier Management Specialist where contractual leverage is needed.
+Ensure vendor-driven change is sequenced through the same route as internal work, and impact assessed before it is accepted.
+Feed delivery evidence — missed dates, repeated defects, performance under load — into supplier performance management.
+Coordinate vendor activity around the operational calendar, so third-party change does not land at the wrong moment for the operation.
+
+
+
+Release, Readiness & Transition into Support
+
+
+Coordinate release planning and deployment across products, suppliers and operational stakeholders.
+Ensure every release meets agreed readiness criteria before it goes live: testing and quality gates with the QE function, monitoring, documentation, training, supportability and named cover.
+Work with the Technical Specialists and Service Support Lead so support and callout arrangements are in place before change reaches the operation, not after.
+Coordinate the delivery and readiness elements of applications transitioning between the Platform and the missions.
+Run lessons learned after significant releases and major incidents with a delivery cause, and feed the outcome into how the next one is planned.
+
+
+
+Delivery Performance & Continuous Improvement
+
+
+Define and maintain delivery metrics and flow measures for the allocated portfolio, including predictability, throughput, unplanned work and time to triage.
+Provide reporting that gives mission and Platform leadership a true view of delivery health rather than a reassuring one.
+Identify and remove systemic impediments affecting delivery performance, escalating those that need leadership intervention.
+Improve delivery practice across the squads: estimation, definition of ready and done, release discipline and handover quality.
+Promote a culture of continuous improvement, experimentation and learning within the delivery cadence.
+
+
+
+Product & Platform Ways of Working
+
+
+Operate the Platform as a product with the missions as its customers: a defined offer, a single backlog, published interfaces and a clear route in.
+Work within the product operating model rather than around it, so demand is met through sprint commitments and roadmaps rather than side-door escalation.
+Coach squad members and stakeholders in modern delivery practice, lean governance and outcome-focused execution.
+Partner with Mission Product Managers so platform capability is treated as a dependency in their roadmaps and reused across missions rather than rebuilt in each one.
+Collaborate with PMO, Portfolio and Transformation teams to align governance, funding and reporting approaches, and support the wider Product and Platform transformation.
+
+
+
+Stakeholder Management & Communication
+
+
+Act as the primary day-to-day delivery contact for the allocated missions and for stakeholders across Technology and Operations.
+Build strong working relationships with Mission Product Managers, Platform Leads, Technical Specialists, Architects, Data, Service Support and suppliers.
+Communicate progress, risk, dependency and change clearly and early, adapting the message to the audience without softening the substance.
+Support quarterly planning, portfolio and capacity forums and Platform governance activities with accurate delivery input.
+Represent Platform delivery credibly during operational disruption, where the priority is clarity rather than detail.
+
+
+
+Key Skills Required
+
+
+Proven delivery management experience in a complex technology environment, coordinating multiple teams or squads against competing priorities.
+Strong understanding of Product and Platform ways of working, including platform-as-a-product thinking, treating internal teams as customers, and reuse over rebuild.
+Strong understanding of Agile and Lean delivery practice, including backlog management, sizing, sprint-based commitment models and release planning.
+Strong dependency, risk and issue management experience across products, suppliers and enterprise functions.
+Experience managing third-party and vendor delivery commitments, including holding suppliers to dates and quality.
+Experience of release management and operational readiness, including transition into support in a live environment.
+Experience delivering change into a 24x7 operational environment, with an understanding of the constraints that imposes.
+Strong stakeholder management and communication skills, with the ability to give an unwelcome message early and clearly.
+Experience leading through influence, without line management authority over the people doing the work.
+Strong understanding of delivery metrics, flow measurement and performance reporting.
+Ability to balance planning discipline with the pragmatism a live operation demands.
+Proficiency with Jira, Azure DevOps, Confluence, ITSM tooling and related delivery platforms.
+Strong analytical, facilitation and organisational skills, with genuine attention to detail.
+
+
+
+Desirable Skills
+
+
+Experience within aviation, airline operations, airport operations or transport environments.
+Familiarity with crew, ops control, flight planning or maintenance systems and their operational rhythms.
+Experience delivering against third-party product roadmaps where the critical path sits with a vendor.
+Experience of integration, API or data delivery between vendor systems and internal products.
+Service management grounding (ITIL or equivalent), particularly change, release and service transition.
+Experience supporting a team or function through a transition to product-led working.
+Understanding of AI, automation and data-driven operational improvement opportunities.
+
+
+
+LOCATION & HOURS OF WORK
+
+This full-time role will be based in Luton with hybrid working arrangements.
+
+Some flexibility is required around release windows, major change events and periods of operational disruption, with occasional travel to operational locations and supplier sites.
+
+“Please note that this role does not meet the criteria for visa sponsorship, and we are therefore unable to consider applicants who require sponsorship to work in the UK.”
+
+Why Join easyJet
+
+You will be at the heart of our mission to deliver seamless digital experiences for millions of passengers. This role offers the opportunity to champion service maturity, influence tech evolution, and grow your career within a fast-paced, household-name airline.
+
+“Please note that this role does not meet the criteria for visa sponsorship, and we are therefore unable to consider applicants who require sponsorship to work in the UK.”
+
+How To Apply
+
+If you are a self-starter who can identify opportunities to drive greater success for the team and have a track record of building strong relationships with internal stakeholders, we would love to hear from you. Apply now to join our dynamic team!
+
+What You’ll Get In Return
+
+At easyJet, we pride ourselves on a vibrant and inclusive workplace culture that supports and rewards innovation and excellence.
+
+We Offer
+
+
+Competitive base salary
+20% bonus potential.
+25 days holiday, pension scheme, life assurance, and a flexible benefits package.
+Discounted staff travel scheme for friends and family
+Annual credit for discount on easyJet holidays
+‘Work Away’ scheme, allowing you to work abroad for 30 days a year
+Electric vehicle lease salary sacrifice scheme
+
+
+
+Location & Hours of Work
+
+We operate a hybrid working policy of 40%-60% of the month spent with colleagues.
+
+We look forward to your application and the possibility of you flying high with our team!
+
+Application Process
+
+Interested candidates should apply through our careers portal.
+
+Reasonable Adjustments
+
+At easyJet, we are dedicated to fostering an inclusive workplace that reflects the diverse customers we serve across Europe. We welcome candidates from all backgrounds. If you require specific adjustments or support during the application or recruitment process, such as extra time for assessments or accessible interview locations, please contact us at ma.recruitment@easyjet.com.
+
+We are committed to providing reasonable adjustments throughout the recruitment process to ensure accessibility and accommodation
+
+Business Area
+
+Information Technology (IT)
+
+Primary Location
+
+United Kingdom-London-London Luton Airport
+
+Organisation
+
+Information Technology (IT)
+
+Schedule
+
+Full-time
+
+Unposting Date
+
+Ongoing
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Airlines and Aviation, IT Services and IT Consulting, and Information Services
+  
+
+Referrals increase your chances of interviewing at easyJet by 2x
+
+See who you know
+
+Get notified about new Delivery Manager jobs in Luton, England, United Kingdom.
+
+Sign in to create job alert
+Jobs
+Delivery Manager jobs
+Delivery Manager – Airline Operations Platform
+Similar jobs
+Delivery Manager – Connected Crew & Optimised Flying Mission
+Delivery Manager – Connected Crew & Optimised Flying Mission
+easyJet
+Luton, England, United Kingdom
+4 weeks ago
+Minor Works Delivery Team Lead
+Minor Works Delivery Team Lead
+SITA
+London, England, United Kingdom
+1 week ago
+Programme Manager
+Programme Manager
+Rail Delivery Group
+London, England, United Kingdom
+4 days ago
+Project Management Principal Specialist
+Project Management Principal Specialist
+Amadeus
+London Area, United Kingdom
+1 day ago
+Sr. Technical Program Manager (TPM), Prime Air Europe
+Sr. Technical Program Manager (TPM), Prime Air Europe
+Amazon
+London, England, United Kingdom
+2 weeks ago
+Manager Digital Intelligence
+Manager Digital Intelligence
+Hertz
+Uxbridge, England, United Kingdom
+3 weeks ago
+Show more jobs like this 
+People also viewed
+Project Manager - 1 year contract
+Project Manager - 1 year contract
+
+Plusgrade
+
+London, England, United Kingdom
+2 weeks ago
+Software Engineering Manager
+Software Engineering Manager
+
+easyJet
+
+Luton, England, United Kingdom
+2 weeks ago
+Technical Delivery Lead - OSS
+Technical Delivery Lead - OSS
+
+Sky
+
+London Area, United Kingdom
+2 days ago
+Senior Delivery Manager
+Senior Delivery Manager
+
+AWTG Ltd
+
+London, England, United Kingdom
+6 months ago
+Technical Delivery Manager
+Technical Delivery Manager
+
+VE3
+
+Maidenhead, England, United Kingdom
+3 days ago
+Delivery Service Manager
+Delivery Service Manager
+
+Open Cosmos
+
+Harwell, England, United Kingdom
+4 days ago
+Data Platform Lead
+Data Platform Lead
+
+Network Rail
+
+Milton Keynes, England, United Kingdom
+1 week ago
+Technical Delivery Manager
+Technical Delivery Manager
+
+RELX
+
+Oxford, England, United Kingdom
+5 days ago
+Digital Workplace Manager
+Digital Workplace Manager
+
+British Airways Holidays
+
+London, England, United Kingdom
+1 week ago
+Technical Project Manager
+Technical Project Manager
+
+Travelfusion
+
+City Of London, England, United Kingdom
+1 week ago
+Similar Searches
+Delivery Manager jobs
+32,530 open jobs
+President jobs
+2,134 open jobs
+Head of Faculty jobs
+166 open jobs
+Change And Configuration Manager jobs
+386 open jobs
+Agile Coach jobs
+3,225 open jobs
+Delivery Director jobs
+5,011 open jobs
+Global Network Manager jobs
+797 open jobs
+Scrum Master jobs
+15,217 open jobs
+Global Service Delivery Manager jobs
+551 open jobs
+Service Project Manager jobs
+4,000 open jobs
+Release Manager jobs
+5,967 open jobs
+Release Engineer jobs
+2,904 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

@@ -1,0 +1,304 @@
+Title: Delivery Manager
+Company: Cognizant
+Location: London, England, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/delivery-manager-at-cognizant-4492150250
+Posted: 2026-11-20
+Deadline: N/A
+Reason: The role aligns with her extensive experience in release management, CI/CD, and cross-team coordination in complex enterprise environments, and it is located in a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Delivery Manager
+Cognizant  London, England, United Kingdom
+3 days ago  74 applicants
+  
+
+See who Cognizant has hired for this role
+
+Apply 
+Save
+Role: Delivery Manager
+
+Location: London (Hybrid)
+
+Employment: Fulltime
+
+Role purpose
+
+The Delivery Manager is accountable for coordinating and driving end-to-end delivery across a cluster of 3-5 Scrum teams within VOS Release 3. The role provides the delivery-management layer between the Delivery Lead, who owns delivery across R3, and the Scrum Masters / Agile Delivery Managers who facilitate delivery at individual team level.
+
+This is a customer-facing, techno-functional leadership role. The Delivery Manager is expected to operate independently within agreed authority, maintain a joined-up view across teams, proactively resolve delivery challenges, and translate business, functional and technical considerations into clear plans, decisions, risks and stakeholder communications.
+
+A proactive, customer-facing techno-functional delivery leader who can independently connect business outcomes, SAFe planning, engineering execution and stakeholder decisions across Scrum teams.
+
+Key accountabilities
+
+
+Own the integrated delivery view across 3-5 Scrum teams, covering scope, milestones, dependencies, capacity, quality, risks, issues and delivery outcomes.
+Convert PI objectives, features and priorities into coherent multi-team delivery plans, and maintain alignment throughout the Program Increment.
+Coordinate cross-team planning and execution, identifying dependencies and blockers early and driving them to resolution before they affect committed outcomes.
+Provide accurate, evidence-based reporting on delivery health, forecasts, risks, decisions and recovery actions to the Delivery Lead and customer stakeholders.
+Drive ownership and follow-through across Product Owners, Scrum Masters, Technical Leads, engineering, testing, DevOps and other enabling functions.
+Manage delivery risks, assumptions, issues and dependencies, ensuring clear owners, target dates, impact assessment, mitigation and timely escalation.
+Lead recovery planning where delivery is off track, establish practical corrective actions, and monitor progress through to closure.
+Maintain focus on quality and readiness across design, build, integration, testing, deployment and operational handover activities.
+Support effective release coordination across the assigned teams, including environment, deployment, test-data and cross-platform dependencies.
+Promote continuous improvement using delivery data, retrospectives and root-cause analysis rather than relying only on status reporting.
+
+
+Customer and stakeholder leadership
+
+
+Act as the primary delivery contact for the assigned team cluster and build trusted, transparent working relationships with customer stakeholders.
+Communicate complex delivery and technical matters clearly to both executive and technical audiences, including implications, options and recommended actions.
+Manage expectations proactively, surface emerging concerns early, and communicate difficult messages constructively and with supporting evidence.
+Facilitate decisions across business, product, architecture, engineering and delivery stakeholders, ensuring outcomes and ownership are recorded and followed through.
+Provide appropriate challenge and pushback where requested scope, sequencing, dependencies or timelines create an unmanaged delivery risk.
+
+
+SAFe and Agile delivery responsibilities
+
+
+Contribute actively to PI Planning, including readiness, capacity, dependency identification, risk discussion, objective alignment and follow-through.
+Drive Scrum of Scrums, cross-team dependency reviews, delivery-health reviews and other coordination forums required for the assigned teams.
+Work with Scrum Masters / Agile Delivery Managers to strengthen team-level predictability without taking over day-to-day Scrum facilitation.
+Maintain alignment between team backlogs, PI objectives, milestones and release outcomes in partnership with Product Owners and the Delivery Lead.
+Use SAFe and Agile practices pragmatically, adapting governance and ceremonies to improve flow, transparency and outcomes rather than applying process mechanically.
+
+
+Technical and functional leadership
+
+
+Maintain sufficient understanding of the end-to-end solution to lead informed conversations across Microsoft Dynamics 365, C#/.NET services, Azure-based microservices, integrations, automated DevOps pipelines and QA automation.
+Understand how business processes and case-management requirements translate into Dynamics configuration/customisation, APIs, services, user experience, data and integration changes.
+Challenge estimates, sequencing, technical assumptions and delivery approaches by asking the right questions of architects and technical leads.
+Translate technical constraints, non-functional requirements and architectural dependencies into delivery impact, options and stakeholder decisions.
+Drive consideration of scalability, security, maintainability, supportability, testability and deployment readiness as part of delivery planning.
+Use technical understanding to support root-cause discussions and delivery trade-offs, while leaving detailed solution design and coding accountability with the relevant technical roles.
+
+
+AI-enabled delivery
+
+
+Identify and drive appropriate opportunities to use AI to improve delivery productivity, engineering effectiveness, quality, automation, knowledge management and decision support.
+Ensure AI-enabled delivery practices follow applicable programme, customer and organizational controls, with appropriate human review, traceability, data protection and security considerations.
+Work with engineering and quality leads to define measurable use cases and assessing whether AI adoption is producing genuine delivery value rather than activity alone.
+Promote responsible adoption by ensuring teams understand approved usage boundaries, limitations and escalation routes.
+
+
+Leadership behaviours
+
+
+Operate independently and make timely decisions within delegated authority, escalating only where programme-level intervention or material trade-off is required.
+Be proactive, structured, outcome-focused and comfortable working through ambiguity and competing priorities.
+Demonstrate calm, credible leadership under pressure and create clarity when delivery challenges span multiple teams or stakeholders.
+Build accountability without micromanagement, support constructive conflict resolution, and encourage transparent reporting of risks and constraints.
+Continuously look for opportunities to simplify delivery, remove waste and improve ways of working.
+
+
+Essential Experience And Skills
+
+
+Demonstrable experience leading delivery across multiple Agile teams, ideally 2 or more teams concurrently, in a complex enterprise programme.
+Practical experience of SAFe delivery, including PI Planning and cross-team coordination; experience with ART-level forums is strongly preferred.
+Strong customer-facing delivery management and stakeholder communication experience, including risk, escalation and expectation management.
+Techno-functional background with credible understanding of Microsoft/Azure solution delivery, .NET or service-based architecture, integrations and modern engineering practices.
+Experience managing cross-team dependencies, integrated plans, capacity, risks, issues, quality and release readiness.
+Ability to interpret delivery metrics and use evidence to forecast outcomes, identify trends and drive corrective action.
+Excellent written and verbal communication, with the ability to simplify complexity for senior stakeholders while engaging credibly with technical teams.
+Strong problem-solving, negotiation, facilitation and decision-making skills.
+
+
+Desirable experience
+
+
+Experience delivering Microsoft Dynamics 365 case-management or workflow solutions.
+Experience with Azure DevOps, CI/CD, automated testing, microservices and cloud-based delivery.
+Experience applying AI-enabled engineering or delivery practices within controlled enterprise environments.
+Experience in regulated, public-sector or large-scale transformation programmes.
+Relevant certification such as SAFe Agilist, SAFe Scrum Master, SAFe Release Train Engineer, PMI-ACP, Scrum.org PSM or equivalent practical experience.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting and Business Consulting and Services
+  
+
+Referrals increase your chances of interviewing at Cognizant by 2x
+
+See who you know
+
+Get notified about new Delivery Manager jobs in London, England, United Kingdom.
+
+Sign in to create job alert
+Jobs
+Delivery Manager jobs
+Delivery Manager
+Similar jobs
+Delivery Manager
+Delivery Manager
+Methods
+London, England, United Kingdom
+2 weeks ago
+Delivery Manager
+Delivery Manager
+Northrop Grumman UK
+London, England, United Kingdom
+4 weeks ago
+Delivery Manager
+Delivery Manager
+Version 1
+London, England, United Kingdom
+1 week ago
+Delivery Lead
+Delivery Lead
+hyperexponential
+London Area, United Kingdom
+1 week ago
+Delivery Owner
+Delivery Owner
+Royal Mail
+London, England, United Kingdom
+3 weeks ago
+Software Delivery Manager
+Software Delivery Manager
+BritBox
+London, England, United Kingdom
+1 week ago
+Show more jobs like this 
+People also viewed
+Delivery Manager
+Delivery Manager
+
+UBDS Digital
+
+London, England, United Kingdom
+2 weeks ago
+Deployment Manager
+Deployment Manager
+
+HIVE
+
+London, England, United Kingdom
+1 month ago
+Delivery Manager - Future Opportunities
+Delivery Manager - Future Opportunities
+
+Seriös Group
+
+London, England, United Kingdom
+1 month ago
+Lead Delivery Manager
+Lead Delivery Manager
+
+Valtech
+
+London Area, United Kingdom
+2 days ago
+Agile Delivery Manager
+Agile Delivery Manager
+
+SCC
+
+London Area, United Kingdom
+6 days ago
+Delivery Lead
+Delivery Lead
+
+eMed Healthcare UK
+
+London, England, United Kingdom
+2 weeks ago
+Delivery Manager
+Delivery Manager
+
+Faculty
+
+London Area, United Kingdom
+1 week ago
+Delivery Manager
+Delivery Manager
+
+Zopa Bank
+
+London Area, United Kingdom
+1 week ago
+Delivery Manager (12 month FTC)
+Delivery Manager (12 month FTC)
+
+Kaluza
+
+London, England, United Kingdom
+2 weeks ago
+Programme Manager
+Programme Manager
+
+Rail Delivery Group
+
+London, England, United Kingdom
+4 days ago
+Similar Searches
+Delivery Manager jobs
+32,530 open jobs
+Service Project Manager jobs
+4,000 open jobs
+Program Management Office Manager jobs
+933 open jobs
+Enterprise Architect jobs
+3,988 open jobs
+Delivery Director jobs
+5,011 open jobs
+Software Engineering Manager jobs
+4,717 open jobs
+Senior Project Manager jobs
+12,345 open jobs
+Program Manager jobs
+13,502 open jobs
+Director of Information Technology jobs
+277 open jobs
+Solutions Architect jobs
+9,494 open jobs
+Associate Director jobs
+15,749 open jobs
+Engineering Manager jobs
+15,782 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

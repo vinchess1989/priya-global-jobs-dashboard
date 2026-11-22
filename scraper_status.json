@@ -1,9 +1,9 @@
 {
-  "pid": 24128,
-  "started_at": "2026-11-22T01:08:18+02:00",
-  "heartbeat_at": "2026-11-22T02:21:16+02:00",
-  "phase": "run_finished",
-  "detail": "72 lower-yield targets and 0 jobs left for the next run",
-  "last_scrape_ok_at": "2026-11-22T02:21:06+02:00",
+  "pid": 64652,
+  "started_at": "2026-11-23T01:06:19+02:00",
+  "heartbeat_at": "2026-11-23T01:12:46+02:00",
+  "phase": "reviewing",
+  "detail": "AI Inference Core - Technical Lead Manager, Release Qual & Integration",
+  "last_scrape_ok_at": "2026-11-23T01:11:29+02:00",
   "last_error": null
 }
