@@ -1,0 +1,337 @@
+Title: Product Manager
+Company: Crossref
+Location: Ireland
+URL: https://ie.linkedin.com/jobs/view/product-manager-at-crossref-4490500904
+Posted: 2026-11-15
+Deadline: 2026-12-13
+Reason: The role aligns with the candidate's experience in technical product management, requirements gathering, and release coordination, and the remote location includes several of her target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Product Manager
+Crossref  Ireland
+1 week ago  192 applicants
+  
+
+See who Crossref has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Do you want to help improve research communications in all corners of the globe? Come and join the world of nonprofit open infrastructure and be part of improving the creation and sharing of knowledge as one of our two new Product Manager.
+
+
+
+
+Type: Full-time, 3 year fixed-term positions.
+Location: Remote from Ghana, Nigeria, Kenya, Poland, Ireland, UK, Greece, Canada, Puerto Rico, US, Slovenia, Georgia, Hong Kong, Switzerland, or Chile. We are not able to support 3-year fixed-term contracts in other countries.
+Availability: From Mon–Fri, 2–4 pm UTC to ensure sufficient overlap with the rest of the team. Occasional travel (~1–2 times per year) is expected.
+Remuneration: 85k USD or local equivalent. We pay salaries in the currency of the country in which you’re based. We arrive at the local USD-equivalent salary by determining the average 5-year USD exchange rate, to stabilize currency fluctuations.
+Benefits: Check out our Employee Handbook for more details on paid time off, unlimited sick time, paid parental and medical leaves, and more.
+Reports to: One role reports to Lena Stoll and the other role reports to Martyn Rittman, Program Leads
+Timeline: Advert in November–December and offer end of January–beginning of February.
+
+
+
+
+About the role
+
+
+
+
+Crossref is looking for two Product Managers to coordinate work on the redesign of our system over the next three years. Crossref was founded 26 years ago, which means that a large part of our infrastructure needs renewing. We are embarking on a System Redesign project with a focus on dismantling the current monolithic codebase that handles metadata deposit and storage. We aim to transition to a connected network of services with better-defined infrastructure for each service.
+
+The System Redesign work will be embedded within Crossref’s program structure and the different services will be rebuilt within its three programs (Co-creation and Community Trends; Contributing to the Research Nexus; Open and Sustainable Operations). Crossref develops its products and services through these cross-functional programs to guide and accelerate our work. We introduced this approach in 2025 to work towards better cross-team alignment, shared responsibility, improved communication and learning, and to make more progress on the things our members need.
+
+Each Product Manager will join either the Co-creation and Community Trends (CCT) or the Contributing to the Research Nexus (CRN) program teams. Please indicate in your cover letter if you have a preference for one program over the other.
+
+
+
+
+The CCT program manages and oversees all activities related to co-creating solutions with the wider Crossref community. In the context of the System Redesign, the CCT program will mostly focus on the (re-)implementation of user interfaces such as reports, dashboards, and self-service tools for Crossref members. The program will also build out internal APIs for these interfaces, as well as rebuilding third-party integrations rooted in our legacy system, such as ORCID Auto-update.
+
+The CRN program oversees metadata delivery (including through APIs and snapshots), and building connections between metadata records through matching and incorporating community datasets. For the System Redesign, the CRN program will rebuild matching services, reimplement a number of API services, and develop improved methods and workflows to enrich member-deposited metadata with other sources.
+
+
+
+
+Key responsibilities
+
+
+
+
+Work with the Program Lead and colleagues across tech and UX to coordinate work on Crossref’s interfaces, dashboards, APIs, and other services by communicating ideas and writing project plans, gathering and assessing feedback, and using data to drive decision-making.
+Build a strong understanding of Crossref’s existing systems and contribute to the vision for future systems.
+Integrate usability studies, user research, system investigations, and ongoing community feedback into requirements.
+Write product specifications based on internal and external input, and work closely with the technical team to get these translated into technical specifications.
+Prioritise work within a large project and ensure all relevant teams collaborate to stick to the specified timelines.
+Carry out acceptance testing of work done by the technical team.
+Influence the product development strategy by communicating priorities based on organisational needs and community feedback.
+Define goals, methods, and metrics for the adoption of features and functionality to track success.
+Promote the adoption of new services and features directly with the community.
+
+
+
+
+
+
+
+About you
+
+
+
+
+You should apply if you think you would enjoy this role, and if most of the following points sound like you:
+
+
+
+
+You have 2+ years of hands-on experience of managing digital products.
+You think in terms of the big picture, but you can work closely with others to explain context and deliver on the details.
+You can turn a range of inputs into solid action plans, product specs, and achievable chunks of work.
+You have strong product and project management skills and can coordinate projects across people and teams.
+You have an understanding and experience of complex workflow systems, writing clear specifications, and working with APIs.
+You have experience working with developers. You are technical enough to discuss critical questions about architecture and product choices with engineers.
+You have experience working with product management tools such as Git, Jira, Productboard, and Miro.
+You do whatever it takes to make your product and community successful and love to problem solve, whether that means writing a QA plan, tracking down the root cause of a user’s frustration or working with our data science and development teams to spin up and test a proof-of-concept in response to an idea.
+You care about open infrastructure and want to make scholarly communications better.
+You communicate with empathy and precision, and are motivated by working with a truly global and highly diverse set of users.
+You are able to clearly articulate your point of view and say no if needed.
+You can convey and encapsulate strategic and technical concepts in presentations verbally, visually, and textually.
+You are motivated to continually improve products based on community feedback.
+You are experienced in using data to inform decision-making and prioritisation.
+You are self-motivated with a collaborative and can-do attitude, and enjoy working with a small team across multiple time zones.
+You maintain order in a dynamic environment, managing multiple priorities.
+You have knowledge of the scholarly communications ecosystem.
+
+
+
+
+About Crossref and the team
+
+
+
+
+We’re a non-profit membership organisation that exists to make scholarly communications better. We rally the community; tag and share metadata; run an open infrastructure; play with technology; and make tools and services—all to help put research in context.
+
+
+
+
+We envision a rich and reusable open network of relationships connecting research organisations, people, things, and actions; a scholarly record that the global community can build on forever, for the benefit of society. We are working towards this vision of a ‘Research Nexus’ by demonstrating the value of richer and connected open metadata, incentivising people to meet best practices, while making it easier to do so. “We” means 26,500+ members from 170+ countries, 185+ million records, and nearly 2 billion monthly metadata queries from thousands of tools across the research ecosystem. We want to be a sustainable source of complete, open, and global scholarly metadata and relationships.
+
+
+
+
+Take a look at our strategic agenda to see the planned work that aims to achieve the vision. The sustainability area aims to make transparent all the processes and procedures we follow to run the operation long-term, including our financials and our ongoing commitment to the Principles of Open Scholarly Infrastructure (POSI). The governance area describes our board and its role in community oversight.
+
+
+
+
+
+
+
+Thinking of applying?
+
+
+
+
+We especially encourage applications from people with backgrounds historically under-represented in research and scholarly communications.
+
+
+
+
+We will invite selected candidates to an initial call to discuss the role. Following that, shortlisted candidates will be invited to an interview. You will receive all questions in advance, and the interview will include some questions and/or exercises you’ll have a chance to prepare for. All interviews will be held remotely on Zoom.
+
+
+
+
+Please strive to submit your application by 13 December 2026.
+
+
+
+
+The goal of the cover letter is to get to know the candidates. We ask that if you use AI tools to assist in writing your application that you please disclose how you’ve used them. We want to hear your original ideas, but understand the tools may be used to refine and polish your statement, provide support for translation, proofread for grammar, and improve readability.
+
+
+
+
+All applications are reviewed carefully by humans at Crossref - no AI tools. We greatly appreciate the time and efforts taken by all applicants.
+
+
+
+
+Equal opportunities commitment
+
+
+
+
+Crossref is committed to a policy of non-discrimination and equal opportunity for all employees and qualified applicants for employment without regard to race, colour, religion, sex, pregnancy or a condition related to pregnancy, sexual orientation, gender identity or expression, national origin, ancestry, age, physical or mental disability, genetic information, veteran status, uniform service member status, or any other protected class under applicable law. Crossref will make reasonable accommodations for qualified individuals with known disabilities in accordance with applicable law.
+
+
+
+
+Thanks for your interest in joining Crossref. We are excited to hear from you!
+
+Show more 
+Seniority level
+Entry level
+Employment type
+Full-time
+Industries
+Research Services
+  
+
+Referrals increase your chances of interviewing at Crossref by 2x
+
+See who you know
+
+Get notified about new Product Manager jobs in Ireland.
+
+Sign in to create job alert
+Similar jobs
+Product Manager, Glofox Operator Experience
+Product Manager, Glofox Operator Experience
+ABC Fitness
+Ireland
+3 days ago
+Product Owner (UX)
+Product Owner (UX)
+Revolut
+Greater Dublin
+2 weeks ago
+Product Manager - Percona Monitoring and Management (Remote)
+Product Manager - Percona Monitoring and Management (Remote)
+Percona
+Dublin, County Dublin, Ireland
+4 months ago
+Product Manager (Reporting Team)
+Product Manager (Reporting Team)
+Jobgether
+Ireland
+2 days ago
+Senior Product Manager - Live
+Senior Product Manager - Live
+Entity
+Ireland
+2 weeks ago
+Product Manager, Network & Accounts
+Product Manager, Network & Accounts
+Jobgether
+Ireland
+5 days ago
+Show more jobs like this 
+People also viewed
+Senior Product Manager, France Market Expansion
+Senior Product Manager, France Market Expansion
+
+Clio
+
+Ireland
+11 hours ago
+Staff Product Manager, Mobile
+Staff Product Manager, Mobile
+
+Stripe
+
+Dublin, County Dublin, Ireland
+1 week ago
+Product Manager - Event Experiences
+Product Manager - Event Experiences
+
+EY
+
+Dublin 2, County Dublin, Ireland
+1 week ago
+Engineering Product Manager
+Engineering Product Manager
+
+Cisco
+
+Galway, County Galway, Ireland
+2 weeks ago
+Product Owner - Healthtech / Clinical Software
+Product Owner - Healthtech / Clinical Software
+
+iO Associates
+
+Dublin, County Dublin, Ireland
+€65,000 - €75,000
+5 days ago
+Product Owner
+Product Owner
+
+EcoOnline
+
+Dublin, County Dublin, Ireland
+2 days ago
+Principal Product Manager Agents and Context - Elasticsearch
+Principal Product Manager Agents and Context - Elasticsearch
+
+Elastic
+
+Ireland
+€104,800 - €165,700
+1 week ago
+Senior Product Owner
+Senior Product Owner
+
+GemPool Recruitment
+
+Dublin, County Dublin, Ireland
+4 weeks ago
+Product Builder
+Product Builder
+
+Camunda
+
+County Galway, Ireland
+1 week ago
+Senior Product Manager
+Senior Product Manager
+
+Distilled
+
+Dublin, County Dublin, Ireland
+3 days ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

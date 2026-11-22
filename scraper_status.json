@@ -1,9 +1,9 @@
 {
   "pid": 24128,
   "started_at": "2026-11-22T01:08:18+02:00",
-  "heartbeat_at": "2026-11-22T02:10:29+02:00",
+  "heartbeat_at": "2026-11-22T02:14:20+02:00",
   "phase": "reviewing",
-  "detail": "Regional Regulatory Affairs Manager",
-  "last_scrape_ok_at": "2026-11-22T02:09:40+02:00",
+  "detail": "Regulatory Affairs Manager (EEA)",
+  "last_scrape_ok_at": "2026-11-22T02:13:21+02:00",
   "last_error": null
 }
