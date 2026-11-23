@@ -1,0 +1,269 @@
+Title: DevOps Engineer
+Company: Tecsys Inc.
+Location: Montreal, Quebec, Canada
+URL: https://ca.linkedin.com/jobs/view/devops-engineer-at-tecsys-inc-4493788822
+Posted: 2026-11-24
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's expertise in DevOps, CI/CD, release management, and documentation within a regulated healthcare-adjacent domain, and it is located in Canada.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+Tecsys Inc.  Montreal, Quebec, Canada
+9 hours ago  45 applicants
+  
+
+See who Tecsys Inc. has hired for this role
+
+Apply
+Save
+Description
+
+At Tecsys, the software we deliver helps hospitals, pharmacies and distributors get what they need, when they need it. Every role here contributes to that outcome.
+
+Why this role matters
+
+As a DevOps Engineer on the TecsysIQ Data & AI team, you will build and run the infrastructure, deployment and release automation behind our data platform on AWS, Databricks and Kubernetes.
+
+What You'll Be Part Of
+
+Tecsys is trusted by essential healthcare and distribution organizations to support resilient, efficient and secure supply chains. We are a global provider of AI-powered cloud software, listed on the Toronto Stock Exchange (TSX: TCS).
+
+Three values guide how we work. We earn trust every day by putting the customer first and acting with integrity. We support each other by recognizing individual strengths and working as a team. And we explore boldly by staying curious and adapting to succeed.
+
+You'll join a culture built on curiosity, continuous learning and people who push the limits of what's possible.
+
+What You'll Do
+
+
+Provision and maintain AWS and Databricks infrastructure across regions and environments with Terraform, keeping changes reviewable and free of drift
+Build and maintain the Helm charts and Kubernetes Jobs that onboard, upgrade and offboard customer environments safely and repeatably
+Design and improve CI/CD pipelines and own release management and versioning across interdependent repositories
+Apply security and compliance best practices (secrets management, least privilege, vulnerability remediation, SOC 2 and HIPAA controls)
+Implement logging, monitoring, alerting and backups, troubleshoot production issues and optimize cloud cost
+Collaborate with developers, Product Owners and cloud operations in an Agile environment, and maintain clear runbooks and documentation
+
+
+
+Requirements
+
+What you bring
+
+
+Proven production experience with Terraform on AWS, including remote state, modules and multi-environment setups
+Proven production experience with Kubernetes, Helm and Docker
+Proven experience building CI/CD pipelines and Git-based workflows across multiple repositories, including release management
+Proficiency in Python, Bash, Java or a similar language
+Working knowledge of secrets management and cloud security fundamentals
+Strong troubleshooting, communication and documentation skills, and experience in Agile teams
+
+
+Nice to have
+
+
+Databricks administration, GitLab CI/CD or Maven
+Experience in regulated environments (SOC 2, HIPAA)
+AWS, Kubernetes or Terraform certifications
+
+
+Fluency in written and spoken English is essential for communicating effectively with clients, suppliers, business partners, and colleagues outside of Quebec.
+
+Benefits
+
+Why You'll Love It Here
+
+
+Remote, flexibility and the trust to manage your own time
+Benefits and vacation from day one
+Pension plan with competitive employer contribution
+Employee events and community initiatives
+Room to learn, stretch and take on new challenges
+Collaboration with global teams
+
+
+We foster an inclusive workplace where everyone feels valued, respected and equipped to thrive.
+
+If this role sounds like what you're looking for, apply today. If you're not actively looking but would like to learn more, we'd be happy to connect.
+
+Apply today and discover what you could build, solve and achieve at Tecsys!
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Non-profit Organizations and Primary and Secondary Education
+  
+
+Referrals increase your chances of interviewing at Tecsys Inc. by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Global Chief Information Officer jobs
+DevOps Engineer
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+SOVRA
+Montreal, Quebec, Canada
+1 week ago
+DevOps Engineer
+DevOps Engineer
+INVOKE
+Montreal, Quebec, Canada
+3 days ago
+DevOps Engineer
+DevOps Engineer
+Studios Wizards of the Coast
+Montreal, Quebec, Canada
+1 week ago
+DevOps Engineer
+DevOps Engineer
+TMC Canada
+Montreal, Quebec, Canada
+3 weeks ago
+Ingénieur(e) DevOps
+Ingénieur(e) DevOps
+SOVRA
+Montreal, Quebec, Canada
+1 week ago
+Platform Engineer
+Platform Engineer
+Xsolla
+Montreal, Quebec, Canada
+5 days ago
+Show more jobs like this 
+People also viewed
+Bilingual Devops /SRE ( AWS )
+Bilingual Devops /SRE ( AWS )
+
+Highspring
+
+Montreal, Quebec, Canada
+2 months ago
+MONTRÉAL [HYBRID] - DevOps/SRE Intermediate
+MONTRÉAL [HYBRID] - DevOps/SRE Intermediate
+
+QUANTEAM - North America (RAINBOW PARTNERS Group)
+
+Montreal, Quebec, Canada
+1 week ago
+DevOps/SRE (Intermediate)
+DevOps/SRE (Intermediate)
+
+Asset Inventories
+
+Montreal, Quebec, Canada
+1 week ago
+Senior DevOps
+Senior DevOps
+
+Intact
+
+Montreal, Quebec, Canada
+4 days ago
+DevSecOps Engineer
+DevSecOps Engineer
+
+KPMG Canada
+
+Montreal, Quebec, Canada
+2 weeks ago
+Analyste DevOps
+Analyste DevOps
+
+TMX Group
+
+Montreal, Quebec, Canada
+3 weeks ago
+Platform Engineer - $210,000 + bonus! (Fintech)
+Platform Engineer - $210,000 + bonus! (Fintech)
+
+Hunter Bond
+
+Montreal, Quebec, Canada
+5 days ago
+DevOps Senior
+DevOps Senior
+
+BrainFinance
+
+Montreal, Quebec, Canada
+2 weeks ago
+Cloud Platform Engineer
+Cloud Platform Engineer
+
+Baseten
+
+Montreal, Quebec, Canada
+$165,000 - $330,000
+3 weeks ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+National Bank of Canada
+
+Montreal, Quebec, Canada
+2 weeks ago
+Similar Searches
+Global Chief Information Officer jobs
+119 open jobs
+Logistics Team Lead jobs
+790 open jobs
+Unix Linux System Administrator jobs
+66 open jobs
+Software Quality Assurance Analyst jobs
+660 open jobs
+Test Development Engineer jobs
+14,975 open jobs
+National Director jobs
+806 open jobs
+Supply Chain Consultant jobs
+603 open jobs
+Senior Quality Assurance Engineer jobs
+226 open jobs
+Information Technology Security Analyst jobs
+347 open jobs
+Programming Analyst jobs
+15,873 open jobs
+Director Customer Experience jobs
+872 open jobs
+Vice President Delivery jobs
+174 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+You’re signed out
+Sign in for the full experience.
+Sign in Join now

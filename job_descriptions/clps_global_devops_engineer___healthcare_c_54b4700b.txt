@@ -1,0 +1,212 @@
+Title: DevOps Engineer – Healthcare Claims Platform
+Company: CLPS Global
+Location: Singapore, Singapore
+URL: https://sg.linkedin.com/jobs/view/devops-engineer-%E2%80%93-healthcare-claims-platform-at-clps-global-4492551707
+Posted: 2026-11-24
+Deadline: N/A
+Reason: The role aligns with the candidate's DevOps and release management expertise in the healthcare domain, and it is located in a target country (Singapore) without explicit visa restrictions.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer – Healthcare Claims Platform
+CLPS Global  Singapore, Singapore
+18 hours ago  33 applicants
+  
+
+See who CLPS Global has hired for this role
+
+Apply
+Save
+
+Direct message the job poster from CLPS Global
+
+Subhakanta Behera (Subha)
+Subhakanta Behera (Subha)
+
+DevOps Engineer – Healthcare Claims Platform
+
+Location: Singapore
+
+Experience: 3+ Years
+
+Job Description
+
+We are seeking a hands-on DevOps Engineer to support a national healthcare claims platform in Singapore. The role involves managing secure and scalable AWS cloud infrastructure, CI/CD automation, Kubernetes environments, and monitoring systems to ensure high availability, reliability, and security of healthcare applications.
+
+Key Responsibilities
+
+Design and maintain AWS cloud infrastructure using Terraform/Terragrunt and EKS Fargate.
+Build and manage GitLab CI/CD pipelines with automated security and vulnerability scanning.
+Implement GitOps deployment workflows using Argo CD, Helm, and Canary/Blue-Green strategies.
+Manage containerized microservices using Docker and Kubernetes.
+Configure monitoring, logging, and distributed tracing using Prometheus, Grafana, CloudWatch, OpenTelemetry, and Jaeger.
+Automate infrastructure and operational tasks using Shell, Python, and Ansible.
+Troubleshoot production issues, manage incidents, and ensure infrastructure security and compliance.
+Collaborate with development, QA, and operations teams in an Agile environment.
+
+Mandatory Skills
+
+3+ years of DevOps / Cloud Infrastructure experience.
+Strong hands-on experience with AWS, Kubernetes (EKS Fargate), Docker, and Terraform/Terragrunt.
+Experience with GitLab CI/CD, Argo CD, and Helm.
+Knowledge of security scanning tools such as Trivy, GitLab SAST, and AWS Inspector.
+Experience with monitoring and observability tools: Prometheus, Grafana, and CloudWatch.
+Strong scripting skills in Shell/Bash and Python.
+Mandatory: Prior experience in the healthcare domain, preferably healthcare claims processing or healthcare insurance platforms.
+Experience supporting secure, regulated, or government healthcare environments is highly preferred.
+
+Preferred
+
+Singapore Government Cloud (GCC 2.0) and SHIP-HATS 2.0 experience.
+Knowledge of healthcare claims workflows and backend microservices.
+Familiarity with SRE practices, DORA metrics, and performance testing.
+
+
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Contract
+  
+
+Referrals increase your chances of interviewing at CLPS Global by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+BIOTRONIK
+Singapore, Singapore
+3 months ago
+DevOps Engineer
+DevOps Engineer
+Sedha Consulting
+Singapore, Singapore
+5 days ago
+DevOps Engineer
+DevOps Engineer
+Openhill Global
+Singapore, Singapore
+3 months ago
+DevOps Engineer
+DevOps Engineer
+Hytech
+Singapore
+1 month ago
+DevOps Engineer
+DevOps Engineer
+Merquri
+Singapore, Singapore
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+Capgemini
+Singapore
+3 months ago
+Show more jobs like this 
+People also viewed
+DevOps / SRE Engineer Singapore
+DevOps / SRE Engineer Singapore
+
+Nicoll Curtin
+
+Singapore, Singapore
+5 days ago
+DevOps Engineer
+DevOps Engineer
+
+Salt
+
+Singapore, Singapore
+1 week ago
+DevOps / Site Reliability Engineer
+DevOps / Site Reliability Engineer
+
+OKX
+
+Singapore, Singapore
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+Ensign InfoSecurity
+
+Singapore, Singapore
+1 week ago
+Cloud Infra DevOps Engineer
+Cloud Infra DevOps Engineer
+
+Accenture Southeast Asia
+
+Singapore, Singapore
+2 months ago
+DevOps工程师/运维开发工程师
+DevOps工程师/运维开发工程师
+
+Manus AI
+
+Singapore, Singapore
+15 hours ago
+Cloud Engineer
+Cloud Engineer
+
+SimplyGo Pte. Ltd.
+
+Singapore, Singapore
+1 week ago
+Senior Platform Infrastructure Engineer, Healthcare
+Senior Platform Infrastructure Engineer, Healthcare
+
+GovTech Singapore
+
+Singapore, Singapore
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+Singtel
+
+Singapore, Singapore
+1 week ago
+Cloud Site Reliability Engineer (SRE)
+Cloud Site Reliability Engineer (SRE)
+
+Singapore Pools
+
+Singapore, Singapore
+1 week ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+You’re signed out
+Sign in for the full experience.
+Sign in Join now

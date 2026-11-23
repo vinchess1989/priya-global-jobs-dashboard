@@ -1,0 +1,256 @@
+Title: Experienced DevOps Engineer - EA Sports Technology
+Company: EA SPORTS
+Location: Vancouver, British Columbia, Canada
+URL: https://ca.linkedin.com/jobs/view/experienced-devops-engineer-ea-sports-technology-at-ea-sports-4488637397
+Posted: 2026-11-17
+Deadline: Open until filled
+Reason: The role aligns with the candidate's extensive DevOps and CI/CD experience, is located in a target country (Canada), and does not violate any hard rejection criteria.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Experienced DevOps Engineer - EA Sports Technology
+EA SPORTS  Vancouver, British Columbia, Canada
+1 week ago  56 applicants
+  
+
+See who EA SPORTS has hired for this role
+
+Apply 
+Save
+Description & Requirements
+
+Electronic Arts creates next-level entertainment experiences that inspire players and fans around the world. Here, everyone is part of the story. Part of a community that connects across the globe. A place where creativity thrives, new perspectives are invited, and ideas matter. A team where everyone makes play happen.
+
+The EA SPORTS™ Technical Team is seeking an experienced DevOps Engineer with a passion for technology and a strong background in designing, deploying, and operating solutions in public cloud environments integrated with corporate infrastructure and services.
+
+You will collaborate with peers and technical leadership to deliver technical initiatives, support large scale systems, and improve platform reliability and operational efficiency. The role requires hands on expertise in cloud infrastructure, Linux, networking, and automation, along with the ability to troubleshoot complex issues and balance competing priorities. On-call support is also required.
+
+Your Responsibilities
+
+
+Cloud Engineering: Design, implement, and maintain secure, scalable, and supportable cloud infrastructure.
+Troubleshooting: Diagnose and resolve deployment, networking, Linux, performance, and availability issues in production environments.
+Automation: Develop tools and scripts to automate routine tasks and improve operational efficiency.
+Production Support: Support always on gaming infrastructure and participate in on-call support for live events, feature launches, and emergency escalations.
+Continuous Improvement: Evaluate and implement technologies that improve reliability, scalability, and team productivity.
+Collaboration: Work with peers, technical leadership, Development, QA, IT, and external partners to deliver technical initiatives.
+Documentation: Maintain system documentation, operational procedures, and support runbooks.
+
+
+Your Qualifications
+
+
+Experience: 3+ years designing, implementing, and operating public cloud infrastructure and production systems.
+Cloud Platforms: Experience with Azure, AWS, or Google Cloud Platform (GCP).
+Infrastructure & Containers: Experience with Terraform, Kubernetes, Helm, Docker, Chef, or Ansible.
+Automation: Proficiency in at least one scripting or programming language, such as Python, Ruby, or Go.
+Monitoring & CI/CD: Experience with Prometheus, Grafana, Jenkins, GitLab, or GitHub.
+Version Control: Working knowledge of Git.
+Linux, Security & Networking: Strong understanding of Linux administration, system security, and cloud networking, including DNS, routing, subnetting, NAT, firewalls, and load balancing.
+Databases: Working knowledge of relational and NoSQL databases, performance tuning, and database security.
+Cloud Migration: Experience migrating or modernizing applications for public cloud environments is an asset.
+Continuous Learning & Innovation: Passion for learning new technologies, exploring emerging DevOps practices, and applying new skills to improve automation, infrastructure reliability, and platform capabilities.
+
+
+Pay Transparency - North America
+
+Compensation And Benefits
+
+The ranges listed below are what EA in good faith expects to pay applicants for this role in these locations at the time of this posting. If you reside in a different location, a recruiter will advise on the applicable range and benefits. Pay offered will be determined based on a number of relevant business and candidate factors (e.g. education, qualifications, certifications, experience, skills, geographic location, or business needs).
+
+PAY RANGES
+
+
+British Columbia (depending on location e.g. Vancouver vs. Victoria) *$104,500 - $142,800 CAD
+
+
+Pay is just one part of the overall compensation at EA.
+
+In Canada, we offer a package of benefits including vacation (3 weeks per year to start), 10 days per year of paid sick time, company top-up to EI/QPIP benefits up to 100% of base salary when you welcome a new child (12 weeks for maternity, and 4 weeks for parental/adoption leave), extended health/dental/vision coverage, life insurance, disability insurance, and retirement benefits to regular full-time employees. Certain roles may also be eligible for bonus and long-term cash programs.
+
+About Electronic Arts
+
+We’re proud to have an extensive portfolio of games and experiences, locations around the world, and opportunities across EA. We value adaptability, resilience, creativity, and curiosity. From leadership that brings out your potential, to creating space for learning and experimenting, we empower you to do great work and pursue opportunities for growth.
+
+We adopt a holistic approach to our benefits programs, emphasizing physical, emotional, financial, career, and community wellness to support a balanced life. Our packages are tailored to meet local needs and may include healthcare coverage, mental well-being support, retirement savings, paid time off, family leaves, complimentary games, and more. We nurture environments where our teams can always bring their best to what they do.
+
+Electronic Arts is an equal opportunity employer. All employment decisions are made without regard to race, color, national origin, ancestry, sex, gender, gender identity or expression, sexual orientation, age, genetic information, religion, disability, medical condition, pregnancy, marital status, family status, veteran status, or any other characteristic protected by law. We will also consider employment qualified applicants with criminal records in accordance with applicable law. EA also makes workplace accommodations for qualified individuals with disabilities as required by applicable law.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Computer Games
+  
+
+Referrals increase your chances of interviewing at EA SPORTS by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Customer Engineer jobs
+Experienced DevOps Engineer - EA Sports Technology
+Similar jobs
+Advanced DevOps Engineer - EA Sports Technology
+Advanced DevOps Engineer - EA Sports Technology
+EA SPORTS
+Vancouver, British Columbia, Canada
+2 weeks ago
+Advanced DevOps Engineer - EA SPORTS™ TECHNOLOGY
+Advanced DevOps Engineer - EA SPORTS™ TECHNOLOGY
+EA SPORTS
+Vancouver, British Columbia, Canada
+2 weeks ago
+DevOps Engineer - Game Developer Experience
+DevOps Engineer - Game Developer Experience
+Electronic Arts (EA)
+Vancouver, British Columbia, Canada
+2 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Pixieset
+Vancouver, British Columbia, Canada
+3 weeks ago
+Site Reliability Engineer
+Site Reliability Engineer
+Electronic Arts (EA)
+Vancouver, British Columbia, Canada
+2 weeks ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+Walt Disney Animation Studios
+Vancouver, British Columbia, Canada
+1 month ago
+Show more jobs like this 
+People also viewed
+Platform Engineering – Data Infrastructure III
+Platform Engineering – Data Infrastructure III
+
+Peoples Group
+
+Vancouver, British Columbia, Canada
+6 days ago
+Senior DevOps Developer
+Senior DevOps Developer
+
+Fortinet
+
+Burnaby, British Columbia, Canada
+3 days ago
+Intermediate Software Developer, DevOps
+Intermediate Software Developer, DevOps
+
+Hootsuite
+
+Vancouver, British Columbia, Canada
+3 days ago
+Staff CloudOps Developer
+Staff CloudOps Developer
+
+Corpay
+
+Vancouver, British Columbia, Canada
+4 days ago
+Infrastructure Engineer
+Infrastructure Engineer
+
+People Culture Talent
+
+Vancouver, British Columbia, Canada
+2 months ago
+Cloud DevOps Engineer
+Cloud DevOps Engineer
+
+Alquemy Search & Consulting
+
+Vancouver, British Columbia, Canada
+4 days ago
+Senior Software Engineer, DevOps & Security
+Senior Software Engineer, DevOps & Security
+
+Klue
+
+Vancouver, British Columbia, Canada
+CA$140,000 - CA$195,000
+2 months ago
+Staff Software Engineer, Infrastructure (Cloud)
+Staff Software Engineer, Infrastructure (Cloud)
+
+AeroVect
+
+Vancouver, British Columbia, Canada
+3 months ago
+Senior Software Engineer - DevOps, Digital Commerce Services
+Senior Software Engineer - DevOps, Digital Commerce Services
+
+lululemon
+
+Vancouver, British Columbia, Canada
+1 week ago
+Senior DevOps Developer (PDSW scrum) [585]
+Senior DevOps Developer (PDSW scrum) [585]
+
+D-Wave
+
+Burnaby, British Columbia, Canada
+1 week ago
+Similar Searches
+Customer Engineer jobs
+15,387 open jobs
+Media Manager jobs
+3,587 open jobs
+Principal Software Engineer jobs
+4,028 open jobs
+Senior Scientist jobs
+577 open jobs
+Benefits Specialist jobs
+3,780 open jobs
+Senior Sales Manager jobs
+841 open jobs
+Release Manager jobs
+3,420 open jobs
+Painter jobs
+1,155 open jobs
+Head of Product jobs
+1,384 open jobs
+Lead Software Engineer jobs
+4,225 open jobs
+Dean of Students jobs
+64 open jobs
+3D Artist jobs
+205 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+You’re signed out
+Sign in for the full experience.
+Sign in Join now
