@@ -1,0 +1,250 @@
+Title: Consultant/Senior Consultant - Cyber Defense & Resilience(Devops) - Hong Kong
+Company: Deloitte
+Location: Hong Kong SAR
+URL: https://hk.linkedin.com/jobs/view/consultant-senior-consultant-cyber-defense-resilience-devops-hong-kong-at-deloitte-4493619620
+Posted: 2026-11-24
+Deadline: N/A
+Reason: The role aligns perfectly with the candidate's expertise in CI/CD, release management, change documentation, and regulated environment experience, and it is located in a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Consultant/Senior Consultant - Cyber Defense & Resilience(Devops) - Hong Kong
+Deloitte  Hong Kong SAR
+13 hours ago   Be among the first 25 applicants
+  
+
+See who Deloitte has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+About The Business
+
+Cyber & Strategic Risk
+
+We Help Clients Address Various Aspects Of Cyber And Other Strategic Risks To Their Organizations To Inform Risk-based Strategic Choices, Prepare To Respond To Disruption, Assess And Manage Full-lifecycle Enterprise Risks, As Well As Strategize And Respond To Risks Associated With The Reliability And Protection Of Data, Associated Processes And Technology. We Provide Advisory And Managed Services To Help Senior Executives Spot, Assess, Manage, And Respond To Risks And/or Catastrophic Unforeseen Incidents That Could Undermine Their Competitive Position Or Jeopardize Their Critical Assets, Reputation And/or Financial Standing. Offerings Include
+
+
+Cyber;
+Crisis & Resilience;
+Strategy, Brand and Reputation;
+Climate and Sustainability;
+Extended Enterprise
+
+
+Our objective is to help clients develop and implement strategies for IT risk management and aim to help clients find the appropriate balance between risk management and cost containment. Our integrated solutions covering: Cyber Strategy, Cyber Security, Cyber Vigilance, Cyber Resilience.
+
+Work you'll do
+
+
+Build and maintain streaming and batch log ingestion pipelines from network appliances, cloud platforms and servers (e.g. Juniper, Fortigate, Tencent Cloud, Alibaba Cloud, GCP) into Google SecOps — parsing, normalisation and data-quality validation.
+Operate and upgrade the ingestion and cloud estate across zones — Kafka / ZooKeeper / Logstash, GKE, Cloud Composer, SecOps integrations: alerting, health checks, maintenance windows, version upgrades and runbooks.
+Onboard new log sources end to end: requirements, collection design, implementation, data-quality validation and documentation.
+Build and maintain CI/CD pipelines and infrastructure-as-code (Terraform, Azure DevOps, ArgoCD GitOps); automate recurring operational tasks.
+Own change request management: documentation, approvals, execution and closure evidence, in line with enterprise ITSM processes.
+Develop and tune detection content — MITRE ATT&CK-aligned rules and SOAR playbooks — and deliver security data reporting: propose architecture and solutions, review with the Technical Delivery Lead, deliver outputs for security monitoring and executive review.
+Take L2 shift for platform incidents: triage, troubleshoot and resolve incidents and service requests to closure.
+Write clean, tested, version-controlled code and documentation.
+
+
+During your tenure with us, you will demonstrate and develop your leadership and professional capabilities in the following areas: Inspiring, Creating purpose, Driving agility, Building diverse capability, Influencing, Collaborating, Delivering value, Building the business, Analytical acumen, Effective communication, Engagement management/delivery excellence, Managing change, Managing quality & risk, Sales excellence, Strategic thinking and problem solving, and Tech savviness.
+
+We are looking for someone with
+
+
+Bachelor degree holder in Computer Science, Information Technology, or related disciplines
+Linux operations and troubleshooting; shell or Python automation.
+Hands-on streaming / log ingestion: Kafka, ZooKeeper, Logstash (or production-scale equivalents).
+Kubernetes on a major cloud (GKE or equivalent); GitOps tooling such as ArgoCD.
+CI/CD and IaC: Terraform and a major pipeline platform (Azure DevOps or equivalent).
+A major cloud platform, GCP preferred: orchestration (Airflow / Cloud Composer), Kubernetes, networking, IAM, monitoring.
+Production platform operations: monitoring and alerting, L2 incident support, change management discipline.
+Fluent English; client-facing requirements discussion, design proposal and end-to-end delivery.
+Google SecOps (Chronicle) — highly preferred: log ingestion, YARA-L rules, SOAR playbooks.
+GKE-related certifications (CKA / CKAD / Professional Cloud DevOps).
+Multi-cloud log collector experience (Tencent Cloud, Alibaba Cloud).
+SecOps use-case development; MITRE ATT&CK TTP mapping.
+Security audit / regulated environment experience.
+
+
+About Deloitte China
+
+Deloitte China provides integrated professional services, with our long-term commitment to be a leading contributor to China’s reform, opening-up and economic development. We are a globally connected firm with deep roots locally, owned by our partners in China. With over 20,000 professionals across 31 Chinese cities, we provide our clients with a one-stop shop offering world-leading audit, tax and consulting services.
+
+We provide comprehensive, end-to-end, and integrated services to address clients’ core issues, empowering them with our multidisciplinary service model. Deloitte is an undisputed leader in professional services in China with strong responsibility and capabilities in digitalization and multidisciplinary services.
+
+Deloitte China has been honored as 'China Top Employers 2026' for the 20th consecutive year.
+
+Shaping future talent through impact that matters
+
+Throughout over 180 years of development, Deloitte is committed to making an impact that matters to clients, people, and society. Deloitte China practices “4+1” culture – Courage, Innovation, Inclusion, Wellbeing, + Integrity, which is rooted in our service purpose and lays the foundation for sustainable growth and prosperity. Deloitte is a people-oriented professional services firm, empowering every Deloitter to unlock their intrinsic motivation and limitless potential. We are committed to cultivating high-caliber and diversified talent, providing continuous momentum for the development of the firm and China.
+
+Deloitte China has established clear career development paths, covering different industries, professional areas, and levels. Through six mechanisms of DU AP China Project, global mobility, counseling system, learning platform, project engagement, and innovation incentives, we provide all-around support on upskilling and career development for our people to upgrade professional service capabilities, enhance innovative thinking and pursue the career success.
+
+A world of opportunities awaits. Start your adventure and journey with us
+
+Accessibility assistance
+
+If you need assistance or an accommodation during the recruitment process for accessibility reasons, there will be an opportunity for you to let us know what you need once you begin your application.
+
+Ready to take on new challenges? Apply now!
+
+Stay connected for the latest career opportunities, follow us on Deloitte China Social Media.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Business Consulting and Services
+  
+
+Referrals increase your chances of interviewing at Deloitte by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Senior Infrastructure Security Engineer(DevSecOps) - APAC Remote
+Senior Infrastructure Security Engineer(DevSecOps) - APAC Remote
+Binance
+Central & Western District, Hong Kong SAR
+4 days ago
+DevSecOps AI - Hong Kong
+DevSecOps AI - Hong Kong
+Intact
+Hong Kong, Hong Kong SAR
+3 weeks ago
+Consultant/Senior Consultant - Cyber Defense & Resilience(OT) - Hong Kong
+Consultant/Senior Consultant - Cyber Defense & Resilience(OT) - Hong Kong
+Deloitte
+Hong Kong SAR
+2 weeks ago
+Delivery Consultant - Security, Global Proserve Security
+Delivery Consultant - Security, Global Proserve Security
+Amazon Web Services (AWS)
+Hong Kong SAR
+2 weeks ago
+Technical Manager, Security Architecture
+Technical Manager, Security Architecture
+The Hong Kong Jockey Club
+Sha Tin District, Hong Kong SAR
+2 weeks ago
+Cloud Security Engineer
+Cloud Security Engineer
+CloudMile
+Hong Kong, Hong Kong SAR
+3 weeks ago
+Show more jobs like this 
+People also viewed
+Cyber Security Engineer
+Cyber Security Engineer
+
+Ambition
+
+Hong Kong, Hong Kong SAR
+4 weeks ago
+Senior Incident Responder, Hong Kong
+Senior Incident Responder, Hong Kong
+
+Blackpanda
+
+Hong Kong, Hong Kong SAR
+1 month ago
+Systems Analyst (Cybersecurity)
+Systems Analyst (Cybersecurity)
+
+Airport Authority Hong Kong
+
+Hong Kong, Hong Kong SAR
+1 week ago
+Systems & Security Engineer
+Systems & Security Engineer
+
+Hong Kong International School
+
+Hong Kong, Hong Kong SAR
+1 week ago
+Cyber Security Specialist
+Cyber Security Specialist
+
+Standard Chartered
+
+Quarry Bay, Hong Kong SAR
+12 months ago
+Senior Security Operations Engineer
+Senior Security Operations Engineer
+
+Canonical
+
+Hong Kong, Hong Kong SAR
+1 week ago
+WeLab Bank - Manager, Cyber Security
+WeLab Bank - Manager, Cyber Security
+
+WeLab Bank
+
+Hong Kong, Hong Kong SAR
+1 week ago
+Security Engineer
+Security Engineer
+
+Selby Jennings
+
+Hong Kong, Hong Kong SAR
+4 weeks ago
+Senior Security Engineer
+Senior Security Engineer
+
+World Wide Technology
+
+Hong Kong, Hong Kong SAR
+1 week ago
+Information Security Manager
+Information Security Manager
+
+NTT Com Asia
+
+Hong Kong, Hong Kong SAR
+2 weeks ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Deloitte
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
