@@ -1,0 +1,330 @@
+Title: Azure Cloud Engineer (DevOps)
+Company: 60 Degrees
+Location: Western Cape, South Africa
+URL: https://za.linkedin.com/jobs/view/azure-cloud-engineer-devops-at-60-degrees-4493676465
+Posted: 2026-11-24
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in DevOps, CI/CD pipeline ownership, and cloud infrastructure, and it is located in a target country (South Africa).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Azure Cloud Engineer (DevOps)
+60 Degrees  Western Cape, South Africa
+6 hours ago   Be among the first 25 applicants
+  
+
+See who 60 Degrees has hired for this role
+
+Apply
+Save
+
+Direct message the job poster from 60 Degrees
+
+Candace Logie
+Candace Logie
+
+THE OPPORTUNITY THAT AWAITS YOU
+
+
+
+
+Don't just support the platform. Build the platform.
+
+Some engineers maintain environments. Others design, automate and scale the infrastructure that powers critical software platforms.
+
+We're partnering with a growing global technology business looking for an experienced Azure Cloud Engineer to help drive the reliability, automation, security and scalability of its cloud platform.
+
+This is a hands-on role for someone who has personally designed, deployed and operated production-grade cloud infrastructure and CI/CD pipelines. You'll be trusted to improve engineering efficiency, create robust deployment processes and help shape modern cloud architecture.
+
+We're looking for engineers who can demonstrate what they've automated, the scale they've supported, the technical challenges they've solved, and the impact they've made on delivery, reliability and performance.
+
+
+
+
+WHAT YOU WILL BE BUILDING
+
+Cloud-native Azure environments
+Scalable CI/CD pipelines and release processes
+Infrastructure-as-Code frameworks and reusable platform components
+Monitoring, logging and observability solutions
+Secure, highly available production environments
+Automation tooling that improves developer productivity
+
+
+
+
+YOUR RESPONSIBILITIES
+
+Design, build and maintain Azure cloud infrastructure
+Own CI/CD pipeline architecture and deployment automation
+Implement Infrastructure-as-Code using modern tooling and best practices
+Improve platform reliability, performance and security
+Support engineering teams with deployment, monitoring and troubleshooting
+Drive cloud governance and operational excellence initiatives
+Build monitoring, alerting and observability capabilities
+Manage containerised workloads and orchestration platforms
+Investigate and resolve complex production issues
+Champion automation and continuous improvement across the engineering environment
+
+
+
+
+OUR REQUIRED EXPERTISE
+
+5+ years' experience in DevOps, Platform Engineering or Cloud Infrastructure
+Strong Azure experience across compute, networking and security services
+Hands-on Infrastructure-as-Code experience (Terraform preferred)
+Strong CI/CD experience using Azure DevOps, GitHub Actions or similar tooling
+Experience supporting cloud-native applications and microservices
+Containerisation experience with Docker and Kubernetes
+Strong scripting and automation capabilities
+Experience with monitoring and observability tools
+Solid understanding of cloud security and governance best practices
+Experience operating production environments at scale
+
+
+
+
+IDEALLY YOU WILL ALSO HAVE
+
+Azure certifications
+Experience with Kubernetes administration
+Experience supporting SaaS products
+Exposure to distributed systems architectures
+Experience with FinOps, cloud optimisation and cost management
+Security and compliance experience within cloud environments
+
+
+
+
+A KEY PART OF THE ROLE
+
+Ownership matters. This role isn't limited to maintaining environments.
+
+You'll be expected to:
+
+Drive improvement initiatives proactively
+Build solutions rather than manually support processes
+Take ownership of production reliability
+Partner closely with software engineering teams
+Create automation wherever repetitive work exists
+
+We're looking for someone who sees a problem and builds a scalable solution.
+
+
+
+
+MORE IMPORTANTLY, SHOW US WHAT YOU'VE OWNED
+
+We are looking for evidence, not just technology keywords.
+
+You should be able to demonstrate situations where you personally:
+
+Built and implemented CI/CD pipelines from the ground up
+Automated infrastructure provisioning and deployment processes
+Reduced deployment risk and improved release velocity
+Improved platform availability, security or performance
+Solved complex production incidents and reliability challenges
+Introduced tooling that improved engineering effectiveness
+Measured and communicated the impact of your work
+
+
+
+
+WHAT'S IN IT FOR YOU?
+
+Genuine ownership and influence
+Modern Azure cloud technologies
+Complex engineering and infrastructure challenges
+Opportunity to shape platform strategy and best practice
+High-impact work with visible outcomes
+Strong engineering culture focused on quality and continuous improvement
+Opportunity to work alongside experienced software and cloud engineers
+
+
+
+
+YOUR REWARD
+
+Opportunity to influence cloud and infrastructure strategy
+Exposure to modern Azure and DevOps practices
+Work on business-critical, scalable platforms
+International collaboration with distributed engineering teams
+Hybrid working environment with 2 days in office
+Cape Town – Tygervalley
+Competitive package aligned to experience and impact
+
+If you've automated it, scaled it, secured it and can demonstrate the value you've created, we'd love to hear from you.
+
+For more roles, please visit www.60degrees.com or follow 60 Degrees on LinkedIn.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Staffing and Recruiting
+  
+
+Referrals increase your chances of interviewing at 60 Degrees by 2x
+
+See who you know
+
+Get notified about new Cloud Engineer jobs in Western Cape, South Africa.
+
+Sign in to create job alert
+Jobs
+Human Resources Specialist jobs
+Azure Cloud Engineer (DevOps)
+Similar jobs
+Cloud Engineer
+Cloud Engineer
+Acuity Consultants
+City of Cape Town, Western Cape, South Africa
+ZAR 1,200,000 - ZAR 1,400,000
+1 week ago
+Azure Cloud Expert Engineer
+Azure Cloud Expert Engineer
+Cloud Direct
+City of Cape Town, Western Cape, South Africa
+2 weeks ago
+Senior Azure Cloud Engineer
+Senior Azure Cloud Engineer
+Acuity Consultants
+City of Cape Town, Western Cape, South Africa
+ZAR 1,400,000 - ZAR 1,600,000
+5 days ago
+DevOps, Platform & Support Engineer
+DevOps, Platform & Support Engineer
+MVIA
+Southern Suburbs, Western Cape, South Africa
+3 months ago
+DevOps Engineer II
+DevOps Engineer II
+The Shoprite Group of Companies
+Brackenfell, Western Cape, South Africa
+1 month ago
+Senior Cloud Infrastructure Engineer
+Senior Cloud Infrastructure Engineer
+Optimal Growth Technologies
+Cape Town, Western Cape, South Africa
+2 months ago
+Show more jobs like this 
+People also viewed
+Cross Technology Managed Services Engineer (L3)
+Cross Technology Managed Services Engineer (L3)
+
+NTT DATA, Inc.
+
+Cape Town, Western Cape, South Africa
+2 days ago
+Product Support Developer
+Product Support Developer
+
+Payment24
+
+Cape Town, Western Cape, South Africa
+6 days ago
+Systems Architect
+Systems Architect
+
+Klipboard
+
+Stellenbosch, Western Cape, South Africa
+1 week ago
+Cloud Engineer
+Cloud Engineer
+
+ABC Worldwide (AKA BRIP Careers Worldwide)
+
+City of Cape Town, Western Cape, South Africa
+3 days ago
+Tech Lead
+Tech Lead
+
+Sanlam
+
+Cape Town, Western Cape, South Africa
+2 weeks ago
+Data Engineer | On-site | George, Western Cape
+Data Engineer | On-site | George, Western Cape
+
+dotsure.co.za
+
+George, Western Cape, South Africa
+4 weeks ago
+Modern Workplace Engineer
+Modern Workplace Engineer
+
+amplify5
+
+City of Cape Town, Western Cape, South Africa
+3 weeks ago
+Level 2 Engineer
+Level 2 Engineer
+
+Ekco
+
+Cape Town, Western Cape, South Africa
+2 months ago
+Software Engineering Team Lead - Cloud
+Software Engineering Team Lead - Cloud
+
+Electrum
+
+Cape Town, Western Cape, South Africa
+2 months ago
+Senior Technical Support Specialist
+Senior Technical Support Specialist
+
+Lula
+
+City of Cape Town, Western Cape, South Africa
+6 days ago
+Similar Searches
+Human Resources Specialist jobs
+117 open jobs
+Financial Controller jobs
+1,029 open jobs
+Financial Analyst jobs
+821 open jobs
+Analyst jobs
+3,898 open jobs
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
