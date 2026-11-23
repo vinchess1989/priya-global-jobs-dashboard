@@ -1,0 +1,273 @@
+Title: Senior Quality Engineer - Salesforce & Copado
+Company: Inspired Testing
+Location: Johannesburg, South Africa
+URL: https://www.pnet.co.za/jobs--Senior-Quality-Engineer-Salesforce-Copado-Hybrid-Inspired-Testing--4311864-inline.html
+Posted: 2026-11-24
+Deadline: N/A
+Reason: The role aligns perfectly with the candidate's Salesforce, CI/CD, and quality engineering background, and it is located in South Africa, which is one of the target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Find a job
+Recruiters
+Sign in
+Never miss an opportunity. We’ll find jobs that fit
+Get Started
+Find Jobs
+Senior Quality Engineer - Salesforce & Copado
+Inspired Testing
+Hybrid
+Fixed Term, Permanent, Temporary
+Full Time, Work from Home
+Published: 9 hours ago
+Disabled, EE/AA, Independent Contractor, Non EE/AA
+I'm interested
+Save
+Senior Quality Engineer - Salesforce & Copado
+Inspired Testing
+I'm interested
+Introduction
+
+About Us:
+
+Inspired Testing is a leading innovative and forward-thinking Quality Engineering and Software Testing consultancy. Our teams of exceptional consultants and engineers provided solutions that helps our customers deliver quality software faster, more effectively, and more frequently. Our brand is trusted and highly respected globally, Inspired Testing is looking for a hands-on Senior Quality Engineer with strong Salesforce, Copado and automation engineering experience to deliver complex test engineering within a major Salesforce transformation in financial services.
+
+The Senior Quality Engineer will work within the Quality Engineering architecture and automation strategy established by the Test Architect / Quality Engineering Technical Lead. The role is accountable for engineering and extending sustainable automated coverage across Salesforce, APIs, integrations, data and downstream enterprise systems.
+
+This role combines advanced hands-on engineering with the technical direction and development of one or two Intermediate Quality Engineers. The successful candidate must be comfortable building framework components, solving complex automation problems and integrating reliable quality feedback into Copado and Azure DevOps delivery pipelines.
+
+The Team:
+
+We're at an exciting point where there's ample opportunity to make a big impact in scaling the people, processes, and technology in service of that mission. Our team’s strength is in its diversity and its acceptance of new ideas and new ways to look at old challenges. We know humans are not one-dimensional, and we celebrate the uniqueness everyone brings to the problems we solve and the culture we create.
+
+ 
+
+Duties & Responsibilities
+
+Key Responsibilities
+
+Salesforce Test Automation
+
+• Shape risk-based coverage with the Test Architect, Developers and delivery stakeholders, selecting appropriate component, API, contract, integration, data and UI checks alongside exploratory testing.
+
+• Design, implement and maintain reusable automation framework components in accordance with the architecture, standards and patterns established for the engagement.
+
+• Build sustainable automated regression, smoke, integration and selective end-to-end coverage across Salesforce business journeys and connected systems.
+
+• Automate Salesforce Lightning Experience, Lightning Web Components, Flows, validation rules, approval processes, custom objects and relevant custom development.
+
+• Use Playwright with C#/.NET, NUnit and Reqnroll/SpecFlow to implement maintainable automated checks and supporting utilities.
+
+• Refactor assigned framework components and automation to improve reuse, reliability, performance and diagnosis.
+
+Copado DevOps & CI/CD
+
+• Integrate automated tests into Copado and Azure DevOps pipelines to provide timely quality feedback across pull requests, builds, deployments and releases.
+
+• Use Copado to support deployment validation, continuous testing, release workflows and traceable quality controls across Salesforce environments.
+
+• Apply Git branching, pull-request and code-review practices to automation assets and support reliable promotion across environments.
+
+• Create and improve CI/CD checks, diagnostics and reporting; reduce flaky tests and avoid slow or uninformative quality gates.
+
+• Work with the Test Architect, Salesforce Developers and DevOps Engineers to resolve pipeline, deployment and environment-related quality issues.
+
+API, Integration & Data Testing
+
+• Design and implement reusable REST and SOAP API, service, contract and integration checks.
+
+• Validate contracts, payloads, data exchange, business rules, failure handling and end-to-end integration workflows.
+
+• Use SQL and SOQL to validate Salesforce data, downstream processing and end-to-end data integrity.
+
+• Develop utilities, mocks, stubs or service substitutes where these improve repeatability without concealing material integration risk.
+
+• Investigate difficult failures across Salesforce configuration, custom code, interfaces, data, environments, pipelines and automated tests.
+
+Quality Engineering Leadership & Collaboration
+
+• Lead complex engineering within an assigned Salesforce stream while remaining aligned to the programme-wide QE architecture and strategy.
+
+• Provide technical direction to one or two Intermediate Quality Engineers through clear task delegation, code review, pairing, feedback and development goals.
+
+• Work with Developers to improve testability, expand useful lower-layer coverage and avoid unnecessary dependence on UI automation.
+
+• Use static analysis and code review to address defects and technical debt in test solutions.
+
+• Report engineering progress, material quality risks, automation outcomes and improvement opportunities to the Test Architect and delivery stakeholders.
+
+• Contribute reusable utilities, standards and practical learning to the wider Quality Engineering community.
+
+Desired Experience & Qualification
+
+Essential Skills & Experience
+
+To be successful in this role, you must have:
+
+• Proven hands-on experience as a Senior Automation Engineer, SDET or Senior Quality Engineer.
+
+• Typically 6+ years of software testing, Quality Engineering or software engineering experience, including substantial hands-on automation engineering.
+
+• Strong Salesforce test automation experience across Lightning, business processes, configuration, customisation, integrations and data.
+
+• Hands-on Copado DevOps experience, including Salesforce deployment, release workflows, validation and continuous testing.
+
+• Strong Playwright and C#/.NET experience, with NUnit and Reqnroll/SpecFlow or equivalent tooling.
+
+• Advanced experience designing, implementing and maintaining reusable automation framework components.
+
+• Strong REST and SOAP API, integration and data-validation experience.
+
+• Strong SQL and SOQL capability for backend validation and defect investigation.
+
+• Experience integrating automated tests into Copado and Azure DevOps CI/CD pipelines.
+
+• Experience with Git, branching strategies, pull requests, code review and version-controlled test assets.
+
+• Strong debugging, troubleshooting and root-cause analysis across code, Salesforce, integrations, data and pipelines.
+
+• Experience mentoring or technically directing Intermediate Quality Engineers.
+
+• Excellent communication, collaboration and problem-solving skills.
+
+Advantageous Skills & Experience
+
+The following would be beneficial:
+
+• Experience in banking, corporate and investment banking, or another regulated financial-services environment.
+
+• Salesforce certifications such as Platform Administrator, Platform App Builder or Platform Developer.
+
+• Copado DevOps certifications.
+
+• Experience with Copado Robotic Testing or Provar.
+
+• Knowledge of Salesforce DX, Apex and Lightning Web Components.
+
+• Experience with service virtualisation, mocks, stubs and synthetic test data.
+
+• Experience working across multiple concurrent Salesforce delivery streams.
+
+Qualifications
+
+A relevant qualification in Information Technology, Computer Science, Software Engineering or a related field is advantageous. Equivalent practical experience will also be considered. ISTQB Foundation certification or an equivalent recognised software testing certification is preferred.
+
+What We're Looking For
+
+We are looking for a senior engineer who can turn the Test Architect’s QE strategy and framework direction into reliable, maintainable engineering delivery within a Salesforce workstream.
+
+You will thrive in this role if you:
+
+• Take ownership of complex automation and integration problems and drive them through to resolution.
+
+• Can extend a shared automation framework without bypassing agreed architecture or introducing unnecessary duplication.
+
+• Understand how Salesforce, Copado, APIs, integrations, data and CI/CD work together to provide reliable release feedback.
+
+• Can distinguish where UI automation adds value and where API, integration, component or data-layer checks are more effective.
+
+• Balance technical excellence with practical delivery needs and maintenance effort.
+
+• Enjoy developing Intermediate Quality Engineers through code review, pairing, feedback and increasing responsibility.
+
+• Are comfortable working in a fast-paced transformation with multiple delivery streams and significant integration complexity.
+
+I'm interested
+Inspired Testing
+IT & Internet • 11-50 Employees
+Company Profile
+Our Location
+Inspired Testing
+Venus St, Melrose Estate 2, 2196 Johannesburg, South Africa
+Open map
+Commute Time
+From:
+To:
+How:
+Car
+Public Transport
+Walk
+Cycle
+Show commute time
+- - : - -
+These jobs were popular with other job seekers
+Intermediate Quality Engineer - Salesforce & Copado
+Inspired Testing
+Hybrid
+Partially remote
+just now
+Quality Analyst
+Labournet
+Johannesburg
+just now
+Senior Quality Assurance Analyst - JHB
+Datafin IT Recruitment
+Johannesburg
+just now
+Quality Assurance Tester
+Mindworx Consulting
+JHB - Central
+just now
+Quality Engineer (12-Month Contract)
+Swan iT Recruitment Ltd
+Johannesburg
+just now
+Quality Engineer
+Stratogo
+Durban
+just now
+Junior Software Tester (Life Insurance Exp.)
+Goldenrule
+just now
+Quality Assurance Tester (Contract)
+The Focus Group
+Sandton, South Africa
+just now
+Process Engineer/Business Analyst (6-Month Contract)
+Engineered Workforce (Pty) Ltd
+Johannesburg
+just now
+Quality Engineer (Automotive)
+multiSEARCH
+Durban
+just now
+
+Get hired.
+Find success.
+
+Get started
+Pnet
+About us
+Privacy policy
+Disclaimer
+Terms and conditions
+PAIA
+Jobseekers
+Career advice
+Blog
+Recruiters
+Post job ads
+Contact us – recruiters
+Products and Services
+Download
+App Store
+Google Play
+Pnet © 2026
+We use cookies
+
+We transmit personal data to third-party providers who help us to improve our web services. In this context, we also create and enrich usage profiles (e.g., on the basis of cookie IDs), which may also be transferred outside the Republic of South Africa and outside the EU and EEA.
+
+For this and to be able to use certain services for the purposes listed below, we require your consent. By clicking "Accept all", you agree to these (revocable at any time). This also includes your consent to the transmission of certain personal data to third countries, including the USA*, in accordance with Section 72 (1) (b) POPIA. You can change your settings or refuse data processing under "Settings or reject". You can change your selection at any time under "Privacy Statement" at the bottom of the page.
+
+Storing and/or retrieving information on a device
+Cookies, device identifiers or other information may be stored on or retrieved from your device for the processing purposes shown to you.
+Personalised ads and content, ad and content measurement, audience insights and product development
+Ads and content can be personalised based on a profile. More data can be added to better personalise ads and content. The performance of ads and content can be measured. Insights about audiences who have viewed the ads and content can be extracted. Data can be used to build or improve user experience, systems and software.
+Display third-party content (social networks, videos)
+Content from social networks and embedded content from third-party providers can be displayed.
+Settings or reject
+Accept All
+You can also exercise your right to object to data processing based on legitimate interests under “Privacy Statement”.
+Privacy Statement
