@@ -1,0 +1,112 @@
+Title: Cloud DevOps Engineer
+Company: PM-Partners Group
+Location: Sydney, NSW, Australia
+URL: https://au.jora.com/job/Cloud-DevOps-Engineer-1dfac9b26b1367f68cb19d7d8a288dc3
+Posted: 24h ago
+Deadline: N/A
+Reason: The role aligns with the candidate's extensive experience in CI/CD, configuration management, and automation within regulated environments, and it is located in an eligible country (Australia).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Search
+Sign in
+What
+Where
+Search jobs
+Cloud DevOps Engineer
+PM-Partners Group
+–
+Sydney CBD NSW
+Contract, Casual/Temporary
+24h ago, from seek.com.au
+Apply on company site
+
+PM-Partners group is a specialist Project Management Consultancy. We have a unique way of running projects and providing training and advice, so our clients get the best results with less cost and risk. Each year we deliver over $3B of projects, train over 10,000 people, and help some of Australia’s leading brands improve their PMOs.
+
+The Opportunity
+
+A leading Australian bank is seeking an experienced Cloud DevOps Engineer with strong Amazon Web Services (AWS) expertise to support the development, automation and optimisation of its cloud infrastructure and deployment processes.
+
+Working closely with engineering, architecture and security teams, you will help build and maintain secure, scalable and reliable AWS environments, improve CI/CD pipelines and drive automation across cloud infrastructure and software delivery.
+
+Key Responsibilities
+
+Design, implement and maintain secure, scalable and resilient cloud infrastructure within AWS.
+Develop, manage and optimise CI/CD pipelines to automate build, testing and deployment processes.
+Implement Infrastructure as Code (IaC) using Terraform, AWS CloudFormation or similar tools.
+Automate infrastructure provisioning, configuration management and operational processes.
+Monitor cloud environments, troubleshoot issues and optimise performance, availability and costs.
+Embed security, governance and compliance controls into cloud infrastructure and deployment workflows.
+Collaborate with developers, architects and security teams to improve engineering practices and delivery outcomes.
+Support containerisation and orchestration technologies, including Docker and Kubernetes, particularly Amazon EKS.
+Drive continuous improvement across cloud operations, DevOps tooling and platform reliability.
+
+Key Skills and Experience
+
+Proven experience in a Cloud DevOps Engineer, AWS Engineer or Platform Engineering role.
+Strong hands-on experience with AWS and its core cloud infrastructure services.
+Experience with CI/CD pipelines, including AWS CodePipeline, CodeBuild, GitHub Actions, Jenkins or similar tools.
+Strong Infrastructure as Code experience using Terraform, CloudFormation or similar technologies.
+Scripting and automation skills using Python, Bash or similar languages.
+Experience with Git-based version control and automated deployment practices.
+Understanding of AWS networking, IAM, security, monitoring and cloud architecture.
+Exposure to Docker, Kubernetes and Amazon Elastic Kubernetes Service (EKS).
+Strong troubleshooting and problem-solving skills, with the ability to work across technical teams.
+
+Desirable Experience
+
+Experience working within banking, financial services or another regulated environment.
+Knowledge of AWS security, governance and compliance requirements.
+Exposure to monitoring and observability tools such as Amazon CloudWatch, Splunk, Datadog or Prometheus.
+Experience supporting enterprise-scale AWS environments and production workloads.
+AWS certifications such as Solutions Architect, SysOps Administrator or DevOps Engineer.
+
+What we can offer you! 
+
+Culture: A fun, fast paced, collaborative delivery environment 
+
+People: A group of talented, experienced, and dedicated Consultants to work by your side with a dedicated Relationship Manager 
+
+Passion: Ability to band together when under pressure to deliver first class results to clients 
+
+Transparency: Open door policy 
+
+Professional Development: On the job development and access to certifications in our Training practice 
+
+Care and Support: On-going support and advice from experienced PM-Partners Consultants 
+
+Knowledge: Access to PM-Partners Delivery and Advisory practices 
+
+If you feel you meet our selection criteria, please submit your resume to Isaac Ingram at PM-Partners via SEEK application or email – ******@pm-partners.com.au
+
+Apply on company site
+Be careful - Don’t provide your bank or credit card details when applying for jobs. Don't transfer any money or complete suspicious online surveys. If you see something suspicious, report this job ad.
+Email to yourself or a friend
+Email job
+Discover Jora
+Browse jobs
+Browse salaries
+Find recruiter
+About
+FAQ
+Blog
+Reviews
+Browse Jobs in Australia
+Jobs in Sydney
+Jobs in Melbourne
+Jobs in Hobart
+Jobs in Brisbane
+Jobs in Perth
+Jobs in Darwin
+Jobs in Adelaide
+Connect with us
+TikTok
+Facebook
+Linkedin
+Get Jora app
+Contact us
+Privacy
+Terms & Conditions
+©2026 Job Seeker Pty Ltd

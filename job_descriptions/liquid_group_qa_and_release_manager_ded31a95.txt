@@ -1,0 +1,351 @@
+Title: QA and Release Manager
+Company: Liquid Group
+Location: Singapore, Singapore
+URL: https://sg.linkedin.com/jobs/view/qa-and-release-manager-at-liquid-group-4493589349
+Posted: 2026-11-24
+Deadline: N/A
+Reason: The role is a perfect match for her background in release management, CI/CD, quality gatekeeping, and traceability within a highly regulated environment, and it is located in a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+QA and Release Manager
+Liquid Group  Singapore, Singapore
+20 hours ago  58 applicants
+  
+
+See who Liquid Group has hired for this role
+
+Apply
+Save
+
+Direct message the job poster from Liquid Group
+
+Moses Charles
+Moses Charles
+
+About Us
+
+Liquid Group is a Major Payment Institution licensed in Singapore, specialising in cross-border payment services for consumers and corporates across Asia. We operate RoamQR™, LiquidNow, LiquidNET and LiquidPay — enabling smart, secure and cost-effective payment solutions for partners, banks, merchant acquirers and digital wallet providers across the region.
+
+
+
+
+We work collaboratively to build innovative payment solutions that deliver efficiency, security and convenience for our partners and customers. At Liquid Group, you will have opportunities to broaden your knowledge and experience in financial technology while solving complex problems and bringing new ideas to market.
+
+
+
+
+About the Role
+
+We are seeking an experienced, highly hands-on QA and Release Manager to lead our software quality assurance, test automation, change control and release management capabilities.
+
+The role will operate independently from software engineering to provide objective assurance that software changes are appropriately designed, tested, controlled and released. The QA and Release Manager will establish and maintain best-in-class quality engineering practices across the software development lifecycle, with a particular focus on automation, CI/CD integration, traceability, change governance and production release readiness.
+
+
+
+
+The successful candidate will lead a small team of QA and automation specialists while remaining deeply hands-on. This is not a purely managerial role — the successful candidate will be expected to design and implement automation frameworks, work directly with engineering teams and CI/CD pipelines, investigate complex defects, improve testing practices and actively participate in release planning and execution.
+
+
+
+
+Given the nature of our business, the role requires significant experience within financial services, payments, fintech or a closely regulated technology environment, together with a detailed understanding of the regulatory, operational risk, audit and control requirements applicable to technology and software delivery.
+
+
+
+
+Key Responsibilities
+
+Quality Assurance & Quality Engineering
+
+Establish and own the organisation's independent software quality assurance framework.
+Define QA standards, processes, controls and quality gates across the software development lifecycle.
+Develop risk-based testing strategies covering functional, integration, regression, API, performance, security and end-to-end testing.
+Ensure appropriate test coverage for critical business processes, payment flows, integrations and customer-facing services.
+Establish measurable quality metrics, including defect trends, test coverage, automation coverage, escaped defects and release quality.
+Provide independent assessment of software changes and release readiness.
+Drive continuous improvement in engineering quality and testing practices.
+Ensure defects are appropriately identified, documented, prioritised, investigated and closed.
+
+QA Automation
+
+Lead the development and implementation of a modern, scalable automated testing strategy.
+Build and maintain automated test frameworks and reusable testing capabilities.
+Identify opportunities to replace manual testing with reliable automated testing.
+Establish automated regression and smoke testing across critical applications and services.
+Implement API, integration and end-to-end automation appropriate to the technology architecture.
+Evaluate and introduce best-in-class QA platforms, frameworks and tooling.
+Ensure automated tests are reliable, maintainable, observable and integrated into the broader engineering lifecycle.
+Remain hands-on with automation development and troubleshooting.
+
+CI/CD & Engineering Integration
+
+Integrate automated testing and quality gates directly into CI/CD pipelines.
+Work closely with software engineers and DevOps/platform teams to ensure quality is embedded throughout the delivery lifecycle.
+Define appropriate automated quality gates for development, test, staging and production environments.
+Ensure failed tests and quality thresholds can prevent inappropriate promotion of software through the delivery pipeline.
+Establish appropriate test environment and test-data practices.
+Contribute to the continuous improvement of engineering tooling, development workflows and deployment practices.
+
+Change Control & Traceability
+
+Own QA requirements associated with technology change management.
+Ensure software changes are appropriately documented, tested, approved and traceable from requirement through to production deployment.
+Establish and maintain end-to-end traceability between requirements, code changes, test cases, defects, approvals and releases.
+Ensure evidence generated through the QA and release process is sufficient to support internal controls, audit and regulatory requirements.
+Work with Engineering, Product, Risk, Compliance and Operations to ensure appropriate segregation of duties and independent quality controls.
+Ensure production changes comply with approved change management processes and release controls.
+Maintain appropriate release and testing evidence for audit and regulatory review.
+
+Release Management
+
+Own the technology release planning and QA release readiness process.
+Establish release calendars, release criteria and production deployment controls.
+Coordinate cross-functional release activities involving Engineering, QA, Product, Operations, Risk, Compliance and other relevant stakeholders.
+Assess and communicate release risks, dependencies, outstanding defects and testing status.
+Establish formal go/no-go criteria for production releases.
+Ensure appropriate rollback, contingency and remediation plans are in place for material releases.
+Coordinate post-release validation and production verification.
+Lead retrospectives and ensure lessons learned are incorporated into future release processes.
+
+Leadership
+
+Lead, develop and mentor a small team of QA and automation professionals.
+Establish clear technical standards, objectives and accountability across the QA function.
+Remain actively involved in technical delivery rather than operating solely as a people manager.
+Review automation architecture, test strategies and technical approaches developed by the team.
+Build strong working relationships with Software Engineering, Product, DevOps, Infrastructure, Security, Risk, Compliance and Operations.
+Promote a culture of engineering excellence, automation, accountability and continuous improvement.
+
+
+
+
+Financial Services & Regulatory Requirements
+
+The successful candidate must have substantial experience in financial services, payments, fintech or another highly regulated technology environment. They will be expected to understand the technology control and regulatory considerations associated with operating critical financial or payment systems, including:
+
+
+
+
+Technology risk management and operational resilience.
+Software development and change management controls.
+Independent testing and quality assurance.
+Auditability and evidentiary requirements.
+Segregation of duties and appropriate approval controls.
+Production access and deployment controls.
+Incident, defect and problem management.
+Business continuity, disaster recovery and resilience considerations.
+Third-party and technology service-provider risk where relevant.
+Data protection, security and confidentiality requirements.
+Regulatory expectations relating to systems supporting financial and payment services.
+
+
+
+
+The candidate should have a practical understanding of the Singapore regulatory environment, including relevant requirements and guidance issued by the Monetary Authority of Singapore (MAS), particularly in relation to technology risk management, operational resilience, outsourcing and controls applicable to regulated financial institutions and payment businesses.
+
+
+
+
+Essential Experience & Qualifications
+
+Significant experience in software QA, quality engineering, test automation and/or release management.
+Proven experience leading QA within a modern software engineering environment.
+Strong hands-on experience designing and implementing automated testing frameworks.
+Demonstrated experience integrating automated testing into CI/CD pipelines.
+Experience with API, integration and end-to-end testing.
+Strong understanding of modern software development methodologies, including Agile and DevOps.
+Demonstrated experience with software change control, release governance and end-to-end traceability.
+Experience managing and mentoring a small technical QA/automation team.
+Significant experience within financial services, payments, fintech, banking or another highly regulated environment.
+Detailed understanding of regulatory and technology risk requirements relevant to financial services.
+Experience operating in environments subject to internal audit, external audit and/or regulatory scrutiny.
+Strong analytical, problem-solving and defect investigation skills.
+Excellent written and verbal communication skills.
+
+
+
+
+Technical Capability
+
+The successful candidate should be comfortable working directly with modern QA and engineering technologies and have a strong understanding of the current QA tooling landscape.
+
+Relevant experience may include:
+
+
+
+
+Automated UI testing frameworks such as Playwright, Cypress or Selenium.
+API testing and automation.
+Contract and integration testing.
+Performance and load testing.
+Test management and requirements traceability platforms.
+CI/CD platforms such as GitHub Actions, GitLab CI/CD, Jenkins, Azure DevOps or equivalent.
+Source control and code review platforms such as GitHub or GitLab.
+Cloud-based testing and deployment environments.
+Automated reporting, test analytics and quality dashboards.
+Defect and issue management platforms such as Jira or equivalent.
+Containerised and distributed application environments.
+SQL and database validation.
+Observability, logging and production verification tools.
+
+
+
+
+The specific technology stack is less important than the candidate's ability to evaluate, implement and effectively use modern QA technologies and engineering practices.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at Liquid Group by 2x
+
+See who you know
+
+Get notified about new Quality Assurance Release Manager jobs in Singapore, Singapore.
+
+Sign in to create job alert
+Similar jobs
+Integration, Verification, Validation, and Qualification Manager (IVVQM)
+Integration, Verification, Validation, and Qualification Manager (IVVQM)
+Thales
+Singapore, Singapore
+2 weeks ago
+Release & Environment Manager
+Release & Environment Manager
+Accenture Southeast Asia
+Singapore, Singapore
+2 months ago
+Manager - Production & Quality Control
+Manager - Production & Quality Control
+Botsync
+Singapore, Singapore
+2 weeks ago
+Quality Manager
+Quality Manager
+Applied Materials South East Asia
+Singapore, Singapore
+1 week ago
+Software Quality Engineer
+Software Quality Engineer
+Apple
+Singapore, Singapore
+6 months ago
+Quality Manager
+Quality Manager
+Hegen
+Singapore, Singapore
+6 days ago
+Show more jobs like this 
+People also viewed
+Test Lead
+Test Lead
+
+Capgemini
+
+Singapore, Singapore
+6 months ago
+Quality Assurance Manager - Product Risk Management
+Quality Assurance Manager - Product Risk Management
+
+WSA – Wonderful Sound for All
+
+Singapore, Singapore
+1 month ago
+QA Manager
+QA Manager
+
+Labcorp
+
+Singapore, Singapore
+1 week ago
+Quality Assurance (QA) Specialist, East Asia
+Quality Assurance (QA) Specialist, East Asia
+
+Stryker
+
+Singapore, Singapore
+2 weeks ago
+Quality Assurance Manager
+Quality Assurance Manager
+
+EPM Scientific
+
+Singapore, Singapore
+4 days ago
+Quality & Regulatory Assistant Manager
+Quality & Regulatory Assistant Manager
+
+EssilorLuxottica
+
+Singapore, Singapore
+4 days ago
+Manager, Supplier Quality Assurance
+Manager, Supplier Quality Assurance
+
+Resmed
+
+Singapore, Singapore
+1 week ago
+Operations and Customer Quality Manager
+Operations and Customer Quality Manager
+
+Applied Materials South East Asia
+
+Singapore, Singapore
+1 week ago
+Head of Quality (AGS)
+Head of Quality (AGS)
+
+Thales
+
+Singapore, Singapore
+1 week ago
+Lead Quality Assurance Analyst - Asia
+Lead Quality Assurance Analyst - Asia
+
+Orix Digi
+
+Singapore, Singapore
+3 months ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

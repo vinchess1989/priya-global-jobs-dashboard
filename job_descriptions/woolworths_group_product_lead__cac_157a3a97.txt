@@ -1,0 +1,259 @@
+Title: Product Lead -CaC
+Company: Woolworths Group
+Location: Sydney, New South Wales, Australia
+URL: https://au.linkedin.com/jobs/view/product-lead-cac-at-woolworths-group-4493607853
+Posted: 2026-11-24
+Deadline: Open until filled
+Reason: The role is a strong match for her configuration management and release management expertise, and it is located in Australia, which is a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Product Lead -CaC
+Woolworths Group  Sydney, New South Wales, Australia
+17 hours ago   Be among the first 25 applicants
+  
+
+See who Woolworths Group has hired for this role
+
+Apply 
+Save
+Drive impact by shaping enterprise infrastructure that powers seamless operations across Australia!
+Bridge strategic technology vision with high-performing engineering execution to transform our tech ecosystem.
+Enjoy flexible hybrid working with 3 collaborative days based at our vibrant Bella Vista campus!
+
+
+We are Woolworths Group
+
+We are Woolworths Group. 200,000+ bright minds, passionate hearts and unique perspectives connected by a shared Purpose – ‘to create better experiences together for a better tomorrow.’ It’s that Purpose that fuels our ambition to explore new ideas, make brave commitments and innovate better ways to meet the food and everyday needs of more than 24 million customers every week.
+
+If you’re excited to turn today’s blue sky thinking into a better tomorrow for future generations, you’ll find yourself supported and enriched in a dynamic, inclusive and empowering workplace that reflects the diverse communities we serve. With a culture of genuine care, a flexible approach to work and opportunities across the group to grow your career and make a meaningful impact, the possibilities for what we can achieve together are endless.
+
+About The Role
+
+The Product Lead – Configuration as Code (CaC) defines and executes the strategic technology vision for enterprise fleet management, infrastructure automation, and configuration governance across a high-volume, mission-critical ecosystem. Serving as a key bridge between strategy and engineering execution, this role converts complex enterprise architecture blueprints into standardised, production-ready Ansible playbooks, Terraform patterns, and GitOps workflows.
+
+Key Responsibilities
+
+
+Set and uphold configuration-as-code standards: version control, peer review, branching and promotion, and automated testing for configuration code. Provision and manage platforms through Terraform, CI/CD Pipelines and GitHub.
+Ensure the platforms (Ansible/Ansible Automation Platform (AAP), Azure Key Vault, GCP Secret Manager, HashiCorp Vault) are secure, reliable and supportable, covering upgrades, incident and problem management, and runbooks.
+Define the technical strategy and design direction for configuration management, server state automation and fleet-wide compliance across the enterprise infrastructure, aligned to the product roadmap and priorities set by the Platform Manager.
+Lead technical delivery of the SOI project portfolio using agile methodologies, covering sprint execution, release readiness, dependency and risk management, and delivery status reporting to the Platform manager.
+Work with business analysts and consuming teams to translate requirements and audit findings into well-defined technical solutions, stories and acceptance criteria for the backlog.
+Lead and develop a team of 2-3 engineers and business analysts. Allocate work, coach, and maintain quality through design and code review.
+Direct the GCC offshore team and external partner day to day, with clear scope, handover and acceptance criteria, and quality oversight against agreed outcomes and SLAs.
+
+
+What You’ll Bring
+
+
+Strong expertise in enterprise CaC platform, specifically Ansible, with the demonstrated ability to review, design, and guide complex playbooks, roles, and manifests for large scale fleet management.
+Proven experience managing configuration drift, implementing secrets management architectures using native Vaults, and maintaining high availability across platform upgrades.
+Demonstrable experience applying Policy-as-Code frameworks (e.g., Sentinel Policies) to enforce deployment governance, compliance, and automated risk controls.
+Solid understanding of public cloud environments (Azure, GCP) integrated with IaC tools like Terraform / Terraform Cloud and GitOps principles.
+Hands-on familiarity with GitHub and CI/CD pipelines to build, test, and release automated configuration workflows seamlessly.
+Proven capability operating across all levels of product delivery—from high-level strategy and architectural blueprints to sprint-level execution and operational support.
+Demonstrated success working as an Engineer or Product Lead, translating complex infrastructure needs into clear backlog items (features, technical debt, security requirements, and bug fixes).
+
+
+Why join us
+
+
+Unrivalled Scale & Mobility: A market-leading enterprise offering expansive career pathways across diverse disciplines, brands, and innovation hubs.
+Team Discounts & Rewards: Exclusive team member discounts across our family of Woolworths Group brands, coupled with an incentive structure that rewards purpose-driven impact.
+Market-Leading Parental Leave: 12 weeks of paid parental leave for primary caregivers, plus paid superannuation contributions for up to 12 months—accessible from day one.
+Holistic Wellbeing Support: Comprehensive wellbeing programs, including 24/7 confidential access to the Sonder safety and support app, alongside flexible leave policies tailored to your life outside work.
+
+
+Everyone belongs at Woolworths Group
+
+As one of the largest employers across Australia and New Zealand, we are committed to creating an inclusive culture where everyone feels they belong, are empowered to be their authentic selves, and can reach their full potential.
+
+Diversity, equity, inclusion, and belonging underpin our purpose: better together for a better tomorrow. We recognize the immense strength our team’s diversity brings to our customers, teams, and communities. Diverse perspectives fuel better innovation, smarter decision-making, and stronger problem-solving.
+
+Woolworths Group is an inclusive, team-first organization. If your experience aligns with what we are building, even if you do not check every single box, we encourage you to submit your application.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Retail
+  
+
+Referrals increase your chances of interviewing at Woolworths Group by 2x
+
+See who you know
+
+Get notified about new Lead Product Manager jobs in Sydney, New South Wales, Australia.
+
+Sign in to create job alert
+Jobs
+Principal Product Manager jobs
+Product Lead -CaC
+Similar jobs
+Enterprise Product Lead
+Enterprise Product Lead
+Propeller
+Sydney, New South Wales, Australia
+2 weeks ago
+Product Lead
+Product Lead
+Teoh Capital
+Sydney, New South Wales, Australia
+4 weeks ago
+Lead Product Manager
+Lead Product Manager
+Eucalyptus
+Sydney, New South Wales, Australia
+8 hours ago
+Lead Product Manager (Sydney Office)
+Lead Product Manager (Sydney Office)
+Eucalyptus
+Sydney, New South Wales, Australia
+2 weeks ago
+Principal Product Manager
+Principal Product Manager
+Tactiq
+Sydney, New South Wales, Australia
+1 week ago
+Lead Product Manager
+Lead Product Manager
+Safewill
+Surry Hills, New South Wales, Australia
+3 days ago
+Show more jobs like this 
+People also viewed
+AI Product Manager
+AI Product Manager
+
+Suntory Oceania
+
+Millers Point, New South Wales, Australia
+1 week ago
+Senior Product Manager, Flare
+Senior Product Manager, Flare
+
+Flare
+
+Sydney, New South Wales, Australia
+2 weeks ago
+Senior Product Manager - Access
+Senior Product Manager - Access
+
+Everlab
+
+Sydney, New South Wales, Australia
+1 week ago
+Product Manager - SwitchGear
+Product Manager - SwitchGear
+
+Vertiv
+
+Sydney, New South Wales, Australia
+1 week ago
+Senior Product Manager - felix
+Senior Product Manager - felix
+
+TPG Telecom
+
+Barangaroo, New South Wales, Australia
+6 days ago
+Principal Product Owner
+Principal Product Owner
+
+UST
+
+Sydney, New South Wales, Australia
+1 week ago
+Product Manager
+Product Manager
+
+Commonwealth Bank
+
+Sydney, New South Wales, Australia
+22 hours ago
+Product Manager
+Product Manager
+
+DuluxGroup
+
+Revesby, New South Wales, Australia
+3 weeks ago
+VP of Product
+VP of Product
+
+EatClub
+
+Sydney, New South Wales, Australia
+1 week ago
+Senior Technical Product Manager
+Senior Technical Product Manager
+
+DRIVO
+
+Sydney, New South Wales, Australia
+1 week ago
+Similar Searches
+Principal Product Manager jobs
+184 open jobs
+Group Product Manager jobs
+511 open jobs
+Senior Product Manager jobs
+1,561 open jobs
+Head of Product jobs
+682 open jobs
+Director of Product Management jobs
+261 open jobs
+Head of Product Management jobs
+232 open jobs
+Mobile Product Manager jobs
+375 open jobs
+Product Manager jobs
+5,738 open jobs
+Manager Product Management jobs
+1,150 open jobs
+Product Management Consultant jobs
+844 open jobs
+Vice President of Product Management jobs
+16 open jobs
+Digital Product Manager jobs
+612 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
