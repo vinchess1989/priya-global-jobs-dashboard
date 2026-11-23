@@ -1,0 +1,266 @@
+Title: DevOps Engineer - Voice
+Company: Intermedia Intelligent Communications
+Location: Bristol, England, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/devops-engineer-voice-at-intermedia-intelligent-communications-4492633825
+Posted: 2026-11-24
+Deadline: N/A
+Reason: This DevOps Engineer role in the UK matches her extensive background in CI/CD pipelines, configuration management, and Linux infrastructure automation.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer - Voice
+Intermedia Intelligent Communications  Bristol, England, United Kingdom
+5 hours ago   Be among the first 25 applicants
+  
+
+See who Intermedia Intelligent Communications has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Department: Tech Operations
+
+Location: Bristol, United Kingdom
+
+Description
+
+About Intermedia:
+
+Intermedia has established itself as a leading provider of cloud communications and collaboration tech that allows companies to connect better. We have a strong track record of growth, profitability, and creating an environment where everyone matters. Everyone. While we are fast-paced and admittedly a bit intense, we promise that you won’t be bored. You will find Intermedia is a place where you can indulge your passion for creating and supporting great cloud technology. What’s more, we always look to promote from within and have many employees who have been with us 10, 15, and 20+ years!
+
+Are you looking for a company where YOUR VOICE is heard? Where you can MAKE A DIFFERENCE? Do you THRIVE in a FAST-PACED work environment? Do you wake every morning EXCITED to work with GREAT PEOPLE and create SUCCESS TOGETHER? Then Intermedia is the place for you.
+
+Culture at Intermedia is built on teamwork and transparency. We hold each other accountable and always have each other’s back!
+
+Are you ready to make your mark?
+
+About The Role
+
+While primarily remote, this role may require occasional visits to the Bristol office or London.
+
+We are looking for a proactive and eager DevOps Engineer with experience in building, maintaining, and operating Linux based infrastructure at scale. This role is perfect for someone with a passion for automation and efficiency and thrives in a collaborative multi-national environment.
+
+What You’ll Be Doing
+
+
+Collaborate closely with fellow devops engineers and the development team to deploy and maintain application infrastructure.
+Assist in the development and support of tooling to streamline the deployment and maintenance of our products.
+Work with Github, Jenkins, and Chef to deploy applications from development through to production environments.
+Support both in-house and third-party applications, including handling deployments, upgrades, and troubleshooting.
+Build and manage automation pipelines for application deployment and maintenance.
+Engage in the day-to-day management of Linux servers via the command line
+Create monitoring dashboards and alerts in Grafana leveraging Prometheus and Alertmanager.
+Document processes and best practices clearly and concisely.
+Participate in incident solving on-call rotation.
+
+
+What You Will Bring To The Role
+
+
+2+ years of experience in DevOps Engineering or a related field.
+Strong understanding of the Linux operating system and comfort working at the command line.
+Experience with using Chef or other configuration management tools to automate the creation and maintenance of servers and applications.
+Ability to design, implement, and manage CI/CD pipelines using GitHub, Github Actions, and Jenkins.
+Solid understanding of networking principles, including DNS, TCP/UDP, firewalls, and load balancers.
+A willingness to dive into both complex systems and more routine tasks, ensuring that everything runs smoothly.
+A foundational understanding of security best practices.
+Proficiency with scripting languages like Bash, Ruby, Python, or Go.
+
+
+Diversity, Inclusion, and Equal Opportunity
+
+We hire, promote, and compensate employees based on their ability to perform their job responsibilities, without regard to race, color, creed, religion, sex, gender, marital status, national origin, ancestry, age, citizenship, physical or mental disability, sexual orientation, or any other basis protected by applicable law (collectively referred to in our Code of Conduct as “Protected Classes”). We do not tolerate employment discrimination in the workplace, and we are committed to making reasonable accommodations for identified disabilities or other limitations as required by all applicable laws. We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Intermedia Intelligent Communications by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Bristol, England, United Kingdom.
+
+Sign in to create job alert
+Jobs
+Incentive Manager jobs
+DevOps Engineer - Voice
+Similar jobs
+DevOps Engineer - Voice
+DevOps Engineer - Voice
+Intermedia Intelligent Communications
+United Kingdom
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+Deel
+United Kingdom
+$50,000 - $100,000
+1 week ago
+DevOps Engineer
+DevOps Engineer
+Ripjar
+United Kingdom
+5 days ago
+DevOps Engineer
+DevOps Engineer
+Ripjar
+Cheltenham, England, United Kingdom
+2 months ago
+DevOps Engineer
+DevOps Engineer
+Era4
+England, United Kingdom
+1 month ago
+Senior DevOps Engineer - Voice
+Senior DevOps Engineer - Voice
+Intermedia Intelligent Communications
+Bristol, England, United Kingdom
+5 hours ago
+Show more jobs like this 
+People also viewed
+Senior Platform Engineer
+Senior Platform Engineer
+
+Attio
+
+United Kingdom
+£105,000 - £125,000
+3 days ago
+DevOps Engineer | AI Defence Consultancy | Remote
+DevOps Engineer | AI Defence Consultancy | Remote
+
+Opus Recruitment Solutions
+
+United Kingdom
+£60,000 - £80,000
+4 days ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+Hamilton Barnes 🌳
+
+United Kingdom
+3 weeks ago
+DevOps Engineer- Late Shift(2 PM - 10PM)
+DevOps Engineer- Late Shift(2 PM - 10PM)
+
+NiCE
+
+United Kingdom
+3 days ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+Treatwell
+
+United Kingdom
+3 days ago
+Azure DevOps / SRE Engineer x 2 - Up to £65k - AKS - New
+Azure DevOps / SRE Engineer x 2 - Up to £65k - AKS - New
+
+RedRock Resourcing
+
+United Kingdom
+4 days ago
+Senior Cloud Platform Engineer
+Senior Cloud Platform Engineer
+
+Twinkl Ltd.
+
+United Kingdom
+9 hours ago
+Site Reliability Engineer, Infrastructure Platforms — UK (Intermediate to Senior Staff)
+Site Reliability Engineer, Infrastructure Platforms — UK (Intermediate to Senior Staff)
+
+GitLab
+
+United Kingdom
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+undisclosed
+
+United Kingdom
+1 week ago
+Site Reliability Engineer (Forward Deployed)
+Site Reliability Engineer (Forward Deployed)
+
+Teleport
+
+United Kingdom
+$189,000 - $326,000
+3 weeks ago
+Similar Searches
+Incentive Manager jobs
+989 open jobs
+Channel Sales Account Manager jobs
+668 open jobs
+Partner Account Executive jobs
+1,805 open jobs
+Post Production Producer jobs
+80 open jobs
+Field Sales Trainer jobs
+481 open jobs
+Sales Engineering Manager jobs
+6,196 open jobs
+Digital Media Specialist jobs
+1,442 open jobs
+Export Director jobs
+709 open jobs
+Assistant Business Manager jobs
+4,926 open jobs
+Financial Journalist jobs
+72 open jobs
+Regional Sales Director jobs
+4,718 open jobs
+Senior Solutions Consultant jobs
+2,821 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Intermedia Intelligent Communications
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
