@@ -1,9 +1,9 @@
 {
   "pid": 64652,
   "started_at": "2026-11-23T01:06:19+02:00",
-  "heartbeat_at": "2026-11-23T02:06:00+02:00",
+  "heartbeat_at": "2026-11-23T02:08:13+02:00",
   "phase": "reviewing",
-  "detail": "Product Specialist",
-  "last_scrape_ok_at": "2026-11-23T02:04:54+02:00",
+  "detail": "Customer Success Specialist",
+  "last_scrape_ok_at": "2026-11-23T02:07:04+02:00",
   "last_error": null
 }
