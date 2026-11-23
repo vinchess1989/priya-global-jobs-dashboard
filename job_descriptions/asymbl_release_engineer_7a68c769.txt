@@ -1,0 +1,308 @@
+Title: Release Engineer
+Company: Asymbl
+Location: Jaipur, Rajasthan, India
+URL: https://in.linkedin.com/jobs/view/release-engineer-at-asymbl-4494000900
+Posted: 2026-11-24
+Deadline: N/A
+Reason: The role is a perfect match for the candidate's extensive experience in release management, CI/CD, and configuration management, and it is located in India, which is one of her target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Release Engineer
+Asymbl  Jaipur, Rajasthan, India
+7 hours ago   Be among the first 25 applicants
+  
+
+See who Asymbl has hired for this role
+
+Apply 
+Save
+
+Release Engineer
+
+
+
+
+Asymbl is The Workforce Orchestration Company™. We help staffing and recruiting firms bring people, AI, and software together as one hybrid workforce. We create the software, we put the AI to work, and we have the consulting expertise to orchestrate it all.
+
+
+
+
+We believe the future of work isn't human or digital. It's human and digital, orchestrated as one.
+
+
+
+
+Position Overview
+
+
+
+
+You will own how Asymbl ships software: planning, coordinating, and running releases of Asymbl Intelligence, the platform behind our products, so that customers get new features quickly and reliably. Our customers run hybrid teams of people and digital workers on our products every day, so every release has to be predictable, well communicated, and safe to roll back.
+
+
+
+
+You will work closely with our engineering, QA, infrastructure, and product teams in Jaipur, and with US-based product, support, and customer-facing teams. You'll work with Git, CI/CD pipelines, Jira, our cloud environments on Google Cloud Platform and AWS, and Salesforce release tooling. Success will be measured by releases shipped on schedule, fewer failed deployments and rollbacks, and stakeholders who always know what is shipping and when.
+
+
+
+
+Responsibilities:
+
+
+
+
+You will be responsible for:
+
+
+
+
+Release Planning and Coordination
+
+Owning the release calendar and planning releases with product, engineering, and QA
+Running release readiness and go/no-go reviews, including scope, testing sign-off, and risks
+Coordinating dependencies across teams, environments, and customer commitments
+
+
+
+
+Release Execution
+
+Managing deployments through development, QA, staging, and production environments
+Owning branching, versioning, and merge strategy with the engineering leads
+Running production releases and hotfixes, including rollback plans and post-release checks
+Working with the Infrastructure Engineer to improve CI/CD pipelines and automate release steps
+
+
+
+
+Quality and Risk
+
+Making sure every release meets quality gates for testing, security checks, and approvals
+Tracking release issues and leading post-release reviews to prevent repeats
+Maintaining release documentation, runbooks, and an audit trail of what shipped
+
+
+
+
+Communication
+
+Writing release notes for internal teams and customers
+Keeping leadership, support, and customer-facing teams informed of schedules, changes, and incidents
+Reporting on release metrics such as frequency, lead time, and change failure rate
+
+
+
+
+Qualifications:
+
+Bachelor’s degree in Computer Science, Information Technology, or a related field
+5 to 8 years in software delivery, with 3+ years as a Release Manager or in a similar release or build role
+Hands-on experience with Git branching strategies and versioning
+Experience with CI/CD tools such as GitHub Actions, GitLab CI, Jenkins, or Cloud Build
+Working knowledge of cloud environments on GCP or AWS and containerized deployments
+Experience with Agile delivery and tools such as Jira and Confluence
+Strong organization and attention to detail, with the ability to manage several releases at once
+Clear written and verbal communication with technical and non-technical stakeholders
+Comfort working with US-based teams across time zones
+
+
+
+
+Nice to have:
+
+Salesforce release management experience (change sets, SFDX, Copado, Gearset, or managed packages)
+Experience releasing AI or data-intensive products
+Experience with feature flags and progressive rollouts
+Scripting skills in Bash or Python to automate release tasks
+ITIL or Scrum certifications
+
+
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Technology, Information and Media
+  
+
+Referrals increase your chances of interviewing at Asymbl by 2x
+
+See who you know
+
+Get notified about new Release Engineer jobs in Jaipur, Rajasthan, India.
+
+Sign in to create job alert
+Jobs
+Build And Release Engineer jobs
+Release Engineer
+Similar jobs
+Application Support Engineer
+Application Support Engineer
+Accenture in India
+Jaipur, Rajasthan, India
+1 month ago
+Application Developer
+Application Developer
+Accenture in India
+Jaipur, Rajasthan, India
+1 month ago
+ENGINEERING EXECUTIVE
+ENGINEERING EXECUTIVE
+Accor
+Jaipur, Rajasthan, India
+2 months ago
+DevOps Engineer
+DevOps Engineer
+Sarv
+Jaipur, Rajasthan, India
+4 days ago
+Infrastructure Engineer
+Infrastructure Engineer
+Asymbl
+Jaipur, Rajasthan, India
+3 weeks ago
+QA Engineer
+QA Engineer
+Royal York Property Management
+Jaipur, Rajasthan, India
+1 week ago
+Show more jobs like this 
+People also viewed
+Business Process Architect
+Business Process Architect
+
+Accenture in India
+
+Jaipur, Rajasthan, India
+1 month ago
+Business Process Architect
+Business Process Architect
+
+Accenture in India
+
+Jaipur, Rajasthan, India
+1 month ago
+Business Process Architect
+Business Process Architect
+
+Accenture in India
+
+Jaipur, Rajasthan, India
+1 month ago
+Business Process Architect
+Business Process Architect
+
+Accenture in India
+
+Jaipur, Rajasthan, India
+1 month ago
+Business Process Architect
+Business Process Architect
+
+Accenture in India
+
+Jaipur, Rajasthan, India
+1 month ago
+Custom Software Engineer
+Custom Software Engineer
+
+Accenture in India
+
+Jaipur, Rajasthan, India
+1 month ago
+Custom Software Engineer
+Custom Software Engineer
+
+Accenture in India
+
+Jaipur, Rajasthan, India
+1 month ago
+Custom Software Engineer
+Custom Software Engineer
+
+Accenture in India
+
+Jaipur, Rajasthan, India
+1 month ago
+Custom Software Engineer
+Custom Software Engineer
+
+Accenture in India
+
+Jaipur, Rajasthan, India
+6 days ago
+Solution Architect
+Solution Architect
+
+Accenture in India
+
+Jaipur, Rajasthan, India
+1 month ago
+Similar Searches
+Build And Release Engineer jobs
+3,712 open jobs
+Software Release Engineer jobs
+346 open jobs
+Agile Coach jobs
+1,905 open jobs
+Release Manager jobs
+5,638 open jobs
+Software Configuration Management Engineer jobs
+2,961 open jobs
+Configuration Management Engineer jobs
+325 open jobs
+Design Release Engineer jobs
+1,379 open jobs
+Scrum Master jobs
+9,144 open jobs
+Support Escalation Engineer jobs
+1,728 open jobs
+Change And Release Manager jobs
+184 open jobs
+Assistant Professor of Mathematics jobs
+276 open jobs
+Change Management Coordinator jobs
+123 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Asymbl
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

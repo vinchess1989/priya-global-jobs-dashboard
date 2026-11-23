@@ -1,0 +1,240 @@
+Title: Senior Devops Engineer
+Company: JioStar
+Location: Mumbai Metropolitan Region
+URL: https://in.linkedin.com/jobs/view/senior-devops-engineer-at-jiostar-4493642761
+Posted: 2026-11-24
+Deadline: N/A
+Reason: The role aligns with the candidate's extensive experience in DevOps, CI/CD pipeline management, and infrastructure automation, and it is located in India, which is one of her target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Devops Engineer
+JioStar  Mumbai Metropolitan Region
+9 hours ago  86 applicants
+  
+
+See who JioStar has hired for this role
+
+Apply
+Save
+Job Summary~
+
+We are looking for a skilled DevOps Engineer with strong expertise in Kubernetes, CI/CD pipelines, and Jenkins. The ideal candidate should have hands-on experience in GCP, along with working knowledge of service mesh technologies like Istio and modern observability tools such as Google Cloud Monitoring and New Relic.
+
+About the team~
+
+The DevOps team is responsible for building and operating the core infrastructure that powers JioStar’s digital platforms. The focus is on automation, scalability, and reliability to ensure seamless delivery and high system uptime.
+
+The team manages cloud environments across AWS and GCP, containerized workloads on Kubernetes, and service communication using Istio. They enable robust CI/CD pipelines, efficient caching layers (e.g., Redis), and standardized environment provisioning.
+
+Acting as the backbone of engineering operations, DevOps ensures secure deployments, proactive monitoring, performance optimization, and cost efficiency across systems.
+
+The team’s mandate is to deliver a resilient, scalable, and high-performing platform that supports rapid development and consistent user experience.
+
+Key responsibilities~
+
+
+Design, implement, and manage CI/CD pipelines using Jenkins and other tools
+Deploy, manage, and scale applications on Kubernetes (GKE preferred)
+Build and maintain infrastructure on Google Cloud Platform (GCP)
+Implement and manage service mesh (Istio) for microservices architecture
+Set up and manage monitoring, alerting, and observability using Google Cloud Monitoring and New Relic
+Create dashboards, alerts, and SLOs/SLIs for production systems
+Automate infrastructure provisioning using tools like Terraform or similar
+Monitor system performance and ensure high availability and reliability
+Troubleshoot production issues and perform root cause analysis
+Collaborate with development teams to improve deployment processes
+Implement best practices for security, scalability, and cost optimization
+
+
+Skills and attributes for success~
+
+
+Strong experience with Kubernetes (cluster management, deployments, networking)
+Expertise in CI/CD tools, especially Jenkins
+Good hands-on experience with GCP (GKE, IAM, Cloud Monitoring, VPC, etc.)
+Working knowledge of Istio / Service Mesh architecture
+Experience with monitoring tools like Google Cloud Monitoring and New Relic
+Experience with Docker and containerization
+Familiarity with Infrastructure as Code (Terraform preferred)
+Strong scripting skills (Bash / Python / Shell)
+Understanding of Git-based workflows
+
+
+Good to Have
+
+
+Experience with multi-cloud environments (AWS/GCP)
+Exposure to ArgoCD / GitOps workflows
+Knowledge of Helm charts and Kubernetes packaging
+Experience with centralized logging (ELK / Loki / GCP Logging)
+Familiarity with security best practices (IAM, RBAC, secrets management, Vault)
+
+
+Preferred education and experience~
+
+
+Bachelor’s degree in Computer Science, IT, or related field
+Relevant certifications (CKA/CKAD, GCP certifications) are a plus
+
+
+About Us
+
+Perched firmly at the nucleus of spellbinding content and innovative technology, JioStar is a leading global media & entertainment company that is reimagining the way audiences consume entertainment and sports. Its television network and streaming service together reach more than 750 million viewers every week, igniting the dreams and aspirations of hundreds of million people across geographies.
+
+JioStar is an equal opportunity employer. The company values diversity and its mission is to create a workplace where everyone can bring their authentic selves to work. The company ensures that the work environment is free from any discrimination against persons with disabilities, gender, gender identity and any other characteristics or status that is legally protected.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Entertainment Providers
+  
+
+Referrals increase your chances of interviewing at JioStar by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Mumbai Metropolitan Region.
+
+Sign in to create job alert
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+Larsen & Toubro
+Mumbai Metropolitan Region
+5 days ago
+DevOps Engineer
+DevOps Engineer
+Accenture in India
+Navi Mumbai, Maharashtra, India
+1 month ago
+DevOps, India
+DevOps, India
+Wonderful
+Mumbai Metropolitan Region
+23 hours ago
+DevOps Engineer
+DevOps Engineer
+Accenture in India
+Mumbai Metropolitan Region
+2 weeks ago
+DevOps / MLOps Engineer
+DevOps / MLOps Engineer
+Godrej Industries Group
+Mumbai, Maharashtra, India
+7 months ago
+DevOps Engineer - Specialist
+DevOps Engineer - Specialist
+Nasdaq
+Mumbai Metropolitan Region
+6 days ago
+Show more jobs like this 
+People also viewed
+DevOps Engineer
+DevOps Engineer
+
+Datum Technologies Group
+
+Mumbai, Maharashtra, India
+5 days ago
+DevOps - Lead
+DevOps - Lead
+
+Fractal
+
+Mumbai, Maharashtra, India
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Straive
+
+Mumbai, Maharashtra, India
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+Tata Consultancy Services
+
+Mumbai, Maharashtra, India
+4 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Lxme
+
+Mumbai, Maharashtra, India
+4 days ago
+Senior Solution Architect, Cloud Infrastructure-DevOps
+Senior Solution Architect, Cloud Infrastructure-DevOps
+
+NVIDIA
+
+Mumbai, Maharashtra, India
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+EnoviQ Technologies
+
+Navi Mumbai, Maharashtra, India
+16 hours ago
+Senior DevSecOps Engineer (Remote, Full-Time) [AS355]
+Senior DevSecOps Engineer (Remote, Full-Time) [AS355]
+
+Smart Working
+
+Mumbai, Maharashtra, India
+1 week ago
+Platform & Infrastructure Engineer
+Platform & Infrastructure Engineer
+
+BharatGen
+
+Mumbai, Maharashtra, India
+2 weeks ago
+Platform Engineer
+Platform Engineer
+
+Waystone
+
+Mumbai, Maharashtra, India
+3 days ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at JioStar
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

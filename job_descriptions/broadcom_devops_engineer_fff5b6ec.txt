@@ -1,0 +1,258 @@
+Title: DevOps Engineer
+Company: Broadcom
+Location: Pune/Pimpri-Chinchwad Area
+URL: https://in.linkedin.com/jobs/view/devops-engineer-at-broadcom-4493772806
+Posted: 2026-11-24
+Deadline: Open until filled
+Reason: The role is a DevOps Engineer position located in India matching her strong CI/CD, Git, Linux, and Python background.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+Broadcom  Pune/Pimpri-Chinchwad Area
+10 hours ago  180 applicants
+  
+
+See who Broadcom has hired for this role
+
+Apply 
+Save
+Job Description:
+
+About Broadcom
+
+VMware by Broadcom is a leader in datacenter infrastructure, networking, security, and virtualization software. We have an exciting opportunity for a Senior Engineer to join the Application Networking and Security (ANS) division.
+
+About The ANS Team
+
+ANS is a fast-paced, tight-knit team providing advanced security solutions such as Distributed Firewall and Rule Recommendation, Network Traffic Anomalies Detection, Network Flows Visualization and Monitoring, Intrusion Detection and Prevention and Malware Prevention.
+
+About The Role
+
+We are looking for a skilled DevOps Engineer to streamline our software development lifecycle, automate infrastructure workflows, and enhance deployment reliability. You will bridge the gap between development and operations by managing version control, maintaining robust CI/CD pipelines, and leveraging modern scripting and AI-driven automation tools.
+
+Key Responsibilities
+
+
+
+CI/CD Pipeline Management: Design, build, and maintain automated Continuous Integration and Continuous Deployment (CI/CD) pipelines using Jenkins to ensure fast, reliable code delivery.
+Version Control & Build Systems: Manage source code repositories, branching strategies, and merge workflows using Git, while optimizing build systems for speed and consistency.
+System Administration: Configure, monitor, and troubleshoot Linux-based servers and environments to ensure high availability, performance, and security.
+Automation & Scripting: Write clean, maintainable scripts in Python to automate repetitive operational tasks, system checks, and deployment workflows.
+AI-Assisted Operations: Integrate modern AI tools (such as AI coding assistants, automated code-review bots, or AIOps monitoring tools) into daily workflows to accelerate troubleshooting, script generation, and anomaly detection.
+Cross-Team Collaboration: Partner closely with software developers, QA engineers, and security teams to resolve build failures, manage releases, and enforce DevOps best practices.
+
+
+
+Required Skills & Qualifications
+
+
+
+Experience: 3-5 years of experience in software product.
+Education: A Bachelor's or Master's degree in Computer Science.
+Version Control: Strong hands-on experience with Git (GitHub, GitLab, or Bitbucket), including branching models, pull requests, and conflict resolution.
+CI/CD & Build Tools: Proven experience setting up and administering Jenkins (declarative/scripted pipelines, plugins, webhooks) and familiarity with build tools (e.g., Maven, Gradle, npm, or Make).
+Operating Systems: Solid command-line proficiency in Linux (Ubuntu, CentOS, RHEL), including process management, networking basics, permissions, and shell scripting.
+Programming/Scripting: Practical experience writing automation scripts and utilities using Python.
+AI Tooling: Familiarity with using AI tools (e.g., GitHub Copilot, ChatGPT/LLMs, or AI-powered log analysis/observability tools) to improve engineering productivity and operational efficiency.
+Problem-Solving: Strong analytical skills with the ability to diagnose pipeline bottlenecks, build errors, and environment issues quickly.
+
+
+
+Nice-to-Have Qualifications
+
+
+
+Experience with containerization and orchestration tools (Docker, Kubernetes).
+Familiarity with cloud platforms (AWS, Azure, or Google Cloud Platform).
+
+
+
+R027911
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Semiconductor Manufacturing
+  
+
+Referrals increase your chances of interviewing at Broadcom by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Pune/Pimpri-Chinchwad Area.
+
+Sign in to create job alert
+Jobs
+Design Verification Engineer jobs
+DevOps Engineer
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+Accenture in India
+Pune Division, Maharashtra, India
+1 week ago
+DevOps Engineer
+DevOps Engineer
+Barclays
+Pune Division, Maharashtra, India
+2 months ago
+DevOps Engineer
+DevOps Engineer
+KONE
+Pune/Pimpri-Chinchwad Area
+1 week ago
+Junior DevOps Engineer
+Junior DevOps Engineer
+Citi
+Pune Division, Maharashtra, India
+5 days ago
+Infrastructure Cloud and DevOps Engineer
+Infrastructure Cloud and DevOps Engineer
+Barclays
+Pune Division, Maharashtra, India
+3 weeks ago
+DevOps Engineer
+DevOps Engineer
+Point Wild
+Pune/Pimpri-Chinchwad Area
+6 days ago
+Show more jobs like this 
+People also viewed
+DevOps Engineer
+DevOps Engineer
+
+UsefulBI Corporation
+
+Pune Division, Maharashtra, India
+1 week ago
+Cloud DevOps Engineer
+Cloud DevOps Engineer
+
+Tarana Wireless
+
+Pune Division, Maharashtra, India
+3 days ago
+Development & DevOps
+Development & DevOps
+
+Crisil
+
+Pune Division, Maharashtra, India
+3 days ago
+DEVOPS ENGINEER L3
+DEVOPS ENGINEER L3
+
+Wipro
+
+Pune Division, Maharashtra, India
+2 weeks ago
+SRE Engineer
+SRE Engineer
+
+Siemens Digital Industries Software
+
+Pune Division, Maharashtra, India
+5 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Barclays
+
+Pune Division, Maharashtra, India
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Accenture in India
+
+Pune Division, Maharashtra, India
+1 month ago
+DevOps Engineer
+DevOps Engineer
+
+Barclays
+
+Pune Division, Maharashtra, India
+3 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Accenture in India
+
+Pune Division, Maharashtra, India
+1 month ago
+DevOps Engineer
+DevOps Engineer
+
+Accenture in India
+
+Pune Division, Maharashtra, India
+1 month ago
+Similar Searches
+Design Verification Engineer jobs
+987 open jobs
+Physical Design Engineer jobs
+1,203 open jobs
+Senior Layout Engineer jobs
+126 open jobs
+Circuit Design Engineer jobs
+892 open jobs
+Principal Design Engineer jobs
+535 open jobs
+Analog Design Engineer jobs
+975 open jobs
+Wireless System Engineer jobs
+1,079 open jobs
+Layout Design Engineer jobs
+943 open jobs
+Logic Design Engineer jobs
+336 open jobs
+Process Integration Engineer jobs
+338 open jobs
+Signal Integrity Engineer jobs
+314 open jobs
+Senior System Software Engineer jobs
+8,592 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Broadcom
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
