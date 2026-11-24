@@ -1,0 +1,298 @@
+Title: Systems Engineer | Kaipūhanga Pūnaha
+Company: Stats NZ
+Location: Wellington, Wellington, New Zealand
+URL: https://nz.linkedin.com/jobs/view/systems-engineer-kaip%C5%ABhanga-p%C5%ABnaha-at-stats-nz-4492653948
+Posted: 2026-11-25
+Deadline: Open until filled
+Reason: The role aligns with the candidate's extensive experience in CI/CD, infrastructure automation, and systems engineering, and it is located in a target country (New Zealand) with no explicit exclusion of visa sponsorship.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Systems Engineer | Kaipūhanga Pūnaha
+Stats NZ  Wellington, Wellington, New Zealand
+23 hours ago   Be among the first 25 applicants
+  
+
+See who Stats NZ has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+The role | Te tūnga    
+
+If you enjoy using Infrastructure as Code (IaC) to create reliable cloud and on‑prem solutions, this is a great opportunity to bring your skills to meaningful work.
+
+You might be an intermediate systems engineer who enjoys programming, or an analyst developer keen to build on your systems engineering experience.
+
+We’d Value Your Knowledge Of
+
+
+Complex distributed systems in always‑available environments
+Infrastructure cost controls, versioning, provisioning, security, governance, logging, monitoring, alerting, and troubleshooting
+CI/CD automated pipelines
+Code analysis and patch management
+Load balancing, networking, routing
+
+
+You’ll be welcomed into Technology Services Analytics, reporting to the Manager – Technology Delivery. Together with analyst developers and systems engineers, you’ll help deliver safe, reliable, and scalable services, supporting both BAU and project work while protecting system and data integrity.
+
+You’ll Have The Opportunity To
+
+
+Install, configure, test, maintain, and monitor systems with minimal supervision
+Provide operational support, define metrics, optimise services, and support capacity planning
+Participate in system upgrades and migrations
+Manage changes, incidents, service requests, and work items effectively
+Balance cost, customer experience, reliability, scalability, and sustainability
+Contribute to documentation and operational procedures
+Follow governance, security, and operational standards
+Build trusted relationships through clear, open, and collaborative communication
+Audit systems to identify risks and opportunities
+Automate routine operational tasks
+Analyse code (using a code analysis tool)
+Evaluate and recommend tools, platforms, and approaches
+Continuously develop your own technical knowledge
+
+
+You’ll Have Experience With
+
+
+Microsoft Windows (multiple versions)
+Microsoft IIS
+Microsoft SQL Server
+Microsoft Active Directory, Microsoft Entra
+Microsoft Azure fundamentals, Azure Bicep, Azure DevOps, Azure landing zones, Azure Resource Manager templates
+Terraform
+Bash, PowerShell, or similar scripting languages
+Python
+SonaQube, or similar
+Grafana
+
+
+Experience with any of the following may give you an edge:
+
+
+Red Hat Enterprise Linux, Ubuntu Linux
+Containerisation technologies
+Databricks
+R
+
+
+What you bring | Nōu te rourou   
+
+ We recognise that valuable skills can come from both paid and unpaid work. You might have gained experience in education, hospitality, technology, public service, the marae, or the arts. You might have experience from community involvement, volunteering, or whānau responsibilities. We welcome and value all forms of transferable skills. Please bring your full unique self to your application.  
+
+For all our roles, we’re looking for people who:  
+
+
+Act with integrity, take responsibility, and do what’s right even when it’s hard.  
+Understand the ‘why’ behind their work and focus on delivering real value.  
+Stay curious and open to learning, seeing challenges as chances to grow.  
+Build respectful and inclusive relationships, grounded in care for others.  
+Work collaboratively across boundaries and contribute to collective outcomes.  
+
+
+We don’t expect you to know everything. What matters is your genuine interest, commitment, and readiness to grow with us. Tell us about yourself in your cover letter, what attracted you to this role, and what you would bring to Stats NZ.  
+
+About Us | Ko mātou   
+
+ Stats NZ Tatauranga Aotearoa is the National Statistics Office, leading the way in data and insights. While this is our focus, it’s our people who are central to everything we do. We value diverse perspectives and experiences, recognising that our work is strengthened by the people behind it.  
+
+The data and insights we produce help shape decisions across government, communities, and businesses, and plays an important role in telling the story of Aotearoa New Zealand. Our mahi supports informed decision making at both national and local levels, helping improve outcomes for people, the economy, and the environment.  
+
+We’re proud of the role we play in guiding and strengthening the data system, with a goal of delivering high quality data with equitable access for all.  
+
+What’s in it for you? | Ngā hua ka riro ki a koe   
+
+Take a look at our Stats NZ careers site to learn more about our organisational values: He pēwhea ā tātou tikanga mahi | The way we work.  
+
+Some key benefits include:  
+
+
+37.5 hours work week.  
+15 days sick leave allowance (to be used for yourself or people under your care).  
+3 extra days off (taken during end-of-year office closure).  
+Annual flu vaccines.  
+Funded counselling and coaching through our Employee Assistance Programme (EAP).  
+Visual and hearing health benefits 
+Corporate rates for a variety of services and products.  
+Study assistance programmes.  
+Rōpū Waiata – weekly cross agency connection.  
+An active social club in each office.  
+
+
+Starting salary for this position: $84,027- $113,683 + kiwisaver   
+
+How to apply | Me pēhea te tuku tono     
+
+Sound like you? Click ’Apply now’ to be redirected to the application page on our careers site. The position description is located on the right-hand side of the page.  
+
+Our process is to screen applications as we receive them, so we move to interview stage quickly.  You may be asked to complete a pre-interview screen via phone or video.  
+
+Please let us know in your application if we need to make any specific accommodations during our process.  
+
+Please reach out to  recruitment@stats.govt.nz  if you have any pātai / questions.   
+
+Note to recruitment agencies: unsolicited CVs will not be accepted.  
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Stats NZ by 2x
+
+See who you know
+
+Get notified about new System Engineer jobs in Wellington, Wellington, New Zealand.
+
+Sign in to create job alert
+Similar jobs
+Systems Support Engineer (Onsite)
+Systems Support Engineer (Onsite)
+Octave
+Wellington, Wellington, New Zealand
+2 months ago
+Technical Specialist, Aeronautical Services
+Technical Specialist, Aeronautical Services
+Civil Aviation Authority of New Zealand
+Wellington, Wellington, New Zealand
+18 hours ago
+Engineer
+Engineer
+Kiwibank
+Wellington, Wellington, New Zealand
+1 day ago
+Solution Architect
+Solution Architect
+Ministry of Justice - New Zealand
+Wellington, Wellington, New Zealand
+1 week ago
+Platform Engineer
+Platform Engineer
+Share
+Wellington, Wellington, New Zealand
+2 months ago
+Application Support Analyst (Operations)
+Application Support Analyst (Operations)
+Transpower New Zealand
+Wellington, Wellington, New Zealand
+6 days ago
+Show more jobs like this 
+People also viewed
+Field Engineer
+Field Engineer
+
+Datacom
+
+Wellington, Wellington, New Zealand
+20 hours ago
+System Engineering Intern
+System Engineering Intern
+
+Siemens
+
+Wellington, Wellington, New Zealand
+5 days ago
+Senior Advisor Digital Monitoring
+Senior Advisor Digital Monitoring
+
+Ministry of Health New Zealand
+
+Wellington, Wellington, New Zealand
+2 days ago
+Policy Advisor
+Policy Advisor
+
+ACC New Zealand
+
+Wellington, Wellington, New Zealand
+NZ$77,502 - NZ$94,724
+1 week ago
+Field Specialist (Tasman)
+Field Specialist (Tasman)
+
+Halter
+
+Lower Hutt City, Wellington, New Zealand
+1 month ago
+Expression of Interest: Consulting in EY's Defence and National Security practice
+Expression of Interest: Consulting in EY's Defence and National Security practice
+
+EY
+
+Wellington, Wellington, New Zealand
+2 weeks ago
+Iteration Manager
+Iteration Manager
+
+IAG
+
+Wellington, Wellington, New Zealand
+1 week ago
+Production & Inventory Officer
+Production & Inventory Officer
+
+Moana New Zealand
+
+Porirua, Wellington, New Zealand
+1 day ago
+Investigator/Senior Investigator
+Investigator/Senior Investigator
+
+Ministry for Primary Industries (MPI)
+
+Wellington, Wellington, New Zealand
+1 week ago
+Software Engineer
+Software Engineer
+
+Hnry
+
+Wellington, New Zealand
+NZ$90,000 - NZ$152,500
+2 weeks ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
