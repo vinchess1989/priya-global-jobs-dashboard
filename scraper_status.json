@@ -1,9 +1,9 @@
 {
   "pid": 28308,
   "started_at": "2026-11-24T01:13:11+02:00",
-  "heartbeat_at": "2026-11-24T02:02:38+02:00",
+  "heartbeat_at": "2026-11-24T02:06:43+02:00",
   "phase": "reviewing",
-  "detail": "Oracle Fusion HCM Functional Manager",
-  "last_scrape_ok_at": "2026-11-24T02:01:22+02:00",
+  "detail": "Configuration Management Specialist",
+  "last_scrape_ok_at": "2026-11-24T02:05:09+02:00",
   "last_error": null
 }
