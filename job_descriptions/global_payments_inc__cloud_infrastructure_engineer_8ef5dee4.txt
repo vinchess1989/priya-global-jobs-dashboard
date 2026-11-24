@@ -1,0 +1,221 @@
+Title: Cloud Infrastructure Engineer
+Company: Global Payments Inc.
+Location: Dublin, County Dublin, Ireland
+URL: https://ie.linkedin.com/jobs/view/cloud-infrastructure-engineer-at-global-payments-inc-4494122018
+Posted: 2026-11-25
+Deadline: N/A
+Reason: The role aligns with the candidate's expertise in configuration management, infrastructure automation, and regulated environments, and it is located in a target country (Ireland).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Cloud Infrastructure Engineer
+Global Payments Inc.  Dublin, County Dublin, Ireland
+13 hours ago  34 applicants
+  
+
+See who Global Payments Inc. has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Ready to take your career global?
+
+Make your mark at one of the biggest names in payments. We’re looking for a Cloud Infrastructure Engineer to join our ever-evolving Infrastructure Operations Team and help shape the future of global commerce.
+
+What You’ll Own
+
+
+Implement and operate GCP infrastructure using Terraform (IaC) and Kubernetes (GKE / container orchestration), standardising environment builds and enforcing consistency across dev/test/prod.
+Deploy and maintain Kubernetes clusters (GKE), configuring namespaces, RBAC, ingress controllers and service mesh components as required, and building and deploying containerised workloads while managing scaling, upgrades and patching.
+Own infrastructure configuration management (Ansible or equivalent), writing and maintaining playbooks and roles for VM and cluster configuration, and automating patching, security hardening and system updates.
+Ensure security, scalability and high availability across our cloud and VM platforms, and support cloud cost optimisation and capacity planning.
+Participate in the on-call rotation, providing tier 3/4 support for critical infrastructure services, taking part in incident response and root-cause analysis, troubleshooting pod, node and networking issues in production clusters, and driving automation of monitoring, alerting and remediation workflows.
+Partner with cross-functional teams to align delivery models (Kanban for BAU, Agile for projects), oversee Jira governance for infrastructure projects, and produce technical assessments and documentation that uphold standards and provide recommendations to management.
+
+
+What You’ll Bring
+
+
+A Bachelor's degree and 3+ years' experience as an Infrastructure Engineer, SRE or Cloud Engineer in enterprise environments.
+Proven expertise in Google Cloud Platform (GCP), with strong skills in VM workloads, Terraform (IaC) and Kubernetes (GKE or equivalent).
+Hands-on experience with Ansible (or equivalent configuration management).
+Broad knowledge of networking, databases, Linux systems and hybrid infrastructure.
+Experience with monitoring, observability and incident response tooling.
+
+
+It’s a bonus if you have
+
+
+GCP Professional Cloud Architect certification or equivalent hands-on experience, DevOps / SRE hands-on experience, and experience in regulated environments (PCI-DSS, ISO, SOC 2, etc.).
+Strong communicator, able to influence both technical engineers and senior stakeholders, with an organised and pragmatic approach, strong ownership and accountability, and a collaborative style that balances governance with delivery speed.
+Demonstrated success implementing Kanban and Agile delivery within Infrastructure/Cloud Operations, the ability to document and enforce technical standards, and a proven track record of improving operational performance and cross-team delivery.
+
+
+About The Team
+
+Our inclusive and global teams win together every day. We’re proud to have the best minds in the industry, who you can learn from as you grow your career. The people, the energy, the connections – it’s unmatched. Come and be part of an ever-evolving company and get dynamic opportunities that go beyond borders.
+
+What makes a Globalpayer?
+
+Globalpayers think like a client, act like an owner and win as one team. We’re curious and innovative – always finding better ways to deliver impact. We empower each other to make decisions, and it’s our passion that drives excellence in everything we set out to do.
+
+Does this sound like you? Then you sound like a Globalpayer. Apply now to take your career global.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Financial Services and IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Global Payments Inc. by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Infrastructure Engineer, Data
+Infrastructure Engineer, Data
+Telnyx
+Dublin, County Dublin, Ireland
+4 days ago
+DevOps & Infrastructure Engineer
+DevOps & Infrastructure Engineer
+Ocuco Limited
+Dublin, County Dublin, Ireland
+2 weeks ago
+Cloud Engineer
+Cloud Engineer
+Thomson Keene
+Dublin, County Dublin, Ireland
+4 weeks ago
+Site Reliability Engineer - Cloud Infrastructure
+Site Reliability Engineer - Cloud Infrastructure
+TikTok
+Dublin, County Dublin, Ireland
+1 day ago
+Senior Cloud Engineer
+Senior Cloud Engineer
+Optum
+Dublin, County Dublin, Ireland
+1 month ago
+Sr Lead Infrastructure Engineer
+Sr Lead Infrastructure Engineer
+JPMorganChase
+Dublin, County Dublin, Ireland
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Senior Cloud Engineer
+Senior Cloud Engineer
+
+PFH Technology Group
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+Site Reliability Engineer II
+Site Reliability Engineer II
+
+F5
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+Site Reliability Engineer (SRE/ DevOps) - Engineering Productivity
+Site Reliability Engineer (SRE/ DevOps) - Engineering Productivity
+
+Arista Networks
+
+Dublin, County Dublin, Ireland
+3 months ago
+AI DevOps Engineer
+AI DevOps Engineer
+
+The Citco Group Limited
+
+Dublin, County Dublin, Ireland
+5 months ago
+Platform Engineer
+Platform Engineer
+
+Trust In SODA
+
+Dublin, County Dublin, Ireland
+€100,000 - €140,000
+2 weeks ago
+Platform Engineer
+Platform Engineer
+
+Brightwater Recruitment
+
+Dublin, County Dublin, Ireland
+6 days ago
+Infrastructure Technical Lead
+Infrastructure Technical Lead
+
+Version 1
+
+Dublin, County Dublin, Ireland
+6 days ago
+AWS DevOps Engineer – Dublin/Remote (2 days onsite pw)
+AWS DevOps Engineer – Dublin/Remote (2 days onsite pw)
+
+IT Search
+
+Dublin, County Dublin, Ireland
+6 hours ago
+Senior Site Reliability Engineer - CloudVision
+Senior Site Reliability Engineer - CloudVision
+
+Arista Networks
+
+Dublin, County Dublin, Ireland
+4 weeks ago
+Azure Tech Lead
+Azure Tech Lead
+
+Accenture UK & Ireland
+
+Dublin, County Dublin, Ireland
+1 week ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Global Payments Inc.
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
