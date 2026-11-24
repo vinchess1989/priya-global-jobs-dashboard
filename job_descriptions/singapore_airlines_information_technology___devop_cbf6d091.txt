@@ -1,0 +1,219 @@
+Title: Information Technology - DevOps Engineer
+Company: Singapore Airlines
+Location: Singapore, Singapore
+URL: https://sg.linkedin.com/jobs/view/information-technology-devops-engineer-at-singapore-airlines-4494311429
+Posted: 2026-11-25
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in DevOps, CI/CD pipeline ownership, and quality gatekeeping within a regulated environment, and it is located in a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Information Technology - DevOps Engineer
+Singapore Airlines  Singapore, Singapore
+17 hours ago  39 applicants
+  
+
+See who Singapore Airlines has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Job Description
+
+Enable secure, reliable delivery using GitLab CI/CD, Infrastructure as Code, and governed AI-assisted SDLC. Partner with Development, QA, CloudOps, InfoSec, and AI teams with human-in-the-loop for security and production changes.
+
+Key Responsibilities
+
+
+Standardize GitLab pipelines/templates; manage runners, protected branches/environments, promotions, approvals, and rollbacks.
+Automate cloud infra and app deployments with Terraform/Ansible; ensure reproducible environments and drift detection.
+Embed DevSecOps controls: SAST/DAST, SCA, secrets, container/IaC scans, and API auth checks with risk-based gates and tracked exceptions.
+Secure supply chain: curate dependencies and AI assets; enforce SBOMs, signing/provenance, least-privilege identities, and build-once/promote.
+Govern AISDLC and agents: approved MCP integrations, reusable prompts/skills, safe agent permissions, and auditable workflows; human review of AI output.
+Deliver AI workloads with versioned prompts/models/datasets, pipeline evaluations, rollout controls, and fallbacks.
+Operability and risk: metrics/logs/traces/dashboards, runbooks and incident response; track versions/EOL and plan upgrades or retirement.
+
+
+Requirements
+
+
+Degree in IT/Computer Science or related.
+2–5 years in automation and CI/CD/cloud (Ansible or similar).
+Linux, Bash/shell, Python; API-based tooling integration.
+GitLab CI/CD hands-on (MRs, runners, troubleshooting, artifacts, controlled releases).
+AWS, Docker, Kubernetes; familiarity with IAM, networking, secrets; OpenShift/ROSA a plus.
+IaC/config management; quality gates; interpret SonarQube/security findings with AppSec.
+Observability with Grafana, Prometheus/PromQL, and logs/traces.
+Safe use of AI coding assistants; understanding of AISDLC, LLM risks, prompt injection, and least-privilege agents.
+Working knowledge of Java and Node.js; strong problem-solving, communication, and collaboration.
+
+
+Preferred
+
+
+RAG, evaluation pipelines, AI gateways, secure agent/MCP integrations; AI deployment/monitoring.
+OpenTelemetry, distributed tracing, SLOs; cloud/AI cost optimization.
+
+
+Note: You may be posted to any subsidiary within SIA Group. Only shortlisted candidates will be notified.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Airlines and Aviation
+  
+
+Referrals increase your chances of interviewing at Singapore Airlines by 2x
+
+See who you know
+
+Get notified about new Information Technology Engineer jobs in Singapore, Singapore.
+
+Sign in to create job alert
+Similar jobs
+DevOps & Kubernetes Engineer
+DevOps & Kubernetes Engineer
+Accenture Southeast Asia
+Singapore, Singapore
+2 months ago
+DevOps Engineer
+DevOps Engineer
+Capgemini
+Singapore
+6 months ago
+DevOps Engineer
+DevOps Engineer
+StarHub
+Singapore, Singapore
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+Capgemini Engineering
+Singapore
+2 months ago
+DevOps Engineer
+DevOps Engineer
+stakefish
+Singapore
+$130,000 - $180,000
+1 month ago
+Cloud Infra DevOps Engineer
+Cloud Infra DevOps Engineer
+Accenture Southeast Asia
+Singapore, Singapore
+2 months ago
+Show more jobs like this 
+People also viewed
+DevOps Engineer
+DevOps Engineer
+
+Sedha Consulting
+
+Singapore, Singapore
+6 days ago
+DevOps Engineer
+DevOps Engineer
+
+Mav3rik
+
+Singapore
+6 months ago
+DevOps Engineer
+DevOps Engineer
+
+Total eBiz Solutions
+
+Singapore, Singapore
+6 days ago
+DevOps Engineer
+DevOps Engineer
+
+Ensign InfoSecurity
+
+Singapore, Singapore
+1 week ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+Apple
+
+Singapore, Singapore
+6 months ago
+DevOps Engineer
+DevOps Engineer
+
+Encora Inc.
+
+Singapore
+4 months ago
+DevOps Engineer
+DevOps Engineer
+
+Pride Global
+
+Singapore, Singapore
+1 week ago
+DevOps Engineer (Gitlab)
+DevOps Engineer (Gitlab)
+
+InfoCepts
+
+Singapore, Singapore
+3 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+HashWhale
+
+Singapore
+1 year ago
+DevOps Engineer
+DevOps Engineer
+
+Metaverse Cloud Solution Pte Ltd.
+
+Central Singapore Community Development Council, Singapore
+5 months ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Singapore Airlines
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

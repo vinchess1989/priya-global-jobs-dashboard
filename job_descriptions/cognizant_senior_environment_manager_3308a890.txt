@@ -1,0 +1,236 @@
+Title: Senior Environment Manager
+Company: Cognizant
+Location: London, England, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/senior-environment-manager-at-cognizant-4494337276
+Posted: 2026-11-25
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's expertise in configuration management, release coordination, and CI/CD pipeline ownership within a professional IT services environment.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Environment Manager
+Cognizant  London, England, United Kingdom
+12 hours ago   Be among the first 25 applicants
+  
+
+See who Cognizant has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Role Purpose
+
+Owns planning, provisioning, governance, and stability of non-production and production environments supporting the integration landscape (APIs, messaging, ESB/iPaaS, B2B/EDI, event-driven platforms) — ensuring reliable, well-configured environments and test data for predictable, low-friction releases.
+
+Key Responsibilities
+
+
+Governance: Define environment strategy, topology, and lifecycle policies; maintain environment catalogue and enforce access/change controls.
+Scheduling: Manage environment booking and demand, resolving conflicts across projects/releases; forecast capacity and flag risks.
+Provisioning & Releases: Coordinate build/deployment of integration components; own go/no-go readiness checks (SIT, UAT, NFT, pre-prod); manage configuration drift and support cutover/hypercare.
+Connectivity: Manage third-party/vendor connectivity, service virtualisation, certificates, keys, and network dependencies.
+Test Data: Oversee test data provisioning, masking, and refresh in line with data protection requirements.
+Monitoring & Incidents: Track environment health, triage outages, drive root cause analysis and permanent fixes; report on KPIs (availability, utilisation, deployment success).
+Automation: Drive IaC/CI-CD-based provisioning automation and cost optimisation across cloud/on-prem.
+
+
+Essential Skills
+
+
+Enterprise integration/middleware environment management
+API, messaging, event-driven, and B2B/EDI patterns
+CI/CD and DevOps tooling (Azure DevOps, Jenkins, Terraform, Ansible)
+Cloud platforms (Azure/AWS/GCP), networking, certs, secrets management
+ITIL-aligned change/release/incident management
+Strong stakeholder management and communication
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting and Business Consulting and Services
+  
+
+Referrals increase your chances of interviewing at Cognizant by 2x
+
+See who you know
+
+Get notified about new Senior Environmental Manager jobs in London, England, United Kingdom.
+
+Sign in to create job alert
+Jobs
+Quality And Environmental Manager jobs
+Senior Environment Manager
+Similar jobs
+Senior Regional Environmental Manager – EMEA, AWS Environmental
+Senior Regional Environmental Manager – EMEA, AWS Environmental
+Amazon Web Services (AWS)
+London, England, United Kingdom
+1 week ago
+Environmental Manager
+Environmental Manager
+dnata
+Greater London, England, United Kingdom
+2 weeks ago
+Environmental Lead
+Environmental Lead
+Murphy
+London, England, United Kingdom
+2 weeks ago
+EMEA Environment, Health & Safety Manager
+EMEA Environment, Health & Safety Manager
+Ricoh Europe
+London, England, United Kingdom
+6 days ago
+UK and Europe Health, Safety and Sustainability Senior Manager
+UK and Europe Health, Safety and Sustainability Senior Manager
+FFB | Fidelity International
+Kingswood, England, United Kingdom
+6 days ago
+National Infrastructure Lead - Environment
+National Infrastructure Lead - Environment
+Slough Borough Council
+Slough, England, United Kingdom
+5 hours ago
+Show more jobs like this 
+People also viewed
+Energy Manager
+Energy Manager
+
+Costa Coffee
+
+St Albans, England, United Kingdom
+1 week ago
+SHE Manager
+SHE Manager
+
+Morgan Sindall Infrastructure
+
+Reading, England, United Kingdom
+6 days ago
+Head of QHSE
+Head of QHSE
+
+Wellcome Genome Campus
+
+Hinxton, England, United Kingdom
+3 weeks ago
+Sustainability & Governance Manager
+Sustainability & Governance Manager
+
+BKL
+
+London, England, United Kingdom
+12 hours ago
+Sustainability Manager
+Sustainability Manager
+
+Ocado Group
+
+Hatfield, England, United Kingdom
+1 week ago
+Senior Strategic Delivery Lead (Partnerships)
+Senior Strategic Delivery Lead (Partnerships)
+
+Southern Water
+
+Worthing, England, United Kingdom
+1 week ago
+Senior Project Manager - 36729
+Senior Project Manager - 36729
+
+Environment Agency
+
+Reading, England, United Kingdom
+2 weeks ago
+Sustainability & Governance Manager
+Sustainability & Governance Manager
+
+BKL
+
+London Area, United Kingdom
+£55,000 - £65,000
+12 hours ago
+Regional Enviro Audit Lead, AWS Environmental
+Regional Enviro Audit Lead, AWS Environmental
+
+ACCA Careers
+
+London, England, United Kingdom
+5 days ago
+Social Value Lead | Environmental Services and Water
+Social Value Lead | Environmental Services and Water
+
+Stantec
+
+Brighton, England, United Kingdom
+6 days ago
+Similar Searches
+Quality And Environmental Manager jobs
+989 open jobs
+Senior Environmental Specialist jobs
+917 open jobs
+Environmental Compliance Manager jobs
+434 open jobs
+Director of Environmental Services jobs
+266 open jobs
+Environmental Manager jobs
+3,032 open jobs
+Senior Environmental Consultant jobs
+937 open jobs
+Senior Environmental Engineer jobs
+831 open jobs
+Environmental Director jobs
+393 open jobs
+Environmental Program Manager jobs
+215 open jobs
+Senior Change Manager jobs
+875 open jobs
+Sustainability Manager jobs
+2,255 open jobs
+Director Environment jobs
+2,465 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Cognizant
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

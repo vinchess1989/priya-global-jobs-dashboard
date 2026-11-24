@@ -1,9 +1,9 @@
 {
-  "pid": 28308,
-  "started_at": "2026-11-24T01:13:11+02:00",
-  "heartbeat_at": "2026-11-24T02:25:32+02:00",
-  "phase": "run_finished",
-  "detail": "110 lower-yield targets and 0 jobs left for the next run",
-  "last_scrape_ok_at": "2026-11-24T02:25:23+02:00",
+  "pid": 52572,
+  "started_at": "2026-11-25T01:13:23+02:00",
+  "heartbeat_at": "2026-11-25T01:17:54+02:00",
+  "phase": "reviewing",
+  "detail": "DevOps Specialist - Kubernetes (35700)",
+  "last_scrape_ok_at": "2026-11-25T01:16:50+02:00",
   "last_error": null
 }
