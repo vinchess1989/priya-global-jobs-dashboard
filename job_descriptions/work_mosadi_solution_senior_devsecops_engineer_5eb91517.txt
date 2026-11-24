@@ -1,0 +1,617 @@
+Title: Senior DevSecOps Engineer
+Company: Work Mosadi Solutions
+Location: Johannesburg Metropolitan Area
+URL: https://za.linkedin.com/jobs/view/senior-devsecops-engineer-at-work-mosadi-solutions-4492687109
+Posted: 2026-11-25
+Deadline: Open until filled
+Reason: The role aligns with the candidate's extensive experience in CI/CD, configuration management, and automation, and is located in South Africa, which is one of the target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevSecOps Engineer
+Work Mosadi Solutions  Johannesburg Metropolitan Area
+17 hours ago   Be among the first 25 applicants
+  
+
+See who Work Mosadi Solutions has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Direct message the job poster from Work Mosadi Solutions
+
+Noluthando Nkosi
+Noluthando Nkosi
+
+DevSecOps Engineer
+
+Job Purpose
+
+
+
+
+As a DevSecOps Engineer, you will play a key role in integrating security practices into DevOps processes, ensuring the highest level of security across the software development lifecycle.
+
+
+
+
+This role is suited for a seasoned professional with deep expertise in DevOps, security, and automation. You will provide mentorship to team members and collaborate with various stakeholders to enhance the organisation's overall security posture.
+
+
+
+
+Key Responsibilities
+
+
+
+
+1. Security Automation Leadership
+
+
+
+
+- Play a key role in the development and optimisation of security automation scripts and tools within CI/CD pipelines.
+
+- Champion the implementation of advanced automated security testing processes.
+
+
+
+
+2. Vulnerability Management and Remediation
+
+
+
+
+- Oversee and manage vulnerability scanning and assessment processes.
+
+- Ensure swift identification and remediation of security vulnerabilities.
+
+
+
+
+3. Security Monitoring
+
+
+
+
+\- Lead the design, implementation and maintenance of comprehensive security monitoring solutions.
+
+
+
+
+4. Incident Response
+
+
+
+
+- Drive incident response efforts.
+
+- Analyse security events and contribute to the continuous improvement of incident response capabilities.
+
+
+
+
+5. Infrastructure as Code (IaC) Excellence
+
+
+
+
+- Enforce security best practices in Infrastructure as Code (IaC) scripts.
+
+- Collaborate with DevOps teams to integrate advanced security measures into infrastructure provisioning.
+
+
+
+
+6. Secure Configuration Management
+
+
+
+
+- Implement secure configuration management practices for infrastructure components.
+
+- Set and monitor secure configuration baselines in collaboration with operations teams.
+
+
+
+
+7. Security Governance and Compliance
+
+
+
+
+\- Lead the establishment of security governance policies and compliance standards.
+
+
+
+
+8. Collaboration and Mentorship
+
+
+
+
+- Collaborate with cross-functional teams, providing guidance on security practices in DevOps processes.
+
+- Mentor and coach junior and intermediate DevSecOps engineers.
+
+
+
+
+Qualifications and Experience
+
+
+
+
+- Bachelor's degree in Computer Science, Information Security or a related discipline, or equivalent practical experience.
+
+- 5+ years of relevant experience across DevOps, cloud engineering, cybersecurity or platform security.
+
+- Proven experience leading DevSecOps initiatives and embedding security into enterprise delivery pipelines.
+
+- Strong practical experience securing AWS and Azure cloud environments.
+
+- Advanced understanding of CI/CD, Infrastructure as Code, container security and automated vulnerability management.
+
+- Expert scripting and automation capabilities using Python and/or Bash.
+
+- Strong knowledge of IAM, encryption, secrets management, secure configurations and security incident response.
+
+- Experience with Linux, Docker, ECS/Fargate, cloud monitoring and production operations.
+
+- Working knowledge of SQL, REST APIs and enterprise integration troubleshooting.
+
+- Relevant AWS, Azure, DevSecOps or advanced security certifications are advantageous.
+
+
+
+
+Technical Stack
+
+
+
+
+Cloud Platforms
+
+
+
+
+- AWS
+
+- Microsoft Azure
+
+
+
+
+AWS Services
+
+
+
+
+- ECS
+
+- Fargate
+
+- EC2
+
+- RDS
+
+- S3
+
+- IAM
+
+- CloudWatch
+
+- Cloud Networking
+
+
+
+
+CI/CD
+
+
+
+
+- Azure DevOps
+
+- GitHub Actions
+
+- Jenkins
+
+- GitLab CI/CD
+
+
+
+
+Infrastructure as Code
+
+
+
+
+- Terraform
+
+- AWS CloudFormation
+
+- Bicep or equivalent
+
+
+
+
+Containers
+
+
+
+
+- Docker
+
+- Container registries
+
+- Image scanning and hardening
+
+
+
+
+Operating Systems
+
+
+
+
+- Linux administration
+
+- Patching
+
+- Shell scripting
+
+- Log analysis
+
+
+
+
+lScripting and Automation
+
+
+
+
+- Python
+
+- Bash
+
+
+
+
+Security
+
+
+
+
+- Vulnerability scanning
+
+- Security testing
+
+- Secrets management
+
+- Encryption
+
+- IAM
+
+- Compliance controls
+
+
+
+
+Monitoring and Observability
+
+
+
+
+- AWS CloudWatch
+
+- Azure Monitor
+
+- Enterprise monitoring platforms
+
+
+
+
+Version Control
+
+
+
+
+- Git
+
+- Collaborative development workflows
+
+
+
+
+Databases and SQL
+
+
+
+
+- Amazon RDS
+
+- SQL querying
+
+- Database access controls
+
+- Connectivity troubleshooting
+
+
+
+
+API and Integration Security
+
+
+
+
+- REST APIs
+
+- HTTP
+
+- JSON
+
+- Authentication
+
+- Certificates
+
+- Postman
+
+- cURL
+
+
+
+
+Skills
+
+
+
+
+- Action Planning
+
+- Application Development
+
+- Data Compilation
+
+- Data Management
+
+- Evaluating Information
+
+- Executing Plans
+
+- Information Technology (IT) Support
+
+- IT Network Security
+
+- Market Analysis
+
+- Product Development
+
+- Test Case Management
+
+
+
+
+Core Competencies
+
+
+
+
+- Business Insight
+
+- Courage
+
+- Cultivates Innovation
+
+- Customer Focus
+
+- Decision Quality
+
+- Drives Results
+
+- Ensures Accountability
+
+- Manages Ambiguity
+
+
+
+
+Education
+
+
+
+
+\- NQF Level 7 – Degree, Advanced Diploma or Postgraduate Certificate, or equivalent.
+
+
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Work Mosadi Solutions by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Senior Chemical Engineer jobs
+Senior DevSecOps Engineer
+Similar jobs
+Senior DevOps Engineer
+Senior DevOps Engineer
+Upstream
+Johannesburg, Gauteng, South Africa
+1 day ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Communicate Recruitment
+City of Johannesburg, Gauteng, South Africa
+1 week ago
+DevOps Engineer
+DevOps Engineer
+Communicate Recruitment
+Johannesburg Metropolitan Area
+1 week ago
+Platform Engineer
+Platform Engineer
+Share
+City of Johannesburg, Gauteng, South Africa
+2 months ago
+DevOps Engineer (CyberArk)
+DevOps Engineer (CyberArk)
+Samaha Consulting
+Sandton, Gauteng, South Africa
+1 day ago
+DevOps Engineer - (AML Platform)
+DevOps Engineer - (AML Platform)
+Optimal Growth Technologies
+Johannesburg, Gauteng, South Africa
+2 months ago
+Show more jobs like this 
+People also viewed
+Senior Software Engineer
+Senior Software Engineer
+
+WatersEdge Solutions
+
+Johannesburg Metropolitan Area
+1 day ago
+Lead Cloud Architect (AWS), South Africa (fully remote)
+Lead Cloud Architect (AWS), South Africa (fully remote)
+
+Protodigy
+
+Johannesburg, Gauteng, South Africa
+6 days ago
+Solution Architect
+Solution Architect
+
+KFC
+
+Johannesburg, Gauteng, South Africa
+2 weeks ago
+Sr Admin App Ops
+Sr Admin App Ops
+
+US Group
+
+Johannesburg, Gauteng, South Africa
+4 days ago
+Azure Senior Cloud Infrastructure Consultant
+Azure Senior Cloud Infrastructure Consultant
+
+Netsurit
+
+Johannesburg, Gauteng, South Africa
+2 months ago
+Cloud Security Specialist / Consultant
+Cloud Security Specialist / Consultant
+
+Netsurit
+
+Johannesburg, Gauteng, South Africa
+2 months ago
+Engineering Lead – Digitization & Automation
+Engineering Lead – Digitization & Automation
+
+DeARX
+
+Sandton, Gauteng, South Africa
+5 days ago
+Operations Engineer
+Operations Engineer
+
+SavvySaver
+
+Johannesburg, Gauteng, South Africa
+5 months ago
+Senior Infrastructure Consultant
+Senior Infrastructure Consultant
+
+Technimove
+
+Johannesburg, Gauteng, South Africa
+1 month ago
+Forwarded Deployed Engineer
+Forwarded Deployed Engineer
+
+Salesforce
+
+Johannesburg, Gauteng, South Africa
+2 weeks ago
+Similar Searches
+Senior Chemical Engineer jobs
+122 open jobs
+Staff Engineer jobs
+1,083 open jobs
+Section Engineer jobs
+438 open jobs
+Messaging Engineer jobs
+38 open jobs
+Voice Network Engineer jobs
+44 open jobs
+Senior Integration Specialist jobs
+631 open jobs
+Senior Server Engineer jobs
+85 open jobs
+Senior Infrastructure Engineer jobs
+155 open jobs
+Lead Engineer jobs
+1,450 open jobs
+Senior Transmission Engineer jobs
+38 open jobs
+Senior Software Engineer jobs
+1,727 open jobs
+Senior PHP Developer jobs
+1,283 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Work Mosadi Solutions
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

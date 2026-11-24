@@ -1,0 +1,281 @@
+Title: DevOps Engineer
+Company: Lloyd's List Intelligence
+Location: London, England, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/devops-engineer-at-lloyd-s-list-intelligence-4494706156
+Posted: 2026-11-25
+Deadline: N/A
+Reason: The role aligns perfectly with the candidate's extensive experience in DevOps, CI/CD pipeline ownership, and technical documentation, and it is located in a target country (UK) with no restrictive citizenship requirements mentioned.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+Lloyd's List Intelligence  London, England, United Kingdom
+5 hours ago   Be among the first 25 applicants
+  
+
+See who Lloyd's List Intelligence has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Job Title: DevOps Engineer
+
+Reporting To: DevOps Engineering Lead
+
+Business: Technology and Innovation
+
+Team: Technology
+
+Location: London, UK
+
+Lloyds List Intelligence are the trusted experts delivering transparent and actionable maritime data empowering 60,000 professionals around the globe to make confident decisions that drive the safe, efficient, and lawful movement of trade by sea. Our advanced analytics, artificial intelligence, and industry expertise transform our unparalleled data into unique insight delivered through data and analytics services, news and commentary, and publications.
+
+We have teams working across the globe in data and analytics, product management, editorial and market analysis, technology, marketing, sales, and customer success.
+
+Role Profile
+
+We are looking for a DevOps Engineer, this role combines the management application systems, deployment processes to ensure accurate and efficient releases of new features and the maintenance of uptime, performance, and reliability.
+
+The successful candidate will join a team of engineers responsible for maintaining current and future technical platforms – conduct fault diagnosis and remediation activities as well as ensure and maintain the security of platforms across the Lloyd’s List Intelligence technical estate.
+
+This is a full-time permanent role reporting to the DevOps Engineering Lead.
+
+Key Responsibilities
+
+
+Design, build, and maintain scalable AWS infrastructure using Terraform and IaC best practices.
+Lead modernisation of ETL and real-time streaming pipelines (Kinesis, SNS, SQS, Lambda).
+Own CI/CD pipeline design, implementation, and continuous improvement.
+Embed security across all infrastructure layers, including patch management and compliance.
+Automate operational tasks and improve observability and monitoring practices.
+Maintain clear technical documentation and SOPs for all operational processes.
+Collaborate with Product, Software, and Data teams within an Agile squad.
+Present technical designs clearly to both technical and non-technical stakeholders.
+
+
+Essential
+
+What we are looking for:
+
+
+Bachelor’s degree in software, network, or cybersecurity (or demonstrable equal experience)
+4+ years of hands-on experience in a DevOps Engineer role, including production AWS environments.
+Proven AWS experience, ideally supported by relevant certification.
+Strong experience with Terraform for infrastructure provisioning.
+Proven experience building CI/CD pipelines from scratch and improving deployment processes.
+Hands-on troubleshooting and debugging experience across: SQL, SNS, SQS, Kinesis, C# (.NET Core), S3, FTP, AWS Lambda, and HTTP/REST APIs (including legacy standards such as SOAP).
+Solid operating system administration skills across both Windows (Wintel) and Linux environments.
+Strong Linux fundamentals and networking knowledge, including web servers, firewalls, and network routing.
+Familiarity with automation tooling (e.g. Jenkins) and runtime monitoring tools (e.g. New Relic).
+Familiarity with analytical and data warehousing technologies including Redshift, OpenSearch, Athena, and SQL.
+Familiarity with microservices architectural design patterns leveraging relational and big data technologies.
+A disciplined, self-starter attitude with a drive to continuously improve systems and processes.
+Proficiency in written and spoken English.
+
+
+Desirable
+
+
+Experience provisioning technical assets such as EC2 instances, Docker, and associated containerisation or virtualisation technologies.
+Full familiarity with Agile development processes and working within cross-functional product squads.
+Demonstrated ability to improve systems across cost, performance, deployment speed, and reliability.
+
+
+We know that sometimes the 'perfect candidate' doesn't exist, and people can be put off from applying for a job if they don't fit all the requirements. If you're excited about working for us and have most, but not all, of the skills or experience we're looking for, please go ahead and apply. You could be just what we need!
+
+We believe strongly in the value of diversity and in creating supportive, inclusive environments where our colleagues can succeed. As such, we are proud to be an Equal Opportunity Employer. We do not discriminate based on race, color, ancestry, national origin, religion, mental or physical disability, medical condition, genetic information, sex (including pregnancy, childbirth, and related medical conditions), sexual orientation, gender identity, gender expression, age, marital status, military or veteran status, citizenship, or other protected characteristics under federal, state, or local law.
+
+Please let us know of any adjustments we need to make for you to show us your best self.
+
+We are delivering trusted maritime data, analytics, and insight that keeps global trade moving.
+
+With over 300 years of maritime heritage, we continue to shape the future of trade intelligence, transforming vessel, ownership, compliance, and emissions data into clarity that drives smarter, safer, and more transparent trade.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Technology, Information and Internet
+  
+
+Referrals increase your chances of interviewing at Lloyd's List Intelligence by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Group Finance Manager jobs
+DevOps Engineer
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+Pharo Management
+London, England, United Kingdom
+1 month ago
+🛠️ SITE RELIABILITY ENGINEER / DEVOPS
+🛠️ SITE RELIABILITY ENGINEER / DEVOPS
+Tandem Dating
+Harrow, England, United Kingdom
+5 months ago
+DevOps Engineer
+DevOps Engineer
+Qualient Technology Solutions UK Limited
+Reading, England, United Kingdom
+6 days ago
+DevOps Engineer - UK
+DevOps Engineer - UK
+ANRA Technologies
+London, England, United Kingdom
+9 months ago
+DevOps Engineer
+DevOps Engineer
+Sensor Tower
+London, England, United Kingdom
+5 months ago
+DevOps Engineer
+DevOps Engineer
+Dexory
+Didcot, England, United Kingdom
+2 months ago
+Show more jobs like this 
+People also viewed
+Platform Engineer
+Platform Engineer
+
+Charlotte Tilbury Beauty
+
+London, England, United Kingdom
+6 days ago
+Platform Engineer
+Platform Engineer
+
+Muzz
+
+London Area, United Kingdom
+£45,000 - £75,000
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+Universal Music Group
+
+London, England, United Kingdom
+1 week ago
+Platform Engineer
+Platform Engineer
+
+Akuna Capital
+
+London, England, United Kingdom
+2 months ago
+DevOps Engineer
+DevOps Engineer
+
+Universal Music Group UK
+
+London, England, United Kingdom
+1 week ago
+AWS DevOps Engineer
+AWS DevOps Engineer
+
+RJC Group
+
+London Area, United Kingdom
+7 hours ago
+Cloud platform engineer
+Cloud platform engineer
+
+Seccl
+
+London, England, United Kingdom
+1 week ago
+DevOps Engineering Consultant - AWS
+DevOps Engineering Consultant - AWS
+
+Accenture UK & Ireland
+
+London, England, United Kingdom
+1 month ago
+DevOps Engineer AWS - FinTech
+DevOps Engineer AWS - FinTech
+
+Client Server
+
+London, England, United Kingdom
+1 week ago
+DevOps工程师
+DevOps工程师
+
+JD.COM
+
+London Area, United Kingdom
+2 weeks ago
+Similar Searches
+Group Finance Manager jobs
+2,140 open jobs
+Head of Corporate Development jobs
+896 open jobs
+Risk Management Associate jobs
+2,040 open jobs
+Freelance Senior Project Manager jobs
+1,289 open jobs
+Interaction Designer jobs
+1,568 open jobs
+Technical Product Manager jobs
+3,402 open jobs
+System Consultant jobs
+4,356 open jobs
+Data Warehouse Engineer jobs
+6,380 open jobs
+Junior Web Developer jobs
+1,836 open jobs
+Media Supervisor jobs
+965 open jobs
+Vendor Manager jobs
+9,918 open jobs
+Head of Marketing jobs
+5,921 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Lloyd's List Intelligence
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
