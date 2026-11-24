@@ -1,0 +1,291 @@
+Title: Software Automation Engineer
+Company: Old Mutual South Africa
+Location: Pinelands, Western Cape, South Africa
+URL: https://za.linkedin.com/jobs/view/software-automation-engineer-at-old-mutual-south-africa-4494115916
+Posted: 2026-11-25
+Deadline: 2026-11-26
+Reason: The role aligns with the candidate's expertise in quality engineering, CI/CD pipelines, and audit-ready documentation within a regulated industry, and it is located in a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Software Automation Engineer
+Old Mutual South Africa  Pinelands, Western Cape, South Africa
+11 hours ago  33 applicants
+  
+
+See who Old Mutual South Africa has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Let's Write Africa's Story Together!
+
+Old Mutual is a firm believer in the African opportunity and our diverse talent reflects this.
+
+Job Description
+
+Performs quality assurance checks for applications developed in house, packaged, or third-party hosted, using a variety of manual and automated tools. Develops and implements quality assurance, problem reporting processes and systems. OML roles mapped to this profile are: Senior Quality Engineer, Technical Lead: Quality
+
+Engineering, Technical Lead: Quality Engineering (Automation) and Technical Test Manager.
+
+Key Responsibilities
+
+
+Test Framework Architecture: Design, develop, and maintain scalable automated UI and API test suites using Playwright (TypeScript/JavaScript) for mission-critical insurance and financial workflows (e.g., quotes, policy underwriting, claims processing, payments, and customer onboarding).
+Audit-Ready Test Management & Reporting: Manage test plans, test cases, test executions, and defect tracking in Jira Xray, ensuring strict bidirectional traceability between business or regulatory requirements and test evidence. Configure automated test results (JUnit/JSON reports) to sync back to Xray via REST API or CI/CD plugins.
+CI/CD Integration & Release Gates: Embed automated test suites into CI/CD pipelines (e.g., GitHub Actions, GitLab CI, Jenkins) to serve as automated quality gates on pull requests, nightly regression runs, and pre-production releases.
+Test Data Security & Masking: Implement secure test data management practices using synthetic or anonymized datasets, ensuring strict compliance with data privacy standards (e.g., POPIA, GDPR) and preventing sensitive customer PII from leaking into logs, traces, or test environments.
+Cross-Functional Collaboration: Participate in sprint planning, backlog refinement, and architecture reviews to identify edge cases—such as premium calculation logic, multi-step approval workflows, and third-party payment or credit bureau integrations—early in the delivery lifecycle.
+Failure Triage & Reliability: Investigate test failures, distinguish between genuine product defects, environment instability, and flaky tests, and maintain high suite reliability using Playwright’s trace viewer, video recordings, and network interception (page.route).
+
+
+Required Qualifications
+
+
+Experience: 3+ years of hands-on experience as a Test Automation Engineer or in software quality automation, ideally within financial services, insurance, fintech, or other regulated industries.
+Playwright Mastery: Proven experience building and scaling test frameworks in Playwright using TypeScript or JavaScript, including Page Object Model (POM) design, custom fixtures, storageState authentication handling, parallel execution, and network mocking.
+Xray & Jira Expertise: Practical experience managing auditable test lifecycles in Xray for Jira, including linking requirements/user stories to test executions, managing test sets/plans, and automating result imports.
+API, Integration & Data Validation: Strong experience testing RESTful and/or GraphQL APIs (using Playwright’s APIRequestContext, Postman, or similar tools) alongside SQL/database validation to verify financial calculations, ledger entries, and policy state transitions.
+Security & Compliance Awareness: Solid understanding of authentication and authorization flows (OAuth2, OIDC, MFA), session security, and handling sensitive financial or personal data safely within test automation pipelines.
+CI/CD & Version Control: Strong command of Git workflows and configuring automated test runs in modern CI/CD environments.
+
+
+Preferred Qualifications
+
+
+Domain familiarity with life insurance, wealth management, claims lifecycles, or adviser/broker digital portals.
+Experience testing integrations with legacy core banking or policy systems, payment gateways, or third-party verification services.
+Experience with performance or load testing tools (e.g., k6, JMeter) for high-volume transaction periods.
+Familiarity with Docker, containerized test execution, and cloud platforms (AWS, Azure, or GCP).
+ISTQB Foundation Level or Agile Tester certification.
+Expertise in programming languages like Java, JavaScript or Python.
+Experience in creating test automation frameworks at both a frontend and backend layer.
+Strong expertise in SQL and test data management
+Mastery of performance testing tools like Apache JMeter or LoadRunner and analysing system performance
+Proficiency in security testing tools like OWASP ZAP or Burp Suite.
+Extensive experience in CI/CD pipelines using Jenkins, GitLab CI, ADO, or similar.
+In-depth understanding of DevOps practices and tools, including containerisation and orchestration with tools like Docker and Kubernetes.
+Experience in working with cloud technologies like AWS, Azure or Google Cloud.
+
+
+Skills
+
+Action Planning, Adaptive Thinking, Data Compilation, Data Management, Evaluating Information, Executing Plans, Legal Practices, Oral Communications, Policies & Procedures, Project Quality Management, Project Testing, Report Review, Test Case Management
+
+Competencies
+
+Business Insight
+
+Communicates Effectively
+
+Courage
+
+Cultivates Innovation
+
+Drives Results
+
+Ensures Accountability
+
+Instills Trust
+
+Manages Complexity
+
+Education
+
+NQF Level 7 - Degree, Advance Diploma or Postgraduate Certificate or equivalent
+
+Closing Date
+
+26 November 2026 , 23:59
+
+The appointment will be made from the designated group in line with the Employment Equity Plan of Old Mutual South Africa and the specific business unit in question.
+
+The Old Mutual Story!
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at Old Mutual South Africa by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Electronic Software Engineer jobs
+Software Automation Engineer
+Similar jobs
+Test Automation Engineer II
+Test Automation Engineer II
+Capitec
+Stellenbosch, Western Cape, South Africa
+6 days ago
+Senior Automation Engineer
+Senior Automation Engineer
+Ozow
+Cape Town, Western Cape, South Africa
+3 weeks ago
+QA Automation Engineer
+QA Automation Engineer
+Tata Consultancy Services
+City of Cape Town, Western Cape, South Africa
+3 weeks ago
+Software Quality Engineer
+Software Quality Engineer
+Old Mutual South Africa
+Pinelands, Western Cape, South Africa
+4 days ago
+onsite QA Automation Engineer
+onsite QA Automation Engineer
+Tata Consultancy Services
+City of Cape Town, Western Cape, South Africa
+3 weeks ago
+Automation Engineer
+Automation Engineer
+SA Metal Group (Pty) Ltd
+Cape Town, Western Cape, South Africa
+4 months ago
+Show more jobs like this 
+People also viewed
+AI Workflow Automation Specialist
+AI Workflow Automation Specialist
+
+Mass Markets
+
+Cape Town, Western Cape, South Africa
+5 months ago
+Software Engineer (Python) - Supply Chain
+Software Engineer (Python) - Supply Chain
+
+takealot.com
+
+Cape Town, Western Cape, South Africa
+5 months ago
+Software Development Engineer – EC2
+Software Development Engineer – EC2
+
+Amazon Web Services (AWS)
+
+Cape Town, Western Cape, South Africa
+4 days ago
+Xceptor Developer
+Xceptor Developer
+
+Apex Group Ltd
+
+Cape Town, Western Cape, South Africa
+6 days ago
+Senior Quality Engineer
+Senior Quality Engineer
+
+Zensar Technologies
+
+City of Cape Town, Western Cape, South Africa
+1 week ago
+Software Support Analyst
+Software Support Analyst
+
+Unifi Africa
+
+Stellenbosch, Western Cape, South Africa
+3 weeks ago
+Quality Assurance Engineer
+Quality Assurance Engineer
+
+ACI Worldwide
+
+City of Cape Town, Western Cape, South Africa
+1 week ago
+AI Quality & Observability Engineer
+AI Quality & Observability Engineer
+
+Plan.Net CreativeNest South Africa
+
+City of Cape Town, Western Cape, South Africa
+3 weeks ago
+Data Engineer
+Data Engineer
+
+Capitec
+
+Stellenbosch, Western Cape, South Africa
+1 week ago
+GenAI Engineer, Marketing
+GenAI Engineer, Marketing
+
+impact.com
+
+Cape Town, Western Cape, South Africa
+2 weeks ago
+Similar Searches
+Electronic Software Engineer jobs
+23 open jobs
+Software Test Engineer jobs
+90 open jobs
+Software Quality Assurance Engineer jobs
+80 open jobs
+Automation Developer jobs
+103 open jobs
+Software Quality Engineer jobs
+112 open jobs
+Automation Engineer jobs
+4,109 open jobs
+Test Developer jobs
+220 open jobs
+Automation Test Analyst jobs
+116 open jobs
+Software Quality Assurance Tester jobs
+80 open jobs
+Software Tester jobs
+99 open jobs
+Senior Automation Engineer jobs
+640 open jobs
+Test Architect jobs
+201 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Old Mutual South Africa
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
