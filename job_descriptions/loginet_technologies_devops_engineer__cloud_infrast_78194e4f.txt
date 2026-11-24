@@ -1,0 +1,129 @@
+Title: DevOps Engineer (Cloud Infrastructure & Automation)
+Company: Loginet Technologies
+Location: Toowoomba, Queensland, Australia
+URL: https://au.jora.com/job/DevOps-Engineer-c65a7d2da3b3ee9b19667e2ad4b67504
+Posted: 2026-11-23
+Deadline: N/A
+Reason: The role aligns with the candidate's extensive experience in DevOps, CI/CD, and configuration management, and it is located in Australia, which is a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Search
+Sign in
+What
+Where
+Search jobs
+DevOps Engineer (Cloud Infrastructure & Automation)
+Global Vision Recruitment
+–
+Toowoomba QLD
+$85,000 - $100,000 a year
+Full time
+1d ago, from JobsLIN AU
+Apply on company site
+Global Vision Recruitment on behalf of Loginet Technologies
+
+Date Posted: 23 November 2026
+Position: DevOps Engineer (Cloud Infrastructure & Automation)
+Salary: $85,000 - $100,000 per annum plus 12% superannuation
+Employment Type: Full-Time, 38 hours per week
+Location: Queensland, Australia
+
+About Loginet Technologies
+Loginet Technologies is an Australian technology solutions provider specialising in Cloud Computing, DevOps, Cybersecurity, Managed IT Services, Software Development and IT Infrastructure.
+
+We work with businesses to design, implement and manage reliable, secure and scalable technology environments. We are seeking a motivated and technically capable DevOps Engineer to join our team and contribute to cloud infrastructure projects, automation initiatives and enterprise technology solutions.
+
+Key Responsibilities
+• Design, implement and manage scalable cloud infrastructure and environments using AWS and other cloud technologies.
+• Provision, configure and maintain cloud computing resources, including virtual machines, storage, networking and cloud-based services.
+• Develop and maintain automated infrastructure provisioning and deployment processes to improve operational efficiency and consistency.
+• Build, configure and maintain CI/CD pipelines to automate software builds, testing, deployment and production releases.
+• Implement and manage containerisation and orchestration platforms using Docker and Kubernetes.
+• Develop automation scripts and tools to streamline infrastructure management, system administration and operational workflows.
+• Implement Infrastructure as Code (IaC) solutions using Terraform, AWS CloudFormation or similar technologies.
+• Manage Linux-based server environments, including installation, configuration, administration, troubleshooting and performance optimisation.
+• Design and maintain reliable, scalable and highly available infrastructure architectures.
+• Configure and manage cloud networking components, including virtual networks, routing, DNS, firewalls, VPNs and load balancing.
+• Implement infrastructure monitoring, system health checks, performance metrics, logging and automated alerting mechanisms.
+• Establish and maintain infrastructure configuration standards, deployment workflows and environment management procedures.
+• Implement cloud security controls, identity and access management, encryption and infrastructure hardening in accordance with security requirements.
+• Integrate security testing, vulnerability management and security controls into deployment workflows through DevSecOps practices.
+• Identify and resolve infrastructure failures, deployment errors, service interruptions and system performance issues.
+• Develop and maintain backup, recovery, business continuity and disaster recovery strategies for business-critical systems.
+• Manage development, testing, staging and production environments and ensure consistency across deployment stages.
+• Support application deployment, cloud migration, infrastructure modernisation and technology transformation projects.
+• Collaborate with software developers, system administrators, cybersecurity specialists and project managers to deliver integrated technology solutions.
+• Evaluate emerging cloud technologies, automation platforms and DevOps tools to improve service delivery and infrastructure capabilities.
+• Provide technical assistance for client infrastructure projects, cloud migrations and customised technology solutions.
+• Prepare infrastructure architecture documentation, automation procedures, deployment guidelines and technical implementation reports.
+• Perform other reasonable duties consistent with the position and operational requirements of Loginet Technologies.
+
+Skills and Technical Competencies
+• Applicants should demonstrate knowledge or practical experience in several of the following areas:
+• Cloud Platforms: AWS cloud infrastructure and services, including EC2, S3, VPC, IAM, RDS and CloudWatch.
+• Infrastructure as Code: Terraform, AWS CloudFormation or similar infrastructure provisioning tools.
+• CI/CD Automation: Jenkins, GitLab CI/CD, GitHub Actions or other continuous integration and deployment platforms.
+• Containerisation: Docker, Kubernetes and container-based application deployment.
+• Operating Systems: Linux server administration, configuration, maintenance and troubleshooting.
+• Automation and Scripting: Python, Bash, Ansible or similar scripting and automation technologies.
+• Configuration Management: Ansible and other infrastructure configuration management tools.
+• Networking: TCP/IP, DNS, routing, firewalls, VPNs, load balancing and cloud networking.
+• Monitoring and Logging: Infrastructure monitoring, application logging, performance analysis and alert management.
+• Cloud Security: IAM, access control, encryption, security hardening, vulnerability management and DevSecOps.
+• Version Control: Git and collaborative software delivery workflows.
+• Infrastructure Reliability: Backup management, high availability, disaster recovery and business continuity solutions.
+
+Experience Requirements
+• Relevant professional industry experience is mandatory. Applicants must have demonstrated employment experience in DevOps Engineering, Cloud Infrastructure Engineering, Systems Administration or a closely related technical position.
+• More than three (3) years of relevant professional experience is highly desirable, particularly in managing cloud environments, implementing CI/CD pipelines, infrastructure automation and supporting production systems.
+• Practical experience working with AWS or other major cloud platforms will be highly regarded.
+• Demonstrated experience implementing infrastructure automation, deployment pipelines, containerisation and Linux-based environments is desirable.
+• Experience supporting enterprise IT infrastructure, cloud migration projects or production application environments will be an advantage.
+• Applicants without relevant professional industry experience may not be considered.
+
+Qualifications
+• Bachelor's degree in Information Technology, Computer Science, Software Engineering, Cloud Computing or a related discipline.
+• Relevant professional certifications in AWS, Kubernetes, Linux, Terraform or DevOps technologies will be advantageous.
+
+Personal Attributes
+• Strong analytical, technical and problem-solving skills.
+• Ability to manage multiple technical tasks and project priorities.
+• Good written and verbal communication skills.
+• Ability to work independently and collaboratively within a multidisciplinary technical team.
+• Strong commitment to continuous learning and professional development.
+• Ability to work effectively in a client-focused technology services environment.
+
+How to Apply
+If you have the relevant experience and skills to contribute to our team, we encourage you to apply. Please submit your resume outlining your qualifications and working experience. Only shortlisted applicants will be contacted.
+Apply on company site
+Be careful - Don’t provide your bank or credit card details when applying for jobs. Don't transfer any money or complete suspicious online surveys. If you see something suspicious, report this job ad.
+Email to yourself or a friend
+Email job
+Discover Jora
+Browse jobs
+Browse salaries
+Find recruiter
+About
+FAQ
+Blog
+Reviews
+Browse Jobs in Australia
+Jobs in Sydney
+Jobs in Melbourne
+Jobs in Hobart
+Jobs in Brisbane
+Jobs in Perth
+Jobs in Darwin
+Jobs in Adelaide
+Connect with us
+TikTok
+Facebook
+Linkedin
+Get Jora app
+Contact us
+Privacy
+Terms & Conditions
+©2026 Job Seeker Pty Ltd

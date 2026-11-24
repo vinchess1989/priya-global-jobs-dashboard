@@ -1,9 +1,9 @@
 {
   "pid": 52572,
   "started_at": "2026-11-25T01:13:23+02:00",
-  "heartbeat_at": "2026-11-25T01:24:24+02:00",
+  "heartbeat_at": "2026-11-25T01:27:58+02:00",
   "phase": "reviewing",
-  "detail": "Cloud Engineer",
-  "last_scrape_ok_at": "2026-11-25T01:23:24+02:00",
+  "detail": "Obsolescence Process Manager",
+  "last_scrape_ok_at": "2026-11-25T01:26:01+02:00",
   "last_error": null
 }
