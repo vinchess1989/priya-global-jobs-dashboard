@@ -1,0 +1,276 @@
+Title: Senior Devops Engineer
+Company: Jobgether
+Location: South Africa
+URL: https://za.linkedin.com/jobs/view/senior-devops-engineer-at-jobgether-4494901213
+Posted: 2026-11-26
+Deadline: Open until filled
+Reason: The role aligns with the candidate's extensive DevOps and CI/CD experience, is located in a target country (South Africa), and does not trigger any hard rejections.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Devops Engineer
+Jobgether  South Africa
+14 hours ago   Be among the first 25 applicants
+  
+
+See who Jobgether has hired for this role
+
+Apply
+Save
+This position is listed on behalf of a partner company, which manages all applications and next steps. Our partner is looking for a Senior DevOps Engineer based in South Africa.
+
+We are seeking an experienced Senior DevOps Engineer to help scale and strengthen a globally distributed cloud infrastructure supporting innovative digital and financial technology services. In this hands-on role, you will design, automate, and maintain secure, resilient infrastructure across Google Cloud Platform and Kubernetes environments. You will drive the adoption of Infrastructure as Code, improve deployment workflows, and strengthen security and observability as services prepare for continued growth. Working within a small, senior, fully remote engineering team, you will take ownership of services end to end and make pragmatic technical decisions. You will also collaborate with other teams to improve infrastructure practices and help them become more self-sufficient. This is an opportunity to shape a highly automated, scalable platform in a fast-moving technology environment.
+
+Accountabilities
+
+
+Design, build, and maintain Google Cloud infrastructure using Terraform, ensuring production infrastructure is defined as code and changes are reviewed through pull requests.
+Operate and continuously improve Google Kubernetes Engine (GKE) clusters, including upgrades, capacity planning, autoscaling, networking, and workload isolation.
+Migrate manually deployed services to Kubernetes, establishing documented, consistent, and repeatable deployment processes.
+Consolidate configuration, access, and user management across Google Cloud projects into a centralized source of truth.
+Maintain clearly separated and secure environments for internal services, partner workloads, and future community-facing services.
+Collaborate with internal engineering teams to migrate their infrastructure to Infrastructure as Code and Kubernetes-based environments.
+Maintain and improve GitHub Actions workflows, applying security best practices such as pinned dependencies, least-privilege tokens, efficient runner usage, and cost controls.
+Develop and maintain observability capabilities across metrics, logging, and alerting to ensure services are monitored and actionable issues are identified promptly.
+Apply least-privilege access controls across Google Cloud, Kubernetes, and GitHub, regularly reviewing temporary administrative permissions.
+Contribute to quarterly and annual technical roadmaps, provide realistic project estimates, and recommend discovery phases for complex initiatives.
+Take ownership of infrastructure services from design through operation, ensuring reliability, security, scalability, and maintainability.
+
+
+Requirements
+
+
+Bachelor's degree in Computer Science, Engineering, or a related discipline, or equivalent practical experience.
+At least 5 years of experience in DevOps, Site Reliability Engineering (SRE), platform engineering, or infrastructure engineering, including at least 2 years operating production workloads at a senior level.
+Strong hands-on experience managing Kubernetes in production, including deployments, networking, upgrades, autoscaling, and troubleshooting.
+Advanced experience with Terraform, including module design, state management, and infrastructure management across multiple environments.
+Solid practical knowledge of Google Cloud Platform, particularly GKE, IAM, networking, Pub/Sub, and similar managed services.
+Experience implementing and operating observability solutions for metrics, logs, and alerting using Grafana or comparable tools.
+Experience building and maintaining CI/CD pipelines, ideally with GitHub Actions, as well as developing and operating containerized services using Docker.
+Strong understanding of infrastructure security practices, including secrets management, identity and access management (IAM), and least-privilege principles.
+Solid Linux and networking fundamentals, with scripting skills in Bash.
+Proven experience migrating manually managed services to Infrastructure as Code.
+Ability to work independently in a fully remote and asynchronous environment, manage priorities effectively, and communicate clearly with stakeholders.
+Excellent written and spoken English.
+
+
+Nice To Have
+
+
+Google Cloud certifications, such as Professional Cloud DevOps Engineer or Professional Cloud Architect, or Kubernetes certifications such as CKA or CKS.
+Experience operating infrastructure in environments with strict security requirements.
+Experience managing large-scale push notification infrastructure, including Firebase Cloud Messaging or Apple Push Notification service (APNs).
+Familiarity with peer-to-peer technologies or distributed systems.
+Knowledge of Node.js services and their production deployment and operation.
+
+
+Benefits
+
+
+Fully remote working arrangement, with the opportunity to work from anywhere worldwide.
+Opportunity to join a globally distributed team of experienced technology professionals.
+Hands-on ownership of critical infrastructure and the opportunity to influence technical architecture and engineering standards.
+Opportunity to work with modern cloud technologies, including Google Cloud, Kubernetes, Terraform, and automation tooling.
+Collaborative environment that encourages independent decision-making, technical innovation, and continuous improvement.
+Exposure to large-scale digital infrastructure and services in the evolving fintech and technology sectors.
+Salary, healthcare coverage, paid leave, and other specific benefits are not detailed in the available job description.
+
+
+How Jobgether Works
+
+We use an AI-powered matching process to ensure your application is reviewed quickly, objectively, and fairly against the role's core requirements. Our system identifies the top-fitting candidates, and this shortlist is then shared directly with the hiring company. The final decision and next steps (interviews, assessments) are managed by their internal team.
+
+We appreciate your interest and wish you the best!
+
+Why Apply Through Jobgether?
+
+Data Privacy Notice: By submitting your application, you acknowledge that Jobgether will process your personal data to evaluate your candidacy and share relevant information with the hiring employer. This processing is based on legitimate interest and pre-contractual measures under applicable data protection laws (including GDPR). You may exercise your rights (access, rectification, erasure, objection) at any time.
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Internet Marketplace Platforms
+  
+
+Referrals increase your chances of interviewing at Jobgether by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in South Africa.
+
+Sign in to create job alert
+Jobs
+Investment Administrator jobs
+Senior Devops Engineer
+Similar jobs
+Senior Cloud DevOps Engineer
+Senior Cloud DevOps Engineer
+Ikue
+South Africa
+10 months ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Huzzle.com
+South Africa
+5 months ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+SearchApi
+South Africa
+4 months ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+RELX
+South Africa
+2 months ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+LexisNexis
+South Africa
+2 months ago
+Platform Engineer
+Platform Engineer
+Share
+Cape Town, Western Cape, South Africa
+2 months ago
+Show more jobs like this 
+People also viewed
+Sr. Systems Engineer – MSP/Infrastructure/Cloud (Fully Remote)
+Sr. Systems Engineer – MSP/Infrastructure/Cloud (Fully Remote)
+
+Intelligent Technical Solutions
+
+City of Cape Town, Western Cape, South Africa
+5 hours ago
+Sr. Systems Engineer – MSP/Infrastructure/Cloud (Fully Remote)
+Sr. Systems Engineer – MSP/Infrastructure/Cloud (Fully Remote)
+
+Intelligent Technical Solutions
+
+Gauteng, South Africa
+5 hours ago
+Hands-on Engineering Manager DevOps (GCP/Kubernetes)
+Hands-on Engineering Manager DevOps (GCP/Kubernetes)
+
+Jobgether
+
+South Africa
+5 days ago
+Lead Cloud Architect (AWS), South Africa (fully remote)
+Lead Cloud Architect (AWS), South Africa (fully remote)
+
+Protodigy
+
+Johannesburg, Gauteng, South Africa
+1 week ago
+Azure Cloud Engineer (DevOps)
+Azure Cloud Engineer (DevOps)
+
+60 Degrees
+
+Western Cape, South Africa
+2 days ago
+Senior Software Engineer
+Senior Software Engineer
+
+The Flex
+
+South Africa
+2 months ago
+DevOps Engineer
+DevOps Engineer
+
+Humankind Group
+
+Bedfordview, Gauteng, South Africa
+2 days ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+Nintex
+
+Johannesburg, Gauteng, South Africa
+1 week ago
+Principal DevOps Engineer (all genders)
+Principal DevOps Engineer (all genders)
+
+Expleo Group
+
+Hamburg, Eastern Cape, South Africa
+1 week ago
+DevOps, Platform & Support Engineer
+DevOps, Platform & Support Engineer
+
+MVIA
+
+Southern Suburbs, Western Cape, South Africa
+3 months ago
+Similar Searches
+Investment Administrator jobs
+177 open jobs
+Recruiting Team Lead jobs
+42 open jobs
+Broker Assistant jobs
+162 open jobs
+Implementation Engineer jobs
+3,703 open jobs
+System Integration Engineer jobs
+3,606 open jobs
+Sourcing Analyst jobs
+92 open jobs
+Wordpress Developer jobs
+1,093 open jobs
+Senior Technical Recruiter jobs
+41 open jobs
+Service Architect jobs
+154 open jobs
+Affiliate Manager jobs
+431 open jobs
+Information Technology Recruiter jobs
+52 open jobs
+Business Intelligence Consultant jobs
+365 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
