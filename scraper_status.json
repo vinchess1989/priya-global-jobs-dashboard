@@ -1,9 +1,9 @@
 {
   "pid": 52572,
   "started_at": "2026-11-25T01:13:23+02:00",
-  "heartbeat_at": "2026-11-25T02:22:23+02:00",
+  "heartbeat_at": "2026-11-25T02:25:18+02:00",
   "phase": "reviewing",
-  "detail": "Clinical Services Manager",
-  "last_scrape_ok_at": "2026-11-25T02:21:21+02:00",
+  "detail": "Engineer, R&D,",
+  "last_scrape_ok_at": "2026-11-25T02:24:16+02:00",
   "last_error": null
 }
