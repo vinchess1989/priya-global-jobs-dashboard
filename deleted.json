@@ -32383,5 +32383,22 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": null,
     "deletion_reason": "Deadline (2026-11-24) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Regulatory Affairs Lead (we have office locations in Cambridge, Leeds & London)",
+    "company": "Genomics England",
+    "location": "London, England, United Kingdom",
+    "url": "https://uk.linkedin.com/jobs/view/regulatory-affairs-lead-we-have-office-locations-in-cambridge-leeds-london-at-genomics-england-4493098807",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job posting explicitly states that they are unable to offer visa sponsorship, which is a hard rejection criterion for the candidate.",
+    "id": "b8067c45",
+    "source": "linkedin_uk_eu_mdr",
+    "added_at": "2026-11-26T01:34:33+02:00",
+    "posted_date": "2026-11-26",
+    "deadline": "2025-12-09",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Deadline (2025-12-09) passed by more than 2 days and unreviewed"
   }
 ]
