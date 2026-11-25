@@ -1,9 +1,9 @@
 {
   "pid": 52572,
   "started_at": "2026-11-25T01:13:23+02:00",
-  "heartbeat_at": "2026-11-25T02:12:37+02:00",
+  "heartbeat_at": "2026-11-25T02:16:32+02:00",
   "phase": "reviewing",
-  "detail": "Systems Engineer",
-  "last_scrape_ok_at": "2026-11-25T02:11:36+02:00",
+  "detail": "Ecommerce Content Writer",
+  "last_scrape_ok_at": "2026-11-25T02:15:34+02:00",
   "last_error": null
 }
