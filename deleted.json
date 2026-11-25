@@ -32417,5 +32417,39 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": null,
     "deletion_reason": "Deadline (2025-12-09) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Python Engineer",
+    "company": "Kiwibank",
+    "location": "Wellington, Wellington, New Zealand",
+    "url": "https://nz.linkedin.com/jobs/view/python-engineer-at-kiwibank-4494770594",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is primarily a feature-development software engineering position focused on building and evolving core banking systems, which violates the hard rejection against pure feature-development roles.",
+    "id": "37a77f29",
+    "source": "linkedin_nz_devops_engineer",
+    "added_at": "2026-11-26T01:48:57+02:00",
+    "posted_date": "2026-11-26",
+    "deadline": "2025-12-09",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Deadline (2025-12-09) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "STEM Content Expert",
+    "company": "Kinia",
+    "location": "Dublin, County Dublin, Ireland",
+    "url": "https://ie.linkedin.com/jobs/view/stem-content-expert-at-kinia-4493418964",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is focused on educational content development and curriculum design rather than the technical release management, configuration management, or quality engineering domains that align with the candidate's 15-year career trajectory.",
+    "id": "9441f89a",
+    "source": "linkedin_ie_technical_writer",
+    "added_at": "2026-11-26T01:51:29+02:00",
+    "posted_date": "2026-11-26",
+    "deadline": "2025-12-08",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Deadline (2025-12-08) passed by more than 2 days and unreviewed"
   }
 ]

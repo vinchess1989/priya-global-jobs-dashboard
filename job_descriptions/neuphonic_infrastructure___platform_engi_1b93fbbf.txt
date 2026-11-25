@@ -1,0 +1,240 @@
+Title: Infrastructure / Platform Engineer (NZ)
+Company: Neuphonic
+Location: New Zealand
+URL: https://nz.linkedin.com/jobs/view/infrastructure-platform-engineer-nz-at-neuphonic-4490747463
+Posted: 2026-11-19
+Deadline: N/A
+Reason: The role aligns with the candidate's DevOps and infrastructure automation expertise, is located in a target country (New Zealand), and does not trigger any hard rejections.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Join now
+Sign in
+Infrastructure / Platform Engineer (NZ)
+Neuphonic  New Zealand
+1 week ago  152 applicants
+  
+
+See who Neuphonic has hired for this role
+
+Apply 
+Save
+Type: Full-time Remote.
+
+About Neuphonic
+
+Neuphonic is building the next generation of voice AI, making natural, real-time speech accessible across devices, languages, and applications.
+
+Our technology enables ultra-low-latency text-to-speech, voice cloning, and multilingual speech generation. We're pushing the boundaries of what's possible with speech models, from high-performance cloud inference to running AI directly on everyday devices without expensive GPUs or an internet connection.
+
+We're a small, ambitious team of researchers and engineers building technology used by developers and businesses around the world. Our open-source releases have reached millions of downloads, and we're growing quickly.
+
+Why we're hiring
+
+As our customer base grows, we need to scale our production infrastructure while maintaining the performance, reliability, and low latency that our products depend on.
+
+We're looking for an Infrastructure / Platform Engineer to take ownership of our cloud infrastructure and inference systems. You'll work closely with our engineering and ML teams to build scalable, reliable, and cost-efficient systems.
+
+A key part of this role is extending our production support coverage beyond UK working hours. We're hiring in New Zealand to help us work towards 24/7 support for our production customers, so we're looking for someone comfortable taking ownership of live systems, responding to incidents, and making independent technical decisions.
+
+Importantly, this isn't just about keeping our systems running. We want someone who will actively look for ways to improve how we build, deploy, and serve our models, continually experimenting, optimising, and evolving our infrastructure as we scale.
+
+What You'll Own
+
+
+Cloud infrastructure: Build, manage, and scale our production infrastructure across GCP and GPU cloud providers using Kubernetes, Docker, and Terraform.
+Inference optimisation: Continuously improve inference performance, latency, throughput, GPU utilisation, and infrastructure costs through profiling, experimentation, and iteration, rather than simply maintaining the status quo.
+Platform evolution: Identify bottlenecks and inefficiencies in how we build, deploy, and serve models, and take ownership of implementing improvements.
+Production reliability: Monitor critical systems, respond to incidents, and help ensure reliable service for our customers outside UK working hours.
+Infrastructure architecture: Make autonomous technical decisions that balance scalability, reliability, performance, and cost.
+CI/CD and automation: Improve deployment pipelines, infrastructure automation, monitoring, and observability.
+Security and enterprise readiness: Support secure infrastructure practices and enterprise deployment requirements.
+
+
+What we're looking for
+
+
+1-4 years of experience building and operating production cloud infrastructure at scale, ideally supporting applications with significant user traffic.
+Hands-on experience with GCP, Kubernetes, Docker, Terraform, and Python.
+Experience with CI/CD, monitoring, observability, and production incident response.
+A strong understanding of infrastructure performance, scalability, and cost optimisation.
+Experience participating in on-call rotations or taking responsibility for production incidents.
+A proactive approach to engineering, with experience identifying bottlenecks, experimenting with improvements, and optimising production systems.
+Comfortable working autonomously, making architectural decisions, and taking ownership of critical systems.
+Based in New Zealand and comfortable providing production support during agreed hours that complement our UK and India engineering teams.
+
+
+Nice to have
+
+
+Experience with AI/ML inference, GPU infrastructure, or vLLM.
+Experience hosting audio, speech, or real-time AI applications.
+Experience with C++.
+Familiarity with SOC 2, ISO 27001, or other security compliance frameworks.
+Experience with private cloud or on-premise enterprise deployments.
+
+
+Who you'll work with
+
+You'll work directly with our engineering and ML teams, helping shape the infrastructure behind Neuphonic's production models and services.
+
+We're a small team, so you'll have real ownership and the freedom to make meaningful technical decisions. We value people who take initiative, solve problems independently, and enjoy building systems that work reliably in the real world.
+
+You'll collaborate closely with our UK and India teams, with clear handovers between time zones to help ensure our production customers are supported around the clock.
+
+
+Show more 
+Seniority level
+Entry level
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Neuphonic by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Platform Engineer
+Platform Engineer
+Share
+Wellington, Wellington, New Zealand
+2 months ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+SearchApi
+New Zealand
+4 months ago
+Platform Deployment Engineer (AI Factory Delivery)
+Platform Deployment Engineer (AI Factory Delivery)
+Sharon AI, Inc
+New Zealand
+3 weeks ago
+Infrastructure Deployment Engineer (AI Factory Delivery)
+Infrastructure Deployment Engineer (AI Factory Delivery)
+Sharon AI, Inc
+New Zealand
+23 hours ago
+Intermediate Infrastructure Engineer
+Intermediate Infrastructure Engineer
+Centrapay
+Wellington, Wellington, New Zealand
+NZ$90,000 - NZ$125,000
+2 months ago
+Intermediate Infrastructure Engineer
+Intermediate Infrastructure Engineer
+Centrapay
+Christchurch, Canterbury, New Zealand
+NZ$90,000 - NZ$125,000
+2 months ago
+Show more jobs like this 
+People also viewed
+(Senior) Engineering Lead (Subject Recognition / Edge)
+(Senior) Engineering Lead (Subject Recognition / Edge)
+
+Auror
+
+New Zealand
+NZ$142,500 - NZ$185,500
+3 months ago
+Senior Software Engineer - Platform
+Senior Software Engineer - Platform
+
+Halter
+
+Auckland, New Zealand
+3 months ago
+Senior Cloud Infrastructure Engineer
+Senior Cloud Infrastructure Engineer
+
+Absolute IT
+
+Auckland, New Zealand
+NZ$140,000 - NZ$160,000
+2 days ago
+Lead Software Engineer - Platform
+Lead Software Engineer - Platform
+
+Halter
+
+Auckland, New Zealand
+2 hours ago
+Proxy Network Engineer
+Proxy Network Engineer
+
+SearchApi
+
+New Zealand
+4 months ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+
+Enviro NZ
+
+Auckland, Auckland, New Zealand
+3 weeks ago
+Customer Engineer
+Customer Engineer
+
+Contrast Security
+
+Auckland, New Zealand
+1 week ago
+Senior Site Reliability Engineer, ANZ
+Senior Site Reliability Engineer, ANZ
+
+Partly
+
+Auckland, Auckland, New Zealand
+4 days ago
+Cloud Operations Support Engineer
+Cloud Operations Support Engineer
+
+Aderant
+
+Auckland, Auckland, New Zealand
+1 week ago
+EverWell - Lead Platform Mobile Engineer (Remote, NZ)
+EverWell - Lead Platform Mobile Engineer (Remote, NZ)
+
+EverCommerce
+
+New Zealand
+4 weeks ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

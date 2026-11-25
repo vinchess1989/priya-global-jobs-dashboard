@@ -1,0 +1,292 @@
+Title: Infrastructure Deployment Engineer (AI Factory Delivery)
+Company: Sharon AI, Inc
+Location: New Zealand
+URL: https://nz.linkedin.com/jobs/view/infrastructure-deployment-engineer-ai-factory-delivery-at-sharon-ai-inc-4494767177
+Posted: 2026-11-26
+Deadline: N/A
+Reason: The role aligns with her background in infrastructure automation, CI/CD, and release documentation, and it is located in New Zealand, which is a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Join now
+Sign in
+Infrastructure Deployment Engineer (AI Factory Delivery)
+Sharon AI, Inc  New Zealand
+23 hours ago  30 applicants
+  
+
+See who Sharon AI, Inc has hired for this role
+
+Apply
+Save
+
+Infrastructure Deployment Engineer (AI Factory Delivery)
+
+🗓️ Full-time | Permanent | Start ASAP
+
+📍 New Zealand - Remote, in the same time zone as the rest of the squad
+
+🏡 Remote working
+
+
+
+
+About Sharon AI
+
+Sharon AI is an Australian neocloud, delivering trusted AI infrastructure organisations need to build, train and run AI at scale. We support customers across the full AI lifecycle, from training through to inference and agentic AI, drawing on a strong ecosystem of technology and co-location partners to deliver capability where it's needed. As the first neocloud to join NVIDIA's AI Compute Program, we're growing quickly, scaling our AI Factory platform to meet rising demand for advanced compute.
+
+
+
+
+The Role
+
+As Sharon AI continues to grow, we're looking for a talented Infrastructure Deployment Engineer to join our regional Delivery squad and play an important role in deploying and delivering the infrastructure layer of our AI Factories, reporting to our Regional Delivery Manager.
+
+
+
+
+AI Factories are the high-performance GPU compute environments that underpin Sharon AI's AI cloud, serving customers and internal teams running large-scale training, fine-tuning and inference. In this role, the Infrastructure Deployment Engineer will take the GPU nodes and underlying cluster infrastructure of each AI Factory from hardware staging through to customer acceptance, and build and run the automation that deploys and tests them. You'll deploy, test and automate, and look for ways to make each deployment faster than the last, with reducing deployment time a core part of the job. You'll work closely with Network and Platform Deployment Engineers, on-site Data Centre Deployment Engineers, the Infrastructure and Platform teams and Operations, with exposure to cutting-edge technology at the forefront of AI infrastructure.
+
+
+
+
+What You'll Be Doing
+
+Deploying and configuring the underlying cluster infrastructure (Kubernetes and/or HPC schedulers such as Slurm) with the Platform Deployment Engineers, from initial build through to handover
+Provisioning and configuring GPU nodes: operating system images, firmware and drivers at the locked versions, to meet agreed design and performance targets
+Configuring server management controllers (BMC) to the standard settings using Redfish or IPMI, and validating PCIe, NVLink and GPUDirect configuration on every node
+Connecting VAST Data storage, deploying monitoring, logging and alerting agents, and applying node-level security controls and workload isolation
+Working with on-site staff and the data centre provider's remote hands for any physical task, such as reseating, part swaps or console access
+Running GPU node burn-in and diagnostics (DCGM), plus HPL and storage throughput tests with the platform and network engineers
+Planning and executing infrastructure testing, including acceptance testing (ATP), integrated system testing (IST), and high availability, backup and recovery checks
+Checking server-level (L10) test evidence from the manufacturer, recording results against pass/fail thresholds, and raising defects and hardware returns
+Automating server provisioning, configuration push, OS and firmware updates, and test runs and their reports, keeping deployment code in version control with review and testing before it is used on site
+Generating host configuration from the frozen design and site inventory, and keeping that inventory accurate as the source of truth
+Instrumenting automation so every step is timed, giving the data to find the next delay, and feeding lessons learned back into standard playbooks and tooling
+Preparing handover documentation, runbooks and as-built records, supporting Operations during the hypercare window (up to one month), and reporting progress, risks and issues to the Regional Delivery Manager
+
+
+
+
+What We're Looking For
+
+4 to 8+ years' experience in infrastructure, systems, platform or SRE engineering
+Strong Linux administration and troubleshooting at scale
+Experience with GPU-based systems and workloads
+Strong Kubernetes and container experience, including containerised platforms in production
+Experience with infrastructure-as-code (Terraform, Ansible or similar) and scripting in Python, Go or Bash
+Experience building infrastructure automation, including Git, code review, CI pipelines and bare-metal or cloud provisioning through APIs
+A good understanding of networking and storage
+Bachelor's degree in Computer Science, Engineering or a related field, or equivalent experience
+Strong communication and stakeholder management skills
+Ability to manage competing priorities in a fast-paced environment
+A proactive, collaborative and solutions-focused approach
+Strong attention to detail
+A genuine interest in AI, technology and what Sharon AI is building
+
+
+
+
+Nice to have:
+
+GPU cloud, IaaS or neocloud platform experience
+Rafay, Netris or other provisioning APIs, Redfish automation, and NetBox or similar inventory tools
+HPC environments and schedulers (Slurm, Ray), and high-performance networking (RDMA, InfiniBand)
+AI/ML workloads and frameworks (PyTorch, TensorFlow)
+Linux or Kubernetes certifications (RHCSA/RHCE, CKA)
+
+
+
+
+Why Join Sharon AI?
+
+You'll be joining a rapidly growing Australian technology business at an exciting stage of its journey, with the opportunity to work directly with the infrastructure and technology powering the next generation of AI.
+
+🏡 Remote working – work from wherever suits you, in the same time zone as your squad
+
+🎂 Birthday leave – take some extra time to celebrate your day
+
+🧠 Employee Assistance Program (EAP) – confidential support when you need it
+
+🤖 Exposure to AI and next-generation technology – work in one of the fastest-moving areas of technology
+
+🎓 Learning & development – we support your career growth with approved conferences, professional memberships & courses
+
+🚗 Novated leasing – a tax-effective way to finance and run your car
+
+🎁 Bounty referral program – generous rewards for successfully referring new talent to Sharon AI
+
+🏆 Employee of the month – recognition plus a $500 gift card
+
+🌏 Growing global business – be part of an Australian technology company with an expanding international footprint
+
+💡 Make an impact – join at a stage where your work can have a visible influence on how we build and grow
+
+🤝 Collaborative culture – work alongside talented people across technical, commercial and corporate teams
+
+
+
+
+Our Values
+
+Integrity | Innovation | Collaboration | Wellbeing | Inclusion
+
+
+
+
+Apply today and help us build the infrastructure powering the next generation of AI.
+
+Due to the high volume of applications we receive, we're unfortunately not always able to provide individual feedback to unsuccessful candidates. We appreciate your understanding and want to assure you that every application will be reviewed with care.
+
+Show more 
+Seniority level
+Entry level
+Employment type
+Full-time
+Industries
+IT System Data Services
+  
+
+Referrals increase your chances of interviewing at Sharon AI, Inc by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Platform Deployment Engineer (AI Factory Delivery)
+Platform Deployment Engineer (AI Factory Delivery)
+Sharon AI, Inc
+New Zealand
+3 weeks ago
+Network Deployment Engineer (AI Factory Delivery)
+Network Deployment Engineer (AI Factory Delivery)
+Sharon AI, Inc
+New Zealand
+3 weeks ago
+Infrastructure / Platform Engineer (NZ)
+Infrastructure / Platform Engineer (NZ)
+Neuphonic
+New Zealand
+1 week ago
+Platform Engineer
+Platform Engineer
+Share
+Wellington, Wellington, New Zealand
+2 months ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+SearchApi
+New Zealand
+4 months ago
+Intermediate Infrastructure Engineer
+Intermediate Infrastructure Engineer
+Centrapay
+Wellington, Wellington, New Zealand
+NZ$90,000 - NZ$125,000
+2 months ago
+Show more jobs like this 
+People also viewed
+IT Systems Engineer
+IT Systems Engineer
+
+Rocket Lab
+
+Auckland, Auckland, New Zealand
+1 day ago
+IT Systems Engineer II
+IT Systems Engineer II
+
+Rocket Lab
+
+Auckland, Auckland, New Zealand
+2 weeks ago
+AI Tech Lead, Agent Infrastructure & Reliability
+AI Tech Lead, Agent Infrastructure & Reliability
+
+FRAMECAD
+
+Auckland, Auckland, New Zealand
+23 hours ago
+AI Engineer Cloud Platforms
+AI Engineer Cloud Platforms
+
+Deloitte
+
+Auckland, Auckland, New Zealand
+6 days ago
+Digital Workplace Engineer
+Digital Workplace Engineer
+
+HCLTech - Australia and New Zealand
+
+Auckland, New Zealand
+2 days ago
+Engineering Team Lead
+Engineering Team Lead
+
+Optimal
+
+Auckland, New Zealand
+1 week ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+
+Level
+
+Auckland, Auckland, New Zealand
+2 months ago
+Senior Software Engineer (ASR - Edge)
+Senior Software Engineer (ASR - Edge)
+
+Auror
+
+New Zealand
+2 months ago
+Platform Security Engineer, NZ
+Platform Security Engineer, NZ
+
+Partly
+
+Auckland, Auckland, New Zealand
+2 weeks ago
+AI Copilot Solution Engineer
+AI Copilot Solution Engineer
+
+Microsoft
+
+Auckland, Auckland, New Zealand
+1 week ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

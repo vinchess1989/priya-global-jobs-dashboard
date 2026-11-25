@@ -1,0 +1,262 @@
+Title: DevOps Technical Specialist
+Company: The Citco Group Limited
+Location: Cork, County Cork, Ireland
+URL: https://ie.linkedin.com/jobs/view/devops-technical-specialist-at-the-citco-group-limited-4493415635
+Posted: 2026-11-26
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in DevOps, CI/CD, configuration management, and automation, and is located in an eligible country (Ireland).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Join now
+Sign in
+DevOps Technical Specialist
+The Citco Group Limited  Cork, County Cork, Ireland
+11 hours ago   Be among the first 25 applicants
+  
+
+See who The Citco Group Limited has hired for this role
+
+Apply 
+Save
+
+Direct message the job poster from The Citco Group Limited
+
+Amanda Radice
+Amanda Radice
+Job Description
+
+DevOps – Technical Specialist
+
+About Citco
+
+Since the 1940s Citco has provided specialist financial services to alternative investment funds, investors, multinationals and private clients worldwide. With over 13,000 employees in 45 countries we pioneer innovative solutions that meet our clients’ evolving needs, and deliver exceptional service.
+
+Our continuous investment in learning means our people are among the best in the industry. And our corporate social responsibility programs provide meaningful and fulfilling work in the community.
+
+A career at Citco isn’t just a job – it’s an opportunity to excel in an environment that genuinely supports your personal and professional development. For more information about Citco, please visit www.citco.com .
+
+About The Role
+
+Citco seeks a DevOps Technical Specialist to drive our automation and DevOps initiatives within the IT Operations group. This role will focus on bridging the gap between traditional IT operations and modern DevOps practices, ensuring the reliability, scalability, and efficiency of our IT infrastructure while supporting continuous integration and deployment processes. The successful candidate will manage a portfolio of automation initiatives and w ill be responsible for leading the design, implementation, and optimization of our infrastructure and configuration automation strategies .
+
+Working as part of the Platform Services management group, this role interacts with all functions across the department. The ideal candidate will have a proven track record in both the IaC and CaC spaces, will be a creative thinker, problem solver, teacher, and posses superior interpersonal skills. He/she will serve as the organization's primary expert in Infrastructure as Code (IaC), Configuration as Code (CaC), and automation, guiding teams and setting standards for best practices. This is a hands-on technical leadership role with extensive experience of DevOps technologies and essential concepts.
+
+Job Duties In Brief
+
+
+Active member of the IT Operations Management Team
+Implement and maintain automation for system provisioning, configuration, and deployment
+Lead the development, implementation, and maintenance of Infrastructure as Code (IaC) solutions
+Design and oversee the implementation of continuous integration / continuous deployment (CI/CD) pipelines
+Develop automation strategies and roadmaps aligned with IT Operations goals
+Evaluate and recommend new technologies to enhance our automation capabilities
+Establish best practices and standards for automation across the IT Operations department
+Lead cross-functional teams to improve infrastructure reliability and efficiency
+Implement and maintain security best practices
+Conduct regular audits of automation processes and coordinate implementation of improvements
+Mentor and guide team members on DevOps and automation best practices
+Collaborate with IT Operations Leadership Team to align automation initiatives with strategic objectives
+Develop and maintain infrastructure as code (IaC) using tools like Terraform or CloudFormation
+Implement and manage configuration management tools (e.g., Ansible, Rundeck, Sempahore)
+Provide governance and guidance to all IT Operations team members
+Serve as the technical advocate for complex automation and infrastructure issues
+
+
+Experience And Technical Skills
+
+
+6+ years of experience in DevOps or similar role, with at least 3 years in a lead or senior position
+Strong knowledge of Linux/Unix systems administration
+Proficiency in scripting languages (e.g., Python, Bash, PowerShell)
+Deep understanding of CI/CD principles and experience with enterprise-level implementations (e.g., Jenkins, GitLab CI, CircleCI, Semaphore)
+Proven experience in cloud architecture, preferably across multiple platforms (AWS & Azure)
+Knowledge of containerization and orchestration technologies (Docker, Kubernetes)
+Extensive experience with task orchestration tools like Rundeck
+Advanced knowledge of configuration management tools, especially Ansible
+Expert-level proficiency in IaC tools (Terraform, CloudFormation)
+Understanding of networking concepts and protocols, security best practices, and compliance requirements
+Strong background in implementing and managing monitoring and observability solutions (e.g., Prometheus, ELK stack, Zabbix, SolarWinds)
+Strong problem-solving and analytical skills
+Experience with microservices architecture
+Excellent communication and teamwork abilities
+Excellent leadership, communication, and problem-solving skills.
+Proactive, enthusiastic and ambitious with an ability to work effectively in a fast-paced, dynamic environment.
+
+
+About You
+
+The successful candidate is an experienced and energetic contributor, with the ability to build customer relationships, while driving alignment and strategy across the IT Operations department. You can impact both day-to-day service delivery and long-term structural group alignment and strategy definition. Mature communicator, with the ability to effectively convey information of a technical nature to non-technical audiences
+
+Education
+
+
+Bachelor's degree or technical qualification prevalent to the position
+Certifications such as AWS Certified DevOps Engineer / SysOps Administrator.
+
+
+What We Offer
+
+
+A challenging and rewarding role in an award-winning global business.
+Opportunities for personal and professional career development.
+Great working environment, competitive salary and benefits, and opportunities for educational support.
+Be part of an industry leading global team, renowned for excellence.
+
+
+Remuneration
+
+A highly competitive salary package will be awarded to the successful candidate.
+
+Confidentiality Assured.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at The Citco Group Limited by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Site Reliability Engineer, Enterprise Technology Services
+Site Reliability Engineer, Enterprise Technology Services
+Apple
+Cork, County Cork, Ireland
+1 month ago
+DevOps Engineer, Radar Engineering
+DevOps Engineer, Radar Engineering
+Apple
+Cork, County Cork, Ireland
+1 month ago
+DevOps Engineer
+DevOps Engineer
+Motorola Solutions
+Cork, County Cork, Ireland
+5 days ago
+Site Reliability Engineer
+Site Reliability Engineer
+McAfee
+Cork, County Cork, Ireland
+4 days ago
+DevOps Engineer
+DevOps Engineer
+The Citco Group Limited
+Cork, County Cork, Ireland
+2 weeks ago
+DevSecOps Engineer
+DevSecOps Engineer
+McKesson
+Cork, County Cork, Ireland
+1 week ago
+Show more jobs like this 
+People also viewed
+Site Reliability Engineering, Radar Engineering
+Site Reliability Engineering, Radar Engineering
+
+Apple
+
+Cork, County Cork, Ireland
+1 month ago
+Partner Infrastructure Readiness Analyst
+Partner Infrastructure Readiness Analyst
+
+Apple
+
+Cork, County Cork, Ireland
+2 weeks ago
+Lead DevOps Engineer
+Lead DevOps Engineer
+
+The Citco Group Limited
+
+Cork, County Cork, Ireland
+6 hours ago
+Dev Ops Senior Engineer
+Dev Ops Senior Engineer
+
+Acuity
+
+Cork, County Cork, Ireland
+2 weeks ago
+Apple Pay eCommerce Technical Specialist
+Apple Pay eCommerce Technical Specialist
+
+Apple
+
+Cork, County Cork, Ireland
+2 months ago
+Sr. Cloud Applications Engineer (SRE) | Cork
+Sr. Cloud Applications Engineer (SRE) | Cork
+
+OpenText
+
+Cork, County Cork, Ireland
+2 weeks ago
+Lead Site Reliability Engineer
+Lead Site Reliability Engineer
+
+OpenText
+
+Cork, County Cork, Ireland
+1 week ago
+Cloud Applications Engineer - Monitoring & Observability
+Cloud Applications Engineer - Monitoring & Observability
+
+OpenText
+
+Cork, County Cork, Ireland
+8 hours ago
+Lead Site Reliability Engineer | Cork
+Lead Site Reliability Engineer | Cork
+
+OpenText
+
+Cork, County Cork, Ireland
+3 days ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+OpenText
+
+Cork, County Cork, Ireland
+1 day ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
