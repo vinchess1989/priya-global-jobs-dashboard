@@ -1,0 +1,302 @@
+Title: AI Tech Lead, Verification and Evals
+Company: FRAMECAD
+Location: Auckland, Auckland, New Zealand
+URL: https://nz.linkedin.com/jobs/view/ai-tech-lead-verification-and-evals-at-framecad-4494771378
+Posted: 2026-11-26
+Deadline: N/A
+Reason: The role focuses on quality gatekeeping, verification strategy, and evaluation frameworks in a safety-critical context, which aligns perfectly with the candidate's background in quality assurance, release management, and regulated industries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+AI Tech Lead, Verification and Evals
+FRAMECAD  Auckland, Auckland, New Zealand
+21 hours ago   Be among the first 25 applicants
+  
+
+See who FRAMECAD has hired for this role
+
+Apply
+Save
+
+FRAMECAD Frontier Team
+
+
+
+
+The AI frontier is moving every week. Work at it, not near it.
+
+AI is changing how software gets written and how decisions get made. The next step is AI that acts in the physical world, where an agent's output turns into steel on a building site. At FRAMECAD, you'll make sure every AI output we rely on is proven correct and safe before it reaches a customer, a fabricator or a building site. The agent that does the work never grades its own homework.
+
+
+
+
+Why now, why here
+
+Large organisations are still deciding how to use this technology. A small founding team with the right tools can move faster. At FRAMECAD you're a short step from the engineers who design the product, the machines that make it and the customers who use it. Few AI teams have that access to the physical end of their work. Founding members set the foundations: the problems we choose, how we work and who joins after.
+
+
+
+
+Why this team
+
+You've probably seen how often an impressive AI output turns out to be quietly wrong. This role makes catching that the whole job. You'll be the control point of the agentic loop, deciding what gets accepted, retried or stopped. The Frontier team is small, flat and reports to the AI Principal Engineer, based in Auckland.
+
+
+
+
+Tools. The latest frontier models, agents, frameworks, and the freedom to choose and combine them.
+Tokens. The token budget to run real experiments at real scale, not rationed access.
+Time. Space to be ambitious: explore, prototype and go deep, away from a packed sprint calendar.
+Taste. You can tell when a model's output is wrong, and you can explain why.
+Training. Support to stay at the leading edge, including courses, conferences and research.
+
+
+
+
+What you'll do
+
+Set the verification strategy for AI agents across all our software platforms ,and internal automation.
+Design and run evaluation frameworks: test sets, scoring, regression suites and benchmarks that track agent quality over time.
+Write verification contracts with product and engineering, setting the bar an agent capability must clear before release.
+Build independent checking into delivery pipelines, separate from the agent that did the work, with automated checks first and human sign-off where the stakes are high.
+Define review patterns for agent work, such as independent reviewer agents, cross-model review and test-first loops, and decide when each applies.
+Work with engineering certification to verify AI-produced work against the relevant codes
+
+
+
+
+What you bring
+
+Senior experience in software quality, test engineering or ML evaluation, and a record of shipping complex systems.
+Hands-on experience evaluating LLMs or agents, including both hosted and open-weight models.
+Rigour, with the judgement to know where automated checks are enough and where a human needs to sign off.
+Current, practical experience building with frontier AI, in a day job, a side project or open source.
+A wish to build something from the start, with real ownership.
+
+
+
+
+Nice to have
+
+Experience with structural or engineering design codes
+Knowledge of the construction industry, especially cold-formed steel framing or engineering software.
+
+
+
+
+Who We Are – FRAMECAD
+
+We are a technology company that has been changing how the world builds for 38 years. We're a global business operating on six continents, and our solutions are proven and trusted by industry-leading builders in over 110 countries.
+
+
+
+
+We do what few companies can: we cover the whole journey from idea to building.
+
+
+
+
+Design software that connects the designer's vision to the factory floor.
+Manufacturing equipment of the highest quality, which turns those designs into precise components on site or in the factory.
+Cloud business systems that connect the whole operation, from quote to production to delivery.
+Custom-designed components built for the job at hand.
+Hands-on servicing, training and support, so our customers succeed long after the machine is installed.
+
+
+
+
+Together, these power faster, more cost-efficient and more consistent building than traditional approaches. Our solutions are behind homes, commercial buildings, military facilities and government projects around the world, and many of the industry's leading companies choose FRAMECAD as their partner. We believe our technology can revolutionise construction, and we prove it every day.
+
+
+
+
+What we offer:
+
+As well as the opportunity to work on the future, we offer a great modern office environment, working flexibility, an onsite gym, competitive pay, catering and refreshments regularly, and all of the support you will need to be successful in this role.
+
+
+
+
+For more information about our business and what we do, please follow these links below:
+
+
+
+
+Steel Framing: A Smarter Way to Build with FRAMECAD
+
+https://www.youtube.com/watch?v=tFD1e3Mrf3c
+
+
+
+
+The FRAMECAD Steel Framing Ecosystem: Design. Manufacture. Build.
+
+https://www.youtube.com/watch?v=2uZ17LkqNMk
+
+
+
+
+Website
+
+https://www.framecad.com/
+
+
+
+
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Industries
+Construction
+  
+
+Referrals increase your chances of interviewing at FRAMECAD by 2x
+
+See who you know
+
+Get notified about new Lead Technician jobs in Auckland, Auckland, New Zealand.
+
+Sign in to create job alert
+Similar jobs
+AI Tech Lead, Agent Orchestration & Enablement
+AI Tech Lead, Agent Orchestration & Enablement
+FRAMECAD
+Auckland, Auckland, New Zealand
+21 hours ago
+AI Tech Lead, Agent Data & Context Platform
+AI Tech Lead, Agent Data & Context Platform
+FRAMECAD
+Auckland, Auckland, New Zealand
+1 day ago
+AI Engineering Team Lead
+AI Engineering Team Lead
+Deloitte
+Auckland, Auckland, New Zealand
+1 week ago
+Director, AI Special Projects \ ArchiPro | AI-Native Technology | Product Innovation | Global
+Director, AI Special Projects \ ArchiPro | AI-Native Technology | Product Innovation | Global
+ArchiPro
+Auckland, New Zealand
+NZ$160,000 - NZ$220,000
+1 week ago
+AI Knowledge Engineer - Applied Intelligence
+AI Knowledge Engineer - Applied Intelligence
+Fusion5
+Auckland, New Zealand
+1 week ago
+Senior AI Engineer
+Senior AI Engineer
+KPMG New Zealand
+Auckland, Auckland, New Zealand
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Data Quality Technical Lead
+Data Quality Technical Lead
+
+Fonterra
+
+Auckland, Auckland, New Zealand
+1 week ago
+Software Consultant
+Software Consultant
+
+ASB Bank
+
+Auckland, New Zealand
+1 week ago
+Auckland Talent Pool - Expression of Interest
+Auckland Talent Pool - Expression of Interest
+
+TTC Global
+
+Auckland, Auckland, New Zealand
+1 week ago
+Principal Measurement Scientist
+Principal Measurement Scientist
+
+Tracksuit
+
+Auckland, Auckland, New Zealand
+A$178,000 - A$220,000
+1 month ago
+Principal Data Scientist
+Principal Data Scientist
+
+University of Auckland
+
+Auckland, Auckland, New Zealand
+1 week ago
+Test Lead / Business Analyst
+Test Lead / Business Analyst
+
+Perpetual Guardian
+
+Auckland, Auckland, New Zealand
+1 week ago
+Principal Product Manager
+Principal Product Manager
+
+Tactiq
+
+Auckland, Auckland, New Zealand
+10 months ago
+Junior AI Integration Engineer
+Junior AI Integration Engineer
+
+ZURU
+
+Auckland, Auckland, New Zealand
+1 week ago
+Engineering Team Lead
+Engineering Team Lead
+
+Optimal
+
+Auckland, New Zealand
+1 week ago
+Cloud Solution Architect (CSA)
+Cloud Solution Architect (CSA)
+
+Microsoft
+
+Auckland, Auckland, New Zealand
+2 weeks ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at FRAMECAD
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
