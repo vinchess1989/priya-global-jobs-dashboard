@@ -1,9 +1,9 @@
 {
   "pid": 30444,
   "started_at": "2026-11-26T01:12:54+02:00",
-  "heartbeat_at": "2026-11-26T01:39:34+02:00",
+  "heartbeat_at": "2026-11-26T01:43:26+02:00",
   "phase": "reviewing",
-  "detail": "Release Manager",
-  "last_scrape_ok_at": "2026-11-26T01:38:37+02:00",
+  "detail": "Technical Writer \u2013 Perth",
+  "last_scrape_ok_at": "2026-11-26T01:42:28+02:00",
   "last_error": null
 }
