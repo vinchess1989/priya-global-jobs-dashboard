@@ -1,0 +1,199 @@
+Title: DevOps Engineer — WEST
+Company: Combuilder Pte Ltd
+Location: Singapore, Singapore
+URL: https://sg.linkedin.com/jobs/view/devops-engineer-%E2%80%94-west-at-combuilder-pte-ltd-4493050987
+Posted: 2026-11-26
+Deadline: Open until filled
+Reason: The role aligns with the candidate's extensive experience in DevOps, CI/CD pipeline management, and release automation, and it is located in a target country (Singapore) with no explicit visa restrictions mentioned.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer — WEST
+Combuilder Pte Ltd  Singapore, Singapore
+23 hours ago   Be among the first 25 applicants
+  
+
+See who Combuilder Pte Ltd has hired for this role
+
+Apply 
+Save
+Responsibilities
+
+
+Design, implement and manage containerised infrastructure using Kubernetes or OpenShift.
+Build and maintain CI/CD pipelines using Azure DevOps, including automated testing, security scanning and deployment.
+Deploy and manage applications using Kubernetes manifests (YAML) and GitOps practices.
+Lead and support the migration of VM-based applications to Kubernetes/OpenShift, including refactoring, containerisation and deployment.
+Collaborate with development and infrastructure teams to streamline application delivery and improve system reliability.
+Monitor, troubleshoot and optimise infrastructure performance and availability.
+Contribute to DevOps best practices, technical documentation and tooling improvements.
+
+
+Requirements
+
+
+Minimum 3 years of experience in DevOps, Site Reliability Engineering (SRE) or Infrastructure Engineering.
+Strong hands-on experience with Kubernetes and OpenShift in production environments.
+Proven experience in migrating VM-based applications to containers, including architectural planning and execution.
+Proficiency in Azure DevOps, CI/CD pipeline development, release management and automation.
+Experience with Kubernetes manifests and YAML configurations.
+Familiarity with Terraform, Helm or Ansible.
+Strong scripting skills in Bash or Python.
+Knowledge of monitoring and logging tools such as Prometheus, Grafana or ELK.
+Kubernetes or Red Hat OpenShift certifications would be advantageous.
+Experience with GitLab Ultimate CI/CD, ArgoCD, cloud platforms (Azure, AWS or GCP), container security and compliance, or SAST/DAST tools would be an added advantage.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT System Custom Software Development
+  
+
+Referrals increase your chances of interviewing at Combuilder Pte Ltd by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Singapore, Singapore.
+
+Sign in to create job alert
+Similar jobs
+DevOps Engineer
+DevOps Engineer
+BIT Official
+Singapore, Singapore
+1 week ago
+DevOps Engineer
+DevOps Engineer
+Capgemini
+Singapore
+3 months ago
+DevOps Engineer
+DevOps Engineer
+Capgemini Engineering
+Singapore
+2 months ago
+DevOps Engineer
+DevOps Engineer
+Hytech
+Singapore
+1 month ago
+Infra DevOps Engineer
+Infra DevOps Engineer
+BIT Official
+Singapore, Singapore
+3 weeks ago
+DevOps Engineer
+DevOps Engineer
+Merquri
+Singapore, Singapore
+2 weeks ago
+Show more jobs like this 
+People also viewed
+DevOps Engineer (Gitlab)
+DevOps Engineer (Gitlab)
+
+InfoCepts
+
+Singapore, Singapore
+3 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Singtel
+
+Singapore, Singapore
+1 week ago
+DevOps / SRE Engineer Singapore
+DevOps / SRE Engineer Singapore
+
+Nicoll Curtin
+
+Singapore, Singapore
+1 week ago
+App DevOps
+App DevOps
+
+StarHub
+
+Singapore, Singapore
+2 weeks ago
+DevOps Engineer
+DevOps Engineer
+
+Mav3rik
+
+Singapore
+6 months ago
+DevOps Engineer (Gaming)
+DevOps Engineer (Gaming)
+
+Pivot Search
+
+Singapore, Singapore
+6 days ago
+DevOps工程师/运维开发工程师
+DevOps工程师/运维开发工程师
+
+Manus AI
+
+Singapore, Singapore
+2 days ago
+Site Reliability Engineer (Cloud) - Infrastructure Engineering
+Site Reliability Engineer (Cloud) - Infrastructure Engineering
+
+ByteDance
+
+Singapore, Singapore
+3 weeks ago
+Platform Engineer
+Platform Engineer
+
+Vitol
+
+Singapore, Singapore
+4 days ago
+DevOps Engineer (Production & Application Support)
+DevOps Engineer (Production & Application Support)
+
+Ascendion
+
+Singapore, Singapore
+5 days ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Combuilder Pte Ltd
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
