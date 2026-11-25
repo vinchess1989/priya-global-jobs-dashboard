@@ -1,0 +1,267 @@
+Title: Head of Quality Assurance (QA)
+Company: Twin Harbour Interactive
+Location: Sliema, Sliema, Malta
+URL: https://mt.linkedin.com/jobs/view/head-of-quality-assurance-qa-at-twin-harbour-interactive-4492683714
+Posted: 2026-11-25
+Deadline: Open until filled
+Reason: The role aligns with the candidate's extensive experience in quality assurance, release management, and team leadership within a professional, English-speaking environment in Malta.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Head of Quality Assurance (QA)
+Twin Harbour Interactive  Sliema, Sliema, Malta
+15 hours ago   Be among the first 25 applicants
+  
+
+See who Twin Harbour Interactive has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Direct message the job poster from Twin Harbour Interactive
+
+Lisa Stick
+Lisa Stick
+
+Join us as Head of QA on our existing and upcoming games!
+
+For fifteen years, the Supremacy Franchise has earned its players' trust one campaign at a time - over 90 million players lifetime, 2.2 million monthly active users, and 300,000+ concurrent commanders at peak. The franchise spans four live titles: Supremacy: 1914, Supremacy: Call of War 1942, Supremacy: WW3, and Supremacy: Warhammer 40,000. Each has its own community, its own codebase history, and its own technical challenges.
+
+Our engineering direction is built on four principles:
+
+Shipping: deliver more value to players, faster
+Stability: everyone owns the quality of what they ship
+Security: proactive and measurable, a design consideration not an afterthought
+Sustainability: healthy teams ship better games; we build for the long term, not the deadline.
+
+Quality is where Stability becomes real - defining "done" to include quality, testing early and often, and treating incidents as learning, not blame.
+
+As Head of QA at Twin Harbour Interactive, you own the answer to one question across four live titles: is this actually ready for players? Not code correctness, but product and player quality, the experience millions of commanders live in every day. You're the person who makes sure quality is a voice in the room before commitments are made, not a fire drill after they are.
+
+This is a leadership role reporting directly to the VP Technology, and it's a people-leadership role at its core. You lead the QA discipline - QA Leads, Specialists, and Automation Engineers - and you own the career frameworks, performance, and quality bar for QA across the franchise. Your job is to build QA professionals up: to treat QA as its own craft with its own depth and career path, not a stepping stone into something else and not an afterthought bolted onto delivery. Everyone here owns the quality of what they ship - that's a founding principle - but you are the person accountable and responsible for it. You partner closely with the Heads of Disciplines and Heads of Product. You build QA Leads & Specialists who can run their own teams without leaning on you, rather than being the bottleneck every quality call routes through.
+
+This is a newly created role, so you'll have real room to shape what QA becomes here.
+
+
+
+
+YOUR MISSION
+
+Coach and grow the QA Leads - build each title's QA Lead into someone who can run their own team's capability and autonomy, not someone who relies on you to make the calls. Your leverage is their strength.
+Own QA staffing across all titles - allocate coverage where it matters and surface coverage gaps and single points of failure before they become crises. You arbitrate QA staffing when titles compete for the same people.
+Set and hold the product and player quality bar - define what quality means for the player experience, distinct from code quality, and give leads the authority and the expectations to hold it in practice across Android, iOS, and web.
+Own careers and performance for QA - the career frameworks, performance, and growth of every QA engineer and lead across the franchise, held to one consistent standard.
+Define the QA operating model - the structures, processes, and tools QA teams work within, kept light enough to move fast and robust enough to hold standards across all four titles at once.
+Make quality risk visible early - be the player's advocate in cross-department conversations, so quality risk is on the table before commitments are made, not surfaced after the fact.
+Push QA automation forward as a core priority - drive the franchise toward automating everything that can be automated, so specialists spend their time on the problems only humans can catch. This is a headline expectation of the role, not a background task - you set the automation strategy and hold teams to advancing it.
+Make QA data-driven - move QA from gut feel to evidence, backed by metrics like defect density, test coverage, and escape rate, and use that data to change how teams work and what leadership funds.
+Own external testing partners and vendors - build and manage the relationships that scale coverage up and down through outsourced or on-demand capacity, and hold those partners to the same quality bar as your in-house teams.
+
+
+
+
+YOUR BACKSTORY
+
+Proven experience leading QA at scale across multiple teams, products, or titles - owning the quality bar as an outcome, not a checklist.
+Building and coaching QA leads and managers comes naturally, with a focus on growing their judgment and autonomy over centralizing decisions.
+Capable of defining test strategies, coverage standards, and quality gates that stick across direct reports as well as partner teams influenced without direct oversight.
+You run QA on evidence - deep fluency in metrics like defect density, escape rate, and coverage directly shapes how teams work and what leadership funds.
+You've driven QA automation as a strategy, not a side project, rooted in a clear understanding of where automated frameworks yield strong ROI and where manual testing remains essential.
+You make quality risk legible to non-QA stakeholders - product, engineering, leadership - and you hold the player's corner in rooms where trade-offs get decided.
+Acts as a trusted, straight-talking communicator who upholds standards through credibility and influence, escalating cleanly whenever a high-level trade-off call is required.
+You've managed external testing partners and vendors - scaling coverage up and down through outsourced or on-demand capacity while holding outsourced teams to the exact same bar as in-house talent.
+Experience with live-service games, ideally F2P or long-running titles, and an understanding of what quality means for a game players return to for years.
+Fluent English language skills, verbal and written.
+
+
+
+
+NICE TO HAVE
+
+Firsthand experience testing across frontend, backend, and game server, and across both mobile and web - with an understanding of how quality risk differs at each layer and on each platform. The specific languages matter far less than knowing where things break.
+Experience integrating AI into QA workflows - automated test generation, AI-assisted triage, or evaluation - beyond ad-hoc prompting.
+Experience holding a quality standard across a mix of shared and independent codebases, where some tech is common across titles and some is owned outright by each team.
+
+
+
+
+Why You'll Love Working With Us
+
+A Global Team, A Shared Purpose
+
+Our strength lies in our diversity. With over 30 nationalities represented across our two locations, we’re united by a shared passion for strategy games and a bold vision for the future. We celebrate what makes each of us unique – our perspectives, our stories, and the paths that led us here.
+
+Work Your Way
+
+Whether you're crafting code from a harbor-view desk in Hamburg or fine-tuning design details under the Maltese sun, we support flexible hybrid work models that empower you to do your best work – wherever you are.
+
+Grow With Us
+
+At Twin Harbour, your journey matters. Our Career Path Framework and mentorship culture provide the clarity and feedback you need to take the next step – whether you’re deepening your expertise or branching into new disciplines. We invest in your growth with language courses, e-learning platforms, and support for conferences and training.
+
+We’re Human First
+
+We believe that great teams are built on trust, respect, and good humor. From game nights to casual drinks, quiz nights, and karaoke, we don’t just work together – we connect, play, and support each other like a true crew.
+
+Join Twin Harbour Interactive
+
+Where Strategy Meets Vision.
+
+Twin Harbour Interactive is a global strategy game powerhouse, shaping the future of long-term multiplayer gaming. With offices in Hamburg and Malta, we design strategy games that bring people together – across borders and generations.
+
+Whether you’re an expert tactician or an imaginative world-builder, there’s a place here for you to grow, thrive, and leave your mark.
+
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Industries
+Computer Games
+  
+
+Referrals increase your chances of interviewing at Twin Harbour Interactive by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Lead QA Specialist - Supremacy: World War 3
+Lead QA Specialist - Supremacy: World War 3
+Twin Harbour Interactive
+Valletta, Malta
+5 days ago
+QA Team Lead
+QA Team Lead
+Platin Gaming Ltd.
+Malta
+1 month ago
+Chief Officer - Executive Affairs and Quality Assurance
+Chief Officer - Executive Affairs and Quality Assurance
+Malta Financial Services Authority (MFSA)
+Malta
+5 days ago
+Lead Manual QA
+Lead Manual QA
+Konnekt
+Saint Julian's, Malta
+2 weeks ago
+Junior QA Tester
+Junior QA Tester
+Platin Gaming Ltd.
+Malta
+1 month ago
+Quality Assurance Executive
+Quality Assurance Executive
+CARMA
+Santa Venera, Santa Venera, Malta
+5 days ago
+Show more jobs like this 
+People also viewed
+Head of Compliance
+Head of Compliance
+
+Prime Entertainment
+
+Saint Julian's, Malta
+4 days ago
+Audit Quality Executive
+Audit Quality Executive
+
+BDO Malta
+
+Msida, Malta
+1 month ago
+Director Engineering
+Director Engineering
+
+Nium
+
+Malta
+1 week ago
+ISO Advisor & Auditor
+ISO Advisor & Auditor
+
+Luke Desira Official
+
+Valletta, Malta
+12 hours ago
+Head of Risk and Controls
+Head of Risk and Controls
+
+Vista
+
+Luqa, Luqa, Malta
+1 week ago
+Head of Experience - Fraud Risk & AML
+Head of Experience - Fraud Risk & AML
+
+LeoVegas Group
+
+Sliema, Sliema, Malta
+6 days ago
+Senior Associate - Quality Control
+Senior Associate - Quality Control
+
+Financial Intelligence Analysis Unit (FIAU) Malta
+
+Birkirkara, Malta
+6 days ago
+Head of Operations
+Head of Operations
+
+ARRISE
+
+Sliema, Sliema, Malta
+6 days ago
+Head of Customer Service
+Head of Customer Service
+
+Interact
+
+Saint Julian's, Malta
+6 days ago
+Operations Director
+Operations Director
+
+Methode Electronics
+
+Birkirkara, Malta
+3 weeks ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+You’re signed out
+Sign in for the full experience.
+Sign in Join now

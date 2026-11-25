@@ -1,0 +1,410 @@
+Title: QE Technical Lead – Salesforce & Copado
+Company: Inspired Testing
+Location: Gauteng, South Africa
+URL: https://za.linkedin.com/jobs/view/qe-technical-lead-%E2%80%93-salesforce-copado-at-inspired-testing-4492688286
+Posted: 2026-11-25
+Deadline: N/A
+Reason: The role aligns perfectly with her background in Salesforce, CI/CD, and quality engineering, and South Africa is one of her target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+QE Technical Lead – Salesforce & Copado
+Inspired Testing  Gauteng, South Africa
+16 hours ago   Be among the first 25 applicants
+  
+
+See who Inspired Testing has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Direct message the job poster from Inspired Testing
+
+Jessica Nicholson (Claassens)
+Jessica Nicholson (Claassens)
+
+Job Title: QE Technical Lead – Salesforce & Copado
+
+Level: Lead / Architect
+
+Location: Gauteng
+
+
+
+
+About the Role
+
+Inspired Testing is looking for a hands-on QE Technical Lead with strong Salesforce, Copado and automation architecture experience to establish and technically lead the Quality Engineering capability for a major Salesforce transformation within financial services.
+
+This is not a traditional functional Test Lead role. The successful candidate will take ownership of the Quality Engineering strategy, automation architecture and framework, and establish the engineering standards, reference patterns and continuous-testing controls that will underpin delivery across Salesforce, APIs, integrations, data and downstream enterprise systems.
+
+The role requires someone who has previously established Quality Engineering and test automation from the ground up for a major Salesforce implementation or transformation. The QE Technical Lead will remain hands-on during mobilisation and initial framework implementation, then provide technical direction to the Senior and Intermediate Quality Engineers who will scale the capability across multiple delivery streams.
+
+
+
+
+Key Responsibilities
+
+Quality Engineering Strategy & Architecture
+
+• Own and establish the Quality Engineering and technical test strategy for the Salesforce transformation.
+
+• Translate business journeys, solution architecture and integration dependencies into a risk-based, multi-layered quality approach.
+
+• Define how quality will be engineered across Salesforce, APIs, integrations, services, data and downstream enterprise systems.
+
+• Establish technical quality gates, engineering standards, reusable patterns and governance controls for concurrent delivery streams.
+
+• Identify architecture, integration, testability, environment and data risks early and drive their resolution with engineering and delivery teams.
+
+
+
+
+Automation Strategy & Framework Ownership
+
+• Own the automation strategy, architecture and framework from inception.
+
+• Remain hands-on during mobilisation and initial implementation, creating the framework foundations, reference implementations and reusable components that the wider Quality Engineering team will extend.
+
+• Determine the appropriate balance across UI, API, service, contract, integration, component, data and selective end-to-end automation.
+
+• Establish coding standards, framework conventions, test-data patterns, execution approaches, reporting and evidence requirements.
+
+• Ensure the framework is scalable, maintainable and suitable for multiple Salesforce delivery streams and significant integration complexity.
+
+• Technically direct Senior and Intermediate Quality Engineers as automated coverage is implemented and scaled.
+
+
+
+
+Salesforce Test Automation
+
+• Establish the Quality Engineering and automation approach for a major Salesforce implementation or transformation rather than operating only within an inherited mature framework.
+
+• Lead quality engineering across complex Salesforce business journeys, Lightning Experience, Lightning Web Components, configuration, customisation, APIs, integrations and data flows.
+
+• Understand the testing implications of Apex, Visualforce, SOQL, platform configuration and custom development.
+
+• Work with Salesforce Developers and Solution Architects to improve testability, coverage and engineering quality at the appropriate layer.
+
+• Ensure end-to-end business journeys are validated across Salesforce and connected enterprise systems without over-relying on slow, brittle UI automation.
+
+
+
+
+Copado DevOps & CI/CD
+
+• Own the integration of automated quality engineering into the Salesforce and Copado delivery lifecycle.
+
+• Use Copado to support Salesforce CI/CD, deployment validation, release automation and continuous testing across environments.
+
+• Define how the automation framework integrates with Copado pipelines, source control, deployment stages and release quality gates.
+
+• Establish automated checks across pull requests, builds, deployments and releases, including appropriate smoke, integration and regression execution.
+
+• Apply strong Git-based practices, including branching, pull requests, code review and traceable promotion of test assets.
+
+• Ensure pipeline failures are diagnosable and automated feedback remains stable, timely and valuable.
+
+
+
+
+API & Integration Testing
+
+• Define and lead API, service, contract, integration and data-validation approaches across Salesforce and connected enterprise systems.
+
+• Validate REST and SOAP APIs, data exchange, business rules and end-to-end integration workflows.
+
+• Use SQL and SOQL for backend validation and data-integrity checks.
+
+• Determine where mocks, stubs, service virtualisation and synthetic data are required to provide reliable feedback.
+
+
+
+
+Quality Engineering Leadership & Collaboration
+
+• Act as the technical authority for Quality Engineering within the transformation.
+
+• Lead the technical direction of Senior and Intermediate Quality Engineers and review framework, pipeline and automation changes.
+
+• Coach engineers in automation architecture, Salesforce testing, API and integration quality, data validation and failure diagnosis.
+
+• Collaborate with Developers, Salesforce Specialists, Solution Architects, DevOps Engineers, Product Owners, Business Analysts and programme stakeholders.
+
+• Convert strategy into working frameworks, standards, reference implementations and measurable engineering capability.
+
+• Communicate technical risks, trade-offs and recommendations clearly to technical and senior business stakeholders.
+
+
+
+
+Essential Skills & Experience
+
+To be successful in this role, you must have:
+
+• Proven experience as a QE Technical Lead, Quality Engineering Architect, Automation Architect or hands-on Quality Engineering Technical Lead.
+
+• Proven experience establishing a Quality Engineering and test automation capability from the ground up.
+
+• Proven ownership of automation strategy, architecture, framework implementation and CI/CD integration.
+
+• Significant experience establishing Quality Engineering and automation for a major Salesforce implementation or transformation.
+
+• Strong Salesforce Quality Engineering experience across Lightning, configuration, custom development, APIs, integrations and data.
+
+• Strong hands-on Copado experience within a Salesforce DevOps and CI/CD environment.
+
+• Strong hands-on Playwright automation experience, preferably using C#/.NET.
+
+• Experience with NUnit and Reqnroll/SpecFlow or equivalent BDD and test-runner tooling.
+
+• Strong API, service, integration and data-layer automation experience.
+
+• Strong SQL and SOQL capability for backend and data validation.
+
+• Experience with Azure DevOps, Git, pull requests, code review, pipeline integration and automated quality gates.
+
+• Experience designing frameworks for maintainability, scalability, isolation, synchronisation, parallel execution, test data and reporting.
+
+• Experience technically leading Quality Engineers, Automation Engineers or SDETs and developing engineering capability through others.
+
+• Excellent communication, stakeholder engagement, analytical and problem-solving skills.
+
+
+
+
+Skills & Experience
+
+The following would be beneficial:
+
+• Experience in banking, corporate and investment banking, or a similarly regulated financial-services environment.
+
+• Salesforce certifications such as Platform Administrator, Platform App Builder or Platform Developer.
+
+• Copado DevOps certifications.
+
+• Experience with Copado Robotic Testing or Provar.
+
+• Knowledge of Salesforce DX, Apex and Lightning Web Components.
+
+• Experience with service virtualisation, mocks, stubs and synthetic test data.
+
+• Experience establishing Quality Engineering standards across multiple concurrent delivery streams.
+
+
+
+
+Qualifications
+
+A relevant qualification in Information Technology, Computer Science, Software Engineering or a related field is advantageous. Equivalent practical experience will also be considered. ISTQB Foundation certification or an equivalent recognised software testing certification is preferred.
+
+
+
+
+What We're Looking For
+
+We are looking for a technical leader who can establish the Quality Engineering foundations of a major Salesforce transformation, not simply manage test execution or maintain an existing automation suite.
+
+You will thrive in this role if you:
+
+• Can move from architecture and strategy into hands-on framework implementation and working reference solutions.
+
+• Understand how Salesforce, Copado, APIs, integrations, data and CI/CD work together to provide continuous quality feedback.
+
+• Can make clear decisions about what should be automated at UI, API, integration, component and data layers.
+
+• Take ownership of complex technical challenges and make risks, constraints and trade-offs visible.
+
+• Balance long-term engineering quality with practical delivery requirements.
+
+• Build capability through standards, code review, pairing, coaching and deliberate delegation.
+
+• Influence Developers, Architects, DevOps teams and senior stakeholders with credible technical judgement.
+
+• Are comfortable working in a fast-paced transformation with concurrent workstreams and significant integration complexity.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Other
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at Inspired Testing by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Quality Engineering Manager jobs
+QE Technical Lead – Salesforce & Copado
+Similar jobs
+Senior Quality Engineer – Salesforce & Copado
+Senior Quality Engineer – Salesforce & Copado
+Inspired Testing
+Gauteng, South Africa
+1 day ago
+Quality Engineering Lead
+Quality Engineering Lead
+X, bigly labs
+Johannesburg, Gauteng, South Africa
+1 month ago
+Automation Test Engineer
+Automation Test Engineer
+Samaha Consulting
+Johannesburg Metropolitan Area
+6 days ago
+Senior Test Analyst
+Senior Test Analyst
+Reverside
+Johannesburg, Gauteng, South Africa
+1 week ago
+Software Test Engineer (Manual & Automation)
+Software Test Engineer (Manual & Automation)
+Metamorph
+Johannesburg Metropolitan Area
+1 day ago
+Automation Test Analyst
+Automation Test Analyst
+Zensar Technologies
+Sandton, Gauteng, South Africa
+2 weeks ago
+Show more jobs like this 
+People also viewed
+System and Automation Test Engineer
+System and Automation Test Engineer
+
+Wabtec Corporation
+
+Pretoria, Gauteng, South Africa
+1 day ago
+Senior Java Automation Engineer
+Senior Java Automation Engineer
+
+DeARX
+
+Sandton, Gauteng, South Africa
+6 days ago
+Forwarded Deployed Engineer
+Forwarded Deployed Engineer
+
+Salesforce
+
+Johannesburg, Gauteng, South Africa
+2 weeks ago
+General Manager Quality Assurance
+General Manager Quality Assurance
+
+Rich Products Corporation
+
+City of Johannesburg, Gauteng, South Africa
+2 weeks ago
+Domain Architect: Customer and Operations (Salesforce)
+Domain Architect: Customer and Operations (Salesforce)
+
+Old Mutual South Africa
+
+City of Johannesburg, Gauteng, South Africa
+3 weeks ago
+Lead Solution Engineer
+Lead Solution Engineer
+
+Salesforce
+
+Johannesburg, Gauteng, South Africa
+1 week ago
+QA Specialist QESH
+QA Specialist QESH
+
+The HEINEKEN Company
+
+Johannesburg, Gauteng, South Africa
+6 days ago
+Supervisor: Laboratory
+Supervisor: Laboratory
+
+Premier FMCG (Pty) Ltd
+
+Pretoria, Gauteng, South Africa
+1 day ago
+Engineering Lead – Digitization & Automation
+Engineering Lead – Digitization & Automation
+
+DeARX
+
+Sandton, Gauteng, South Africa
+6 days ago
+Posting template questions test
+Posting template questions test
+
+Lever Middleware Test Company
+
+Johannesburg, Gauteng, South Africa
+1 year ago
+Similar Searches
+Quality Engineering Manager jobs
+307 open jobs
+Software Test Lead jobs
+53 open jobs
+Software Integrator jobs
+13 open jobs
+Test Coordinator jobs
+87 open jobs
+Senior Quality Engineer jobs
+85 open jobs
+Principal Process Engineer jobs
+15 open jobs
+Access Engineer jobs
+32 open jobs
+Data Quality Manager jobs
+93 open jobs
+Automation Test Analyst jobs
+116 open jobs
+Process Improvement Engineer jobs
+210 open jobs
+Test Architect jobs
+201 open jobs
+Quality Assurance Manager jobs
+217 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+You’re signed out
+Sign in for the full experience.
+Sign in Join now

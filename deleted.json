@@ -32128,5 +32128,22 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": null,
     "deletion_reason": "Deadline (2025-12-20) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Associate/Minerals Advisor (Permanent and Fixed-Term)",
+    "company": "Ministry of Business, Innovation and Employment",
+    "location": "Wellington, Wellington, New Zealand",
+    "url": "https://nz.linkedin.com/jobs/view/associate-minerals-advisor-permanent-and-fixed-term-at-ministry-of-business-innovation-and-employment-4494100076",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job explicitly requires the legal right to live and work in New Zealand, which the candidate does not currently possess, and it does not offer visa sponsorship.",
+    "id": "742e7bc3",
+    "source": "linkedin_nz_eu_mdr",
+    "added_at": "2026-11-25T02:18:29+02:00",
+    "posted_date": "2026-11-25",
+    "deadline": "2025-12-07",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Deadline (2025-12-07) passed by more than 2 days and unreviewed"
   }
 ]
