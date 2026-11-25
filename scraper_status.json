@@ -1,9 +1,9 @@
 {
   "pid": 30444,
   "started_at": "2026-11-26T01:12:54+02:00",
-  "heartbeat_at": "2026-11-26T01:36:57+02:00",
+  "heartbeat_at": "2026-11-26T01:39:34+02:00",
   "phase": "reviewing",
-  "detail": "Process Engineering Manager",
-  "last_scrape_ok_at": "2026-11-26T01:35:16+02:00",
+  "detail": "Release Manager",
+  "last_scrape_ok_at": "2026-11-26T01:38:37+02:00",
   "last_error": null
 }
