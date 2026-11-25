@@ -32400,5 +32400,22 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": null,
     "deletion_reason": "Deadline (2025-12-09) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Delivery Lead",
+    "company": "Contact Energy Ltd",
+    "location": "Wellington, Wellington, New Zealand",
+    "url": "https://nz.linkedin.com/jobs/view/delivery-lead-at-contact-energy-ltd-4494477904",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job posting explicitly states that only candidates with the right to live and work in New Zealand will be considered, and the candidate requires visa sponsorship.",
+    "id": "8568d932",
+    "source": "linkedin_nz_release_manager",
+    "added_at": "2026-11-26T01:45:21+02:00",
+    "posted_date": "2026-11-26",
+    "deadline": "2025-12-09",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Deadline (2025-12-09) passed by more than 2 days and unreviewed"
   }
 ]
