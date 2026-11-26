@@ -1,0 +1,227 @@
+Title: Senior Platform Engineer, Cloud Infrastructure - Leading Fintech Firm - Claude Code/ AWS/ K8s/ Terraform/ ArgoCD/ IaC  - Perm (Based in HK) - HKD 1.2 - 1.4Mil
+Company: PrimePeak Group
+Location: Hong Kong, Hong Kong SAR
+URL: https://hk.linkedin.com/jobs/view/senior-platform-engineer-cloud-infrastructure-leading-fintech-firm-claude-code-aws-k8s-terraform-argocd-iac-perm-based-in-hk-hkd-1-2-1-4mil-at-primepeak-group-4494319519
+Posted: 2026-11-27
+Deadline: Open until filled
+Reason: The role aligns with the candidate's extensive DevOps and CI/CD experience, is located in a target country (Hong Kong), and does not trigger any hard rejections.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Platform Engineer, Cloud Infrastructure - Leading Fintech Firm - Claude Code/ AWS/ K8s/ Terraform/ ArgoCD/ IaC - Perm (Based in HK) - HKD 1.2 - 1.4Mil
+PrimePeak Group  Hong Kong, Hong Kong SAR
+14 hours ago   Be among the first 25 applicants
+  
+
+See who PrimePeak Group has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+PrimePeak Group provided pay range
+
+This range is provided by PrimePeak Group. Your actual pay will be based on your skills and experience — talk with your recruiter to learn more.
+
+Base pay range
+HK$1,000,000.00/yr - HK$1,200,000.00/yr
+
+Background: My client is a market leading financial products platform in Asia, with 200+ commercial partners across Singapore, Hong Kong, Philippines, Taiwan, and Malaysia. They are now looking for an expertise Platform Engineer to play a pivotal role in shaping and managing the infrastructure that powers their services and applications.
+
+
+
+
+Responsibilities:
+
+Design, implement, and manage scalable and secure AWS infrastructure, utilizing services such as EC2, S3, Lambda, RDS, and VPCs. Ensure high availability, fault tolerance, and disaster recovery capabilities are built into the infrastructure.
+Develop and maintain Terraform configurations to automate the provisioning and management of cloud resources, ensuring consistency, scalability, and repeatability across environments.
+Build and optimize CI/CD pipelines to automate the testing, deployment, and monitoring of applications. Integrate with tools such as Jenkins, GitLab CI, or CircleCI to streamline development and deployment workflows.
+Manage and scale Kubernetes clusters for containerized applications. Oversee the deployment, scaling, and operation of Kubernetes workloads across multiple environments, ensuring applications are running efficiently and securely.
+Use ArgoCD to manage continuous delivery and GitOps workflows, ensuring seamless, automated application deployments and updates to Kubernetes clusters.
+Implement monitoring, logging, and alerting systems to track infrastructure health and application performance. Utilize tools like Prometheus, Grafana, CloudWatch, or ELK Stack to provide visibility and identify potential issues before they impact the business.
+Implement cloud security best practices, manage IAM roles and policies, and ensure compliance with industry standards and regulations. Safeguard sensitive data through encryption and access controls.
+Work closely with development, DevOps, and operations teams to continuously improve infrastructure processes, performance, and automation. Identify opportunities for cost optimization and infrastructure scaling to meet changing business demands.
+Provide expert-level support and troubleshooting for infrastructure and cloud-related issues, ensuring fast resolution and minimal downtime.
+
+
+
+
+Requirements:
+
+Capable in taking up as an independent contributor (Team core member) role with minimal supervision and confident in operating.
+12-15+ years of relevant Platform Engineering/ DevOps experience AND 5+ years of Direct Kubernetes design, setup, build and configuration experience
+Hands-on experience in designing, building, and operating Kubernetes clusters (e.g., EKS or self-managed Kubernetes)
+Highly familiar with AI-powered coding tools such as Claude Code, Cursor, GitHub Copilot, or other similar tools
+Strong, solid and practical experience in Kubernetes, ArgoCD, and Terraform
+Hands-on experience with AWS services (EC2, S3, Lambda, RDS, etc.) and cloud infrastructure management. (MUST)
+Proficiency in Infrastructure as Code (IaC) with Terraform for provisioning and managing cloud resources.
+Experience with CI/CD tools (Jenkins, GitLab CI, CircleCI, etc.) and the automation of application deployment pipelines.
+Expertise in containerization technologies like Docker and Kubernetes.
+Familiar with infrastructure monitoring tools such as Prometheus, Grafana, CloudWatch, or similar observability platforms.
+Good to have cloud security best practices, including IAM, VPC, and network security controls.
+Excellent problem-solving and troubleshooting skills, with the ability to quickly resolve complex infrastructure issues.
+Strong communication skills in English &/or Chinese and the ability to collaborate effectively with cross-functional teams.
+
+
+
+
+Candidates who are interested in this opportunity, please apply directly by submitting your latest CV. Please note that only shortlisted candidates will be notified.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Information Services, Financial Services, and Technology, Information and Media
+  
+
+Referrals increase your chances of interviewing at PrimePeak Group by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+SearchApi
+Hong Kong, Hong Kong SAR
+5 months ago
+Principal Platform Engineer
+Principal Platform Engineer
+MoneyHero Group (Nasdaq: MNY)
+Central & Western District, Hong Kong SAR
+3 days ago
+Site Reliability Engineer - APAC
+Site Reliability Engineer - APAC
+Tyk
+Hong Kong, Hong Kong SAR
+3 months ago
+SRE/DevOps/Platform Engineer
+SRE/DevOps/Platform Engineer
+Kody
+Hong Kong, Hong Kong SAR
+1 month ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Alpaca
+Hong Kong SAR
+2 weeks ago
+(Senior) DevOps Engineer
+(Senior) DevOps Engineer
+Omnichat
+Hong Kong, Hong Kong SAR
+3 weeks ago
+Show more jobs like this 
+People also viewed
+DevOps and Site Reliability Engineer
+DevOps and Site Reliability Engineer
+
+Wizpresso 濃說
+
+Hong Kong, Hong Kong SAR
+1 month ago
+Cloud Engineer - Large Scale Financial Company
+Cloud Engineer - Large Scale Financial Company
+
+ConnectedGroup
+
+Hong Kong, Hong Kong SAR
+3 weeks ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Lane Crawford
+
+Southern District, Hong Kong SAR
+6 days ago
+Techops Engineer
+Techops Engineer
+
+Binance
+
+Central & Western District, Hong Kong SAR
+1 week ago
+Senior Site Reliability Engineer (SRE)
+Senior Site Reliability Engineer (SRE)
+
+GFT Technologies APAC & GCC
+
+Hong Kong, Hong Kong SAR
+2 weeks ago
+Senior/Staff Engineer, Core Infrastructure
+Senior/Staff Engineer, Core Infrastructure
+
+OKX
+
+Hong Kong, Hong Kong SAR
+1 week ago
+Site Reliability Engineer, Data & Observability Platform
+Site Reliability Engineer, Data & Observability Platform
+
+Pulsar
+
+Hong Kong, Hong Kong SAR
+6 days ago
+Senior IT Architect (Infra)
+Senior IT Architect (Infra)
+
+Bank of China (Hong Kong)
+
+Hong Kong SAR
+1 week ago
+Infrastructure Lead
+Infrastructure Lead
+
+Traze
+
+Hong Kong SAR
+HK$40 - HK$80
+2 days ago
+Senior Site Reliability / Gitops Engineer
+Senior Site Reliability / Gitops Engineer
+
+Canonical
+
+Hong Kong, Hong Kong SAR
+2 weeks ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
