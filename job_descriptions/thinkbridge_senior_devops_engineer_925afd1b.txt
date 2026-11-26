@@ -1,0 +1,330 @@
+Title: Senior DevOps Engineer
+Company: thinkbridge
+Location: Pune Division, Maharashtra, India
+URL: https://in.linkedin.com/jobs/view/senior-devops-engineer-at-thinkbridge-4495212580
+Posted: 2026-11-26
+Deadline: Open until filled
+Reason: The role is a strong match for her DevOps and CI/CD expertise, is located in India, and does not have any of the hard rejection criteria.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer
+thinkbridge  Pune Division, Maharashtra, India
+1 day ago  130 applicants
+  
+
+See who thinkbridge has hired for this role
+
+Apply 
+Save
+About Thinkbridge
+
+thinkbridge builds the business systems growing companies run on: ERP replacements, connected systems, AI agents inside real workflows and modernized legacy software. We have built custom software for growing companies for more than 12 years.
+
+Today we deliver every system with thinkOne, our method that pairs our experts with our agentic engineering and delivery platform. The platform writes much of the code. Our people understand the client's business, work out the right solution and take it to production. A typical system goes live in about four months. Our commitments to clients are written into the contract before a build starts.
+
+Why work at thinkbridge
+
+
+About 80% of the job is thinking and problem solving: the rest is building.
+Our clients stay with us for four to five years on average, so you get to know their business well.
+Part of the working week is set aside for learning, so it doesn't eat into your evenings.
+You can move into a different role inside thinkbridge.
+We are Great Place to Work Certified and have an employee NPS above 90. See what our people say and the industry firsts behind our certification.
+
+
+Benefits
+
+Benefits built for remote-first work
+
+
+Work from anywhere.
+Shape your day around your life, as long as the work lands on time.
+Take time off when you need it.
+A work laptop of your own, set up the way you like it within our security guidelines.
+Weeks when the team gets together in person to work side by side.
+Learning time in working hours, and paid certifications.
+
+
+Five values guide how we build for clients and how we work with each other: Outcomes, Quality, Accountability, Communication and Care.
+
+In Practice
+
+
+We take software to production.
+We check our work before anyone else has to.
+We stand by our commitments.
+We keep people informed in plain language.
+We treat a problem as ours to solve.
+
+
+We hire curious people who own the outcome.Meet the team that leads thinkbridge.
+
+About Role
+
+We are hiring a Senior DevOps Engineer with 4+ years of experience with hands-on expertise in Azure cloud infrastructure, CI/CD automation, containerization, Kubernetes, and Infrastructure as Code. Experienced in building scalable, secure, and reliable cloud environments and automating end-to-end deployment workflows.
+
+Working Hours: (6:00 PM IST to 2:00 AM or 3:00 AM IST)
+
+What You'll Do
+
+As part of the job
+
+Multi-Cloud Management
+
+
+Design, implement, and manage multi-cloud infrastructure environments (Azure Primary, AWS, Google Cloud) to support the development and deployment of our applications.
+Troubleshoot and resolve issues related to infrastructure, deployment, and performance across multiple cloud platforms.
+Work closely with security teams to implement best practices for securing multi-cloud environments and ensuring compliance with industry standards across multiple cloud platforms.
+Implement highly available and scalable systems, ensuring proper redundancy and fault tolerance across multiple cloud platforms.
+Conduct regular security assessments & vulnerability scanning across multiple cloud platforms.
+Implement and maintain security controls and access management policies across multiple cloud platforms.
+
+
+Automation And Continuous Integration/Deployment (CI/CD)
+
+
+Develop and maintain automated deployment pipelines using tools like Jenkins, GitLab CI/CD, or CircleCI.
+Implement continuous integration and continuous deployment practices to enable faster and more reliable software releases.
+Streamline the software build, test, and release processes, ensuring efficient delivery of software artifacts.
+
+
+Infrastructure As Code (IaC)
+
+
+Design, build, and maintain the company's infrastructure using cloud platforms (such as AWS, Azure, or GCP) and infrastructure-as-code tools (such as Terraform or CloudFormation).
+Collaborate with cross-functional teams to define infrastructure requirements and make architectural decisions.
+
+
+Monitoring And Troubleshooting
+
+
+Implement and maintain monitoring, alerting, and logging solutions to ensure high availability and performance of cloud-based applications
+Conduct performance analysis and optimization of infrastructure components, including servers, databases, and network configurations.
+Troubleshoot infrastructure and deployment issues, working closely with development and operations teams.
+Perform root cause analysis of incidents and implement preventive measures.
+Overseeing routine maintenance procedures and performing diagnostic tests across multi cloud platforms.
+
+
+Collaboration And Documentation
+
+
+Collaborate with cross-functional teams to optimize application performance, scalability, and reliability.
+Stay up to date with industry trends, emerging technologies, and best practices in DevOps and multi-cloud environments.
+Mentoring junior software developers in gaining experience and assuming DevOps responsibilities.
+Create and maintain technical documentation, including infrastructure diagrams, configuration guides, and standard operating procedures.
+Share knowledge and best practices with team members and contribute to the overall growth of the DevOps practice.
+
+
+Requirements
+
+Must have technical skills
+
+
+Bachelor's degree in computer science, Engineering, or a related field (or equivalent work experience).
+Proven 4+ experience as a DevOps Engineer or in a similar role, with a focus on infrastructure automation, deployment, and operations.
+Hands-on expertise in architecting and managing cloud-native infrastructure on Azure.
+Proficient in building and maintaining CI/CD pipelines using Azure DevOps, containerizing workloads with Docker, and orchestrating deployments with Kubernetes (AKS).
+Skilled in infrastructure as code (ARM/Bicep/Terraform), implementing Prometheus-based monitoring stacks, and enforcing cloud security controls across environments.
+Strong independent contributor with experience in automating end-to-end delivery workflows, optimizing system reliability, and managing secure, scalable infrastructure at scale.
+
+
+New graduates
+
+thinkSchool is where graduates start their careers at thinkbridge.
+
+Equal opportunity
+
+thinkbridge is an equal opportunity employer. We hire on skills and character, and we treat every applicant fairly.
+
+See all open roles
+
+Questions about working at thinkbridge
+
+thinkbridge
+
+there's a new way there.™
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Software Development
+  
+
+Referrals increase your chances of interviewing at thinkbridge by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Server Support Engineer jobs
+Senior DevOps Engineer
+Similar jobs
+DevOps SE III
+DevOps SE III
+Keywords Studios
+Pune Division, Maharashtra, India
+3 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Easebuzz
+Pune Division, Maharashtra, India
+1 year ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Barclays
+Pune Division, Maharashtra, India
+3 weeks ago
+DevOps SE 3
+DevOps SE 3
+Helpshift
+Pune District, Maharashtra, India
+5 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Assent
+Pune/Pimpri-Chinchwad Area
+1 month ago
+Senior Devops Engineer , CX
+Senior Devops Engineer , CX
+NiCE
+Pune City, Maharashtra, India
+3 days ago
+Show more jobs like this 
+People also viewed
+Senior Specialist DevOps Engineer
+Senior Specialist DevOps Engineer
+
+NiCE
+
+Pune City, Maharashtra, India
+1 day ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Securonix
+
+Pune District, Maharashtra, India
+3 weeks ago
+Senior Cloud Platform / DevOps / SRE Engineer
+Senior Cloud Platform / DevOps / SRE Engineer
+
+Cordance
+
+Pune Division, Maharashtra, India
+2 days ago
+Sr. DevOps Engineer
+Sr. DevOps Engineer
+
+Ascentt
+
+Pune Division, Maharashtra, India
+2 months ago
+Sr DevOps Engineer
+Sr DevOps Engineer
+
+ACI Worldwide
+
+Pune Division, Maharashtra, India
+2 weeks ago
+Staff DevOps Engineer
+Staff DevOps Engineer
+
+HMH
+
+Pune City, Maharashtra, India
+1 week ago
+Staff DevOps Engineer
+Staff DevOps Engineer
+
+HMH
+
+Pune Division, Maharashtra, India
+1 week ago
+Senior DevOps Engineer/Platform Engineer
+Senior DevOps Engineer/Platform Engineer
+
+Team Geek Solutions
+
+Pune Division, Maharashtra, India
+₹1,600,000 - ₹2,000,000
+2 months ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+ORMAE
+
+Pune District, Maharashtra, India
+2 weeks ago
+Senior DevOps Engineer (6+ years' experience in DevOps, AWS, Kubernetes/Docker)- US/Night Shift - 6:30 PM IST to 3:30AM IST)
+Senior DevOps Engineer (6+ years' experience in DevOps, AWS, Kubernetes/Docker)- US/Night Shift - 6:30 PM IST to 3:30AM IST)
+
+FIS
+
+Pune/Pimpri-Chinchwad Area
+1 week ago
+Similar Searches
+Server Support Engineer jobs
+1,879 open jobs
+Senior Implementation Engineer jobs
+7,668 open jobs
+Server Administrator jobs
+1,796 open jobs
+Data Center Engineer jobs
+2,419 open jobs
+Junior Database Administrator jobs
+1,183 open jobs
+Product Support Engineer jobs
+47,604 open jobs
+Playwright jobs
+862 open jobs
+Senior Test Engineer jobs
+3,186 open jobs
+Linux Administrator jobs
+1,067 open jobs
+Senior Architect jobs
+3,434 open jobs
+Windows System Administrator jobs
+1,792 open jobs
+Engineering Specialist jobs
+4,233 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at thinkbridge
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

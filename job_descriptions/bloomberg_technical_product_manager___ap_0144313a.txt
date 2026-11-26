@@ -1,0 +1,264 @@
+Title: Technical Product Manager - Application Developer Experience
+Company: Bloomberg
+Location: London, England, United Kingdom
+URL: https://uk.linkedin.com/jobs/view/technical-product-manager-application-developer-experience-at-bloomberg-4470132080
+Posted: 2026-11-20
+Deadline: N/A
+Reason: The role aligns perfectly with the candidate's extensive background in CI/CD, release management, and SDLC tooling, and it is located in a target country (UK).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Technical Product Manager - Application Developer Experience
+Bloomberg  London, England, United Kingdom
+1 week ago  68 applicants
+  
+
+See who Bloomberg has hired for this role
+
+Apply 
+Save
+Location
+
+London
+
+Business Area
+
+Engineering and CTO
+
+Ref #
+
+10054138
+
+Description & Requirements
+
+The Bloomberg CTO Office is the future-looking technical arm of Bloomberg L.P. We envision, design, and guide the creation of our next generation infrastructure, hardware and applications that interface in all aspects of the company. We are passionate about what we do.
+
+The Bloomberg Terminal is built on top of an internal technology platform that supports thousands of unique, mission critical financial applications with tens of millions of executions daily. The software development lifecycle (SDLC) tooling that underpins this platform enables hundreds of engineering teams to build, test, release, and operate software reliably, securely, and at scale.
+
+This role will be responsible for reimagining how Bloomberg engineers build and deliver Terminal applications by shaping the next generation of SDLC tooling, workflows, and integrations needed to support AI-enabled development, increased automation, and future-ready engineering practices.
+
+What’s in it for you
+
+We are looking for a Technical Product Manager to shape and execute the vision and roadmap for the SDLC tooling ecosystem that supports the Bloomberg Terminal. As a product manager, you will focus on the end-to-end developer experience across the software lifecycle, share ownership of the product roadmap for our internal development tools, and build new capabilities and integrations that empower engineering teams to move faster with confidence. You’ll be making decisions on how to evolve the develop, build, test, CI/CD, release, and product support workflows for the age of AI.
+
+You will work in a group of other highly motivated product managers that work on a range of adjacent projects around application development and platform enablement. You will interact very closely with internal stakeholders across product, infrastructure, and engineering. This is a high-leverage role in a very cross-functional environment, so you’ll need to be comfortable wearing many hats and balancing technical depth with business and operational priorities.
+
+We’ll trust you to
+
+
+Define the next-generation Terminal application SDLC tooling strategy, setting principles for automation, consistency, and AI-assisted development
+Shape standards, workflows, and tooling that improve developer velocity, software quality, and operational reliability across the Terminal ecosystem
+Build strong relationships with key stakeholders, providing transparency into roadmaps, dependencies, and prioritization decisions
+Advocate for and project manage wide-spread adoption of application SDLC best practices and tooling across engineering teams; measure adoption and impact
+Own processes for intake, evaluation, and prioritization of new tooling and workflow requests from engineering teams
+Balance competing needs – developer experience improvements, platform reliability, security requirements, and modernization efforts – to prioritize the backlog
+Review and prioritize development of and/or updates to relevant technical documentation, onboarding materials, and training resources
+
+
+You’ll need to have
+
+
+7+ years of experience in technical product management or a senior engineering role
+Experience building or owning developer tools, internal platforms, or SDLC systems with engineers as your primary users
+A proven track record of collaboratively creating product visions and roadmaps, evaluating technical trade-offs, prioritizing at macro and micro levels, and managing releases
+The ability to work across teams to break down complex engineering and operational problems into achievable milestones
+Deep understanding of software development lifecycle best practices
+Organizational and communication skills to effectively coordinate and work with engineers, SREs, security partners, other product managers, and senior management
+
+
+We’d love to see
+
+
+A degree in Computer Science, Computer Engineering, similar field of study or equivalent work experience
+Familiarity with build systems, CI/CD pipelines, testing frameworks, and release automation tooling
+Familiarity with AI-assisted development tools, agentic workflows, and emerging standards for AI integration in SDLC processes
+Experience with developer experience design, tooling observability, and measuring developer productivity and quality outcomes
+Open source involvement or community presence
+
+
+If indicated, please note that years of experience are a guide; we will consider applications from all candidates who can demonstrate the skills necessary for the role.
+
+Discover what makes Bloomberg unique - watch our for an inside look at our culture, values, and the people behind our success.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at Bloomberg by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Senior Technical Product Manager jobs
+Technical Product Manager - Application Developer Experience
+Similar jobs
+Technical Product Manager (Remote)
+Technical Product Manager (Remote)
+Forbes Advisor
+London, England, United Kingdom
+2 weeks ago
+Technical Product Manager
+Technical Product Manager
+Arondite
+London, England, United Kingdom
+1 month ago
+Product Manager
+Product Manager
+Visa
+London, England, United Kingdom
+1 day ago
+Product Manager
+Product Manager
+Ben
+London, England, United Kingdom
+6 days ago
+Associate, Technology Product Manager
+Associate, Technology Product Manager
+BlackRock
+London, England, United Kingdom
+5 days ago
+Product Manager
+Product Manager
+Ben
+Greater London, England, United Kingdom
+6 days ago
+Show more jobs like this 
+People also viewed
+Product Manager
+Product Manager
+
+Luminance
+
+London, England, United Kingdom
+1 month ago
+Engineering Manager, Guest & Host
+Engineering Manager, Guest & Host
+
+Airbnb
+
+London, England, United Kingdom
+2 weeks ago
+Product Manager, Context
+Product Manager, Context
+
+Mistral
+
+London, England, United Kingdom
+2 months ago
+Product Manager
+Product Manager
+
+Financial Times
+
+London Area, United Kingdom
+3 weeks ago
+Product Manager
+Product Manager
+
+Diligent
+
+London, England, United Kingdom
+1 week ago
+Product Manager - Flights
+Product Manager - Flights
+
+Duffel
+
+London, England, United Kingdom
+5 days ago
+Vice President, Technology Product Manager
+Vice President, Technology Product Manager
+
+BlackRock
+
+London, England, United Kingdom
+2 days ago
+Product Manager
+Product Manager
+
+Trainline
+
+London Area, United Kingdom
+1 week ago
+Senior Product Manager - Spotify Connect
+Senior Product Manager - Spotify Connect
+
+Spotify
+
+London Area, United Kingdom
+1 week ago
+Product Manager
+Product Manager
+
+Unily
+
+London Area, United Kingdom
+3 weeks ago
+Similar Searches
+Senior Technical Product Manager jobs
+2,123 open jobs
+Technical Producer jobs
+276 open jobs
+Lead Buyer jobs
+2,686 open jobs
+Product Manager jobs
+24,856 open jobs
+Software Verification Engineer jobs
+740 open jobs
+Senior Physician jobs
+667 open jobs
+Software Product Manager jobs
+2,613 open jobs
+Technology Product Manager jobs
+1,146 open jobs
+Senior Technical Business Analyst jobs
+391 open jobs
+Information System Project Manager jobs
+71 open jobs
+System Safety Engineer jobs
+2,354 open jobs
+Technical Program Manager jobs
+1,108 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Bloomberg
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

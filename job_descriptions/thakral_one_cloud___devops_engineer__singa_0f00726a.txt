@@ -1,0 +1,271 @@
+Title: Cloud & Devops Engineer (Singapore)
+Company: Thakral One
+Location: Singapore, Singapore
+URL: https://sg.linkedin.com/jobs/view/cloud-devops-engineer-singapore-at-thakral-one-4494990413
+Posted: 2026-11-27
+Deadline: N/A
+Reason: The role aligns perfectly with the candidate's expertise in DevOps, CI/CD, configuration management, and technical documentation, and it is located in a target country (Singapore) with no restrictive citizenship requirements mentioned.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Cloud & Devops Engineer (Singapore)
+Thakral One  Singapore, Singapore
+18 hours ago  49 applicants
+  
+
+See who Thakral One has hired for this role
+
+Apply
+Save
+
+As a Cloud & DevOps Engineer, you will help build, automate, and operate secure, reliable, and scalable cloud environments across public cloud platforms. You will contribute to cloud engineering standards, DevOps automation, Infrastructure as Code initiatives, and project delivery activities while working closely with technical and business stakeholders.
+
+
+
+
+What You'll Do and How You'll Succeed
+
+
+
+
+Cloud Infrastructure and Platform Engineering
+
+Design, deploy, and support cloud services across Microsoft Azure, AWS, and Google Cloud environments.
+Implement and support cloud infrastructure and platform services that meet security, reliability, operational, and business requirements.
+Support cloud networking, identity and access management, security, monitoring, backup, high availability, and disaster recovery capabilities.
+Contribute to cloud architecture patterns, standards, reusable templates, and configuration management practices.
+
+
+
+
+DevOps and Automation
+
+Support the build, maintenance, and execution of CI/CD pipelines using Azure DevOps, GitHub Actions, or similar platforms.
+Develop and maintain reusable Terraform modules and templates for standardised cloud deployments.
+Manage infrastructure using Git, pull requests, code reviews, and automated deployment workflows.
+Minimise manual configuration activities and reduce configuration drift through automation.
+
+
+
+
+Project Delivery and Operations
+
+Participate in project delivery activities including requirements analysis, implementation, testing, documentation, and handover.
+Work closely with architecture, security, infrastructure, networking, application, and operations teams throughout the delivery lifecycle.
+Troubleshoot Terraform, CI/CD, cloud infrastructure, networking, and deployment issues.
+Contribute to engineering artefacts, technical documentation, and operational standards.
+
+
+
+
+We'd Love to Hear From You If...
+
+
+
+
+Experience
+
+Experience working with cloud platforms such as Microsoft Azure, AWS, or Google Cloud.
+Experience supporting DevOps, cloud infrastructure, or platform engineering initiatives.
+Exposure to project delivery environments and cloud engineering practices.
+
+
+
+
+Technical Expertise
+
+Experience with CI/CD concepts and tools such as Azure DevOps or GitHub Actions.
+Foundational knowledge or hands on experience with Infrastructure as Code, preferably Terraform.
+Working knowledge of cloud services including compute, storage, networking, identity, and databases.
+Familiarity with Microsoft Entra ID, role based access control, multi factor authentication, and least privilege access concepts.
+Understanding of high availability, backup, business continuity, and disaster recovery principles.
+Knowledge of Git, branching strategies, pull requests, and code review practices.
+Experience with Python, PowerShell, or Bash scripting is an advantage.
+Exposure to containers and Kubernetes platforms such as AKS, EKS, or GKE is a plus.
+Understanding of cloud security, monitoring, governance, and configuration management practices.
+Cloud, Terraform, DevOps, Kubernetes, or security certifications are advantageous.
+
+
+
+
+Ways of Working
+
+Strong teamwork and collaboration skills.
+Ability to communicate technical information clearly to both technical and non technical audiences.
+Comfortable working with stakeholders across engineering and project delivery teams.
+Automation first mindset with a commitment to continuous learning and improvement.
+Values documentation, standardisation, testing, peer reviews, and controlled production changes.
+
+
+
+
+---
+
+
+
+
+Who We Are
+
+
+
+
+Thakral One is a consulting and technology services company headquartered in Singapore, with a pan-Asian presence. We focus primarily around technology-driven consulting, adoption of value-added bespoke solutions, enabling enhanced decision support through data analytics, and embracing possibilities in the cloud. We are heavily inclined towards building capabilities collaboratively with clients and believe strongly in improving grounded and practical outcomes.
+
+
+
+
+This approach is possible through our partnership with leading global technology providers and internal R&D teams. Our clients come from Financial Services, Banking, Telco, Government, Healthcare, and Consumer-oriented organisations.
+
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Thakral One by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Site Reliability Engineer (Cloud) - Infrastructure Engineering
+Site Reliability Engineer (Cloud) - Infrastructure Engineering
+ByteDance
+Singapore, Singapore
+3 weeks ago
+Site Reliability Engineer(A06044)
+Site Reliability Engineer(A06044)
+Xiaomi Technology
+Singapore, Singapore
+1 week ago
+DevOps Engineer
+DevOps Engineer
+Capgemini
+Singapore
+6 months ago
+Information Technology - DevOps Engineer
+Information Technology - DevOps Engineer
+Singapore Airlines
+Singapore, Singapore
+2 days ago
+DevOps Engineer
+DevOps Engineer
+Webot
+Singapore, Singapore
+2 weeks ago
+Cloud Engineer
+Cloud Engineer
+Tesla Consulting Group
+Singapore
+4 months ago
+Show more jobs like this 
+People also viewed
+DevOps Engineer
+DevOps Engineer
+
+Sedha Consulting
+
+Singapore, Singapore
+1 week ago
+DevOps Engineer
+DevOps Engineer
+
+Hytech
+
+Singapore
+1 month ago
+Cloud Infrastructure Engineer
+Cloud Infrastructure Engineer
+
+HCLTech
+
+Singapore, Singapore
+3 weeks ago
+DevOps / Site Reliability Engineer
+DevOps / Site Reliability Engineer
+
+OKX
+
+Singapore, Singapore
+2 weeks ago
+SRE Engineer
+SRE Engineer
+
+HappyGlobal Service
+
+Singapore, Singapore
+2 days ago
+DevOps Engineer
+DevOps Engineer
+
+Native
+
+Singapore, Singapore
+1 month ago
+DevOps工程师/运维开发工程师
+DevOps工程师/运维开发工程师
+
+Manus AI
+
+Singapore, Singapore
+3 days ago
+Cloud Engineer
+Cloud Engineer
+
+Avanade
+
+Singapore, Singapore
+5 months ago
+Cloud Engineer (AWS / Azure)
+Cloud Engineer (AWS / Azure)
+
+HCLTech
+
+Singapore, Singapore
+19 hours ago
+Senior Devops Engineer
+Senior Devops Engineer
+
+Grab
+
+Singapore, Singapore
+3 weeks ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Thakral One
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
