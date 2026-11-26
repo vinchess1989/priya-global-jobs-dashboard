@@ -1,0 +1,524 @@
+Title: AI Specialist
+Company: Booming Games
+Location: Valletta, Valletta, Malta
+URL: https://mt.linkedin.com/jobs/view/ai-specialist-at-booming-games-4493406800
+Posted: 2026-11-26
+Deadline: N/A
+Reason: The role aligns with her background in automation, regulated environments, and technical process management, and it is located in Malta, which is a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+AI Specialist
+Booming Games  Valletta, Valletta, Malta
+12 hours ago   Be among the first 25 applicants
+  
+
+See who Booming Games has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+About the role
+
+
+
+
+The AI Specialist leads how the company uses AI across every department, from game production and QA to commercial, finance and HR. They find processes worth automating, build or source the solution, prove its impact and hand it over to the owning team. They also set AI governance and push back on initiatives that carry regulatory, contractual, IP or data risk.
+
+
+
+
+This is a business role with deep technical skills, not a software engineering, data science or policy-only position.
+
+
+
+
+Responsibilities
+
+
+
+
+Strategy and roadmap
+
+
+
+
+
+Map business processes across departments and maintain a ranked pipeline of AI opportunities, each with effort, cost and expected saving.
+
+
+Bring proposals to the COO with numbers attached rather than status lists, and defend a prioritised plan.
+
+
+Take direction: deliver initiatives set by the COO or executive management to the same standard as self-originated work.
+
+
+Decide build, buy or integrate per case, and justify the choice on cost, control and exposure.
+
+
+
+
+
+
+
+
+
+Delivery
+
+
+
+
+
+Build or commission working tools, from prototype to supported production use, and hand ownership to the business team that runs the process.
+
+
+Integrate with the existing stack (Google Workspace, Slack, Jira, Confluence, low code platforms, internal data warehouse) rather than adding disconnected tools.
+
+
+Own the lifecycle: versioning, monitoring, fallback when a model or vendor changes behaviour, and decommissioning what is no longer used.
+
+
+Measure adoption and realised saving against the original estimate, and report both, including the misses.
+
+
+
+
+
+
+
+
+
+Protection and governance
+
+
+
+
+
+Set and enforce what company, operator and partner data may be sent to which AI service, under which contract terms, and with which retention.
+
+
+Review AI vendor terms before adoption for data retention, training on input, sub-processing and ownership of output; escalate contractual exposure to Legal.
+
+
+Keep AI-generated material clear of third-party IP and brand risk, in particular in game art, game names and marketing copy.
+
+
+Maintain a register of every AI tool in use, its owner, data scope and cost, producible on request for an auditor, a licensor or a regulator question.
+
+
+Track the regulatory position on AI in the markets where the business holds licences and flag where a use case is restricted or requires disclosure.
+
+
+
+
+
+
+
+
+
+Coaching and enablement
+
+
+
+
+
+Run practical, role-specific training per department, measured by what people can do afterwards rather than attendance.
+
+
+Maintain internal standards, templates and a shared library for prompts, agents and integrations.
+
+
+Be the first point of contact for anyone who wants to try something, and convert the good attempts into supported tools instead of shadow ones.
+
+
+
+
+
+
+
+
+
+Vendor and cost
+
+
+
+
+
+Own the AI tooling budget: model and seat spend, usage monitoring, consolidation of overlapping subscriptions, and renewal negotiation.
+
+
+
+
+
+
+
+
+
+Requirements
+
+
+
+
+Experience
+
+
+
+
+
+5+ years in a technical or product role, including at least 2 years delivering AI or automation into live business processes.
+
+
+At least two AI implementations taken from idea to daily use by non-technical staff, with the saving measured rather than asserted.
+
+
+Experience in a regulated or audited environment, comfortable with data handling constraints and evidence requests.
+
+
+Experience influencing department heads and senior stakeholders without authority over them.
+
+
+
+
+
+
+
+
+
+Technical
+
+
+
+
+
+Strong working knowledge of current LLM platforms and their APIs, including cost, context and rate behaviour, and of how to choose between them.
+
+
+Agentic tooling and orchestration: connector frameworks such as MCP, tool use, retrieval over company knowledge, and structured evaluation of output quality.
+
+
+Able to build working software: Python or TypeScript, Apps Script, SQL, plus low code platforms such as Retool.
+
+
+Integration with business systems by API: Google Workspace, Slack, Jira and Confluence, CRM, BI and data warehouse.
+
+
+Practical understanding of data protection and AI governance obligations (GDPR, EU AI Act deployer duties, ISO 27001 aligned controls).
+
+
+Evaluates model output against a defined test set rather than by impression.
+
+
+
+
+
+
+
+
+
+Influence and communication
+
+
+
+
+
+Explains a trade-off in plain language to C-level with cost and risk attached.
+
+
+Teaches well: can take a sceptical non-technical team from zero to independent use.
+
+
+Holds a position against internal enthusiasm when the risk is real, and escalates rather than absorbs it.
+
+
+
+
+
+
+
+
+
+Nice to have
+
+
+
+
+
+iGaming, or another regulated B2B software environment with certification and audit exposure.
+
+
+AI applied to creative production pipelines: asset generation, asset QA, localisation.
+
+
+Internal assistants built on company knowledge bases, with access control.
+
+
+Vendor negotiation experience on model and tooling contracts.
+
+
+Experience replacing repetitive operational work at scale without a quality regression.
+
+
+
+
+
+
+
+
+
+Good to know
+
+
+
+
+What does success in the first 12 months looks like:
+
+
+
+
+
+A ranked and costed AI opportunity map covering every department, agreed with the COO and refreshed quarterly.
+
+
+At least three initiatives in daily production use outside the team that originated them, each with a measured before and after.
+
+
+A current, auditable register of AI tools, owners, data scope and spend.
+
+
+A written AI usage standard adopted company wide, covering data classes, approved tools and prohibited uses, signed off by Legal.
+
+
+Every department trained hands-on, with at least one person per department able to maintain their own workflows.
+
+
+AI spend consolidated under a single owned budget with usage visibility.
+
+
+No AI-related data, IP or contractual incident.
+
+
+
+
+
+
+
+
+
+Why Work for Booming Games
+
+
+
+
+Founder led. Impact driven. Employee centric.
+At Booming Games, we're reshaping the iGaming world with our remote-first approach. Our rhythm? Thrilling slot games with captivating features and stunning designs released every two weeks - no exceptions! Here, it's all about co-ownership and real growth. Dive into a diverse team where your input powers every game we craft!
+
+
+
+
+Our perks
+
+
+
+
+
+We’re a 100% remote-first company, offering a best-in-class remote experience
+
+
+Competitive package
+
+
+Dog-friendly offices in Berlin and Malta
+
+
+Family-friendly policies
+
+
+Career growth opportunities
+
+
+Zestful working environment
+
+
+Knowledge sharing opportunities
+
+
+Dynamic culture surrounded by industry experts
+
+
+Company social events for team bonding
+
+
+
+
+
+
+
+
+
+Contact
+
+
+
+
+HR Team
+
+Show more 
+Seniority level
+Associate
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Booming Games by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+AI Engineer
+AI Engineer
+Rhino Entertainment Group
+San Ġiljan, Saint Julian's, Malta
+9 hours ago
+LLM Engineer — Post-Training (Remote - Europe)
+LLM Engineer — Post-Training (Remote - Europe)
+EverAI
+Malta
+1 month ago
+Forward Deployed Engineer
+Forward Deployed Engineer
+Wonderful
+Valletta, Valletta, Malta
+2 months ago
+AI Application Developer
+AI Application Developer
+Konnekt
+Valletta, Malta
+€55,000 - €60,000
+3 weeks ago
+AI Specialist
+AI Specialist
+Booming Games
+Birkirkara, Malta
+13 hours ago
+Machine Learning Engineer
+Machine Learning Engineer
+Betsson Group
+Ta' Xbiex, Ta' Xbiex, Malta
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Data Engineer
+Data Engineer
+
+Catena Media
+
+Gzira, Malta
+1 day ago
+Senior Software Engineer | AI Agents & Cloud Platform (Cast Pilot team)
+Senior Software Engineer | AI Agents & Cloud Platform (Cast Pilot team)
+
+Cast AI
+
+Malta
+1 week ago
+Senior Software Engineer (Python, GenAI)
+Senior Software Engineer (Python, GenAI)
+
+Acuity Analytics
+
+Birkirkara, Malta
+1 day ago
+CUX Design Specialist
+CUX Design Specialist
+
+Multitude
+
+Il Gżira, Malta
+1 week ago
+Full-stack Developer (AI-native)
+Full-stack Developer (AI-native)
+
+Paradise Media
+
+San Ġiljan, Saint Julian's, Malta
+1 week ago
+Project Manager - Automation & AI
+Project Manager - Automation & AI
+
+LeoVegas Group
+
+Sliema, Sliema, Malta
+1 week ago
+Staff Engineer (Backend experience with AI transformation)
+Staff Engineer (Backend experience with AI transformation)
+
+Signify Technology
+
+Malta
+10 hours ago
+Senior Software Engineer
+Senior Software Engineer
+
+The Flex
+
+Malta
+2 months ago
+Content Creator & AI Marketing Specialist
+Content Creator & AI Marketing Specialist
+
+Sharphawk
+
+Gharghur, Malta
+1 week ago
+Game Mathematician
+Game Mathematician
+
+Partyhat
+
+Malta
+5 months ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
