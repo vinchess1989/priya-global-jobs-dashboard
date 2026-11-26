@@ -1,0 +1,253 @@
+Title: Software Specialist - Test
+Company: ASB Bank
+Location: Auckland, New Zealand
+URL: https://nz.linkedin.com/jobs/view/software-specialist-test-at-asb-bank-4493488349
+Posted: 2026-11-27
+Deadline: Open until filled
+Reason: The role aligns with the candidate's background in quality engineering, test automation, and release-adjacent responsibilities within a regulated financial domain, and it is located in a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Software Specialist - Test
+ASB Bank  Auckland, New Zealand
+19 hours ago   Be among the first 25 applicants
+  
+
+See who ASB Bank has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Kia ora, Talofa lava, Kia Orana, Malo e lelei, Fakalofa lahi atu, Bula Vinaka and Namaste!
+
+Location: ASB C: Drive Albany, Tāmaki Makaurau / Auckland
+
+Employment Type: Permanent, full time
+
+Mō Mātou | About us:   
+
+At ASB, we believe progress is more than just financial - it's about helping New Zealanders, communities, and our environment thrive together. We're a purpose-led organisation with a proud history and a clear vision: to support Kiwis in getting one step ahead. Our work is guided by strong values - care, courage and curiosity - and brought to life by a diverse team of people who genuinely care about making a difference. 
+
+As one of Aotearoa's most trusted banking partners, we combine the stability and scale of a large organisation with a culture that ensures you're recognised as an individual. Your ideas, your growth, and your contribution matter here - and you'll be supported to do meaningful work that has a real impact, every day.  
+
+Mō te tūranga | About the role
+
+We are looking for an experienced Software Specialist (Test) to join our Payments Tribe, working on domestic payment systems that must be secure, resilient and available when customers need them.
+
+You will be part of a cross-functional, agile squad delivering and supporting domestic payment capabilities for business and corporate customers. The work spans modern and established systems, complex integrations and high-throughput payment flows, where quality, performance and reliability matter.
+
+You will play a key role in shaping how testing is delivered within the squad, with a strong primary focus on automation, performance testing and quality engineering rather than manual-only testing.
+
+What You’ll Do
+
+
+Review requirements and technical designs with a quality-first mindset.
+Define and execute pragmatic, risk-based test strategies, plans, estimates, coverage and exit criteria.
+Own, maintain and evolve the squad’s test automation suite in C# and .NET.
+Build, maintain and evolve automated test frameworks using ReqNRoll or SpecFlow.
+Design and execute performance testing using LoadRunner, JMeter or equivalent tools.
+Test across functional, system, integration, API and end-to-end layers.
+Analyse and clearly communicate test results, defects and release risks.
+Investigate issues within payment flows and advise on likely root cause, impact and next steps.
+Work closely with engineers, product owners and stakeholders to support end-to-end testing and release sign-off.
+Act as the voice of test engineering within the squad, lifting quality standards and practices.
+Mentor less experienced test automation engineers in the squad to support their growth.
+
+
+Ngā mea kia whai angitū ahau? | What will help me succeed?
+
+
+Strong test engineering experience and a quality-driven mindset.
+At least three five years of testing experience within payments, or comparable experience with high-throughput regulated platforms.
+Hands-on programming experience with C# and .NET.
+Hands-on automation testing experience using ReqNRoll or SpecFlow.
+Proven capability across functional, system, integration, API, end-to-end and performance testing.
+Exposure to Azure cloud technologies such as Functions, Service Bus and CosmosDB
+Experience working with Azure DevOps and CI/CD pipelines.
+Experience defining test strategies, test plans, estimates and exit criteria.
+Confidence working in agile, cross-functional teams, mentoring others and influencing testing best practice.
+
+
+Nice to have
+
+
+Banking or broader financial services experience.
+ISTQB Foundation certification.
+Exposure to cloud technologies.
+
+
+He aha tā mātou | What can we offer
+
+Get the work-life equation right. We know life is full of priorities, from soccer practice to side hobbies. We're here to help you find balance, with a flexible and supportive working environment.
+
+What's important to you is important to us. We support your wellbeing in meaningful ways, including comprehensive health insurance, wellness initiatives, parental and flexible leave, and customisable benefits to suit your lifestyle.
+
+Bring your whole self to work every day. Whether you're into scrap booking, spontaneous karaoke sessions, or just hanging out with the family, ASB is working hard to create a culture where everyone feels safe, included and part of our shared purpose of helping Kiwis get one step ahead.
+
+The whole "one step ahead" thing applies to you, too. With mentorship, flexible learning pathways and opportunities to deepen your expertise, ASB is a place where you can take on exciting challenges and step forward to reach your goals, both in and out of the office.
+
+Me pēhea te tono | How to apply?
+
+We know great people come from all sorts of backgrounds, and you don't need to tick every box to apply. What matters most is that you bring your unique strengths and enthusiasm to the team.
+
+To be considered, all applications need to go through our online career channels and will be treated with confidentiality. Check out the position description to find out more.
+
+We appreciate the time and effort you put into applying and will keep you updated throughout the process.
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Industries
+Banking, Financial Services, and Investment Banking
+  
+
+Referrals increase your chances of interviewing at ASB Bank by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+QA Automation Engineer
+QA Automation Engineer
+Les Mills International
+Auckland, Auckland, New Zealand
+1 week ago
+QA Automation Engineer
+QA Automation Engineer
+Les Mills Brasil 🇧🇷
+Auckland, Auckland, New Zealand
+1 week ago
+Quality Engineer
+Quality Engineer
+Westpac New Zealand
+Auckland, New Zealand
+1 week ago
+Software Consultant
+Software Consultant
+ASB Bank
+Auckland, New Zealand
+2 weeks ago
+Senior Software Engineer - Test Engineering
+Senior Software Engineer - Test Engineering
+ASB Bank
+Auckland, New Zealand
+1 day ago
+QA Automation Engineer (f/m/d)
+QA Automation Engineer (f/m/d)
+Thinkproject
+Auckland, Auckland, New Zealand
+1 day ago
+Show more jobs like this 
+People also viewed
+Integrated Operations Engineer
+Integrated Operations Engineer
+
+Rocket Lab
+
+Auckland, Auckland, New Zealand
+5 days ago
+Linux Software Engineer - Ubuntu for Next-Gen Silicon (multiple roles and seniority levels)
+Linux Software Engineer - Ubuntu for Next-Gen Silicon (multiple roles and seniority levels)
+
+Canonical
+
+Auckland, Auckland, New Zealand
+2 weeks ago
+Junior Software Engineer - Fleet Operations
+Junior Software Engineer - Fleet Operations
+
+Halter
+
+Auckland, New Zealand
+3 months ago
+Software Engineer
+Software Engineer
+
+The Access Group
+
+Auckland, Auckland, New Zealand
+1 week ago
+Software Engineer, NZ
+Software Engineer, NZ
+
+Partly
+
+Auckland, Auckland, New Zealand
+2 days ago
+Spacecraft Operations Engineer Pipeline
+Spacecraft Operations Engineer Pipeline
+
+Rocket Lab
+
+Auckland, Auckland, New Zealand
+2 weeks ago
+Forward Deployed Engineer
+Forward Deployed Engineer
+
+Accenture New Zealand
+
+Auckland, Auckland, New Zealand
+2 months ago
+Digital Quality Manager
+Digital Quality Manager
+
+NZ Transport Agency Waka Kotahi
+
+Auckland, Auckland, New Zealand
+1 week ago
+Software Engineer
+Software Engineer
+
+CONQA
+
+Auckland, New Zealand
+6 days ago
+Senior Software Engineer
+Senior Software Engineer
+
+ASB Bank
+
+Auckland, New Zealand
+2 weeks ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at ASB Bank
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
