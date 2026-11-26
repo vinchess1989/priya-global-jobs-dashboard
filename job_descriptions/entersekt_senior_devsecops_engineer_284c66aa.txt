@@ -1,0 +1,269 @@
+Title: Senior DevSecOps Engineer
+Company: Entersekt
+Location: South Africa
+URL: https://za.linkedin.com/jobs/view/senior-devsecops-engineer-at-entersekt-4495522346
+Posted: 2026-11-27
+Deadline: Open until filled
+Reason: The role aligns with the candidate's extensive experience in CI/CD, release management, and compliance in regulated industries, and it is located in a target country (South Africa) without explicit visa restrictions.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevSecOps Engineer
+Entersekt  South Africa
+6 hours ago   Be among the first 25 applicants
+  
+
+See who Entersekt has hired for this role
+
+Apply 
+Save
+Why Entersekt
+
+Founded over 16 years ago, with more recent investments from Accel-KKR, Entersekt is a leader in digital banking fraud prevention and payment security, including mobile authentication, mobile app security, and 3D Secure authentication for issuers, acquirers and payment networks. We offer highly scalable products with a track record of success across multiple continents.
+
+Entersekt enables secure digital transactions for leading financial institutions globally. We exist to create a world where everyone can transact digitally without fear or compromise. Currently, we protect the digital transactions of over 210 million active users on our platform and hold 120 active patents that recognize innovation in digital security, payments, and user experience. Entersekt offers customers secure authentication and digital payments experiences that remove unnecessary friction. Entersekt has a diverse product portfolio and aggressive roadmap that positions the company well to sustain competitive advantage as it expands globally with emphasis on North America and European markets.
+
+The Ideal Candidate
+
+The ideal candidate is a senior, hands‑on DevSecOps Engineer with strong experience operating and securing cloud‑native production environments in regulated settings.
+
+They have deep expertise in AWS, Kubernetes and Infrastructure as Code, and are comfortable owning production reliability, security monitoring, incident response and audit readiness (e.g. SOC2, PCI‑DSS). They favour automation over manual processes and take a pragmatic, security‑first approach to building and running scalable platforms.
+
+This individual works well across engineering teams, communicates clearly in a distributed environment, and is confident mentoring others on secure infrastructure and DevSecOps best practices.
+
+The Role
+
+As a Senior DevSecOps Engineer at Entersekt, you are the go-to technical expert for complex infrastructure challenges. You work mostly hands-on in cloud architecture and design, leading security audits and integrating automated compliance checks in CI/CD. You own complex domains end-to-end, lead incidents, influence team standards, and translate PCI requirements into practical solutions.
+
+Responsibilities
+
+
+Serve as the go-to technical expert for complex infrastructure and security challenges.
+Lead security audits and integrate automated compliance checks in CI/CD pipelines.
+Design and implement cloud architecture with deep expertise in VPC, IAM, and network security.
+Own complex domains end-to-end with minimal oversight.
+Lead incidents and drive operational excellence initiatives.
+Influence team standards and contribute to engineering guidelines.
+Translate PCI requirements into practical, implementable solutions.
+Mentor junior and mid-level engineers on security practices.
+Drive adoption of security best practices across engineering teams.
+Proactively identify and mitigate security risks.
+
+
+Skills and Experience
+
+Successful candidates for this role will generally possess the following qualifications and skills:
+
+
+5+ years of experience in DevSecOps, platform engineering, or infrastructure roles.
+Mastery of AWS, Terragrunt, and cloud-native security tooling.
+Deep expertise in VPC design, IAM policies, and network security.
+Experience with PCI-DSS compliance and FinTech regulatory requirements.
+Strong track record of leading incidents and operational excellence.
+Proven ability to mentor engineers and influence team standards.
+Experience driving security improvements across multiple teams.
+
+
+Personality Attributes
+
+
+Technical authority with strong credibility across teams.
+Proactive leader who identifies and addresses risks early.
+Excellent communicator with stakeholders at all levels.
+Strategic thinker who balances immediate needs with long-term goals.
+Patient and effective mentor.
+Calm and decisive under pressure during incidents.
+
+
+We place a lot of value on how we treat prospective employees and appreciate the time and effort that goes into job hunting. That is why we aim to keep the hiring process as quick and seamless as possible while ensuring the best possible fit for both you and the company.
+
+Working at Entersekt is truly a dream. You get exposed to cutting-edge technology, colleagues who are leaders in their fields, and an awesome working environment that includes flexible hours, remote work, and plenty of growth opportunities.
+
+Apply for this position by following the "apply now" tab and or viewing our other roles at Entersekt Careers page.
+
+Entersekt is an Equal Opportunity Employer:
+
+We are committed to building an inclusive and diverse workforce that reflects the global communities we serve. For all South Africa-based roles, preference will be given to candidates from historically disadvantaged groups, in accordance with local Employment Equity objectives.
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at Entersekt by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Senior Chemical Engineer jobs
+Senior DevSecOps Engineer
+Similar jobs
+Security Engineer
+Security Engineer
+LiteLLM
+South Africa
+1 week ago
+Senior Cloud DevOps Engineer
+Senior Cloud DevOps Engineer
+Ikue
+South Africa
+10 months ago
+Security Engineer
+Security Engineer
+Offchain
+South Africa
+1 week ago
+Senior Application Security Engineer
+Senior Application Security Engineer
+RootstockLabs
+South Africa
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Huzzle.com
+South Africa
+5 months ago
+Security Engineer
+Security Engineer
+Flox
+South Africa
+1 week ago
+Show more jobs like this 
+People also viewed
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Communicate Recruitment
+
+City of Johannesburg, Gauteng, South Africa
+2 weeks ago
+Senior DevOps Engineer (Architecture)
+Senior DevOps Engineer (Architecture)
+
+BETSoftware
+
+Durban, KwaZulu-Natal, South Africa
+1 week ago
+Platform Engineer
+Platform Engineer
+
+Share
+
+City of Johannesburg, Gauteng, South Africa
+2 months ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Upstream
+
+Johannesburg, Gauteng, South Africa
+3 days ago
+Senior Cloud Infrastructure Engineer
+Senior Cloud Infrastructure Engineer
+
+Optimal Growth Technologies
+
+Nkandla, KwaZulu-Natal, South Africa
+2 weeks ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+Just After Midnight
+
+South Africa
+2 weeks ago
+Senior Web Application Penetration Tester
+Senior Web Application Penetration Tester
+
+SIXGEN
+
+South Africa
+4 days ago
+OpenShift Platform Engineer - South Africa
+OpenShift Platform Engineer - South Africa
+
+LSD Open
+
+South Africa
+1 month ago
+Senior Cloud Engineer (AWS)
+Senior Cloud Engineer (AWS)
+
+Lesaka Technologies Inc.
+
+Cape Town, Western Cape, South Africa
+1 week ago
+Hands-on Engineering Manager DevOps (GCP/Kubernetes)
+Hands-on Engineering Manager DevOps (GCP/Kubernetes)
+
+Jobgether
+
+South Africa
+6 days ago
+Similar Searches
+Senior Chemical Engineer jobs
+122 open jobs
+Staff Engineer jobs
+1,083 open jobs
+Section Engineer jobs
+438 open jobs
+Messaging Engineer jobs
+38 open jobs
+Voice Network Engineer jobs
+44 open jobs
+Senior Integration Specialist jobs
+631 open jobs
+Senior Server Engineer jobs
+85 open jobs
+Senior Infrastructure Engineer jobs
+155 open jobs
+Lead Engineer jobs
+1,450 open jobs
+Senior Transmission Engineer jobs
+38 open jobs
+Senior Software Engineer jobs
+1,727 open jobs
+Senior PHP Developer jobs
+1,283 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

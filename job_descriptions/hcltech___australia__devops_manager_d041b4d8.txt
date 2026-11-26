@@ -1,0 +1,298 @@
+Title: DevOps Manager
+Company: HCLTech - Australia and New Zealand
+Location: Melbourne, Victoria, Australia
+URL: https://au.linkedin.com/jobs/view/devops-manager-at-hcltech-australia-and-new-zealand-4494974919
+Posted: 2026-11-27
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in DevOps, CI/CD pipeline management, and release engineering, and it is located in an eligible country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Manager
+HCLTech - Australia and New Zealand  Melbourne, Victoria, Australia
+18 hours ago   Be among the first 25 applicants
+  
+
+See who HCLTech - Australia and New Zealand has hired for this role
+
+Apply
+Save
+HCLTech - Australia and New Zealand provided pay range
+
+This range is provided by HCLTech - Australia and New Zealand. Your actual pay will be based on your skills and experience — talk with your recruiter to learn more.
+
+Base pay range
+$130,000.00/yr - $150,000.00/yr
+
+Direct message the job poster from HCLTech - Australia and New Zealand
+
+Garima Singh
+Garima Singh
+
+We are HCLTech, one of the fastest-growing large tech companies in the world and home to 219,000+ people across 54 countries, supercharging progress through industry-leading capabilities centered around Digital, Engineering and Cloud.
+
+The driving force behind that work, our people, are diverse, creative, and passionate, raising the bar for excellence on a regular basis. We, in turn, work hard to bring out the best in them as we strive to help them find their spark and become the best version of themselves that they can be.
+
+Are you ready to be an important part of this ever-transformational journey?
+
+At HCLTech Australia, we value the unique perspective and contributions of all individual and we actively encourage applications from Aboriginal and Torres Strait Islander people to apply for this role.
+
+DevOps Lead
+
+Location: Melbourne
+
+Experience: 10-12 Years
+
+About the Role
+
+We are looking for an experienced DevOps Lead to drive the design, implementation, and optimization of cloud-native infrastructure, DevOps practices, and automation frameworks. The ideal candidate will have strong expertise in Azure cloud technologies, CI/CD pipelines, Infrastructure as Code (IaC), containerization, Kubernetes, and platform lifecycle management.
+
+This role requires a hands-on technical leader who can mentor teams, collaborate with stakeholders, and enable scalable, secure, and reliable deployment strategies across enterprise environments.
+
+Key Responsibilities
+
+Lead and manage the end-to-end DevOps infrastructure and platform lifecycle.
+Design and implement scalable DevOps architectures for Azure PaaS and AKS/Kubernetes environments.
+Develop and maintain CI/CD pipelines using Azure DevOps, Jenkins, GitHub, and GitLab.
+Build and manage Infrastructure as Code (IaC) solutions using Terraform, ARM Templates, and Ansible.
+Automate deployment, monitoring, configuration management, and operational processes.
+Define and implement deployment strategies to ensure seamless software releases across multiple environments.
+Collaborate with development, infrastructure, and security teams to improve delivery efficiency and platform reliability.
+Troubleshoot complex customer and production issues and provide timely resolutions.
+Create operational documentation, runbooks, playbooks, and automation tools to improve customer experience and operational excellence.
+Mentor and train junior engineers, fostering DevOps best practices and continuous improvement.
+Drive platform modernization initiatives and cloud adoption strategies.
+
+Required Skills & Experience
+
+Technical Skills
+
+Strong experience working in Agile and fast-paced DevOps environments.
+Expertise in Azure Cloud Platform, including Azure PaaS services and Azure Kubernetes Service (AKS).
+Hands-on experience with Azure DevOps, Azure Repos, Jenkins, Git, GitHub, and GitLab.
+Experience migrating and managing source code repositories across platforms.
+Strong knowledge of Infrastructure as Code (IaC) using Terraform, ARM Templates, and Ansible.
+Experience with Docker containers and Kubernetes orchestration.
+Strong scripting and automation skills using Bash, PowerShell, and Python.
+Experience in platform lifecycle management, deployment automation, and release management.
+Familiarity with source control systems, debugging tools, testing frameworks, and open-source DevOps ecosystems.
+Understanding of application environments supporting Microsoft and Java technology stacks.
+
+Leadership & Soft Skills
+
+Proven experience leading DevOps teams and large-scale cloud transformation initiatives.
+Excellent stakeholder management and communication skills.
+Strong problem-solving and troubleshooting capabilities.
+Ability to mentor team members and drive continuous learning.
+Customer-focused mindset with experience supporting enterprise environments.
+
+Preferred Qualifications
+
+Azure DevOps Engineer Expert Certification or equivalent.
+Microsoft Azure Certifications.
+Kubernetes Certifications (CKA/CKAD) desirable.
+Experience with cloud governance, security, and compliance frameworks.
+
+Tools & Technologies
+
+Cloud & Containers: Azure, Azure PaaS, AKS, Docker, Kubernetes
+
+CI/CD & Source Control: Azure DevOps, Azure Repos, Jenkins, Git, GitHub, GitLab
+
+Infrastructure as Code: Terraform, ARM Templates, Ansible
+
+Scripting: Bash, PowerShell, Python
+
+If you are passionate about cloud automation, DevOps transformation, and leading high-performing engineering teams, we'd love to hear from you.
+
+Equality & Opportunity for All
+
+Representing 165 nationalities across the globe, we pride ourselves on being an equal opportunity employer, committed to providing equal employment opportunities to all applicants and employees regardless of race, religion, sex, color, age, national origin, pregnancy, sexual orientation, physical disability or genetic information, military or veteran status, Aboriginal and Torres Strait Islander people or any other protected classification, in accordance with federal, state, and/or local law.
+
+Candidate Data Privacy Notice | HCL Technologies
+
+We are committed to respecting your privacy and for the protection of your personal data. Your personal data will be collected and processed in line with our candidate privacy notice: https://www.hcltech.com/candidate-privacy-notice. This privacy notice will help you to understand what personal data we collect about you, how we use this personal data, and what rights you have regarding your personal data. By replying to this email or submitting any personal data to HCL Tech, you acknowledge that you have read and understood the candidate privacy notice and have provided your consent to the processing of your data for recruitment purposes as described in the privacy notice”.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at HCLTech - Australia and New Zealand by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Management Information Systems Manager jobs
+DevOps Manager
+Similar jobs
+Platform Engineering Lead
+Platform Engineering Lead
+Movember
+Richmond, Victoria, Australia
+23 hours ago
+Manager – DevOps & Platform Engineering Consulting
+Manager – DevOps & Platform Engineering Consulting
+Accenture Australia
+Melbourne, Victoria, Australia
+1 month ago
+Senior Manager DevOps
+Senior Manager DevOps
+Accenture Australia
+Melbourne, Victoria, Australia
+1 month ago
+Engineering Manager - Cloud Platform Engineering
+Engineering Manager - Cloud Platform Engineering
+Medibank
+Melbourne, Victoria, Australia
+19 hours ago
+Systems Engineering Manager
+Systems Engineering Manager
+Easygo
+Melbourne, Victoria, Australia
+1 week ago
+Engineering Manager
+Engineering Manager
+PAAR Systems
+Greater Melbourne Area
+1 week ago
+Show more jobs like this 
+People also viewed
+Staff Site Reliability Engineer
+Staff Site Reliability Engineer
+
+Lyrebird Health
+
+Melbourne, Victoria, Australia
+1 month ago
+Platform Engineer
+Platform Engineer
+
+Kaluza
+
+Melbourne, Victoria, Australia
+1 week ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Insignia Financial
+
+Docklands, Victoria, Australia
+2 weeks ago
+Site Reliability Engineer
+Site Reliability Engineer
+
+Cisco
+
+Melbourne, Victoria, Australia
+2 weeks ago
+Cloud Engineer
+Cloud Engineer
+
+Macquarie Group
+
+Melbourne, Victoria, Australia
+1 day ago
+DevOps Engineer
+DevOps Engineer
+
+Sigma Healthcare
+
+Preston, Victoria, Australia
+1 week ago
+DevOps and Support Engineer
+DevOps and Support Engineer
+
+m-View
+
+Melbourne, Victoria, Australia
+4 weeks ago
+Staff Infrastructure Platform Engineer
+Staff Infrastructure Platform Engineer
+
+GRIDSIGHT
+
+Melbourne, Victoria, Australia
+1 month ago
+Senior Platform Engineer
+Senior Platform Engineer
+
+Blinq
+
+Melbourne, Victoria, Australia
+2 months ago
+Software Engineer, DevOps
+Software Engineer, DevOps
+
+H2O.ai
+
+Melbourne, Victoria, Australia
+6 days ago
+Similar Searches
+Management Information Systems Manager jobs
+746 open jobs
+Business Development Analyst jobs
+2,391 open jobs
+Storage Administrator jobs
+538 open jobs
+Oracle Database Administrator jobs
+4,171 open jobs
+Network Security Engineer jobs
+808 open jobs
+Procurement Analyst jobs
+1,002 open jobs
+Information Technology Auditor jobs
+64 open jobs
+Associate Engineer jobs
+1,362 open jobs
+Performance Test Engineer jobs
+84 open jobs
+Asset Management Analyst jobs
+955 open jobs
+Voice Analyst jobs
+34 open jobs
+Computer Engineer jobs
+2,167 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
