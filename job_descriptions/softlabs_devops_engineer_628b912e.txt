@@ -1,0 +1,119 @@
+Title: DevOps Engineer
+Company: SoftLabs
+Location: Ultimo, Sydney NSW, Australia
+URL: https://au.jora.com/job/DevOps-Engineer-d22cb88e1f83d90ac90b4d8fd730831c
+Posted: 14h ago
+Deadline: Open until filled
+Reason: The role aligns with the candidate's extensive experience in CI/CD, release management, and configuration management, and the employer explicitly states that visa sponsorship shall be considered.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Search
+Sign in
+What
+Where
+Search jobs
+DevOps Engineer
+SoftLabs
+–
+Ultimo NSW
+Full time
+14h ago, from Softlabs
+Apply on company site
+Job Location: Ultimo, Sydney NSW, Australia
+Job Type: Full Time
+
+OverviewWe’re looking for a hands-on DevOps Engineer to join our growing team in Ultimo, Sydney. In this role, you’ll strengthen our build, release, and runtime platform—helping us ship faster, safer, and smarter. You’ll drive automation, improve CI/CD pipelines, manage Kubernetes clusters, and enable our teams to deliver with confidence across both cloud and on-premises environments.
+
+This is a great opportunity for someone with strong technical foundations who wants to make a real impact while learning and growing with a supportive, forward-thinking company.
+
+About SoftLabs
+
+
+SoftLabs is an Australian-owned, women-led enterprise software company established in 1991. With a strong presence in Australia and New Zealand, we specialise in Industry Automation Solutions, ERP Implementations, Consulting, and Software Management. Our commitment to innovation and excellence drives us to deliver tailored solutions that empower businesses to thrive in a dynamic marketplace.
+
+About the Role
+
+
+You will own day-to-day platform operations for containerised applications, drive automation with Infrastructure as Code, and collaborate closely with developers, QA, and SRE. This role suits someone who enjoys pragmatic engineering, measurable reliability, and mentoring teammates on modern DevOps practices.
+
+What You'll Do:
+
+Design, build, and maintain Kubernetes clusters (on-prem and cloud) with high availability and autoscaling.
+Create and manage CI/CD pipelines using Jenkins, GitHub Actions, GitLab CI, or Argo CD for zero-downtime deployments.
+Containerise services with Docker; implement blue/green and canary deployments with rollbacks.
+Automate infrastructure with Terraform and configuration with Ansible
+Implement observability stacks with Prometheus, Grafana, and ELK, ensuring actionable alerts.
+Manage secrets and backups with Vault and Velero; validate disaster recovery procedures.
+Optimise cloud usage and costs on AWS/GCP/Azure while maintaining performance and reliability.
+Collaborate with product and engineering on SLIs/SLOs, deployment standards, and incident response.
+
+Document platforms and train teams on best practices and tooling.
+
+About You
+
+2–5 years in DevOps/SRE/platform engineering roles.
+2+ years of Kubernetes administration in production environments.
+2+ years of building CI/CD pipelines and automating releases (Jenkins, GitHub Actions, GitLab CI, or Argo CD).
+1+ years of Terraform (IaC) and Ansible (config management) in production.
+Experienced in observability stacks (Prometheus, Grafana, ELK) and incident response.
+Strong Linux fundamentals, Bash scripting, and networking basics.
+Solid understanding of Docker and Git.
+Cloud experience with at least one major provider (AWS preferred; GCP/Azure a plus).
+A clear communicator, collaborative team player, and pragmatic problem solver.
+
+Bonus Skills (Depending on Project Requirements):
+
+Experience with AWS Fargate or hybrid on-prem/cloud architectures.
+HA/load balancing with Nginx/HAProxy/ALB and traffic management for multi-service platforms.
+Supply-chain security and pipeline hardening.
+Cost optimisation and capacity planning
+
+Employer questions
+
+How many years of hands-on Kubernetes administration do you have?
+Which CI/CD tools have you used in production, and for how long?
+List your IaC and config-management experience (Terraform, Ansible, etc.).
+Which clouds have you used professionally (AWS/GCP/Azure) and to what depth?
+What monitoring/logging stacks have you deployed and maintained?
+Describe a zero-downtime deployment strategy you’ve implemented.
+What’s your approach to cost optimisation in the cloud?
+Which scripting languages are you comfortable with?
+Which statement best describes your right to work in Australia?
+What is your expected base salary?
+
+
+Full work rights and work right visa sponsorship shall be considered for the right skill sets​
+
+
+Apply on company site
+Be careful - Don’t provide your bank or credit card details when applying for jobs. Don't transfer any money or complete suspicious online surveys. If you see something suspicious, report this job ad.
+Email to yourself or a friend
+Email job
+Discover Jora
+Browse jobs
+Browse salaries
+Find recruiter
+About
+FAQ
+Blog
+Reviews
+Browse Jobs in Australia
+Jobs in Sydney
+Jobs in Melbourne
+Jobs in Hobart
+Jobs in Brisbane
+Jobs in Perth
+Jobs in Darwin
+Jobs in Adelaide
+Connect with us
+TikTok
+Facebook
+Linkedin
+Get Jora app
+Contact us
+Privacy
+Terms & Conditions
+©2026 Job Seeker Pty Ltd

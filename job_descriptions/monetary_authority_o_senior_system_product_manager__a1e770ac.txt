@@ -1,0 +1,251 @@
+Title: Senior System Product Manager (Payments & Monetary Management) (Contract)
+Company: Monetary Authority of Singapore (MAS)
+Location: Singapore, Singapore
+URL: https://sg.linkedin.com/jobs/view/senior-system-product-manager-payments-monetary-management-contract-at-monetary-authority-of-singapore-mas-4345941311
+Posted: 2026-11-20
+Deadline: N/A
+Reason: The role aligns perfectly with the candidate's expertise in release management, quality governance, and technical documentation within a highly regulated, mission-critical environment.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior System Product Manager (Payments & Monetary Management) (Contract)
+Monetary Authority of Singapore (MAS)  Singapore, Singapore
+1 week ago  150 applicants
+  
+
+See who Monetary Authority of Singapore (MAS) has hired for this role
+
+Apply 
+Save
+What The Role Is
+
+The Monetary Authority of Singapore (MAS) is Singapore's central bank and integrated financial regulator. MEPS+ (Central Banking & Devt Platforms Division) is responsible for the MAS Electronic Payment System — a mission-critical system supporting interbank payments, government securities management, and domestic market infrastructure. MEPS+ serves the entire Singapore financial sector and requires 24/7 operational reliability, strict compliance with government regulatory frameworks, and close coordination with financial institutions and government agencies.
+
+As System Manager, you are the operational and delivery owner for MEPS+ and related systems. You own the outcomes, and coordinate across software engineers, product owners, compliance teams, and external vendors to ensure system reliability, regulatory compliance, and successful delivery of enhancements and patches.
+
+What You Will Be Working On
+
+Operational Delivery & Application Portfolio Management
+
+
+Own operational delivery outcomes for the MEPS+ application portfolio across interbank payments, government securities management, and domestic market infrastructures. Make and recommend strategic decisions on application rationalisation, consolidation, or decommissioning to optimise portfolio efficiency.
+Coordinate release management and delivery cycles with product owners, ensuring timely and quality deployment of enhancements, patches, and security updates across major (semi-annual) and monthly patch cycles.
+Own Service Level Objectives (SLOs) for applications under management. Review SLI and SLO performance reports produced by the SRE team, identify trends and deviations, and escalate or drive remediation as appropriate. Set requirements for monitoring coverage and alert quality; hold the SRE team accountable for outcomes.
+Coordinate verification of monthly and quarterly system patching with the SRE team. Ensure patch outcomes are documented and meet compliance requirements.
+
+
+Tech Delivery Manager Responsibilities (During Release Cycles)
+
+
+Lead release planning and delivery activities during major enhancement releases (semi-annual). Coordinate with product owners, development teams, testing teams, and vendors to establish release scope, timelines, and deployment readiness criteria.
+Manage release communication to all stakeholders. Provide status updates, escalate blockers, and maintain stakeholder alignment on release objectives and timelines throughout the cycle.
+Own release governance and quality standards for MEPS+. Define the release readiness criteria and test governance framework that the Software Engineer executes against. Review and sign off on test outcomes, patch verification results, and release readiness reports before production deployment.
+
+
+Incident Management
+
+
+Own the incident management framework for MEPS+. Define and maintain incident escalation paths, SLO targets (P1, P2, P3), and communication protocols. During major incidents, lead stakeholder communication and coordinate the response — software engineers provide technical investigation and resolution support.
+Drive root cause analysis and post-mortems following significant incidents. Own the documentation of lessons learned and track implementation of preventive measures to reduce recurrence.
+
+
+Vendor Coordination & Procurement
+
+
+Own vendor governance for outsourced components and services. Chair vendor performance reviews, monitor SLA compliance, and make escalation decisions when vendor performance falls short. Coordinate with software engineers for detailed technical review of vendor-delivered code and fixes.
+Lead MAS's participation in procurement activities for outsourced services, including defining tender specifications, evaluating vendor proposals, and contributing to contract negotiations.
+
+
+Compliance, Governance & Risk Management
+
+
+Coordinate RFI responses across the team, ensuring accurate and timely submission of supporting documentation.
+Plan and lead resiliency exercises including Disaster Recovery drills, manual contingency procedures, and CyberEx participation. Validate system failover and recovery capabilities. Maintain compliance with ICT Governance policies and standards specific to government financial infrastructure.
+
+
+Essential Criteria
+
+What we are looking for
+
+
+8+ years of progressive experience in managing, operating, or delivering complex mission-critical systems. Minimum 3–4 years in a delivery management, operations management, or technical programme management role with clear accountability for system reliability or release outcomes. Experience with payment systems, securities settlement, or financial infrastructure is advantageous but not required.
+Demonstrated ability to lead incident response at an organisational level — owning stakeholder communication, driving post-mortems, and implementing systemic improvements. Track record of managing high-stakes operational environments.
+Proven experience managing vendor relationships, chairing performance reviews, and holding vendors accountable to SLAs. Experience contributing to procurement or contract management activities.
+Strong experience coordinating release cycles across multiple teams — development, testing, operations, and compliance — with accountability for release readiness decisions.
+Excellent communication skills. Able to explain technical risks, operational decisions, and compliance requirements clearly to senior leadership, business stakeholders, and regulators. Strong written communication for incident reports, post-mortems, audit RFI responses, and governance documentation.
+Comfortable working across technical domains without requiring deep hands-on expertise in every platform. Able to engage credibly with software engineers and SRE colleagues, ask the right questions, and make informed decisions based on their input.
+Proven ability to manage multiple concurrent workstreams — incident response, release coordination, compliance activities, vendor management — without losing attention to detail or governance rigour.
+
+
+Desirable Criteria
+
+
+Familiarity with Java/J2EE application environments, Linux/RHEL systems, or SQL — sufficient to engage meaningfully with engineering teams and understand technical risk, without necessarily being a hands-on practitioner.
+Experience with containerisation technologies (Docker, Kubernetes) or cloud platforms (OpenShift, OpenStack) at a conceptual or governance level.
+Experience with CICD pipelines, release automation, and test management frameworks.
+Familiarity with observability and monitoring platforms (e.g. Grafana, ELK stack) from an operational governance perspective.
+Familiarity with government IT environments and regulatory compliance frameworks (CCoP, CSP, AGO, IM8).
+Agile delivery experience and comfort collaborating with product teams and development teams.
+Relevant certifications (e.g. ITIL, PMP, AWS Solutions Architect, or equivalent).
+
+
+This is a contract role until December 2028. All applicants will be notified on whether they are shortlisted or not within 4 weeks of the closing date of this job posting.
+
+As part of the shortlisting process for this role, you may be required to complete a medical declaration and/or undergo further assessment.
+
+
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Contract
+Industries
+Banking
+  
+
+Referrals increase your chances of interviewing at Monetary Authority of Singapore (MAS) by 2x
+
+See who you know
+
+Get notified about new Senior Product Manager jobs in Singapore, Singapore.
+
+Sign in to create job alert
+Similar jobs
+Senior Product Manager
+Senior Product Manager
+ANEXT Bank
+Singapore, Singapore
+2 weeks ago
+Product Manager
+Product Manager
+Pave Bank
+Singapore, Singapore
+5 months ago
+Senior Product Manager, GTPN
+Senior Product Manager, GTPN
+Airwallex
+Singapore, Singapore
+1 week ago
+Payment Product Manager (Fiat)
+Payment Product Manager (Fiat)
+Binance
+Singapore
+2 days ago
+Associate Director, Global PayTech Product
+Associate Director, Global PayTech Product
+Standard Chartered
+Singapore, Singapore
+1 week ago
+Director - Payment Services Product Manager, Digital Channel Solutions
+Director - Payment Services Product Manager, Digital Channel Solutions
+Standard Chartered
+Singapore, Singapore
+1 week ago
+Show more jobs like this 
+People also viewed
+OTC & Payment Accounts Product Manager
+OTC & Payment Accounts Product Manager
+
+BIT Official
+
+Singapore, Singapore
+1 week ago
+Product Manager - APAC' Expansion
+Product Manager - APAC' Expansion
+
+Sokin
+
+Singapore, Singapore
+1 month ago
+Product Manager, Payments - Digital Banking
+Product Manager, Payments - Digital Banking
+
+Monee
+
+Singapore, Singapore
+3 days ago
+Senior VP, Product Manager - Digital Currency and Payments, GroupTransaction Banking
+Senior VP, Product Manager - Digital Currency and Payments, GroupTransaction Banking
+
+UOB
+
+Singapore, Singapore
+2 weeks ago
+Product Senior Specialist
+Product Senior Specialist
+
+EBANX
+
+Singapore
+2 weeks ago
+Senior Product Manager - Cards
+Senior Product Manager - Cards
+
+Xendit
+
+Singapore, Singapore
+1 week ago
+Card Issuance Product Manager - Global Payment
+Card Issuance Product Manager - Global Payment
+
+TikTok
+
+Singapore, Singapore
+3 weeks ago
+Senior Forward Deployed Product Manager
+Senior Forward Deployed Product Manager
+
+dtcpay
+
+Singapore, Singapore
+4 weeks ago
+【SG】Solution Product Manager (MJ000027)
+【SG】Solution Product Manager (MJ000027)
+
+LianLian
+
+Singapore
+2 months ago
+Product Lead, Emerging Markets
+Product Lead, Emerging Markets
+
+IG Group
+
+Downtown Core, Central Singapore Community Development Council, Singapore
+2 weeks ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

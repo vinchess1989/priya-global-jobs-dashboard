@@ -1,9 +1,9 @@
 {
   "pid": 33868,
   "started_at": "2026-11-27T01:12:35+02:00",
-  "heartbeat_at": "2026-11-27T01:24:48+02:00",
+  "heartbeat_at": "2026-11-27T01:27:12+02:00",
   "phase": "reviewing",
-  "detail": "DevOps Manager",
-  "last_scrape_ok_at": "2026-11-27T01:23:39+02:00",
+  "detail": "Burberry Platform Manager (Customer)",
+  "last_scrape_ok_at": "2026-11-27T01:26:02+02:00",
   "last_error": null
 }
