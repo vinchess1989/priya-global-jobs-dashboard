@@ -1,0 +1,264 @@
+Title: Software Developer in Test
+Company: MeDirect Bank Malta
+Location: Sliema, Malta
+URL: https://mt.linkedin.com/jobs/view/software-developer-in-test-at-medirect-bank-malta-4495030568
+Posted: 2026-11-27
+Deadline: N/A
+Reason: The role aligns with the candidate's expertise in QA, CI/CD pipeline integration, and automation, and is located in a target country (Malta) without any hard rejection criteria triggered.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Software Developer in Test
+MeDirect Bank Malta  Sliema, Malta
+8 hours ago   Be among the first 25 applicants
+  
+
+See who MeDirect Bank Malta has hired for this role
+
+Apply 
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+
+Direct message the job poster from MeDirect Bank Malta
+
+Karl Zammit
+Karl Zammit
+
+MeDirect is a Maltese digital bank, founded in 2004, with over 180,000 clients and operations in Malta and Belgium. We offer a wide range of financial services to both retail and corporate clients, including daily banking, savings, and corporate services.
+
+
+
+
+We are always on the lookout for driven and creative individuals who are eager to grow their career while helping us deliver cutting-edge digital banking experiences. At MeDirect, we encourage collaboration, innovation, and continuous learning, ensuring our people thrive in a dynamic environment.
+
+
+
+
+Role Overview:
+
+We are seeking a talented Software Developer in Test to join our Development Team and play a key role in ensuring the reliability, performance, and quality of the bank’s digital solutions.
+
+
+
+
+This position offers the opportunity to work with modern testing tools and methodologies in an agile environment, contributing to the delivery of scalable, high-quality, and innovative digital products shaping the future of banking services.
+
+
+
+
+Duties and responsibilities
+
+Maintain and continuously build upon and improve our automation testing frameworks
+Define the automation roadmap and collaborate with the team to address areas of improvement or coverage
+Develop internal tools to facilitate the
+duties and work performed by the QA Team
+Work with the developers to ensure component level tests are being implemented and reviewed correctly
+Integrate automated tests with our CI/CD pipelines to execute both on demand and
+nightly tests
+Design test plans and develop automated tests to expand on the existing test repository
+Identify automation gaps, plan, and delegate work to the QA Automation Engineers
+Implement reporting and necessary integrations to translate test results into business readable form
+Highlight, develop and execute performance tests as necessary
+Monitor test executions, review test run results, and propose improvements in a timely manner
+Contribute to the team’s roadmap tasks to upkeep the quality, reputability, and reliability of our products
+
+
+
+
+Required knowledge, skills and experience:
+
+University degree in Computer Science or relevant field.
+At least 3 years of experience in a software development or automation role
+At least 2 years of experience in QA or similar roles Industry knowledge of using API testing clients such as Postman, Jmeter, Bruno or SoapUI
+Working experience with OOP development languages such as C# or Java
+Using code repository and revisioning tools such as Git or SVN Scripting languages such as JS/Typescript/Groovyscript
+Ability to navigate through service/API logs and perform troubleshooting and root cause analysis
+Strong communication skills and approachable personality
+Knowledge of trading, financial instruments, and/or banking experience will be considered a major asset
+Experience with issue tracking tools such as Jira and test tracking tools such as Testrail or Xray
+Working with databases such as MSSQL, PostGres or OraDB
+Experience with REST/XML micro-service and event driven architectures
+Experience
+using CI/CD platforms such as GoCD, Jenkins, Github/Gitlab actions
+
+
+
+
+Our Package:
+
+At MeDirect, we believe that our people are our greatest strength, which is why we offer a comprehensive benefits package designed to support employee well-being, growth, and overall experience.
+
+
+
+
+Benefits include:
+
+🏥 Private Health & Life Insurance
+🏡 Home Office Subsidy
+🚗 Free Parking
+📚 Study Grants & Leave
+💻 Hybrid Working Model & ⏰ Flexible Working Hours
+🏋️ Gym Subsidy
+💰 Staff Savings Account with Preferential Interest Rate
+🏠 Home Loan Subsidy
+🎁 Yearly Discretionary Performance Bonus
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Banking
+  
+
+Referrals increase your chances of interviewing at MeDirect Bank Malta by 2x
+
+See who you know
+
+Get notified about new Software Engineer in Test jobs in Sliema, Malta.
+
+Sign in to create job alert
+Similar jobs
+Senior QA Engineer
+Senior QA Engineer
+Catena Media
+Sliema, Malta
+3 weeks ago
+Head of Quality Assurance (QA)
+Head of Quality Assurance (QA)
+Twin Harbour Interactive
+Sliema, Sliema, Malta
+2 days ago
+Data Engineer
+Data Engineer
+LeoVegas Group
+Sliema, Sliema, Malta
+2 weeks ago
+Senior Web Developer
+Senior Web Developer
+Catena Media
+Sliema, Malta
+2 weeks ago
+Platform Core DevOps Engineer - Infra
+Platform Core DevOps Engineer - Infra
+Betsson Group
+Sliema, Sliema, Malta
+1 day ago
+Engineering Manager
+Engineering Manager
+RubyPlay
+Sliema, Sliema, Malta
+3 months ago
+Show more jobs like this 
+People also viewed
+HR Manager
+HR Manager
+
+OKX
+
+Sliema, Sliema, Malta
+1 week ago
+Accountant iGaming
+Accountant iGaming
+
+Triskel Consulting
+
+Sliema, Malta
+1 week ago
+General Maintenance Person
+General Maintenance Person
+
+bet365
+
+Sliema, Sliema, Malta
+3 weeks ago
+Head of Product
+Head of Product
+
+Relax Gaming Ltd
+
+Sliema, Malta
+2 days ago
+Marketing Manager
+Marketing Manager
+
+TaDa Gaming | Game Provider
+
+Sliema, Malta
+3 weeks ago
+Director of Product
+Director of Product
+
+Patrianna
+
+Sliema, Sliema, Malta
+6 days ago
+NOC Engineer
+NOC Engineer
+
+LeoVegas Group
+
+Sliema, Sliema, Malta
+1 week ago
+Project Manager - Automation & AI
+Project Manager - Automation & AI
+
+LeoVegas Group
+
+Sliema, Sliema, Malta
+1 week ago
+VOC Data & Insights Specialist
+VOC Data & Insights Specialist
+
+LeoVegas Group
+
+Sliema, Sliema, Malta
+3 days ago
+Product Manager
+Product Manager
+
+Catena Media
+
+Sliema, Malta
+1 week ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

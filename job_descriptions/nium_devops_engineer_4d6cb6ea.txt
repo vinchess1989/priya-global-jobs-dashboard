@@ -1,0 +1,274 @@
+Title: DevOps Engineer
+Company: Nium
+Location: Malta
+URL: https://mt.linkedin.com/jobs/view/devops-engineer-at-nium-4495520248
+Posted: 2026-11-27
+Deadline: Open until filled
+Reason: The role aligns with the candidate's extensive experience in CI/CD, infrastructure automation, and release management, and it is located in Malta, which is one of the target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+DevOps Engineer
+Nium  Malta
+7 hours ago   Be among the first 25 applicants
+  
+
+See who Nium has hired for this role
+
+Apply
+Save
+Use AI to assess how you fit
+
+Get AI-powered advice on this job and more exclusive features.
+
+Am I a good fit for this job?
+Tailor my resume
+Nium provides global infrastructure for real-time cross-border payments. We were founded on the mission to deliver the global payments infrastructure of tomorrow, today. Our platform enables banks, fintechs, and global businesses to move money instantly, everywhere.
+
+Co-headquartered in San Francisco and Singapore with offices in 14 markets worldwide, we are entering one of the most exciting chapters in our journey. In March 2026, we delivered the largest month in our 11-year history with record revenue, record volumes, and EBITDA profitability. Today, Nium moves nearly $60B in payments annually, almost entirely for enterprises, while continuing to strengthen an already healthy balance sheet.
+
+It is an incredible time to join us, and we are only just getting started.
+
+Our payout network spans 190+ countries and 100 currencies, with 100 + corridors in real time. We power seamless transfers to accounts, wallets, and cards, support local collections in 35 markets, and as a principal card issuer on Visa, Mastercard, Discover, and UATP, Nium issues over 50 million card tokens every year. Backed by regulatory licenses in 40+ markets, we make it simple for our partners to onboard, integrate, and scale globally. This scale and innovation have earned us recognition as one of CNBC’s World’s Top Fintech Companies 2025, winner of Best Cross-Border Payments Solution at the PayTech Awards, and inclusion in FXC Intelligence’s Top 100 Cross-Border Payments Companies list.
+
+In 2024, we raised US$50 million in Series E funding at a US$1.4 billion valuation to accelerate network expansion, product innovation, and talent growth. With the B2B payments market projected to hit US$175 trillion by 2030, Nium offers ambitious builders the chance to shape the future of global money movement with the scale of a leader and the energy of a high-growth company.
+
+Role Overview
+
+As a DevOps Engineer at Nium, you will be a key contributor within our engineering organisation, working closely with software engineering teams to build, automate, and operate the infrastructure that powers our card issuance platform. You will be maintaining our on-premises setup and will help move our workloads from on-premises to AWS, and drive our adoption of GitOps practices.
+
+In this hands-on role, you will design and maintain cloud infrastructure, Kubernetes platforms, and CI/CD pipelines. You will empower engineering teams with the tools and self-service capabilities they need to deliver their work end to end, while keeping our systems reliable, secure, and scalable.
+
+You will advocate for infrastructure-as-code and automation best practices, troubleshoot production issues, and promote collaboration and knowledge sharing across teams. Based in Malta, you will help shape how our engineering organisation builds and ships payment technology.
+
+Key Responsibilities
+
+Cloud Migration & Platform Modernisation
+
+
+Lead and execute the migration of workloads and CI/CD pipelines from on-premises infrastructure to AWS
+Support the transition from a monolithic architecture to microservices, ensuring the platform foundations are ready for it
+
+
+
+GitOps & Infrastructure Automation
+
+
+Automate the provisioning of infrastructure using Terraform
+Implement and maintain application deployments to Kubernetes using ArgoCD and GitOps workflows
+Manage Kubernetes manifests and configuration with Kustomize, where applicable
+
+
+
+Continuous Integration & Delivery
+
+
+Establish and employ Continuous Integration practices using tools such as CircleCI
+Build, maintain, and improve CI/CD pipelines to enable fast, reliable, and secure releases
+
+
+
+Engineering Enablement
+
+
+Empower engineering teams with the tools, templates, and self-service capabilities to handle their deliverables end to end
+Provide the infrastructure required to run and scale the card issuance platform
+
+
+
+Operations & Support
+
+
+Monitor, troubleshoot, and resolve infrastructure issues, providing timely support to customers and internal departments
+Contribute to incident response, root cause analysis, and continuous improvement of operational processes
+
+
+
+Knowledge Sharing
+
+
+Contribute to team development through training sessions, technical talks, documentation, and informal mentoring
+
+
+
+Required Skills & Experience
+
+
+Hands-on experience with cloud solutions, ideally AWS
+Strong proficiency with Kubernetes, Docker, and Terraform
+Strong working knowledge of Linux operating systems and scripting in Bash, Groovy, and Python
+Experience building and maintaining CI/CD processes
+Experience with GitOps tooling such as ArgoCD is desirable
+
+
+
+What We Offer At Nium
+
+We Value Performance: Through competitive salaries, performance bonuses, sales commissions, equity for specific roles and recognition programs, we ensure that all our employees are well rewarded and incentivized for their hard work.
+
+We Care for Our Employees: The wellness of Nium’ers is our #1 priority. We offer medical coverage along with 24/7 employee assistance program, generous vacation programs including our discretionary year-end shut down (dependant on company OKRs). We also provide a flexible working hybrid working environment (3 days per week in the office).
+
+We Upskill Ourselves: We are curious, and always want to learn more with a focus on upskilling ourselves. We provide role-specific training, internal workshops, and a learning stipend.
+
+We Celebrate Together: We recognize that work is also about creating great relationships with each other. We celebrate together with company-wide social events, team bonding activities, happy hours, team offsites, and much more!
+
+We Thrive with Diversity: Nium is truly a global company, with more than 33 nationalities, based in 18+ countries and more than 10 office locations. As an equal opportunity employer, we are committed to providing a safe and welcoming environment for everyone.
+
+Beware of recruitment scams: Be cautious of individuals impersonating Nium via WhatsApp, social media, email or unofficial websites. Do not respond, share personal or financial information, or make any payments. Nium will never ask candidates to transfer money or cryptocurrency as part of our recruitment process.
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+Show more 
+Seniority level
+Not Applicable
+Employment type
+Full-time
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at Nium by 2x
+
+See who you know
+
+Get notified about new DevOps Engineer jobs in Malta.
+
+Sign in to create job alert
+Similar jobs
+DEVOPS
+DEVOPS
+RELIGA.
+San Ġiljan, Saint Julian's, Malta
+3 months ago
+DevOps Engineer
+DevOps Engineer
+RS2
+Mosta, Malta
+3 days ago
+DevOps Engineer
+DevOps Engineer
+eCabs Technologies
+Saint Julian's, Malta
+3 weeks ago
+Platform Core DevOps Engineer - Infra
+Platform Core DevOps Engineer - Infra
+Betsson Group
+Sliema, Sliema, Malta
+1 day ago
+Platform Core DevOps Engineer - Infra
+Platform Core DevOps Engineer - Infra
+Betsson Group
+Valletta, Valletta, Malta
+3 days ago
+Junior DevOps Engineer
+Junior DevOps Engineer
+Platin Gaming Ltd.
+Malta
+1 month ago
+Show more jobs like this 
+People also viewed
+Senior Software Engineer | Kubernetes Automation
+Senior Software Engineer | Kubernetes Automation
+
+Cast AI
+
+Malta
+1 month ago
+Senior Software Engineer | Platform Engineering
+Senior Software Engineer | Platform Engineering
+
+Cast AI
+
+Malta
+1 month ago
+AI Engineer
+AI Engineer
+
+Rhino Entertainment Group
+
+San Ġiljan, Saint Julian's, Malta
+1 day ago
+Staff Security Engineer
+Staff Security Engineer
+
+The Mill Adventure
+
+San Ġiljan, Saint Julian's, Malta
+1 day ago
+Data Engineer
+Data Engineer
+
+LeoVegas Group
+
+Sliema, Sliema, Malta
+2 weeks ago
+Platform Core DevOps Engineer - Infra
+Platform Core DevOps Engineer - Infra
+
+Betsson Group
+
+Ta' Xbiex, Ta' Xbiex, Malta
+8 hours ago
+Senior DevOps Engineer - Gaming
+Senior DevOps Engineer - Gaming
+
+Betsson Group
+
+Ta' Xbiex, Malta
+5 hours ago
+Cloud Engineer (AWS)
+Cloud Engineer (AWS)
+
+Platin Gaming Ltd.
+
+Malta
+6 months ago
+Infrastructure Engineer
+Infrastructure Engineer
+
+Platin Gaming Ltd.
+
+Malta
+1 week ago
+Site Reliability Engineer (SRE)
+Site Reliability Engineer (SRE)
+
+Platin Gaming Ltd.
+
+Malta
+1 month ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
