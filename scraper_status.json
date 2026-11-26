@@ -1,9 +1,9 @@
 {
   "pid": 30444,
   "started_at": "2026-11-26T01:12:54+02:00",
-  "heartbeat_at": "2026-11-26T02:16:12+02:00",
+  "heartbeat_at": "2026-11-26T02:20:44+02:00",
   "phase": "reviewing",
-  "detail": "EPMO Systems & Reporting Manager",
-  "last_scrape_ok_at": "2026-11-26T02:14:30+02:00",
+  "detail": "Student Intern \u2013 AI and Innovation",
+  "last_scrape_ok_at": "2026-11-26T02:19:22+02:00",
   "last_error": null
 }
