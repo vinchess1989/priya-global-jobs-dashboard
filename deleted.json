@@ -32978,5 +32978,22 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": null,
     "deletion_reason": "Requires US citizenship / no visa sponsorship"
+  },
+  {
+    "title": "Nursing Manager",
+    "company": "Charisma Healthcare Solutions",
+    "location": "Worcester, Western Cape, South Africa",
+    "url": "https://za.linkedin.com/jobs/view/nursing-manager-at-charisma-healthcare-solutions-4493819812",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role requires a professional nursing qualification and clinical experience, which the candidate does not possess.",
+    "id": "08f3f7d2",
+    "source": "linkedin_za_quality_manager",
+    "added_at": "2026-11-27T02:15:42+02:00",
+    "posted_date": "2026-11-06",
+    "deadline": "2026-06-14",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-06-14) passed by more than 2 days and unreviewed"
   }
 ]
