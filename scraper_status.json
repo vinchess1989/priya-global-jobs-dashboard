@@ -1,9 +1,9 @@
 {
   "pid": 40120,
   "started_at": "2026-11-28T01:13:02+02:00",
-  "heartbeat_at": "2026-11-28T01:48:19+02:00",
+  "heartbeat_at": "2026-11-28T01:54:46+02:00",
   "phase": "reviewing",
-  "detail": "Regulatory Innovation Officer (P2)",
-  "last_scrape_ok_at": "2026-11-28T01:46:41+02:00",
+  "detail": "Gestionnaire Changements TI",
+  "last_scrape_ok_at": "2026-11-28T01:50:34+02:00",
   "last_error": null
 }

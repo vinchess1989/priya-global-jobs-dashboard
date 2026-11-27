@@ -33471,5 +33471,22 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": "job_descriptions/irish_life_it_dev_senior_manager_irish_li_244d9209.txt",
     "deletion_reason": "Deadline (2025-12-09) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Lead Software Engineer",
+    "company": "Z Energy NZ",
+    "location": "Wellington, Wellington, New Zealand",
+    "url": "https://nz.linkedin.com/jobs/view/lead-software-engineer-at-z-energy-nz-4484915289",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The role is a pure feature-development software engineering position requiring hands-on coding and architecture, and it explicitly requires the legal right to work in New Zealand, which the candidate does not currently hold.",
+    "id": "476d0d83",
+    "source": "linkedin_nz_release_manager",
+    "added_at": "2026-11-28T01:50:13+02:00",
+    "posted_date": "2026-11-25",
+    "deadline": "2026-04-12",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Deadline (2026-04-12) passed by more than 2 days and unreviewed"
   }
 ]
