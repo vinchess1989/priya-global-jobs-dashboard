@@ -1,0 +1,492 @@
+Title: Senior Software Tester (Life Insurance Exp.)
+Company: GOLDENRULE
+Location: Centurion, South Africa
+URL: https://www.careerjunction.co.za/senior-software-tester-life-insurance-exp-job-2647539.aspx
+Posted: 2026-11-24
+Deadline: 2026-12-25
+Reason: The role aligns with the candidate's quality assurance and release-readiness experience, and the location (Centurion, South Africa) is within the target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Your privacy
+
+This site uses cookies and similar technologies to collect and process personal data that recollects your activities and preferences. Some of the personal data, stored on your device, is processed by trusted service providers. We do this to personalise our site, services and the adverts you are shown on and off our website. Click 'I accept' to consent to the use of these technologies or 'Settings' if you wish to manage your settings. You can always change the setting by going to the Cookie Policy page. Necessary cookies enable core functionality such as security, network management, and accessibility. You may disable these by changing your browser settings, but this may affect how the website functions.
+
+SETTINGS
+I ACCEPT
+SIGN IN / SIGN UP
+×
+ 
+Location
+Location
+Work From Home
+Gauteng
+    Johannesburg South
+    Johannesburg Region
+    Pretoria Region
+    East Rand
+    West Rand
+    Vaal
+Western Cape
+    Cape Town Region
+    Winelands
+    West Coast
+    Garden Route
+    Overberg
+    Karoo
+KwaZulu-Natal
+    Durban Region
+    North Coast
+    Midlands & Interior
+    South Coast
+Eastern Cape
+Free State
+Mpumalanga
+Limpopo
+North West
+Northern Cape
+International
+ 
+In All Categories
+In All Categories
+Admin, Office & Support
+Agriculture, Fishing & Forestry
+Architecture & Engineering
+Building & Construction
+Business & Management
+Cleaning, Maintenance & Repair
+Community & Social Welfare
+Design, Media & Arts
+Education, Training & Library
+Finance
+Information Technology
+Legal
+Manufacturing & Assembly
+Marketing
+Medical & Health
+Mining
+Personal Appearance
+Restaurant & Hospitality
+Sales
+Science & Technology
+Security & Emergency Services
+Sport & Fitness
+Telecommunication
+Transportation
+Travel & Tourism
+Warehousing & Logistics
+Other
+SEARCH
+ 
+
+SHARE THIS JOB
+
+SENIOR SOFTWARE TESTER (LIFE INSURANCE EXP.)
+GOLDENRULE
+R Undisclosed
+Permanent Senior position
+Centurion
+Posted 24 Nov 2026 by GoldenRule
+Expires in 31 days
+Job 2647539 - Ref GDR03866
+ SAVE APPLY NOW
+ABOUT THE POSITION
+
+Job Summary
+
+
+The Senior Software Tester leads testing to ensure quality software delivery across the company’s product solutions. The role defines test strategies, drives defect resolution, provides an evidence-based view of release readiness and mentors Junior and Intermediate Testers.
+
+
+The role covers manual functional, regression, integration, end-to-end, negative, exploratory and usability testing for complex and high-risk changes. The role also drives improvements to testing practices, tools and automation.
+
+
+Key Responsibilities
+
+
+Test Planning and Preparation
+
+
+
+
+
+
+Define test strategies and plans based on business risk, system impact and complexity.
+
+
+Review requirements and designs for gaps, dependencies and testability concerns.
+
+
+Provide testing input to user stories, specifications and complex changes.
+
+
+Review test cases, scenarios and test data for coverage and quality.
+
+
+Represent testing in refinement, design and planning discussions.
+
+
+Ensure testing is planned and aligned with delivery timelines.
+
+
+
+Manual Test Execution
+
+
+
+
+
+Perform functional, regression, integration, end-to-end, exploratory, negative and usability testing.
+
+
+Test complex system changes, interfaces and data across connected processes.
+
+
+Assess change impact and design risk-based regression coverage.
+
+
+Use SQL for database and data validation, including complex queries.
+
+
+Ensure test results accurately reflect documented requirements.
+
+
+Maintain testing evidence and set quality standards for the team.
+
+
+
+Defect Management
+
+
+
+
+
+Drive defect resolution with developers and implementation consultants.
+
+
+Lead defect triage, assessing severity, priority, business impact and risk.
+
+
+Investigate complex defects and isolate root causes across configuration, code, data and environments.
+
+
+Analyse recurring and escaped defects and improve test coverage.
+
+
+Ensure defect status and retest outcomes remain accurate and current.
+
+
+
+Quality and Release Support
+
+
+
+
+
+Report testing progress, coverage, defects and quality risks to stakeholders.
+
+
+Make evidence-based recommendations on release readiness and outstanding risks.
+
+
+Escalate material quality concerns and delivery risks with proposed mitigations.
+
+
+Coordinate UAT and support users during client testing.
+
+
+Lead post-implementation verification and use incidents to improve coverage.
+
+
+Champion quality throughout the software development lifecycle.
+
+
+
+Leadership and Collaboration
+
+
+
+
+
+Mentor Junior and Intermediate Testers on testing techniques and product knowledge.
+
+
+Coordinate and review testing performed by team members and supporting resources.
+
+
+Work closely with developers, implementation consultants, analysts, product owners and clients.
+
+
+Lead knowledge sharing on testing approaches, lessons learned and product behaviour.
+
+
+Review software and user documentation for accuracy and alignment.
+
+
+
+Tools, AI and Continuous Improvement
+
+
+
+
+
+Set standards for company-approved testing tools and AI-enabled capabilities.
+
+
+Ensure human validation of AI-generated outputs.
+
+
+Evaluate and adopt testing tools and automation where valuable.
+
+
+Identify repetitive testing activities and improve them through automation, AI or process changes.
+
+
+Maintain testing standards, templates and checklists and share effective practices.
+
+
+
+ 
+
+Minimum Requirements
+
+
+
+
+
+7+ years' industry and job-related experience in software testing.
+
+
+ISTQB certification (Foundation Level as a minimum).
+
+
+Extensive practical experience in manual software testing across complex business systems.
+
+
+Proven experience defining test strategies and test plans for projects or releases.
+
+
+Strong experience performing functional, regression, integration, end-to-end, negative and exploratory testing.
+
+
+Experience leading defect triage and providing release-readiness recommendations.
+
+
+Working SQL skills for data validation and investigation.
+
+
+Experience mentoring or guiding other testers and coordinating testing across a team.
+
+
+Experience coordinating or supporting client UAT.
+
+
+Life and/or Health Insurance industry experience.
+
+
+Experience working within Agile or iterative software-delivery environments.
+
+
+Must hold, or complete within the agreed onboarding or development period, Microsoft Certified: Azure Fundamentals (AZ-900) and Azure AI Fundamentals (AI-900/AI-901).
+
+
+
+Advantageous Experience
+
+
+
+
+
+ISTQB Advanced Level (Test Analyst or Test Manager) or another advanced testing certification.
+
+
+Experience on Exergy, Smart Solutions or a comparable policy administration platform.
+
+
+Experience with API testing tools or techniques, and testing integrations between systems.
+
+
+Experience with test automation tools or frameworks, or introducing automation into a team.
+
+
+Experience with Azure DevOps or a comparable work, test and defect-management platform.
+
+
+Experience using AI-enabled tools to support software testing, analysis or documentation.
+
+
+Experience testing data migrations, batch processing or performance-sensitive processes.
+
+
+
+Skills and Competencies
+
+
+
+
+
+Strong analytical and problem-solving skills, with the ability to isolate root causes.
+
+
+High attention to detail while keeping sight of the broader business impact.
+
+
+Confidence to challenge unclear requirements, assumptions and release decisions constructively.
+
+
+Strong planning, prioritisation and coordination skills across multiple projects.
+
+
+Clear written and verbal communication with technical and business stakeholders, including clients.
+
+
+A coaching mindset and commitment to developing other testers.
+
+
+Sound judgement in balancing thorough testing with practical delivery timelines.
+
+
+Ownership and accountability for quality outcomes.
+
+
+Adaptable and willing to lead the adoption of new tools, technologies and ways of working.
+
+
+Committed to continuous improvement and high-quality outcomes.
+
+
+
+
+
+
+ 
+
+
+
+Desired Skills:
+
+Systems Analysis
+Complex Problem Solving
+Programming/configuration
+Critical Thinking
+Time Management
+
+APPLY NOW
+GOLDENRULE
+
+VIEW AGENCY PROFILE
+
+SEE ALL GOLDENRULE JOBS
+
+ABOUT THE AGENCY
+
+GoldenRule is positioned as a Strategic Resourcing Partner. We are IT Services company with a Total solution offering around staffing issues. We currently offer the following services: * Contracting of GoldenRule fulltime staff to our clients for in-house or external projects. * Permanent placements * Temporary placements to permanent placements * Allowing our fulltime employees to accept job offers from our clients to add further value. * Al...
+
+read more
+
+Receive a daily digest of all new jobs matching this job. Your information is safe with us and you can cancel any time.
+
+EMAIL ME JOBS LIKE THIS
+ 
+
+SHARE THIS JOB
+
+RECOMMENDED JOBS FOR YOU
+Intermediate Tester (Life Insurance Exp.)
+
+GoldenRule
+
+Permanent Intermediate position
+
+Centurion
+
+Expires in 30 days
+
+Senior Developer (Life Insurance Exp.)
+
+GoldenRule
+
+Permanent Senior position
+
+Centurion
+
+Expires in 31 days
+
+Senior Business System Analyst At Sabenza IT & Recruitment
+
+DCV Sabenza IT and Recruitment
+
+Permanent Senior position
+
+Clubview
+
+Expires in 15 days
+
+Junior Software Tester (Life Insurance Exp.)
+
+GoldenRule
+
+Permanent Junior position
+
+Centurion
+
+Expires in 30 days
+
+Test Analyst
+
+Paracon
+
+Contract Senior position
+
+Pretoria
+
+Expires in 6 days
+
+C/C++ Software Engineer (Centurion)
+
+Datafin
+
+Permanent Intermediate position
+
+Centurion
+
+Expires in 12 days
+
+Email me jobs similar to: SENIOR SOFTWARE TESTER (LIFE INSURANCE EXP.)
+JOB SEEKERS
+SITE
+Home / Search Jobs
+My Jobs
+My Alerts
+My Profile & CV
+ASSISTANCE
+FAQ & Support
+ACCOUNT
+Sign In | Sign Up
+AGENCIES & EMPLOYERS
+SITE
+Home / Find Talent
+Recruit Assist
+ASSISTANCE
+FAQ & Support
+ACCOUNT
+Sign Up | Sign In
+Sales Enquiry
+CAREERJUNCTION
+INFO
+About Us / Contact Us
+Work for Us
+Sister Sites
+Our Partners
+CareerJunction Blog
+How It Works
+
+© 2026 Copyright: www.careerjunction.co.za
+
+ 
+
+PAIA,Privacy, Cookies & Terms
+
+    
