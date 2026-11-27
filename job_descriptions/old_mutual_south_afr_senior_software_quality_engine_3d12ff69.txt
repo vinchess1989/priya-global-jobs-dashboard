@@ -1,0 +1,343 @@
+Title: Senior Software Quality Engineer
+Company: Old Mutual South Africa
+Location: Pinelands, Western Cape, South Africa
+URL: https://za.linkedin.com/jobs/view/senior-software-quality-engineer-at-old-mutual-south-africa-4495804600
+Posted: 2026-11-28
+Deadline: 2026-12-04
+Reason: The role aligns with the candidate's extensive background in CI/CD, quality engineering, and technical documentation, and it is located in a target country (South Africa) with no explicit visa restrictions mentioned.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Software Quality Engineer
+Old Mutual South Africa  Pinelands, Western Cape, South Africa
+11 hours ago   Be among the first 25 applicants
+  
+
+See who Old Mutual South Africa has hired for this role
+
+Apply 
+Save
+Let's Write Africa's Story Together!
+
+Old Mutual is a firm believer in the African opportunity and our diverse talent reflects this.
+
+Job Description
+
+We are looking for a Senior Software Quality Engineer to lead quality engineering practices across multiple delivery teams. This role is responsible for driving an automation-first testing strategy, ensuring quality throughout the Software Development Lifecycle (SDLC), and providing technical leadership and mentorship to Quality Engineers.
+
+You will work closely with Development, Architecture, and Business teams to define effective testing approaches, improve quality standards, and deliver high-quality software solutions.
+
+Key responsibilities will include amongst others the following:
+
+Quality Assurance Strategy & Leadership
+
+
+Lead quality assurance initiatives across delivery teams, defining and implementing testing frameworks, standards, governance processes, and quality metrics to ensure consistent delivery of high-quality software solutions.
+
+
+Quality Assurance Testing
+
+
+Design, execute, and oversee functional, integration, system, and end-to-end testing activities. Validate complex business and technical solutions and provide recommendations to improve software quality and reliability.
+
+
+Test Automation Engineering
+
+
+Design, develop, and maintain scalable automation frameworks across front-end, back-end, API, and integration layers. Drive automation adoption and ensure automated testing is integrated into the delivery pipeline.
+
+
+Testing Design & Quality Engineering
+
+
+Collaborate with business, development, and architecture teams to ensure requirements are testable and aligned to quality objectives. Develop testing approaches, methodologies, and frameworks that improve test coverage and delivery outcomes.
+
+
+Performance Engineering
+
+
+Design and execute performance testing strategies using industry-standard tools. Analyse system performance, identify bottlenecks, and provide recommendations to improve scalability, resilience, and customer experience.
+
+
+Security Testing
+
+
+Drive security testing practices across applications by leveraging security testing tools and methodologies. Identify vulnerabilities, assess risks, and support remediation efforts to ensure secure software delivery.
+
+
+CI/CD & DevOps Quality Enablement
+
+
+Support and oversee quality practices within Continuous Integration and Continuous Delivery pipelines. Work with engineering teams to embed automated quality checks and testing within DevOps processes and delivery workflows.
+
+
+Application Quality Improvement
+
+
+Monitor software quality trends, defect patterns, test effectiveness, and delivery health. Identify opportunities for improvement and implement initiatives that enhance product quality, efficiency, and engineering maturity.
+
+
+Continuous Improvement
+
+
+Review existing quality engineering practices and introduce innovative approaches, tools, and methodologies that drive efficiency, increase automation coverage, and improve overall software quality outcomes.
+
+
+Stakeholder Engagement & Collaboration
+
+
+Partner with business stakeholders, product owners, architects, developers, and technology leaders to ensure quality objectives are understood, aligned, and achieved throughout the SDLC.
+
+
+Mentorship & Capability Development
+
+
+Coach and mentor Junior and Intermediate Software Quality Engineers, providing technical guidance, skills development, and quality leadership to strengthen team capability and performance.
+
+
+Documentation
+
+
+Create and maintain high-quality technical documentation, test strategies, automation standards, quality metrics, testing frameworks, and operational procedures.
+
+
+Qualifications and Experience required:
+
+
+NQF Level 7 - Degree, Advance Diploma or Postgraduate Certificate or equivalent.
+8+ years' experience in Software Testing and Quality Engineering.
+Minimum 3 years' experience in a technical leadership, senior, or mentoring role.
+Strong experience across functional, integration, API, automation, performance, and security testing disciplines.
+Expertise in programming languages such as Java, JavaScript, or Python.
+Extensive experience designing and implementing test automation frameworks across frontend and backend platforms.
+Strong SQL skills and experience with test data management practices.
+Experience with API testing and automation tools.
+Mastery of performance testing tools such as Apache JMeter or k6 and the ability to analyse system performance and scalability.
+Proficiency with security testing tools such as OWASP ZAP and Burp Suite.
+Extensive experience with CI/CD technologies including Jenkins, GitLab CI, Azure DevOps, or similar platforms.
+Strong understanding of DevOps practices including Infrastructure as Code, Continuous Testing, containerisation, and deployment automation.
+Experience working with Docker and Kubernetes environments.
+Experience with cloud platforms such as AWS, Microsoft Azure, or Google Cloud Platform.
+Proven ability to influence quality practices across multiple teams and stakeholders.
+Experience working within Agile, Scrum, and DevOps delivery environments.
+Financial Services industry experience will be advantageous.
+
+
+Skills
+
+Action Planning, Adaptive Thinking, Data Compilation, Data Management, Evaluating Information, Executing Plans, Legal Practices, Oral Communications, Policies & Procedures, Project Quality Management, Project Testing, Report Review, Test Case Management
+
+Competencies
+
+Business Insight
+
+Communicates Effectively
+
+Cultivates Innovation
+
+Drives Results
+
+Ensures Accountability
+
+Instills Trust
+
+Manages Complexity
+
+Optimizes Work Processes
+
+Education
+
+NQF Level 7 - Degree, Advance Diploma or Postgraduate Certificate or equivalent
+
+Closing Date
+
+04 December 2026 , 23:59
+
+The appointment will be made from the designated group in line with the Employment Equity Plan of Old Mutual South Africa and the specific business unit in question.
+
+The Old Mutual Story!
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at Old Mutual South Africa by 2x
+
+See who you know
+
+Get notified about new Senior Software Quality Engineer jobs in Pinelands, Western Cape, South Africa.
+
+Sign in to create job alert
+Jobs
+Software Quality Engineer jobs
+Senior Software Quality Engineer
+Similar jobs
+Software Quality Engineer
+Software Quality Engineer
+Old Mutual South Africa
+Pinelands, Western Cape, South Africa
+1 week ago
+Senior Quality Assurance Engineer
+Senior Quality Assurance Engineer
+DigiOutsource
+Cape Town, Western Cape, South Africa
+1 week ago
+QA Engineer
+QA Engineer
+Cyberlogic
+Stellenbosch, Western Cape, South Africa
+1 week ago
+Senior Quality Engineer
+Senior Quality Engineer
+Zensar Technologies
+City of Cape Town, Western Cape, South Africa
+2 weeks ago
+Quality Engineer (SDET - Agent, MCP & LLMs)
+Quality Engineer (SDET - Agent, MCP & LLMs)
+Storyteq
+Cape Town, Western Cape, South Africa
+1 week ago
+Quality Assurance Engineer
+Quality Assurance Engineer
+DigiOutsource
+Cape Town, Western Cape, South Africa
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Quality Assurance Manager
+Quality Assurance Manager
+
+Thales Aerospace Communications
+
+City of Cape Town, Western Cape, South Africa
+4 days ago
+Senior Software Engineer (Backend): Onboarding
+Senior Software Engineer (Backend): Onboarding
+
+BVNK
+
+Cape Town, Western Cape, South Africa
+3 weeks ago
+Senior Software Engineer
+Senior Software Engineer
+
+Old Mutual South Africa
+
+Pinelands, Western Cape, South Africa
+1 week ago
+Senior Software Engineer (Logistics)
+Senior Software Engineer (Logistics)
+
+takealot.com
+
+Cape Town, Western Cape, South Africa
+8 months ago
+Software Engineer (Python)
+Software Engineer (Python)
+
+takealot.com
+
+Cape Town, Western Cape, South Africa
+1 week ago
+Fullstack Senior Software Engineer
+Fullstack Senior Software Engineer
+
+redPanda Software
+
+Cape Town, Western Cape, South Africa
+2 months ago
+Senior Software Engineer (Backend): Ledger - Wallets
+Senior Software Engineer (Backend): Ledger - Wallets
+
+BVNK
+
+Cape Town, Western Cape, South Africa
+2 weeks ago
+Senior Backend Engineer
+Senior Backend Engineer
+
+Lesaka Technologies Inc.
+
+Cape Town, Western Cape, South Africa
+1 week ago
+Senior Software Developer - Cape Town
+Senior Software Developer - Cape Town
+
+Pinewood.AI
+
+Cape Town, Western Cape, South Africa
+1 week ago
+QA Systems Lead - Talent Pipeline
+QA Systems Lead - Talent Pipeline
+
+Biovac
+
+Cape Town, Western Cape, South Africa
+2 months ago
+Similar Searches
+Software Quality Engineer jobs
+112 open jobs
+Senior Quality Engineer jobs
+85 open jobs
+Quality Assurance Test Analyst jobs
+105 open jobs
+Software Testing Specialist jobs
+45 open jobs
+Software Quality Analyst jobs
+141 open jobs
+Software Quality Assurance Engineer jobs
+80 open jobs
+Quality Engineering Manager jobs
+307 open jobs
+Test Coordinator jobs
+87 open jobs
+Senior Automation Engineer jobs
+640 open jobs
+Automation Test Analyst jobs
+116 open jobs
+Software Quality Assurance Analyst jobs
+87 open jobs
+Performance Test Engineer jobs
+19 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
