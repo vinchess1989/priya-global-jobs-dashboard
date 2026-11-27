@@ -1,9 +1,9 @@
 {
   "pid": 40120,
   "started_at": "2026-11-28T01:13:02+02:00",
-  "heartbeat_at": "2026-11-28T01:27:37+02:00",
+  "heartbeat_at": "2026-11-28T01:32:35+02:00",
   "phase": "reviewing",
-  "detail": "Staff Engineer, Supplier Quality (WFO)",
-  "last_scrape_ok_at": "2026-11-28T01:23:57+02:00",
+  "detail": "Tech Delivery Lead \u2013 Engineering Platforms",
+  "last_scrape_ok_at": "2026-11-28T01:30:03+02:00",
   "last_error": null
 }

@@ -1,0 +1,267 @@
+Title: Platform Engineer (Security)
+Company: Jobgether
+Location: South Africa
+URL: https://za.linkedin.com/jobs/view/platform-engineer-security-at-jobgether-4495074680
+Posted: 2026-11-28
+Deadline: Open until filled
+Reason: The role aligns with her background in platform engineering, security compliance, and technical documentation within a regulated environment, and it is located in a target country (South Africa).
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Platform Engineer (Security)
+Jobgether  South Africa
+16 hours ago  34 applicants
+  
+
+See who Jobgether has hired for this role
+
+Apply
+Save
+This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Platform Engineer (Security) based in South Africa.
+
+We are looking for a skilled Platform Engineer specializing in cloud security and secure infrastructure to strengthen the security, reliability, and performance of production environments. In this role, you will focus on implementing secure cloud-native platform architectures, improving application security, and protecting critical infrastructure against emerging threats. You will work across engineering and operations teams to identify vulnerabilities, mitigate security risks, and establish robust security practices. Your responsibilities will include infrastructure hardening, access management, compliance monitoring, and automation of security processes. You will also contribute to maintaining industry-recognized security certifications and ensuring that systems meet established regulatory and operational standards. This is an excellent opportunity to contribute to the development of secure, scalable, and reliable technology solutions within a collaborative, remote-first engineering environment.
+
+Accountabilities
+
+
+Security Vulnerability Management: Identify, assess, and mitigate security vulnerabilities, including Common Vulnerabilities and Exposures (CVEs), penetration testing findings, and other infrastructure or application security issues.
+Infrastructure & Application Hardening: Strengthen the security of production environments by implementing secure configurations across containers, Kubernetes clusters, cloud infrastructure, and application services.
+Cloud Security & Platform Engineering: Design, implement, and maintain secure cloud-native infrastructure, ensuring that platform architectures follow established security principles and operational best practices.
+Identity & Access Management: Manage secrets, credentials, and automated rotation processes while implementing least-privilege access controls and zero-trust security principles.
+Security Monitoring & Compliance: Monitor infrastructure and application environments for security incidents, configuration weaknesses, and compliance deviations. Identify risks and implement appropriate remediation measures.
+Security Automation: Develop and improve automated security processes, leveraging modern technologies and AI-assisted solutions where appropriate to support vulnerability remediation, configuration drift detection, compliance monitoring, and infrastructure hardening.
+Access Reviews & Incident Preparedness: Conduct regular user access reviews and participate in tabletop exercises to evaluate security readiness, incident response procedures, and operational resilience.
+Technical Documentation: Maintain and improve security and system documentation, including infrastructure diagrams, architecture specifications, security procedures, and operational guidelines.
+Security Certifications & Standards: Support the implementation, maintenance, and continuous improvement of security certifications and compliance frameworks, including SOC 2, ISO 27001, and NIST.
+Cross-Functional Collaboration: Work closely with engineering, technical operations, and support teams to integrate security practices into development and infrastructure workflows while ensuring secure and reliable service delivery.
+
+
+Requirements
+
+
+Between 3 and 6 years of professional experience in Platform Engineering, Site Reliability Engineering (SRE), DevOps, Cloud Engineering, or Security Engineering.
+Hands-on experience securing and maintaining production cloud infrastructure across platforms such as AWS, Microsoft Azure, or Google Cloud Platform (GCP).
+Strong programming skills and experience developing or maintaining applications and automation solutions using languages such as C#.
+Good understanding of cloud security principles, infrastructure security practices, and secure platform architecture.
+Practical experience implementing security policies, procedures, and compliance requirements aligned with frameworks such as SOC 2, ISO 27001, and NIST.
+Experience working with container technologies and orchestration platforms, including container security and Kubernetes environments.
+Solid networking knowledge, including TLS, firewalls, VPNs, network segmentation, and secure communication protocols.
+Experience identifying and remediating vulnerabilities, managing security configurations, and improving the overall security posture of production systems.
+Understanding of secrets management, credential rotation, identity and access management, least-privilege principles, and zero-trust architectures.
+Familiarity with infrastructure monitoring, security incident detection, configuration management, and compliance automation.
+Strong analytical and problem-solving skills, with the ability to investigate complex technical issues and implement effective security improvements.
+Excellent communication and collaboration skills, with the ability to work effectively across technical, engineering, and support teams.
+A proactive and detail-oriented mindset, with a strong commitment to security, reliability, continuous improvement, and operational excellence.
+A Bachelor's or Master's degree in Computer Science, Software Engineering, or a related engineering discipline, or equivalent professional experience.
+Previous experience in the traffic management or mobility technology sector is considered an advantage.
+
+
+Benefits
+
+
+Competitive Compensation: Annual salary of approximately 155,000, as advertised. The currency and detailed compensation structure should be confirmed during the recruitment process.
+Fully Remote Work: Enjoy the flexibility of working remotely, with the opportunity to contribute from your preferred location.
+Full-Time Employment: Secure a full-time opportunity within a technology-focused engineering environment.
+Professional Development: Expand your expertise in cloud security, platform engineering, DevOps, and modern infrastructure technologies.
+Security & Compliance Exposure: Gain valuable experience working with recognized industry frameworks, including SOC 2, ISO 27001, and NIST.
+Technical Innovation: Work with modern cloud-native technologies, container orchestration platforms, and security automation solutions.
+Cross-Functional Collaboration: Collaborate with engineering, platform, and support professionals on meaningful infrastructure and security initiatives.
+Career Growth: Develop your technical expertise while contributing to the security, scalability, and reliability of critical technology platforms.
+
+
+How Jobgether Works
+
+We use an AI-powered matching process to ensure your application is reviewed quickly, objectively, and fairly against the role's core requirements. Our system identifies the top-fitting candidates, and this shortlist is then shared directly with the hiring company. The final decision and next steps (interviews, assessments) are managed by their internal team.
+
+We appreciate your interest and wish you the best!
+
+Why Apply Through Jobgether?
+
+Data Privacy Notice: By submitting your application, you acknowledge that Jobgether will process your personal data to evaluate your candidacy and share relevant information with the hiring employer. This processing is based on legitimate interest and pre-contractual measures under applicable data protection laws (including GDPR). You may exercise your rights (access, rectification, erasure, objection) at any time.
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Internet Marketplace Platforms
+  
+
+Referrals increase your chances of interviewing at Jobgether by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Jobs
+Site Reliability Engineer jobs
+Platform Engineer (Security)
+Similar jobs
+Security Engineer
+Security Engineer
+Flox
+South Africa
+2 weeks ago
+Security Engineer
+Security Engineer
+Offchain
+South Africa
+2 weeks ago
+Senior DevSecOps Engineer
+Senior DevSecOps Engineer
+Entersekt
+South Africa
+1 day ago
+Information Security Engineer - Application Security
+Information Security Engineer - Application Security
+Camunda
+Johannesburg, Gauteng, South Africa
+2 weeks ago
+Vulnerability Research Engineer
+Vulnerability Research Engineer
+Socket
+South Africa
+2 weeks ago
+CSE II – Cloud & Platform Security Engineer
+CSE II – Cloud & Platform Security Engineer
+Nsika Strategic Partners
+Stellenbosch, Western Cape, South Africa
+9 hours ago
+Show more jobs like this 
+People also viewed
+Sr. Staff Platform Operations Engineer (with OpenStack)
+Sr. Staff Platform Operations Engineer (with OpenStack)
+
+Cloudera
+
+South Africa
+1 week ago
+Senior Security & Compliance Engineer
+Senior Security & Compliance Engineer
+
+Upstream
+
+Johannesburg, Gauteng, South Africa
+3 weeks ago
+Senior Penetration Tester (AWS)
+Senior Penetration Tester (AWS)
+
+Offchain
+
+South Africa
+2 weeks ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+Camunda
+
+Johannesburg, Gauteng, South Africa
+2 weeks ago
+DevOps Engineer (CyberArk)
+DevOps Engineer (CyberArk)
+
+Samaha Consulting
+
+Sandton, Gauteng, South Africa
+2 days ago
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+Canonical
+
+Johannesburg, Gauteng, South Africa
+2 weeks ago
+Vulnerability Management Analyst
+Vulnerability Management Analyst
+
+Covenant HR
+
+South Africa
+4 weeks ago
+Senior Cloud Infrastrucutre Engineer
+Senior Cloud Infrastrucutre Engineer
+
+Optimal Growth Technologies
+
+Cape Town, Western Cape, South Africa
+2 weeks ago
+Intermediate Identity and Endpoint Security Engineer
+Intermediate Identity and Endpoint Security Engineer
+
+BETSoftware
+
+Durban, KwaZulu-Natal, South Africa
+1 week ago
+Senior Infrastructure Engineer
+Senior Infrastructure Engineer
+
+Acuity Consultants
+
+City of Cape Town, Western Cape, South Africa
+2 weeks ago
+Similar Searches
+Site Reliability Engineer jobs
+1,083 open jobs
+Infrastructure Engineer jobs
+360 open jobs
+Linux Engineer jobs
+269 open jobs
+Senior Infrastructure Engineer jobs
+155 open jobs
+Virtualization Engineer jobs
+78 open jobs
+Unix Engineer jobs
+38 open jobs
+Cloud Architect jobs
+324 open jobs
+System Development Engineer jobs
+3,642 open jobs
+Senior Reliability Engineer jobs
+28 open jobs
+Linux System Engineer jobs
+240 open jobs
+Database Engineer jobs
+270 open jobs
+Linux System Administrator jobs
+35 open jobs
+Show more 
+More searches 
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Jobgether
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.

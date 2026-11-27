@@ -1,0 +1,360 @@
+Title: IT Dev Senior Manager Irish Life
+Company: Irish Life
+Location: Dublin, County Dublin, Ireland
+URL: https://ie.linkedin.com/jobs/view/it-dev-senior-manager-irish-life-at-irish-life-4494205508
+Posted: 2026-11-28
+Deadline: 2025-12-09
+Reason: The role aligns perfectly with the candidate's expertise in DevOps, release management, and quality gatekeeping within a regulated industry, and it is located in an eligible country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+IT Dev Senior Manager Irish Life
+Irish Life  Dublin, County Dublin, Ireland
+7 hours ago   Be among the first 25 applicants
+  
+
+See who Irish Life has hired for this role
+
+Apply 
+Save
+
+Job description:
+
+AI Acceleration Hub | Irish Life
+
+
+
+
+Build the team. Shape the standards. Bring AI to life.
+
+
+
+
+Are you an engineering leader who enjoys developing people, solving complex challenges and turning ambitious ideas into reliable services? Join Irish Life’s AI Acceleration Hub and help shape how we build, launch and run AI-enabled products that support better customer outcomes and more effective ways of working.
+
+This is an opportunity to establish and lead a new production engineering and run capability—not simply maintain an existing service. You will build a team, set standards across the Hub and give delivery squads the shared tools and support they need to bring AI solutions into everyday use with confidence.
+
+
+
+
+Full Time Permanent Opportunity
+
+Hybrid role based out of our Dublin City Centre offices
+
+Closing date for applications: 10am Wednesday 9th December
+
+
+
+
+Role Overview
+
+Reporting to the Delivery Oversight Lead within the Enablement Layer, you will lead the AI/DevOps capability and take accountability for the reliability, security, supportability and operational resilience of the Hub’s live AI-enabled products—including those that no longer have an active delivery squad.
+
+
+
+
+You will combine people leadership with strong technical judgement: setting direction, prioritising engineering capacity and creating a consistent path to production. Working with delivery squads, Architecture, Security, Quality Assurance (QA), Responsible AI, infrastructure colleagues and business product owners, you will balance delivery pace with safe, sustainable operation and effective management of AI running costs.
+
+
+
+
+This is a people and functional leadership role, supported by technical credibility. Your impact will come through the team you develop, the decisions you guide and the improvements you enable across the Hub.
+
+
+
+
+What you will help us to achieve
+
+
+
+
+• Build and lead the capability. Establish the production engineering and run operating model, set priorities and capacity plans, and recruit, onboard, coach and develop engineers. Create clear objectives and a collaborative team environment.
+
+
+
+
+• Own live-product reliability. Oversee service health and operational resilience across the live-product portfolio. Direct the response to significant incidents, drive root-cause analysis and ensure recurring issues lead to lasting improvements.
+
+
+
+
+• Create a secure, repeatable path to production. Set standards for automated deployment, shared pipelines, templates, evaluation harnesses and production readiness. Embed quality gates, security scanning, AI evaluation, staged releases and rollback, applying enterprise security requirements without bypassing controls to meet release dates.
+
+
+
+
+• Shape a support model that works. Partner with Delivery Oversight to define service ownership, support coverage, escalation routes, runbooks and out-of-hours arrangements. Close support gaps and keep products and models technically current throughout their lifecycle.
+
+
+
+
+• Make observability part of every product. Set consistent logging, monitoring and alerting standards, with meaningful service-level objectives and indicators. Give teams visibility of application and AI model health, including availability, latency, output quality, drift and token usage.
+
+
+
+
+• Make AI running costs transparent and sustainable. Own the management view of AI and cloud running costs, including monthly product-level reviews, cost attribution with GACS, forecasting and optimisation. Recommend investment in capacity, tooling, resilience and technical-debt reduction.
+
+
+
+
+• Connect teams around shared outcomes. Lead the production-engineering interface with Architecture, Security, QA, Responsible AI, business owners and GACS. Work with the Solution Architect on infrastructure requirements, application-versus-platform support boundaries and out-of-hours decisions.
+
+
+
+
+• Turn evidence into better engineering. Establish baselines and use delivery measures, including DORA metrics from Azure DevOps, alongside service-health, quality, security and AI-safety measures. Give Hub leadership clear insight into risk, improvement priorities and investment needs.
+
+
+
+
+What you will need to be successful in the role
+
+The ideal candidate will bring the confidence to lead specialist engineers, the curiosity to navigate evolving AI technology and the judgement to balance innovation with dependable production services. We are looking for:
+
+
+
+
+• Engineering and people leadership: substantial experience leading a DevOps, platform engineering, site-reliability, production engineering or comparable capability supporting multiple live services. Experience building teams, developing people, setting standards and managing priorities and capacity.
+
+• Build-and-run ownership: experience establishing support models, managing significant incidents and maintaining reliable, resilient services, alongside cloud or AI cost management.
+
+• Cloud and software engineering credibility: hands-on Microsoft Azure experience, including Function Apps, Durable Functions and Logic Apps; the ability to support and debug applications using Python, TypeScript, React and Java; and working knowledge of SQL and relational databases.
+
+• Delivery automation and observability: practical knowledge of CI/CD, infrastructure-as-code, version-controlled configuration, testing and monitoring tools such as Azure Monitor, Application Insights, Grafana or equivalent.
+
+• AI operational understanding: knowledge of large language models (LLMs) and vision-language models (VLMs), and an understanding of evaluation, model and prompt changes, output quality, drift, AI service dependencies and consumption costs.
+
+• Secure engineering judgement: enough security fluency to lead and challenge specialists on secure-by-design practices, pipeline controls, vulnerability management, penetration testing and AI-specific risks such as prompt injection, agent permissions and data leakage.
+
+• Collaborative leadership: strong stakeholder management, clear communication with technical and non-technical audiences, and the ability to make sound decisions under pressure and constructively challenge competing priorities.
+
+You do not need to be the deepest specialist in every technology. You do need the technical credibility to guide experts, ask the right questions and lead sound engineering decisions.
+
+
+
+
+Experience that would be valuable
+
+• Experience in insurance, financial services or another regulated industry.
+
+• Familiarity with Docker, Kubernetes or similar containerisation and orchestration technologies.
+
+• Experience with Azure DevOps or GitHub Actions for pipeline management.
+
+• Exposure to prompt engineering, retrieval-augmented generation (RAG) or AI/ML model lifecycle management.
+
+• Relevant Azure certifications, such as AZ-400, AZ-104 or AI/ML-focused qualifications.
+
+
+
+
+What we offer
+
+A role you can help shape. Establish a new capability, build engineering talent and influence how AI products move from delivery into dependable live services.
+
+
+
+
+Meaningful technical challenges. Work across cloud engineering, secure delivery, AI observability and production operations, partnering with specialists across the Hub and wider organisation.
+
+
+
+
+Support for your growth and wellbeing. Irish Life’s benefits package includes competitive salaries and bonuses, Learning and Development support, a Defined Contribution pension and wellbeing initiatives and support.
+
+
+
+
+Flexibility. Irish Life has embraced hybrid working for most positions.
+
+
+
+
+
+
+
+About us
+
+At Irish Life, our purpose is to help people build better futures. Our AI Acceleration Hub supports the identification, development, validation and productionisation of AI-enabled solutions across the Group—helping improve customer outcomes, operational effectiveness and the value we deliver.
+
+
+
+
+Our values shape how we work: we do the right thing, aim high, find better ways, put customers at the heart of everything we do and believe we work best together. We value a supportive, collaborative environment where ideas and contributions matter.
+
+
+
+
+Irish Life is proud to be an Equal Opportunities employer. We have created an environment of inclusion and growth to help people achieve their potential, to ensure they can bring their whole selves to work and to feel valued. We celebrate diversity of thought and perspective and want all of our employees to feel valued, respected and supported. We have built a culture that promotes equality and inclusion for all of our current and future employees and strive to ensure that our behaviours, processes and practices are aligned to this culture.
+
+
+
+
+If you require any accommodations during the recruitment process please contact lifecareers@irishlife.ie and we will be delighted to ensure you are fully supported to be your best
+
+
+
+
+The company reserves the right to draw up a shortlist as part of the selection process. The selection process employed will be at the discretion of the Group.
+
+
+
+
+ILGL supports Equal Opportunity.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Insurance
+  
+
+Referrals increase your chances of interviewing at Irish Life by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+IT Development Manager
+IT Development Manager
+The Citco Group Limited
+Dublin, County Dublin, Ireland
+1 month ago
+Head of Technology & AI, APAC, Europe and ESS
+Head of Technology & AI, APAC, Europe and ESS
+AXA XL
+Dublin, County Dublin, Ireland
+1 week ago
+Senior Manager, Integration Engineering
+Senior Manager, Integration Engineering
+Sony Interactive Entertainment
+Dublin, County Dublin, Ireland
+6 days ago
+Technology Transformation Senior Manager - Insurance Sector
+Technology Transformation Senior Manager - Insurance Sector
+PwC Ireland
+Dublin, County Dublin, Ireland
+1 day ago
+Senior Manager, Platform Engineering
+Senior Manager, Platform Engineering
+Prove
+Dublin, County Dublin, Ireland
+2 weeks ago
+Senior Manager, Engineering
+Senior Manager, Engineering
+Prudentia Sciences
+Dublin, County Dublin, Ireland
+$250,000 - $312,000
+1 hour ago
+Show more jobs like this 
+People also viewed
+Development Manager - Platform Services
+Development Manager - Platform Services
+
+EcoOnline
+
+Dublin, County Dublin, Ireland
+1 week ago
+Senior Manager - Basis Management
+Senior Manager - Basis Management
+
+Canada Life Reinsurance
+
+Dublin, County Dublin, Ireland
+1 week ago
+Software Development Manager
+Software Development Manager
+
+DPS Group Global
+
+Dublin, County Dublin, Ireland
+1 week ago
+Senior Manager, Engineering
+Senior Manager, Engineering
+
+MongoDB
+
+Dublin, County Dublin, Ireland
+1 week ago
+Senior Manager, Service Reliability and Customer Operations
+Senior Manager, Service Reliability and Customer Operations
+
+InterSystems
+
+Dublin, County Dublin, Ireland
+1 week ago
+Engineering Manager – Guidewire Cloud Platform (JDP & AI Integration)
+Engineering Manager – Guidewire Cloud Platform (JDP & AI Integration)
+
+Guidewire Software
+
+Dublin, County Dublin, Ireland
+1 week ago
+Director of Software Engineering - Workforce ExperienceTechnology
+Director of Software Engineering - Workforce ExperienceTechnology
+
+JPMorganChase
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+Manager, Senior Support Engineering
+Manager, Senior Support Engineering
+
+OpenAI
+
+Dublin, County Dublin, Ireland
+5 days ago
+Director, Product Capabilites Technology
+Director, Product Capabilites Technology
+
+HarbourVest Partners
+
+Dublin, County Dublin, Ireland
+2 weeks ago
+Development Manager
+Development Manager
+
+Fruition Group Ireland
+
+Dublin, County Dublin, Ireland
+€100,000 - €120,000
+14 hours ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+Sign in to see who you already know at Irish Life
+Sign in with Email
+
+or
+
+New to LinkedIn? Join now
+
+By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
