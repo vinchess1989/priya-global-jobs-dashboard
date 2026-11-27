@@ -1,0 +1,302 @@
+Title: Intermediate DevOps Engineer
+Company: Boardroom Appointments
+Location: Sandton, South Africa
+URL: https://www.careerjunction.co.za/intermediate-devops-engineer-job-2647610.aspx
+Posted: 2026-11-26
+Deadline: 2026-12-24
+Reason: The role is a DevOps Engineer position in South Africa, which is a target country, and aligns with the candidate's extensive experience in CI/CD, release management, and automation.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Your privacy
+
+This site uses cookies and similar technologies to collect and process personal data that recollects your activities and preferences. Some of the personal data, stored on your device, is processed by trusted service providers. We do this to personalise our site, services and the adverts you are shown on and off our website. Click 'I accept' to consent to the use of these technologies or 'Settings' if you wish to manage your settings. You can always change the setting by going to the Cookie Policy page. Necessary cookies enable core functionality such as security, network management, and accessibility. You may disable these by changing your browser settings, but this may affect how the website functions.
+
+SETTINGS
+I ACCEPT
+SIGN IN / SIGN UP
+×
+ 
+Location
+Location
+Work From Home
+Gauteng
+    Johannesburg South
+    Johannesburg Region
+    Pretoria Region
+    East Rand
+    West Rand
+    Vaal
+Western Cape
+    Cape Town Region
+    Winelands
+    West Coast
+    Garden Route
+    Overberg
+    Karoo
+KwaZulu-Natal
+    Durban Region
+    North Coast
+    Midlands & Interior
+    South Coast
+Eastern Cape
+Free State
+Mpumalanga
+Limpopo
+North West
+Northern Cape
+International
+ 
+In All Categories
+In All Categories
+Admin, Office & Support
+Agriculture, Fishing & Forestry
+Architecture & Engineering
+Building & Construction
+Business & Management
+Cleaning, Maintenance & Repair
+Community & Social Welfare
+Design, Media & Arts
+Education, Training & Library
+Finance
+Information Technology
+Legal
+Manufacturing & Assembly
+Marketing
+Medical & Health
+Mining
+Personal Appearance
+Restaurant & Hospitality
+Sales
+Science & Technology
+Security & Emergency Services
+Sport & Fitness
+Telecommunication
+Transportation
+Travel & Tourism
+Warehousing & Logistics
+Other
+SEARCH
+ 
+
+SHARE THIS JOB
+
+INTERMEDIATE DEVOPS ENGINEER
+BOARDROOM APPOINTMENTS
+R Undisclosed
+Temporary Senior position
+Sandton
+Posted 26 Nov 2026 by Boardroom Appointments
+Expires in 28 days
+Job 2647610 - Ref JHB005273
+ SAVE APPLY NOW
+ABOUT THE POSITION
+
+Location: Sandton – Grayston, Johannesburg
+Contract Duration: Minimum 6 months
+Working Hours: Monday to Friday, 08:00–17:00
+Work Arrangement: Primarily office-based, with the possibility of working from home a few days per week.
+Start Date: As soon as possible
+Job Purpose
+The Intermediate DevOps Engineer is responsible for building, maintaining and supporting automation, CI/CD pipelines and cloud infrastructure to enable product teams to deliver software quickly, safely and reliably. The role involves managing platform tasks, resolving operational issues and contributing to the quality, security, availability and cost efficiency of cloud environments.
+
+Key Responsibilities
+
+
+Build and maintain CI/CD pipelines for application and infrastructure code.
+Automate build, testing, security scanning and deployment processes, and troubleshoot pipeline failures.
+Implement and support release strategies, including blue-green deployments, canary releases and automated rollbacks.
+Provision and manage cloud infrastructure across AWS, Azure or Google Cloud using Terraform or equivalent tools.
+Manage configuration using Ansible, Puppet or Chef and maintain consistent, reproducible environments.
+Build and maintain Docker images and support Kubernetes clusters, including networking, scaling and upgrades.
+Create and maintain Helm charts or equivalent deployment manifests.
+Implement and maintain monitoring, logging, metrics, tracing and alerting across platforms and services.
+Participate in on-call support, resolve incidents and escalate major incidents where required.
+Contribute to post-incident reviews, backup testing, disaster recovery and capacity planning.
+Apply DevSecOps practices, including secrets management, vulnerability scanning, policy as code and access controls.
+Support audit, risk and regulatory requirements, including PCI DSS and POPIA where applicable.
+Monitor cloud expenditure and assist with resource optimisation, tagging and auto-scaling.
+Take ownership of assigned tasks and smaller projects within DevOps and cloud initiatives.
+Participate in peer reviews, support junior engineers and share technical knowledge.
+Collaborate with development, QA, operations and security teams to improve delivery processes.
+Maintain technical documentation, runbooks and standard operating procedures.
+Evaluate tools and recommend improvements to the DevOps and Cloud environment.
+
+Minimum Requirements
+
+Bachelor's degree in Computer Science, Information Technology, Engineering or a related field, or equivalent practical experience.
+Minimum of 3 years' experience in DevOps, cloud, site reliability or infrastructure engineering.
+Hands-on experience delivering CI/CD pipelines and cloud infrastructure in production environments.
+Experience working in Agile teams.
+Experience in fintech, payments or telecommunications will be advantageous.
+
+Technical Skills
+
+Good working knowledge of CI/CD tools such as GitHub Actions, GitLab CI, Azure DevOps or Jenkins.
+Hands-on experience with Docker and Kubernetes, including Helm and managed services such as EKS, AKS or GKE.
+Infrastructure as Code experience using Terraform or equivalent tools.
+Working experience with at least one major cloud platform: AWS, Azure or Google Cloud.
+Configuration management experience with Ansible, Puppet or Chef.
+Scripting experience in Python, Bash or PowerShell. Go will be advantageous.
+Knowledge of monitoring and observability tools such as Prometheus, Grafana, ELK or Datadog.
+Understanding of DevSecOps practices, including secrets management, vulnerability scanning and policy as code.
+Good Linux administration, networking and Git workflow knowledge.
+Strong written and verbal communication skills, with the ability to solve problems calmly under pressure.
+
+Professional Certifications
+At least one relevant certification, such as:
+
+
+AWS Certified SysOps Administrator or Developer – Associate.
+Microsoft Certified: Azure Administrator Associate (AZ-104).
+Google Associate Cloud Engineer.
+
+The following certifications will be advantageous:
+
+
+Microsoft Certified: Azure DevOps Engineer Expert.
+Certified Kubernetes Administrator (CKA).
+HashiCorp Terraform Associate.
+
+Key Competencies
+
+Analytical thinking and problem-solving.
+Assertiveness, confidence and adaptability.
+Accountability and a strong focus on quality.
+Teamwork and collaboration.
+Clear communication and relationship-building.
+Initiative and a willingness to learn.
+Planning, organisation and time management.
+Resilience and the ability to work under pressure.
+Customer focus and a good understanding of business needs.
+Automation, scripting and cloud platform administration.
+Incident management and technical documentation.
+
+Only candidates who meet the essential requirements will be considered.
+
+Desired Skills:
+
+CI/CD tools
+Docker and Kubernetes
+Code experience
+
+APPLY NOW
+BOARDROOM APPOINTMENTS
+
+VIEW AGENCY PROFILE
+
+SEE ALL BOARDROOM APPOINTMENTS JOBS
+
+ABOUT THE AGENCY
+
+A brief history & description of services: •Boardroom Appointments was founded by our current CEO, Ms. Maria Ferreira in 1989 •Boardroom Appointments is a Level 1 category B-BBEE 135% contributor •Growing team of Specialist Consultants and Contract Managers have placed professionals throughout all levels and industries •We have a clear understanding of Permanent Recruitment & Temporary Employment Services •Dedicated Site Management take care...
+
+read more
+
+Receive a daily digest of all new jobs matching this job. Your information is safe with us and you can cancel any time.
+
+EMAIL ME JOBS LIKE THIS
+ 
+
+SHARE THIS JOB
+
+RECOMMENDED JOBS FOR YOU
+New
+Senior DevOps Engineer
+
+Boardroom Appointments
+
+Temporary Senior position
+
+Sandton
+
+Expires in 28 days
+
+Software Engineer (Java | Spring Boot | AWS)
+
+EQPlus
+
+Contract Senior position
+
+Cape Town Region
+
+Expires in 9 days
+
+Mobile Developer
+
+Watershed Consulting
+
+Contract Intermediate position
+
+Sandton
+
+Expires in 4 days
+
+Full Stack Engineer
+
+Sompisi-Calibre Solutions
+
+Permanent Senior position
+
+Johannesburg Region (Work From Home)
+
+Expires in 15 days
+
+Senior .NET Application Developer At Sabenza IT & Recruitment
+
+DCV Sabenza IT and Recruitment
+
+Permanent Senior position
+
+Johannesburg
+
+Job expires today
+
+Application Developer (.NET / C# / SQL Server)
+
+MSP Staffing
+
+Permanent Senior position
+
+Cape Town CBD
+
+Expires in 11 days
+
+Email me jobs similar to: INTERMEDIATE DEVOPS ENGINEER
+JOB SEEKERS
+SITE
+Home / Search Jobs
+My Jobs
+My Alerts
+My Profile & CV
+ASSISTANCE
+FAQ & Support
+ACCOUNT
+Sign In | Sign Up
+AGENCIES & EMPLOYERS
+SITE
+Home / Find Talent
+Recruit Assist
+ASSISTANCE
+FAQ & Support
+ACCOUNT
+Sign Up | Sign In
+Sales Enquiry
+CAREERJUNCTION
+INFO
+About Us / Contact Us
+Work for Us
+Sister Sites
+Our Partners
+CareerJunction Blog
+How It Works
+
+© 2026 Copyright: www.careerjunction.co.za
+
+ 
+
+PAIA,Privacy, Cookies & Terms
+
+    
