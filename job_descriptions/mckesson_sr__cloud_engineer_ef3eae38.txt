@@ -1,0 +1,258 @@
+Title: Sr. Cloud Engineer
+Company: McKesson
+Location: Cork, County Cork, Ireland
+URL: https://ie.linkedin.com/jobs/view/sr-cloud-engineer-at-mckesson-4495802563
+Posted: 11 tuntia sitten
+Deadline: N/A
+Reason: The role aligns perfectly with the candidate's extensive experience in CI/CD, cloud infrastructure, and release management within a regulated healthcare environment, and it is located in an eligible country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn kunnioittaa yksityisyyttäsi
+
+LinkedIn ja kolmannet osapuolet käyttävät välttämättömiä ja ei-välttämättömiä evästeitä palvelujemme tarjoamiseen, suojaamiseen, analysointiin ja parantamiseen sekä osuvien mainosten näyttämiseen sinulle (mukaan lukien ammattilais- ja työpaikkailmoitukset) LinkedInissä ja niiden ulkopuolella. Lisätietoja on evästekäytännössämme.
+
+Hyväksy ei-välttämättömien evästeiden käyttö valitsemalla Hyväksy tai estä niiden käyttö valitsemalla Hylkää. Voit päivittää valintasi milloin tahansa asetuksista.
+
+Hyväksy Hylkää
+Hyppää pääsisältöön
+LinkedIn
+Työt
+Poista teksti
+Poista teksti
+Kirjaudu sisään
+Liity nyt
+Sr. Cloud Engineer
+McKesson  Cork, County Cork, Ireland
+11 tuntia sitten   Ole ensimmäisten 25 hakijan joukossa
+  
+
+Katso, kuka McKesson on palkattu tähän rooliin
+
+Hae 
+Tallenna
+Arvioi sopivuuttasi tekoälyn avulla
+
+Hanki tekoälypohjaisia neuvoja tähän työhön ja muita eksklusiivisia ominaisuuksia.
+
+Olenko sopiva tähän työhön?
+Räätälöi ansioluetteloni
+McKesson is an impact-driven, Fortune 10 company that touches virtually every aspect of healthcare. We are known for delivering insights, products, and services that make quality care more accessible and affordable. Here, we focus on the health, happiness, and well-being of you and those we serve – we care.
+
+What you do at McKesson matters. We foster a culture where you can grow, make an impact, and are empowered to bring new ideas. Together, we thrive as we shape the future of health for patients, our communities, and our people. If you want to be part of tomorrow’s health today, we want to hear from you.
+
+Job Summary
+
+About the Role
+
+McKesson is seeking a Sr. Cloud Engineer to lead the design, implementation, support, and continuous improvement of enterprise cloud and commerce platform infrastructure. This role partners with Product, Architecture, Engineering, and Operations teams to deliver scalable, secure, highly available digital platforms supporting critical business capabilities. The ideal candidate brings deep expertise in cloud-native architecture, DevSecOps, platform engineering, incident management, automation, and modern commerce technologies.
+
+What You'll Do
+
+
+Lead the architecture, engineering, and operational support of cloud platforms across Azure and AWS environments.
+Design and implement Infrastructure as Code (Terraform, Bicep, CloudFormation) to standardize provisioning, governance, and scalability.
+Support enterprise commerce platforms including SAP Commerce (Hybris), Adobe Commerce, Shopify, and Salesforce Commerce Cloud.
+Build, maintain, and optimize CI/CD pipelines using GitHub Actions, Azure DevOps, and Jenkins.
+Drive containerization and orchestration strategies using Docker and Kubernetes.
+Lead incident triage, major incident response, root cause analysis (RCA), and problem management activities.
+Implement observability, monitoring, and alerting solutions using Dynatrace, Splunk, AppDynamics, and Azure Monitor.
+Partner with cross-functional teams to drive cloud modernization, platform reliability, security, automation, and operational excellence.
+
+
+
+Basic Requirements
+
+
+7+ years of experience in Cloud Engineering, Infrastructure Engineering, Platform Engineering, Site Reliability Engineering, DevOps, or related technical disciplines.
+Hands-on experience with Azure and/or AWS cloud platforms.
+Experience designing and supporting cloud-native applications, microservices, and API-based architectures.
+Experience with Infrastructure as Code using Terraform, Bicep, or CloudFormation.
+Experience building and maintaining CI/CD pipelines using GitHub Actions, Azure DevOps, or Jenkins.
+Experience with Kubernetes and Docker in enterprise environments.
+Experience supporting production applications and managing incidents, outages, RCA, and problem management processes.
+Bachelor's degree in Computer Science, Information Technology, Engineering, or equivalent combination of education and experience.
+
+
+
+Preferred Skills/Experience
+
+
+Experience supporting SAP Commerce (Hybris), Adobe Commerce, Shopify, or Salesforce Commerce Cloud platforms.
+Experience with event-driven architectures utilizing Kafka, Redis, messaging technologies, or streaming platforms.
+Experience with SQL and NoSQL databases.
+Strong understanding of DevSecOps practices, cloud security controls, RBAC, and compliance requirements.
+Experience implementing observability and monitoring strategies using Splunk, Dynatrace, AppDynamics, or Azure Monitor.
+Proficiency in PowerShell, Python, Shell scripting, or automation development.
+Experience with release management, environment management, and deployment automation.
+Experience within healthcare, pharmaceutical, retail, e-commerce, or other regulated industries.
+Proven ability to influence engineering standards and lead technical initiatives across multiple teams.
+
+
+
+Travel / Work Environment / Physical Requirements
+
+
+Occasional travel may be required for team meetings, planning events, or business needs.
+Position may operate in a remote, hybrid, or office-based environment based on business requirements.
+Ability to work extended hours when supporting critical incidents or major production events.
+Ability to remain engaged in computer-based work for extended periods.plus.
+
+
+
+At McKesson, we care about the well-being of the patients and communities we serve, and that starts with caring for our people. That’s why we have a Total Rewards package that includes comprehensive benefits to support physical, mental, and financial well-being. Our Total Rewards offerings serve the different needs of our diverse employee population and ensure they are the healthiest versions of themselves.
+
+As part of Total Rewards, we are proud to offer a competitive compensation package at McKesson. This is determined by several factors, including performance, experience and skills, equity, regular job market evaluations, and geographical markets. The pay range shown below is aligned with McKesson's pay philosophy, and pay will always be compliant with any applicable regulations. In addition to base pay, other compensation, such as an annual bonus or long-term incentive opportunities may be offered.
+
+Our Base Pay Range for this position
+
+€74,800 - €124,600
+
+Career Level:
+
+IC-Professional-P4
+
+Online Recruiting-related Scams
+
+McKesson has become aware of online recruiting-related scams in which individuals who are not affiliated with or authorized by McKesson are using McKesson’s (or affiliated entities, like CoverMyMeds or RxCrossroads) name in fraudulent emails, job postings or social media messages. In light of these scams, please bear the following in mind:
+
+McKesson Talent Advisors will never solicit money or credit card information in connection with a McKesson job application.
+
+McKesson job postings are posted on our career site: careers.mckesson.com.
+
+AI Disclosure
+
+Candidates are not dispositioned based on AI-generated assessments or autonomous decision-making. Disposition outcomes are based on pre-defined, job-related eligibility criteria and screening requirements established by the organization. When an applicant does not meet mandatory role qualifications or fails required prescreening questions, the system applies the corresponding disposition in accordance with those human-defined criteria.
+Show more 
+Seniority level
+Keskijohto
+Työn tyyppi
+Kokopäiväinen
+Industries
+Sairaalat ja terveydenhuolto
+  
+
+Lähetteet lisäävät mahdollisuuksiasi haastatteluun McKesson 2x
+
+Katso, kenet tunnet
+
+Saat ilmoituksen uusista Cloud Engineer työpaikoista .Cork, County Cork, Ireland
+
+Kirjaudu sisään luodaksesi työpaikkahälytyksen
+Samankaltaiset työpaikat
+Senior DevOps Engineer (Azure)
+Senior DevOps Engineer (Azure)
+Poppulo
+Cork, County Cork, Ireland
+2 päivää sitten
+Sr. Cloud Applications Engineer (SRE) | Cork
+Sr. Cloud Applications Engineer (SRE) | Cork
+OpenText
+Cork, County Cork, Ireland
+2 viikkoa sitten
+Sr. Site Reliability Engineer
+Sr. Site Reliability Engineer
+OpenText
+Cork, County Cork, Ireland
+2 viikkoa sitten
+Senior DevOps Engineer
+Senior DevOps Engineer
+The Citco Group Limited
+Cork, County Cork, Ireland
+2 viikkoa sitten
+Senior Cloud Security Engineer
+Senior Cloud Security Engineer
+Eli Lilly and Company
+Cork, County Cork, Ireland
+6 päivää sitten
+Senior System Engineer
+Senior System Engineer
+Software Placements
+Cork, County Cork, Ireland
+1 viikko sitten
+Show more jobs like this 
+Muita katsottuja
+Technical Support Specialist
+Technical Support Specialist
+
+Motorola Solutions
+
+Cork, County Cork, Ireland
+2 viikkoa sitten
+Sr. Manager, Solution Engineer, Visualization, Analytics & Collaboration
+Sr. Manager, Solution Engineer, Visualization, Analytics & Collaboration
+
+Pfizer
+
+Ringaskiddy, County Cork, Ireland
+6 tuntia sitten
+Lead Cloud Systems Engineer | Cork
+Lead Cloud Systems Engineer | Cork
+
+OpenText
+
+Cork, County Cork, Ireland
+1 viikko sitten
+Senior Cloud Applications Engineer - Monitoring & Observability
+Senior Cloud Applications Engineer - Monitoring & Observability
+
+OpenText
+
+Cork, County Cork, Ireland
+2 viikkoa sitten
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+OpenText
+
+Cork, County Cork, Ireland
+3 päivää sitten
+Lead DevOps Engineer
+Lead DevOps Engineer
+
+The Citco Group Limited
+
+Cork, County Cork, Ireland
+2 päivää sitten
+Lead Site Reliability Engineer
+Lead Site Reliability Engineer
+
+OpenText
+
+Cork, County Cork, Ireland
+2 viikkoa sitten
+Lead Site Reliability Engineer
+Lead Site Reliability Engineer
+
+OpenText
+
+Cork, County Cork, Ireland
+1 viikko sitten
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+
+Acuity
+
+Cork, County Cork, Ireland
+11 tuntia sitten
+DevOps Technical Specialist
+DevOps Technical Specialist
+
+The Citco Group Limited
+
+Cork, County Cork, Ireland
+2 päivää sitten
+LinkedIn
+© 2026
+Tietoja
+Saavutettavuus
+Käyttäjäsopimus
+Tietosuojakäytäntö
+Evästekäytännöt
+Tekijänoikeuskäytännöt
+Brändikäytäntö
+Vieraiden hallinta
+Yhteisön ohjeet
+Kieli
