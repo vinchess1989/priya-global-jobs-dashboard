@@ -32961,5 +32961,22 @@
     "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
     "description_file": null,
     "deletion_reason": "Deadline (2026-11-25) passed by more than 2 days and unreviewed"
+  },
+  {
+    "title": "Redwood RunMyFinance Solution Designer, Malta",
+    "company": "Yadimen Consultancy Ltd",
+    "location": "Malta",
+    "url": "https://mt.linkedin.com/jobs/view/redwood-runmyfinance-solution-designer-malta-at-yadimen-consultancy-ltd-4494772628",
+    "visited": "yes",
+    "matches_requirements": "no",
+    "reason": "The job explicitly states that no visa sponsorship is offered and requires the candidate to already have the right to work in Malta, which the candidate does not possess.",
+    "id": "82848b8c",
+    "source": "linkedin_mt_requirements_engineer",
+    "added_at": "2026-11-27T02:04:09+02:00",
+    "posted_date": "2026-11-24",
+    "deadline": "N/A",
+    "eval_model": "gemini-vineeth-bits/gemini-3.1-flash-lite",
+    "description_file": null,
+    "deletion_reason": "Requires US citizenship / no visa sponsorship"
   }
 ]
