@@ -1,0 +1,242 @@
+Title: Senior Product Manager, Localization Platform and Quality
+Company: OKX
+Location: Hong Kong, Hong Kong SAR
+URL: https://hk.linkedin.com/jobs/view/senior-product-manager-localization-platform-and-quality-at-okx-4495081961
+Posted: 2026-11-28
+Deadline: N/A
+Reason: The role aligns with the candidate's expertise in quality gatekeeping, automated testing, and release infrastructure within a regulated environment, and it is located in a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior Product Manager, Localization Platform and Quality
+OKX  Hong Kong, Hong Kong SAR
+13 hours ago   Be among the first 25 applicants
+  
+
+See who OKX has hired for this role
+
+Apply 
+Save
+Who We Are
+
+At OKX, we believe that the future will be reshaped by crypto, and ultimately contribute to every individual's freedom.
+
+OKX is a leading crypto exchange, and the developer of OKX Wallet, giving millions access to crypto trading and decentralized crypto applications (dApps). OKX is also a trusted brand by hundreds of large institutions seeking access to crypto markets. We are safe and reliable, backed by our Proof of Reserves.
+
+Across our multiple offices globally, we are united by our core principles: We Before Me, Do the Right Thing, and Get Things Done. These shared values drive our culture, shape our processes, and foster a friendly, rewarding, and diverse environment for every OK-er. OKX is part of OKG, a group that brings the value of Blockchain to users around the world, through our leading products OKX, OKX Wallet, OKLink and more.
+
+About The Opportunity
+
+We've built an AI-native localization stack: agentic translation workflows that already publish content with minimal human touch. The translation agent itself works. What decides whether it scales is everything around it — the terminology assets that keep it consistent, the automated testing that catches what it breaks in the live product, and the evaluation infrastructure that tells us when it can be trusted to publish without a human.
+
+That surrounding platform is what this role owns.
+
+This is a genuine bridge role, and we mean both halves. You bring localization domain depth — you know what makes a translation wrong, what breaks in-product, how terminology and locale rules actually work — and the AI product instinct to turn that judgment into agents, metrics and automated tooling. You will define what "good" means, build the systems that measure it automatically, and make our human experts dramatically more leveraged.
+
+What You’ll Be Doing
+
+
+Own the terminology and glossary system that ensures consistent localization across markets and product surfaces, including term proposal, approval, versioning, integration into agentic workflows, and compliance monitoring.
+Build agent-driven tools that scan live mobile and web experiences to identify localization issues that translation review alone may miss, such as text truncation, layout defects, hardcoded strings, unlocalized imagery, and incorrect number, date, or currency formats.
+Deliver the MVP for automated localization auditing and evolve it into localization testing embedded within internal product-testing infrastructure, enabling issues to be caught automatically before release.
+Define and operate the translation quality gate for human-free publishing, supported by golden datasets, standardized error-classification annotation tools, automated evaluation, and quality metrics.
+Balance automation coverage against content risk across announcements, Help Center content, and product UI; investigate systemic gate failures, identify root causes, and drive improvements back into the localization agents.
+Integrate annotation workflows with internal AI infrastructure, enabling linguists to provide standardized, real-time feedback that continuously improves agent performance.
+
+
+
+What We Look For In You
+
+
+5+ years in product management, including ownership of backend or infrastructure systems that business operations run on — not only user-facing surfaces.
+Localization or translation domain depth. You can look at a translation and say precisely why it's wrong, and you understand terminology management, locale rules and what breaks when content meets a real UI.
+Shipped AI/ML or evaluation-driven products, including internal tooling. You partner with AI teams as a peer rather than consuming their output.
+Strong data fluency. You define metric frameworks for fuzzy, subjective quality problems and turn them into measurable, automatable systems — and you reason clearly about precision/recall trade-offs, such as false-flag rate vs. miss rate.
+Excellent cross-functional execution across engineering, AI, design and external partners, in a multi-market, multi-language, multicultural environment.
+
+
+
+Nice to Haves
+
+
+LLM evaluation and eval-driven development: eval harnesses, golden datasets, prompt and QE design, tuning against gold sets, and reading failure modes well enough to tell a prompt problem from a data problem from a model problem.
+Hands-on experience with TMS platforms such as Phrase or Smartling, and i18n standards (ICU/CLDR).
+Bilingual in English and Chinese.
+Transcreation, marketing localization or brand voice adaptation across markets.
+Content systems experience — CMSes such as Contentful or Webflow — or familiarity with design tooling such as Figma.
+Crypto, fintech or another high-compliance regulated domain.
+
+
+
+Perks & Benefits
+
+
+Competitive total compensation package
+L&D programs for employees' growth and development
+Various team building programs and company events
+Wellness and meal allowances
+Comprehensive healthcare schemes for employees and dependants
+More that we love to tell you along the process!
+
+
+
+Notice
+
+All official OKX vacancies are published on this website. While roles may appear on selected third-party platforms from time to time, information on other sites may be inaccurate or outdated. If in doubt, please apply directly through our official careers website.
+
+Information collected and processed as part of the recruitment process of any job application you choose to submit is subject to OKX's Candidate Privacy Notice.
+
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+Financial Services
+  
+
+Referrals increase your chances of interviewing at OKX by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Senior Product Platform Manager, North Asia and SEAA
+Senior Product Platform Manager, North Asia and SEAA
+CHANEL
+Hong Kong SAR
+1 week ago
+Senior Product Manager, DevOps and AI Agent
+Senior Product Manager, DevOps and AI Agent
+OKX
+Hong Kong, Hong Kong SAR
+1 day ago
+Technical Product Manager
+Technical Product Manager
+Sentient Labs
+Hong Kong, Hong Kong SAR
+6 days ago
+AI Product Manager
+AI Product Manager
+YesStyle.com
+Hong Kong, Hong Kong SAR
+2 days ago
+Digital Manager, Enterprise Agentic AI Management
+Digital Manager, Enterprise Agentic AI Management
+Cathay Pacific
+Hong Kong, Hong Kong SAR
+1 week ago
+Principal/Senior Product Manager, AI and Agent
+Principal/Senior Product Manager, AI and Agent
+OKX
+Hong Kong, Hong Kong SAR
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Senior Product Manager - On-chain
+Senior Product Manager - On-chain
+
+CoinMarketCap
+
+Hong Kong, Hong Kong SAR
+2 months ago
+Product Manager (marketplace - order flow)
+Product Manager (marketplace - order flow)
+
+Binance
+
+Hong Kong SAR
+1 week ago
+Product Manager
+Product Manager
+
+TOKEN2049
+
+Hong Kong, Hong Kong SAR
+4 months ago
+Digital Product Manager
+Digital Product Manager
+
+Oxford University Press
+
+Kowloon Bay, Hong Kong SAR
+3 weeks ago
+Manager / Senior Manager (AI & Data) - Digital - Hong Kong(106581)
+Manager / Senior Manager (AI & Data) - Digital - Hong Kong(106581)
+
+Deloitte
+
+Hong Kong, Hong Kong SAR
+1 week ago
+AI Client Experience Manager
+AI Client Experience Manager
+
+Zeal Group
+
+Hong Kong, Hong Kong SAR
+1 week ago
+Customer AI & Analytics Product, Principal (Senior Manager for Data & AI Product Management)
+Customer AI & Analytics Product, Principal (Senior Manager for Data & AI Product Management)
+
+AIA Hong Kong and Macau
+
+Quarry Bay, Hong Kong SAR
+1 week ago
+Principal AI Product Expert
+Principal AI Product Expert
+
+Bybit
+
+Hong Kong, Hong Kong SAR
+1 week ago
+Equities AI Product Manager
+Equities AI Product Manager
+
+Millennium
+
+Hong Kong, Hong Kong SAR
+3 days ago
+Test Automation Manager
+Test Automation Manager
+
+Bupa Hong Kong
+
+Ngau Tau Kok, Hong Kong SAR
+2 weeks ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app

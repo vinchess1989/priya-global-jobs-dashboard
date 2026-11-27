@@ -1,0 +1,239 @@
+Title: Senior DevOps Engineer (Azure, AI Adoption)
+Company: Acuity Analytics
+Location: Birkirkara, Malta
+URL: https://mt.linkedin.com/jobs/view/senior-devops-engineer-azure-ai-adoption-at-acuity-analytics-4489557325
+Posted: 2026-11-25
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive experience in CI/CD pipeline ownership, Azure DevOps, and Python automation, and it is located in a target country (Malta) without any restrictive citizenship or clearance requirements.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn respects your privacy
+
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including professional and job ads) on and off LinkedIn. Learn more in our Cookie Policy.
+
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your settings.
+
+Accept Reject
+Skip to main content
+LinkedIn
+Jobs
+Clear text
+Clear text
+Sign in
+Join now
+Senior DevOps Engineer (Azure, AI Adoption)
+Acuity Analytics  Birkirkara, Malta
+3 days ago   Be among the first 25 applicants
+  
+
+See who Acuity Analytics has hired for this role
+
+Apply 
+Save
+
+Direct message the job poster from Acuity Analytics
+
+Adelina Pandeva
+Adelina Pandeva
+
+About us
+
+
+
+
+Ascent has recently been acquired by Acuity Analytics. This is both a significant milestone for us and a tremendous opportunity for you. Acuity Analytics is a business with a strong global reputation, an impressive client base and ambitious growth plans. We deliver deep insights and domain-led digital transformation to high-growth and heavily regulated organizations. To our customers, we bring a partnership that provides the talent, technology and capability to enhance performance and operational efficiency.
+
+
+
+
+About the role
+
+We are looking for a senior, hands-on DevOps Engineer (Azure) to support a high-priority initiative for our client. This is a critical position: you will work closely with a solution architect on orchestration-related topics and help get solutions reliably from development into production.
+
+The core of the role is CI/CD: designing, building and maintaining pipelines, including artifact promotion across environments.
+
+
+
+
+What you will do
+
+Design, build and maintain CI/CD pipelines, including artifact promotion across environments
+Build integrations with Azure services
+Automate and script tasks in Python
+Set up and maintain secure authentication for pipelines
+Run and support services in production
+Support orchestration-related topics in close collaboration with the solution architect
+Contribute to the adoption of AI tooling such as GitHub Copilot in an enterprise setting
+
+
+
+
+Must-haves
+
+Hands-on CI/CD experience: designing, building and maintaining pipelines, including artifact promotion across environments
+Integrations with Azure services
+Python scripting
+Knowledge of authentication mechanisms for pipelines
+Experience running services in production
+Experience with GitHub Copilot and AI adoption in an enterprise environment
+Solution architecture background
+Hands-on mindset
+Broad view of data topics, including Databricks as a standalone platform
+
+
+
+
+Nice-to-haves
+
+Azure Databricks (Workflows, Asset Bundles) and Spark
+LLM orchestration and monitoring, ideally with Azure OpenAI
+Azure Document Intelligence and AI-ready document processing
+Experience aligning several platform teams and managing dependencies
+
+
+
+
+Why join us
+
+People are at the heart of our business. By investing in people, we achieve exceptional results for our clients and create new opportunities for our teams to thrive. Check out this page for more details.
+
+Show more 
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Industries
+IT Services and IT Consulting
+  
+
+Referrals increase your chances of interviewing at Acuity Analytics by 2x
+
+See who you know
+Get notified when a new job is posted.
+Set alert
+Similar jobs
+Senior Cloud Platform Engineer (Azure)
+Senior Cloud Platform Engineer (Azure)
+Acuity Analytics
+Birkirkara, Malta
+3 days ago
+Senior Cloud & Platform Engineer (Azure, Terraform, Azure Databricks, Azure Data Lake Storage)
+Senior Cloud & Platform Engineer (Azure, Terraform, Azure Databricks, Azure Data Lake Storage)
+Acuity Analytics
+Birkirkara, Malta
+3 days ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Platin Gaming Ltd.
+Malta
+1 month ago
+Senior DevOps Engineer - Gaming
+Senior DevOps Engineer - Gaming
+Betsson Group
+Ta' Xbiex, Malta
+1 day ago
+Senior DevOps Engineer
+Senior DevOps Engineer
+Gaming Innovation Group
+San Ġiljan, Saint Julian's, Malta
+3 weeks ago
+Senior Site Reliability Engineer (AI-Native)
+Senior Site Reliability Engineer (AI-Native)
+Paradise Media
+San Ġiljan, Saint Julian's, Malta
+2 weeks ago
+Show more jobs like this 
+People also viewed
+Systems Engineer
+Systems Engineer
+
+EY
+
+Msida, Malta
+2 weeks ago
+Advanced System Engineer F/M
+Advanced System Engineer F/M
+
+Betclic Group
+
+Sliema, Sliema, Malta
+1 week ago
+Senior Security Engineer
+Senior Security Engineer
+
+The Mill Adventure
+
+Malta
+2 weeks ago
+Data Engineer
+Data Engineer
+
+Catena Media
+
+Gzira, Malta
+3 days ago
+AI Engineer
+AI Engineer
+
+Rhino Entertainment Group
+
+San Ġiljan, Saint Julian's, Malta
+2 days ago
+Senior Cloud & Platform Engineer (Azure, Databricks, Data Lake, ADLS)
+Senior Cloud & Platform Engineer (Azure, Databricks, Data Lake, ADLS)
+
+Acuity Analytics
+
+Birkirkara, Malta
+3 days ago
+Senior Python & Cloud Platform Engineer
+Senior Python & Cloud Platform Engineer
+
+Acuity Analytics
+
+Birkirkara, Malta
+3 days ago
+Platform Engineer
+Platform Engineer
+
+Platin Gaming Ltd.
+
+Malta
+1 month ago
+Platform Core DevOps Engineer - Infra
+Platform Core DevOps Engineer - Infra
+
+Betsson Group
+
+Valletta, Valletta, Malta
+4 days ago
+Platform Core DevOps Engineer - Infra
+Platform Core DevOps Engineer - Infra
+
+Betsson Group
+
+Ta' Xbiex, Ta' Xbiex, Malta
+1 day ago
+LinkedIn
+© 2026
+About
+Accessibility
+User Agreement
+Privacy Policy
+Cookie Policy
+Copyright Policy
+Brand Policy
+Guest Controls
+Community Guidelines
+Language
+
+LINKEDIN
+
+Know when new jobs open up
+
+Never miss a job alert with the new LinkedIn app for Windows.
+
+Get the app
