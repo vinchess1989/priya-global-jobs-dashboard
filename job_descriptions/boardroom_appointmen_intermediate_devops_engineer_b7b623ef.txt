@@ -1,0 +1,183 @@
+Title: Intermediate DevOps Engineer
+Company: Boardroom Appointments
+Location: Sandton, South Africa
+URL: https://www.pnet.co.za/jobs--Intermediate-DevOps-Engineer-Sandton-Boardroom-Appointments--4313504-inline.html
+Posted: 2026-11-27
+Deadline: N/A
+Reason: The role is a strong match for the candidate's DevOps and CI/CD expertise, is located in South Africa (a target country), and does not require US work authorization.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+Find a job
+Recruiters
+Sign in
+Never miss an opportunity. We’ll find jobs that fit
+Get Started
+Find Jobs
+Intermediate DevOps Engineer
+Boardroom Appointments
+Sandton
+Temporary
+Full Time
+Published: 1 day ago
+I'm interested
+Save
+Intermediate DevOps Engineer
+Boardroom Appointments
+I'm interested
+Reference: JHB005273-DH-1
+
+Location: Sandton – Grayston, Johannesburg
+Contract Duration: Minimum 6 months
+Working Hours: Monday to Friday, 08:00–17:00
+Work Arrangement: Primarily office-based, with the possibility of working from home a few days per week.
+Start Date: As soon as possible
+Duties & Responsibilities
+Job Purpose
+The Intermediate DevOps Engineer is responsible for building, maintaining and supporting automation, CI/CD pipelines and cloud infrastructure to enable product teams to deliver software quickly, safely and reliably. The role involves managing platform tasks, resolving operational issues and contributing to the quality, security, availability and cost efficiency of cloud environments.
+
+Key Responsibilities
+Build and maintain CI/CD pipelines for application and infrastructure code.
+Automate build, testing, security scanning and deployment processes, and troubleshoot pipeline failures.
+Implement and support release strategies, including blue-green deployments, canary releases and automated rollbacks.
+Provision and manage cloud infrastructure across AWS, Azure or Google Cloud using Terraform or equivalent tools.
+Manage configuration using Ansible, Puppet or Chef and maintain consistent, reproducible environments.
+Build and maintain Docker images and support Kubernetes clusters, including networking, scaling and upgrades.
+Create and maintain Helm charts or equivalent deployment manifests.
+Implement and maintain monitoring, logging, metrics, tracing and alerting across platforms and services.
+Participate in on-call support, resolve incidents and escalate major incidents where required.
+Contribute to post-incident reviews, backup testing, disaster recovery and capacity planning.
+Apply DevSecOps practices, including secrets management, vulnerability scanning, policy as code and access controls.
+Support audit, risk and regulatory requirements, including PCI DSS and POPIA where applicable.
+Monitor cloud expenditure and assist with resource optimisation, tagging and auto-scaling.
+Take ownership of assigned tasks and smaller projects within DevOps and cloud initiatives.
+Participate in peer reviews, support junior engineers and share technical knowledge.
+Collaborate with development, QA, operations and security teams to improve delivery processes.
+Maintain technical documentation, runbooks and standard operating procedures.
+Evaluate tools and recommend improvements to the DevOps and Cloud environment.
+Minimum Requirements
+Bachelor's degree in Computer Science, Information Technology, Engineering or a related field, or equivalent practical experience.
+Minimum of 3 years' experience in DevOps, cloud, site reliability or infrastructure engineering.
+Hands-on experience delivering CI/CD pipelines and cloud infrastructure in production environments.
+Experience working in Agile teams.
+Experience in fintech, payments or telecommunications will be advantageous.
+Technical Skills
+Good working knowledge of CI/CD tools such as GitHub Actions, GitLab CI, Azure DevOps or Jenkins.
+Hands-on experience with Docker and Kubernetes, including Helm and managed services such as EKS, AKS or GKE.
+Infrastructure as Code experience using Terraform or equivalent tools.
+Working experience with at least one major cloud platform: AWS, Azure or Google Cloud.
+Configuration management experience with Ansible, Puppet or Chef.
+Scripting experience in Python, Bash or PowerShell. Go will be advantageous.
+Knowledge of monitoring and observability tools such as Prometheus, Grafana, ELK or Datadog.
+Understanding of DevSecOps practices, including secrets management, vulnerability scanning and policy as code.
+Good Linux administration, networking and Git workflow knowledge.
+Strong written and verbal communication skills, with the ability to solve problems calmly under pressure.
+Professional Certifications
+At least one relevant certification, such as:
+
+AWS Certified SysOps Administrator or Developer – Associate.
+Microsoft Certified: Azure Administrator Associate (AZ-104).
+Google Associate Cloud Engineer.
+The following certifications will be advantageous:
+
+Microsoft Certified: Azure DevOps Engineer Expert.
+Certified Kubernetes Administrator (CKA).
+HashiCorp Terraform Associate.
+Key Competencies
+Analytical thinking and problem-solving.
+Assertiveness, confidence and adaptability.
+Accountability and a strong focus on quality.
+Teamwork and collaboration.
+Clear communication and relationship-building.
+Initiative and a willingness to learn.
+Planning, organisation and time management.
+Resilience and the ability to work under pressure.
+Customer focus and a good understanding of business needs.
+Automation, scripting and cloud platform administration.
+Incident management and technical documentation.
+Only candidates who meet the essential requirements will be considered.
+Package & Remuneration
+Monthly
+I'm interested
+Boardroom Appointments
+10 Jobs
+Company Profile
+These jobs were popular with other job seekers
+EDI Support Engineer (Seeburger BIS)
+Outsource SA Solutions (Pty) Ltd
+just now
+Application Security Architect
+FACT
+Sandton
+just now
+Senior DevOps Engineer
+Paracon - Gauteng
+Sandton
+just now
+Senior DevOps Engineer
+Kwanda Business Solution PTY (LTD)
+just now
+Mobile App Developer (React Native)
+IQbusiness
+Sandton
+just now
+DevOps Engineer
+Paton Personnel - Johannesburg
+Centurion
+just now
+Senior DevOps Engineer
+Paracon - Gauteng
+Sandton
+just now
+DevOps Engineer
+Network IT
+Johannesburg North
+just now
+LEAD ENGINEER - SANDTON - UP TO R1.3M PER ANNUM
+E-Merge IT Recruitment
+Sandton
+just now
+Intermediate DevOps Engineer
+Network IT
+Johannesburg North
+just now
+
+Get hired.
+Find success.
+
+Get started
+Pnet
+About us
+Privacy policy
+Disclaimer
+Terms and conditions
+PAIA
+Jobseekers
+Career advice
+Blog
+Recruiters
+Post job ads
+Contact us – recruiters
+Products and Services
+Download
+App Store
+Google Play
+Pnet © 2026
+We use cookies
+
+We transmit personal data to third-party providers who help us to improve our web services. In this context, we also create and enrich usage profiles (e.g., on the basis of cookie IDs), which may also be transferred outside the Republic of South Africa and outside the EU and EEA.
+
+For this and to be able to use certain services for the purposes listed below, we require your consent. By clicking "Accept all", you agree to these (revocable at any time). This also includes your consent to the transmission of certain personal data to third countries, including the USA*, in accordance with Section 72 (1) (b) POPIA. You can change your settings or refuse data processing under "Settings or reject". You can change your selection at any time under "Privacy Statement" at the bottom of the page.
+
+Storing and/or retrieving information on a device
+Cookies, device identifiers or other information may be stored on or retrieved from your device for the processing purposes shown to you.
+Personalised ads and content, ad and content measurement, audience insights and product development
+Ads and content can be personalised based on a profile. More data can be added to better personalise ads and content. The performance of ads and content can be measured. Insights about audiences who have viewed the ads and content can be extracted. Data can be used to build or improve user experience, systems and software.
+Display third-party content (social networks, videos)
+Content from social networks and embedded content from third-party providers can be displayed.
+Settings or reject
+Accept All
+You can also exercise your right to object to data processing based on legitimate interests under “Privacy Statement”.
+Privacy Statement

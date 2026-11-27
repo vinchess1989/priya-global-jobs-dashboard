@@ -1,0 +1,264 @@
+Title: Senior Software Engineer (Devops)
+Company: Akamai Technologies
+Location: Bengaluru, Karnataka, India
+URL: https://in.linkedin.com/jobs/view/senior-software-engineer-devops-at-akamai-technologies-4491135574
+Posted: 1 viikko sitten
+Deadline: N/A
+Reason: The role aligns perfectly with the candidate's extensive experience in DevOps, CI/CD, and infrastructure automation, and it is located in India, which is one of her target countries.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+LinkedIn kunnioittaa yksityisyyttäsi
+
+LinkedIn ja kolmannet osapuolet käyttävät välttämättömiä ja ei-välttämättömiä evästeitä palvelujemme tarjoamiseen, suojaamiseen, analysointiin ja parantamiseen sekä osuvien mainosten näyttämiseen sinulle (mukaan lukien ammattilais- ja työpaikkailmoitukset) LinkedInissä ja niiden ulkopuolella. Lisätietoja on evästekäytännössämme.
+
+Hyväksy ei-välttämättömien evästeiden käyttö valitsemalla Hyväksy tai estä niiden käyttö valitsemalla Hylkää. Voit päivittää valintasi milloin tahansa asetuksista.
+
+Hyväksy Hylkää
+Hyppää pääsisältöön
+LinkedIn
+Työt
+Poista teksti
+Poista teksti
+Kirjaudu sisään
+Liity nyt
+Senior Software Engineer (Devops)
+Akamai Technologies  Bengaluru, Karnataka, India
+1 viikko sitten   Yli 200 hakijaa
+  
+
+Katso, kuka Akamai Technologies on palkattu tähän rooliin
+
+Hae 
+Tallenna
+Job Description
+
+Senior DevOps Engineer
+
+Are you excited about solving technical issues? You feel a need to automate everything?
+
+Do you enjoy collaborating with developers, engineers, architects, impacting products touching life online for billions of users?
+
+Join our team!
+
+Our DevOps team consists of collaborative, inclusive, and creative individuals spread across the globe. We are dedicated to building and operating high-reliability, massive-scale, cloud-native services. Our team is at the forefront of developing a cloud-agnostic platform. engineered to operate seamlessly across multi-cloud environments, ensuring safety, performance and stability.
+
+Partner with the best
+
+You will build and operate infrastructure powering our security product line. Join a cross-functional team designing, developing, and maintaining cloud-native services for thousands of customers, delivering secure, scalable solutions across multi-cloud environments.
+
+As a Senior DevOps Engineer, you will be responsible for:
+
+
+Contributing to the design and implementation of highly available, scalable, and high-performance solutions
+Designing and developing DevOps tools to ensure seamless software delivery
+Creating and implementing procedures to automate operational tasks, moving towards a zero-touch operations model
+Developing processes and tools to monitor, analyze, maintain, and improve distributed systems
+Collaborating with security teams to integrate automated security checks (DevSecOps) into our delivery pipelines, ensuring compliance and vulnerability management.
+
+
+Do What You Love
+
+To be successful in this role you will:
+
+
+5+ years of relevant experience and a Bachelor's degree in Computer Science or its equivalent
+Have proven experience in building cloud-agnostic infrastructure and managing multi-cloud environments (e.g., AWS, GCP, Linode, ).
+Have hands-on experience building Infrastructure as Code (IaC) and managing cloud infrastructure using Terraform.
+Show hands-on experience in setting up and managing large-scale container environments using Docker and Kubernetes.
+Have proficiency in cloud security governance, zero-trust frameworks, and PoLP access models.
+Demonstrate proficiency in CI/CD (GitOps) and robust scripting skills in Linux Shell and Python.
+Have an understanding of distributed systems and Linux networking (including TCP/IP, SSH, SSL, HTTP).
+
+
+About Us
+
+At Akamai, we make life better for billions of people, trillions of times a day.
+
+Whether you're streaming live events, scrolling social media, watching your favorite series, or managing your savings, we're the engine behind the scenes. We provide the world's most distributed platform from Cloud to Edge to help the giants of the digital world work faster and stay more secure, making the internet a better experience for everyone.
+
+Our Focus Is Simple
+
+Cloud and Edge: Running apps closer to users for instant performance.
+
+Security: Neutralizing threats before they ever reach your data.
+
+Content Delivery: Scaling the world's biggest moments without a glitch.
+
+AI: Enabling our customers to build, secure, and scale AI apps on the world's most distributed cloud platform.
+
+At Akamai, we don't just support the internet; we power and protect it, because behind every great digital experience is a massive hidden challenge. And we're the ones who solve it. When millions of people hit play or pay, Akamai ensures it just works.
+
+Benefits at Akamai: We support your health, well-being, finances, and life beyond work. See our benefits.
+
+FlexBase adapts to your job's needs
+
+Akamai's FlexBase program is yet another way we show our commitment to providing employees with an exceptional workplace experience. It's not about telling employees where to work; it's about supporting employees to do their best work.
+
+We trust our incredible employees to work in ways that suit them best: at home, in an office, or a combination of both.
+
+Connect with us on social and see what life at Akamai is like!
+Show more 
+Seniority level
+Keskijohto
+Työn tyyppi
+Kokopäiväinen
+Industries
+Tekniikka, IT ja internet
+  
+
+Lähetteet lisäävät mahdollisuuksiasi haastatteluun Akamai Technologies 2x
+
+Katso, kenet tunnet
+
+Saat ilmoituksen uusista Vanhempi ohjelmistosuunnittelija työpaikoista .Bengaluru, Karnataka, India
+
+Kirjaudu sisään luodaksesi työpaikkahälytyksen
+Työpaikat
+johtava ohjelmistosuunnittelija Työpaikkoja
+Senior Software Engineer (Devops)
+Samankaltaiset työpaikat
+Senior Backend & Infrastructure Engineer
+Senior Backend & Infrastructure Engineer
+Scispot
+India
+100 000,00 $ - 175 000,00 $
+5 kuukautta sitten
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+Canonical
+Bengaluru, Karnataka, India
+2 viikkoa sitten
+Senior DevOps Engineer, Backend
+Senior DevOps Engineer, Backend
+Snapfix
+India
+2 kuukautta sitten
+Senior Cloud Infrastructure Engineer
+Senior Cloud Infrastructure Engineer
+Tala
+Bangalore Urban district, India
+2 päivää sitten
+Senior DevOps and Infrastructure Engineer
+Senior DevOps and Infrastructure Engineer
+NVIDIA
+India
+3 päivää sitten
+Senior Site Reliability Engineer
+Senior Site Reliability Engineer
+GoGuardian
+Bengaluru, Karnataka, India
+1 kuukausi sitten
+Show more jobs like this 
+Muita katsottuja
+AI-Native Platform Engineer - DevOps, Security & Compliance | Zenara Health
+AI-Native Platform Engineer - DevOps, Security & Compliance | Zenara Health
+
+Zenara Health
+
+India
+1 kuukausi sitten
+Platform Engineer I
+Platform Engineer I
+
+Precisely
+
+India
+3 päivää sitten
+Senior Software Engineer
+Senior Software Engineer
+
+Atlassian
+
+India
+5 päivää sitten
+Advanced Software Engr
+Advanced Software Engr
+
+Honeywell Technologies
+
+India
+1 viikko sitten
+Sr. Site Reliability Engineer, Engineering Stack Support
+Sr. Site Reliability Engineer, Engineering Stack Support
+
+Netskope
+
+Bengaluru, Karnataka, India
+1 viikko sitten
+Senior DevSecOps Engineer (Remote, Full-Time) [AS355]
+Senior DevSecOps Engineer (Remote, Full-Time) [AS355]
+
+Smart Working
+
+Bengaluru, Karnataka, India
+1 viikko sitten
+Senior DevOps Engineer
+Senior DevOps Engineer
+
+Srotas Health
+
+India
+4 päivää sitten
+Senior Site Reliability Engineer (Remote, India) EST
+Senior Site Reliability Engineer (Remote, India) EST
+
+Level AI
+
+India
+2 kuukautta sitten
+Staff Site Reliability Engineer, Environment Automation
+Staff Site Reliability Engineer, Environment Automation
+
+GitLab
+
+Bengaluru, Karnataka, India
+1 viikko sitten
+Sr Advanced Software Engr
+Sr Advanced Software Engr
+
+Honeywell Technologies
+
+India
+1 viikko sitten
+Samankaltaisia hakuja
+johtava ohjelmistosuunnittelija Työpaikkoja
+12 675 avointa työpaikkaa
+Ohjelmiston laatuinsinööri Työpaikkoja
+3 188 avointa työpaikkaa
+Vanhempi ohjelmistosuunnittelija Työpaikkoja
+18 207 avointa työpaikkaa
+Pääohjelmistoinsinööri Työpaikkoja
+14 294 avointa työpaikkaa
+Java-ohjelmistosuunnittelija Työpaikkoja
+11 988 avointa työpaikkaa
+Java-sovelluskehittäjä Työpaikkoja
+7 582 avointa työpaikkaa
+Insinööri Työpaikkoja
+71 158 avointa työpaikkaa
+Full Stack -kehittäjä Työpaikkoja
+4 505 avointa työpaikkaa
+Koneoppimissuunnittelija Työpaikkoja
+23 895 avointa työpaikkaa
+Kehittäjä Työpaikkoja
+73 513 avointa työpaikkaa
+Ohjelmistosuunnittelutiimin johto Työpaikkoja
+56 362 avointa työpaikkaa
+vanhempi dotnet-kehittäjä Työpaikkoja
+11 806 avointa työpaikkaa
+Näytä lisää 
+Lisää hakuja 
+LinkedIn
+© 2026
+Tietoja
+Saavutettavuus
+Käyttäjäsopimus
+Tietosuojakäytäntö
+Evästekäytännöt
+Tekijänoikeuskäytännöt
+Brändikäytäntö
+Vieraiden hallinta
+Yhteisön ohjeet
+Kieli
