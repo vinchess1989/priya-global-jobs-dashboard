@@ -1,9 +1,9 @@
 {
   "pid": 40120,
   "started_at": "2026-11-28T01:13:02+02:00",
-  "heartbeat_at": "2026-11-28T02:12:24+02:00",
+  "heartbeat_at": "2026-11-28T02:15:17+02:00",
   "phase": "reviewing",
-  "detail": "Senior Business Analyst \u2013 Malta",
-  "last_scrape_ok_at": "2026-11-28T02:10:56+02:00",
+  "detail": "Business Analyst",
+  "last_scrape_ok_at": "2026-11-28T02:13:56+02:00",
   "last_error": null
 }
