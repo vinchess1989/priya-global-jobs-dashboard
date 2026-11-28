@@ -1,0 +1,299 @@
+Title: DevOps Engineer - Enterprise AI
+Company: Ricoh
+Location: London, UK
+URL: https://www.cv-library.co.uk/job/225879419/devops-engineer-enterprise-ai
+Posted: 2026-11-26
+Deadline: Open until filled
+Reason: The role aligns perfectly with the candidate's extensive background in DevOps, CI/CD, and release management, and it is located in the UK, which is a target country.
+
+========================================
+JOB DESCRIPTION:
+========================================
+
+ 
+ 
+Skip to main content
+Search Jobs
+Job Alerts
+Career Advice
+Employer A-Z
+Search Jobs
+Job Alerts
+Career Advice
+Employer A-Z
+Login
+Register
+Recruiting?
+Keywords
+Location
+1 mile
+2 miles
+5 miles
+7 miles
+10 miles
+15 miles
+20 miles
+25 miles
+35 miles
+50 miles
+75 miles
+100 miles
+250 miles
+500 miles
+750 miles
+Find Jobs
+Search Jobs
+>
+IT
+>
+DevOps Engineer Jobs
+DevOps Engineer - Enterprise AI
+
+Posted 2 days ago by Ricoh
+
+London
+Permanent
+Apply Now
+About Ricoh
+
+A global leader in digital services, recognised for innovation, sustainability and a people-first culture. We feature in the Gartner Magic Quadrant, are listed in the Global 100 Most Sustainable Companies, and have been named one of Forbes' World's Best Employers 2025.
+
+At Ricoh, we believe people do their best work when they feel valued and supported. We create inclusive workplaces where you can grow, contribute, and make a positive impact while helping to build a more sustainable future.
+
+Find your place. Transform your future
+
+Our purpose is centred on understanding and improving how people work. By focusing on real working experiences, we support individuals to develop their skills, realise their potential and do work that feels meaningful.
+
+People transform when they Love What They Do
+
+This belief sits at the heart of The Ricoh Promise. It guides how we recruit, how we support our people, and how we work together every day, creating an environment where you can grow, feel valued and make a difference.
+
+When you join us, you are encouraged to share your ideas, challenge the way things are done, and work with others to build something better. If you are looking for a place where your voice is heard, your development is supported, and your work feels meaningful, you will feel at home at Ricoh.
+
+#RicohEurope
+
+Are you a DevOps or Cloud Engineer looking to take your experience into the rapidly evolving world of Enterprise AI?
+
+We're looking for a DevOps Engineer - Enterprise AI to help build, configure and operate the platforms and services that enable AI solutions to move from evaluation into secure, scalable and reliable production use.
+
+Working as part of our Enterprise AI team, you'll sit at the intersection of DevOps, cloud engineering, AI and MLOps, helping us create the technical foundations that allow AI solutions to be deployed effectively across the organisation.
+
+This is a great opportunity for someone with a strong DevOps, cloud, platform or service operations background who wants to develop their expertise within AI and help shape how enterprise AI services are delivered.
+
+What you will be doing
+
+As our DevOps Engineer for Enterprise AI, you'll work closely with AI specialists, data scientists, software engineers, architects, cyber security teams and technology partners to configure, integrate and operate our AI platforms and services.
+
+You'll help establish reusable environments, integrations and deployment processes while ensuring our AI services remain secure, resilient, observable and cost-effective.
+
+The role covers both managed and off-the-shelf AI capabilities across cloud and hybrid environments, giving you the opportunity to work with a broad range of technologies while developing expertise in AI platforms, MLOps and responsible AI delivery.
+
+What you will be doing
+
+Configuring and maintaining secure, scalable environments and services for AI workloads.
+Building repeatable deployment processes for applications, AI services, models, prompts and configuration.
+Supporting the integration of cloud, AI and automation services with enterprise systems.
+Applying DevOps and MLOps principles across testing, release management and controlled deployment.
+Using automation and scripting to improve deployment, integration and operational processes.
+Monitoring service performance, availability, reliability, quality, usage and cost.
+Implementing appropriate identity, access, secrets management and security controls.
+Supporting incident resolution, troubleshooting and root-cause analysis.
+Helping establish monitoring, alerting, backup, recovery and service operating procedures.
+Optimising cloud consumption, platform subscriptions, licensing and capacity.
+Creating reusable templates, documentation and self-service capabilities for technical teams.
+Working with security, privacy, risk and compliance colleagues to support responsible and governed use of AI.
+Collaborating with technology providers and delivery partners to continuously improve our platforms and services.
+
+
+You will ideally have
+
+We're looking for someone who brings a strong foundation in DevOps, cloud engineering, platform administration, automation, service operations or MLOps, with an interest in applying those skills to Enterprise AI.
+
+Ideally, you'll have:
+
+Good knowledge of DevOps principles including source control, testing, release management and deployment processes.
+Hands-on experience configuring or administering a major cloud or AI platform.
+Experience working with cloud services including identity, networking, storage, access and managed services.
+Experience configuring managed or packaged technology services and integrating them with enterprise systems.
+Knowledge of CI/CD, configuration management and controlled promotion between environments.
+Scripting or automation experience using Python, shell or equivalent technologies.
+An understanding of APIs, secrets management, vulnerability management and secure configuration.
+Experience monitoring production services using logs, metrics and operational data.
+Strong troubleshooting and root-cause analysis skills.
+Experience working within multidisciplinary agile, product or engineering teams.
+Strong communication skills with the ability to explain technical issues, risks and recommendations clearly.
+
+Experience with containers, infrastructure as code, MLOps, generative AI services or AI platforms would be particularly beneficial, alongside an understanding of data protection, responsible AI and model governance.
+
+A relevant degree or equivalent practical experience is welcomed, while cloud, DevOps, security, service management or platform certifications would be advantageous.
+
+In return for your commitment, you can expect
+
+At Ricoh, work should feel meaningful, supportive and fulfilling. The Ricoh Promise shapes your experience through four pillars that bring our culture to life.
+
+Love to Connect
+
+You become part of a global community built on openness, inclusion and genuine collaboration.
+Across teams, countries and roles, you'll find people who listen, involve and encourage you - helping you feel valued and able to be yourself every day.
+
+Love to Grow
+
+Your development truly matters to us. With access to learning pathways, mentoring and career opportunities across functions and countries, you'll be supported to stretch your skills, explore new directions and stay future-ready in a changing world.
+
+Love to Give Back
+
+Purpose is part of how we work. You'll have opportunities to make a difference through volunteering, sustainability initiatives and community programmes that reflect our shared values and commitment to positive impact.
+
+Love to Succeed
+
+Success at Ricoh is something we pursue together. You'll benefit from fair rewards, flexible working, wellbeing resources and real recognition - including programmes such as the Imagine. Change. Awards, where colleagues celebrate each other's achievements.
+
+We are an equal opportunities employer
+
+We believe that diverse perspectives make us stronger, and we welcome applications from people of all backgrounds, identities, and experiences. Our hiring decisions are based on skills, experience and potential, and we are committed to creating a fair and inclusive recruitment process. If you require any reasonable adjustments at any stage of the recruitment journey, please let us know and we will support you to bring your best self forward.
+
+Ready to love what you do? Apply now and help us shape what comes next.
+Apply Now
+Company: Ricoh
+Job Type: Permanent
+Contact name: Login or Register to view
+Telephone: Login or Register to view
+Contract Length: N/A
+Job Reference: RE02859
+Job ID: 225879419
+
+Remember: You should never send money to a prospective employer or disclose any financial information. Should you encounter any job listings requesting payments or financial details, please reach out to us immediately. For further guidance, visit jobsaware.co.uk.
+
+Related Sectors
+Engineering
+|
+Construction
+|
+IT
+|
+Manufacturing
+|
+Automotive
+|
+Science
+|
+Aviation
+|
+Energy
+|
+Oil & Gas
+|
+Agriculture
+|
+Part Time
+|
+Cleaning
+|
+Marketing
+|
+Retail
+|
+Civil Service
+Related by job title
+Data Engineer Jobs
+|
+Senior Infrastructure Engineer Jobs
+|
+Ai Architect Jobs
+|
+Ai Delivery Architect Jobs
+|
+Ai Engineer Jobs
+|
+Data Architect Jobs
+|
+Data Centre Solutions Engineer Jobs
+|
+Databricks Architect Jobs
+|
+Salesforce Developer (dev Ops) Jobs
+|
+Senior Ai Engineer Jobs
+Similar Jobs
+DevOps Consultants (Con/Senior/Managing) - Cloud, AI
+
+Posted 18th Nov by Akkodis
+
+City of London, London
+£55,000 - £95,000 per annum
+Permanent
+Easy Apply
+Software Engineer (On-Prem DevOps Engineer) - Portsmouth
+
+Posted 5 days ago by Matchtech
+
+Farnborough, Hampshire
+£62,500 per annum
+Permanent
+Easy Apply
+Devops Engineer
+
+Posted 4 days ago by MJA (London) Ltd
+
+EC3, Broad Street, Greater London
+Permanent
+Easy Apply
+Devops Infrastructure Engineer
+
+Posted 3 days ago by Mentmore Recruitment
+
+London
+£90,000 - £95,000 per annum
+Permanent
+Easy Apply
+Network DevOps Engineer
+
+Posted 9th Nov by Matchtech
+
+Hertfordshire
+Permanent
+Easy Apply
+Jobseekers
+Register
+Login
+Home
+Jobseeker Tools
+Search Jobs
+Career Advice
+Employer A-Z
+Recruiters
+Recruiting?
+Recruiter Login
+Advertise Jobs
+Search CVs
+Recruiter Blog
+About CV-Library
+About Us
+Contact Us
+Work for Us
+Meet the Team
+Help
+Support links
+Terms & Conditions
+Privacy
+Cookies
+Site Map
+Partners
+
+© Copyright 2000 - 2026 CV-Library Ltd. 
+All rights reserved
+
+Download the CV-Library app for iOS
+Download the CV-Library app for Android
+Social media links
+Like our Facebook page
+Follow us on Twitter
+Follow us on LinkedIn
+Follow us on Instagram
+Join us on Youtube
+Follow us on TikTok
+Accept all to see more relevant jobs
+We use cookies to enhance your experience, analyse site performance, and deliver you more relevant jobs.
+Essential Cookies Only
+Cookie Settings
+Accept All
